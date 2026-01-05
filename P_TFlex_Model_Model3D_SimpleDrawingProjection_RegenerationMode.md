@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# SimpleDrawingProjectionRegenerationMode - свойство  
+  
+---  
+  
+Режим регенерации проекции
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public RegenerationMode RegenerationMode { get; set; }
+```
+```vb
+Public Property RegenerationMode As RegenerationMode
+	Get
+	Set
+```
+```cpp
+public:
+property RegenerationMode RegenerationMode {
+	RegenerationMode get ();
+	void set (RegenerationMode value);
+}
+```
+
+
+#### Значение свойства
+
+[RegenerationMode](T_TFlex_Model_Model3D_RegenerationMode.md)
+
+#### Ссылки
+
+[SimpleDrawingProjection - ](T_TFlex_Model_Model3D_SimpleDrawingProjection.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

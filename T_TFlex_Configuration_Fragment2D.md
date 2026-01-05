@@ -1,0 +1,69 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# Fragment2D - класс  
+  
+---  
+  
+[SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ConfigurationSettingsGroup](T_TFlex_Configuration_SettingsGroup.md) TFlex.ConfigurationFragment2D
+
+**Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public class Fragment2D : SettingsGroup
+```
+```vb
+Public Class Fragment2D
+	Inherits SettingsGroup
+```
+```cpp
+public ref class Fragment2D : public SettingsGroup
+```
+
+
+Тип Fragment2D предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Fragment2D](M_TFlex_Configuration_Fragment2D__ctor.md) | Инициализирует новый экземпляр класса Fragment2D |
+|  | [Fragment2D(IntPtr, Boolean)](M_TFlex_Configuration_Fragment2D__ctor_1.md) | Инициализирует новый экземпляр класса Fragment2D |
+  
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [AreModelEditorControlsBlocked](P_TFlex_Configuration_Fragment2D_AreModelEditorControlsBlocked.md) |  |
+|  | [CreateReferenceDimensions](P_TFlex_Configuration_Fragment2D_CreateReferenceDimensions.md) |  |
+|  | [DisableEditInPlace](P_TFlex_Configuration_Fragment2D_DisableEditInPlace.md) |  |
+|  | [EnableDraggers](P_TFlex_Configuration_Fragment2D_EnableDraggers.md) |  |
+|  | [Explode2DFragment](P_TFlex_Configuration_Fragment2D_Explode2DFragment.md) |  |
+|  | [FixingVector](P_TFlex_Configuration_Fragment2D_FixingVector.md) |  |
+|  | [FragmentInsertPriority](P_TFlex_Configuration_Fragment2D_FragmentInsertPriority.md) |  |
+|  | [GroupOnExplode](P_TFlex_Configuration_Fragment2D_GroupOnExplode.md) |  |
+|  | [InsertFragmentToLayer](P_TFlex_Configuration_Fragment2D_InsertFragmentToLayer.md) |  |
+|  | [NeverIncludeInPS](P_TFlex_Configuration_Fragment2D_NeverIncludeInPS.md) |  |
+|  | [PutFragmentToPriority](P_TFlex_Configuration_Fragment2D_PutFragmentToPriority.md) |  |
+|  | [UseStatus](P_TFlex_Configuration_Fragment2D_UseStatus.md) |  |
+  
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Assign](M_TFlex_Configuration_Fragment2D_Assign.md) |  |
+|  | [AssignBaseOptions](M_TFlex_Configuration_Fragment2D_AssignBaseOptions.md) | (Переопределяет [SettingsGroupAssignBaseOptions(SettingsGroup)](M_TFlex_Configuration_SettingsGroup_AssignBaseOptions.md)) |
+|  | [ClearAllVariables](M_TFlex_Configuration_SettingsGroup_ClearAllVariables.md) | (Унаследован от [SettingsGroup](T_TFlex_Configuration_SettingsGroup.md)) |
+|  | [Copy](M_TFlex_Configuration_Fragment2D_Copy.md) | (Переопределяет [SettingsGroupCopy](M_TFlex_Configuration_SettingsGroup_Copy.md)) |
+|  | [Deserialize](M_TFlex_Configuration_SettingsGroup_Deserialize.md) | (Унаследован от [SettingsGroup](T_TFlex_Configuration_SettingsGroup.md)) |
+|  | [Dispose](M_TFlex_Configuration_SettingsGroup_Dispose.md) | (Унаследован от [SettingsGroup](T_TFlex_Configuration_SettingsGroup.md)) |
+|  | [Dispose(Boolean)](M_TFlex_Configuration_SettingsGroup_Dispose_1.md) | (Унаследован от [SettingsGroup](T_TFlex_Configuration_SettingsGroup.md)) |
+|  | [Equals](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals\(system-object\)) | Determines whether the specified object is equal to the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [Finalize](M_TFlex_Configuration_SettingsGroup_Finalize.md) | (Унаследован от [SettingsGroup](T_TFlex_Configuration_SettingsGroup.md)) |
+|  | [GetFixingVector](M_TFlex_Configuration_Fragment2D_GetFixingVector.md) |  |
+|  | [GetHashCode](https://learn.microsoft.com/dotnet/api/system.object.gethashcode) | Serves as the default hash function. (Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetType](https://learn.microsoft.com/dotnet/api/system.object.gettype) | Gets the [Type](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [IsEqual](M_TFlex_Configuration_SettingsGroup_IsEqual.md) | (Унаследован от [SettingsGroup](T_TFlex_Configuration_SettingsGroup.md)) |
+|  | [MemberwiseClone](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone) | Creates a shallow copy of the current [Object](https://learn.microsoft.com/dotnet/api/system.object).(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [Serialize](M_TFlex_Configuration_SettingsGroup_Serialize.md) | (Унаследован от [SettingsGroup](T_TFlex_Configuration_SettingsGroup.md)) |
+|  | [SetFixingVector](M_TFlex_Configuration_Fragment2D_SetFixingVector.md) |  |
+|  | [ToString](https://learn.microsoft.com/dotnet/api/system.object.tostring) | Returns a string that represents the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+  
+#### Ссылки
+
+[TFlex.Configuration - пространство имён](N_TFlex_Configuration.md)

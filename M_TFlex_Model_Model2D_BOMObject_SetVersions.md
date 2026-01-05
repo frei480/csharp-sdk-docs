@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# BOMObjectSetVersions - метод  
+  
+---  
+  
+Установить исполнения
+
+**Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public void SetVersions(
+	BOMObjectVersion[] versions
+)
+```
+```vb
+Public Sub SetVersions ( 
+	versions As BOMObjectVersion()
+)
+```
+```cpp
+public:
+void SetVersions(
+	array<BOMObjectVersion>^ versions
+)
+```
+
+
+#### Параметры
+
+versions [BOMObjectVersion](T_TFlex_Model_Model2D_BOMObject_Version.md)
+    Массив исполнений
+
+#### Ссылки
+
+[BOMObject - ](T_TFlex_Model_Model2D_BOMObject.md)
+
+[TFlex.Model.Model2D - пространство имён](N_TFlex_Model_Model2D.md)

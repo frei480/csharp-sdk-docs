@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ReferencesDriverFragment3D - конструктор  
+  
+---  
+  
+Инициализирует новый экземпляр класса [ReferencesDriverFragment3D](T_TFlex_Model_Model3D_ReferencesDriverFragment3D.md)
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public ReferencesDriverFragment3D(
+	Fragment3D Owner
+)
+```
+```vb
+Public Sub New ( 
+	Owner As Fragment3D
+)
+```
+```cpp
+public:
+ReferencesDriverFragment3D(
+	Fragment3D^ Owner
+)
+```
+
+
+#### Параметры
+
+Owner [Fragment3D](T_TFlex_Model_Model3D_Fragment3D.md)
+    
+
+#### Ссылки
+
+[ReferencesDriverFragment3D - ](T_TFlex_Model_Model3D_ReferencesDriverFragment3D.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

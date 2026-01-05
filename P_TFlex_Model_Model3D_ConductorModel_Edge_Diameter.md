@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# EdgeDiameter - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.ConductorModel](N_TFlex_Model_Model3D_ConductorModel.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public double Diameter { get; }
+```
+```vb
+Public ReadOnly Property Diameter As Double
+	Get
+```
+```cpp
+public:
+property double Diameter {
+	double get ();
+}
+```
+
+
+#### Значение свойства
+
+[Double](https://learn.microsoft.com/dotnet/api/system.double)
+
+#### Ссылки
+
+[Edge - ](T_TFlex_Model_Model3D_ConductorModel_Edge.md)
+
+[TFlex.Model.Model3D.ConductorModel - пространство имён](N_TFlex_Model_Model3D_ConductorModel.md)

@@ -1,0 +1,52 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LinkBaseRebaseDesignation - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model.Circuits](N_TFlex_Model_Circuits.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public abstract void RebaseDesignation(
+	FixingVector originPoint,
+	FixingVector destinationPoint,
+	DesignationType type,
+	HashSet<IntPtr> replacedRefs
+)
+```
+```vb
+Public MustOverride Sub RebaseDesignation ( 
+	originPoint As FixingVector,
+	destinationPoint As FixingVector,
+	type As DesignationType,
+	replacedRefs As HashSet(Of IntPtr)
+)
+```
+```cpp
+public:
+virtual void RebaseDesignation(
+	FixingVector^ originPoint, 
+	FixingVector^ destinationPoint, 
+	DesignationType type, 
+	HashSet<IntPtr>^ replacedRefs
+) abstract
+```
+
+
+#### Параметры
+
+originPoint [FixingVector](T_TFlex_Model_Model2D_FixingVector.md)
+    
+destinationPoint [FixingVector](T_TFlex_Model_Model2D_FixingVector.md)
+    
+type [DesignationType](T_TFlex_Model_Circuits_DesignationType.md)
+    
+replacedRefs [HashSet](https://learn.microsoft.com/dotnet/api/system.collections.generic.hashset-1)[IntPtr](https://learn.microsoft.com/dotnet/api/system.intptr)
+    
+
+#### Ссылки
+
+[LinkBase - ](T_TFlex_Model_Circuits_LinkBase.md)
+
+[TFlex.Model.Circuits - пространство имён](N_TFlex_Model_Circuits.md)

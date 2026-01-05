@@ -1,0 +1,93 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# Control - свойства  
+  
+---  
+  
+Тип [Control](T_TFlex_Control.md) предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [AccessibleDescription](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.accessibledescription) | Gets or sets the description of the control used by accessibility client applications.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [AccessibleName](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.accessiblename) | Gets or sets the name of the control used by accessibility client applications.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [AccessibleRole](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.accessiblerole) | Gets or sets the accessible role of the control (Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [AllowDrop](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.allowdrop) | Gets or sets a value indicating whether the control can accept data that the user drags onto it.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [Anchor](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.anchor) | Gets or sets the edges of the container to which a control is bound and determines how a control is resized with its parent. (Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [AutoSelectViewType](P_TFlex_Control_AutoSelectViewType.md) | Выбирать тип вида (2D/3D) по умолчанию |
+|  | [AutoZoom](P_TFlex_Control_AutoZoom.md) | Режим автоматического масштабирования |
+|  | [BackColor](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.backcolor) | Gets or sets the background color for the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [BackgroundImage](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.backgroundimage) | Gets or sets the background image displayed in the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [BackgroundImageLayout](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.backgroundimagelayout) | Gets or sets the background image layout as defined in the [ImageLayout](https://learn.microsoft.com/dotnet/api/system.windows.forms.imagelayout) enumeration.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [Border](P_TFlex_Control_Border.md) | Рамка |
+|  | [CanEnableIme](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.canenableime) | Gets a value indicating whether the [ImeMode](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.imemode) property can be set to an active value, to enable IME support.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [CanRaiseEvents](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.canraiseevents) | Determines if events can be raised on the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [CausesValidation](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.causesvalidation) | Gets or sets a value indicating whether the control causes validation to be performed on any controls that require validation when it receives focus.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [ContextMenuStrip](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.contextmenustrip) | Gets or sets the [ContextMenuStrip](https://learn.microsoft.com/dotnet/api/system.windows.forms.contextmenustrip) associated with this control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [CreateParams](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.createparams) | Gets the required creation parameters when the control handle is created.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [Cursor](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.cursor) | Gets or sets the cursor that is displayed when the mouse pointer is over the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [DataBindings](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.databindings) | Gets the data bindings for the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [DefaultCursor](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.defaultcursor) | Gets or sets the default cursor for the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [DefaultImeMode](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.defaultimemode) | Gets the default Input Method Editor (IME) mode supported by the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [DefaultMargin](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.defaultmargin) | Gets the space, in pixels, that is specified by default between controls.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [DefaultMaximumSize](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.defaultmaximumsize) | Gets the length and height, in pixels, that is specified as the default maximum size of a control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [DefaultMinimumSize](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.defaultminimumsize) | Gets the length and height, in pixels, that is specified as the default minimum size of a control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [DefaultPadding](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.defaultpadding) | Gets the internal spacing, in pixels, of the contents of a control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [DefaultSize](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.defaultsize) | Gets the default size of the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [DefaultWindowsBackground](P_TFlex_Control_DefaultWindowsBackground.md) | Использовать цвет фона Windows по умолчанию |
+|  | [Dock](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.dock) | Gets or sets which control borders are docked to its parent control and determines how a control is resized with its parent.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [Document](P_TFlex_Control_Document.md) | Текущий документ |
+|  | [DoubleBuffered](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.doublebuffered) | Gets or sets a value indicating whether this control should redraw its surface using a secondary buffer to reduce or prevent flicker.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [DrawAnnotations](P_TFlex_Control_DrawAnnotations.md) | Выводить аннотации |
+|  | [DrawPaperBorder](P_TFlex_Control_DrawPaperBorder.md) | Рисовать рамку страницы |
+|  | [Enabled](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.enabled) | Gets or sets a value indicating whether the control can respond to user interaction.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [EnableFragmentEditing](P_TFlex_Control_EnableFragmentEditing.md) | Разрешить редактирование фрагментов |
+|  | [EnablePrintButton](P_TFlex_Control_EnablePrintButton.md) | Параметр "Разрешить печатать" |
+|  | [Events](https://learn.microsoft.com/dotnet/api/system.componentmodel.component.events) | Gets the list of event handlers that are attached to this [Component](https://learn.microsoft.com/dotnet/api/system.componentmodel.component).(Унаследован от [Component](https://learn.microsoft.com/dotnet/api/system.componentmodel.component)) |
+|  | [ExplodeMode](P_TFlex_Control_ExplodeMode.md) | Параметр "Режим разборки (3D)" |
+|  | [Font](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.font) | Gets or sets the font of the text displayed by the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [FontHeight](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.fontheight) | Gets or sets the height of the font of the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [ForeColor](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.forecolor) | Gets or sets the foreground color of the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [GlobalLcsVisible](P_TFlex_Control_GlobalLcsVisible.md) | Показать или скрыть глобальную систему координат |
+|  | [Graphics](P_TFlex_Control_Graphics.md) | Получение текущего графического контекста (только 2D) |
+|  | [Hide3DAnnotations](P_TFlex_Control_Hide3DAnnotations.md) | Параметр "Скрыть элементы оформления" |
+|  | [HideConstructions](P_TFlex_Control_HideConstructions.md) | Параметр "Скрыть линии построения" |
+|  | [Image](P_TFlex_Control_Image.md) | Параметр "изображение" |
+|  | [ImeMode](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.imemode) | Gets or sets the Input Method Editor (IME) mode of the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [ImeModeBase](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.imemodebase) | Gets or sets the IME mode of a control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [Location](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.location) | Gets or sets the coordinates of the upper-left corner of the control relative to the upper-left corner of its container.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [Margin](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.margin) | Gets or sets the space between controls.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [MaximumSize](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.maximumsize) | Gets or sets the size that is the upper limit that [GetPreferredSize(Size)](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.getpreferredsize) can specify.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [MinimumSize](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.minimumsize) | Gets or sets the size that is the lower limit that [GetPreferredSize(Size)](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.getpreferredsize) can specify.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [Padding](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.padding) | Gets or sets padding within the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [Page](P_TFlex_Control_Page.md) | Текущая страница |
+|  | [ProductName](P_TFlex_Control_ProductName.md) | Название визуального элемента управления |
+|  | [ProductVersion](P_TFlex_Control_ProductVersion.md) | Версия визульного элемента управления |
+|  | [RenderRightToLeft](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.renderrighttoleft) | **Устарело.** This property is now obsolete.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [ResizeRedraw](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.resizeredraw) | Gets or sets a value indicating whether the control redraws itself when resized.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [RightToLeft](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.righttoleft) | Gets or sets a value indicating whether control's elements are aligned to support locales using right-to-left fonts.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [ScaleChildren](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.scalechildren) | Gets a value that determines the scaling of child controls. (Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [ShowAllPages](P_TFlex_Control_ShowAllPages.md) | Параметр "Показывать все страницы" |
+|  | [ShowControlButtons](P_TFlex_Control_ShowControlButtons.md) | Параметр "Показывать кнопки управления видом" |
+|  | [ShowPageTabs](P_TFlex_Control_ShowPageTabs.md) | Параметр "Показывать закладки страниц" |
+|  | [ShowVariablesButton](P_TFlex_Control_ShowVariablesButton.md) | Показать кнопку "Переменные" |
+|  | [ShowView3D](P_TFlex_Control_ShowView3D.md) | Параметр "Показывать 3D вид" |
+|  | [Site](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.site) | Gets or sets the site of the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [Size](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.size) | Gets or sets the height and width of the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [TabAlignment](P_TFlex_Control_TabAlignment.md) | Параметр "Показывать закладки страниц снизу" |
+|  | [TabIndex](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.tabindex) | Gets or sets the tab order of the control within its container.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [TabStop](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.tabstop) | Gets or sets a value indicating whether the user can give the focus to this control using the TAB key.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [Tag](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.tag) | Gets or sets the object that contains data about the control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [Text](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.text) | Gets or sets the text associated with this control.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [UseWaitCursor](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.usewaitcursor) | Gets or sets a value indicating whether to use the wait cursor for the current control and all child controls.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [ViewStyle](P_TFlex_Control_ViewStyle.md) | Параметр "Стиль отображения (3D)" |
+|  | [ViewType](P_TFlex_Control_ViewType.md) | Получить тип текущего вида: false - 2D, true - 3D |
+|  | [Visible](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.visible) | Gets or sets a value indicating whether the control and all its child controls are displayed.(Унаследован от [Control](https://learn.microsoft.com/dotnet/api/system.windows.forms.control)) |
+|  | [ZoomRectangle](P_TFlex_Control_ZoomRectangle.md) | Прямоугольник, который отображается в данном виде (только для 2D) |
+  
+#### Ссылки
+
+[Control - ](T_TFlex_Control.md)
+
+[TFlex - пространство имён](N_TFlex.md)

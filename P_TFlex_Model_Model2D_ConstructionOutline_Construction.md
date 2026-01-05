@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ConstructionOutlineConstruction - свойство  
+  
+---  
+  
+Линия построения, по которой проходит линия изображения
+
+**Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public Construction Construction { get; set; }
+```
+```vb
+Public Property Construction As Construction
+	Get
+	Set
+```
+```cpp
+public:
+property Construction^ Construction {
+	Construction^ get ();
+	void set (Construction^ value);
+}
+```
+
+
+#### Значение свойства
+
+[Construction](T_TFlex_Model_Model2D_Construction.md)
+
+#### Ссылки
+
+[ConstructionOutline - ](T_TFlex_Model_Model2D_ConstructionOutline.md)
+
+[TFlex.Model.Model2D - пространство имён](N_TFlex_Model_Model2D.md)

@@ -1,0 +1,51 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# RibbonTabAddGroup(String, Int32) - метод  
+  
+---  
+  
+Добавляет новую группу в эту вкладку
+
+**Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public RibbonGroup AddGroup(
+	string caption,
+	int id
+)
+```
+```vb
+Public Function AddGroup ( 
+	caption As String,
+	id As Integer
+) As RibbonGroup
+```
+```cpp
+public:
+RibbonGroup^ AddGroup(
+	String^ caption, 
+	int id
+)
+```
+
+
+#### Параметры
+
+caption [String](https://learn.microsoft.com/dotnet/api/system.string)
+    
+id [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    
+
+#### Возвращаемое значение
+
+[RibbonGroup](T_TFlex_RibbonGroup.md)
+
+#### Ссылки
+
+[RibbonTab - ](T_TFlex_RibbonTab.md)
+
+[AddGroup - перегрузка](Overload_TFlex_RibbonTab_AddGroup.md)
+
+[TFlex - пространство имён](N_TFlex.md)

@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ObjectSelectControlFilterSimpleUserText - свойство  
+  
+---  
+  
+Текст поиска
+
+**Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public string UserText { get; }
+```
+```vb
+Public ReadOnly Property UserText As String
+	Get
+```
+```cpp
+public:
+property String^ UserText {
+	String^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[String](https://learn.microsoft.com/dotnet/api/system.string)
+
+#### Ссылки
+
+[ObjectSelectControlFilterSimple - ](T_TFlex_Dialogs_ObjectSelectControlFilterSimple.md)
+
+[TFlex.Dialogs - пространство имён](N_TFlex_Dialogs.md)

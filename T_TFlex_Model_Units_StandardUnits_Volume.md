@@ -1,0 +1,52 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# StandardUnitsVolume - класс  
+  
+---  
+  
+Тип единицы измерения (физическая величина) Объём
+
+[SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsVolume
+
+**Пространство имён:** [TFlex.Model.Units](N_TFlex_Model_Units.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public sealed class Volume
+```
+```vb
+Public NotInheritable Class Volume
+```
+```cpp
+public ref class Volume sealed
+```
+
+
+Тип StandardUnitsVolume предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [CubicCentimeter](P_TFlex_Model_Units_StandardUnits_Volume_CubicCentimeter.md) | Кубический сантиметр; см³; cm³; Тип - Объём |
+|  | [CubicDecimeter](P_TFlex_Model_Units_StandardUnits_Volume_CubicDecimeter.md) | Кубический дециметр; дм³; dm³; Тип - Объём |
+|  | [CubicFoot](P_TFlex_Model_Units_StandardUnits_Volume_CubicFoot.md) | Кубический фут; фут³; ft³; Тип - Объём |
+|  | [CubicInch](P_TFlex_Model_Units_StandardUnits_Volume_CubicInch.md) | Кубический дюйм; дюйм³; in³; Тип - Объём |
+|  | [CubicKilometer](P_TFlex_Model_Units_StandardUnits_Volume_CubicKilometer.md) | Кубический километр; км³; km³; Тип - Объём |
+|  | [CubicMeter](P_TFlex_Model_Units_StandardUnits_Volume_CubicMeter.md) | Кубический метр; м³; m³; Тип - Объём |
+|  | [CubicMillimeter](P_TFlex_Model_Units_StandardUnits_Volume_CubicMillimeter.md) | Кубический миллиметр; мм³; mm³; Тип - Объём |
+|  | [CubicYard](P_TFlex_Model_Units_StandardUnits_Volume_CubicYard.md) | Кубический ярд; ярд³; yd³; Тип - Объём |
+|  | [Gallon](P_TFlex_Model_Units_StandardUnits_Volume_Gallon.md) | Галлон; галлон; gallon; Тип - Объём |
+|  | [Liter](P_TFlex_Model_Units_StandardUnits_Volume_Liter.md) | Литр; л; L; Тип - Объём |
+|  | [Milliliter](P_TFlex_Model_Units_StandardUnits_Volume_Milliliter.md) | Миллилитр; мл; ml; Тип - Объём |
+|  | [Type](P_TFlex_Model_Units_StandardUnits_Volume_Type.md) | Тип единицы измерения (физическая величина) |
+  
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Equals](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals\(system-object\)) | Determines whether the specified object is equal to the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetHashCode](https://learn.microsoft.com/dotnet/api/system.object.gethashcode) | Serves as the default hash function. (Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetType](https://learn.microsoft.com/dotnet/api/system.object.gettype) | Gets the [Type](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [ToString](https://learn.microsoft.com/dotnet/api/system.object.tostring) | Returns a string that represents the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+  
+#### Ссылки
+
+[TFlex.Model.Units - пространство имён](N_TFlex_Model_Units.md)

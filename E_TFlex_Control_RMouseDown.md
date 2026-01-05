@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ControlRMouseDown - событие  
+  
+---  
+  
+Событие, происходящеe при нажатии правой кнопки мыши, если указатель мыши находится на визуальном элементе управления.
+
+**Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public event ControlRMouseDown RMouseDown
+```
+```vb
+Public Event RMouseDown As ControlRMouseDown
+```
+```cpp
+public:
+ event ControlRMouseDown^ RMouseDown {
+	void add (ControlRMouseDown^ value);
+	void remove (ControlRMouseDown^ value);
+}
+```
+
+
+#### Значение
+
+[ControlRMouseDown](T_TFlex_ControlRMouseDown.md)
+
+#### Ссылки
+
+[Control - ](T_TFlex_Control.md)
+
+[TFlex - пространство имён](N_TFlex.md)

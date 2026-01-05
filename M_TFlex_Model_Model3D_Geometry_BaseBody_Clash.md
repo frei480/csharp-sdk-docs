@@ -1,0 +1,54 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# BaseBodyClash - метод  
+  
+---  
+  
+Функция определяет столкновение тел
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public ICollection<BaseClashResultItem> Clash(
+	BaseBody body,
+	bool isFindAllClashes,
+	bool isFindIntersect
+)
+```
+```vb
+Public Function Clash ( 
+	body As BaseBody,
+	isFindAllClashes As Boolean,
+	isFindIntersect As Boolean
+) As ICollection(Of BaseClashResultItem)
+```
+```cpp
+public:
+ICollection<BaseClashResultItem^>^ Clash(
+	BaseBody^ body, 
+	bool isFindAllClashes, 
+	bool isFindIntersect
+)
+```
+
+
+#### Параметры
+
+body [BaseBody](T_TFlex_Model_Model3D_Geometry_BaseBody.md)
+    Тело для проверки
+isFindAllClashes [Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+    Найти все столкновения
+isFindIntersect [Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+    Исследовать столкновения
+
+#### Возвращаемое значение
+
+[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)[BaseClashResultItem](T_TFlex_Model_Model3D_Geometry_BaseClashResultItem.md)Информация о столкновении тел
+
+#### Ссылки
+
+[BaseBody - ](T_TFlex_Model_Model3D_Geometry_BaseBody.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

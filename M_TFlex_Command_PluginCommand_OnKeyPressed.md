@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# PluginCommandOnKeyPressed - метод  
+  
+---  
+  
+Обработчик нажатия клавиши на клавиатуре или кнопки автоменю
+
+**Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public virtual void OnKeyPressed(
+	KeyEventArgs e
+)
+```
+```vb
+Public Overridable Sub OnKeyPressed ( 
+	e As KeyEventArgs
+)
+```
+```cpp
+public:
+virtual void OnKeyPressed(
+	KeyEventArgs^ e
+)
+```
+
+
+#### Параметры
+
+e [KeyEventArgs](T_TFlex_Command_KeyEventArgs.md)
+    Аргументы события
+
+#### Ссылки
+
+[PluginCommand - ](T_TFlex_Command_PluginCommand.md)
+
+[TFlex.Command - пространство имён](N_TFlex_Command.md)

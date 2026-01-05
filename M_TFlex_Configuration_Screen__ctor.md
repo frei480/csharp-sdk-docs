@@ -1,0 +1,31 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# Screen - конструктор  
+  
+---  
+  
+Инициализирует новый экземпляр класса [Screen](T_TFlex_Configuration_Screen.md)
+
+**Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public Screen()
+```
+```vb
+Public Sub New
+```
+```cpp
+public:
+Screen()
+```
+
+
+#### Ссылки
+
+[Screen - ](T_TFlex_Configuration_Screen.md)
+
+[Screen - перегрузка](Overload_TFlex_Configuration_Screen__ctor.md)
+
+[TFlex.Configuration - пространство имён](N_TFlex_Configuration.md)

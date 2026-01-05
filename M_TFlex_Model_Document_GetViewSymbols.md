@@ -1,0 +1,30 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DocumentGetViewSymbols - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public ICollection<ViewSymbol> GetViewSymbols()
+```
+```vb
+Public Function GetViewSymbols As ICollection(Of ViewSymbol)
+```
+```cpp
+public:
+ICollection<ViewSymbol^>^ GetViewSymbols()
+```
+
+
+#### Возвращаемое значение
+
+[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)[ViewSymbol](T_TFlex_Model_Model2D_ViewSymbol.md)
+
+#### Ссылки
+
+[Document - ](T_TFlex_Model_Document.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

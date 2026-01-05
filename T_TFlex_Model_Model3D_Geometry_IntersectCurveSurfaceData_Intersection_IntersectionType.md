@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# IntersectCurveSurfaceDataIntersectionIntersectionType - перечисление  
+  
+---  
+  
+Тип совпадения кривой и поверхности
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public enum IntersectionType
+```
+```vb
+Public Enumeration IntersectionType
+```
+```cpp
+public enum class IntersectionType
+```
+
+
+| Имя члена | Значение | Описание |
+| --- | --- | --- |
+| Simple | 0 | Просто пересечение |
+| Start | 1 | Начало участка совпадения кривой и поверхности |
+| End | 2 | Конец участка совпадения кривой и поверхности |
+| Tangent | 3 | Точка касания |
+  
+#### Ссылки
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

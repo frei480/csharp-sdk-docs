@@ -1,0 +1,32 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# SweepGeneratorTopologyFormType - перечисление  
+  
+---  
+  
+Тип разбиения результирующего тела на грани
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public enum TopologyFormType
+```
+```vb
+Public Enumeration TopologyFormType
+```
+```cpp
+public enum class TopologyFormType
+```
+
+
+| Имя члена | Значение | Описание |
+| --- | --- | --- |
+| Minimal | 0 | Минимальное количество граней |
+| Columns | 1 | Столбики граней, соответствующие рёбрам образующего контура |
+| Grid | 2 | Решётка граней. Каждому ребру образующего контура соответствует набор граней в направлении траектории. Количество граней больше или равно по сравнению с типом разбиения Columns, так как дополнительные рёбра создаются для каждой вершины траектории, за исключением вершин, добавленных в список игнорируемых вершин. |
+  
+#### Ссылки
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

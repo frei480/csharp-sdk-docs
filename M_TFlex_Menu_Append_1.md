@@ -1,0 +1,52 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# MenuAppend(Int32, String, Plugin) - метод  
+  
+---  
+  
+Добавить пункт меню
+
+**Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public void Append(
+	int command,
+	string caption,
+	Plugin plugin
+)
+```
+```vb
+Public Sub Append ( 
+	command As Integer,
+	caption As String,
+	plugin As Plugin
+)
+```
+```cpp
+public:
+void Append(
+	int command, 
+	String^ caption, 
+	Plugin^ plugin
+)
+```
+
+
+#### Параметры
+
+command [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    Идентификатор зарегестрированной в приложении команды
+caption [String](https://learn.microsoft.com/dotnet/api/system.string)
+    Название пунтка меню
+plugin [Plugin](T_TFlex_Plugin.md)
+    Объект приложения
+
+#### Ссылки
+
+[Menu - ](T_TFlex_Menu.md)
+
+[Append - перегрузка](Overload_TFlex_Menu_Append.md)
+
+[TFlex - пространство имён](N_TFlex.md)

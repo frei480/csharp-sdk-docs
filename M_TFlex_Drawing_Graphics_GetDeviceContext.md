@@ -1,0 +1,175 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# GraphicsGetDeviceContext - метод  
+  
+---  
+  
+Получение дескриптора графического устройства (HDC)
+
+**Пространство имён:** [TFlex.Drawing](N_TFlex_Drawing.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public IntPtr GetDeviceContext()
+```
+```vb
+Public Function GetDeviceContext As IntPtr
+```
+```cpp
+public:
+IntPtr GetDeviceContext()
+```
+
+
+#### Возвращаемое значение
+
+[IntPtr](https://learn.microsoft.com/dotnet/api/system.intptr)Дескриптор графического устройства
+
+Для того чтобы воспользоваться дескриптором графического устройства, который используется для вывода данным классом, его можно получить при помощи данного метода. Ненулевое значение может быть получено только когда процесс вывода инициализирован при помощи [BeginDraw](M_TFlex_Drawing_Graphics_BeginDraw.md) или вызван метод [DeviceContext](P_TFlex_Drawing_Graphics_DeviceContext.md) с ненулевым значением дескриптора графического устройства.
+    
+    
+    using System;
+    using System.Drawing;
+    using System.Windows.Forms;
+    using System.IO;
+    
+    using TFlex;
+    using TFlex.Model;
+    using TFlex.Model.Model2D;
+    using TFlex.Model.Model3D;
+    using TFlex.Command;
+    using TFlex.Drawing;
+    
+    namespace NewMacroNamespace
+    {
+       public class NewMacroClass
+       {
+           public static void NewMacro()
+           {
+               TFlex.Command.CommandState commandState = new TFlex.Command.CommandState();
+               DeviceContextCommand deviceContextCommand = new DeviceContextCommand(commandState);
+               deviceContextCommand.InsertGroove(commandState);
+           }
+    
+           public class DeviceContextCommand : CustomCommand
+           {
+               public DeviceContextCommand(TFlex.Command.CommandState cmd)
+                   : base(cmd)
+               {
+    
+               }
+    
+               TFlex.Model.Document _document;
+    
+               public override void OnInitialize(InitializeEventArgs e)
+               {
+                   _document = TFlex.Application.ActiveDocument;
+                   _document.BeginChanges("");
+    
+                   base.OnInitialize(e);
+    
+                   UpdateAutomenu();
+               }
+    
+               public override void OnExit(ExitEventArgs e)
+               {
+                   _document.EndChanges();
+               }
+    
+               public void InsertGroove(TFlex.Command.CommandState cmd)
+               {
+                   try
+                   {
+                       CustomCommand d = new DeviceContextCommand(cmd);
+                       d.Run(null);
+                   }
+                   catch (Exception e)
+                   {
+                       MessageBox.Show(e.StackTrace);
+                   }
+               }
+    
+               public InputState State { get; set; }
+    
+               public enum InputState
+               {
+                   None,//ничего не выбрано
+                   Draw,//начать рисование
+                   Exit//закончить рисование
+               };
+    
+               //событие перемещения курсора
+               public override void OnShowCursor(TFlex.Command.MouseEventArgs e)
+               {
+                   base.OnShowCursor(e);
+    
+                   if (State == InputState.Draw)
+                   {
+                       IntPtr hdc = e.Graphics.GetDeviceContext();
+    
+                       //создание класса Graphics
+                       System.Drawing.Graphics newGraphics = System.Drawing.Graphics.FromHdc(hdc);
+    
+                       //рисование прямоугольника с рамкой
+                       newGraphics.DrawRectangle(new Pen(System.Drawing.Color.BlueViolet, 3), (int)(e.X), (int)(e.Y), 100, 50);
+                       //картинка
+                       Image img = Image.FromFile(Path.Combine(TFlex.Application.ActiveDocument.FilePath, "mail.png"));
+                       //рисование прямоугольника с заливкой картинкой
+                       newGraphics.FillRectangle(new TextureBrush(img), new System.Drawing.Rectangle(new System.Drawing.Point((int)(e.X), (int)(e.Y)), new System.Drawing.Size(100, 50)));
+    
+                       //освобождение ресурсов
+                       img.Dispose();
+                       e.Graphics.ReleaseDeviceContext(hdc);
+                       newGraphics.Dispose();
+                   }
+               }
+    
+               public override void OnKeyPressed(TFlex.Command.KeyEventArgs e)
+               {
+                   _document = e.Document;
+                   switch (e.Code)
+                   {
+                       case KeyCode.keyEND:
+                           {
+                               State = InputState.Draw;
+    
+                               _document.ApplyChanges();
+                               UpdateAutomenu();
+                           }
+                           break;
+    
+                       case KeyCode.keyESCAPE:
+                           {
+    
+                               State = InputState.Exit;
+                               GoToNextState(null);
+                               OnExit(null);
+                           }
+                           break;
+                   }
+               }
+    
+               //формирование кнопок автоменю
+               protected void UpdateAutomenu()
+               {
+                   TFlex.Command.Button[] buttonsAutoMenu = new TFlex.Command.Button[2];
+    
+                   buttonsAutoMenu[0] = new DefaultButton(DefaultButton.Kind.OK, KeyCode.keyEND,
+                       State == InputState.Draw ? TFlex.Command.Button.Style.Checked : TFlex.Command.Button.Style.Default);
+    
+                   buttonsAutoMenu[1] = new DefaultButton(State == InputState.Exit ? DefaultButton.Kind.Exit : DefaultButton.Kind.Cancel);
+    
+                   Automenu = new Automenu(buttonsAutoMenu);
+               }
+    
+           };
+    
+       }
+    }
+
+#### Ссылки
+
+[Graphics - ](T_TFlex_Drawing_Graphics.md)
+
+[TFlex.Drawing - пространство имён](N_TFlex_Drawing.md)

@@ -1,0 +1,29 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# CreateElementsFromDocumentParameters - конструктор  
+  
+---  
+  
+Инициализирует новый экземпляр класса [CreateElementsFromDocumentParameters](T_TFlex_Model_Structure_CreateElementsFromDocumentParameters.md)
+
+**Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public CreateElementsFromDocumentParameters()
+```
+```vb
+Public Sub New
+```
+```cpp
+public:
+CreateElementsFromDocumentParameters()
+```
+
+
+#### Ссылки
+
+[CreateElementsFromDocumentParameters - ](T_TFlex_Model_Structure_CreateElementsFromDocumentParameters.md)
+
+[TFlex.Model.Structure - пространство имён](N_TFlex_Model_Structure.md)

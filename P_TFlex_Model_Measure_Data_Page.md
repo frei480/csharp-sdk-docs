@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DataPage - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Measure](N_TFlex_Model_Measure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public Page Page { get; set; }
+```
+```vb
+Public Property Page As Page
+	Get
+	Set
+```
+```cpp
+public:
+property Page^ Page {
+	Page^ get ();
+	void set (Page^ value);
+}
+```
+
+
+#### Значение свойства
+
+[Page](T_TFlex_Model_Page.md)
+
+#### Ссылки
+
+[Data - ](T_TFlex_Model_Measure_Data.md)
+
+[TFlex.Model.Measure - пространство имён](N_TFlex_Model_Measure.md)

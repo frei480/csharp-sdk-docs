@@ -1,0 +1,29 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DocumentMergeTwoTailUndoBlocks - метод  
+  
+---  
+  
+Объединить два верхних Undo-блока
+
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public void MergeTwoTailUndoBlocks()
+```
+```vb
+Public Sub MergeTwoTailUndoBlocks
+```
+```cpp
+public:
+void MergeTwoTailUndoBlocks()
+```
+
+
+#### Ссылки
+
+[Document - ](T_TFlex_Model_Document.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

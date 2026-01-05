@@ -1,0 +1,41 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ModelObjectGetRealPropertyWithUnit - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public RealProperty GetRealPropertyWithUnit(
+	string propertyName
+)
+```
+```vb
+Public Function GetRealPropertyWithUnit ( 
+	propertyName As String
+) As RealProperty
+```
+```cpp
+public:
+RealProperty^ GetRealPropertyWithUnit(
+	String^ propertyName
+)
+```
+
+
+#### Параметры
+
+propertyName [String](https://learn.microsoft.com/dotnet/api/system.string)
+    
+
+#### Возвращаемое значение
+
+[RealProperty](T_TFlex_Model_RealProperty.md)
+
+#### Ссылки
+
+[ModelObject - ](T_TFlex_Model_ModelObject.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

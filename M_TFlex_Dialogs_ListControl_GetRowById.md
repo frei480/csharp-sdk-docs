@@ -1,0 +1,44 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ListControlGetRowById - метод  
+  
+---  
+  
+Получить идекс строки по идентификатору. IsIdMappingOn должно быть true.
+
+**Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public int GetRowById(
+	long id
+)
+```
+```vb
+Public Function GetRowById ( 
+	id As Long
+) As Integer
+```
+```cpp
+public:
+int GetRowById(
+	long long id
+)
+```
+
+
+#### Параметры
+
+id [Int64](https://learn.microsoft.com/dotnet/api/system.int64)
+    
+
+#### Возвращаемое значение
+
+[Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+
+#### Ссылки
+
+[ListControl - ](T_TFlex_Dialogs_ListControl.md)
+
+[TFlex.Dialogs - пространство имён](N_TFlex_Dialogs.md)

@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ObjectSelectControlStateUpdateEventArgsNewSelection - свойство  
+  
+---  
+  
+Возвращает сортированную коллекцию индексов новых выбранных объектов
+
+**Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public Collection<int> NewSelection { get; }
+```
+```vb
+Public ReadOnly Property NewSelection As Collection(Of Integer)
+	Get
+```
+```cpp
+public:
+property Collection<int>^ NewSelection {
+	Collection<int>^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[Collection](T_TFlex_Dialogs_Collection_1.md)[Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+
+#### Ссылки
+
+[ObjectSelectControlStateUpdateEventArgs - ](T_TFlex_Dialogs_ObjectSelectControlStateUpdateEventArgs.md)
+
+[TFlex.Dialogs - пространство имён](N_TFlex_Dialogs.md)

@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DrawingViewBreaksLineWaveType - свойство  
+  
+---  
+  
+Способ задания волнистой линии
+
+**Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public DrawingViewBreaksLineWaveTypes LineWaveType { get; set; }
+```
+```vb
+Public Property LineWaveType As DrawingViewBreaksLineWaveTypes
+	Get
+	Set
+```
+```cpp
+public:
+property DrawingViewBreaksLineWaveTypes LineWaveType {
+	DrawingViewBreaksLineWaveTypes get ();
+	void set (DrawingViewBreaksLineWaveTypes value);
+}
+```
+
+
+#### Значение свойства
+
+[DrawingViewBreaksLineWaveTypes](T_TFlex_Model_Model2D_DrawingView_Breaks_LineWaveTypes.md)
+
+#### Ссылки
+
+[DrawingViewBreaks - ](T_TFlex_Model_Model2D_DrawingView_Breaks.md)
+
+[TFlex.Model.Model2D - пространство имён](N_TFlex_Model_Model2D.md)

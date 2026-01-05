@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ManipulatorPendingGeometryChanged - событие  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.Visual.Manipulators](N_TFlex_Model_Model3D_Visual_Manipulators.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public event EventHandler<PendingGeometryChangedEventArgs> PendingGeometryChanged
+```
+```vb
+Public Event PendingGeometryChanged As EventHandler(Of PendingGeometryChangedEventArgs)
+```
+```cpp
+public:
+ event EventHandler<PendingGeometryChangedEventArgs^>^ PendingGeometryChanged {
+	void add (EventHandler<PendingGeometryChangedEventArgs^>^ value);
+	void remove (EventHandler<PendingGeometryChangedEventArgs^>^ value);
+}
+```
+
+
+#### Значение
+
+[EventHandler](https://learn.microsoft.com/dotnet/api/system.eventhandler-1)[PendingGeometryChangedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_PendingGeometryChangedEventArgs.md)
+
+#### Ссылки
+
+[Manipulator - ](T_TFlex_Model_Model3D_Visual_Manipulators_Manipulator.md)
+
+[TFlex.Model.Model3D.Visual.Manipulators - пространство имён](N_TFlex_Model_Model3D_Visual_Manipulators.md)

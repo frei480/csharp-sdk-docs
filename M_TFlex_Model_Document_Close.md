@@ -1,0 +1,31 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DocumentClose - метод  
+  
+---  
+  
+Закрыть документ
+
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public void Close()
+```
+```vb
+Public Sub Close
+```
+```cpp
+public:
+void Close()
+```
+
+
+После выполнения операции, с документом нельзя производить никакие операции
+
+#### Ссылки
+
+[Document - ](T_TFlex_Model_Document.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

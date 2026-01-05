@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# StandardUnitsSpecificHeatCapacityJoulePerKilogramKelvin - свойство  
+  
+---  
+  
+Джоуль на килограмм на Кельвин; Дж/(кг·К); J/(kg·K); 
+
+Тип - Удельная теплоемкость
+
+**Пространство имён:** [TFlex.Model.Units](N_TFlex_Model_Units.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public static Unit JoulePerKilogramKelvin { get; }
+```
+```vb
+Public Shared ReadOnly Property JoulePerKilogramKelvin As Unit
+	Get
+```
+```cpp
+public:
+static property Unit^ JoulePerKilogramKelvin {
+	Unit^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[Unit](T_TFlex_Model_Units_Unit.md)
+
+#### Ссылки
+
+[StandardUnitsSpecificHeatCapacity - ](T_TFlex_Model_Units_StandardUnits_SpecificHeatCapacity.md)
+
+[TFlex.Model.Units - пространство имён](N_TFlex_Model_Units.md)

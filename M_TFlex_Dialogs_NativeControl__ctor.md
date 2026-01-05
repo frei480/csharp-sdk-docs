@@ -1,0 +1,31 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# NativeControl - конструктор  
+  
+---  
+  
+Инициализирует новый экземпляр класса [NativeControl](T_TFlex_Dialogs_NativeControl.md)
+
+**Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public NativeControl()
+```
+```vb
+Public Sub New
+```
+```cpp
+public:
+NativeControl()
+```
+
+
+#### Ссылки
+
+[NativeControl - ](T_TFlex_Dialogs_NativeControl.md)
+
+[NativeControl - перегрузка](Overload_TFlex_Dialogs_NativeControl__ctor.md)
+
+[TFlex.Dialogs - пространство имён](N_TFlex_Dialogs.md)

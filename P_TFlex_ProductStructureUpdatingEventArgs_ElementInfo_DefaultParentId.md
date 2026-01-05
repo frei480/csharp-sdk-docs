@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ProductStructureUpdatingEventArgsElementInfoDefaultParentId - свойство  
+  
+---  
+**Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public static string DefaultParentId { get; }
+```
+```vb
+Public Shared ReadOnly Property DefaultParentId As String
+	Get
+```
+```cpp
+public:
+static property String^ DefaultParentId {
+	String^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[String](https://learn.microsoft.com/dotnet/api/system.string)
+
+#### Ссылки
+
+[ProductStructureUpdatingEventArgsElementInfo - ](T_TFlex_ProductStructureUpdatingEventArgs_ElementInfo.md)
+
+[TFlex - пространство имён](N_TFlex.md)

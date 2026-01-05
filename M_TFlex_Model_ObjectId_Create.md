@@ -1,0 +1,46 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ObjectIdCreate(UInt32) - метод  
+  
+---  
+  
+Возвращает новый ObjectId, если oldID корректный. Иначе возвращает null.
+
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public static ObjectId Create(
+	uint oldId
+)
+```
+```vb
+Public Shared Function Create ( 
+	oldId As UInteger
+) As ObjectId
+```
+```cpp
+public:
+static ObjectId^ Create(
+	unsigned int oldId
+)
+```
+
+
+#### Параметры
+
+oldId [UInt32](https://learn.microsoft.com/dotnet/api/system.uint32)
+    
+
+#### Возвращаемое значение
+
+[ObjectId](T_TFlex_Model_ObjectId.md)
+
+#### Ссылки
+
+[ObjectId - ](T_TFlex_Model_ObjectId.md)
+
+[Create - перегрузка](Overload_TFlex_Model_ObjectId_Create.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# MethodInfoDisplayName - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public string DisplayName { get; set; }
+```
+```vb
+Public Property DisplayName As String
+	Get
+	Set
+```
+```cpp
+public:
+property String^ DisplayName {
+	String^ get ();
+	void set (String^ value);
+}
+```
+
+
+#### Значение свойства
+
+[String](https://learn.microsoft.com/dotnet/api/system.string)
+
+#### Ссылки
+
+[MethodInfo - ](T_TFlex_Model_Structure_MethodInfo.md)
+
+[TFlex.Model.Structure - пространство имён](N_TFlex_Model_Structure.md)

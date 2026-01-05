@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ProductStructureCreateChangesScope - метод  
+  
+---  
+  
+Создать область изменений. Структура изделия не будет автоматически пересчитываться при изменениях. Вместо этого она пересчитается когда будет вызван Dispose.
+
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public IDisposable CreateChangesScope()
+```
+```vb
+Public Function CreateChangesScope As IDisposable
+```
+```cpp
+public:
+IDisposable^ CreateChangesScope()
+```
+
+
+#### Возвращаемое значение
+
+[IDisposable](https://learn.microsoft.com/dotnet/api/system.idisposable)
+
+Для использования в using.
+
+#### Ссылки
+
+[ProductStructure - ](T_TFlex_Model_ProductStructure.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

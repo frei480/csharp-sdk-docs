@@ -1,0 +1,21 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ControlPoints - свойства  
+  
+---  
+  
+Тип [SplineDataControlPoints](T_TFlex_Model_Model3D_Geometry_SplineData_ControlPoints.md) предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Current](P_TFlex_Model_Model3D_Geometry_SplineData_ControlPoints_Current.md) | Получить текущий элемент |
+|  | [Item](P_TFlex_Model_Model3D_Geometry_SplineData_ControlPoints_Item.md) |  |
+|  | [Length](P_TFlex_Model_Model3D_Geometry_SplineData_ControlPoints_Length.md) | Количество контрольных точек |
+  
+#### Ссылки
+
+[SplineDataControlPoints - ](T_TFlex_Model_Model3D_Geometry_SplineData_ControlPoints.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

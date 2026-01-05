@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DimensionScaleFactor - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public DoubleParameter ScaleFactor { get; set; }
+```
+```vb
+Public Property ScaleFactor As DoubleParameter
+	Get
+	Set
+```
+```cpp
+public:
+property DoubleParameter^ ScaleFactor {
+	DoubleParameter^ get ();
+	void set (DoubleParameter^ value);
+}
+```
+
+
+#### Значение свойства
+
+[DoubleParameter](T_TFlex_Configuration_DoubleParameter.md)
+
+#### Ссылки
+
+[Dimension - ](T_TFlex_Configuration_Dimension.md)
+
+[TFlex.Configuration - пространство имён](N_TFlex_Configuration.md)

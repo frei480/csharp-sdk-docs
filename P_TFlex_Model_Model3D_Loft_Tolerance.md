@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LoftTolerance - свойство  
+  
+---  
+  
+Точность
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public Parameter Tolerance { get; set; }
+```
+```vb
+Public Property Tolerance As Parameter
+	Get
+	Set
+```
+```cpp
+public:
+property Parameter^ Tolerance {
+	Parameter^ get ();
+	void set (Parameter^ value);
+}
+```
+
+
+#### Значение свойства
+
+[Parameter](T_TFlex_Model_Parameter.md)
+
+Для успешного посроения Лофтинга необходимо чтобы расстояние между профилями и направляющими было меньше значения точности, и чтобы расстояния между вершинами контуров было меньше 10 значений точности. Точность должна быть положительным числом, по умолчанию точность равна 1E-5. В том случае если операция не складывается, можно попробовать увеличить или уменьшить значение точности в 10 раз.
+
+#### Ссылки
+
+[Loft - ](T_TFlex_Model_Model3D_Loft.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

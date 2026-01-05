@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ProjectionBrokenMetric - свойство  
+  
+---  
+  
+Единицы измерения величины разрыва
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public BrokenMetric BrokenMetric { get; set; }
+```
+```vb
+Public Property BrokenMetric As BrokenMetric
+	Get
+	Set
+```
+```cpp
+public:
+property BrokenMetric BrokenMetric {
+	BrokenMetric get ();
+	void set (BrokenMetric value);
+}
+```
+
+
+#### Значение свойства
+
+[BrokenMetric](T_TFlex_Model_Model3D_BrokenMetric.md)
+
+#### Ссылки
+
+[Projection - ](T_TFlex_Model_Model3D_Projection.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

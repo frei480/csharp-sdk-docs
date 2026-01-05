@@ -1,0 +1,45 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LoftGeneratorSetLastBody - метод  
+  
+---  
+  
+Функция тело с которого берутся касательные для конечного профиля
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public void SetLastBody(
+	BaseBody b,
+	double sc
+)
+```
+```vb
+Public Sub SetLastBody ( 
+	b As BaseBody,
+	sc As Double
+)
+```
+```cpp
+public:
+void SetLastBody(
+	BaseBody^ b, 
+	double sc
+)
+```
+
+
+#### Параметры
+
+b [BaseBody](T_TFlex_Model_Model3D_Geometry_BaseBody.md)
+    Твёрдое тело с которого берутся касательные
+sc [Double](https://learn.microsoft.com/dotnet/api/system.double)
+    Коэффициент масштабирования касательного вектора
+
+#### Ссылки
+
+[LoftGenerator - ](T_TFlex_Model_Model3D_Geometry_LoftGenerator.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

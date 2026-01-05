@@ -1,0 +1,53 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ReportRegenerateContext - класс  
+  
+---  
+  
+[SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Data.ProductStructureReportRegenerateContext
+
+**Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
+
+```csharp
+public class ReportRegenerateContext : ICloneable
+```
+```vb
+Public Class ReportRegenerateContext
+	Implements ICloneable
+```
+```cpp
+public ref class ReportRegenerateContext : ICloneable
+```
+
+
+Тип ReportRegenerateContext предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [ReportRegenerateContext](M_TFlex_Model_Data_ProductStructure_ReportRegenerateContext__ctor.md) | Инициализирует новый экземпляр класса ReportRegenerateContext |
+  
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [DocHandle](P_TFlex_Model_Data_ProductStructure_ReportRegenerateContext_DocHandle.md) |  |
+|  | [ErrorContainer](P_TFlex_Model_Data_ProductStructure_ReportRegenerateContext_ErrorContainer.md) |  |
+|  | [OwnerWindowHandle](P_TFlex_Model_Data_ProductStructure_ReportRegenerateContext_OwnerWindowHandle.md) |  |
+|  | [PsId](P_TFlex_Model_Data_ProductStructure_ReportRegenerateContext_PsId.md) |  |
+|  | [RegenType](P_TFlex_Model_Data_ProductStructure_ReportRegenerateContext_RegenType.md) |  |
+|  | [SelectedObjectsIds](P_TFlex_Model_Data_ProductStructure_ReportRegenerateContext_SelectedObjectsIds.md) |  |
+  
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Clone](M_TFlex_Model_Data_ProductStructure_ReportRegenerateContext_Clone.md) |  |
+|  | [Copy](M_TFlex_Model_Data_ProductStructure_ReportRegenerateContext_Copy.md) |  |
+|  | [Equals](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals\(system-object\)) | Determines whether the specified object is equal to the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [Finalize](https://learn.microsoft.com/dotnet/api/system.object.finalize) | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetHashCode](https://learn.microsoft.com/dotnet/api/system.object.gethashcode) | Serves as the default hash function. (Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetType](https://learn.microsoft.com/dotnet/api/system.object.gettype) | Gets the [Type](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [MemberwiseClone](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone) | Creates a shallow copy of the current [Object](https://learn.microsoft.com/dotnet/api/system.object).(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [ToString](https://learn.microsoft.com/dotnet/api/system.object.tostring) | Returns a string that represents the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+  
+#### Ссылки
+
+[TFlex.Model.Data.ProductStructure - пространство имён](N_TFlex_Model_Data_ProductStructure.md)

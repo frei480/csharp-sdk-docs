@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# Options3DSmoothRotationTime - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public double SmoothRotationTime { get; set; }
+```
+```vb
+Public Property SmoothRotationTime As Double
+	Get
+	Set
+```
+```cpp
+public:
+property double SmoothRotationTime {
+	double get ();
+	void set (double value);
+}
+```
+
+
+#### Значение свойства
+
+[Double](https://learn.microsoft.com/dotnet/api/system.double)
+
+#### Ссылки
+
+[Options3D - ](T_TFlex_Configuration_Options3D.md)
+
+[TFlex.Configuration - пространство имён](N_TFlex_Configuration.md)

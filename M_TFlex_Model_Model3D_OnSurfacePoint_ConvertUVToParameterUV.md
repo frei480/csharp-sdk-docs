@@ -1,0 +1,44 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# OnSurfacePointConvertUVToParameterUV - метод  
+  
+---  
+  
+Конвертировать UV to ParameterUV
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public UV ConvertUVToParameterUV(
+	UV A_0
+)
+```
+```vb
+Public Function ConvertUVToParameterUV ( 
+	A_0 As UV
+) As UV
+```
+```cpp
+public:
+UV ConvertUVToParameterUV(
+	UV A_0
+)
+```
+
+
+#### Параметры
+
+A_0 [UV](T_TFlex_Model_Model3D_Geometry_UV.md)
+    
+
+#### Возвращаемое значение
+
+[UV](T_TFlex_Model_Model3D_Geometry_UV.md)
+
+#### Ссылки
+
+[OnSurfacePoint - ](T_TFlex_Model_Model3D_OnSurfacePoint.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

@@ -1,0 +1,42 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# Loops(Body) - конструктор  
+  
+---  
+  
+Инициализирует новый экземпляр класса [Loops](T_TFlex_Model_Model3D_Geometry_Loops.md)
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public Loops(
+	Body Solid
+)
+```
+```vb
+Public Sub New ( 
+	Solid As Body
+)
+```
+```cpp
+public:
+Loops(
+	Body^ Solid
+)
+```
+
+
+#### Параметры
+
+Solid [Body](T_TFlex_Model_Model3D_Geometry_Body.md)
+    
+
+#### Ссылки
+
+[Loops - ](T_TFlex_Model_Model3D_Geometry_Loops.md)
+
+[Loops - перегрузка](Overload_TFlex_Model_Model3D_Geometry_Loops__ctor.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

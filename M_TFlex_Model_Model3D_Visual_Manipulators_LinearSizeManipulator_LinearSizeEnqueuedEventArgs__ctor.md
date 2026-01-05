@@ -1,0 +1,29 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LinearSizeManipulatorLinearSizeEnqueuedEventArgs - конструктор  
+  
+---  
+  
+Инициализирует новый экземпляр класса [LinearSizeManipulatorLinearSizeEnqueuedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_LinearSizeManipulator_LinearSizeEnqueuedEventArgs.md)
+
+**Пространство имён:** [TFlex.Model.Model3D.Visual.Manipulators](N_TFlex_Model_Model3D_Visual_Manipulators.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public LinearSizeEnqueuedEventArgs()
+```
+```vb
+Public Sub New
+```
+```cpp
+public:
+LinearSizeEnqueuedEventArgs()
+```
+
+
+#### Ссылки
+
+[LinearSizeManipulatorLinearSizeEnqueuedEventArgs - ](T_TFlex_Model_Model3D_Visual_Manipulators_LinearSizeManipulator_LinearSizeEnqueuedEventArgs.md)
+
+[TFlex.Model.Model3D.Visual.Manipulators - пространство имён](N_TFlex_Model_Model3D_Visual_Manipulators.md)

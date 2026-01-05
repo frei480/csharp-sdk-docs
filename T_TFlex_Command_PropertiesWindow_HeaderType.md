@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# PropertiesWindowHeaderType - перечисление  
+  
+---  
+  
+Перечислитель наборов кнопок служебного окна свойств
+
+**Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public enum HeaderType
+```
+```vb
+Public Enumeration HeaderType
+```
+```cpp
+public enum class HeaderType
+```
+
+
+| Имя члена | Значение | Описание |
+| --- | --- | --- |
+| None | 0 | Нет кнопок |
+| OkPreviewCancel | 1 | Завершить редактирование, просмотреть изменения, отменить редактирование |
+| OkRefreshPreviewCancel | 2 | Завершить редактирование, обновить, просмотреть изменения, отменить редактирование |
+| OkApplyCancel | 3 | Завершить редактирование, применить изменения, отменить редактирование |
+  
+#### Ссылки
+
+[TFlex.Command - пространство имён](N_TFlex_Command.md)

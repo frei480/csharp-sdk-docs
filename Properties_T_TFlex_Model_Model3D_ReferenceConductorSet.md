@@ -1,0 +1,61 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ReferenceConductorSet - свойства  
+  
+---  
+  
+Тип [ReferenceConductorSet](T_TFlex_Model_Model3D_ReferenceConductorSet.md) предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Attributes](P_TFlex_Model_ModelObject_Attributes.md) | **Устарело.**(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Auxiliary](P_TFlex_Model_Model3D_Object3D_Auxiliary.md) | Внутрисистемный объект. Используется для Refer объектов фрагментов. Такие объекты скрыты от пользователя. Работа с такими объектами может быть реализована на уровне API.NET или ядром TFlex. Такие объекты не передаются на следующий уровень сборки. (Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [Cables](P_TFlex_Model_Model3D_ConductorSetBase_Cables.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [Color](P_TFlex_Model_Model3D_Object3D_Color.md) | Цвет(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [Conductors](P_TFlex_Model_Model3D_ConductorSetBase_Conductors.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [ConstTransformations](P_TFlex_Model_Model3D_Object3D_ConstTransformations.md) | **Устарело.** Преобразование 3D объекта для чтения (устаревшая версия трансформации - допускается чтение трансформации в старых документах.)(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [DisplayName](P_TFlex_Model_ModelObject_DisplayName.md) | Отображаемое название объекта(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Document](P_TFlex_Model_ModelObject_Document.md) | Документ, являющийся родительским для данного объекта(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Edges](P_TFlex_Model_Model3D_ConductorSetBase_Edges.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [Editable](P_TFlex_Model_ModelObject_Editable.md) | Объект находится в состоянии редактирования(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [EmptySegmentsVisibility](P_TFlex_Model_Model3D_ConductorSetBase_EmptySegmentsVisibility.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [Exported](P_TFlex_Model_Model3D_Construction3D_Exported.md) | Свойство экспортирования объекта при вставке в сборку(Унаследован от [Construction3D](T_TFlex_Model_Model3D_Construction3D.md)) |
+|  | [GroupType](P_TFlex_Model_Model3D_BaseHarness3D_GroupType.md) | (Унаследован от [BaseHarness3D](T_TFlex_Model_Model3D_BaseHarness3D.md)) |
+|  | [HasLinkedDetails](P_TFlex_Model_Model3D_ConductorSetBase_HasLinkedDetails.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [ID](P_TFlex_Model_ModelObject_ID.md) | **Устарело.** Идентификатор объекта. Идентификатор является уникальным числом для каждого из объектов одного документа(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Info](P_TFlex_Model_Model3D_ConductorSetBase_Info.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [InScene](P_TFlex_Model_Model3D_Object3D_InScene.md) | Объект в сцене(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [IsDisposed](P_TFlex_Model_ModelObject_IsDisposed.md) | Объект удален из модели(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [IsFromFragment](P_TFlex_Model_Model3D_ReferenceConductorSet_IsFromFragment.md) |  |
+|  | [IsInModelObjectGroup](P_TFlex_Model_ModelObject_IsInModelObjectGroup.md) | Является ли объект элементом группы(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [IsVisible](P_TFlex_Model_ModelObject_IsVisible.md) | **Устарело.** Это свойство устарело и будет удалено. Пожалуйста, используйте свойство 'Visible'.(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Layer](P_TFlex_Model_Model3D_Object3D_Layer.md) | Слой, на котором размещается объект(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [Length](P_TFlex_Model_Model3D_ConductorSetBase_Length.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [Level](P_TFlex_Model_Model3D_Object3D_Level.md) | Уровень(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [LinearDensity](P_TFlex_Model_Model3D_ConductorSetBase_LinearDensity.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [ModelObjectGroup](P_TFlex_Model_ModelObject_ModelObjectGroup.md) | Группа, которая включает данный объект(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Name](P_TFlex_Model_ModelObject_Name.md) | Имя объекта(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [ObjectId](P_TFlex_Model_ModelObject_ObjectId.md) | Идентификатор объекта. Идентификатор является уникальным для каждого из объектов одного документа(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [OriginalObjectId](P_TFlex_Model_Model3D_ReferenceConductorSet_OriginalObjectId.md) |  |
+|  | [Owner](P_TFlex_Model_Model3D_ReferenceConductorSet_Owner.md) |  |
+|  | [PageScale](P_TFlex_Model_ModelObject_PageScale.md) | Масштаб страницы объекта(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Parents](P_TFlex_Model_ModelObject_Parents.md) | Контейнер родительских объектов(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Product](P_TFlex_Model_Model3D_ConductorSetBase_Product.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [Representation](P_TFlex_Model_Model3D_ConductorSetBase_Representation.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [RoundingMode](P_TFlex_Model_Model3D_ConductorSetBase_RoundingMode.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [RoundingPrecision](P_TFlex_Model_Model3D_ConductorSetBase_RoundingPrecision.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [Sleeves](P_TFlex_Model_Model3D_ConductorSetBase_Sleeves.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [SubEdgesDiameterMode](P_TFlex_Model_Model3D_ConductorSetBase_SubEdgesDiameterMode.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [TerminalPoints](P_TFlex_Model_Model3D_ConductorSetBase_TerminalPoints.md) | (Унаследован от [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md)) |
+|  | [Transformations](P_TFlex_Model_Model3D_Object3D_Transformations.md) | Контейнер групп преобразований 3D объекта(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [Visible](P_TFlex_Model_ModelObject_Visible.md) | Является ли объект видимым(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [VisibleInScene](P_TFlex_Model_Model3D_Object3D_VisibleInScene.md) | Свойство видимости объекта(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [VolatileTransformations](P_TFlex_Model_Model3D_Object3D_VolatileTransformations.md) | **Устарело.** Преобразование 3D объекта для изменения(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+  
+#### Ссылки
+
+[ReferenceConductorSet - ](T_TFlex_Model_Model3D_ReferenceConductorSet.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# SettingsDynamicToolbar - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public DynamicToolbar DynamicToolbar { get; }
+```
+```vb
+Public ReadOnly Property DynamicToolbar As DynamicToolbar
+	Get
+```
+```cpp
+public:
+property DynamicToolbar^ DynamicToolbar {
+	DynamicToolbar^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[DynamicToolbar](T_TFlex_Configuration_DynamicToolbar.md)
+
+#### Ссылки
+
+[Settings - ](T_TFlex_Configuration_Settings.md)
+
+[TFlex.Configuration - пространство имён](N_TFlex_Configuration.md)

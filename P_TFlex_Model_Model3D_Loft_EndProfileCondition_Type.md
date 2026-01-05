@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LoftEndProfileConditionType - свойство  
+  
+---  
+  
+Получить тип граничного условия
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public abstract LoftEndProfileConditionType Type { get; }
+```
+```vb
+Public MustOverride ReadOnly Property Type As LoftEndProfileConditionType
+	Get
+```
+```cpp
+public:
+virtual property LoftEndProfileConditionType Type {
+	LoftEndProfileConditionType get () abstract;
+}
+```
+
+
+#### Значение свойства
+
+[LoftEndProfileConditionType](T_TFlex_Model_Model3D_Loft_EndProfileConditionType.md)
+
+#### Ссылки
+
+[LoftEndProfileCondition - ](T_TFlex_Model_Model3D_Loft_EndProfileCondition.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

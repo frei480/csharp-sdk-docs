@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# BaseBoxMaximum - свойство  
+  
+---  
+  
+Получить точку максимальных границ
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public virtual BasePoint3D Maximum { get; }
+```
+```vb
+Public Overridable ReadOnly Property Maximum As BasePoint3D
+	Get
+```
+```cpp
+public:
+virtual property BasePoint3D^ Maximum {
+	BasePoint3D^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[BasePoint3D](T_TFlex_Model_Model3D_Geometry_BasePoint3D.md)
+
+#### Ссылки
+
+[BaseBox - ](T_TFlex_Model_Model3D_Geometry_BaseBox.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

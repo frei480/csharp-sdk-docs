@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DimensionLines - перечисление  
+  
+---  
+  
+Типы отрисовки выносных и размерных линий
+
+**Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public enum DimensionLines
+```
+```vb
+Public Enumeration DimensionLines
+```
+```cpp
+public enum class DimensionLines
+```
+
+
+| Имя члена | Значение | Описание |
+| --- | --- | --- |
+| Full | 0 | Рисовать все |
+| RightHalf | 1 | Рисовать только правую половину размерной линии и выносную линию |
+| LeftHalf | 2 | Рисовать только левую половину размерной линии и выносную линию |
+| NoLeftArrow | 3 | Не рисовать левую стрелку и выносную линию |
+| NoRightArrow | 4 | Не рисовать правую стрелку и выносную линию |
+| NoLeftLine | 5 | Не рисовать левую выносную линию |
+| NoRightLine | 6 | Не рисовать правую выносную линию |
+| NoLines | 7 | Не рисовать выносные линии |
+| OnlyText | 8 | Рисовать только текст |
+  
+#### Ссылки
+
+[TFlex.Model.Model2D - пространство имён](N_TFlex_Model_Model2D.md)

@@ -1,0 +1,29 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# TransformationMatrixIdentity - метод  
+  
+---  
+  
+Сделать матрицу единичной
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public void Identity()
+```
+```vb
+Public Sub Identity
+```
+```cpp
+public:
+void Identity()
+```
+
+
+#### Ссылки
+
+[TransformationMatrix - ](T_TFlex_Model_Model3D_Geometry_TransformationMatrix.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

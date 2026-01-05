@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# RichTextInsertHyperlink - метод  
+  
+---  
+  
+Вставка гиперссылки
+
+**Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public void InsertHyperlink(
+	HyperlinkProperties properties
+)
+```
+```vb
+Public Sub InsertHyperlink ( 
+	properties As HyperlinkProperties
+)
+```
+```cpp
+public:
+void InsertHyperlink(
+	HyperlinkProperties^ properties
+)
+```
+
+
+#### Параметры
+
+properties [HyperlinkProperties](T_TFlex_Model_Model2D_HyperlinkProperties.md)
+    Параметры гиперссылки
+
+#### Ссылки
+
+[RichText - ](T_TFlex_Model_Model2D_RichText.md)
+
+[TFlex.Model.Model2D - пространство имён](N_TFlex_Model_Model2D.md)

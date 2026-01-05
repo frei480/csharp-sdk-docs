@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# CommandStatePropertiesWindow - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public PropertiesWindow PropertiesWindow { get; set; }
+```
+```vb
+Public Property PropertiesWindow As PropertiesWindow
+	Get
+	Set
+```
+```cpp
+public:
+property PropertiesWindow^ PropertiesWindow {
+	PropertiesWindow^ get ();
+	void set (PropertiesWindow^ value);
+}
+```
+
+
+#### Значение свойства
+
+[PropertiesWindow](T_TFlex_Command_PropertiesWindow.md)
+
+#### Ссылки
+
+[CommandState - ](T_TFlex_Command_CommandState.md)
+
+[TFlex.Command - пространство имён](N_TFlex_Command.md)

@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LoftOperationEdgePointValue - свойство  
+  
+---  
+  
+Возвращает параметр задания точки на ребре
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public Parameter Value { get; }
+```
+```vb
+Public ReadOnly Property Value As Parameter
+	Get
+```
+```cpp
+public:
+property Parameter^ Value {
+	Parameter^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[Parameter](T_TFlex_Model_Parameter.md)
+
+#### Ссылки
+
+[LoftOperationEdgePoint - ](T_TFlex_Model_Model3D_LoftOperation_EdgePoint.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

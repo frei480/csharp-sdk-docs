@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DocumentCloseAfterCurrentMacroCompletion - свойство  
+  
+---  
+  
+Закрыть документ после завершения текущего макроса
+
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public bool CloseAfterCurrentMacroCompletion { get; set; }
+```
+```vb
+Public Property CloseAfterCurrentMacroCompletion As Boolean
+	Get
+	Set
+```
+```cpp
+public:
+property bool CloseAfterCurrentMacroCompletion {
+	bool get ();
+	void set (bool value);
+}
+```
+
+
+#### Значение свойства
+
+[Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+
+#### Ссылки
+
+[Document - ](T_TFlex_Model_Document.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

@@ -1,0 +1,51 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ProxyOperationAddAxis - метод  
+  
+---  
+  
+Добавить ось в геометрию
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+protected bool AddAxis(
+	int index,
+	BaseAxis axis
+)
+```
+```vb
+Protected Function AddAxis ( 
+	index As Integer,
+	axis As BaseAxis
+) As Boolean
+```
+```cpp
+protected:
+bool AddAxis(
+	int index, 
+	BaseAxis^ axis
+)
+```
+
+
+#### Параметры
+
+index [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    Допустимое значение 0,1,2
+axis [BaseAxis](T_TFlex_Model_Model3D_Geometry_BaseAxis.md)
+    
+
+#### Возвращаемое значение
+
+[Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+
+Вызывается только в функции MakeGeometry
+
+#### Ссылки
+
+[ProxyOperation - ](T_TFlex_Model_Model3D_ProxyOperation.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

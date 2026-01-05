@@ -1,0 +1,49 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LinkBaseSetDesignation(String, MultilineText, String) - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model.Circuits](N_TFlex_Model_Circuits.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public abstract void SetDesignation(
+	string expression,
+	MultilineText text,
+	string delimiter
+)
+```
+```vb
+Public MustOverride Sub SetDesignation ( 
+	expression As String,
+	text As MultilineText,
+	delimiter As String
+)
+```
+```cpp
+public:
+virtual void SetDesignation(
+	String^ expression, 
+	MultilineText^ text, 
+	String^ delimiter
+) abstract
+```
+
+
+#### Параметры
+
+expression [String](https://learn.microsoft.com/dotnet/api/system.string)
+    
+text [MultilineText](T_TFlex_Model_Model2D_MultilineText.md)
+    
+delimiter [String](https://learn.microsoft.com/dotnet/api/system.string)
+    
+
+#### Ссылки
+
+[LinkBase - ](T_TFlex_Model_Circuits_LinkBase.md)
+
+[SetDesignation - перегрузка](Overload_TFlex_Model_Circuits_LinkBase_SetDesignation.md)
+
+[TFlex.Model.Circuits - пространство имён](N_TFlex_Model_Circuits.md)

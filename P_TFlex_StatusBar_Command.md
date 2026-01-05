@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# StatusBarCommand - свойство  
+  
+---  
+  
+Установить строку команды
+
+**Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public string Command { set; }
+```
+```vb
+Public WriteOnly Property Command As String
+	Set
+```
+```cpp
+public:
+property String^ Command {
+	void set (String^ value);
+}
+```
+
+
+#### Значение свойства
+
+[String](https://learn.microsoft.com/dotnet/api/system.string)
+
+#### Ссылки
+
+[StatusBar - ](T_TFlex_StatusBar.md)
+
+[TFlex - пространство имён](N_TFlex.md)

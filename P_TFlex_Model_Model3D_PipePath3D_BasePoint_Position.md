@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# PipePath3DBasePointPosition - свойство  
+  
+---  
+  
+Вовзращает позицию точку в ГСК
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public virtual Point3D Position { get; set; }
+```
+```vb
+Public Overridable Property Position As Point3D
+	Get
+	Set
+```
+```cpp
+public:
+virtual property Point3D^ Position {
+	Point3D^ get ();
+	void set (Point3D^ value);
+}
+```
+
+
+#### Значение свойства
+
+[Point3D](T_TFlex_Model_Model3D_Geometry_Point3D.md)
+
+#### Ссылки
+
+[PipePath3DBasePoint - ](T_TFlex_Model_Model3D_PipePath3D_BasePoint.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

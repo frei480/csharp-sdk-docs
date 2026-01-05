@@ -1,0 +1,29 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ConductorSetBaseRoundingModeType - перечисление  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public enum RoundingModeType
+```
+```vb
+Public Enumeration RoundingModeType
+```
+```cpp
+public enum class RoundingModeType
+```
+
+
+| Имя члена | Значение | Описание |
+| --- | --- | --- |
+| Disabled | 0 |  |
+| ToNearest | 1 |  |
+| Up | 2 |  |
+  
+#### Ссылки
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

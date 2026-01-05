@@ -1,0 +1,29 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# TermClear - метод  
+  
+---  
+  
+Очищает условие
+
+**Пространство имён:** [TFlex.Model.Data.Filters](N_TFlex_Model_Data_Filters.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
+
+```csharp
+public virtual void Clear()
+```
+```vb
+Public Overridable Sub Clear
+```
+```cpp
+public:
+virtual void Clear()
+```
+
+
+#### Ссылки
+
+[Term - ](T_TFlex_Model_Data_Filters_Term.md)
+
+[TFlex.Model.Data.Filters - пространство имён](N_TFlex_Model_Data_Filters.md)

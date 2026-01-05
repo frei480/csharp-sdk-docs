@@ -1,0 +1,47 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ExtendSurface(IntPtr, Boolean) - конструктор  
+  
+---  
+  
+Инициализирует новый экземпляр класса [ExtendSurface](T_TFlex_Model_Model3D_ExtendSurface.md)
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public ExtendSurface(
+	IntPtr handle,
+	bool fAddToContainer
+)
+```
+```vb
+Public Sub New ( 
+	handle As IntPtr,
+	fAddToContainer As Boolean
+)
+```
+```cpp
+public:
+ExtendSurface(
+	IntPtr handle, 
+	bool fAddToContainer
+)
+```
+
+
+#### Параметры
+
+handle [IntPtr](https://learn.microsoft.com/dotnet/api/system.intptr)
+    
+fAddToContainer [Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+    
+
+#### Ссылки
+
+[ExtendSurface - ](T_TFlex_Model_Model3D_ExtendSurface.md)
+
+[ExtendSurface - перегрузка](Overload_TFlex_Model_Model3D_ExtendSurface__ctor.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

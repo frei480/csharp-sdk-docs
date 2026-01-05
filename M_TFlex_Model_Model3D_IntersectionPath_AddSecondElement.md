@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# IntersectionPathAddSecondElement - метод  
+  
+---  
+  
+Добавить второй элемент
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public void AddSecondElement(
+	Object3D obj
+)
+```
+```vb
+Public Sub AddSecondElement ( 
+	obj As Object3D
+)
+```
+```cpp
+public:
+void AddSecondElement(
+	Object3D^ obj
+)
+```
+
+
+#### Параметры
+
+obj [Object3D](T_TFlex_Model_Model3D_Object3D.md)
+    
+
+#### Ссылки
+
+[IntersectionPath - ](T_TFlex_Model_Model3D_IntersectionPath.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# TerminalPointKey - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.ConductorModel](N_TFlex_Model_Model3D_ConductorModel.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public Guid Key { get; set; }
+```
+```vb
+Public Property Key As Guid
+	Get
+	Set
+```
+```cpp
+public:
+property Guid Key {
+	Guid get ();
+	void set (Guid value);
+}
+```
+
+
+#### Значение свойства
+
+[Guid](https://learn.microsoft.com/dotnet/api/system.guid)
+
+#### Ссылки
+
+[TerminalPoint - ](T_TFlex_Model_Model3D_ConductorModel_TerminalPoint.md)
+
+[TFlex.Model.Model3D.ConductorModel - пространство имён](N_TFlex_Model_Model3D_ConductorModel.md)

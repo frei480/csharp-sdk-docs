@@ -1,0 +1,29 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LeaderNoteExtension3D - конструктор  
+  
+---  
+  
+Инициализирует новый экземпляр класса [LeaderNoteExtension3D](T_TFlex_Model_Model3D_LeaderNoteExtension3D.md)
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public LeaderNoteExtension3D()
+```
+```vb
+Public Sub New
+```
+```cpp
+public:
+LeaderNoteExtension3D()
+```
+
+
+#### Ссылки
+
+[LeaderNoteExtension3D - ](T_TFlex_Model_Model3D_LeaderNoteExtension3D.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

@@ -1,0 +1,46 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# FragmentExplode(Boolean) - метод  
+  
+---  
+  
+Раскрыть фрагмент
+
+**Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public bool Explode(
+	bool createConstructions
+)
+```
+```vb
+Public Function Explode ( 
+	createConstructions As Boolean
+) As Boolean
+```
+```cpp
+public:
+bool Explode(
+	bool createConstructions
+)
+```
+
+
+#### Параметры
+
+createConstructions [Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+    Раскрыть фрагмент с построениями
+
+#### Возвращаемое значение
+
+[Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+
+#### Ссылки
+
+[Fragment - ](T_TFlex_Model_Model2D_Fragment.md)
+
+[Explode - перегрузка](Overload_TFlex_Model_Model2D_Fragment_Explode.md)
+
+[TFlex.Model.Model2D - пространство имён](N_TFlex_Model_Model2D.md)

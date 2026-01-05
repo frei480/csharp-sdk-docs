@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ManipulatorEndDrag - событие  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.Visual.Manipulators](N_TFlex_Model_Model3D_Visual_Manipulators.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public event EventHandler<ManipulatorEventArgs> EndDrag
+```
+```vb
+Public Event EndDrag As EventHandler(Of ManipulatorEventArgs)
+```
+```cpp
+public:
+ event EventHandler<ManipulatorEventArgs^>^ EndDrag {
+	void add (EventHandler<ManipulatorEventArgs^>^ value);
+	void remove (EventHandler<ManipulatorEventArgs^>^ value);
+}
+```
+
+
+#### Значение
+
+[EventHandler](https://learn.microsoft.com/dotnet/api/system.eventhandler-1)[ManipulatorEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_ManipulatorEventArgs.md)
+
+#### Ссылки
+
+[Manipulator - ](T_TFlex_Model_Model3D_Visual_Manipulators_Manipulator.md)
+
+[TFlex.Model.Model3D.Visual.Manipulators - пространство имён](N_TFlex_Model_Model3D_Visual_Manipulators.md)

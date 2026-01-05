@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# SegmentBound - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.ConductorModel](N_TFlex_Model_Model3D_ConductorModel.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public SegmentBound Bound { get; }
+```
+```vb
+Public ReadOnly Property Bound As SegmentBound
+	Get
+```
+```cpp
+public:
+property SegmentBound^ Bound {
+	SegmentBound^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[SegmentBound](T_TFlex_Model_Model3D_ConductorModel_SegmentBound.md)
+
+#### Ссылки
+
+[Segment - ](T_TFlex_Model_Model3D_ConductorModel_Segment.md)
+
+[TFlex.Model.Model3D.ConductorModel - пространство имён](N_TFlex_Model_Model3D_ConductorModel.md)

@@ -1,0 +1,29 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ParamProviderMap - конструктор  
+  
+---  
+  
+Инициализирует новый экземпляр класса [ParamProviderMap](T_TFlex_Model_Data_ProductStructure_ParamProviderMap.md)
+
+**Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
+
+```csharp
+public ParamProviderMap()
+```
+```vb
+Public Sub New
+```
+```cpp
+public:
+ParamProviderMap()
+```
+
+
+#### Ссылки
+
+[ParamProviderMap - ](T_TFlex_Model_Data_ProductStructure_ParamProviderMap.md)
+
+[TFlex.Model.Data.ProductStructure - пространство имён](N_TFlex_Model_Data_ProductStructure.md)

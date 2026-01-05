@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# BaseGeneratorLastResult - свойство  
+  
+---  
+  
+Результат
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public string LastResult { get; set; }
+```
+```vb
+Public Property LastResult As String
+	Get
+	Set
+```
+```cpp
+public:
+property String^ LastResult {
+	String^ get ();
+	void set (String^ value);
+}
+```
+
+
+#### Значение свойства
+
+[String](https://learn.microsoft.com/dotnet/api/system.string)
+
+#### Ссылки
+
+[BaseGenerator - ](T_TFlex_Model_Model3D_Geometry_BaseGenerator.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

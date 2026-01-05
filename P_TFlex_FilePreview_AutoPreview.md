@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# FilePreviewAutoPreview - свойство  
+  
+---  
+  
+Просматривать сразу при выборе файла
+
+**Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public bool AutoPreview { get; set; }
+```
+```vb
+Public Property AutoPreview As Boolean
+	Get
+	Set
+```
+```cpp
+public:
+property bool AutoPreview {
+	bool get ();
+	void set (bool value);
+}
+```
+
+
+#### Значение свойства
+
+[Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+
+#### Ссылки
+
+[FilePreview - ](T_TFlex_FilePreview.md)
+
+[TFlex - пространство имён](N_TFlex.md)

@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# TerminalPointDirection - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.ConductorModel](N_TFlex_Model_Model3D_ConductorModel.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public BaseDirection Direction { get; set; }
+```
+```vb
+Public Property Direction As BaseDirection
+	Get
+	Set
+```
+```cpp
+public:
+property BaseDirection^ Direction {
+	BaseDirection^ get ();
+	void set (BaseDirection^ value);
+}
+```
+
+
+#### Значение свойства
+
+[BaseDirection](T_TFlex_Model_Model3D_Geometry_BaseDirection.md)
+
+#### Ссылки
+
+[TerminalPoint - ](T_TFlex_Model_Model3D_ConductorModel_TerminalPoint.md)
+
+[TFlex.Model.Model3D.ConductorModel - пространство имён](N_TFlex_Model_Model3D_ConductorModel.md)

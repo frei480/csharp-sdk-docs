@@ -1,0 +1,46 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# UnitTypeInequality - оператор  
+  
+---  
+**Пространство имён:** [TFlex.Model.Units](N_TFlex_Model_Units.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public static bool operator !=(
+	UnitType leftUnitType,
+	UnitType rightUnitType
+)
+```
+```vb
+Public Shared Operator <> ( 
+	leftUnitType As UnitType,
+	rightUnitType As UnitType
+) As Boolean
+```
+```cpp
+public:
+static bool operator !=(
+	UnitType^ leftUnitType, 
+	UnitType^ rightUnitType
+)
+```
+
+
+#### Параметры
+
+leftUnitType [UnitType](T_TFlex_Model_Units_UnitType.md)
+    
+rightUnitType [UnitType](T_TFlex_Model_Units_UnitType.md)
+    
+
+#### Возвращаемое значение
+
+[Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+
+#### Ссылки
+
+[UnitType - ](T_TFlex_Model_Units_UnitType.md)
+
+[TFlex.Model.Units - пространство имён](N_TFlex_Model_Units.md)

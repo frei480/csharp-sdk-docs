@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# WireSetManipulatorOnSelect - событие  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.Visual.Manipulators](N_TFlex_Model_Model3D_Visual_Manipulators.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public event EventHandler<WireSetManipulatorSelectEventArgs> OnSelect
+```
+```vb
+Public Event OnSelect As EventHandler(Of WireSetManipulatorSelectEventArgs)
+```
+```cpp
+public:
+ event EventHandler<WireSetManipulatorSelectEventArgs^>^ OnSelect {
+	void add (EventHandler<WireSetManipulatorSelectEventArgs^>^ value);
+	void remove (EventHandler<WireSetManipulatorSelectEventArgs^>^ value);
+}
+```
+
+
+#### Значение
+
+[EventHandler](https://learn.microsoft.com/dotnet/api/system.eventhandler-1)[WireSetManipulatorSelectEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_WireSetManipulator_SelectEventArgs.md)
+
+#### Ссылки
+
+[WireSetManipulator - ](T_TFlex_Model_Model3D_Visual_Manipulators_WireSetManipulator.md)
+
+[TFlex.Model.Model3D.Visual.Manipulators - пространство имён](N_TFlex_Model_Model3D_Visual_Manipulators.md)

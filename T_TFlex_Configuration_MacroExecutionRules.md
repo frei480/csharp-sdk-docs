@@ -1,0 +1,29 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# MacroExecutionRules - перечисление  
+  
+---  
+**Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public enum MacroExecutionRules
+```
+```vb
+Public Enumeration MacroExecutionRules
+```
+```cpp
+public enum class MacroExecutionRules
+```
+
+
+| Имя члена | Значение | Описание |
+| --- | --- | --- |
+| Always | 0 |  |
+| Only2D | 1 |  |
+| Only3D | 2 |  |
+  
+#### Ссылки
+
+[TFlex.Configuration - пространство имён](N_TFlex_Configuration.md)

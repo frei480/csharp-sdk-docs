@@ -1,0 +1,42 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# EllipseTypes - перечисление  
+  
+---  
+  
+Типы привязок эллипсов
+
+**Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public enum EllipseTypes
+```
+```vb
+Public Enumeration EllipseTypes
+```
+```cpp
+public enum class EllipseTypes
+```
+
+
+| Имя члена | Значение | Описание |
+| --- | --- | --- |
+| Undefined | 0 | Не определён |
+| CenterAndTwoNodes | 1 | С центром в узле, проходящий через два узла |
+| CenterAndNodeAndRadius | 2 | С центром в узле, проходящий через узел, с заданным радиусом |
+| ThreeNodes | 3 | С заданной полуосью, проходящий через узел |
+| TwoNodesAndRadius | 4 | С заданной полуосью, с заданным радиусом |
+| CenterAndNodeAndLine | 5 | С центром, проходящий через узел и касательный к прямой |
+| TwoNodesAndLine | 6 | С заданной полуосью, касательный к прямой |
+| CenterAndLineAndNode | 7 | С центром в узле, касательный к прямой, проходящий через узел |
+| CircleAndNode | 8 | С полуосью, заданной окружностью, проходящий через узел |
+| CircleAndLine | 9 | С полуосью, заданной окружностью, касательный к прямой |
+| NodeAndTwoLines | 10 | Проходящий через узел, касательный к двум прямым |
+| CenterAndLineAndRadius | 11 | Проходящий через узел, касательный к прямой, с заданным радиусом |
+| Outline | 12 | Проходящий по линии изображения (эллипсу или дуге эллипса) |
+  
+#### Ссылки
+
+[TFlex.Model.Model2D - пространство имён](N_TFlex_Model_Model2D.md)

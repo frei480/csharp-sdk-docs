@@ -1,0 +1,29 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# GeometryModification - конструктор  
+  
+---  
+  
+Инициализирует новый экземпляр класса [GeometryModification](T_TFlex_Model_Model3D_Visual_Manipulators_GeometryModification.md)
+
+**Пространство имён:** [TFlex.Model.Model3D.Visual.Manipulators](N_TFlex_Model_Model3D_Visual_Manipulators.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public GeometryModification()
+```
+```vb
+Public Sub New
+```
+```cpp
+public:
+GeometryModification()
+```
+
+
+#### Ссылки
+
+[GeometryModification - ](T_TFlex_Model_Model3D_Visual_Manipulators_GeometryModification.md)
+
+[TFlex.Model.Model3D.Visual.Manipulators - пространство имён](N_TFlex_Model_Model3D_Visual_Manipulators.md)

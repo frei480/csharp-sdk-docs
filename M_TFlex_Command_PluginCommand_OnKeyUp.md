@@ -1,0 +1,37 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# PluginCommandOnKeyUp - метод  
+  
+---  
+**Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public virtual void OnKeyUp(
+	KeyEventArgs e
+)
+```
+```vb
+Public Overridable Sub OnKeyUp ( 
+	e As KeyEventArgs
+)
+```
+```cpp
+public:
+virtual void OnKeyUp(
+	KeyEventArgs^ e
+)
+```
+
+
+#### Параметры
+
+e [KeyEventArgs](T_TFlex_Command_KeyEventArgs.md)
+    
+
+#### Ссылки
+
+[PluginCommand - ](T_TFlex_Command_PluginCommand.md)
+
+[TFlex.Command - пространство имён](N_TFlex_Command.md)

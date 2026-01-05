@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# PointsLCSExternalType - свойство  
+  
+---  
+  
+Тип внешней ЛСК
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public LcsExternalType ExternalType { get; set; }
+```
+```vb
+Public Property ExternalType As LcsExternalType
+	Get
+	Set
+```
+```cpp
+public:
+property LcsExternalType ExternalType {
+	LcsExternalType get ();
+	void set (LcsExternalType value);
+}
+```
+
+
+#### Значение свойства
+
+[LcsExternalType](T_TFlex_Model_Model3D_LcsExternalType.md)
+
+#### Ссылки
+
+[PointsLCS - ](T_TFlex_Model_Model3D_PointsLCS.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

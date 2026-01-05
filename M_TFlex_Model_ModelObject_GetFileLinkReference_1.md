@@ -1,0 +1,51 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ModelObjectGetFileLinkReference(Int32, ModelObjectArrayIndices) - метод  
+  
+---  
+  
+Получить ссылку на файл по ключу и индексу. Используется для организации массивов
+
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public FileLink GetFileLinkReference(
+	int id,
+	ModelObjectArrayIndices indices
+)
+```
+```vb
+Public Function GetFileLinkReference ( 
+	id As Integer,
+	indices As ModelObjectArrayIndices
+) As FileLink
+```
+```cpp
+public:
+FileLink^ GetFileLinkReference(
+	int id, 
+	ModelObjectArrayIndices^ indices
+)
+```
+
+
+#### Параметры
+
+id [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    Идентификатор ключа, по которому в контейнере ссылок хранится ссылка
+indices [ModelObjectArrayIndices](T_TFlex_Model_ModelObject_ArrayIndices.md)
+    Координаты элемента
+
+#### Возвращаемое значение
+
+[FileLink](T_TFlex_Model_FileLink.md)
+
+#### Ссылки
+
+[ModelObject - ](T_TFlex_Model_ModelObject.md)
+
+[GetFileLinkReference - перегрузка](Overload_TFlex_Model_ModelObject_GetFileLinkReference.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

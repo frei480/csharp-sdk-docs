@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# StandardUnitsLengthMeter - свойство  
+  
+---  
+  
+Метр; м; m; 
+
+Тип - Длина
+
+**Пространство имён:** [TFlex.Model.Units](N_TFlex_Model_Units.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public static Unit Meter { get; }
+```
+```vb
+Public Shared ReadOnly Property Meter As Unit
+	Get
+```
+```cpp
+public:
+static property Unit^ Meter {
+	Unit^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[Unit](T_TFlex_Model_Units_Unit.md)
+
+#### Ссылки
+
+[StandardUnitsLength - ](T_TFlex_Model_Units_StandardUnits_Length.md)
+
+[TFlex.Model.Units - пространство имён](N_TFlex_Model_Units.md)

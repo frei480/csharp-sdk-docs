@@ -1,0 +1,52 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LoftSetCouplingPointVector - метод  
+  
+---  
+  
+Задать векторное условие в точке соответствия
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public void SetCouplingPointVector(
+	int couplingIndex,
+	int profileIndex,
+	LoftVectorDirection condition
+)
+```
+```vb
+Public Sub SetCouplingPointVector ( 
+	couplingIndex As Integer,
+	profileIndex As Integer,
+	condition As LoftVectorDirection
+)
+```
+```cpp
+public:
+void SetCouplingPointVector(
+	int couplingIndex, 
+	int profileIndex, 
+	LoftVectorDirection^ condition
+)
+```
+
+
+#### Параметры
+
+couplingIndex [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    Индекс соответствия (начинается с нуля)
+profileIndex [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    Номер профиля (начинается с нуля)
+condition [LoftVectorDirection](T_TFlex_Model_Model3D_Loft_VectorDirection.md)
+    Векторное граничное условие
+
+Векторные граничные условия не могут быть заданы, если для указанного профиля задан другой тип граничного условия
+
+#### Ссылки
+
+[Loft - ](T_TFlex_Model_Model3D_Loft.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

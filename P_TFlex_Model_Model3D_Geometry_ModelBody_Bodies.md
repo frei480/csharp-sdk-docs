@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ModelBodyBodies - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public ModelBodies Bodies { get; }
+```
+```vb
+Public ReadOnly Property Bodies As ModelBodies
+	Get
+```
+```cpp
+public:
+property ModelBodies^ Bodies {
+	ModelBodies^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[ModelBodies](T_TFlex_Model_Model3D_Geometry_ModelBodies.md)
+
+#### Ссылки
+
+[ModelBody - ](T_TFlex_Model_Model3D_Geometry_ModelBody.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

@@ -1,0 +1,42 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ElementInfoApplyDataToElement - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public void ApplyDataToElement(
+	Element elem,
+	ElementInfoContent content
+)
+```
+```vb
+Public Sub ApplyDataToElement ( 
+	elem As Element,
+	content As ElementInfoContent
+)
+```
+```cpp
+public:
+void ApplyDataToElement(
+	Element^ elem, 
+	ElementInfoContent content
+)
+```
+
+
+#### Параметры
+
+elem [Element](T_TFlex_Model_Structure_Element.md)
+    
+content [ElementInfoContent](T_TFlex_Model_Structure_ElementInfoContent.md)
+    
+
+#### Ссылки
+
+[ElementInfo - ](T_TFlex_Model_Structure_ElementInfo.md)
+
+[TFlex.Model.Structure - пространство имён](N_TFlex_Model_Structure.md)

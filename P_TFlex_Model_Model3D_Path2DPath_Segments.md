@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# Path2DPathSegments - свойство  
+  
+---  
+  
+Получить упорядоченное множество сегментов
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public Path2DPathSegmentsSet Segments { get; }
+```
+```vb
+Public ReadOnly Property Segments As Path2DPathSegmentsSet
+	Get
+```
+```cpp
+public:
+property Path2DPathSegmentsSet^ Segments {
+	Path2DPathSegmentsSet^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[Path2DPathSegmentsSet](T_TFlex_Model_Model3D_Path2DPath_SegmentsSet.md)
+
+#### Ссылки
+
+[Path2DPath - ](T_TFlex_Model_Model3D_Path2DPath.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

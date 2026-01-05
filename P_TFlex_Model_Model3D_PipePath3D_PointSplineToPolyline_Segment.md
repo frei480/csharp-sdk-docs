@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# PipePath3DPointSplineToPolylineSegment - свойство  
+  
+---  
+  
+Возвращает сегмент пути
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public PipePath3DSegmentSplineToPolyline Segment { get; }
+```
+```vb
+Public ReadOnly Property Segment As PipePath3DSegmentSplineToPolyline
+	Get
+```
+```cpp
+public:
+property PipePath3DSegmentSplineToPolyline^ Segment {
+	PipePath3DSegmentSplineToPolyline^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[PipePath3DSegmentSplineToPolyline](T_TFlex_Model_Model3D_PipePath3D_SegmentSplineToPolyline.md)
+
+#### Ссылки
+
+[PipePath3DPointSplineToPolyline - ](T_TFlex_Model_Model3D_PipePath3D_PointSplineToPolyline.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

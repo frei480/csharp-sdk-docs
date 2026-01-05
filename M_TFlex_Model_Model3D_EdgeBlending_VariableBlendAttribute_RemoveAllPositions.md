@@ -1,0 +1,31 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# EdgeBlendingVariableBlendAttributeRemoveAllPositions - метод  
+  
+---  
+  
+Добавить позицию
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public void RemoveAllPositions()
+```
+```vb
+Public Sub RemoveAllPositions
+```
+```cpp
+public:
+void RemoveAllPositions()
+```
+
+
+Удаляет позиции с номерами 1..PositionCount-2
+
+#### Ссылки
+
+[EdgeBlendingVariableBlendAttribute - ](T_TFlex_Model_Model3D_EdgeBlending_VariableBlendAttribute.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

@@ -1,0 +1,28 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ValueListSource - перечисление  
+  
+---  
+**Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public enum ValueListSource
+```
+```vb
+Public Enumeration ValueListSource
+```
+```cpp
+public enum class ValueListSource
+```
+
+
+| Имя члена | Значение | Описание |
+| --- | --- | --- |
+| Undefined | 0 |  |
+| LibraryConfiguration | 1 |  |
+  
+#### Ссылки
+
+[TFlex.Model.Structure - пространство имён](N_TFlex_Model_Structure.md)

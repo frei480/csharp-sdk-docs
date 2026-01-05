@@ -1,0 +1,53 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ObjectSelectControlStateUpdateEventArgs - класс  
+  
+---  
+  
+Данные события смены состояния ObjectSelectControl
+
+[SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.DialogsBaseEventArgs](T_TFlex_Dialogs_BaseEventArgs.md) TFlex.DialogsObjectSelectControlStateUpdateEventArgs
+
+**Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public class ObjectSelectControlStateUpdateEventArgs : BaseEventArgs
+```
+```vb
+Public Class ObjectSelectControlStateUpdateEventArgs
+	Inherits BaseEventArgs
+```
+```cpp
+public ref class ObjectSelectControlStateUpdateEventArgs : public BaseEventArgs
+```
+
+
+Тип ObjectSelectControlStateUpdateEventArgs предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Handled](P_TFlex_Dialogs_BaseEventArgs_Handled.md) | Помечает событие как обработанное(Унаследован от [BaseEventArgs](T_TFlex_Dialogs_BaseEventArgs.md)) |
+|  | [HasNewEditBegun](P_TFlex_Dialogs_ObjectSelectControlStateUpdateEventArgs_HasNewEditBegun.md) | Возвращает true, если новое редактирование пользователем было начато |
+|  | [HasOldEditEnded](P_TFlex_Dialogs_ObjectSelectControlStateUpdateEventArgs_HasOldEditEnded.md) | Возвращает true, если редактирование пользователем было завершено |
+|  | [HasRemovedObjects](P_TFlex_Dialogs_ObjectSelectControlStateUpdateEventArgs_HasRemovedObjects.md) | Возвращает true, если объекты были удалены |
+|  | [HasSelectionChanged](P_TFlex_Dialogs_ObjectSelectControlStateUpdateEventArgs_HasSelectionChanged.md) | Возвращает true, если изменилась селекция |
+|  | [NewEditPos](P_TFlex_Dialogs_ObjectSelectControlStateUpdateEventArgs_NewEditPos.md) | Возвращает положение нового редактируемого объекта |
+|  | [NewSelection](P_TFlex_Dialogs_ObjectSelectControlStateUpdateEventArgs_NewSelection.md) | Возвращает сортированную коллекцию индексов новых выбранных объектов |
+|  | [OldEditPos](P_TFlex_Dialogs_ObjectSelectControlStateUpdateEventArgs_OldEditPos.md) | Возвращает положение прежнего редактируемого объекта |
+|  | [OldSelection](P_TFlex_Dialogs_ObjectSelectControlStateUpdateEventArgs_OldSelection.md) | Возвращает сортированную коллекцию индексов предыдущих выбранных объектов |
+|  | [RemovedObjects](P_TFlex_Dialogs_ObjectSelectControlStateUpdateEventArgs_RemovedObjects.md) | Возвращает коллекцию удалённых объектов |
+  
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Equals](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals\(system-object\)) | Determines whether the specified object is equal to the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [Finalize](https://learn.microsoft.com/dotnet/api/system.object.finalize) | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetHashCode](https://learn.microsoft.com/dotnet/api/system.object.gethashcode) | Serves as the default hash function. (Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetType](https://learn.microsoft.com/dotnet/api/system.object.gettype) | Gets the [Type](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [MemberwiseClone](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone) | Creates a shallow copy of the current [Object](https://learn.microsoft.com/dotnet/api/system.object).(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [ToString](https://learn.microsoft.com/dotnet/api/system.object.tostring) | Returns a string that represents the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+  
+#### Ссылки
+
+[TFlex.Dialogs - пространство имён](N_TFlex_Dialogs.md)

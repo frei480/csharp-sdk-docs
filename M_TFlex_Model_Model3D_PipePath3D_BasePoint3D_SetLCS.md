@@ -1,0 +1,45 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# PipePath3DBasePoint3DSetLCS - метод  
+  
+---  
+  
+Управляет ЛСК в точке
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public void SetLCS(
+	LCS lcs,
+	bool recalculate_position
+)
+```
+```vb
+Public Sub SetLCS ( 
+	lcs As LCS,
+	recalculate_position As Boolean
+)
+```
+```cpp
+public:
+void SetLCS(
+	LCS^ lcs, 
+	bool recalculate_position
+)
+```
+
+
+#### Параметры
+
+lcs [LCS](T_TFlex_Model_Model3D_LCS.md)
+    
+recalculate_position [Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+    
+
+#### Ссылки
+
+[PipePath3DBasePoint3D - ](T_TFlex_Model_Model3D_PipePath3D_BasePoint3D.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

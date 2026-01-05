@@ -1,0 +1,44 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DocumentDeleteUnusedObjects - метод  
+  
+---  
+  
+Удаление неиспользуемых объектов документа
+
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public bool DeleteUnusedObjects(
+	DeleteUnusedOptions options
+)
+```
+```vb
+Public Function DeleteUnusedObjects ( 
+	options As DeleteUnusedOptions
+) As Boolean
+```
+```cpp
+public:
+bool DeleteUnusedObjects(
+	DeleteUnusedOptions^ options
+)
+```
+
+
+#### Параметры
+
+options [DeleteUnusedOptions](T_TFlex_Model_DeleteUnusedOptions.md)
+    Опции удаления объектов модели
+
+#### Возвращаемое значение
+
+[Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)true в случае успешного удаления, иначе false
+
+#### Ссылки
+
+[Document - ](T_TFlex_Model_Document.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

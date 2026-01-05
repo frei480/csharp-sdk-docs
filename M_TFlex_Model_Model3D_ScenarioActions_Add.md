@@ -1,0 +1,32 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ScenarioActionsAdd - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public ScenarioAction Add()
+```
+```vb
+Public Function Add As ScenarioAction
+```
+```cpp
+public:
+ScenarioAction^ Add()
+```
+
+
+#### Возвращаемое значение
+
+[ScenarioAction](T_TFlex_Model_Model3D_ScenarioAction.md)
+
+#### Ссылки
+
+[ScenarioActions - ](T_TFlex_Model_Model3D_ScenarioActions.md)
+
+[Add - перегрузка](Overload_TFlex_Model_Model3D_ScenarioActions_Add.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

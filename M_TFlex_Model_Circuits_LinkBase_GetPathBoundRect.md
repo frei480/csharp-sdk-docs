@@ -1,0 +1,46 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LinkBaseGetPathBoundRect - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model.Circuits](N_TFlex_Model_Circuits.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public abstract Rectangle GetPathBoundRect(
+	FixingVector point1,
+	FixingVector point2
+)
+```
+```vb
+Public MustOverride Function GetPathBoundRect ( 
+	point1 As FixingVector,
+	point2 As FixingVector
+) As Rectangle
+```
+```cpp
+public:
+virtual Rectangle GetPathBoundRect(
+	FixingVector^ point1, 
+	FixingVector^ point2
+) abstract
+```
+
+
+#### Параметры
+
+point1 [FixingVector](T_TFlex_Model_Model2D_FixingVector.md)
+    
+point2 [FixingVector](T_TFlex_Model_Model2D_FixingVector.md)
+    
+
+#### Возвращаемое значение
+
+[Rectangle](T_TFlex_Drawing_Rectangle.md)
+
+#### Ссылки
+
+[LinkBase - ](T_TFlex_Model_Circuits_LinkBase.md)
+
+[TFlex.Model.Circuits - пространство имён](N_TFlex_Model_Circuits.md)

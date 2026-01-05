@@ -1,0 +1,37 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# FragmentVariableValuesCurrent - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public virtual Object Current { get; }
+```
+```vb
+Public Overridable ReadOnly Property Current As Object
+	Get
+```
+```cpp
+public:
+virtual property Object^ Current {
+	Object^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[Object](https://learn.microsoft.com/dotnet/api/system.object)
+
+#### Реализации
+
+[IEnumeratorCurrent](https://learn.microsoft.com/dotnet/api/system.collections.ienumerator.current)
+
+#### Ссылки
+
+[FragmentVariableValues - ](T_TFlex_Model_FragmentVariableValues.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

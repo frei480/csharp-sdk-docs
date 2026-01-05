@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DimensionHasSourceLines - свойство  
+  
+---  
+  
+Проверить размер на возможность приведения параметра номинала размера к типу "По исходным линиям"
+
+**Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public bool HasSourceLines { get; }
+```
+```vb
+Public ReadOnly Property HasSourceLines As Boolean
+	Get
+```
+```cpp
+public:
+property bool HasSourceLines {
+	bool get ();
+}
+```
+
+
+#### Значение свойства
+
+[Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+
+#### Ссылки
+
+[Dimension - ](T_TFlex_Model_Model2D_Dimension.md)
+
+[TFlex.Model.Model2D - пространство имён](N_TFlex_Model_Model2D.md)

@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# HoleHoleAxis - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public BaseAxis HoleAxis { get; }
+```
+```vb
+Public ReadOnly Property HoleAxis As BaseAxis
+	Get
+```
+```cpp
+public:
+property BaseAxis^ HoleAxis {
+	BaseAxis^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[BaseAxis](T_TFlex_Model_Model3D_Geometry_BaseAxis.md)
+
+#### Ссылки
+
+[Hole - ](T_TFlex_Model_Model3D_Geometry_Hole.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

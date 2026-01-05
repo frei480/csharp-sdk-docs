@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# MaterialOperationRemoveFace - метод  
+  
+---  
+  
+Исключить грань из операции наложения материала
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public void RemoveFace(
+	ModelFace Face
+)
+```
+```vb
+Public Sub RemoveFace ( 
+	Face As ModelFace
+)
+```
+```cpp
+public:
+void RemoveFace(
+	ModelFace^ Face
+)
+```
+
+
+#### Параметры
+
+Face [ModelFace](T_TFlex_Model_Model3D_Geometry_ModelFace.md)
+    Грань
+
+#### Ссылки
+
+[MaterialOperation - ](T_TFlex_Model_Model3D_MaterialOperation.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

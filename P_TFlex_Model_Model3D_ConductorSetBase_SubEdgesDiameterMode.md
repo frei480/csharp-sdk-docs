@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ConductorSetBaseSubEdgesDiameterMode - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public ConductorSetBaseSpliceDiameterMode SubEdgesDiameterMode { get; set; }
+```
+```vb
+Public Property SubEdgesDiameterMode As ConductorSetBaseSpliceDiameterMode
+	Get
+	Set
+```
+```cpp
+public:
+property ConductorSetBaseSpliceDiameterMode SubEdgesDiameterMode {
+	ConductorSetBaseSpliceDiameterMode get ();
+	void set (ConductorSetBaseSpliceDiameterMode value);
+}
+```
+
+
+#### Значение свойства
+
+[ConductorSetBaseSpliceDiameterMode](T_TFlex_Model_Model3D_ConductorSetBase_SpliceDiameterMode.md)
+
+#### Ссылки
+
+[ConductorSetBase - ](T_TFlex_Model_Model3D_ConductorSetBase.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

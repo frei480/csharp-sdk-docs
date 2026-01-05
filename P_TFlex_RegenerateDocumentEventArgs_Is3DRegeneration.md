@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# RegenerateDocumentEventArgsIs3DRegeneration - свойство  
+  
+---  
+  
+Класс, содержащий данные о событии, возникшем при пересчете модели
+
+**Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public bool Is3DRegeneration { get; }
+```
+```vb
+Public ReadOnly Property Is3DRegeneration As Boolean
+	Get
+```
+```cpp
+public:
+property bool Is3DRegeneration {
+	bool get ();
+}
+```
+
+
+#### Значение свойства
+
+[Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+
+#### Ссылки
+
+[RegenerateDocumentEventArgs - ](T_TFlex_RegenerateDocumentEventArgs.md)
+
+[TFlex - пространство имён](N_TFlex.md)

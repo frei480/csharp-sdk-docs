@@ -1,0 +1,54 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# InternalDatabaseSetIntValue - метод  
+  
+---  
+  
+Установить целое значение в таблице
+
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public bool SetIntValue(
+	int column,
+	int row,
+	int value
+)
+```
+```vb
+Public Function SetIntValue ( 
+	column As Integer,
+	row As Integer,
+	value As Integer
+) As Boolean
+```
+```cpp
+public:
+bool SetIntValue(
+	int column, 
+	int row, 
+	int value
+)
+```
+
+
+#### Параметры
+
+column [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    Номер столбца
+row [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    Номер строки
+value [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    Целое значение
+
+#### Возвращаемое значение
+
+[Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+
+#### Ссылки
+
+[InternalDatabase - ](T_TFlex_Model_InternalDatabase.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

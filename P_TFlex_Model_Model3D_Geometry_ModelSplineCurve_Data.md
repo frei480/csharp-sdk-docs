@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ModelSplineCurveData - свойство  
+  
+---  
+  
+Получить описание сплайна
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public virtual SplineData Data { get; }
+```
+```vb
+Public Overridable ReadOnly Property Data As SplineData
+	Get
+```
+```cpp
+public:
+virtual property SplineData^ Data {
+	SplineData^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[SplineData](T_TFlex_Model_Model3D_Geometry_SplineData.md)
+
+#### Реализации
+
+[BaseSplineCurveData](P_TFlex_Model_Model3D_Geometry_BaseSplineCurve_Data.md)
+
+#### Ссылки
+
+[ModelSplineCurve - ](T_TFlex_Model_Model3D_Geometry_ModelSplineCurve.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

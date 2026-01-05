@@ -1,0 +1,37 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# BaseEdgeFaces - свойство  
+  
+---  
+  
+Множество смежных граней
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+BaseFaces Faces { get; }
+```
+```vb
+ReadOnly Property Faces As BaseFaces
+	Get
+```
+```cpp
+property BaseFaces^ Faces {
+	BaseFaces^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[BaseFaces](T_TFlex_Model_Model3D_Geometry_BaseFaces.md)
+
+Обычно смежных граней не больше двух
+
+#### Ссылки
+
+[BaseEdge - ](T_TFlex_Model_Model3D_Geometry_BaseEdge.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

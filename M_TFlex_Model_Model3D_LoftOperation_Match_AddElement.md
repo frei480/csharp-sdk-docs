@@ -1,0 +1,45 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LoftOperationMatchAddElement - метод  
+  
+---  
+  
+Добавить элемент в соответствие
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public void AddElement(
+	int sectionIndex,
+	LoftOperationPointOnContour point
+)
+```
+```vb
+Public Sub AddElement ( 
+	sectionIndex As Integer,
+	point As LoftOperationPointOnContour
+)
+```
+```cpp
+public:
+void AddElement(
+	int sectionIndex, 
+	LoftOperationPointOnContour^ point
+)
+```
+
+
+#### Параметры
+
+sectionIndex [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    Индекс сечения (начинается с 0)
+point [LoftOperationPointOnContour](T_TFlex_Model_Model3D_LoftOperation_PointOnContour.md)
+    
+
+#### Ссылки
+
+[LoftOperationMatch - ](T_TFlex_Model_Model3D_LoftOperation_Match.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

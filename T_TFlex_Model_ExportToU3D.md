@@ -1,0 +1,58 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ExportToU3D - класс  
+  
+---  
+  
+Класс экспорта в файл форматa U3D
+
+[SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelExportTo](T_TFlex_Model_ExportTo.md) [TFlex.ModelExportToFacet](T_TFlex_Model_ExportToFacet.md) TFlex.ModelExportToU3D
+
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public sealed class ExportToU3D : ExportToFacet
+```
+```vb
+Public NotInheritable Class ExportToU3D
+	Inherits ExportToFacet
+```
+```cpp
+public ref class ExportToU3D sealed : public ExportToFacet
+```
+
+
+Тип ExportToU3D предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [ExportToU3D](M_TFlex_Model_ExportToU3D__ctor.md) | Инициализирует новый экземпляр класса ExportToU3D |
+  
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [AngleTolerance](P_TFlex_Model_ExportToFacet_AngleTolerance.md) | Допуск по углу(Унаследован от [ExportToFacet](T_TFlex_Model_ExportToFacet.md)) |
+|  | [Archive](P_TFlex_Model_ExportToU3D_Archive.md) | Запаковать в архив |
+|  | [CacheObjects](P_TFlex_Model_ExportToU3D_CacheObjects.md) | Кэширование объектов |
+|  | [CreateLayers](P_TFlex_Model_ExportToU3D_CreateLayers.md) | Создавать слои |
+|  | [EdgeTolerance](P_TFlex_Model_ExportToFacet_EdgeTolerance.md) | Допуск по ребру(Унаследован от [ExportToFacet](T_TFlex_Model_ExportToFacet.md)) |
+|  | [ExportAttributes](P_TFlex_Model_ExportToU3D_ExportAttributes.md) | Экспорт атрибутов |
+|  | [ExportDecorations](P_TFlex_Model_ExportToU3D_ExportDecorations.md) | Экспорт элементов 3D оформления |
+|  | [ExportLightSources](P_TFlex_Model_ExportToU3D_ExportLightSources.md) | Экспорт источников света |
+|  | [ExportMaterials](P_TFlex_Model_ExportToU3D_ExportMaterials.md) | Экспорт материалов |
+|  | [ExportModelEdges](P_TFlex_Model_ExportToU3D_ExportModelEdges.md) | Экспорт рёбер моделей |
+|  | [Facet](P_TFlex_Model_ExportToFacet_Facet.md) | Качество сетки(Унаследован от [ExportToFacet](T_TFlex_Model_ExportToFacet.md)) |
+|  | [FaceTolerance](P_TFlex_Model_ExportToFacet_FaceTolerance.md) | Точность грани(Унаследован от [ExportToFacet](T_TFlex_Model_ExportToFacet.md)) |
+  
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Equals](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals\(system-object\)) | Determines whether the specified object is equal to the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [Export](M_TFlex_Model_ExportToU3D_Export.md) | Функция экспорта документа(Переопределяет [ExportToFacetExport(String)](M_TFlex_Model_ExportToFacet_Export.md)) |
+|  | [GetHashCode](https://learn.microsoft.com/dotnet/api/system.object.gethashcode) | Serves as the default hash function. (Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetType](https://learn.microsoft.com/dotnet/api/system.object.gettype) | Gets the [Type](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [ToString](https://learn.microsoft.com/dotnet/api/system.object.tostring) | Returns a string that represents the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+  
+#### Ссылки
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

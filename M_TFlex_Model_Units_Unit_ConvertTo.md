@@ -1,0 +1,46 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# UnitConvertTo - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model.Units](N_TFlex_Model_Units.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public double ConvertTo(
+	Unit trgUnit,
+	double value
+)
+```
+```vb
+Public Function ConvertTo ( 
+	trgUnit As Unit,
+	value As Double
+) As Double
+```
+```cpp
+public:
+double ConvertTo(
+	Unit^ trgUnit, 
+	double value
+)
+```
+
+
+#### Параметры
+
+trgUnit [Unit](T_TFlex_Model_Units_Unit.md)
+    
+value [Double](https://learn.microsoft.com/dotnet/api/system.double)
+    
+
+#### Возвращаемое значение
+
+[Double](https://learn.microsoft.com/dotnet/api/system.double)
+
+#### Ссылки
+
+[Unit - ](T_TFlex_Model_Units_Unit.md)
+
+[TFlex.Model.Units - пространство имён](N_TFlex_Model_Units.md)

@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# NumericInputControlState - свойство  
+  
+---  
+  
+Возвращает состояние NumericInputControl
+
+**Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public NumericInputControlState State { get; }
+```
+```vb
+Public ReadOnly Property State As NumericInputControlState
+	Get
+```
+```cpp
+public:
+property NumericInputControlState State {
+	NumericInputControlState get ();
+}
+```
+
+
+#### Значение свойства
+
+[NumericInputControlState](T_TFlex_Dialogs_NumericInputControlState.md)
+
+#### Ссылки
+
+[NumericInputControl - ](T_TFlex_Dialogs_NumericInputControl.md)
+
+[TFlex.Dialogs - пространство имён](N_TFlex_Dialogs.md)

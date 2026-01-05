@@ -1,0 +1,30 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ReferencesDriverFragment3Dm_Current - поле  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+protected int m_Current
+```
+```vb
+Protected m_Current As Integer
+```
+```cpp
+protected:
+int m_Current
+```
+
+
+#### Значение поля
+
+[Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+
+#### Ссылки
+
+[ReferencesDriverFragment3D - ](T_TFlex_Model_Model3D_ReferencesDriverFragment3D.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

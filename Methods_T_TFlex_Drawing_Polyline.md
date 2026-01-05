@@ -1,0 +1,23 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# Polyline - методы  
+  
+---  
+  
+Тип [Polyline](T_TFlex_Drawing_Polyline.md) предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Add](M_TFlex_Drawing_Polyline_Add.md) | Добавить точку к полилинии |
+|  | [Equals](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals\(system-object\)) | Determines whether the specified object is equal to the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetHashCode](https://learn.microsoft.com/dotnet/api/system.object.gethashcode) | Serves as the default hash function. (Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetType](https://learn.microsoft.com/dotnet/api/system.object.gettype) | Gets the [Type](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [ToString](https://learn.microsoft.com/dotnet/api/system.object.tostring) | Returns a string that represents the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+  
+#### Ссылки
+
+[Polyline - ](T_TFlex_Drawing_Polyline.md)
+
+[TFlex.Drawing - пространство имён](N_TFlex_Drawing.md)

@@ -1,0 +1,39 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# RunResultEntryObjectIdsCollectionAddRange(IEnumerableModelObject) - метод  
+  
+---  
+**Пространство имён:** [TFlex.QualityManagement](N_TFlex_QualityManagement.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public void AddRange(
+	IEnumerable<ModelObject> objects
+)
+```
+```vb
+Public Sub AddRange ( 
+	objects As IEnumerable(Of ModelObject)
+)
+```
+```cpp
+public:
+void AddRange(
+	IEnumerable<ModelObject^>^ objects
+)
+```
+
+
+#### Параметры
+
+objects [IEnumerable](https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1)[ModelObject](T_TFlex_Model_ModelObject.md)
+    
+
+#### Ссылки
+
+[RunResultEntryObjectIdsCollection - ](T_TFlex_QualityManagement_RunResultEntry_ObjectIdsCollection.md)
+
+[AddRange - перегрузка](Overload_TFlex_QualityManagement_RunResultEntry_ObjectIdsCollection_AddRange.md)
+
+[TFlex.QualityManagement - пространство имён](N_TFlex_QualityManagement.md)

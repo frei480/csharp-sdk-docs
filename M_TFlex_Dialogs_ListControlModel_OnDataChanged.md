@@ -1,0 +1,57 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ListControlModelOnDataChanged - метод  
+  
+---  
+**Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+
+```csharp
+protected virtual void OnDataChanged(
+	int row,
+	int rowCount,
+	int column,
+	int columnCount,
+	IList<ListItemRole> roles
+)
+```
+```vb
+Protected Overridable Sub OnDataChanged ( 
+	row As Integer,
+	rowCount As Integer,
+	column As Integer,
+	columnCount As Integer,
+	roles As IList(Of ListItemRole)
+)
+```
+```cpp
+protected:
+virtual void OnDataChanged(
+	int row, 
+	int rowCount, 
+	int column, 
+	int columnCount, 
+	IList<ListItemRole>^ roles
+)
+```
+
+
+#### Параметры
+
+row [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    
+rowCount [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    
+column [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    
+columnCount [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    
+roles [IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)[ListItemRole](T_TFlex_Dialogs_ListItemRole.md)
+    
+
+#### Ссылки
+
+[ListControlModel - ](T_TFlex_Dialogs_ListControlModel.md)
+
+[TFlex.Dialogs - пространство имён](N_TFlex_Dialogs.md)

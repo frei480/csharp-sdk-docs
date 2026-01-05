@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ParameterDescriptorValuesList - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
+
+```csharp
+public ObservableCollection<string> ValuesList { get; set; }
+```
+```vb
+Public Property ValuesList As ObservableCollection(Of String)
+	Get
+	Set
+```
+```cpp
+public:
+property ObservableCollection<String^>^ ValuesList {
+	ObservableCollection<String^>^ get ();
+	void set (ObservableCollection<String^>^ value);
+}
+```
+
+
+#### Значение свойства
+
+[ObservableCollection](https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.observablecollection-1)[String](https://learn.microsoft.com/dotnet/api/system.string)
+
+#### Ссылки
+
+[ParameterDescriptor - ](T_TFlex_Model_Data_ProductStructure_ParameterDescriptor.md)
+
+[TFlex.Model.Data.ProductStructure - пространство имён](N_TFlex_Model_Data_ProductStructure.md)

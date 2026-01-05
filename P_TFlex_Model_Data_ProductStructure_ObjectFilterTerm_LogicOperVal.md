@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ObjectFilterTermLogicOperVal - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
+
+```csharp
+public LogicOper LogicOperVal { get; set; }
+```
+```vb
+Public Property LogicOperVal As LogicOper
+	Get
+	Set
+```
+```cpp
+public:
+property LogicOper LogicOperVal {
+	LogicOper get ();
+	void set (LogicOper value);
+}
+```
+
+
+#### Значение свойства
+
+[LogicOper](T_TFlex_Model_Data_ProductStructure_LogicOper.md)
+
+#### Ссылки
+
+[ObjectFilterTerm - ](T_TFlex_Model_Data_ProductStructure_ObjectFilterTerm.md)
+
+[TFlex.Model.Data.ProductStructure - пространство имён](N_TFlex_Model_Data_ProductStructure.md)

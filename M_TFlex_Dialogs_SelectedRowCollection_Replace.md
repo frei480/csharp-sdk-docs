@@ -1,0 +1,37 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# SelectedRowCollectionReplace - метод  
+  
+---  
+**Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public void Replace(
+	IList<int> newSelectedRows
+)
+```
+```vb
+Public Sub Replace ( 
+	newSelectedRows As IList(Of Integer)
+)
+```
+```cpp
+public:
+void Replace(
+	IList<int>^ newSelectedRows
+)
+```
+
+
+#### Параметры
+
+newSelectedRows [IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)[Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    
+
+#### Ссылки
+
+[SelectedRowCollection - ](T_TFlex_Dialogs_SelectedRowCollection.md)
+
+[TFlex.Dialogs - пространство имён](N_TFlex_Dialogs.md)

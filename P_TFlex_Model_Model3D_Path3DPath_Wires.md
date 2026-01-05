@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# Path3DPathWires - свойство  
+  
+---  
+  
+Множество проволочных моделей
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public WiresArray Wires { get; }
+```
+```vb
+Public ReadOnly Property Wires As WiresArray
+	Get
+```
+```cpp
+public:
+property WiresArray^ Wires {
+	WiresArray^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[WiresArray](T_TFlex_Model_Model3D_Geometry_WiresArray.md)
+
+В настоящей версии в качестве проволочных моделей можно выбирать только 3D пути. В остальных случаях путь строится не будет
+
+#### Ссылки
+
+[Path3DPath - ](T_TFlex_Model_Model3D_Path3DPath.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

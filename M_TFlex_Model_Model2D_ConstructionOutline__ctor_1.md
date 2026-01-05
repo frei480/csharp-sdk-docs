@@ -1,0 +1,52 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ConstructionOutline(Document, Node, Node) - конструктор  
+  
+---  
+  
+Конструктор, задающий узлы между которыми будет проведён отрезок
+
+**Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public ConstructionOutline(
+	Document document,
+	Node startNode,
+	Node endNode
+)
+```
+```vb
+Public Sub New ( 
+	document As Document,
+	startNode As Node,
+	endNode As Node
+)
+```
+```cpp
+public:
+ConstructionOutline(
+	Document^ document, 
+	Node^ startNode, 
+	Node^ endNode
+)
+```
+
+
+#### Параметры
+
+document [Document](T_TFlex_Model_Document.md)
+    Документ объекта
+startNode [Node](T_TFlex_Model_Model2D_Node.md)
+    Первый узел
+endNode [Node](T_TFlex_Model_Model2D_Node.md)
+    Второй узел
+
+#### Ссылки
+
+[ConstructionOutline - ](T_TFlex_Model_Model2D_ConstructionOutline.md)
+
+[ConstructionOutline - перегрузка](Overload_TFlex_Model_Model2D_ConstructionOutline__ctor.md)
+
+[TFlex.Model.Model2D - пространство имён](N_TFlex_Model_Model2D.md)

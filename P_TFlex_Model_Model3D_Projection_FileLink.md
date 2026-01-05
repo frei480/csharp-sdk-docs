@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ProjectionFileLink - свойство  
+  
+---  
+  
+Ссылка на файл, из которого берутся проецируемые элементы
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public FileLink FileLink { get; }
+```
+```vb
+Public ReadOnly Property FileLink As FileLink
+	Get
+```
+```cpp
+public:
+property FileLink^ FileLink {
+	FileLink^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[FileLink](T_TFlex_Model_FileLink.md)
+
+#### Ссылки
+
+[Projection - ](T_TFlex_Model_Model3D_Projection.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

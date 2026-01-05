@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# FormlimitsLeaderFontStyle - свойство  
+  
+---  
+  
+Стиль шрифта текста для получения или установки его параметров
+
+**Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public FontStyle FontStyle { get; }
+```
+```vb
+Public ReadOnly Property FontStyle As FontStyle
+	Get
+```
+```cpp
+public:
+property FontStyle^ FontStyle {
+	FontStyle^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[FontStyle](T_TFlex_Model_Model2D_FontStyle.md)
+
+#### Ссылки
+
+[FormlimitsLeader - ](T_TFlex_Model_Model2D_FormlimitsLeader.md)
+
+[TFlex.Model.Model2D - пространство имён](N_TFlex_Model_Model2D.md)

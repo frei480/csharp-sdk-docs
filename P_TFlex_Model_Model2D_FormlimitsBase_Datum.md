@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# FormlimitsBaseDatum - свойство  
+  
+---  
+  
+Значение базы
+
+**Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public string Datum { get; set; }
+```
+```vb
+Public Property Datum As String
+	Get
+	Set
+```
+```cpp
+public:
+property String^ Datum {
+	String^ get ();
+	void set (String^ value);
+}
+```
+
+
+#### Значение свойства
+
+[String](https://learn.microsoft.com/dotnet/api/system.string)
+
+#### Ссылки
+
+[FormlimitsBase - ](T_TFlex_Model_Model2D_FormlimitsBase.md)
+
+[TFlex.Model.Model2D - пространство имён](N_TFlex_Model_Model2D.md)

@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# PluginPluginCommandEventHandler - метод  
+  
+---  
+  
+Класс, содержащий данные о событии - вызвана команда
+
+**Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+protected virtual void PluginCommandEventHandler(
+	PluginCommandEventArgs args
+)
+```
+```vb
+Protected Overridable Sub PluginCommandEventHandler ( 
+	args As PluginCommandEventArgs
+)
+```
+```cpp
+protected:
+virtual void PluginCommandEventHandler(
+	PluginCommandEventArgs^ args
+)
+```
+
+
+#### Параметры
+
+args [PluginCommandEventArgs](T_TFlex_PluginCommandEventArgs.md)
+    Аргументы события
+
+#### Ссылки
+
+[Plugin - ](T_TFlex_Plugin.md)
+
+[TFlex - пространство имён](N_TFlex.md)

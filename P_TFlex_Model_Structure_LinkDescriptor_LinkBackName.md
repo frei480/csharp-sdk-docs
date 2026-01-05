@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LinkDescriptorLinkBackName - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public string LinkBackName { get; }
+```
+```vb
+Public ReadOnly Property LinkBackName As String
+	Get
+```
+```cpp
+public:
+property String^ LinkBackName {
+	String^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[String](https://learn.microsoft.com/dotnet/api/system.string)
+
+#### Ссылки
+
+[LinkDescriptor - ](T_TFlex_Model_Structure_LinkDescriptor.md)
+
+[TFlex.Model.Structure - пространство имён](N_TFlex_Model_Structure.md)

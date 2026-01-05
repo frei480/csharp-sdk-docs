@@ -1,0 +1,31 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LoftOperationLoftCutType - перечисление  
+  
+---  
+  
+Тип обрезки
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public enum LoftCutType
+```
+```vb
+Public Enumeration LoftCutType
+```
+```cpp
+public enum class LoftCutType
+```
+
+
+| Имя члена | Значение | Описание |
+| --- | --- | --- |
+| No | 0 | Нет |
+| GuidesByEndSections | 1 | Направляющие по крайним сечениям |
+  
+#### Ссылки
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

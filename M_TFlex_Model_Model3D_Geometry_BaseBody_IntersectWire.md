@@ -1,0 +1,46 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# BaseBodyIntersectWire - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public bool IntersectWire(
+	BaseBody sourceWire,
+	ref List<Point3D> resultPoint
+)
+```
+```vb
+Public Function IntersectWire ( 
+	sourceWire As BaseBody,
+	ByRef resultPoint As List(Of Point3D)
+) As Boolean
+```
+```cpp
+public:
+bool IntersectWire(
+	BaseBody^ sourceWire, 
+	List<Point3D^>^% resultPoint
+)
+```
+
+
+#### Параметры
+
+sourceWire [BaseBody](T_TFlex_Model_Model3D_Geometry_BaseBody.md)
+    
+resultPoint [List](https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1)[Point3D](T_TFlex_Model_Model3D_Geometry_Point3D.md)
+    
+
+#### Возвращаемое значение
+
+[Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+
+#### Ссылки
+
+[BaseBody - ](T_TFlex_Model_Model3D_Geometry_BaseBody.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

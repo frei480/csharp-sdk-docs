@@ -1,0 +1,48 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# View3DMoveCameraToContainPoints - метод  
+  
+---  
+  
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public void MoveCameraToContainPoints(
+	FloatVector[] points,
+	double margin,
+	bool perspectiveAngleChange
+)
+```
+```vb
+Public Sub MoveCameraToContainPoints ( 
+	points As FloatVector(),
+	margin As Double,
+	perspectiveAngleChange As Boolean
+)
+```
+```cpp
+public:
+void MoveCameraToContainPoints(
+	array<FloatVector>^ points, 
+	double margin, 
+	bool perspectiveAngleChange
+)
+```
+
+
+#### Параметры
+
+points [FloatVector](T_TFlex_Model_Model3D_FloatVector.md)
+    Массив точек
+margin [Double](https://learn.microsoft.com/dotnet/api/system.double)
+    
+perspectiveAngleChange [Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+    
+
+#### Ссылки
+
+[View3D - ](T_TFlex_Model_Model3D_View3D.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

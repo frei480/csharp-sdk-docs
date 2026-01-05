@@ -1,0 +1,169 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# TFlex.Configuration - пространство имён  
+  
+---  
+  
+|  | Класс | Описание |
+| --- | --- | --- |
+|  | [AltDimension](T_TFlex_Configuration_AltDimension.md) |  |
+|  | [Annotations](T_TFlex_Configuration_Annotations.md) |  |
+|  | [Assembly](T_TFlex_Configuration_Assembly.md) |  |
+|  | [AttributePropertyManager](T_TFlex_Configuration_AttributePropertyManager.md) |  |
+|  | [BaseParameter](T_TFlex_Configuration_BaseParameter.md) |  |
+|  | [CableProducts](T_TFlex_Configuration_CableProducts.md) |  |
+|  | [ChainsAndSignals](T_TFlex_Configuration_ChainsAndSignals.md) |  |
+|  | [Collection](T_TFlex_Configuration_Collection.md) |  |
+|  | [Colors](T_TFlex_Configuration_Colors.md) |  |
+|  | [Compatibility](T_TFlex_Configuration_Compatibility.md) |  |
+|  | [CompoundStringParameter](T_TFlex_Configuration_CompoundStringParameter.md) |  |
+|  | [Control](T_TFlex_Configuration_Control.md) |  |
+|  | [Dimension](T_TFlex_Configuration_Dimension.md) |  |
+|  | [DOCs](T_TFlex_Configuration_DOCs.md) |  |
+|  | [DocumentParameters](T_TFlex_Configuration_DocumentParameters.md) |  |
+|  | [DoubleParameter](T_TFlex_Configuration_DoubleParameter.md) |  |
+|  | [DynamicToolbar](T_TFlex_Configuration_DynamicToolbar.md) |  |
+|  | [Electric](T_TFlex_Configuration_Electric.md) |  |
+|  | [ElectricProperties](T_TFlex_Configuration_ElectricProperties.md) |  |
+|  | [FileLinkParameter](T_TFlex_Configuration_FileLinkParameter.md) |  |
+|  | [Files](T_TFlex_Configuration_Files.md) |  |
+|  | [FirstCharacter](T_TFlex_Configuration_FirstCharacter.md) |  |
+|  | [Folders](T_TFlex_Configuration_Folders.md) |  |
+|  | [Font](T_TFlex_Configuration_Font.md) |  |
+|  | [FormFactor](T_TFlex_Configuration_FormFactor.md) |  |
+|  | [Fragment2D](T_TFlex_Configuration_Fragment2D.md) |  |
+|  | [Fragment3D](T_TFlex_Configuration_Fragment3D.md) |  |
+|  | [Fragments](T_TFlex_Configuration_Fragments.md) |  |
+|  | [IntParameter](T_TFlex_Configuration_IntParameter.md) |  |
+|  | [IntWrap](T_TFlex_Configuration_IntWrap.md) |  |
+|  | [Lines](T_TFlex_Configuration_Lines.md) |  |
+|  | [NamingRules](T_TFlex_Configuration_NamingRules.md) |  |
+|  | [NonSectionCondition](T_TFlex_Configuration_NonSectionCondition.md) |  |
+|  | [Options2D](T_TFlex_Configuration_Options2D.md) |  |
+|  | [Options3D](T_TFlex_Configuration_Options3D.md) |  |
+|  | [OptionsContext](T_TFlex_Configuration_OptionsContext.md) |  |
+|  | [OptionsContextSettingsGroupInfo](T_TFlex_Configuration_OptionsContext_SettingsGroupInfo.md) |  |
+|  | [PageColors](T_TFlex_Configuration_PageColors.md) |  |
+|  | [PageFragments](T_TFlex_Configuration_PageFragments.md) |  |
+|  | [PageGrid](T_TFlex_Configuration_PageGrid.md) |  |
+|  | [PageProperties](T_TFlex_Configuration_PageProperties.md) |  |
+|  | [PageZones](T_TFlex_Configuration_PageZones.md) |  |
+|  | [Paper](T_TFlex_Configuration_Paper.md) |  |
+|  | [Performance](T_TFlex_Configuration_Performance.md) |  |
+|  | [Performance3D](T_TFlex_Configuration_Performance3D.md) |  |
+|  | [QualityManagement](T_TFlex_Configuration_QualityManagement.md) |  |
+|  | [RenderOptions](T_TFlex_Configuration_RenderOptions.md) |  |
+|  | [RenderOptions2D](T_TFlex_Configuration_RenderOptions2D.md) |  |
+|  | [Save](T_TFlex_Configuration_Save.md) |  |
+|  | [Save3D](T_TFlex_Configuration_Save3D.md) |  |
+|  | [ScalePreset](T_TFlex_Configuration_ScalePreset.md) |  |
+|  | [Screen](T_TFlex_Configuration_Screen.md) |  |
+|  | [Settings](T_TFlex_Configuration_Settings.md) |  |
+|  | [Settings3D](T_TFlex_Configuration_Settings3D.md) |  |
+|  | [SettingsGroup](T_TFlex_Configuration_SettingsGroup.md) |  |
+|  | [SheetList](T_TFlex_Configuration_SheetList.md) |  |
+|  | [ShowPages](T_TFlex_Configuration_ShowPages.md) |  |
+|  | [SizeDoubleOffset](T_TFlex_Configuration_SizeDoubleOffset.md) |  |
+|  | [SizeDoubleStep](T_TFlex_Configuration_SizeDoubleStep.md) |  |
+|  | [SizeInt](T_TFlex_Configuration_SizeInt.md) |  |
+|  | [SketcherOptions](T_TFlex_Configuration_SketcherOptions.md) |  |
+|  | [SnapInfo](T_TFlex_Configuration_SnapInfo.md) |  |
+|  | [SnapItems](T_TFlex_Configuration_SnapItems.md) |  |
+|  | [Snaps](T_TFlex_Configuration_Snaps.md) |  |
+|  | [Specification](T_TFlex_Configuration_Specification.md) |  |
+|  | [Start](T_TFlex_Configuration_Start.md) |  |
+|  | [StringMap](T_TFlex_Configuration_StringMap.md) |  |
+|  | [StringParameter](T_TFlex_Configuration_StringParameter.md) |  |
+|  | [StringWrap](T_TFlex_Configuration_StringWrap.md) |  |
+|  | [Symbol](T_TFlex_Configuration_Symbol.md) |  |
+|  | [TreeSettings](T_TFlex_Configuration_TreeSettings.md) |  |
+|  | [User](T_TFlex_Configuration_User.md) |  |
+|  | [UserCamera](T_TFlex_Configuration_UserCamera.md) |  |
+|  | [VariableEditor](T_TFlex_Configuration_VariableEditor.md) |  |
+|  | [VarParameter](T_TFlex_Configuration_VarParameter.md) |  |
+|  | [View3D](T_TFlex_Configuration_View3D.md) |  |
+|  | [Weld](T_TFlex_Configuration_Weld.md) |  |
+|  | [Windows](T_TFlex_Configuration_Windows.md) |  |
+|  | [ZoneDirection](T_TFlex_Configuration_ZoneDirection.md) |  |
+|  | [Zones](T_TFlex_Configuration_Zones.md) |  |
+  
+|  | Интерфейс | Описание |
+| --- | --- | --- |
+|  | [I3DManagedFuncImpl](T_TFlex_Configuration_I3DManagedFuncImpl.md) | Для внутреннего использования |
+  
+|  | Перечисление | Описание |
+| --- | --- | --- |
+|  | [ActiveDeviceType](T_TFlex_Configuration_ActiveDeviceType.md) |  |
+|  | [AngleDimensionUnits](T_TFlex_Configuration_AngleDimensionUnits.md) |  |
+|  | [AutoMenuPosition](T_TFlex_Configuration_AutoMenuPosition.md) |  |
+|  | [AutoViewNamingType](T_TFlex_Configuration_AutoViewNamingType.md) |  |
+|  | [Backend2DType](T_TFlex_Configuration_Backend2DType.md) |  |
+|  | [BackupMode](T_TFlex_Configuration_BackupMode.md) |  |
+|  | [BooleanTypes](T_TFlex_Configuration_BooleanTypes.md) |  |
+|  | [CheckFileAction](T_TFlex_Configuration_CheckFileAction.md) |  |
+|  | [ClipPlaneColor](T_TFlex_Configuration_ClipPlaneColor.md) |  |
+|  | [CollisionDetectionMethod](T_TFlex_Configuration_CollisionDetectionMethod.md) |  |
+|  | [CommandRightButtonAction](T_TFlex_Configuration_CommandRightButtonAction.md) |  |
+|  | [CreateReferenceDimensionsType](T_TFlex_Configuration_CreateReferenceDimensionsType.md) |  |
+|  | [CursorModeType](T_TFlex_Configuration_CursorModeType.md) |  |
+|  | [DimensionScale](T_TFlex_Configuration_DimensionScale.md) |  |
+|  | [DimensionStandard](T_TFlex_Configuration_DimensionStandard.md) |  |
+|  | [DoubleClickFragAction](T_TFlex_Configuration_DoubleClickFragAction.md) |  |
+|  | [DualLocationType](T_TFlex_Configuration_DualLocationType.md) |  |
+|  | [Explode2DFragmentType](T_TFlex_Configuration_Explode2DFragmentType.md) |  |
+|  | [FacetType](T_TFlex_Configuration_FacetType.md) |  |
+|  | [FirstVisibleSymbol](T_TFlex_Configuration_FirstVisibleSymbol.md) |  |
+|  | [FontStyle](T_TFlex_Configuration_FontStyle.md) |  |
+|  | [ForceUnitType](T_TFlex_Configuration_ForceUnitType.md) |  |
+|  | [FormatBackgroundType](T_TFlex_Configuration_FormatBackgroundType.md) |  |
+|  | [FragmentInsertMethodType](T_TFlex_Configuration_FragmentInsertMethodType.md) |  |
+|  | [FrustumCullingType](T_TFlex_Configuration_FrustumCullingType.md) |  |
+|  | [HorizontalDirection](T_TFlex_Configuration_HorizontalDirection.md) |  |
+|  | [HorizontalToolBarPosition](T_TFlex_Configuration_HorizontalToolBarPosition.md) |  |
+|  | [IconSaveType](T_TFlex_Configuration_IconSaveType.md) |  |
+|  | [ImageSizeType](T_TFlex_Configuration_ImageSizeType.md) |  |
+|  | [IncludeInBOMType](T_TFlex_Configuration_IncludeInBOMType.md) |  |
+|  | [InheritChainsType](T_TFlex_Configuration_InheritChainsType.md) |  |
+|  | [InscriptionStandard](T_TFlex_Configuration_InscriptionStandard.md) |  |
+|  | [LandscapePaper](T_TFlex_Configuration_LandscapePaper.md) |  |
+|  | [LinearDimensionUnits](T_TFlex_Configuration_LinearDimensionUnits.md) |  |
+|  | [LinearUnitType](T_TFlex_Configuration_LinearUnitType.md) |  |
+|  | [LineThicknessRepresentation](T_TFlex_Configuration_LineThicknessRepresentation.md) |  |
+|  | [LinkLineStandart](T_TFlex_Configuration_LinkLineStandart.md) |  |
+|  | [MacroExecutionRules](T_TFlex_Configuration_MacroExecutionRules.md) |  |
+|  | [MassUnitType](T_TFlex_Configuration_MassUnitType.md) |  |
+|  | [NonSectionType](T_TFlex_Configuration_NonSectionType.md) |  |
+|  | [ObjectCreateAction](T_TFlex_Configuration_ObjectCreateAction.md) |  |
+|  | [ObjectDoubleClickAction](T_TFlex_Configuration_ObjectDoubleClickAction.md) |  |
+|  | [OrientationCoordinatesType](T_TFlex_Configuration_OrientationCoordinatesType.md) |  |
+|  | [PageViewOnLbtnDblClkAction](T_TFlex_Configuration_PageViewOnLbtnDblClkAction.md) |  |
+|  | [PageZonesMode](T_TFlex_Configuration_PageZonesMode.md) |  |
+|  | [PageZonesOffsetPoint](T_TFlex_Configuration_PageZonesOffsetPoint.md) |  |
+|  | [PrevieFormatType](T_TFlex_Configuration_PrevieFormatType.md) |  |
+|  | [PreviewSaveType](T_TFlex_Configuration_PreviewSaveType.md) |  |
+|  | [ReportControlTreeStyle](T_TFlex_Configuration_ReportControlTreeStyle.md) |  |
+|  | [RotationMouseButtonType](T_TFlex_Configuration_RotationMouseButtonType.md) |  |
+|  | [SaveConfigurationsType](T_TFlex_Configuration_SaveConfigurationsType.md) |  |
+|  | [SearchConstructionMode](T_TFlex_Configuration_SearchConstructionMode.md) |  |
+|  | [SelectionFilterToolBarPosition](T_TFlex_Configuration_SelectionFilterToolBarPosition.md) |  |
+|  | [SelectionModeElements](T_TFlex_Configuration_SelectionModeElements.md) |  |
+|  | [SeparatorType](T_TFlex_Configuration_SeparatorType.md) |  |
+|  | [ShowWokplaneNamesType](T_TFlex_Configuration_ShowWokplaneNamesType.md) |  |
+|  | [SolverType](T_TFlex_Configuration_SolverType.md) |  |
+|  | [SolvingConflictsConnectLinesMode](T_TFlex_Configuration_SolvingConflictsConnectLinesMode.md) |  |
+|  | [StartupSource](T_TFlex_Configuration_StartupSource.md) |  |
+|  | [StereoModeType](T_TFlex_Configuration_StereoModeType.md) |  |
+|  | [SynchronizationMode](T_TFlex_Configuration_SynchronizationMode.md) |  |
+|  | [TemplateConflictAction](T_TFlex_Configuration_TemplateConflictAction.md) |  |
+|  | [Units](T_TFlex_Configuration_Units.md) |  |
+|  | [UpdateLinks](T_TFlex_Configuration_UpdateLinks.md) |  |
+|  | [UseStatusType](T_TFlex_Configuration_UseStatusType.md) |  |
+|  | [VariableEditorType](T_TFlex_Configuration_VariableEditorType.md) |  |
+|  | [VerticalDirection](T_TFlex_Configuration_VerticalDirection.md) |  |
+|  | [ViewConstructionMode](T_TFlex_Configuration_ViewConstructionMode.md) |  |
+|  | [ViewToolBarPosition](T_TFlex_Configuration_ViewToolBarPosition.md) |  |
+|  | [VisibleGridType](T_TFlex_Configuration_VisibleGridType.md) |  |
+|  | [VisibleZoneType](T_TFlex_Configuration_VisibleZoneType.md) |  |
+|  | [WorkplaneStandart](T_TFlex_Configuration_WorkplaneStandart.md) |  |

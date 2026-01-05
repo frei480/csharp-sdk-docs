@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# BaseBodyEdges - свойство  
+  
+---  
+  
+Множество рёбер
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public abstract BaseEdges Edges { get; }
+```
+```vb
+Public MustOverride ReadOnly Property Edges As BaseEdges
+	Get
+```
+```cpp
+public:
+virtual property BaseEdges^ Edges {
+	BaseEdges^ get () abstract;
+}
+```
+
+
+#### Значение свойства
+
+[BaseEdges](T_TFlex_Model_Model3D_Geometry_BaseEdges.md)
+
+#### Ссылки
+
+[BaseBody - ](T_TFlex_Model_Model3D_Geometry_BaseBody.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

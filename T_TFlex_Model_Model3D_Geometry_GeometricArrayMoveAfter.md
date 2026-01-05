@@ -1,0 +1,39 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# GeometricArrayMoveAfter - делегат  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public delegate void GeometricArrayMoveAfter(
+	int from,
+	int to
+)
+```
+```vb
+Public Delegate Sub GeometricArrayMoveAfter ( 
+	from As Integer,
+	to As Integer
+)
+```
+```cpp
+public delegate void GeometricArrayMoveAfter(
+	int from, 
+	int to
+)
+```
+
+
+#### Параметры
+
+from [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    
+to [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    
+
+#### Ссылки
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

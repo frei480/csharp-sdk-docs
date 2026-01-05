@@ -1,0 +1,30 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DocumentGetLayers - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public ICollection<Layer> GetLayers()
+```
+```vb
+Public Function GetLayers As ICollection(Of Layer)
+```
+```cpp
+public:
+ICollection<Layer^>^ GetLayers()
+```
+
+
+#### Возвращаемое значение
+
+[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)[Layer](T_TFlex_Model_Layer.md)
+
+#### Ссылки
+
+[Document - ](T_TFlex_Model_Document.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

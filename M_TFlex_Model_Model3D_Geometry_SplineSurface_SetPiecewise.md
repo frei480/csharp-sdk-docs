@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# SplineSurfaceSetPiecewise - метод  
+  
+---  
+  
+Установить описание сплайновой поверхности по набору сегментов
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public void SetPiecewise(
+	SurfacePiecewiseData data
+)
+```
+```vb
+Public Sub SetPiecewise ( 
+	data As SurfacePiecewiseData
+)
+```
+```cpp
+public:
+void SetPiecewise(
+	SurfacePiecewiseData^ data
+)
+```
+
+
+#### Параметры
+
+data [SurfacePiecewiseData](T_TFlex_Model_Model3D_Geometry_SurfacePiecewiseData.md)
+    
+
+#### Ссылки
+
+[SplineSurface - ](T_TFlex_Model_Model3D_Geometry_SplineSurface.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

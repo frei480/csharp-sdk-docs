@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# BaseEdgeInterval - свойство  
+  
+---  
+  
+Получить интервал кривой на котором лежит ребро
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+BaseInterval Interval { get; }
+```
+```vb
+ReadOnly Property Interval As BaseInterval
+	Get
+```
+```cpp
+property BaseInterval^ Interval {
+	BaseInterval^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[BaseInterval](T_TFlex_Model_Model3D_Geometry_BaseInterval.md)
+
+#### Ссылки
+
+[BaseEdge - ](T_TFlex_Model_Model3D_Geometry_BaseEdge.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

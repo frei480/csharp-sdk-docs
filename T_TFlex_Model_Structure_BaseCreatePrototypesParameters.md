@@ -1,0 +1,54 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# BaseCreatePrototypesParameters - класс  
+  
+---  
+  
+[SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.StructureBaseCreatePrototypesParameters [TFlex.Model.StructureCreatePrototypesInSerializedParameters](T_TFlex_Model_Structure_CreatePrototypesInSerializedParameters.md) [TFlex.Model.StructureCreatePrototypesInSourceParameters](T_TFlex_Model_Structure_CreatePrototypesInSourceParameters.md)
+
+**Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public class BaseCreatePrototypesParameters
+```
+```vb
+Public Class BaseCreatePrototypesParameters
+```
+```cpp
+public ref class BaseCreatePrototypesParameters
+```
+
+
+Тип BaseCreatePrototypesParameters предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [BaseCreatePrototypesParameters](M_TFlex_Model_Structure_BaseCreatePrototypesParameters__ctor.md) | Инициализирует новый экземпляр класса BaseCreatePrototypesParameters |
+  
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [CreateAggregatedElements](P_TFlex_Model_Structure_BaseCreatePrototypesParameters_CreateAggregatedElements.md) |  |
+|  | [IdenticalIgnoredParametersIDs](P_TFlex_Model_Structure_BaseCreatePrototypesParameters_IdenticalIgnoredParametersIDs.md) |  |
+|  | [InstanceIDs](P_TFlex_Model_Structure_BaseCreatePrototypesParameters_InstanceIDs.md) |  |
+|  | [MergeMetaData](P_TFlex_Model_Structure_BaseCreatePrototypesParameters_MergeMetaData.md) |  |
+|  | [MergeTypes](P_TFlex_Model_Structure_BaseCreatePrototypesParameters_MergeTypes.md) |  |
+|  | [NamingParameterID](P_TFlex_Model_Structure_BaseCreatePrototypesParameters_NamingParameterID.md) |  |
+|  | [ReplaceOldAggregatedElements](P_TFlex_Model_Structure_BaseCreatePrototypesParameters_ReplaceOldAggregatedElements.md) |  |
+|  | [SearchForIdentical](P_TFlex_Model_Structure_BaseCreatePrototypesParameters_SearchForIdentical.md) |  |
+|  | [SkippedParametersIDs](P_TFlex_Model_Structure_BaseCreatePrototypesParameters_SkippedParametersIDs.md) |  |
+|  | [UpdateExisting](P_TFlex_Model_Structure_BaseCreatePrototypesParameters_UpdateExisting.md) |  |
+  
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Equals](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals\(system-object\)) | Determines whether the specified object is equal to the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [Finalize](https://learn.microsoft.com/dotnet/api/system.object.finalize) | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetHashCode](https://learn.microsoft.com/dotnet/api/system.object.gethashcode) | Serves as the default hash function. (Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetType](https://learn.microsoft.com/dotnet/api/system.object.gettype) | Gets the [Type](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [MemberwiseClone](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone) | Creates a shallow copy of the current [Object](https://learn.microsoft.com/dotnet/api/system.object).(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [ToString](https://learn.microsoft.com/dotnet/api/system.object.tostring) | Returns a string that represents the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+  
+#### Ссылки
+
+[TFlex.Model.Structure - пространство имён](N_TFlex_Model_Structure.md)

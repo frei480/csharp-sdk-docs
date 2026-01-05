@@ -1,0 +1,26 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# VariableUpDownUpButton - метод  
+  
+---  
+**Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public override void UpButton()
+```
+```vb
+Public Overrides Sub UpButton
+```
+```cpp
+public:
+virtual void UpButton() override
+```
+
+
+#### Ссылки
+
+[VariableUpDown - ](T_TFlex_VariableUpDown.md)
+
+[TFlex - пространство имён](N_TFlex.md)

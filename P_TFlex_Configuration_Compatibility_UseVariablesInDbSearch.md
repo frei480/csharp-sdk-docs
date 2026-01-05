@@ -1,0 +1,35 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# CompatibilityUseVariablesInDbSearch - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public bool UseVariablesInDbSearch { get; set; }
+```
+```vb
+Public Property UseVariablesInDbSearch As Boolean
+	Get
+	Set
+```
+```cpp
+public:
+property bool UseVariablesInDbSearch {
+	bool get ();
+	void set (bool value);
+}
+```
+
+
+#### Значение свойства
+
+[Boolean](https://learn.microsoft.com/dotnet/api/system.boolean)
+
+#### Ссылки
+
+[Compatibility - ](T_TFlex_Configuration_Compatibility.md)
+
+[TFlex.Configuration - пространство имён](N_TFlex_Configuration.md)

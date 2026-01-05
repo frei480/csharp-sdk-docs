@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ModelCircleCurveRadius - свойство  
+  
+---  
+  
+Получить радиус окружности
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public virtual double Radius { get; }
+```
+```vb
+Public Overridable ReadOnly Property Radius As Double
+	Get
+```
+```cpp
+public:
+virtual property double Radius {
+	double get ();
+}
+```
+
+
+#### Значение свойства
+
+[Double](https://learn.microsoft.com/dotnet/api/system.double)
+
+#### Реализации
+
+[BaseCircleCurveRadius](P_TFlex_Model_Model3D_Geometry_BaseCircleCurve_Radius.md)
+
+#### Ссылки
+
+[ModelCircleCurve - ](T_TFlex_Model_Model3D_Geometry_ModelCircleCurve.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

@@ -1,0 +1,42 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ExitEventHandler - делегат  
+  
+---  
+  
+Делегат представляющий метод, который будет обрабатывать событие завершения выполнения команды
+
+**Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public delegate void ExitEventHandler(
+	Object sender,
+	ExitEventArgs e
+)
+```
+```vb
+Public Delegate Sub ExitEventHandler ( 
+	sender As Object,
+	e As ExitEventArgs
+)
+```
+```cpp
+public delegate void ExitEventHandler(
+	Object^ sender, 
+	ExitEventArgs^ e
+)
+```
+
+
+#### Параметры
+
+sender [Object](https://learn.microsoft.com/dotnet/api/system.object)
+    Источник события
+e [ExitEventArgs](T_TFlex_Command_ExitEventArgs.md)
+    Аргументы события
+
+#### Ссылки
+
+[TFlex.Command - пространство имён](N_TFlex_Command.md)

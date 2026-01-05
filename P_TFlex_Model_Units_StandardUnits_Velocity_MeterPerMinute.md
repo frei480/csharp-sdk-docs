@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# StandardUnitsVelocityMeterPerMinute - свойство  
+  
+---  
+  
+Метр в минуту; м/мин; m/min; 
+
+Тип - Скорость
+
+**Пространство имён:** [TFlex.Model.Units](N_TFlex_Model_Units.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public static Unit MeterPerMinute { get; }
+```
+```vb
+Public Shared ReadOnly Property MeterPerMinute As Unit
+	Get
+```
+```cpp
+public:
+static property Unit^ MeterPerMinute {
+	Unit^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[Unit](T_TFlex_Model_Units_Unit.md)
+
+#### Ссылки
+
+[StandardUnitsVelocity - ](T_TFlex_Model_Units_StandardUnits_Velocity.md)
+
+[TFlex.Model.Units - пространство имён](N_TFlex_Model_Units.md)

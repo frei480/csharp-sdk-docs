@@ -1,0 +1,56 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# BaseBodyRangePoint(BasePoint3D, Point3D, UV) - метод  
+  
+---  
+  
+Найти точку на теле ближайшую к данной точке
+
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public BaseBodyRangePointGeometryParameters RangePoint(
+	BasePoint3D point,
+	ref Point3D point3D,
+	ref UV pointParameters
+)
+```
+```vb
+Public Function RangePoint ( 
+	point As BasePoint3D,
+	ByRef point3D As Point3D,
+	ByRef pointParameters As UV
+) As BaseBodyRangePointGeometryParameters
+```
+```cpp
+public:
+BaseBodyRangePointGeometryParameters RangePoint(
+	BasePoint3D^ point, 
+	Point3D^% point3D, 
+	UV% pointParameters
+)
+```
+
+
+#### Параметры
+
+point [BasePoint3D](T_TFlex_Model_Model3D_Geometry_BasePoint3D.md)
+    Точка
+point3D [Point3D](T_TFlex_Model_Model3D_Geometry_Point3D.md)
+    
+pointParameters [UV](T_TFlex_Model_Model3D_Geometry_UV.md)
+    
+
+#### Возвращаемое значение
+
+[BaseBodyRangePointGeometryParameters](T_TFlex_Model_Model3D_Geometry_BaseBody_RangePointGeometryParameters.md)Точка на теле ближайшая к данной точке
+
+#### Ссылки
+
+[BaseBody - ](T_TFlex_Model_Model3D_Geometry_BaseBody.md)
+
+[RangePoint - перегрузка](Overload_TFlex_Model_Model3D_Geometry_BaseBody_RangePoint.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

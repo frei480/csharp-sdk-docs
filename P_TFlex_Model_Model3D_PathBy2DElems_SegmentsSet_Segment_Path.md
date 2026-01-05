@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# PathBy2DElemsSegmentsSetSegmentPath - свойство  
+  
+---  
+  
+2D путь
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public Construction Path { get; set; }
+```
+```vb
+Public Property Path As Construction
+	Get
+	Set
+```
+```cpp
+public:
+property Construction^ Path {
+	Construction^ get ();
+	void set (Construction^ value);
+}
+```
+
+
+#### Значение свойства
+
+[Construction](T_TFlex_Model_Model2D_Construction.md)
+
+#### Ссылки
+
+[PathBy2DElemsSegmentsSetSegment - ](T_TFlex_Model_Model3D_PathBy2DElems_SegmentsSet_Segment.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

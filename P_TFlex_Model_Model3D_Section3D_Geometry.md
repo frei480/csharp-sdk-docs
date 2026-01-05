@@ -1,0 +1,36 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# Section3DGeometry - свойство  
+  
+---  
+  
+Получить геометрические данные сечения
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public Section3DGeometryData Geometry { get; }
+```
+```vb
+Public ReadOnly Property Geometry As Section3DGeometryData
+	Get
+```
+```cpp
+public:
+property Section3DGeometryData^ Geometry {
+	Section3DGeometryData^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[Section3DGeometryData](T_TFlex_Model_Model3D_Section3D_GeometryData.md)
+
+#### Ссылки
+
+[Section3D - ](T_TFlex_Model_Model3D_Section3D.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

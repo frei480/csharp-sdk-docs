@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# CurveTrimmedDataInterval - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public Interval Interval { get; }
+```
+```vb
+Public ReadOnly Property Interval As Interval
+	Get
+```
+```cpp
+public:
+property Interval^ Interval {
+	Interval^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[Interval](T_TFlex_Model_Model3D_Geometry_Interval.md)
+
+#### Ссылки
+
+[CurveTrimmedData - ](T_TFlex_Model_Model3D_Geometry_CurveTrimmedData.md)
+
+[TFlex.Model.Model3D.Geometry - пространство имён](N_TFlex_Model_Model3D_Geometry.md)

@@ -1,0 +1,31 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# DocumentRedraw - метод  
+  
+---  
+  
+Перерисовка всех видов документа
+
+**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public void Redraw()
+```
+```vb
+Public Sub Redraw
+```
+```cpp
+public:
+void Redraw()
+```
+
+
+#### Ссылки
+
+[Document - ](T_TFlex_Model_Document.md)
+
+[Redraw - перегрузка](Overload_TFlex_Model_Document_Redraw.md)
+
+[TFlex.Model - пространство имён](N_TFlex_Model.md)

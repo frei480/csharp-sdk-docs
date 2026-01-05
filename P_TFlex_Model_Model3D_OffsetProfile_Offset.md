@@ -1,0 +1,40 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# OffsetProfileOffset - свойство  
+  
+---  
+  
+Значение смещения
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public Parameter Offset { get; set; }
+```
+```vb
+Public Property Offset As Parameter
+	Get
+	Set
+```
+```cpp
+public:
+property Parameter^ Offset {
+	Parameter^ get ();
+	void set (Parameter^ value);
+}
+```
+
+
+#### Значение свойства
+
+[Parameter](T_TFlex_Model_Parameter.md)
+
+Значение смещения задаётся двумя взаимоисключающими способами: по точке или по значению
+
+#### Ссылки
+
+[OffsetProfile - ](T_TFlex_Model_Model3D_OffsetProfile.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

@@ -1,0 +1,44 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# FillHoleOperationContourGetElement - метод  
+  
+---  
+  
+Получить элемент из контура
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public ModelWire GetElement(
+	int index
+)
+```
+```vb
+Public Function GetElement ( 
+	index As Integer
+) As ModelWire
+```
+```cpp
+public:
+ModelWire^ GetElement(
+	int index
+)
+```
+
+
+#### Параметры
+
+index [Int32](https://learn.microsoft.com/dotnet/api/system.int32)
+    Индекс получаемого элемента (начинается с 0)
+
+#### Возвращаемое значение
+
+[ModelWire](T_TFlex_Model_Model3D_Geometry_ModelWire.md)
+
+#### Ссылки
+
+[FillHoleOperationContour - ](T_TFlex_Model_Model3D_FillHoleOperation_Contour.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

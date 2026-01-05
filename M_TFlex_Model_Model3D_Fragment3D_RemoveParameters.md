@@ -1,0 +1,37 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# Fragment3DRemoveParameters - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public void RemoveParameters(
+	List<uint> parameters
+)
+```
+```vb
+Public Sub RemoveParameters ( 
+	parameters As List(Of UInteger)
+)
+```
+```cpp
+public:
+void RemoveParameters(
+	List<unsigned int>^ parameters
+)
+```
+
+
+#### Параметры
+
+parameters [List](https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1)[UInt32](https://learn.microsoft.com/dotnet/api/system.uint32)
+    
+
+#### Ссылки
+
+[Fragment3D - ](T_TFlex_Model_Model3D_Fragment3D.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

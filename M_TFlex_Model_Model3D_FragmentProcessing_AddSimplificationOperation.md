@@ -1,0 +1,30 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# FragmentProcessingAddSimplificationOperation - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public Simplification AddSimplificationOperation()
+```
+```vb
+Public Function AddSimplificationOperation As Simplification
+```
+```cpp
+public:
+Simplification^ AddSimplificationOperation()
+```
+
+
+#### Возвращаемое значение
+
+[Simplification](T_TFlex_Model_Model3D_Simplification.md)
+
+#### Ссылки
+
+[FragmentProcessing - ](T_TFlex_Model_Model3D_FragmentProcessing.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

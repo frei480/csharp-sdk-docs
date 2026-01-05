@@ -1,0 +1,33 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# PinInfoTipName - свойство  
+  
+---  
+**Пространство имён:** [TFlex.Model.Model3D.ConductorModel](N_TFlex_Model_Model3D_ConductorModel.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public string TipName { get; }
+```
+```vb
+Public ReadOnly Property TipName As String
+	Get
+```
+```cpp
+public:
+property String^ TipName {
+	String^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[String](https://learn.microsoft.com/dotnet/api/system.string)
+
+#### Ссылки
+
+[PinInfo - ](T_TFlex_Model_Model3D_ConductorModel_PinInfo.md)
+
+[TFlex.Model.Model3D.ConductorModel - пространство имён](N_TFlex_Model_Model3D_ConductorModel.md)

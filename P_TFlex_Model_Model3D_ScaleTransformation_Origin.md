@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ScaleTransformationOrigin - свойство  
+  
+---  
+  
+Точка, относительно которой производится преобразование
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public Point3D Origin { get; set; }
+```
+```vb
+Public Property Origin As Point3D
+	Get
+	Set
+```
+```cpp
+public:
+property Point3D^ Origin {
+	Point3D^ get ();
+	void set (Point3D^ value);
+}
+```
+
+
+#### Значение свойства
+
+[Point3D](T_TFlex_Model_Model3D_Geometry_Point3D.md)
+
+#### Ссылки
+
+[ScaleTransformation - ](T_TFlex_Model_Model3D_ScaleTransformation.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

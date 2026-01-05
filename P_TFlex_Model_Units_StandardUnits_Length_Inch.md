@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# StandardUnitsLengthInch - свойство  
+  
+---  
+  
+Дюйм; дюйм; in; 
+
+Тип - Длина
+
+**Пространство имён:** [TFlex.Model.Units](N_TFlex_Model_Units.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public static Unit Inch { get; }
+```
+```vb
+Public Shared ReadOnly Property Inch As Unit
+	Get
+```
+```cpp
+public:
+static property Unit^ Inch {
+	Unit^ get ();
+}
+```
+
+
+#### Значение свойства
+
+[Unit](T_TFlex_Model_Units_Unit.md)
+
+#### Ссылки
+
+[StandardUnitsLength - ](T_TFlex_Model_Units_StandardUnits_Length.md)
+
+[TFlex.Model.Units - пространство имён](N_TFlex_Model_Units.md)

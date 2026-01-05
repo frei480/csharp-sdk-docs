@@ -1,0 +1,26 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ParametersPropertiesOverridesClear - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
+
+```csharp
+public void Clear()
+```
+```vb
+Public Sub Clear
+```
+```cpp
+public:
+void Clear()
+```
+
+
+#### Ссылки
+
+[ParametersPropertiesOverrides - ](T_TFlex_Model_Data_ProductStructure_ParametersPropertiesOverrides.md)
+
+[TFlex.Model.Data.ProductStructure - пространство имён](N_TFlex_Model_Data_ProductStructure.md)

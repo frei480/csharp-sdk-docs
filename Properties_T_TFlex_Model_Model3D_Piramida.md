@@ -1,0 +1,74 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# Piramida - свойства  
+  
+---  
+  
+Тип [Piramida](T_TFlex_Model_Model3D_Piramida.md) предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Attributes](P_TFlex_Model_ModelObject_Attributes.md) | **Устарело.**(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Auxiliary](P_TFlex_Model_Model3D_Object3D_Auxiliary.md) | Внутрисистемный объект. Используется для Refer объектов фрагментов. Такие объекты скрыты от пользователя. Работа с такими объектами может быть реализована на уровне API.NET или ядром TFlex. Такие объекты не передаются на следующий уровень сборки. (Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [Body](P_TFlex_Model_Model3D_Operation_Body.md) | Тело, в которое входит операция(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [BottomThickness](P_TFlex_Model_Model3D_Primitive_BottomThickness.md) | Толщина донышка(Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [CanBottomThicknessSet](P_TFlex_Model_Model3D_Primitive_CanBottomThicknessSet.md) | Разрешено управлять толщиной крышки примитива(Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [CanSymmetrySet](P_TFlex_Model_Model3D_Primitive_CanSymmetrySet.md) | Разрешено управлять симметрий примитива(Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [CanThicknessSet](P_TFlex_Model_Model3D_Primitive_CanThicknessSet.md) | Разрешено управлять толщиной стенок примитива(Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [CanTopThicknessSet](P_TFlex_Model_Model3D_Primitive_CanTopThicknessSet.md) | Разрешено управлять толщиной крышки примитива(Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [CoatingMaterial](P_TFlex_Model_Model3D_Operation_CoatingMaterial.md) | Материал операции(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [Color](P_TFlex_Model_Model3D_Object3D_Color.md) | Цвет(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [ConstTransformations](P_TFlex_Model_Model3D_Object3D_ConstTransformations.md) | **Устарело.** Преобразование 3D объекта для чтения (устаревшая версия трансформации - допускается чтение трансформации в старых документах.)(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [Diameter](P_TFlex_Model_Model3D_Piramida_Diameter.md) | Диаметр |
+|  | [Diameter2](P_TFlex_Model_Model3D_Piramida_Diameter2.md) | Диаметр 2 |
+|  | [DisplayName](P_TFlex_Model_ModelObject_DisplayName.md) | Отображаемое название объекта(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Document](P_TFlex_Model_ModelObject_Document.md) | Документ, являющийся родительским для данного объекта(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Editable](P_TFlex_Model_ModelObject_Editable.md) | Объект находится в состоянии редактирования(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Facet](P_TFlex_Model_Model3D_Operation_Facet.md) | (Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [Fixed](P_TFlex_Model_Model3D_Operation_Fixed.md) | Свойство фиксации операции относительно сопряжений(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [Geometry](P_TFlex_Model_Model3D_Operation_Geometry.md) | Геометрические данные операции(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [GroupType](P_TFlex_Model_Model3D_Operation_GroupType.md) | Получить тип объекта(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [Height](P_TFlex_Model_Model3D_Piramida_Height.md) | Высота |
+|  | [ID](P_TFlex_Model_ModelObject_ID.md) | **Устарело.** Идентификатор объекта. Идентификатор является уникальным числом для каждого из объектов одного документа(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [InnerDiameter](P_TFlex_Model_Model3D_Piramida_InnerDiameter.md) | Внутренний диаметр |
+|  | [InScene](P_TFlex_Model_Model3D_Object3D_InScene.md) | Объект в сцене(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [IsDisposed](P_TFlex_Model_ModelObject_IsDisposed.md) | Объект удален из модели(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [IsInModelObjectGroup](P_TFlex_Model_ModelObject_IsInModelObjectGroup.md) | Является ли объект элементом группы(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [IsTransparencyOn](P_TFlex_Model_Model3D_Operation_IsTransparencyOn.md) | Управление прозрачностью(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [IsVisible](P_TFlex_Model_ModelObject_IsVisible.md) | **Устарело.** Это свойство устарело и будет удалено. Пожалуйста, используйте свойство 'Visible'.(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Layer](P_TFlex_Model_Model3D_Object3D_Layer.md) | Слой, на котором размещается объект(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [Level](P_TFlex_Model_Model3D_Object3D_Level.md) | Уровень(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [Material](P_TFlex_Model_Model3D_Operation_Material.md) | Материал операции(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [MaterialDistributionLaw](P_TFlex_Model_Model3D_Operation_MaterialDistributionLaw.md) | (Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [MeshDensity](P_TFlex_Model_Model3D_Operation_MeshDensity.md) | Плотность сетки в диапазоне 0.0-1.0(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [ModelObjectGroup](P_TFlex_Model_ModelObject_ModelObjectGroup.md) | Группа, которая включает данный объект(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Name](P_TFlex_Model_ModelObject_Name.md) | Имя объекта(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [ObjectId](P_TFlex_Model_ModelObject_ObjectId.md) | Идентификатор объекта. Идентификатор является уникальным для каждого из объектов одного документа(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [PageScale](P_TFlex_Model_ModelObject_PageScale.md) | Масштаб страницы объекта(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [Parents](P_TFlex_Model_ModelObject_Parents.md) | Контейнер родительских объектов(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [PrimitiveOperGet](P_TFlex_Model_Model3D_Primitive_PrimitiveOperGet.md) | (Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [PrimitiveOperSet](P_TFlex_Model_Model3D_Primitive_PrimitiveOperSet.md) | (Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [Side](P_TFlex_Model_Model3D_Piramida_Side.md) | Стороны |
+|  | [Suppression](P_TFlex_Model_Model3D_Operation_Suppression.md) | Свойство подавленности операции(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [Symmetry](P_TFlex_Model_Model3D_Primitive_Symmetry.md) | Разрешено управлять симметрий примитива(Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [Thickness](P_TFlex_Model_Model3D_Primitive_Thickness.md) | Толщина стенок(Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [ThicknessMethod](P_TFlex_Model_Model3D_Primitive_ThicknessMethod.md) | Способ задания толщины стенок(Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [TopLevel](P_TFlex_Model_Model3D_Operation_TopLevel.md) | Признак верхней операции(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [TopOperation](P_TFlex_Model_Model3D_Operation_TopOperation.md) | Верхняя операция в теле(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [TopThickness](P_TFlex_Model_Model3D_Primitive_TopThickness.md) | Толщина крышки(Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [Transformations](P_TFlex_Model_Model3D_Object3D_Transformations.md) | Контейнер групп преобразований 3D объекта(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [Transparency](P_TFlex_Model_Model3D_Operation_Transparency.md) | Прозрачность(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+|  | [UseBottomThickness](P_TFlex_Model_Model3D_Primitive_UseBottomThickness.md) | Использовать толщину донышка примитива(Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [UseTopThickness](P_TFlex_Model_Model3D_Primitive_UseTopThickness.md) | Использовать толщину крышки примитива(Унаследован от [Primitive](T_TFlex_Model_Model3D_Primitive.md)) |
+|  | [Visible](P_TFlex_Model_ModelObject_Visible.md) | Является ли объект видимым(Унаследован от [ModelObject](T_TFlex_Model_ModelObject.md)) |
+|  | [VisibleInScene](P_TFlex_Model_Model3D_Object3D_VisibleInScene.md) | Свойство видимости объекта(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [VolatileTransformations](P_TFlex_Model_Model3D_Object3D_VolatileTransformations.md) | **Устарело.** Преобразование 3D объекта для изменения(Унаследован от [Object3D](T_TFlex_Model_Model3D_Object3D.md)) |
+|  | [Wireframe](P_TFlex_Model_Model3D_Operation_Wireframe.md) | Признак рёберной отрисовки операции(Унаследован от [Operation](T_TFlex_Model_Model3D_Operation.md)) |
+  
+#### Ссылки
+
+[Piramida - ](T_TFlex_Model_Model3D_Piramida.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

@@ -1,0 +1,66 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# CollectionT \- класс  
+  
+---  
+  
+Коллекция элементов
+
+[SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsCollectionT [TFlex.DialogsListControlButtonCollection](T_TFlex_Dialogs_ListControlButtonCollection.md) [TFlex.DialogsListControlEditorCollection](T_TFlex_Dialogs_ListControlEditorCollection.md) [TFlex.DialogsObjectSelectControlItemCollection](T_TFlex_Dialogs_ObjectSelectControlItemCollection.md)
+
+**Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public abstract class Collection<T> : IList<T>
+
+```
+```vb
+Public MustInherit Class Collection(Of T)
+	Implements IList(Of T)
+```
+```cpp
+generic<typename T>
+public ref class Collection abstract : IList<T>
+```
+
+
+#### Параметры типа
+
+T
+    
+
+Тип CollectionT предоставляет следующие члены.
+
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Count](P_TFlex_Dialogs_Collection_1_Count.md) | Получить количество элементов в коллекции |
+|  | [IsReadOnly](P_TFlex_Dialogs_Collection_1_IsReadOnly.md) | Коллекция только для чтения |
+|  | [Item](P_TFlex_Dialogs_Collection_1_Item.md) |  |
+  
+|  | Имя | Описание |
+| --- | --- | --- |
+|  | [Add](M_TFlex_Dialogs_Collection_1_Add.md) | Добавить элемент в конец коллекции |
+|  | [Clear](M_TFlex_Dialogs_Collection_1_Clear.md) | Удалить все элементы из коллекции |
+|  | [Contains](M_TFlex_Dialogs_Collection_1_Contains.md) | Возвращает true, если коллекция содержит элемент |
+|  | [CopyTo](M_TFlex_Dialogs_Collection_1_CopyTo.md) | Копировать коллекцию в массив |
+|  | [Equals](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals\(system-object\)) | Determines whether the specified object is equal to the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [Finalize](https://learn.microsoft.com/dotnet/api/system.object.finalize) | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetEnumerator](M_TFlex_Dialogs_Collection_1_GetEnumerator.md) | Получить объект для перечисления коллекции |
+|  | [GetHashCode](https://learn.microsoft.com/dotnet/api/system.object.gethashcode) | Serves as the default hash function. (Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [GetType](https://learn.microsoft.com/dotnet/api/system.object.gettype) | Gets the [Type](https://learn.microsoft.com/dotnet/api/system.type) of the current instance.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [IEnumerable_GetEnumerator](M_TFlex_Dialogs_Collection_1_IEnumerable_GetEnumerator.md) |  |
+|  | [IListT_Add](M_TFlex_Dialogs_Collection_1_IListT_Add.md) |  |
+|  | [IndexOf](M_TFlex_Dialogs_Collection_1_IndexOf.md) | Возвращает индекс элемента в данной коллекции |
+|  | [Insert](M_TFlex_Dialogs_Collection_1_Insert.md) | Вставить элемент в коллекцию |
+|  | [MemberwiseClone](https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone) | Creates a shallow copy of the current [Object](https://learn.microsoft.com/dotnet/api/system.object).(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+|  | [Remove(T)](M_TFlex_Dialogs_Collection_1_Remove_1.md) | Удалить элемент из коллекции |
+|  | [Remove(IListT)](M_TFlex_Dialogs_Collection_1_Remove.md) |  |
+|  | [RemoveAt](M_TFlex_Dialogs_Collection_1_RemoveAt.md) | Удалить элемент из коллекции |
+|  | [RemoveRange](M_TFlex_Dialogs_Collection_1_RemoveRange.md) | Удалить диапазон элементов из коллекции |
+|  | [ToString](https://learn.microsoft.com/dotnet/api/system.object.tostring) | Returns a string that represents the current object.(Унаследован от [Object](https://learn.microsoft.com/dotnet/api/system.object)) |
+  
+#### Ссылки
+
+[TFlex.Dialogs - пространство имён](N_TFlex_Dialogs.md)

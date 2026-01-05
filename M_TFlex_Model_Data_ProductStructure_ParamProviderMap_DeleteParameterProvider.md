@@ -1,0 +1,37 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# ParamProviderMapDeleteParameterProvider - метод  
+  
+---  
+**Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
+
+```csharp
+public void DeleteParameterProvider(
+	Guid rowID
+)
+```
+```vb
+Public Sub DeleteParameterProvider ( 
+	rowID As Guid
+)
+```
+```cpp
+public:
+void DeleteParameterProvider(
+	Guid rowID
+)
+```
+
+
+#### Параметры
+
+rowID [Guid](https://learn.microsoft.com/dotnet/api/system.guid)
+    
+
+#### Ссылки
+
+[ParamProviderMap - ](T_TFlex_Model_Data_ProductStructure_ParamProviderMap.md)
+
+[TFlex.Model.Data.ProductStructure - пространство имён](N_TFlex_Model_Data_ProductStructure.md)

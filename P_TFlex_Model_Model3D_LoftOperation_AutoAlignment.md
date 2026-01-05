@@ -1,0 +1,38 @@
+﻿
+
+Руководство по T-FLEX CAD Open API
+
+# LoftOperationAutoAlignment - свойство  
+  
+---  
+  
+Автовыравнивание
+
+**Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+
+```csharp
+public LoftOperationLoftAutoAlignmentType AutoAlignment { get; set; }
+```
+```vb
+Public Property AutoAlignment As LoftOperationLoftAutoAlignmentType
+	Get
+	Set
+```
+```cpp
+public:
+property LoftOperationLoftAutoAlignmentType AutoAlignment {
+	LoftOperationLoftAutoAlignmentType get ();
+	void set (LoftOperationLoftAutoAlignmentType value);
+}
+```
+
+
+#### Значение свойства
+
+[LoftOperationLoftAutoAlignmentType](T_TFlex_Model_Model3D_LoftOperation_LoftAutoAlignmentType.md)
+
+#### Ссылки
+
+[LoftOperation - ](T_TFlex_Model_Model3D_LoftOperation.md)
+
+[TFlex.Model.Model3D - пространство имён](N_TFlex_Model_Model3D.md)

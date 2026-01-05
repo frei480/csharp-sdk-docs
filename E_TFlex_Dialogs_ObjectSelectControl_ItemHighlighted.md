@@ -1,0 +1,36 @@
+
+
+Руководство по T-FLEX CAD Open API
+
+# ObjectSelectControlItemHighlighted - событие  
+  
+---  
+  
+Событие наведения указателя мыши на объект в списке
+
+**Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+
+```csharp
+public event EventHandler<ObjectSelectControlHighlightEventArgs> ItemHighlighted
+```
+```vb
+Public Event ItemHighlighted As EventHandler(Of ObjectSelectControlHighlightEventArgs)
+```
+```cpp
+public:
+ event EventHandler<ObjectSelectControlHighlightEventArgs^>^ ItemHighlighted {
+	void add (EventHandler<ObjectSelectControlHighlightEventArgs^>^ value);
+	void remove (EventHandler<ObjectSelectControlHighlightEventArgs^>^ value);
+}
+```
+
+
+#### Значение
+
+[EventHandler](https://learn.microsoft.com/dotnet/api/system.eventhandler-1)[ObjectSelectControlHighlightEventArgs](T_TFlex_Dialogs_ObjectSelectControlHighlightEventArgs.md)
+
+#### Ссылки
+
+[ObjectSelectControl - ](T_TFlex_Dialogs_ObjectSelectControl.md)
+
+[TFlex.Dialogs - пространство имён](N_TFlex_Dialogs.md)
