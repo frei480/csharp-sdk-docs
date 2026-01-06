@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Edges - свойства  
-  
----  
-  
+    
 Тип [Edges](T_TFlex_Model_Model3D_Geometry_Edges.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

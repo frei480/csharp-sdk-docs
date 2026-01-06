@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PathBy2DElemsSegmentsSetSegment - класс  
-  
----  
-  
+    
 Класс сегмента
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DPathBy2DElemsSegmentsSetSegment

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftPointOnContour - класс  
-  
----  
-  
+    
 Базовый класс для задания точки на контуре сечения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DLoftPointOnContour [TFlex.Model.Model3DLoftAutomaticXyzPoint](T_TFlex_Model_Model3D_Loft_AutomaticXyzPoint.md) [TFlex.Model.Model3DLoftEdgePoint](T_TFlex_Model_Model3D_Loft_EdgePoint.md) [TFlex.Model.Model3DLoftNodePoint](T_TFlex_Model_Model3D_Loft_NodePoint.md) [TFlex.Model.Model3DLoftVertexPoint](T_TFlex_Model_Model3D_Loft_VertexPoint.md)

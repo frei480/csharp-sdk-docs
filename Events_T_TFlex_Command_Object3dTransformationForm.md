@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3dTransformationForm - события  
-  
----  
-  
+    
 Тип [Object3dTransformationForm](T_TFlex_Command_Object3dTransformationForm.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

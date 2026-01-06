@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportTo - класс  
-  
----  
-  
+    
 Базовый класс для всех классов экспорта документа
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelExportTo Подробнее

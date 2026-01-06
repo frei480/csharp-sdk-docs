@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureKilogramForcePerSquareCentimeter - свойство  
-  
----  
-  
+    
 Килограмм-сила на квадратный сантиметр; кгс/см²; kgf/cm²; 
 
 Тип - Давление

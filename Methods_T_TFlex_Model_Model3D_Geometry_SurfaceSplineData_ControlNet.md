@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlNet - методы  
-  
----  
-  
+    
 Тип [SurfaceSplineDataControlNet](T_TFlex_Model_Model3D_Geometry_SurfaceSplineData_ControlNet.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

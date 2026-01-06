@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OperationRayTest - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RayTest(Operation, ValueType, ValueType)](M_TFlex_Model_Model3D_Operation_RayTest.md) |  |

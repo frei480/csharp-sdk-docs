@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ValueListItem - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ValueListItem(String)](M_TFlex_Dialogs_ValueListItem__ctor.md) | Инициализирует новый экземпляр класса [ValueListItem](T_TFlex_Dialogs_ValueListItem.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InputControlBase - класс  
-  
----  
-  
+    
 Базовый класс для элементов ввода значений
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) [TFlex.DialogsBaseControl](T_TFlex_Dialogs_BaseControl.md) TFlex.DialogsInputControlBase [TFlex.DialogsCompoundStringControl](T_TFlex_Dialogs_CompoundStringControl.md) [TFlex.DialogsNumericInputControl](T_TFlex_Dialogs_NumericInputControl.md)

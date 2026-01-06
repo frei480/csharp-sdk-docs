@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDensityPoundPerCubicYard - свойство  
-  
----  
-  
+    
 Фунт на кубический ярд; фунт/ярд³; lb/yd³; 
 
 Тип - Плотность

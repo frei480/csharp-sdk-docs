@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Document - свойства  
-  
----  
-  
+    
 Тип [Document](T_TFlex_Model_Document.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

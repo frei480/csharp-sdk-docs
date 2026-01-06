@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TorqueForce - свойства  
-  
----  
-  
+    
 Тип [TorqueForce](T_TFlex_Model_Model3D_TorqueForce.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

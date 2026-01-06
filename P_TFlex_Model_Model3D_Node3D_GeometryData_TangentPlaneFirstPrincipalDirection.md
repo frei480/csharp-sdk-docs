@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Node3DGeometryDataTangentPlaneFirstPrincipalDirection - свойство  
-  
----  
-  
+    
 Получить плоскость по нормали к поверхности с ориентацией по первому главному направлению для точки, построенной на грани
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

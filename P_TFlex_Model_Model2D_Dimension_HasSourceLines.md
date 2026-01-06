@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DimensionHasSourceLines - свойство  
-  
----  
-  
+    
 Проверить размер на возможность приведения параметра номинала размера к типу "По исходным линиям"
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

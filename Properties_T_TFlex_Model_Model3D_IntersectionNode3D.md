@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntersectionNode3D - свойства  
-  
----  
-  
+    
 Тип [IntersectionNode3D](T_TFlex_Model_Model3D_IntersectionNode3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

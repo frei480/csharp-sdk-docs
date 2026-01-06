@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Version - методы  
-  
----  
-  
+    
 Тип [BOMObjectVersion](T_TFlex_Model_Model2D_BOMObject_Version.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

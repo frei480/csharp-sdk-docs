@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropetiesWindowHeaderButtonPressedEventArgs - свойства  
-  
----  
-  
+    
 Тип [PropetiesWindowHeaderButtonPressedEventArgs](T_TFlex_Command_PropetiesWindowHeaderButtonPressedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

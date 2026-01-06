@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelTopol - поля  
-  
----  
-  
+    
 Тип [ModelTopol](T_TFlex_Model_Model3D_Geometry_ModelTopol.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

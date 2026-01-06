@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WireSetManipulatorSleeveEventArgs - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.Model.Model3D.Visual.ManipulatorsManipulatorEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_ManipulatorEventArgs.md) TFlex.Model.Model3D.Visual.ManipulatorsWireSetManipulatorSleeveEventArgs
 
 **Пространство имён:** [TFlex.Model.Model3D.Visual.Manipulators](N_TFlex_Model_Model3D_Visual_Manipulators.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

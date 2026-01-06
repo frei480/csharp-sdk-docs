@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ViewSection - методы  
-  
----  
-  
+    
 Тип [ViewSection](T_TFlex_Model_Model3D_ViewSection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

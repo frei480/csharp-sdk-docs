@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Range - методы  
-  
----  
-  
+    
 Тип [Range](T_TFlex_Dialogs_Range.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

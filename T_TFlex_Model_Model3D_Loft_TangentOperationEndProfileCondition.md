@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftTangentOperationEndProfileCondition - класс  
-  
----  
-  
+    
 Класс для задания касательных условий к профилю берущихся с граней тела
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DLoftEndProfileCondition](T_TFlex_Model_Model3D_Loft_EndProfileCondition.md) TFlex.Model.Model3DLoftTangentOperationEndProfileCondition

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectionNode - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ProjectionNode(Document)](M_TFlex_Model_Model2D_ProjectionNode__ctor.md) | Конструктор по умолчанию. Координаты установлены в значение 0,0 |

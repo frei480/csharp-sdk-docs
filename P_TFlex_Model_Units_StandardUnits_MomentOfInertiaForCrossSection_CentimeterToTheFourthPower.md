@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMomentOfInertiaForCrossSectionCentimeterToTheFourthPower - свойство  
-  
----  
-  
+    
 Сантиметр в степени 4; см⁴; cm⁴; 
 
 Тип - Момент инерции сечения

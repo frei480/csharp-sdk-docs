@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgeBlendingAttribute - класс  
-  
----  
-  
+    
 Aбстрактный класс используемый для задания свойств
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DEdgeBlendingAttribute [TFlex.Model.Model3DEdgeBlendingChamferAttribute](T_TFlex_Model_Model3D_EdgeBlending_ChamferAttribute.md) [TFlex.Model.Model3DEdgeBlendingChamferLengthAttribute](T_TFlex_Model_Model3D_EdgeBlending_ChamferLengthAttribute.md) [TFlex.Model.Model3DEdgeBlendingConstantBlendAttribute](T_TFlex_Model_Model3D_EdgeBlending_ConstantBlendAttribute.md) [TFlex.Model.Model3DEdgeBlendingVariableBlendAttribute](T_TFlex_Model_Model3D_EdgeBlending_VariableBlendAttribute.md)

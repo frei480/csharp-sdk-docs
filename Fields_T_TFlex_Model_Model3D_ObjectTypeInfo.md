@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectTypeInfo - поля  
-  
----  
-  
+    
 Тип [ObjectTypeInfo](T_TFlex_Model_Model3D_ObjectTypeInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

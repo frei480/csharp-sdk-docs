@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelConfigurationEventArgs - методы  
-  
----  
-  
+    
 Тип [ModelConfigurationEventArgs](T_TFlex_ModelConfigurationEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ToggleControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ToggleControl](M_TFlex_Dialogs_ToggleControl__ctor.md) | Инициализирует новый экземпляр класса [ToggleControl](T_TFlex_Dialogs_ToggleControl.md) |

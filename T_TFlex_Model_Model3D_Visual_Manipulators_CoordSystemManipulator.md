@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CoordSystemManipulator - класс  
-  
----  
-  
+    
 Манипулятор для настройки локальной прямоугольной системы координат
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.Visual.ManipulatorsManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_Manipulator.md) TFlex.Model.Model3D.Visual.ManipulatorsCoordSystemManipulator

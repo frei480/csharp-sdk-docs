@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Response - свойства  
-  
----  
-  
+    
 Тип [Response](T_TFlex_Rest_Response.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

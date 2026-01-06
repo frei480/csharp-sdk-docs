@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OnAxisWorkplane - методы  
-  
----  
-  
+    
 Тип [OnAxisWorkplane](T_TFlex_Model_Model3D_OnAxisWorkplane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

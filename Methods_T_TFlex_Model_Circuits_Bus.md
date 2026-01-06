@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Bus - методы  
-  
----  
-  
+    
 Тип [Bus](T_TFlex_Model_Circuits_Bus.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

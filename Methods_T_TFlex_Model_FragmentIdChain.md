@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentIdChain - методы  
-  
----  
-  
+    
 Тип [FragmentIdChain](T_TFlex_Model_FragmentIdChain.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

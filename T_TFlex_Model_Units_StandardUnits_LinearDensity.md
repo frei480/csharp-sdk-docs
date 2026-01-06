@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Линейная плотность
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsLinearDensity

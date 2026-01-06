@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialParameter - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [MaterialParameter(Material)](M_TFlex_Model_Model3D_MaterialParameter__ctor_1.md) | Конструктор для создания параметра, заданного материалом |

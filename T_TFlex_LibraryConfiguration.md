@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LibraryConfiguration - класс  
-  
----  
-  
+    
 Класс конфигурации библиотек. Данный класс является набором библиотек и групп библиотек
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexLibraryConfiguration

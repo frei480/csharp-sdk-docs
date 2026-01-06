@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScenarioActions - свойства  
-  
----  
-  
+    
 Тип [ScenarioActions](T_TFlex_Model_Model3D_ScenarioActions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

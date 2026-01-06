@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ToggleControl - события  
-  
----  
-  
+    
 Тип [ToggleControl](T_TFlex_Dialogs_ToggleControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

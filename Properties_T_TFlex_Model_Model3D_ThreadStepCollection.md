@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreadStepCollection - свойства  
-  
----  
-  
+    
 Тип [ThreadStepCollection](T_TFlex_Model_Model3D_ThreadStepCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

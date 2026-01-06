@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FileLink - свойства  
-  
----  
-  
+    
 Тип [FileLink](T_TFlex_Model_FileLink.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

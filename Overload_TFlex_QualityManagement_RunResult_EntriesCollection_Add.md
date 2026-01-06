@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunResultEntriesCollectionAdd - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Add](M_TFlex_QualityManagement_RunResult_EntriesCollection_Add.md) | Добавить запись с конструктором по умолчанию |

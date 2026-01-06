@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ActiveChangedEventArgs - методы  
-  
----  
-  
+    
 Тип [ActiveChangedEventArgs](T_TFlex_Dialogs_ActiveChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

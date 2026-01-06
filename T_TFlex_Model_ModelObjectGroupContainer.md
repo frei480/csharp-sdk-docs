@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectGroupContainer - класс  
-  
----  
-  
+    
 Массив групп объектов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelModelObjectGroupContainer

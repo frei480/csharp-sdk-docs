@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # View3DViewFrustum - структура  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemValueType](https://learn.microsoft.com/dotnet/api/system.valuetype) TFlex.Model.Model3DView3DViewFrustum
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

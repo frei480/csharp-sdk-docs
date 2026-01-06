@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Geometry - свойства  
-  
----  
-  
+    
 Тип [Geometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

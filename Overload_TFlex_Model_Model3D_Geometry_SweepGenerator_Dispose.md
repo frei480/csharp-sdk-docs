@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SweepGeneratorDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Geometry_BaseGenerator_Dispose.md) |  |

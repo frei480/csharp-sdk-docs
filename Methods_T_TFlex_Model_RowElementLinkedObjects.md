@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowElementLinkedObjects - методы  
-  
----  
-  
+    
 Тип [RowElementLinkedObjects](T_TFlex_Model_RowElementLinkedObjects.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

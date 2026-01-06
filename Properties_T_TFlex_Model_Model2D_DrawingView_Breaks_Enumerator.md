@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Enumerator - свойства  
-  
----  
-  
+    
 Тип [DrawingViewBreaksEnumerator](T_TFlex_Model_Model2D_DrawingView_Breaks_Enumerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

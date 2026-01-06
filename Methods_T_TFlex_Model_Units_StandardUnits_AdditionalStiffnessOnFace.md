@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AdditionalStiffnessOnFace - методы  
-  
----  
-  
+    
 Тип [StandardUnitsAdditionalStiffnessOnFace](T_TFlex_Model_Units_StandardUnits_AdditionalStiffnessOnFace.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

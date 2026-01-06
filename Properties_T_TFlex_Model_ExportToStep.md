@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToSTEP - свойства  
-  
----  
-  
+    
 Тип [ExportToSTEP](T_TFlex_Model_ExportToSTEP.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

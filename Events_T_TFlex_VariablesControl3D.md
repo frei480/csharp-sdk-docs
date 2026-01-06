@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariablesControl3D - события  
-  
----  
-  
+    
 Тип [VariablesControl3D](T_TFlex_VariablesControl3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

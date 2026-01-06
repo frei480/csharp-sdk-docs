@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScenarioObjectsAdd - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Add(Camera)](M_TFlex_Model_Model3D_ScenarioObjects_Add.md) |  |

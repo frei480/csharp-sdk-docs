@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunScriptResult - класс  
-  
----  
-  
+    
 Класс результата проверки сценария, суммирующий результаты отдельных результатов проверок
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.QualityManagementRunScriptResult

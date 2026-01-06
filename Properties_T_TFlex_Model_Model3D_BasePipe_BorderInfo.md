@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BorderInfo - свойства  
-  
----  
-  
+    
 Тип [BasePipeBorderInfo](T_TFlex_Model_Model3D_BasePipe_BorderInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

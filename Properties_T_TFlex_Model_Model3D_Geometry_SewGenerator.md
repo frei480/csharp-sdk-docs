@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SewGenerator - свойства  
-  
----  
-  
+    
 Тип [SewGenerator](T_TFlex_Model_Model3D_Geometry_SewGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

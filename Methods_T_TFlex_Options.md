@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Options - методы  
-  
----  
-  
+    
 Тип [Options](T_TFlex_Options.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

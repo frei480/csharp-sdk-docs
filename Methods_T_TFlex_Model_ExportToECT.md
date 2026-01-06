@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToECT - методы  
-  
----  
-  
+    
 Тип [ExportToECT](T_TFlex_Model_ExportToECT.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

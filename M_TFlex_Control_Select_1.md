@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlSelect(Int32, Int32, SelectionFilter) - метод  
-  
----  
-  
+    
 Выбор элемента модели, ближайшего к точке с заданными координатами
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

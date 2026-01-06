@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SweptData - класс  
-  
----  
-  
+    
 Класс для задания и определения свойств поверхности выталкивания
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySweptData

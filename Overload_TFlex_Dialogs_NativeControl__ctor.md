@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NativeControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [NativeControl](M_TFlex_Dialogs_NativeControl__ctor.md) | Инициализирует новый экземпляр класса [NativeControl](T_TFlex_Dialogs_NativeControl.md) |

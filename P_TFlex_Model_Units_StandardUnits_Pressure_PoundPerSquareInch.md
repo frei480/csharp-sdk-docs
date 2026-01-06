@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressurePoundPerSquareInch - свойство  
-  
----  
-  
+    
 Фунт-сила на квадратный дюйм; фунт-сила/дюйм²; psi; 
 
 Тип - Давление

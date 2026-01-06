@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FileLink - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FileLink(BackFileLinkParameters)](M_TFlex_Model_FileLink__ctor.md) | Конструктор обратной ссылки |

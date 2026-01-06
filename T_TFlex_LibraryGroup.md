@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LibraryGroup - класс  
-  
----  
-  
+    
 Класс группы библиотек. Данный класс является набором библиотек и других групп библиотек
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexLibraryGroup

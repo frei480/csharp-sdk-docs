@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AngularDimension - методы  
-  
----  
-  
+    
 Тип [AngularDimension](T_TFlex_Model_Model2D_AngularDimension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

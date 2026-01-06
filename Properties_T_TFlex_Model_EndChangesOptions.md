@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EndChangesOptions - свойства  
-  
----  
-  
+    
 Тип [EndChangesOptions](T_TFlex_Model_EndChangesOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

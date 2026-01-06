@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SizeInt - свойства  
-  
----  
-  
+    
 Тип [SizeInt](T_TFlex_Configuration_SizeInt.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

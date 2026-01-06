@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UnitConverter - класс  
-  
----  
-  
+    
 Конвертер единиц измерения модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryUnitConverter

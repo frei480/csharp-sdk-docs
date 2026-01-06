@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonGroupAddButton - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddButton(Int32)](M_TFlex_RibbonGroup_AddButton.md) | Добавляет кнопку в эту группу |

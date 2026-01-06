@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObject - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelModelObject Подробнее
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

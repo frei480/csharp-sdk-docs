@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OverrideCollectionT \- класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Data.ProductStructureOverrideCollectionT [TFlex.Model.Data.ProductStructureBoolOverrideCollection](T_TFlex_Model_Data_ProductStructure_BoolOverrideCollection.md)
 
 **Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)

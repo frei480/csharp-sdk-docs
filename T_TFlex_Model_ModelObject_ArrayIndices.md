@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectArrayIndices - класс  
-  
----  
-  
+    
 Класс для передачи ссылок по индексу. Используется для организации массивов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelModelObjectArrayIndices

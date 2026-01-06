@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngularVelocityRadianPerSecond - свойство  
-  
----  
-  
+    
 Радиан в секунду; рад/с; rad/s; 
 
 Тип - Угловая скорость

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IconDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Dialogs_Icon_Dispose.md) | Освобождает все ресурсы, используемые объектом [Icon](T_TFlex_Dialogs_Icon.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TermGroupItem - методы  
-  
----  
-  
+    
 Тип [TermGroupItem](T_TFlex_Model_Data_Filters_TermGroupItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

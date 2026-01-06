@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NonStandardProjection - методы  
-  
----  
-  
+    
 Тип [NonStandardProjection](T_TFlex_Model_Model3D_NonStandardProjection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

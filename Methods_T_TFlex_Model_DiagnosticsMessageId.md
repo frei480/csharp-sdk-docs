@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DiagnosticsMessageId - методы  
-  
----  
-  
+    
 Тип [DiagnosticsMessageId](T_TFlex_Model_DiagnosticsMessageId.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

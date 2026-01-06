@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MoveRotateTransformation - класс  
-  
----  
-  
+    
 Класс преобразования перемещения/поворота
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DTransformation](T_TFlex_Model_Model3D_Transformation.md) TFlex.Model.Model3DMoveRotateTransformation [TFlex.Model.Model3DFragmentTransformation](T_TFlex_Model_Model3D_FragmentTransformation.md) [TFlex.Model.Model3DLCSTransformation](T_TFlex_Model_Model3D_LCSTransformation.md)

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectIdToString - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ToString](M_TFlex_Model_ObjectId_ToString.md) | Возвращает строку, представляющую текущий объект. |

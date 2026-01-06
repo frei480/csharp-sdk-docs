@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CreateElementsFromSerializedParameters - методы  
-  
----  
-  
+    
 Тип [CreateElementsFromSerializedParameters](T_TFlex_Model_Structure_CreateElementsFromSerializedParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

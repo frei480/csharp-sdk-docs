@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Win32Window - свойства  
-  
----  
-  
+    
 Тип [Win32Window](T_TFlex_Dialogs_Win32Window.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

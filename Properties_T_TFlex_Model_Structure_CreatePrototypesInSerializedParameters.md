@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CreatePrototypesInSerializedParameters - свойства  
-  
----  
-  
+    
 Тип [CreatePrototypesInSerializedParameters](T_TFlex_Model_Structure_CreatePrototypesInSerializedParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

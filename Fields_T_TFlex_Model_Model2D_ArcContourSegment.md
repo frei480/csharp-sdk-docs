@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ArcContourSegment - поля  
-  
----  
-  
+    
 Тип [ArcContourSegment](T_TFlex_Model_Model2D_ArcContourSegment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

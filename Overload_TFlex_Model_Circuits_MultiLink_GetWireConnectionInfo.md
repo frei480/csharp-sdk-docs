@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MultiLinkGetWireConnectionInfo - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetWireConnectionInfo(Element, Boolean)](M_TFlex_Model_Circuits_MultiLink_GetWireConnectionInfo_1.md) |  |

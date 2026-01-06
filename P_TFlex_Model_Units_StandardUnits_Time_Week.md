@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTimeWeek - свойство  
-  
----  
-  
+    
 Неделя; нед; week; 
 
 Тип - Время

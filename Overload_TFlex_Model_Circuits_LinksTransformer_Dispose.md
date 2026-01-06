@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinksTransformerDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Circuits_LinksTransformer_Dispose.md) | Освобождает все ресурсы, используемые объектом [LinksTransformer](T_TFlex_Model_Circuits_LinksTransformer.md) |

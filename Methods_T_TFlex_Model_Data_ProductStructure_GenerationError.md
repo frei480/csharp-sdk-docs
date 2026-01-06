@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GenerationError - методы  
-  
----  
-  
+    
 Тип [GenerationError](T_TFlex_Model_Data_ProductStructure_GenerationError.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

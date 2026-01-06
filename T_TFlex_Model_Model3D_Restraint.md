@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Restraint - класс  
-  
----  
-  
+    
 Нагрузки и ограничения Анализа
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) TFlex.Model.Model3DRestraint [TFlex.Model.Model3DBipolarElement](T_TFlex_Model_Model3D_BipolarElement.md) [TFlex.Model.Model3DPointForce](T_TFlex_Model_Model3D_PointForce.md) [TFlex.Model.Model3DTorqueActuator](T_TFlex_Model_Model3D_TorqueActuator.md) [TFlex.Model.Model3DTorqueForce](T_TFlex_Model_Model3D_TorqueForce.md)

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MainWindow - класс  
-  
----  
-  
+    
 Главное окно системы T-FLEX CAD
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexMainWindow

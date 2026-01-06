@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ViewSelect - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Select(Point, SelectionFilter)](M_TFlex_Model_View_Select_1.md) | Выбор элемента модели |

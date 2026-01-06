@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Pressure - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsPressure](T_TFlex_Model_Units_StandardUnits_Pressure.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

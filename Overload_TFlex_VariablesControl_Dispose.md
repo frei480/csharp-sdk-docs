@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariablesControlDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](https://learn.microsoft.com/dotnet/api/system.componentmodel.component.dispose#system-componentmodel-component-dispose) | Releases all resources used by the [Component](https://learn.microsoft.com/dotnet/api/system.componentmodel.component). |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MeasureResultsUpdatingEventArgs - методы  
-  
----  
-  
+    
 Тип [MeasureResultsUpdatingEventArgs](T_TFlex_MeasureResultsUpdatingEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

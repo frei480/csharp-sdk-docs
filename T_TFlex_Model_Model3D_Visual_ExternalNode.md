@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExternalNode - класс  
-  
----  
-  
+    
 Узел неизвестного типа
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.VisualSceneNode](T_TFlex_Model_Model3D_Visual_SceneNode.md) TFlex.Model.Model3D.VisualExternalNode

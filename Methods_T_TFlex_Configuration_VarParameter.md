@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VarParameter - методы  
-  
----  
-  
+    
 Тип [VarParameter](T_TFlex_Configuration_VarParameter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

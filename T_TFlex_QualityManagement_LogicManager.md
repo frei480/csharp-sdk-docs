@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogicManager - класс  
-  
----  
-  
+    
 Менеджер логик
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.QualityManagementLogicManager

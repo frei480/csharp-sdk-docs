@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunResultEntryObjectIdsCollectionAddRange - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddRange(IEnumerableModelObject)](M_TFlex_QualityManagement_RunResultEntry_ObjectIdsCollection_AddRange.md) |  |

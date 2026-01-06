@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LibraryGroupDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_LibraryGroup_Dispose.md) | Освобождает все ресурсы, используемые объектом [LibraryGroup](T_TFlex_LibraryGroup.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichText - класс  
-  
----  
-  
+    
 Базовый класс форматированного текста
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.Model2DText](T_TFlex_Model_Model2D_Text.md) TFlex.Model.Model2DRichText [TFlex.Model.Model2DBOMObject](T_TFlex_Model_Model2D_BOMObject.md) [TFlex.Model.Model2DMultilineText](T_TFlex_Model_Model2D_MultilineText.md) [TFlex.Model.Model2DParagraphText](T_TFlex_Model_Model2D_ParagraphText.md)

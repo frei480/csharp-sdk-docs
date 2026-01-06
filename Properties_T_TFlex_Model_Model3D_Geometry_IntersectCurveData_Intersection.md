@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Intersection - свойства  
-  
----  
-  
+    
 Тип [IntersectCurveDataIntersection](T_TFlex_Model_Model3D_Geometry_IntersectCurveData_Intersection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

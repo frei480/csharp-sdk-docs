@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MomentOfInertiaForCrossSection - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsMomentOfInertiaForCrossSection](T_TFlex_Model_Units_StandardUnits_MomentOfInertiaForCrossSection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

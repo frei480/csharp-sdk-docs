@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentFileUserDataVariablesData - класс  
-  
----  
-  
+    
 Запись с данными о переменных
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model2DFragmentFileUserDataVariablesData

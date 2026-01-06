@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseParameter - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ConfigurationBaseParameter [TFlex.ConfigurationCompoundStringParameter](T_TFlex_Configuration_CompoundStringParameter.md) [TFlex.ConfigurationFileLinkParameter](T_TFlex_Configuration_FileLinkParameter.md) [TFlex.ConfigurationVarParameter](T_TFlex_Configuration_VarParameter.md)
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

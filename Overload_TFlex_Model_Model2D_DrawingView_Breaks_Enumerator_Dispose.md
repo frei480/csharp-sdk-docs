@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DrawingViewBreaksEnumeratorDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model2D_DrawingView_Breaks_Enumerator_Dispose.md) | Освобождает все ресурсы, используемые объектом [DrawingViewBreaksEnumerator](T_TFlex_Model_Model2D_DrawingView_Breaks_Enumerator.md) |

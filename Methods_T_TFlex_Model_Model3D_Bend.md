@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Bend - методы  
-  
----  
-  
+    
 Тип [Bend](T_TFlex_Model_Model3D_Bend.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsBreakingStrengthDynePerSquareCentimeter - свойство  
-  
----  
-  
+    
 Дина на квадратный сантиметр; дин/см²; dyn/cm²; 
 
 Тип - Прочность на разрыв

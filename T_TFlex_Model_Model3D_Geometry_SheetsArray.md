@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SheetsArray - класс  
-  
----  
-  
+    
 Множество листовых моделей
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometricArray](T_TFlex_Model_Model3D_Geometry_GeometricArray.md) TFlex.Model.Model3D.GeometrySheetsArray

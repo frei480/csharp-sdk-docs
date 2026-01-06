@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseCopyValuesParameters - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.StructureBaseCopyValuesParameters [TFlex.Model.StructureElementCopyValuesParameters](T_TFlex_Model_Structure_ElementCopyValuesParameters.md) [TFlex.Model.StructurePrototypeCopyValuesParameters](T_TFlex_Model_Structure_PrototypeCopyValuesParameters.md)
 
 **Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

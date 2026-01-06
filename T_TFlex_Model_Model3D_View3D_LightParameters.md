@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # View3DLightParameters - класс  
-  
----  
-  
+    
 Параметры освещения 3D вида
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DView3DLightParameters

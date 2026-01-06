@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgeBlendingChamferAttribute - класс  
-  
----  
-  
+    
 ChamferAttribute - класс для задания фаски с помощью двух смещений
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DEdgeBlendingAttribute](T_TFlex_Model_Model3D_EdgeBlending_Attribute.md) TFlex.Model.Model3DEdgeBlendingChamferAttribute

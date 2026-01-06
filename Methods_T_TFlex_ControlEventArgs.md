@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlEventArgs - методы  
-  
----  
-  
+    
 Тип [ControlEventArgs](T_TFlex_ControlEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

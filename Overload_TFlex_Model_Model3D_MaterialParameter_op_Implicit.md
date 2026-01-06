@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialParameter  \- операторы преобразования  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [(Material to MaterialParameter)](M_TFlex_Model_Model3D_MaterialParameter_op_Implicit_1.md) |  |

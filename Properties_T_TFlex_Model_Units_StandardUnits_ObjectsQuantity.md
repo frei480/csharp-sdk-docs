@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectsQuantity - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsObjectsQuantity](T_TFlex_Model_Units_StandardUnits_ObjectsQuantity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

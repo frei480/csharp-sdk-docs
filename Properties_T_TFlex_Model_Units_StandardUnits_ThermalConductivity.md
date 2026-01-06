@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThermalConductivity - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsThermalConductivity](T_TFlex_Model_Units_StandardUnits_ThermalConductivity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

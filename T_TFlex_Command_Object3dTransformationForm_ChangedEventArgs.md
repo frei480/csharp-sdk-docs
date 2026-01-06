@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3dTransformationFormChangedEventArgs - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) TFlex.CommandObject3dTransformationFormChangedEventArgs
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

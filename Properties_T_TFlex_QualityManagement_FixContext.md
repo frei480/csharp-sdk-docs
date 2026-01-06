@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixContext - свойства  
-  
----  
-  
+    
 Тип [FixContext](T_TFlex_QualityManagement_FixContext.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

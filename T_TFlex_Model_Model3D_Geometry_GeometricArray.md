@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometricArray - класс  
-  
----  
-  
+    
 Множество геометрических данных
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryGeometricArray [TFlex.Model.Model3D.GeometryContoursArray](T_TFlex_Model_Model3D_Geometry_ContoursArray.md) [TFlex.Model.Model3D.GeometryPointsArray](T_TFlex_Model_Model3D_Geometry_PointsArray.md) [TFlex.Model.Model3D.GeometrySheetsArray](T_TFlex_Model_Model3D_Geometry_SheetsArray.md) [TFlex.Model.Model3D.GeometryWiresArray](T_TFlex_Model_Model3D_Geometry_WiresArray.md)

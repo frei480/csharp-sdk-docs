@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationManager - свойства  
-  
----  
-  
+    
 Тип [DecorationManager](T_TFlex_Model_Model3D_Visual_DecorationManager.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

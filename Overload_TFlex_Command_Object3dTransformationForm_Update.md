@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3dTransformationFormUpdate - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Update](M_TFlex_Command_Object3dTransformationForm_Update.md) |  |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAccelerationInchPerSquareSecond - свойство  
-  
----  
-  
+    
 Дюйм на секунду в квадрате; дюйм/c²; In/s²; 
 
 Тип - Ускорение

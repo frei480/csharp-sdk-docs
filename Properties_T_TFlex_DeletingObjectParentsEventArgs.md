@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DeletingObjectParentsEventArgs - свойства  
-  
----  
-  
+    
 Тип [DeletingObjectParentsEventArgs](T_TFlex_DeletingObjectParentsEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

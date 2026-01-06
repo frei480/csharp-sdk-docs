@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardColorsPageBorderIndex - свойство  
-  
----  
-  
+    
 Цвет рамки форматки
 
 **Пространство имён:** [TFlex.Drawing](N_TFlex_Drawing.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

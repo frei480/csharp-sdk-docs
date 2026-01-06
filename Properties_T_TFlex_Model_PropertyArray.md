@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertyArray - свойства  
-  
----  
-  
+    
 Тип [PropertyArray](T_TFlex_Model_PropertyArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

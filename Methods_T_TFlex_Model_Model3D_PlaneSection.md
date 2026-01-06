@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PlaneSection - методы  
-  
----  
-  
+    
 Тип [PlaneSection](T_TFlex_Model_Model3D_PlaneSection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

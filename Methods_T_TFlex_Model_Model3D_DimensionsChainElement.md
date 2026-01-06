@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DimensionsChainElement - методы  
-  
----  
-  
+    
 Тип [DimensionsChainElement](T_TFlex_Model_Model3D_DimensionsChainElement.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

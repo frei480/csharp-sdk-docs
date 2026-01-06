@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WorkplaneGeometryData - класс  
-  
----  
-  
+    
 Множество геометрических данных рабочей плоскости
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DWorkplaneGeometryData

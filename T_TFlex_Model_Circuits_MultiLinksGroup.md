@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MultiLinksGroup - класс  
-  
----  
-  
+    
 Объект "Групповая линия связи с разрывом"
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.CircuitsLinkBase](T_TFlex_Model_Circuits_LinkBase.md) [TFlex.Model.CircuitsMultiLink](T_TFlex_Model_Circuits_MultiLink.md) TFlex.Model.CircuitsMultiLinksGroup

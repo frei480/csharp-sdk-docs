@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsFlowRateCubicFootPerSecond - свойство  
-  
----  
-  
+    
 Кубический фут в секунду; фут³/с; ft³/s; 
 
 Тип - Расход

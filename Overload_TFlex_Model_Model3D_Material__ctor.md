@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Material - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Material(Document)](M_TFlex_Model_Model3D_Material__ctor.md) | Конструктор для объекта "Материал" |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlSetZoomRectangle - метод  
-  
----  
-  
+    
 Установить текущее окно вывода (только 2D)
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

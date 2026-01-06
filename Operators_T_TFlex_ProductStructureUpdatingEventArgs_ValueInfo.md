@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ValueInfo - преобразования типов  
-  
----  
-  
+    
 Тип [ProductStructureUpdatingEventArgsValueInfo](T_TFlex_ProductStructureUpdatingEventArgs_ValueInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

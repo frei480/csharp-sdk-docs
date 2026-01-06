@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFromPicture3d - свойства  
-  
----  
-  
+    
 Тип [ImportFromPicture3d](T_TFlex_Model_ImportFromPicture3d.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

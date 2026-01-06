@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DBaseSegmentSetBeginTangent - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetBeginTangent(Boolean, Boolean)](M_TFlex_Model_Model3D_PipePath3D_BaseSegment_SetBeginTangent.md) | Управление касательной в начале участка |

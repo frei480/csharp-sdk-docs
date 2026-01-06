@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Node3DGeometryDataCurveTangentDirection - свойство  
-  
----  
-  
+    
 Получить касательную к кривой в точке, построенной на ребре, пути или профиле, в виде вектора с модели
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

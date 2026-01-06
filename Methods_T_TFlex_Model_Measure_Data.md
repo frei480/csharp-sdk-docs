@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Data - методы  
-  
----  
-  
+    
 Тип [Data](T_TFlex_Model_Measure_Data.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

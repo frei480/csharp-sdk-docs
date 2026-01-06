@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationContainerDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_TransformationContainer_Dispose.md) | Освободить данные |

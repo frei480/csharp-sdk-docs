@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SaveInNomenclatureOptions - класс  
-  
----  
-  
+    
 Опции сохранения документа в справочник электронной структуры изделия T-FLEX DOCs
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelSaveInNomenclatureOptions

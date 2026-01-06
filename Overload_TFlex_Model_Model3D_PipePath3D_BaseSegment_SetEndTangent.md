@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DBaseSegmentSetEndTangent - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetEndTangent(Boolean, Boolean)](M_TFlex_Model_Model3D_PipePath3D_BaseSegment_SetEndTangent.md) | Управление касательной в конце участка |

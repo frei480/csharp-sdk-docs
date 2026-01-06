@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyOperationIsVirtualBody - метод  
-  
----  
-  
+    
 Виртуальное тело в моделе, особенность представления тела операции в дереве модели (по аналогии с 3D фрагментом или массивом)
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

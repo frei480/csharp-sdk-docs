@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScaleVectorTransformation - свойства  
-  
----  
-  
+    
 Тип [ScaleVectorTransformation](T_TFlex_Model_Model3D_ScaleVectorTransformation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

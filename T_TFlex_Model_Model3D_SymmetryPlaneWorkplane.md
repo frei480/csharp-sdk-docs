@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SymmetryPlaneWorkplane - класс  
-  
----  
-  
+    
 Рабочая плоскость относительно плоскости симметрии
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DConstruction3D](T_TFlex_Model_Model3D_Construction3D.md) [TFlex.Model.Model3DWorkSurface](T_TFlex_Model_Model3D_WorkSurface.md) [TFlex.Model.Model3DWorkplane](T_TFlex_Model_Model3D_Workplane.md) [TFlex.Model.Model3DModel3DWorkplane](T_TFlex_Model_Model3D_Model3DWorkplane.md) TFlex.Model.Model3DSymmetryPlaneWorkplane

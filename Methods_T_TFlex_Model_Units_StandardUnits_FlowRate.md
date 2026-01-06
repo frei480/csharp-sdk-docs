@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FlowRate - методы  
-  
----  
-  
+    
 Тип [StandardUnitsFlowRate](T_TFlex_Model_Units_StandardUnits_FlowRate.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

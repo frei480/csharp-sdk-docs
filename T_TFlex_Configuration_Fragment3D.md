@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Fragment3D - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ConfigurationSettingsGroup](T_TFlex_Configuration_SettingsGroup.md) TFlex.ConfigurationFragment3D
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

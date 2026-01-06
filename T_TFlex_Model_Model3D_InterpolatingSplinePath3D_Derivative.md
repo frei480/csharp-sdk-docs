@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InterpolatingSplinePath3DDerivative - класс  
-  
----  
-  
+    
 Касательные условия на концах
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DInterpolatingSplinePath3DDerivative

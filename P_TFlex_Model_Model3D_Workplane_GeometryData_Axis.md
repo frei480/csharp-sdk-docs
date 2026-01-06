@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WorkplaneGeometryDataAxis - свойство  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Получить ось

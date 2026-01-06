@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TorsionalStrength - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsTorsionalStrength](T_TFlex_Model_Units_StandardUnits_TorsionalStrength.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelEdgeGeometryData - класс  
-  
----  
-  
+    
 Множество геометрических данных ребра
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryModelEdgeGeometryData

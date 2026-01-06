@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FormFactor - методы  
-  
----  
-  
+    
 Тип [FormFactor](T_TFlex_Configuration_FormFactor.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

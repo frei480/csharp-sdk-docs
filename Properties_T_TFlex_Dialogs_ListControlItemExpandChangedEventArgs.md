@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlItemExpandChangedEventArgs - свойства  
-  
----  
-  
+    
 Тип [ListControlItemExpandChangedEventArgs](T_TFlex_Dialogs_ListControlItemExpandChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

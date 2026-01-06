@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ManipulatorFindPositionOnPath - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FindPositionOnPath(FloatVector, ModelWire)](M_TFlex_Model_Model3D_Visual_Manipulators_Manipulator_FindPositionOnPath_1.md) |  |

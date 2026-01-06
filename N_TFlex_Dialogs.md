@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Dialogs - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [ActiveChangedEventArgs](T_TFlex_Dialogs_ActiveChangedEventArgs.md) | Данные о событии изменения значения IsActive у элемента |

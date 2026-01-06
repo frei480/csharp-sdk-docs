@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Path - свойства  
-  
----  
-  
+    
 Тип [LoftOperationPath](T_TFlex_Model_Model3D_LoftOperation_Path.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

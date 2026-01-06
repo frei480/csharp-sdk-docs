@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StringManagerLoadResourceFile(String) - метод  
-  
----  
-  
+    
 Загружает строки из файла в формате Microsoft ResX
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

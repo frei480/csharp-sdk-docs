@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DraggerManagerRemoveDragger - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RemoveDragger(Dragger)](M_TFlex_Model_Model3D_Visual_DraggerManager_RemoveDragger_1.md) | Удаляет манипулятор |

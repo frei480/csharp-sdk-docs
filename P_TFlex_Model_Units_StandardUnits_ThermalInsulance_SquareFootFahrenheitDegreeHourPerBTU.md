@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsThermalInsulanceSquareFootFahrenheitDegreeHourPerBTU - свойство  
-  
----  
-  
+    
 Квадратный фут градус Фаренгейта час на БТЕ; фут²·°F·ч/БТЕ; ft²·°F·hr/BTU; 
 
 Тип - Поверхностное тепловое сопротивление

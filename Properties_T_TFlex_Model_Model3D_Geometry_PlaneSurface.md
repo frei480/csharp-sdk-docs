@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PlaneSurface - свойства  
-  
----  
-  
+    
 Тип [PlaneSurface](T_TFlex_Model_Model3D_Geometry_PlaneSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

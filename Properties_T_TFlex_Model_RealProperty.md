@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RealProperty - свойства  
-  
----  
-  
+    
 Тип [RealProperty](T_TFlex_Model_RealProperty.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

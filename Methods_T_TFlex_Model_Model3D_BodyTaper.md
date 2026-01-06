@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BodyTaper - методы  
-  
----  
-  
+    
 Тип [BodyTaper](T_TFlex_Model_Model3D_BodyTaper.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

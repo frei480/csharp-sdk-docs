@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceBlendingContinuousRadiusAttribute - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FaceBlendingContinuousRadiusAttribute(Parameter)](M_TFlex_Model_Model3D_FaceBlending_ContinuousRadiusAttribute__ctor.md) | Конструктор |

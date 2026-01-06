@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Configuration - методы  
-  
----  
-  
+    
 Тип [ImportFrom3dCommonConfiguration](T_TFlex_Model_ImportFrom3dCommon_Configuration.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

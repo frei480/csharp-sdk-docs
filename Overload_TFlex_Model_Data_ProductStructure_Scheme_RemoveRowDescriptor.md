@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SchemeRemoveRowDescriptor - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RemoveRowDescriptor(Guid)](M_TFlex_Model_Data_ProductStructure_Scheme_RemoveRowDescriptor.md) |  |

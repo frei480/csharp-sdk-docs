@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Toughness - методы  
-  
----  
-  
+    
 Тип [StandardUnitsToughness](T_TFlex_Model_Units_StandardUnits_Toughness.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

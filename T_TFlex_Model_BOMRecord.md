@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BOMRecord - класс  
-  
----  
-  
+    
 Запись данных для спецификации
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelBOMRecord

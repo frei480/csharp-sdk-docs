@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlButtonCollectionIndexOf - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [IndexOf(T)](M_TFlex_Dialogs_Collection_1_IndexOf.md) | Возвращает индекс элемента в данной коллекции |

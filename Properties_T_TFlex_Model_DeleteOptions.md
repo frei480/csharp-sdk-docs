@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DeleteOptions - свойства  
-  
----  
-  
+    
 Тип [DeleteOptions](T_TFlex_Model_DeleteOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

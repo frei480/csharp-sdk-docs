@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BooleanGenerator - свойства  
-  
----  
-  
+    
 Тип [BooleanGenerator](T_TFlex_Model_Model3D_Geometry_BooleanGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

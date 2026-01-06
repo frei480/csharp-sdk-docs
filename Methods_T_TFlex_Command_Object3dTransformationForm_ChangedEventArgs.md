@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ChangedEventArgs - методы  
-  
----  
-  
+    
 Тип [Object3dTransformationFormChangedEventArgs](T_TFlex_Command_Object3dTransformationForm_ChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

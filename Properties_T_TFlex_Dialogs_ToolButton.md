@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ToolButton - свойства  
-  
----  
-  
+    
 Тип [ToolButton](T_TFlex_Dialogs_ToolButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

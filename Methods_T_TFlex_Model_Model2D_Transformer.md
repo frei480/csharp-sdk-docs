@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Transformer - методы  
-  
----  
-  
+    
 Тип [Transformer](T_TFlex_Model_Model2D_Transformer.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Scene - методы  
-  
----  
-  
+    
 Тип [Scene](T_TFlex_Model_Model3D_Visual_Scene.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

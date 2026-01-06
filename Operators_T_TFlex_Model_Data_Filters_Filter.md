@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Filter - операторы  
-  
----  
-  
+    
 Тип [Filter](T_TFlex_Model_Data_Filters_Filter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

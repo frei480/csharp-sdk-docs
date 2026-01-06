@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EnvironmentLight - поля  
-  
----  
-  
+    
 Тип [View3DEnvironmentLight](T_TFlex_Model_Model3D_View3D_EnvironmentLight.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ArrayIndices - преобразования типов  
-  
----  
-  
+    
 Тип [ModelObjectArrayIndices](T_TFlex_Model_ModelObject_ArrayIndices.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

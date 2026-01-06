@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3dTransformationFormApplyTransformation - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ApplyTransformation](M_TFlex_Command_Object3dTransformationForm_ApplyTransformation.md) |  |

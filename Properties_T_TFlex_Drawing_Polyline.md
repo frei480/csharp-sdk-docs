@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Polyline - свойства  
-  
----  
-  
+    
 Тип [Polyline](T_TFlex_Drawing_Polyline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

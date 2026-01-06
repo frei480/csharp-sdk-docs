@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Edge - свойства  
-  
----  
-  
+    
 Тип [Edge](T_TFlex_Model_Model3D_ConductorModel_Edge.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

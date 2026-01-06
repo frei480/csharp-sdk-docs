@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointForce - методы  
-  
----  
-  
+    
 Тип [PointForce](T_TFlex_Model_Model3D_PointForce.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

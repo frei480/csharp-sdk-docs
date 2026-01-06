@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentCreateRealVariable - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateRealVariable(String, Double)](M_TFlex_Model_Document_CreateRealVariable.md) | Создает новую вещественную переменную |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlCellEditEventArgs - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.DialogsBaseEventArgs](T_TFlex_Dialogs_BaseEventArgs.md) TFlex.DialogsListControlCellEditEventArgs
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometrySelectionFilter - класс  
-  
----  
-  
+    
 Фильтр, позволяющий выбирать или не выбирать геометрию объектов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelSelectionFilter](T_TFlex_Model_SelectionFilter.md) [TFlex.ModelCustomFilter](T_TFlex_Model_CustomFilter.md) TFlex.CommandGeometrySelectionFilter

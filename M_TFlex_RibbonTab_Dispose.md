@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonTabDispose - метод  
-  
----  
-  
+    
 Освобождает все ресурсы, используемые объектом [RibbonTab](T_TFlex_RibbonTab.md)
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

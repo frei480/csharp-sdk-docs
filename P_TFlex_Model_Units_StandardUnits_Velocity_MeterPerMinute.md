@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVelocityMeterPerMinute - свойство  
-  
----  
-  
+    
 Метр в минуту; м/мин; m/min; 
 
 Тип - Скорость

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ShellPierceFacesArray - класс  
-  
----  
-  
+    
 Коллекция удаляемых граней оболочки
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DShellPierceFacesArray

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GraphicsCircle - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Circle(Point, Double)](M_TFlex_Drawing_Graphics_Circle.md) | Прорисовка окружности |

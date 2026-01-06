@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialOperationSetMappingCoordSystem(Int32, LCS) - метод  
-  
----  
-  
+    
 Установить систему координат наложения текстуры для данной группы граней
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

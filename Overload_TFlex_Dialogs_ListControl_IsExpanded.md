@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlIsExpanded - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [IsExpanded(Int32)](M_TFlex_Dialogs_ListControl_IsExpanded.md) | Развернута ли строка. |

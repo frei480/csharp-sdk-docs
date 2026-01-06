@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVolumeLiter - свойство  
-  
----  
-  
+    
 Литр; л; L; 
 
 Тип - Объём

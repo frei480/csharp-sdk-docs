@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SceneNodeDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Visual_SceneNode_Dispose.md) | Освобождает все ресурсы, используемые объектом [SceneNode](T_TFlex_Model_Model3D_Visual_SceneNode.md) |

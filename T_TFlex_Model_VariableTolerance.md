@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableTolerance - класс  
-  
----  
-  
+    
 Допуск переменной
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelVariableTolerance

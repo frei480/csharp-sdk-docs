@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IEmbeddedRichTextChangesScope - методы  
-  
----  
-  
+    
 Тип [ProductStructureReportSupportIEmbeddedRichTextChangesScope](T_TFlex_Model_ProductStructureReportSupport_IEmbeddedRichTextChangesScope.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

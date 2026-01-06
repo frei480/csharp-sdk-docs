@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFromSTEP - методы  
-  
----  
-  
+    
 Тип [ImportFromSTEP](T_TFlex_Model_ImportFromSTEP.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

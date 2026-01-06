@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentExtractOptions - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [FragmentExtractOptions](T_TFlex_Model_Model2D_FragmentExtractOptions.md)
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

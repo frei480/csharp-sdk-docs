@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Plane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Plane(BasePlane)](M_TFlex_Model_Model3D_Geometry_Plane__ctor.md) | Конструктор, копирующий свойства другой плоскости |

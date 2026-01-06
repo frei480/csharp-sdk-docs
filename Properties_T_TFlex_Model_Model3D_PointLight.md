@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointLight - свойства  
-  
----  
-  
+    
 Тип [PointLight](T_TFlex_Model_Model3D_PointLight.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

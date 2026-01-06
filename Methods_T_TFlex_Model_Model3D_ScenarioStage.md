@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScenarioStage - методы  
-  
----  
-  
+    
 Тип [ScenarioStage](T_TFlex_Model_Model3D_ScenarioStage.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

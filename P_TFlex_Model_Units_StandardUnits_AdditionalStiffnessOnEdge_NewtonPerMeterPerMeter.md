@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAdditionalStiffnessOnEdgeNewtonPerMeterPerMeter - свойство  
-  
----  
-  
+    
 Ньютон на метр на метр; (Н/м)/м; (N/m)/m; 
 
 Тип - Дополнительная жёсткость на ребро

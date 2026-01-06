@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DirectedGuidePathParametric - свойства  
-  
----  
-  
+    
 Тип [DirectedGuidePathParametric](T_TFlex_Model_Model3D_DirectedGuidePathParametric.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

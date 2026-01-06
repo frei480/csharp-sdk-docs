@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatResistanceFahrenheitDegreeSecondPerBTU - свойство  
-  
----  
-  
+    
 Градус Фаренгейта секунда на БТЕ; °F·с/БТЕ; °F·s/Btuth; 
 
 Тип - Тепловое сопротивление

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Plugin - класс  
-  
----  
-  
+    
 Данный класс реализует функциональность приложения для T-FLEX CAD. Он обеспечивает свою регистрацию, регистрацию своих команд, создание панелей инструментов и формирование текстового меню.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexPlugin

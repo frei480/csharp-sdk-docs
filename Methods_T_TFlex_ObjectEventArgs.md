@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectEventArgs - методы  
-  
----  
-  
+    
 Тип [ObjectEventArgs](T_TFlex_ObjectEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToBMF - свойства  
-  
----  
-  
+    
 Тип [ExportToBMF](T_TFlex_Model_ExportToBMF.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

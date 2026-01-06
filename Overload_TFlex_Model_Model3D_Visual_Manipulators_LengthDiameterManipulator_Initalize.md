@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LengthDiameterManipulatorInitalize - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Initalize(Object3D, Double, Double)](M_TFlex_Model_Model3D_Visual_Manipulators_LengthDiameterManipulator_Initalize_1.md) |  |

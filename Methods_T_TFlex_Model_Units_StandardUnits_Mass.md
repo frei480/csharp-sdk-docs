@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Mass - методы  
-  
----  
-  
+    
 Тип [StandardUnitsMass](T_TFlex_Model_Units_StandardUnits_Mass.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

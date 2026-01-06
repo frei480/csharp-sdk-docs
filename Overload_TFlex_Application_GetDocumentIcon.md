@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationGetDocumentIcon - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetDocumentIcon(String)](M_TFlex_Application_GetDocumentIcon.md) | Возвращает иконку документа, если она есть |

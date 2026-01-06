@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyOperation2 - свойства  
-  
----  
-  
+    
 Тип [CopyOperation2](T_TFlex_Model_Model3D_CopyOperation2.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

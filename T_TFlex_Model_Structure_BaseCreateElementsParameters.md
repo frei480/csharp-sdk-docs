@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseCreateElementsParameters - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.StructureBaseCreateElementsParameters [TFlex.Model.StructureCreateElementsFromDocumentParameters](T_TFlex_Model_Structure_CreateElementsFromDocumentParameters.md) [TFlex.Model.StructureCreateElementsFromSerializedParameters](T_TFlex_Model_Structure_CreateElementsFromSerializedParameters.md) [TFlex.Model.StructureCreateElementsFromSourceParameters](T_TFlex_Model_Structure_CreateElementsFromSourceParameters.md) [TFlex.Model.StructureCreateElementsParameters](T_TFlex_Model_Structure_CreateElementsParameters.md)
 
 **Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorsionalStrengthKilogramForcePerCentimeter - свойство  
-  
----  
-  
+    
 Килограмм-сила на сантиметр; кГ/см; kgf/cm; 
 
 Тип - Прочность кручения

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToRGK - методы  
-  
----  
-  
+    
 Тип [ExportToRGK](T_TFlex_Model_ExportToRGK.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

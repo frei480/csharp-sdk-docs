@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextInsertParagraphs - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [InsertParagraphs(UInt32)](M_TFlex_Model_Model2D_RichText_InsertParagraphs.md) | Вставка нескольких абзацев с использованием для разделителя формата символов по умолчанию для разделителя |

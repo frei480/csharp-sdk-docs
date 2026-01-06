@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertyArray - класс  
-  
----  
-  
+    
 Класс свойств прокси объекта
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelPropertyArray

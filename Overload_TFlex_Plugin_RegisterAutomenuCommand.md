@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginRegisterAutomenuCommand - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RegisterAutomenuCommand(Int32, String)](M_TFlex_Plugin_RegisterAutomenuCommand.md) | **Устарело.** |

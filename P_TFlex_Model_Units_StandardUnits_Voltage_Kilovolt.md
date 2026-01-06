@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVoltageKilovolt - свойство  
-  
----  
-  
+    
 Киловольт; кВ; kV; 
 
 Тип - Напряжение

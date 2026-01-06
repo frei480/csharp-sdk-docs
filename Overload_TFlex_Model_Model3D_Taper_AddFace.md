@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TaperAddFace - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddFace(ModelEdge, ModelFace)](M_TFlex_Model_Model3D_Taper_AddFace.md) | Добавить пару опорное ребро - уклоняемая грань |

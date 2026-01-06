@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AutocompleteFillingEventArgsIncludeDefaultItems - свойство  
-  
----  
-  
+    
 Возвращает true, если значение нужно в результирующий список добавлять элементы по умолчанию
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

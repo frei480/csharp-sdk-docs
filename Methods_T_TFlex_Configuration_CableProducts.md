@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CableProducts - методы  
-  
----  
-  
+    
 Тип [CableProducts](T_TFlex_Configuration_CableProducts.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

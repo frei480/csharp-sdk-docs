@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Data3DCreateSphere - метод  
-  
----  
-**Пространство имён:** [TFlex.Model.Measure](N_TFlex_Model_Measure.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.Model.Measure](N_TFlex_Model_Measure.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
 
 ```csharp
 public static Data CreateSphere(

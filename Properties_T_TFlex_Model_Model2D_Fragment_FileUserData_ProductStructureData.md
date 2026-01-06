@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureData - свойства  
-  
----  
-  
+    
 Тип [FragmentFileUserDataProductStructureData](T_TFlex_Model_Model2D_Fragment_FileUserData_ProductStructureData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

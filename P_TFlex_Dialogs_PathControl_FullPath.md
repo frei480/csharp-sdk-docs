@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PathControlFullPath - свойство  
-  
----  
-  
+    
 Полный путь на файл. Путь введенный пользователем смотри в свойстве Text. Путь после подстановки переменных в ExplodedString
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

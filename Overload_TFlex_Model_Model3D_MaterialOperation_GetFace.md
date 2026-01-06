@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialOperationGetFace - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetFace(Int32)](M_TFlex_Model_Model3D_MaterialOperation_GetFace.md) | Получить грань по индексу |

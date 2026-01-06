@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WireFromCurvesGenerator - свойства  
-  
----  
-  
+    
 Тип [WireFromCurvesGenerator](T_TFlex_Model_Model3D_Geometry_WireFromCurvesGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

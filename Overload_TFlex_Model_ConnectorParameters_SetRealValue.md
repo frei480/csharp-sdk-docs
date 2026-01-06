@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConnectorParametersSetRealValue - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetRealValue(String, Double)](M_TFlex_Model_ConnectorParameters_SetRealValue.md) | Установить вещественное значение параметра |

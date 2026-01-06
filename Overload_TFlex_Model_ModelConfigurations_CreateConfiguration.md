@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelConfigurationsCreateConfiguration - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateConfiguration(String)](M_TFlex_Model_ModelConfigurations_CreateConfiguration.md) | Создание конфигурации с именем Name с текущим набором значений переменных |

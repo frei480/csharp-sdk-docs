@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPowerKilowatt - свойство  
-  
----  
-  
+    
 Киловатт; кВт; kW; 
 
 Тип - Мощность

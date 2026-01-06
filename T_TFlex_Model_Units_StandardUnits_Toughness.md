@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsToughness - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Ударная вязкость
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsToughness

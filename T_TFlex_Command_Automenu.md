@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Automenu - класс  
-  
----  
-  
+    
 Класс автоменю
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.CommandAutomenu

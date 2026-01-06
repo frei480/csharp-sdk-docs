@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Data3D - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.MeasureData3D
 
 **Пространство имён:** [TFlex.Model.Measure](N_TFlex_Model_Measure.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

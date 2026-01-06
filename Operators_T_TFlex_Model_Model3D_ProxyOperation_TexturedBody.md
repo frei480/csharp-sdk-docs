@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TexturedBody - преобразования типов  
-  
----  
-  
+    
 Тип [ProxyOperationTexturedBody](T_TFlex_Model_Model3D_ProxyOperation_TexturedBody.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DoubleEventArgs - класс  
-  
----  
-  
+    
 Базовый класс для событий с одним параметром типа double
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.DialogsBaseEventArgs](T_TFlex_Dialogs_BaseEventArgs.md) TFlex.DialogsDoubleEventArgs [TFlex.DialogsSliderControlValueChangedEventArgs](T_TFlex_Dialogs_SliderControlValueChangedEventArgs.md)

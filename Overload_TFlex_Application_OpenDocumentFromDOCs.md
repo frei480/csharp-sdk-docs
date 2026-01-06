@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationOpenDocumentFromDOCs - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [OpenDocumentFromDOCs(Guid, OpenDocumentOptions)](M_TFlex_Application_OpenDocumentFromDOCs.md) |  |

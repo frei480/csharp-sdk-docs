@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PSSerializationUtils - методы  
-  
----  
-  
+    
 Тип [PSSerializationUtils](T_TFlex_Model_Data_ProductStructure_PSSerializationUtils.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureReportOptions - свойства  
-  
----  
-  
+    
 Тип [ProductStructureReportOptions](T_TFlex_Model_ProductStructureReportOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

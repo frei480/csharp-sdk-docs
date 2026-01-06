@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DPointSplineToPoint - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DPipePath3DBasePoint](T_TFlex_Model_Model3D_PipePath3D_BasePoint.md) [TFlex.Model.Model3DPipePath3DBasePointInOffset](T_TFlex_Model_Model3D_PipePath3D_BasePointInOffset.md) [TFlex.Model.Model3DPipePath3DBasePoint3D](T_TFlex_Model_Model3D_PipePath3D_BasePoint3D.md) TFlex.Model.Model3DPipePath3DPointSplineToPoint
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

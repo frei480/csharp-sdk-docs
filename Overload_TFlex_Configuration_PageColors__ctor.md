@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PageColors - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [PageColors](M_TFlex_Configuration_PageColors__ctor.md) | Инициализирует новый экземпляр класса [PageColors](T_TFlex_Configuration_PageColors.md) |

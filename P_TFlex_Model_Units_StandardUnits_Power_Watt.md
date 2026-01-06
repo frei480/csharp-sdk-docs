@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPowerWatt - свойство  
-  
----  
-  
+    
 Ватт; Вт; W; 
 
 Тип - Мощность

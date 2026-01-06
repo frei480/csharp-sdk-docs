@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginViewDeactivatedEventHandler - метод  
-  
----  
-  
+    
 Обработчик события, возникающего после деактивизации окна документа
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

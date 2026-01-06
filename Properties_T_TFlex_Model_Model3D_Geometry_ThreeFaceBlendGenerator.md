@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreeFaceBlendGenerator - свойства  
-  
----  
-  
+    
 Тип [ThreeFaceBlendGenerator](T_TFlex_Model_Model3D_Geometry_ThreeFaceBlendGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

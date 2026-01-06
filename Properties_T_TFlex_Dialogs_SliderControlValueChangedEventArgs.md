@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SliderControlValueChangedEventArgs - свойства  
-  
----  
-  
+    
 Тип [SliderControlValueChangedEventArgs](T_TFlex_Dialogs_SliderControlValueChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

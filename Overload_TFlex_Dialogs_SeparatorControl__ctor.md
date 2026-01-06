@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SeparatorControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SeparatorControl](M_TFlex_Dialogs_SeparatorControl__ctor.md) | Инициализирует новый экземпляр класса [SeparatorControl](T_TFlex_Dialogs_SeparatorControl.md) |

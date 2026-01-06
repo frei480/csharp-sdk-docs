@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PositionData - методы  
-  
----  
-  
+    
 Тип [FaceBlendingPositionData](T_TFlex_Model_Model3D_FaceBlending_PositionData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

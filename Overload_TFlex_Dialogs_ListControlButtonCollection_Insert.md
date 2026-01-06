@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlButtonCollectionInsert - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Insert(Int32, T)](M_TFlex_Dialogs_Collection_1_Insert.md) | Вставить элемент в коллекцию |

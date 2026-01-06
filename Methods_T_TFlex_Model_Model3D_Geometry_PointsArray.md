@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointsArray - методы  
-  
----  
-  
+    
 Тип [PointsArray](T_TFlex_Model_Model3D_Geometry_PointsArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

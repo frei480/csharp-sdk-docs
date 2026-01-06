@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ChainsAndSignals - методы  
-  
----  
-  
+    
 Тип [ChainsAndSignals](T_TFlex_Configuration_ChainsAndSignals.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

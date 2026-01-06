@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FontOptions - свойства  
-  
----  
-  
+    
 Тип [FontOptions](T_TFlex_Model_Model2D_FontOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FileDroppedEventArgs - свойства  
-  
----  
-  
+    
 Тип [FileDroppedEventArgs](T_TFlex_FileDroppedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

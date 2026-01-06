@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationPolyline - свойства  
-  
----  
-  
+    
 Тип [DecorationPolyline](T_TFlex_Model_Model3D_Visual_DecorationPolyline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToBitmap3D - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ExportToBitmap3D(Control)](M_TFlex_Model_ExportToBitmap3D__ctor.md) | Конструктор |

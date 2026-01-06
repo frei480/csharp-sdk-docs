@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometryDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Visual_Manipulators_Geometry_Dispose.md) | Освобождает все ресурсы, используемые объектом [Geometry](T_TFlex_Model_Model3D_Visual_Manipulators_Geometry.md) |

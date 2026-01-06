@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WrapPanelControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [WrapPanelControl](M_TFlex_Dialogs_WrapPanelControl__ctor.md) | Инициализирует новый экземпляр класса [WrapPanelControl](T_TFlex_Dialogs_WrapPanelControl.md) |

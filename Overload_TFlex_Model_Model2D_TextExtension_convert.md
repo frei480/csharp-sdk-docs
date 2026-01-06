@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TextExtensionconvert - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [convert(TextExtensionHorizontalAlignment)](M_TFlex_Model_Model2D_TextExtension_convert.md) |  |

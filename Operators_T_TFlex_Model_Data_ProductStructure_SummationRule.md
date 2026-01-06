@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SummationRule - операторы  
-  
----  
-  
+    
 Тип [SummationRule](T_TFlex_Model_Data_ProductStructure_SummationRule.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Application - свойства  
-  
----  
-  
+    
 Тип [Application](T_TFlex_Application.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

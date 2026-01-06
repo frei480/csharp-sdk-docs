@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableParametric - класс  
-  
----  
-  
+    
 Класс определения свойств параметрических объектов, в котором положение копий задаётся набором явных функциональных зависимостей от номера копии
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DParametric](T_TFlex_Model_Model3D_Parametric.md) TFlex.Model.Model3DVariableParametric

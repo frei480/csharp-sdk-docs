@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseVertices - класс  
-  
----  
-  
+    
 Множество вершин
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryBaseVertices [TFlex.Model.Model3D.GeometryModelVertices](T_TFlex_Model_Model3D_Geometry_ModelVertices.md) [TFlex.Model.Model3D.GeometryVertices](T_TFlex_Model_Model3D_Geometry_Vertices.md)

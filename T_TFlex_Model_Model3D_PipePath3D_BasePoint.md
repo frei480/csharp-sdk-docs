@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DBasePoint - класс  
-  
----  
-  
+    
 Базовый класс точки пути
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DPipePath3DBasePoint [TFlex.Model.Model3DPipePath3DBasePointInOffset](T_TFlex_Model_Model3D_PipePath3D_BasePointInOffset.md) [TFlex.Model.Model3DPipePath3DPointOnPath](T_TFlex_Model_Model3D_PipePath3D_PointOnPath.md)

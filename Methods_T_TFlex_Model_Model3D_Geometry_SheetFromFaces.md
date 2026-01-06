@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SheetFromFaces - методы  
-  
----  
-  
+    
 Тип [SheetFromFaces](T_TFlex_Model_Model3D_Geometry_SheetFromFaces.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

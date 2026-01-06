@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToGltf - свойства  
-  
----  
-  
+    
 Тип [ExportToGltf](T_TFlex_Model_ExportToGltf.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectReferenceAllowDelete - свойство  
-  
----  
-  
+    
 Не удалять объект при удалении родителя (удалять только ссылку)
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

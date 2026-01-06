@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Options3D - методы  
-  
----  
-  
+    
 Тип [Options3D](T_TFlex_Configuration_Options3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

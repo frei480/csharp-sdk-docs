@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CursorEventArgs - методы  
-  
----  
-  
+    
 Тип [CursorEventArgs](T_TFlex_Command_CursorEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

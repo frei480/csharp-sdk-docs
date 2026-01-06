@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelAttributes - методы  
-  
----  
-  
+    
 Тип [ModelAttributes](T_TFlex_Model_ModelAttributes.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

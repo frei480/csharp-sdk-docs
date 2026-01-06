@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControlCheckStateChangedEventArgs - класс  
-  
----  
-  
+    
 Событие об изменении значения чек бокса у элемента SimpleListControl
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.DialogsBaseEventArgs](T_TFlex_Dialogs_BaseEventArgs.md) TFlex.DialogsSimpleListControlCheckStateChangedEventArgs

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TermGroup - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [TermGroup](M_TFlex_Model_Data_Filters_TermGroup__ctor.md) | Создает новую группу условий |

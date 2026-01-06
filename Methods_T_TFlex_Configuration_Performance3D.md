@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Performance3D - методы  
-  
----  
-  
+    
 Тип [Performance3D](T_TFlex_Configuration_Performance3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

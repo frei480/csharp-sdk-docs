@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObject - методы  
-  
----  
-  
+    
 Тип [ModelObject](T_TFlex_Model_ModelObject.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

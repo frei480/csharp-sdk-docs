@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFromKompas - класс  
-  
----  
-  
+    
 Класс, импортирующий документы формата Компас
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelImportFromKompas

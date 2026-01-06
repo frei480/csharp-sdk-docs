@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointOnContour - методы  
-  
----  
-  
+    
 Тип [LoftOperationPointOnContour](T_TFlex_Model_Model3D_LoftOperation_PointOnContour.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CreateElementsResult - свойства  
-  
----  
-  
+    
 Тип [CreateElementsResult](T_TFlex_Model_Structure_CreateElementsResult.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

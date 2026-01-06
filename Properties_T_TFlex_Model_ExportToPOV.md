@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToPOV - свойства  
-  
----  
-  
+    
 Тип [ExportToPOV](T_TFlex_Model_ExportToPOV.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

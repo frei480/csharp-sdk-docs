@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TextRectangle - методы  
-  
----  
-  
+    
 Тип [ParagraphTextTextRectangle](T_TFlex_Model_Model2D_ParagraphText_TextRectangle.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CurrentIntensity - методы  
-  
----  
-  
+    
 Тип [StandardUnitsCurrentIntensity](T_TFlex_Model_Units_StandardUnits_CurrentIntensity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

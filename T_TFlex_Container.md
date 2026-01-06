@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Container - класс  
-  
----  
-  
+    
 Класс для внутреннего использования
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemMarshalByRefObject](https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject) TFlexContainer

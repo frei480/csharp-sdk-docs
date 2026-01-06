@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsEnergyKilojoule - свойство  
-  
----  
-  
+    
 Килоджоуль; кДж; kJ; 
 
 Тип - Энергия

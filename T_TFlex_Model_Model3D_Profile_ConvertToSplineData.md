@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProfileConvertToSplineData - класс  
-  
----  
-  
+    
 Параметры для преобразования составных контуров профиля в сплайны
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DProfileConvertToSplineData

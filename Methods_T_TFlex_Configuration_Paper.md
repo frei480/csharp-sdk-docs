@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Paper - методы  
-  
----  
-  
+    
 Тип [Paper](T_TFlex_Configuration_Paper.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

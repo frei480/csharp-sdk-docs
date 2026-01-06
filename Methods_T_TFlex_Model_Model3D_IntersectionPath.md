@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntersectionPath - методы  
-  
----  
-  
+    
 Тип [IntersectionPath](T_TFlex_Model_Model3D_IntersectionPath.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

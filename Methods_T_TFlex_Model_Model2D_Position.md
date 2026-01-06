@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Position - методы  
-  
----  
-  
+    
 Тип [Position](T_TFlex_Model_Model2D_Position.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

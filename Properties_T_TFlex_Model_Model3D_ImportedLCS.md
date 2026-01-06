@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportedLCS - свойства  
-  
----  
-  
+    
 Тип [ImportedLCS](T_TFlex_Model_Model3D_ImportedLCS.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

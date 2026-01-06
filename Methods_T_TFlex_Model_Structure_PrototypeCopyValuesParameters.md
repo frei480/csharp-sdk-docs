@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PrototypeCopyValuesParameters - методы  
-  
----  
-  
+    
 Тип [PrototypeCopyValuesParameters](T_TFlex_Model_Structure_PrototypeCopyValuesParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

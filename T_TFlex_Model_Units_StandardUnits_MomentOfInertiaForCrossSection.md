@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMomentOfInertiaForCrossSection - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Момент инерции сечения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsMomentOfInertiaForCrossSection

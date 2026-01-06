@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LeaderNote - методы  
-  
----  
-  
+    
 Тип [LeaderNote](T_TFlex_Model_Model2D_LeaderNote.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

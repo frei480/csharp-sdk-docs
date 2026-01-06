@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectionFilterButton - свойства  
-  
----  
-  
+    
 Тип [SelectionFilterButton](T_TFlex_Command_SelectionFilterButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

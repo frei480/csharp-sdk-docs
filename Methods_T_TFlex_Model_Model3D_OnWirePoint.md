@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OnWirePoint - методы  
-  
----  
-  
+    
 Тип [OnWirePoint](T_TFlex_Model_Model3D_OnWirePoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

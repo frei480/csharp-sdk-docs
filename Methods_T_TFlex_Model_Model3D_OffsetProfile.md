@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OffsetProfile - методы  
-  
----  
-  
+    
 Тип [OffsetProfile](T_TFlex_Model_Model3D_OffsetProfile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

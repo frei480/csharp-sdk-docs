@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorqueKilonewtonMeter - свойство  
-  
----  
-  
+    
 Килоньютон метр; кН·м; kN·m; 
 
 Тип - Момент силы

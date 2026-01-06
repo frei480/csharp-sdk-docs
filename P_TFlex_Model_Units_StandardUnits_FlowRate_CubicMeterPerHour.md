@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsFlowRateCubicMeterPerHour - свойство  
-  
----  
-  
+    
 Кубический метр в час; м³/ч; m³/h; 
 
 Тип - Расход

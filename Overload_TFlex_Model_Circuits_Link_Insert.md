@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkInsert - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Insert(FixingVector)](M_TFlex_Model_Circuits_Link_Insert.md) | вставка point1 в линию связи |

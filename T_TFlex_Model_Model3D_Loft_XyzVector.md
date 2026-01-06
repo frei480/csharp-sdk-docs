@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftXyzVector - класс  
-  
----  
-  
+    
 Класс для задания векторного условия с помощью абсолютных или относительных координат X, Y, Z
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DLoftVectorDirection](T_TFlex_Model_Model3D_Loft_VectorDirection.md) TFlex.Model.Model3DLoftXyzVector

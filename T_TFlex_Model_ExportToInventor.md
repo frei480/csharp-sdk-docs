@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToInventor - класс  
-  
----  
-  
+    
 Класс экспорта в файл форматa Open Inventor
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelExportTo](T_TFlex_Model_ExportTo.md) [TFlex.ModelExportToFacet](T_TFlex_Model_ExportToFacet.md) TFlex.ModelExportToInventor

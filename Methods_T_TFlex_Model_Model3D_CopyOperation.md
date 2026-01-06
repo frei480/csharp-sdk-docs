@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyOperation - методы  
-  
----  
-  
+    
 Тип [CopyOperation](T_TFlex_Model_Model3D_CopyOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

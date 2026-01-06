@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FilePreview - свойства  
-  
----  
-  
+    
 Тип [FilePreview](T_TFlex_FilePreview.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

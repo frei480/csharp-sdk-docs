@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CutOperation - свойства  
-  
----  
-  
+    
 Тип [CutOperation](T_TFlex_Model_Model3D_CutOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

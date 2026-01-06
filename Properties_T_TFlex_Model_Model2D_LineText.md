@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LineText - свойства  
-  
----  
-  
+    
 Тип [LineText](T_TFlex_Model_Model2D_LineText.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

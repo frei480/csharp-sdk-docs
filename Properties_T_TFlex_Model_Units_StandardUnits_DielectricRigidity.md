@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DielectricRigidity - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsDielectricRigidity](T_TFlex_Model_Units_StandardUnits_DielectricRigidity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

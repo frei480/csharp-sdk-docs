@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SegmentBound - методы  
-  
----  
-  
+    
 Тип [SegmentBound](T_TFlex_Model_Model3D_ConductorModel_SegmentBound.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

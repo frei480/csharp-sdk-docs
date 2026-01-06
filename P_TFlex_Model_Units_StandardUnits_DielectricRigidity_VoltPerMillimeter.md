@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDielectricRigidityVoltPerMillimeter - свойство  
-  
----  
-  
+    
 Вольт на миллиметр; В/мм; V/mm; 
 
 Тип - Прочность диэлектрическая

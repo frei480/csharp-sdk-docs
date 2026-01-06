@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDielectricRigidityKilovoltPerCentimeter - свойство  
-  
----  
-  
+    
 Киловольт на сантиметр; кВ/см; kV/cm; 
 
 Тип - Прочность диэлектрическая

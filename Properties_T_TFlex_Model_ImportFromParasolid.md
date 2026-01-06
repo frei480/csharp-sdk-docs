@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFromParasolid - свойства  
-  
----  
-  
+    
 Тип [ImportFromParasolid](T_TFlex_Model_ImportFromParasolid.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

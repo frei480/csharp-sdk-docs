@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SheetsArray - методы  
-  
----  
-  
+    
 Тип [SheetsArray](T_TFlex_Model_Model3D_Geometry_SheetsArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

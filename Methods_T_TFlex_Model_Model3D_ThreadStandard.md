@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreadStandard - методы  
-  
----  
-  
+    
 Тип [ThreadStandard](T_TFlex_Model_Model3D_ThreadStandard.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

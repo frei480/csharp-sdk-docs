@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EllipseArcGeometry - методы  
-  
----  
-  
+    
 Тип [EllipseArcGeometry](T_TFlex_Model_Model2D_EllipseArcGeometry.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

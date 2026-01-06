@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Annotations - методы  
-  
----  
-  
+    
 Тип [Annotations](T_TFlex_Configuration_Annotations.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AggregateMultilineTextExtension - методы  
-  
----  
-  
+    
 Тип [AggregateMultilineTextExtension](T_TFlex_Model_Model2D_AggregateMultilineTextExtension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

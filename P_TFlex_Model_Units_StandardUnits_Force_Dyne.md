@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsForceDyne - свойство  
-  
----  
-  
+    
 Дина; дин; dyn; 
 
 Тип - Сила

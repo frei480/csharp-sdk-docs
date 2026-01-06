@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SegmentPolyline - свойства  
-  
----  
-  
+    
 Тип [PipePath3DSegmentPolyline](T_TFlex_Model_Model3D_PipePath3D_SegmentPolyline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

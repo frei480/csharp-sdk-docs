@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertiesWindowWpfFormElement - свойство  
-  
----  
-  
+    
 Элемент управления, который отображается на вкладке служебного окна свойств
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

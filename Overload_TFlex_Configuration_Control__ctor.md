@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Control - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Control](M_TFlex_Configuration_Control__ctor.md) | Инициализирует новый экземпляр класса [Control](T_TFlex_Configuration_Control.md) |

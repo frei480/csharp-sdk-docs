@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Zones - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Zones](M_TFlex_Configuration_Zones__ctor.md) | Инициализирует новый экземпляр класса [Zones](T_TFlex_Configuration_Zones.md) |

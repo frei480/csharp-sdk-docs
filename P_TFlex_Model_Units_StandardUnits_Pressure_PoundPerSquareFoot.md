@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressurePoundPerSquareFoot - свойство  
-  
----  
-  
+    
 Фунт-сила на квадратный фут; фунт-сила/фут²; psf; 
 
 Тип - Давление

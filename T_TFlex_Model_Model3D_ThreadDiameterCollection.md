@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreadDiameterCollection - класс  
-  
----  
-  
+    
 Коллекция диаметров резьбы
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DThreadDiameterCollection

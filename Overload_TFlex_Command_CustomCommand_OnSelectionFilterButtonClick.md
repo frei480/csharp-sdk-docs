@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomCommandOnSelectionFilterButtonClick - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [OnSelectionFilterButtonClick(Int32)](M_TFlex_Command_CustomCommand_OnSelectionFilterButtonClick.md) |  |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectKnotList - класс  
-  
----  
-  
+    
 Список узлов объекта
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model2DObjectKnotList

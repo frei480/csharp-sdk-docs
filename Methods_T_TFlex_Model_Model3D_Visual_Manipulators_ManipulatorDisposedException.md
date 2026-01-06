@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ManipulatorDisposedException - методы  
-  
----  
-  
+    
 Тип [ManipulatorDisposedException](T_TFlex_Model_Model3D_Visual_Manipulators_ManipulatorDisposedException.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

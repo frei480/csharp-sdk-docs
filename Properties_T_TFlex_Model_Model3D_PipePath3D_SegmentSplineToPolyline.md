@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SegmentSplineToPolyline - свойства  
-  
----  
-  
+    
 Тип [PipePath3DSegmentSplineToPolyline](T_TFlex_Model_Model3D_PipePath3D_SegmentSplineToPolyline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

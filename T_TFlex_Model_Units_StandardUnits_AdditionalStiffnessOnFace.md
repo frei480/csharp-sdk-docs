@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAdditionalStiffnessOnFace - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Дополнительная жёсткость на грань
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsAdditionalStiffnessOnFace

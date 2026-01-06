@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkBaseHasDesignation - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [HasDesignation(DesignationType)](M_TFlex_Model_Circuits_LinkBase_HasDesignation.md) | Обозначения |

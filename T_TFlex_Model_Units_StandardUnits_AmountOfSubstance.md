@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAmountOfSubstance - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Количество вещества
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsAmountOfSubstance

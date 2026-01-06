@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IParameterDataGenerator - методы  
-  
----  
-  
+    
 Тип [IParameterDataGenerator](T_TFlex_Model_Data_ProductStructure_IParameterDataGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

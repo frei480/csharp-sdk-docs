@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SizeDoubleStep - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SizeDoubleStep](M_TFlex_Configuration_SizeDoubleStep__ctor.md) | Инициализирует новый экземпляр класса [SizeDoubleStep](T_TFlex_Configuration_SizeDoubleStep.md) |

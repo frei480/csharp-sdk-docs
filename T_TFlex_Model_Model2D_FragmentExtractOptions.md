@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentExtractOptions - класс  
-  
----  
-  
+    
 Параметры выделения фрагмента
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model2DFragmentExtractOptions

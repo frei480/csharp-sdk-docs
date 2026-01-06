@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PickPointEventArgs - методы  
-  
----  
-  
+    
 Тип [PickPointEventArgs](T_TFlex_PickPointEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

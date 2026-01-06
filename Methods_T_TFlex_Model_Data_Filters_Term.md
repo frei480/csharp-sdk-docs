@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Term - методы  
-  
----  
-  
+    
 Тип [Term](T_TFlex_Model_Data_Filters_Term.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ColumnSettings - методы  
-  
----  
-  
+    
 Тип [BOMObjectColumnSettings](T_TFlex_Model_Model2D_BOMObject_ColumnSettings.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

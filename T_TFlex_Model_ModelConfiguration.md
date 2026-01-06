@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelConfiguration - класс  
-  
----  
-  
+    
 Конфигурация модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelModelConfiguration

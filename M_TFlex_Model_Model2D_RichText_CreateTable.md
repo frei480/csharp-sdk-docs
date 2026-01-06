@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextCreateTable(UInt32, TableCreationSettings) - метод  
-  
----  
-  
+    
 Создание таблицы перед символом, заданным порядковым номером относительно начала текста
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

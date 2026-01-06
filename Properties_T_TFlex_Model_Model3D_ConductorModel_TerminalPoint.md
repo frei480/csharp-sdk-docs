@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TerminalPoint - свойства  
-  
----  
-  
+    
 Тип [TerminalPoint](T_TFlex_Model_Model3D_ConductorModel_TerminalPoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

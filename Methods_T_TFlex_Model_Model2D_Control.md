@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Control - методы  
-  
----  
-  
+    
 Тип [Control](T_TFlex_Model_Model2D_Control.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsEnergyDensity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Плотность энергии
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsEnergyDensity

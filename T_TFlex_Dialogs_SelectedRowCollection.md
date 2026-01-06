@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectedRowCollection - класс  
-  
----  
-  
+    
 Сортированная коллекция индексов выбранных элементов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsSortedCollection](T_TFlex_Dialogs_SortedCollection_1.md)[Int32](https://learn.microsoft.com/dotnet/api/system.int32) TFlex.DialogsSelectedRowCollection

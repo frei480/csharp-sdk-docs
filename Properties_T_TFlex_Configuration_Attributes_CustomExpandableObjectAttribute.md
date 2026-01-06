@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomExpandableObjectAttribute - свойства  
-  
----  
-  
+    
 Тип [CustomExpandableObjectAttribute](T_TFlex_Configuration_Attributes_CustomExpandableObjectAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

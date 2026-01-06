@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WorkplaneNode3DProjection - класс  
-  
----  
-  
+    
 Проекция
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DWorkplaneNode3DProjection

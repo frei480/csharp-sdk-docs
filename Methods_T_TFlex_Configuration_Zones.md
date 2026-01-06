@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Zones - методы  
-  
----  
-  
+    
 Тип [Zones](T_TFlex_Configuration_Zones.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

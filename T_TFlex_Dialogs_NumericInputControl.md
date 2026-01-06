@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NumericInputControl - класс  
-  
----  
-  
+    
 Контрол ввода числового значения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) [TFlex.DialogsBaseControl](T_TFlex_Dialogs_BaseControl.md) [TFlex.DialogsInputControlBase](T_TFlex_Dialogs_InputControlBase.md) TFlex.DialogsNumericInputControl [TFlex.DialogsColorSelectControl](T_TFlex_Dialogs_ColorSelectControl.md)

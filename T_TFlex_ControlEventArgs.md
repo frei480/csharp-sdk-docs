@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlEventArgs - класс  
-  
----  
-  
+    
 Класс, содержащий данные о событии, возникшем в визуальном элементе управления
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexControlEventArgs [TFlexControlPaintEventArgs](T_TFlex_ControlPaintEventArgs.md)

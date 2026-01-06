@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Dimension - свойства  
-  
----  
-  
+    
 Тип [Dimension](T_TFlex_Configuration_Dimension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

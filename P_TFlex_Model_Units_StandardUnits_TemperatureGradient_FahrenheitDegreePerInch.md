@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTemperatureGradientFahrenheitDegreePerInch - свойство  
-  
----  
-  
+    
 Градус Фаренгейта на дюйм; °F/дюйм; °F/in; 
 
 Тип - Градиент температур

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SizeInt - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SizeInt](M_TFlex_Configuration_SizeInt__ctor.md) | Инициализирует новый экземпляр класса [SizeInt](T_TFlex_Configuration_SizeInt.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircleContourSegment - класс  
-  
----  
-  
+    
 Сегмент контура штриховки, являющийся окружностью.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model2DContourSegment](T_TFlex_Model_Model2D_ContourSegment.md) TFlex.Model.Model2DCircleContourSegment

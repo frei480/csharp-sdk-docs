@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariablesControl - свойства  
-  
----  
-  
+    
 Тип [VariablesControl](T_TFlex_VariablesControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

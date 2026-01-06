@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTimeSecond - свойство  
-  
----  
-  
+    
 Секунда; с; s; 
 
 Тип - Время

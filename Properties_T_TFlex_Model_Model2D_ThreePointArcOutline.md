@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreePointArcOutline - свойства  
-  
----  
-  
+    
 Тип [ThreePointArcOutline](T_TFlex_Model_Model2D_ThreePointArcOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

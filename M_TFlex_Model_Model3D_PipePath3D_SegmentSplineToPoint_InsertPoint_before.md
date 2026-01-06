@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DSegmentSplineToPointInsertPoint_before - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Вставить новую точку перед точки pPoint

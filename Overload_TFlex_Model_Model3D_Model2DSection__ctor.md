@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Model2DSection - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Model2DSection(Document)](M_TFlex_Model_Model3D_Model2DSection__ctor.md) | Конструктор для создания нового сечения |

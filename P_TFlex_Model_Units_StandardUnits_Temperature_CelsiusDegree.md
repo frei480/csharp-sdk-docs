@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTemperatureCelsiusDegree - свойство  
-  
----  
-  
+    
 Градус Цельсия; °C; °C; 
 
 Тип - Температура

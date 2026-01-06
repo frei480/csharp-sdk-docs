@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMassGram - свойство  
-  
----  
-  
+    
 Грамм; г; g; 
 
 Тип - Масса

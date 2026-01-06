@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SizeDoubleStep - свойства  
-  
----  
-  
+    
 Тип [SizeDoubleStep](T_TFlex_Configuration_SizeDoubleStep.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

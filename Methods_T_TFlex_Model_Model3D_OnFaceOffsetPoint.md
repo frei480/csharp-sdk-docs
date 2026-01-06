@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OnFaceOffsetPoint - методы  
-  
----  
-  
+    
 Тип [OnFaceOffsetPoint](T_TFlex_Model_Model3D_OnFaceOffsetPoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

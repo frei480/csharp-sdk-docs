@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Dependence - методы  
-  
----  
-  
+    
 Тип [TableFunctionDependence](T_TFlex_Model_Model3D_TableFunction_Dependence.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

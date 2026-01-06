@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Section3D - класс  
-  
----  
-  
+    
 Базовый класс для всех типов сечений
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DConstruction3D](T_TFlex_Model_Model3D_Construction3D.md) TFlex.Model.Model3DSection3D [TFlex.Model.Model3DModel2DSection](T_TFlex_Model_Model3D_Model2DSection.md) [TFlex.Model.Model3DPlaneSection](T_TFlex_Model_Model3D_PlaneSection.md) [TFlex.Model.Model3DViewSection](T_TFlex_Model_Model3D_ViewSection.md)

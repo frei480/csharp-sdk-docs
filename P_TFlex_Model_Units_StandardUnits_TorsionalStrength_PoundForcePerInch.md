@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorsionalStrengthPoundForcePerInch - свойство  
-  
----  
-  
+    
 Фунт-сила на дюйм; фунт-сила/дюйм; lbf/in; 
 
 Тип - Прочность кручения

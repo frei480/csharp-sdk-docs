@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FacetMeshDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Geometry_FacetMesh_Dispose.md) | Освобождает все ресурсы, используемые объектом [FacetMesh](T_TFlex_Model_Model3D_Geometry_FacetMesh.md) |

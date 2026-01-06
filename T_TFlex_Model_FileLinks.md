@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FileLinks - класс  
-  
----  
-  
+    
 Перечислитель ссылок на файлы
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelFileLinks

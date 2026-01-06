@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LockedChangedEventArgs - свойства  
-  
----  
-  
+    
 Тип [LockedChangedEventArgs](T_TFlex_Dialogs_LockedChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

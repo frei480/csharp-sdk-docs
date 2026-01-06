@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Harness3D - класс  
-  
----  
-  
+    
 Класс 3D жгутов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DConstruction3D](T_TFlex_Model_Model3D_Construction3D.md) [TFlex.Model.Model3DBaseHarness3D](T_TFlex_Model_Model3D_BaseHarness3D.md) TFlex.Model.Model3DHarness3D

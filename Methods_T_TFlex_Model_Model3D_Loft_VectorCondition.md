@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VectorCondition - методы  
-  
----  
-  
+    
 Тип [LoftVectorCondition](T_TFlex_Model_Model3D_Loft_VectorCondition.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

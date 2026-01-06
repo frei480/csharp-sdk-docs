@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Velocity - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsVelocity](T_TFlex_Model_Units_StandardUnits_Velocity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

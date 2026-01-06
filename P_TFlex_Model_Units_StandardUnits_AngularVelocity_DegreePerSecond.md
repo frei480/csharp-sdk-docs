@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngularVelocityDegreePerSecond - свойство  
-  
----  
-  
+    
 Градус в секунду; °/с; deg/s; 
 
 Тип - Угловая скорость

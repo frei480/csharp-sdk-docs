@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfaceSplinewiseData - класс  
-  
----  
-  
+    
 Класс для задания и определения свойств интерполяционной сплайновой поверхности по набору точек, через которые проходит сплайновая поверхность, по параметрам поверхности в этих точках и условиям на концах
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySurfaceSplinewiseData

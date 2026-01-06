@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftNormalFirstToLastEndProfileCondition - класс  
-  
----  
-  
+    
 Класс для задания граничного условия по нормали (от первого к последнему профилю) для первого или последнего профиля
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DLoftEndProfileCondition](T_TFlex_Model_Model3D_Loft_EndProfileCondition.md) TFlex.Model.Model3DLoftNormalFirstToLastEndProfileCondition

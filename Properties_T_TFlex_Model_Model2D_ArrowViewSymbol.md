@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ArrowViewSymbol - свойства  
-  
----  
-  
+    
 Тип [ArrowViewSymbol](T_TFlex_Model_Model2D_ArrowViewSymbol.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogFatal - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Fatal(String)](M_TFlex_Log_Fatal.md) |  |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ValueListItem - методы  
-  
----  
-  
+    
 Тип [ValueListItem](T_TFlex_Dialogs_ValueListItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

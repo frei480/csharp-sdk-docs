@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportWithApplication - класс  
-  
----  
-  
+    
 Класс экспорта с помощью приложения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelExportTo](T_TFlex_Model_ExportTo.md) TFlex.ModelExportWithApplication [TFlex.ModelExportToRGK](T_TFlex_Model_ExportToRGK.md) [TFlex.ModelExportToRGP](T_TFlex_Model_ExportToRGP.md)

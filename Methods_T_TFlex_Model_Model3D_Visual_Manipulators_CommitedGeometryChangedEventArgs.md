@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommitedGeometryChangedEventArgs - методы  
-  
----  
-  
+    
 Тип [CommitedGeometryChangedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_CommitedGeometryChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

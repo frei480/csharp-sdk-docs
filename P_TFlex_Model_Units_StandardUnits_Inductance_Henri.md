@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsInductanceHenri - свойство  
-  
----  
-  
+    
 Генри; Гн; H; 
 
 Тип - Индуктивность

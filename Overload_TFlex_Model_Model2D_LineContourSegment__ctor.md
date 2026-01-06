@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LineContourSegment - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [LineContourSegment(Contour)](M_TFlex_Model_Model2D_LineContourSegment__ctor.md) | Конструктор, добавляющий сегмент в конец контура |

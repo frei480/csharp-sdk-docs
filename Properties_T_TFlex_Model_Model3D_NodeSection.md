@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NodeSection - свойства  
-  
----  
-  
+    
 Тип [NodeSection](T_TFlex_Model_Model3D_NodeSection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

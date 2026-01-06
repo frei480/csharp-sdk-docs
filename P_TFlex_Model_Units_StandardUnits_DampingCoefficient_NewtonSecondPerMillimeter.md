@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDampingCoefficientNewtonSecondPerMillimeter - свойство  
-  
----  
-  
+    
 Ньютон-секунда на миллиметр; Н·с/мм; N·s/mm; 
 
 Тип - Коэффициент демпфирования

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseUVBoxDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Geometry_BaseUVBox_Dispose.md) | Освобождает все ресурсы, используемые объектом [BaseUVBox](T_TFlex_Model_Model3D_Geometry_BaseUVBox.md) |

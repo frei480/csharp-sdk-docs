@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReferenceConductorSet - методы  
-  
----  
-  
+    
 Тип [ReferenceConductorSet](T_TFlex_Model_Model3D_ReferenceConductorSet.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensityPoundPerYard - свойство  
-  
----  
-  
+    
 Фунт на ярд; фунт/ярд; lb/yd; 
 
 Тип - Линейная плотность

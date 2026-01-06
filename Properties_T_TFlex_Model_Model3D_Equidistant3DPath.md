@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Equidistant3DPath - свойства  
-  
----  
-  
+    
 Тип [Equidistant3DPath](T_TFlex_Model_Model3D_Equidistant3DPath.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

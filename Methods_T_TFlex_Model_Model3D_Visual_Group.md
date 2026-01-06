@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Group - методы  
-  
----  
-  
+    
 Тип [Group](T_TFlex_Model_Model3D_Visual_Group.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

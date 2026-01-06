@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UserCamera - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [UserCamera](M_TFlex_Configuration_UserCamera__ctor.md) | Инициализирует новый экземпляр класса [UserCamera](T_TFlex_Configuration_UserCamera.md) |

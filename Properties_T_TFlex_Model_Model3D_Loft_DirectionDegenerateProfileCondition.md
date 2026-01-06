@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DirectionDegenerateProfileCondition - свойства  
-  
----  
-  
+    
 Тип [LoftDirectionDegenerateProfileCondition](T_TFlex_Model_Model3D_Loft_DirectionDegenerateProfileCondition.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

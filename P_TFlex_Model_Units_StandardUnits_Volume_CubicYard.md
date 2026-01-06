@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVolumeCubicYard - свойство  
-  
----  
-  
+    
 Кубический ярд; ярд³; yd³; 
 
 Тип - Объём

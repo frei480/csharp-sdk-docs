@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFromIfc - класс  
-  
----  
-  
+    
 Класс импорта из файла формата IFC
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelImportFromIfc

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DrawingView - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DrawingView(Document)](M_TFlex_Model_Model2D_DrawingView__ctor.md) | Конструктор по умолчанию |

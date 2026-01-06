@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsElectricalConductivitySiemens - свойство  
-  
----  
-  
+    
 Сименс; См; S; 
 
 Тип - Электропроводность

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleViewSymbol - свойства  
-  
----  
-  
+    
 Тип [SimpleViewSymbol](T_TFlex_Model_Model2D_SimpleViewSymbol.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

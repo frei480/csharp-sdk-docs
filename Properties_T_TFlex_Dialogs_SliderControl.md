@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SliderControl - свойства  
-  
----  
-  
+    
 Тип [SliderControl](T_TFlex_Dialogs_SliderControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

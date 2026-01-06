@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Geometry - методы  
-  
----  
-  
+    
 Тип [Geometry](T_TFlex_Model_Model3D_Visual_Manipulators_Geometry.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

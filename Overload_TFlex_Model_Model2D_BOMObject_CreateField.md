@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BOMObjectCreateField - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateField(String, BOMObjectFieldType)](M_TFlex_Model_Model2D_BOMObject_CreateField.md) | Создать поле |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableControl - методы  
-  
----  
-  
+    
 Тип [VariableControl](T_TFlex_Model_Model2D_VariableControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NumericInputControlAutoApplyByTimeout - свойство  
-  
----  
-  
+    
 Управление флагом автоматического применения значения по таймауту. Имеет смысл когда пользователь вводит число, а не выражение.
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

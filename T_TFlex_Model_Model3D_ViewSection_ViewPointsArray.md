@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ViewSectionViewPointsArray - класс  
-  
----  
-  
+    
 Множество точек. Возможно перечисление точек с использованием конструкции foreach
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DViewSectionViewPointsArray

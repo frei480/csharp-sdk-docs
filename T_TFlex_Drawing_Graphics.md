@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Graphics - класс  
-  
----  
-  
+    
 Класс предназначен для вывода графического изображения на экран или другое графическое устройство с использованием вещественных координат в системе координат документа.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DrawingGraphics

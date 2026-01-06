@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VisualEventArgs - свойства  
-  
----  
-  
+    
 Тип [VisualEventArgs](T_TFlex_Model_Model3D_Visual_VisualEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

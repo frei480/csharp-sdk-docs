@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LineGeometry - методы  
-  
----  
-  
+    
 Тип [LineGeometry](T_TFlex_Model_Model2D_LineGeometry.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

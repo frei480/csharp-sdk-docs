@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngularAccelerationDegreesPerSquareSecond - свойство  
-  
----  
-  
+    
 Градус на секунду в квадрате; °/с²; deg/s²; 
 
 Тип - Угловое ускорение

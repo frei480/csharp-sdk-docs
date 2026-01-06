@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OperationCollection - свойства  
-  
----  
-  
+    
 Тип [OperationCollection](T_TFlex_Model_Model3D_OperationCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

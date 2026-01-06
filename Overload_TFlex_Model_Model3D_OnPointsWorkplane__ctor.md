@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OnPointsWorkplane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [OnPointsWorkplane(Document)](M_TFlex_Model_Model3D_OnPointsWorkplane__ctor.md) | Конструктор для создания рабочей плоскости |

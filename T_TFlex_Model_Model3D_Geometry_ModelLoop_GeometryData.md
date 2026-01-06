@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelLoopGeometryData - класс  
-  
----  
-  
+    
 Множество геометрических данных цикла
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryModelLoopGeometryData

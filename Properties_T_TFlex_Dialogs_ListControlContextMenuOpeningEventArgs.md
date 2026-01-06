@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlContextMenuOpeningEventArgs - свойства  
-  
----  
-  
+    
 Тип [ListControlContextMenuOpeningEventArgs](T_TFlex_Dialogs_ListControlContextMenuOpeningEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

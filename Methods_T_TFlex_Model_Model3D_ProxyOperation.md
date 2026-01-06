@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyOperation - методы  
-  
----  
-  
+    
 Тип [ProxyOperation](T_TFlex_Model_Model3D_ProxyOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

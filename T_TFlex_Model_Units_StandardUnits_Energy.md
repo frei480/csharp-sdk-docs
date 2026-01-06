@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsEnergy - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Энергия
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsEnergy

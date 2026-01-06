@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Inductance - методы  
-  
----  
-  
+    
 Тип [StandardUnitsInductance](T_TFlex_Model_Units_StandardUnits_Inductance.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

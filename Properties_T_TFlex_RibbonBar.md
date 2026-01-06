@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonBar - свойства  
-  
----  
-  
+    
 Тип [RibbonBar](T_TFlex_RibbonBar.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

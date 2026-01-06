@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ValueCommitedEventArgs - методы  
-  
----  
-  
+    
 Тип [LengthDiameterManipulatorValueCommitedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_LengthDiameterManipulator_ValueCommitedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

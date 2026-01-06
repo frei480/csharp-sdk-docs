@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TableGetCellTextLength - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetCellTextLength(IntPtr)](M_TFlex_Model_Model2D_Table_GetCellTextLength.md) | Получение количества символов в ячейке |

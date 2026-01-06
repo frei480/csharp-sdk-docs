@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModalDialogPage - методы  
-  
----  
-  
+    
 Тип [ModalDialogPage](T_TFlex_Dialogs_ModalDialogPage.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

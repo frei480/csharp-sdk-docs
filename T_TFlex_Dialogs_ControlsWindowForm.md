@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlsWindowForm - класс  
-  
----  
-  
+    
 Форма для использования элементов управления из пространства имён TFlex.Dialogs
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.CommandPropertiesWindowFormBase](T_TFlex_Command_PropertiesWindowFormBase.md) TFlex.DialogsControlsWindowForm

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToACAD - методы  
-  
----  
-  
+    
 Тип [ExportToACAD](T_TFlex_Model_ExportToACAD.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

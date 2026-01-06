@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToIFC - методы  
-  
----  
-  
+    
 Тип [ExportToIFC](T_TFlex_Model_ExportToIFC.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

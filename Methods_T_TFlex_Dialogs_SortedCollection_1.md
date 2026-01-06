@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SortedCollectionT \- методы  
-  
----  
-  
+    
 Тип [SortedCollectionT](T_TFlex_Dialogs_SortedCollection_1.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

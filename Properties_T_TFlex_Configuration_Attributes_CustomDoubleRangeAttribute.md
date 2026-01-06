@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomDoubleRangeAttribute - свойства  
-  
----  
-  
+    
 Тип [CustomDoubleRangeAttribute](T_TFlex_Configuration_Attributes_CustomDoubleRangeAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OneGuidePathParametric - класс  
-  
----  
-  
+    
 Класс для описания системы координат копии по пути
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DParametric](T_TFlex_Model_Model3D_Parametric.md) [TFlex.Model.Model3DGuidePathParametric](T_TFlex_Model_Model3D_GuidePathParametric.md) TFlex.Model.Model3DOneGuidePathParametric

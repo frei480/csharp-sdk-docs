@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircleArcGeometry - свойства  
-  
----  
-  
+    
 Тип [CircleArcGeometry](T_TFlex_Model_Model2D_CircleArcGeometry.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

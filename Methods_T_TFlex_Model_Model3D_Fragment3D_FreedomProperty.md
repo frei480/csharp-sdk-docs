@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FreedomProperty - методы  
-  
----  
-  
+    
 Тип [Fragment3DFreedomProperty](T_TFlex_Model_Model3D_Fragment3D_FreedomProperty.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

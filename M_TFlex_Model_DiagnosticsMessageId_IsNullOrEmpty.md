@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DiagnosticsMessageIdIsNullOrEmpty - метод  
-  
----  
-  
+    
 Идентификатор диагностического сообщения пустой или не задан
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

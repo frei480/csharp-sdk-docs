@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelTopol - класс  
-  
----  
-  
+    
 Базовый класс для модельных граней, циклов, рёбер и вершин
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) [TFlex.Model.Model3D.GeometryBaseTopol](T_TFlex_Model_Model3D_Geometry_BaseTopol.md) TFlex.Model.Model3D.GeometryModelTopol [TFlex.Model.Model3D.GeometryModelEdge](T_TFlex_Model_Model3D_Geometry_ModelEdge.md) [TFlex.Model.Model3D.GeometryModelFace](T_TFlex_Model_Model3D_Geometry_ModelFace.md) [TFlex.Model.Model3D.GeometryModelLoop](T_TFlex_Model_Model3D_Geometry_ModelLoop.md) [TFlex.Model.Model3D.GeometryModelVertex](T_TFlex_Model_Model3D_Geometry_ModelVertex.md)

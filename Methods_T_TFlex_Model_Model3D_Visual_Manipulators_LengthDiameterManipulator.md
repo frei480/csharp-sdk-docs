@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LengthDiameterManipulator - методы  
-  
----  
-  
+    
 Тип [LengthDiameterManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_LengthDiameterManipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

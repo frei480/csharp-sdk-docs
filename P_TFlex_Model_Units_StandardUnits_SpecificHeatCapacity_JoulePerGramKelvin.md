@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsSpecificHeatCapacityJoulePerGramKelvin - свойство  
-  
----  
-  
+    
 Джоуль на грамм на Кельвин; Дж/(г·К); J/(g·K); 
 
 Тип - Удельная теплоемкость

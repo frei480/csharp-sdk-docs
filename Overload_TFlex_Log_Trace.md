@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogTrace - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Trace(String)](M_TFlex_Log_Trace.md) |  |

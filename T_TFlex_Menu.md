@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Menu - класс  
-  
----  
-  
+    
 Класс меню
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexMenu

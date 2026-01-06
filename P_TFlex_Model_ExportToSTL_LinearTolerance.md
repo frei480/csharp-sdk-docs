@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToSTLLinearTolerance - свойство  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Допуск

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SegmentsSet - методы  
-  
----  
-  
+    
 Тип [SurfacePiecewiseDataSegmentsSet](T_TFlex_Model_Model3D_Geometry_SurfacePiecewiseData_SegmentsSet.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

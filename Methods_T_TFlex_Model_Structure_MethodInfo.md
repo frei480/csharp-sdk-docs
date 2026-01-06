@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MethodInfo - методы  
-  
----  
-  
+    
 Тип [MethodInfo](T_TFlex_Model_Structure_MethodInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

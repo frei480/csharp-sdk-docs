@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TorusWorkSurface - методы  
-  
----  
-  
+    
 Тип [TorusWorkSurface](T_TFlex_Model_Model3D_TorusWorkSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

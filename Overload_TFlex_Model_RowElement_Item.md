@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowElementItem - свойство  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ItemGuid](P_TFlex_Model_RowElement_Item.md) |  |

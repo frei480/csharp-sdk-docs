@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScalePreset - методы  
-  
----  
-  
+    
 Тип [ScalePreset](T_TFlex_Configuration_ScalePreset.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

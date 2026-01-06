@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NamedFragmentNode - методы  
-  
----  
-  
+    
 Тип [NamedFragmentNode](T_TFlex_Model_Model2D_NamedFragmentNode.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

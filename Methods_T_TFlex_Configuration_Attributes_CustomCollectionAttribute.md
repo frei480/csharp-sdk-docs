@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomCollectionAttribute - методы  
-  
----  
-  
+    
 Тип [CustomCollectionAttribute](T_TFlex_Configuration_Attributes_CustomCollectionAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

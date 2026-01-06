@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CableProductInfo - методы  
-  
----  
-  
+    
 Тип [CableProductInfo](T_TFlex_Model_Model3D_ConductorModel_CableProductInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IconIsValid - свойство  
-  
----  
-  
+    
 Возвращает True для непустых иконок
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

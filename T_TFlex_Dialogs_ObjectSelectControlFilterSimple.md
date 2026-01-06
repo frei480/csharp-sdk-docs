@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlFilterSimple - класс  
-  
----  
-  
+    
 Базовый класс для общей реализации ObjectSelectControlFilter
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) [TFlex.DialogsObjectSelectControlFilter](T_TFlex_Dialogs_ObjectSelectControlFilter.md) TFlex.DialogsObjectSelectControlFilterSimple [TFlex.DialogsObjectSelectControlFilterFromDoc](T_TFlex_Dialogs_ObjectSelectControlFilterFromDoc.md)

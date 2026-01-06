@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Parameter  \- операторы преобразования  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [(Double to Parameter)](M_TFlex_Model_Parameter_op_Implicit.md) | Оператор приведения к типу параметра |

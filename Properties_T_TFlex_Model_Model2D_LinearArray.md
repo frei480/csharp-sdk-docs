@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearArray - свойства  
-  
----  
-  
+    
 Тип [LinearArray](T_TFlex_Model_Model2D_LinearArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

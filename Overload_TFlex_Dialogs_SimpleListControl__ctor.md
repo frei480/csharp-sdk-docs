@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SimpleListControl](M_TFlex_Dialogs_SimpleListControl__ctor.md) | Инициализирует новый экземпляр класса [SimpleListControl](T_TFlex_Dialogs_SimpleListControl.md) |

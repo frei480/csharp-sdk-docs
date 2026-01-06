@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MeasurementParameterProvider - свойства  
-  
----  
-  
+    
 Тип [MeasurementParameterProvider](T_TFlex_Model_Data_ProductStructure_MeasurementParameterProvider.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

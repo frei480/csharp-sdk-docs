@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableUpDown - методы  
-  
----  
-  
+    
 Тип [VariableUpDown](T_TFlex_VariableUpDown.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

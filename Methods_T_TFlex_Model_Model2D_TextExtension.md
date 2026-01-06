@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TextExtension - методы  
-  
----  
-  
+    
 Тип [TextExtension](T_TFlex_Model_Model2D_TextExtension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

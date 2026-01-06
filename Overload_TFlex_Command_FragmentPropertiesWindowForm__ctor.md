@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentPropertiesWindowForm - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FragmentPropertiesWindowForm(ModelObject)](M_TFlex_Command_FragmentPropertiesWindowForm__ctor.md) | Инициализирует новый экземпляр класса [FragmentPropertiesWindowForm](T_TFlex_Command_FragmentPropertiesWindowForm.md) |

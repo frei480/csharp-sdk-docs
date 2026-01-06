@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDampingCoefficientDyneSecondPerCentimeter - свойство  
-  
----  
-  
+    
 Дина-секунда на сантиметр; дин·с/см; dyn·s/cm; 
 
 Тип - Коэффициент демпфирования

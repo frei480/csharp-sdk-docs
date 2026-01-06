@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Folders - свойства  
-  
----  
-  
+    
 Тип [Folders](T_TFlex_Configuration_Folders.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

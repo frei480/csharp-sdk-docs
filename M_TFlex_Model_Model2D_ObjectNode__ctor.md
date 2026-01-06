@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectNode(Document, UInt32, ModelObject) - конструктор  
-  
----  
-  
+    
 Конструктор, задающий родительский 3D объект и идентификатор узла
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

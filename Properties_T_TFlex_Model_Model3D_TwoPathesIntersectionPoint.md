@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TwoPathesIntersectionPoint - свойства  
-  
----  
-  
+    
 Тип [TwoPathesIntersectionPoint](T_TFlex_Model_Model3D_TwoPathesIntersectionPoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

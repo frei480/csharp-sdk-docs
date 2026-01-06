@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BasePipePipeRoundParameters - класс  
-  
----  
-  
+    
 Параметры скругления участка трубопровода
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DBasePipePipeRoundParameters

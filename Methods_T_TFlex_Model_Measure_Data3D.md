@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Data3D - методы  
-  
----  
-  
+    
 Тип [Data3D](T_TFlex_Model_Measure_Data3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

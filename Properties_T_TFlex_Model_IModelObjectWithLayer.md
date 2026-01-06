@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IModelObjectWithLayer - свойства  
-  
----  
-  
+    
 Тип [IModelObjectWithLayer](T_TFlex_Model_IModelObjectWithLayer.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

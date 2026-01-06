@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PickPointResultView - свойство  
-  
----  
-  
+    
 Вид документа, в котором был произведён ввод точки
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsInductanceMicrohenry - свойство  
-  
----  
-  
+    
 Микрогенри; мкГн; µH; 
 
 Тип - Индуктивность

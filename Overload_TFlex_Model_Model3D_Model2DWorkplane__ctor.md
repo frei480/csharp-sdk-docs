@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Model2DWorkplane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Model2DWorkplane(Document)](M_TFlex_Model_Model3D_Model2DWorkplane__ctor.md) | Конструктор для создания новой рабочей плоскости |

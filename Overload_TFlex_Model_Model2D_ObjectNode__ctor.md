@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectNode - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ObjectNode(Document, UInt32, ModelObject)](M_TFlex_Model_Model2D_ObjectNode__ctor.md) | Конструктор, задающий родительский 3D объект и идентификатор узла |

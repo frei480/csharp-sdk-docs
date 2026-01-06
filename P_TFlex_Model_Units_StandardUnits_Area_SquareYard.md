@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAreaSquareYard - свойство  
-  
----  
-  
+    
 Квадратный ярд; ярд²; yd²; 
 
 Тип - Площадь

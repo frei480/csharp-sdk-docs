@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NodeArrayOperation - свойства  
-  
----  
-  
+    
 Тип [NodeArrayOperation](T_TFlex_Model_Model3D_NodeArrayOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

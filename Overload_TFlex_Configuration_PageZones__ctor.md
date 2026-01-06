@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PageZones - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [PageZones](M_TFlex_Configuration_PageZones__ctor.md) | Инициализирует новый экземпляр класса [PageZones](T_TFlex_Configuration_PageZones.md) |

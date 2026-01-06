@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAreaHectare - свойство  
-  
----  
-  
+    
 Гектар; га; ha; 
 
 Тип - Площадь

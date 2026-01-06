@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatFluxDensityBTUPerSecondPerSquareInch - свойство  
-  
----  
-  
+    
 БTE в секунду на квадратный дюйм; БТЕ/(дюйм²·с); BTU/(in²·s); 
 
 Тип - Плотность теплового потока

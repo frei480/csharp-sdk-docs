@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DampingCoefficient - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsDampingCoefficient](T_TFlex_Model_Units_StandardUnits_DampingCoefficient.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

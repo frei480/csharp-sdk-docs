@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAreaSquareFoot - свойство  
-  
----  
-  
+    
 Квадратный фут; фут²; ft²; 
 
 Тип - Площадь

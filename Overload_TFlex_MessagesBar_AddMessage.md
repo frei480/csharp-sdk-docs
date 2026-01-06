@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MessagesBarAddMessage - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddMessage(MessagesBarMessage)](M_TFlex_MessagesBar_AddMessage_2.md) | Добавить сообщение |

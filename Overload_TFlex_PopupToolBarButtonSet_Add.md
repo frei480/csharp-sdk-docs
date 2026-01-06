@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PopupToolBarButtonSetAdd - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Add(Int32)](M_TFlex_PopupToolBarButtonSet_Add.md) | Добавляет в этот набор кнопку с указанным идентификатором |

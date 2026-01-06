@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Assembly - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Assembly](M_TFlex_Configuration_Assembly__ctor.md) | Инициализирует новый экземпляр класса [Assembly](T_TFlex_Configuration_Assembly.md) |

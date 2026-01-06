@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Control - класс  
-  
----  
-  
+    
 Класс элемента управления
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) TFlex.Model.Model2DControl [TFlex.Model.Model2DStaticTextControl](T_TFlex_Model_Model2D_StaticTextControl.md) [TFlex.Model.Model2DVariableControl](T_TFlex_Model_Model2D_VariableControl.md)

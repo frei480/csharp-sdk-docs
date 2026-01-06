@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsForceNewton - свойство  
-  
----  
-  
+    
 Ньютон; Н; N; 
 
 Тип - Сила

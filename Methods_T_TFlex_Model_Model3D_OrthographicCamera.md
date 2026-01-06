@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OrthographicCamera - методы  
-  
----  
-  
+    
 Тип [OrthographicCamera](T_TFlex_Model_Model3D_OrthographicCamera.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TranslationManipulator - события  
-  
----  
-  
+    
 Тип [TranslationManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_TranslationManipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BodyRepresentation - свойства  
-  
----  
-  
+    
 Тип [BodyRepresentation](T_TFlex_Model_Model3D_Visual_BodyRepresentation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

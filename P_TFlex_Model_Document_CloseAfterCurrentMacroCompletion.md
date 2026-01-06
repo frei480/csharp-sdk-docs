@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentCloseAfterCurrentMacroCompletion - свойство  
-  
----  
-  
+    
 Закрыть документ после завершения текущего макроса
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

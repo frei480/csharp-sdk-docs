@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDensityKilogramPerGallon - свойство  
-  
----  
-  
+    
 Килограмм на галлон; кг/галлон; kg/gallon; 
 
 Тип - Плотность

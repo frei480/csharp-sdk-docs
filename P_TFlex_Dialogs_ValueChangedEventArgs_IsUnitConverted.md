@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ValueChangedEventArgsIsUnitConverted - свойство  
-  
----  
-  
+    
 Возвращает true, если единица измерения изменилась в результате конвертации
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

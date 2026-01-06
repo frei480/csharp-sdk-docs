@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EditControl - методы  
-  
----  
-  
+    
 Тип [EditControl](T_TFlex_Model_Model2D_EditControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

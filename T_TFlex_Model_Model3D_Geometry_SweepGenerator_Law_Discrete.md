@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SweepGeneratorLawDiscrete - класс  
-  
----  
-  
+    
 Табличная функция : вершина траектории и значение закона в ней. Возможно перечисление значений с использованием конструкции foreach
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySweepGeneratorLawDiscrete

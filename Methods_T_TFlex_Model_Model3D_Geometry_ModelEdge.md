@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelEdge - методы  
-  
----  
-  
+    
 Тип [ModelEdge](T_TFlex_Model_Model3D_Geometry_ModelEdge.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfaceSplinewiseDataBoundaryCondition - класс  
-  
----  
-  
+    
 Условие на границе
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySurfaceSplinewiseDataBoundaryCondition

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationNewDocument(String, Boolean) - метод  
-  
----  
-  
+    
 Создать новый документ на основе указанного файла прототипа
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

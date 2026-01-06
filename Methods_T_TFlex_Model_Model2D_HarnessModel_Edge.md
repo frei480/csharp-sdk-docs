@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Edge - методы  
-  
----  
-  
+    
 Тип [Edge](T_TFlex_Model_Model2D_HarnessModel_Edge.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

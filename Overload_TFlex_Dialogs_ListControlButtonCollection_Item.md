@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlButtonCollectionItem - свойство  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ItemInt32](P_TFlex_Dialogs_Collection_1_Item.md) |  |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CAEStudy - класс  
-  
----  
-  
+    
 Задачи конечно-элементного анализа
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DStudy](T_TFlex_Model_Model3D_Study.md) TFlex.Model.Model3DCAEStudy

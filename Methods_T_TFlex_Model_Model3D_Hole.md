@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Hole - методы  
-  
----  
-  
+    
 Тип [Hole](T_TFlex_Model_Model3D_Hole.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

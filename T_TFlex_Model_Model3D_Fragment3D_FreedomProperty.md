@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Fragment3DFreedomProperty - класс  
-  
----  
-  
+    
 Класс степени свободы 3D фрагмента
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DFragment3DFreedomProperty

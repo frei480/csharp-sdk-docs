@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ContourSegment - свойства  
-  
----  
-  
+    
 Тип [ContourSegment](T_TFlex_Model_Model2D_ContourSegment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

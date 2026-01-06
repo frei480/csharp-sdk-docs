@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DimensionUVCoords - класс  
-  
----  
-  
+    
 Координаты на элементе для привязки размера
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DDimensionUVCoords

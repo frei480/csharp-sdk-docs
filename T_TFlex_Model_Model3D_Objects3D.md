@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Objects3D - класс  
-  
----  
-  
+    
 Класс предназначенный для перечисления 3D объектов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DObjects3D

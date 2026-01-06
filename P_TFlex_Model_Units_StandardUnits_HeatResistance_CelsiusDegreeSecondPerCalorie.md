@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatResistanceCelsiusDegreeSecondPerCalorie - свойство  
-  
----  
-  
+    
 Градус Цельсия секунда на калорию; °С·с/кал; °С·s/cal; 
 
 Тип - Тепловое сопротивление

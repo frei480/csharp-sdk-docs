@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointRotationManipulator - методы  
-  
----  
-  
+    
 Тип [PointRotationManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_PointRotationManipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

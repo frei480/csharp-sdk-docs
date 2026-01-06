@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WorkplaneCommandEventArgs - методы  
-  
----  
-  
+    
 Тип [WorkplaneCommandEventArgs](T_TFlex_WorkplaneCommandEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

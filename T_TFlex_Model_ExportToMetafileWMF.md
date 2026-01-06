@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToMetafileWMF - класс  
-  
----  
-  
+    
 Класс экспорта в файл формата Windows Metafile (WMF)
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelExportTo](T_TFlex_Model_ExportTo.md) TFlex.ModelExportToMetafileWMF

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NormalFirstToLastEndProfileCondition - свойства  
-  
----  
-  
+    
 Тип [LoftNormalFirstToLastEndProfileCondition](T_TFlex_Model_Model3D_Loft_NormalFirstToLastEndProfileCondition.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

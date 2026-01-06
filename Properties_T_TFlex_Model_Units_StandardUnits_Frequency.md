@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Frequency - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsFrequency](T_TFlex_Model_Units_StandardUnits_Frequency.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

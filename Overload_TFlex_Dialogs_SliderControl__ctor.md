@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SliderControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SliderControl](M_TFlex_Dialogs_SliderControl__ctor.md) | Инициализирует новый экземпляр класса [SliderControl](T_TFlex_Dialogs_SliderControl.md) |

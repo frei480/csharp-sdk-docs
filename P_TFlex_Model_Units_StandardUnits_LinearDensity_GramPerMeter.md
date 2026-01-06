@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensityGramPerMeter - свойство  
-  
----  
-  
+    
 Грамм на метр; г/м; g/m; 
 
 Тип - Линейная плотность

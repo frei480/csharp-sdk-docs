@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WireFromEdgesGenerator - свойства  
-  
----  
-  
+    
 Тип [WireFromEdgesGenerator](T_TFlex_Model_Model3D_Geometry_WireFromEdgesGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

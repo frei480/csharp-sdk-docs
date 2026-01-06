@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OptionsContext(Document, ModelObject) - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [OptionsContext](T_TFlex_Configuration_OptionsContext.md)
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureReportSupportDoubleToString - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DoubleToString(Double)](M_TFlex_Model_ProductStructureReportSupport_DoubleToString.md) |  |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Border - поля  
-  
----  
-  
+    
 Тип [TableBorder](T_TFlex_Model_Model2D_Table_Border.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

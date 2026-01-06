@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RealProperty - класс  
-  
----  
-  
+    
 Класс объекта документа T-FLEX CAD
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelRealProperty

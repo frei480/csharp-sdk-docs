@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EventSuppressor - методы  
-  
----  
-  
+    
 Тип [EventSuppressor](T_TFlex_Dialogs_EventSuppressor.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

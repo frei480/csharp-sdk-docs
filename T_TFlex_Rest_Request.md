@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Request - класс  
-  
----  
-  
+    
 Запрос. Для использования в REST вызовах
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.RestRequest

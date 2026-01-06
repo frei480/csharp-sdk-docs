@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowElementGroupMergedCellValue - класс  
-  
----  
-  
+    
 Объединенные значения ячеек структуры изделия
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelRowElementGroupMergedCellValue

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SpecialBoxManipulator - методы  
-  
----  
-  
+    
 Тип [SpecialBoxManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_SpecialBoxManipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

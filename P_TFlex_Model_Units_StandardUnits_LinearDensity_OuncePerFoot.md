@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensityOuncePerFoot - свойство  
-  
----  
-  
+    
 Унция на фут; унция/фут; oz/ft; 
 
 Тип - Линейная плотность

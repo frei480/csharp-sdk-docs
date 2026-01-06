@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearArrayOperation - свойства  
-  
----  
-  
+    
 Тип [LinearArrayOperation](T_TFlex_Model_Model3D_LinearArrayOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlExpandAllTheWayTo - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ExpandAllTheWayTo(Int32)](M_TFlex_Dialogs_ListControl_ExpandAllTheWayTo.md) | Развернуть все строки до row. IsHierarchyOn должно быть true. |

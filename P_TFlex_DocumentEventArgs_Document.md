@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentEventArgsDocument - свойство  
-  
----  
-  
+    
 Документ, в котором произошло данное событие
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

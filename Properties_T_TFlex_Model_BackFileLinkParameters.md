@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BackFileLinkParameters - свойства  
-  
----  
-  
+    
 Тип [BackFileLinkParameters](T_TFlex_Model_BackFileLinkParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

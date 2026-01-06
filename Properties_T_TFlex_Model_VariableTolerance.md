@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableTolerance - свойства  
-  
----  
-  
+    
 Тип [VariableTolerance](T_TFlex_Model_VariableTolerance.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

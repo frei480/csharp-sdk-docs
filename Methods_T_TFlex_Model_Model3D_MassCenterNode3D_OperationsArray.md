@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OperationsArray - методы  
-  
----  
-  
+    
 Тип [MassCenterNode3DOperationsArray](T_TFlex_Model_Model3D_MassCenterNode3D_OperationsArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

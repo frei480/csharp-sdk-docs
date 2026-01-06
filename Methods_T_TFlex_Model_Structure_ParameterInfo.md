@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParameterInfo - методы  
-  
----  
-  
+    
 Тип [ParameterInfo](T_TFlex_Model_Structure_ParameterInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

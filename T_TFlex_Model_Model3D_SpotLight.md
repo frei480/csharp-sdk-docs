@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SpotLight - класс  
-  
----  
-  
+    
 Класс прожекторного источника света
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DLight](T_TFlex_Model_Model3D_Light.md) [TFlex.Model.Model3DDirectionalLight](T_TFlex_Model_Model3D_DirectionalLight.md) TFlex.Model.Model3DSpotLight

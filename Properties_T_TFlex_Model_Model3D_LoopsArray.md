@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoopsArray - свойства  
-  
----  
-  
+    
 Тип [LoopsArray](T_TFlex_Model_Model3D_LoopsArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

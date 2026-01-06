@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DefaultButton - методы  
-  
----  
-  
+    
 Тип [DefaultButton](T_TFlex_Command_DefaultButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

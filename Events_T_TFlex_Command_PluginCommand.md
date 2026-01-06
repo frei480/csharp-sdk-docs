@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginCommand - события  
-  
----  
-  
+    
 Тип [PluginCommand](T_TFlex_Command_PluginCommand.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

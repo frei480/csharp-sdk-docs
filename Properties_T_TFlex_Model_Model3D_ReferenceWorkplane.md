@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReferenceWorkplane - свойства  
-  
----  
-  
+    
 Тип [ReferenceWorkplane](T_TFlex_Model_Model3D_ReferenceWorkplane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

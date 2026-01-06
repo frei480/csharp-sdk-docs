@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HoleSetDirection - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetDirection(Int32, ModelTopol)](M_TFlex_Model_Model3D_Hole_SetDirection.md) | Задать направление отверстия |

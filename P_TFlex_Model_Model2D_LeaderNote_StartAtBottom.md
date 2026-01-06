@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LeaderNoteStartAtBottom - свойство  
-  
----  
-  
+    
 Расположение дополнительных полок: true - добавлять снизу вверх, false - сверху вниз
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

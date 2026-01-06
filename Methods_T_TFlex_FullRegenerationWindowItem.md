@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FullRegenerationWindowItem - методы  
-  
----  
-  
+    
 Тип [FullRegenerationWindowItem](T_TFlex_FullRegenerationWindowItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

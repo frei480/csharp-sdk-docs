@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Force - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsForce](T_TFlex_Model_Units_StandardUnits_Force.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

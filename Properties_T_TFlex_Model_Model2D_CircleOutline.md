@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircleOutline - свойства  
-  
----  
-  
+    
 Тип [CircleOutline](T_TFlex_Model_Model2D_CircleOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

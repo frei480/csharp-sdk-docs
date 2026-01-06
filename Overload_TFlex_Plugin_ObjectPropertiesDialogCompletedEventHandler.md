@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginObjectPropertiesDialogCompletedEventHandler - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ObjectPropertiesDialogCompletedEventHandler(ObjectEventArgs)](M_TFlex_Plugin_ObjectPropertiesDialogCompletedEventHandler.md) | Обработчик завершения редактирования объекта в окне "Параметры". |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BasePoint3D - класс  
-  
----  
-  
+    
 Базовый класс для точек
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) TFlex.Model.Model3D.GeometryBasePoint3D [TFlex.Model.Model3D.GeometryModelPoint3D](T_TFlex_Model_Model3D_Geometry_ModelPoint3D.md) [TFlex.Model.Model3D.GeometryPoint3D](T_TFlex_Model_Model3D_Geometry_Point3D.md)

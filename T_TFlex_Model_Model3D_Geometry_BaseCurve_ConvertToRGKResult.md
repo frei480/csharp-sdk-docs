@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseCurveConvertToRGKResult - класс  
-  
----  
-  
+    
 Результат конвертации кривой Parasolid в кривую RGK
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryBaseCurveConvertToRGKResult

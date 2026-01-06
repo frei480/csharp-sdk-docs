@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoadParameters - свойства  
-  
----  
-  
+    
 Тип [LoadParameters](T_TFlex_Model_Structure_LoadParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

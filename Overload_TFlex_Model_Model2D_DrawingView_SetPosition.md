@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DrawingViewSetPosition - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetPosition(Node, Parameter)](M_TFlex_Model_Model2D_DrawingView_SetPosition_1.md) | Установка привязки по узлу и углу |

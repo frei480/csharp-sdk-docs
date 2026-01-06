@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TableInsertText - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [InsertText(UInt32, UInt32, String)](M_TFlex_Model_Model2D_Table_InsertText.md) | Вставка текста с использованием формата символа по умолчанию |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VisualEventArgs - класс  
-  
----  
-  
+    
 Параметры событий манипуляторов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) TFlex.Model.Model3D.VisualVisualEventArgs [TFlex.Model.Model3D.VisualDraggerEventArgs](T_TFlex_Model_Model3D_Visual_DraggerEventArgs.md) [TFlex.Model.Model3D.VisualLabelEventArgs](T_TFlex_Model_Model3D_Visual_LabelEventArgs.md)

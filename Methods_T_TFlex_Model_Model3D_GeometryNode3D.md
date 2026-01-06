@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometryNode3D - методы  
-  
----  
-  
+    
 Тип [GeometryNode3D](T_TFlex_Model_Model3D_GeometryNode3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

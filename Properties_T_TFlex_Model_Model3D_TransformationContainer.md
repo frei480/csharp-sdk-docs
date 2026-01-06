@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationContainer - свойства  
-  
----  
-  
+    
 Тип [TransformationContainer](T_TFlex_Model_Model3D_TransformationContainer.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

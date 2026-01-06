@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariablesControl3DDispose(Boolean) - метод  
-  
----  
-  
+    
 Освобождает неуправляемые ресурсы, используемые объектом [VariablesControl3D](T_TFlex_VariablesControl3D.md), а при необходимости освобождает также управляемые ресурсы
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

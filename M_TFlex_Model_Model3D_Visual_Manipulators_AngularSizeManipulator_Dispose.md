@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AngularSizeManipulatorDispose(Boolean) - метод  
-  
----  
-  
+    
 Освобождает неуправляемые ресурсы, используемые объектом [AngularSizeManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_AngularSizeManipulator.md), а при необходимости освобождает также управляемые ресурсы
 
 **Пространство имён:** [TFlex.Model.Model3D.Visual.Manipulators](N_TFlex_Model_Model3D_Visual_Manipulators.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

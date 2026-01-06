@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoundedExtrusionGeneratorBound - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [BoundedExtrusionGeneratorBound(Boolean, Double)](M_TFlex_Model_Model3D_Geometry_BoundedExtrusionGenerator_Bound__ctor.md) | Конструктор для задания границы значением отступа |

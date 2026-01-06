@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Direction - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Direction(BaseDirection)](M_TFlex_Model_Model3D_Geometry_Direction__ctor_1.md) | Копирование координат другого вектора |

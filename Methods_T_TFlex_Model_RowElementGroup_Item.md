@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Item - методы  
-  
----  
-  
+    
 Тип [RowElementGroupItem](T_TFlex_Model_RowElementGroup_Item.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

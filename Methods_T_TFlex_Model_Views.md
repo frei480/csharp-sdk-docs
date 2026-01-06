@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Views - методы  
-  
----  
-  
+    
 Тип [Views](T_TFlex_Model_Views.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

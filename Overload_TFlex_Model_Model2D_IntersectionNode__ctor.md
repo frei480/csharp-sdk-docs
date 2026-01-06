@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntersectionNode - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [IntersectionNode(Document)](M_TFlex_Model_Model2D_IntersectionNode__ctor.md) | Конструктор по умолчанию. Координаты установлены в значение 0,0 |

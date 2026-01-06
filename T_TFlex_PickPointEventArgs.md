@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PickPointEventArgs - класс  
-  
----  
-  
+    
 Класс, содержащий параметры вызова метода PickPoint
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexPickPointEventArgs

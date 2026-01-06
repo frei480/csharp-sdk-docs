@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TableCreationSettings - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [TableCreationSettings(UInt32, UInt32)](M_TFlex_Model_Model2D_Table_CreationSettings__ctor.md) | Конструктор |

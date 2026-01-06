@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToInventor - методы  
-  
----  
-  
+    
 Тип [ExportToInventor](T_TFlex_Model_ExportToInventor.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

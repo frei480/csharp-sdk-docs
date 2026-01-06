@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlShowView3D - свойство  
-  
----  
-  
+    
 Параметр "Показывать 3D вид"
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

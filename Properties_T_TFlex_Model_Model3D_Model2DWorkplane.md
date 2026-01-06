@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Model2DWorkplane - свойства  
-  
----  
-  
+    
 Тип [Model2DWorkplane](T_TFlex_Model_Model3D_Model2DWorkplane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

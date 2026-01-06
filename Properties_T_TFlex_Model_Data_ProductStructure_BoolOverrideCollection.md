@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoolOverrideCollection - свойства  
-  
----  
-  
+    
 Тип [BoolOverrideCollection](T_TFlex_Model_Data_ProductStructure_BoolOverrideCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

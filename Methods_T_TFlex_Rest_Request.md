@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Request - методы  
-  
----  
-  
+    
 Тип [Request](T_TFlex_Rest_Request.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

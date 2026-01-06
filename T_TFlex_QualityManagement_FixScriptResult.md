@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixScriptResult - класс  
-  
----  
-  
+    
 Результат исправления сценария, суммирующий результаты исправления отдельных проверок
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.QualityManagementFixScriptResult

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Value - свойства  
-  
----  
-  
+    
 Тип [Value](T_TFlex_Model_Measure_Value.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # References - класс  
-  
----  
-  
+    
 Класс предназначенный для перечисления элементов 3D фрагмента
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DReferences

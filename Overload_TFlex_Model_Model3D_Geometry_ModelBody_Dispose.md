@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelBodyDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Geometry_BaseBody_Dispose.md) |  |

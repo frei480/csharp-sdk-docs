@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonTab - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RibbonTab(String)](M_TFlex_RibbonTab__ctor.md) | Конструктор |

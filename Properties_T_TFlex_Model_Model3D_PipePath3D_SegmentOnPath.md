@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SegmentOnPath - свойства  
-  
----  
-  
+    
 Тип [PipePath3DSegmentOnPath](T_TFlex_Model_Model3D_PipePath3D_SegmentOnPath.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

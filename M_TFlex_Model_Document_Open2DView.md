@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentOpen2DView - метод  
-  
----  
-  
+    
 Создать новое 2D окно документа
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

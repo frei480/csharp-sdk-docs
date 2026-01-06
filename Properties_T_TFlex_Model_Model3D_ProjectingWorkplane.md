@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectingWorkplane - свойства  
-  
----  
-  
+    
 Тип [ProjectingWorkplane](T_TFlex_Model_Model3D_ProjectingWorkplane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

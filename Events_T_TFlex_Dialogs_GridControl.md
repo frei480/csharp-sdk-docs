@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GridControl - события  
-  
----  
-  
+    
 Тип [GridControl](T_TFlex_Dialogs_GridControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

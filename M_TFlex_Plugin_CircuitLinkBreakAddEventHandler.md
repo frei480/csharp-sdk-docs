@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginCircuitLinkBreakAddEventHandler - метод  
-  
----  
-  
+    
 Обработчик добавления линии связи в разрыв
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

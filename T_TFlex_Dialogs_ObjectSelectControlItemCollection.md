@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlItemCollection - класс  
-  
----  
-  
+    
 Коллекция элементов списка ObjectSelectControl
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsCollection](T_TFlex_Dialogs_Collection_1.md)[ObjectSelectControlItem](T_TFlex_Dialogs_ObjectSelectControlItem.md) TFlex.DialogsObjectSelectControlItemCollection

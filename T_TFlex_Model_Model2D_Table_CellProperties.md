@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TableCellProperties - структура  
-  
----  
-  
+    
 Параметры ячейки таблицы
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemValueType](https://learn.microsoft.com/dotnet/api/system.valuetype) TFlex.Model.Model2DTableCellProperties

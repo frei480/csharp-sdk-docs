@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExternalOperationCollection - методы  
-  
----  
-  
+    
 Тип [ExternalOperationCollection](T_TFlex_Model_Model3D_ExternalOperationCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

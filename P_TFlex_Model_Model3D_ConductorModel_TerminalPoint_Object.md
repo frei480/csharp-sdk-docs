@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TerminalPointObject - свойство  
-  
----  
-**Пространство имён:** [TFlex.Model.Model3D.ConductorModel](N_TFlex_Model_Model3D_ConductorModel.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.Model.Model3D.ConductorModel](N_TFlex_Model_Model3D_ConductorModel.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
 
 ```csharp
 public ModelObject Object { get; }

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlHighlightEventArgs - методы  
-  
----  
-  
+    
 Тип [ListControlHighlightEventArgs](T_TFlex_Dialogs_ListControlHighlightEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

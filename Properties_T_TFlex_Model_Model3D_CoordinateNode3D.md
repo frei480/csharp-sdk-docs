@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CoordinateNode3D - свойства  
-  
----  
-  
+    
 Тип [CoordinateNode3D](T_TFlex_Model_Model3D_CoordinateNode3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

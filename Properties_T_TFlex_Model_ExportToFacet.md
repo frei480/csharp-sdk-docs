@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToFacet - свойства  
-  
----  
-  
+    
 Тип [ExportToFacet](T_TFlex_Model_ExportToFacet.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

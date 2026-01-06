@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NumericInputControlSetValue - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetValue(Double)](M_TFlex_Dialogs_NumericInputControl_SetValue.md) | Установить текущее значение |

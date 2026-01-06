@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Start - методы  
-  
----  
-  
+    
 Тип [Start](T_TFlex_Configuration_Start.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

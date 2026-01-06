@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableEditor - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [VariableEditor](M_TFlex_Configuration_VariableEditor__ctor.md) | Инициализирует новый экземпляр класса [VariableEditor](T_TFlex_Configuration_VariableEditor.md) |

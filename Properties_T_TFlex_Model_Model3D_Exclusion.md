@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Exclusion - свойства  
-  
----  
-  
+    
 Тип [Exclusion](T_TFlex_Model_Model3D_Exclusion.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

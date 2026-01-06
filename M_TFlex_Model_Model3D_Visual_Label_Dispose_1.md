@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LabelDispose(Boolean) - метод  
-  
----  
-  
+    
 Освобождает неуправляемые ресурсы, используемые объектом [Label](T_TFlex_Model_Model3D_Visual_Label.md), а при необходимости освобождает также управляемые ресурсы
 
 **Пространство имён:** [TFlex.Model.Model3D.Visual](N_TFlex_Model_Model3D_Visual.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

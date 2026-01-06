@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableProperties - структура  
-  
----  
-  
+    
 Параметры переменной, размещённой в тексте
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemValueType](https://learn.microsoft.com/dotnet/api/system.valuetype) TFlex.ModelVariableProperties

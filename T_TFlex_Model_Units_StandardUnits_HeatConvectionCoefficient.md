@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatConvectionCoefficient - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Коэффициент теплоотдачи
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsHeatConvectionCoefficient

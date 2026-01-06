@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseEdge - методы  
-  
----  
-  
+    
 Тип [BaseEdge](T_TFlex_Model_Model3D_Geometry_BaseEdge.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

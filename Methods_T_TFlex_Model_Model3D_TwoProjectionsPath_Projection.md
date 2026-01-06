@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Projection - методы  
-  
----  
-  
+    
 Тип [TwoProjectionsPathProjection](T_TFlex_Model_Model3D_TwoProjectionsPath_Projection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

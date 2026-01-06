@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentHideAssociatedLayers - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [HideAssociatedLayers](M_TFlex_Model_Model2D_Fragment_HideAssociatedLayers.md) | Гасим слои, связанные с вектором привязки |

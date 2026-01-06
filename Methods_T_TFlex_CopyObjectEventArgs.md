@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyObjectEventArgs - методы  
-  
----  
-  
+    
 Тип [CopyObjectEventArgs](T_TFlex_CopyObjectEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

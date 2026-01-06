@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectCollectionHyperlinkProperties - свойства  
-  
----  
-  
+    
 Тип [ObjectCollectionHyperlinkProperties](T_TFlex_Model_Model2D_ObjectCollectionHyperlinkProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

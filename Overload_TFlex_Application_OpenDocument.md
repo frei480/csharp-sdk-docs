@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationOpenDocument - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [OpenDocument(FileLink)](M_TFlex_Application_OpenDocument_4.md) | Открыть документ |

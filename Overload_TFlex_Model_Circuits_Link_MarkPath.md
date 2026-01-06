@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkMarkPath - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [MarkPath(Graphics, Point, Point)](M_TFlex_Model_Circuits_Link_MarkPath.md) |  |

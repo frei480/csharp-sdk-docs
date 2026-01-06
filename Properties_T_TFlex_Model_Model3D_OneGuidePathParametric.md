@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OneGuidePathParametric - свойства  
-  
----  
-  
+    
 Тип [OneGuidePathParametric](T_TFlex_Model_Model3D_OneGuidePathParametric.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensityGramPerKilometer - свойство  
-  
----  
-  
+    
 Грамм на километр; г/км; g/km; 
 
 Тип - Линейная плотность

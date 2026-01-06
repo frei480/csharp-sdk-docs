@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EventSuppressor - класс  
-  
----  
-  
+    
 Класс для удобного отключения событий элемента управления
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsEventSuppressor

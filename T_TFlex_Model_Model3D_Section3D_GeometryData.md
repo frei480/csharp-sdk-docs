@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Section3DGeometryData - класс  
-  
----  
-  
+    
 Множество геометрических данных сечения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DSection3DGeometryData

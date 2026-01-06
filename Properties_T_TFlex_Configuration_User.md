@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # User - свойства  
-  
----  
-  
+    
 Тип [User](T_TFlex_Configuration_User.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

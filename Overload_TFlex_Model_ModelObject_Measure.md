@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectMeasure - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Measure(ObjectArray, ModelObject)](M_TFlex_Model_ModelObject_Measure_1.md) | Измерить все параметры одного объекта либо отношения нескольких объектов |

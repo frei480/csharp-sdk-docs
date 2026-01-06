@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Objects3DDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Objects3D_Dispose.md) | Освободить внутренние данные |

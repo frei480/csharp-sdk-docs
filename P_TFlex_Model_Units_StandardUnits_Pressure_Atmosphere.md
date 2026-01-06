@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureAtmosphere - свойство  
-  
----  
-  
+    
 Атмосфера; атм; atm; 
 
 Тип - Давление

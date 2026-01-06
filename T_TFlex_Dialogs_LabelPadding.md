@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LabelPadding - перечисление  
-  
----  
-  
+    
 Описывает режим выравнивания элементов относительно меток
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

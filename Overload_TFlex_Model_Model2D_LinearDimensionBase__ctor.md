@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearDimensionBase - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [LinearDimensionBase(Document)](M_TFlex_Model_Model2D_LinearDimensionBase__ctor_2.md) | Инициализирует новый экземпляр класса [LinearDimensionBase](T_TFlex_Model_Model2D_LinearDimensionBase.md) |

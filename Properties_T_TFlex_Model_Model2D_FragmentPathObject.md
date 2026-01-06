@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentPathObject - свойства  
-  
----  
-  
+    
 Тип [FragmentPathObject](T_TFlex_Model_Model2D_FragmentPathObject.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

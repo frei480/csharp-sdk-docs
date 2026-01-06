@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsObjectsQuantity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Количество объектов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsObjectsQuantity

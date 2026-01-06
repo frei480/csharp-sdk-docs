@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConvertToRGKOptions - методы  
-  
----  
-  
+    
 Тип [BaseBodyConvertToRGKOptions](T_TFlex_Model_Model3D_Geometry_BaseBody_ConvertToRGKOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

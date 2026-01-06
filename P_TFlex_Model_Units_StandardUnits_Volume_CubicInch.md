@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVolumeCubicInch - свойство  
-  
----  
-  
+    
 Кубический дюйм; дюйм³; in³; 
 
 Тип - Объём

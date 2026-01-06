@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DeleteFacesArray - свойства  
-  
----  
-  
+    
 Тип [FaceDeleteDeleteFacesArray](T_TFlex_Model_Model3D_FaceDelete_DeleteFacesArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

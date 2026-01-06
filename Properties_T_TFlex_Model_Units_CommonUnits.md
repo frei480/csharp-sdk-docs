@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommonUnits - свойства  
-  
----  
-  
+    
 Тип [CommonUnits](T_TFlex_Model_Units_CommonUnits.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

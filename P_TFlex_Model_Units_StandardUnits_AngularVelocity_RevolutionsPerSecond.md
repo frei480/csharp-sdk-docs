@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngularVelocityRevolutionsPerSecond - свойство  
-  
----  
-  
+    
 Оборот в секунду; об/с; r/s; 
 
 Тип - Угловая скорость

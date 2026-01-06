@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementTypeIsSubtypeOf - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [IsSubtypeOf(ElementType)](M_TFlex_Model_Structure_ElementType_IsSubtypeOf_2.md) |  |

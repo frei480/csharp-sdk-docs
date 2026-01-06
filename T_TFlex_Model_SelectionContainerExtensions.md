@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectionContainerExtensions - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelSelectionContainerExtensions
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BetweenNode - свойства  
-  
----  
-  
+    
 Тип [BetweenNode](T_TFlex_Model_Model2D_BetweenNode.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

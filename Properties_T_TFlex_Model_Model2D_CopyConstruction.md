@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyConstruction - свойства  
-  
----  
-  
+    
 Тип [CopyConstruction](T_TFlex_Model_Model2D_CopyConstruction.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

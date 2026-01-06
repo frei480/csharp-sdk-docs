@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertiesWindowAppendForm - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AppendForm(PropertiesWindowForm)](M_TFlex_Command_PropertiesWindow_AppendForm.md) | Добавить вкладку к служебному окну свойств |

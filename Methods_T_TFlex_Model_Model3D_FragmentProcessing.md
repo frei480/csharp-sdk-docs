@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentProcessing - методы  
-  
----  
-  
+    
 Тип [FragmentProcessing](T_TFlex_Model_Model3D_FragmentProcessing.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

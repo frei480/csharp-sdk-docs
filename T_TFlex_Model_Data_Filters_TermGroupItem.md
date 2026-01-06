@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TermGroupItem - класс  
-  
----  
-  
+    
 Элемент группы условий 
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Data.FiltersTermGroupItem [TFlex.Model.Data.FiltersTerm](T_TFlex_Model_Data_Filters_Term.md) [TFlex.Model.Data.FiltersTermGroup](T_TFlex_Model_Data_Filters_TermGroup.md)

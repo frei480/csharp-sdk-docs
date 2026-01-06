@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseAxis - методы  
-  
----  
-  
+    
 Тип [BaseAxis](T_TFlex_Model_Model3D_Geometry_BaseAxis.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

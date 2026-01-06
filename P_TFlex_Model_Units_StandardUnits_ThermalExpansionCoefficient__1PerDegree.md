@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsThermalExpansionCoefficient_1PerDegree - свойство  
-  
----  
-  
+    
 1 / градус; 1/°C; °C; 
 
 Тип - Коэффициент теплового расширения

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OffsetConstruction - класс  
-  
----  
-  
+    
 Линия построения - эквидистанта
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.Model2DConstruction](T_TFlex_Model_Model2D_Construction.md) TFlex.Model.Model2DOffsetConstruction

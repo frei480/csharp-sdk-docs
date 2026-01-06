@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseClashResultItem - класс  
-  
----  
-  
+    
 Информация о столкновении
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryBaseClashResultItem [TFlex.Model.Model3D.GeometryClashBodyResultItem](T_TFlex_Model_Model3D_Geometry_ClashBodyResultItem.md) [TFlex.Model.Model3D.GeometryClashTopolResultItem](T_TFlex_Model_Model3D_Geometry_ClashTopolResultItem.md)

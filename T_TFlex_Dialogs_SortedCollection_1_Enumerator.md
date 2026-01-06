@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SortedCollectionTEnumerator - класс  
-  
----  
-  
+    
 Перечислитель коллекции
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsSortedCollectionTEnumerator

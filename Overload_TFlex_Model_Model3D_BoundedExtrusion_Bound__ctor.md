@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoundedExtrusionBound - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [BoundedExtrusionBound(Geometry)](M_TFlex_Model_Model3D_BoundedExtrusion_Bound__ctor_1.md) | Инициализирует новый экземпляр класса [BoundedExtrusionBound](T_TFlex_Model_Model3D_BoundedExtrusion_Bound.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreeFaceBlending - методы  
-  
----  
-  
+    
 Тип [ThreeFaceBlending](T_TFlex_Model_Model3D_ThreeFaceBlending.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

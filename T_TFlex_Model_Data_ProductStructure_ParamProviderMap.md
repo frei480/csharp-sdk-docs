@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParamProviderMap - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [System.Collections.ObjectModelCollection](https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.collection-1)[KeyValuePairS](T_TFlex_Model_Data_KeyValuePairS_2.md)[Guid](https://learn.microsoft.com/dotnet/api/system.guid), [IParameterProvider](T_TFlex_Model_Data_ProductStructure_IParameterProvider.md) [System.Collections.ObjectModelObservableCollection](https://learn.microsoft.com/dotnet/api/system.collections.objectmodel.observablecollection-1)[KeyValuePairS](T_TFlex_Model_Data_KeyValuePairS_2.md)[Guid](https://learn.microsoft.com/dotnet/api/system.guid), [IParameterProvider](T_TFlex_Model_Data_ProductStructure_IParameterProvider.md) TFlex.Model.Data.ProductStructureParamProviderMap
 
 **Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)

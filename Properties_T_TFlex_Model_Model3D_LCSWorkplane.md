@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LCSWorkplane - свойства  
-  
----  
-  
+    
 Тип [LCSWorkplane](T_TFlex_Model_Model3D_LCSWorkplane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

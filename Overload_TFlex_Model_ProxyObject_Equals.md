@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyObjectEquals - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Equals(Object)](https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals\(system-object\)) | Determines whether the specified object is equal to the current object. |

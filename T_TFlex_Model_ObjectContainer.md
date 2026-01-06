@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectContainer - класс  
-  
----  
-  
+    
 Контейнер объектов документа
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelObjectContainer

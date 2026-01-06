@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProfileGeometryData - класс  
-  
----  
-  
+    
 Множество геометрических данных профиля
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DProfileGeometryData

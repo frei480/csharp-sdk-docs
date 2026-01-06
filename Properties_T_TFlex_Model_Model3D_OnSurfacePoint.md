@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OnSurfacePoint - свойства  
-  
----  
-  
+    
 Тип [OnSurfacePoint](T_TFlex_Model_Model3D_OnSurfacePoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

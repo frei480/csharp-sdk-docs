@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SecondPointVector - методы  
-  
----  
-  
+    
 Тип [LoftSecondPointVector](T_TFlex_Model_Model3D_Loft_SecondPointVector.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

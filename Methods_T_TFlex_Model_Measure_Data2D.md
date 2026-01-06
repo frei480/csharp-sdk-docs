@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Data2D - методы  
-  
----  
-  
+    
 Тип [Data2D](T_TFlex_Model_Measure_Data2D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

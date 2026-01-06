@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TangentToSurfaceWorkplane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [TangentToSurfaceWorkplane(Document)](M_TFlex_Model_Model3D_TangentToSurfaceWorkplane__ctor.md) | Конструктор для создания рабочей плоскости |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDensityKilogramPerCubicCentimeter - свойство  
-  
----  
-  
+    
 Килограмм на кубический сантиметр; кг/см³; kg/cm³; 
 
 Тип - Плотность

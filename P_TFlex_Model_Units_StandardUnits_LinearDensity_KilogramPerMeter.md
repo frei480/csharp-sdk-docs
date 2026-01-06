@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensityKilogramPerMeter - свойство  
-  
----  
-  
+    
 Килограмм на метр; кг/м; kg/m; 
 
 Тип - Линейная плотность

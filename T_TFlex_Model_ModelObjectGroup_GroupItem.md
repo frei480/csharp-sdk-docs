@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectGroupGroupItem - класс  
-  
----  
-  
+    
 Класс элемента группы объектов.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelModelObjectGroupGroupItem

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Configuration - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [AltDimension](T_TFlex_Configuration_AltDimension.md) |  |

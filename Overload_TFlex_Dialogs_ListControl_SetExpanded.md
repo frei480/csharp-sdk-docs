@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlSetExpanded - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetExpanded(Int32, Boolean)](M_TFlex_Dialogs_ListControl_SetExpanded.md) | Развернута ли строка. IsHierarchyOn должно быть true. |

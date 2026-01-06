@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DefaultButton - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DefaultButton(DefaultButtonKind)](M_TFlex_Command_DefaultButton__ctor.md) | Конструктор по умолчанию |

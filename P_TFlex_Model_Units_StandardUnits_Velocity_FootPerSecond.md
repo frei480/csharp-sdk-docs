@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVelocityFootPerSecond - свойство  
-  
----  
-  
+    
 Фут в секунду; фут/с; ft/s; 
 
 Тип - Скорость

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Document - класс  
-  
----  
-  
+    
 Класс документа T-FLEX CAD
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelDocument

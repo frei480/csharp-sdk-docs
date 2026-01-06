@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoolEventArgs - класс  
-  
----  
-  
+    
 Базовый класс для событий с одним параметром типа bool
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.DialogsBaseEventArgs](T_TFlex_Dialogs_BaseEventArgs.md) TFlex.DialogsBoolEventArgs [TFlex.DialogsActiveChangedEventArgs](T_TFlex_Dialogs_ActiveChangedEventArgs.md) [TFlex.DialogsFocusChangedEventArgs](T_TFlex_Dialogs_FocusChangedEventArgs.md)

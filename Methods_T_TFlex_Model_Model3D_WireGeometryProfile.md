@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WireGeometryProfile - методы  
-  
----  
-  
+    
 Тип [WireGeometryProfile](T_TFlex_Model_Model3D_WireGeometryProfile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

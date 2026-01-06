@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VersionSummaryInfo - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Data.ProductStructureVersionSummaryInfo
 
 **Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

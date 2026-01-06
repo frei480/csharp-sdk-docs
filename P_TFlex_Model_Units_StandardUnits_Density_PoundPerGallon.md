@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDensityPoundPerGallon - свойство  
-  
----  
-  
+    
 Фунт на галлон; фунт/галлон; lb/gallon; 
 
 Тип - Плотность

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MessagesBarButton - класс  
-  
----  
-  
+    
 Описание кнопки, которая будет отображаться в сообщении выводимом в MessagesBar
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexMessagesBarButton

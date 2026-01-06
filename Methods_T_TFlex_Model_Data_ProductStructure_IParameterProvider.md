@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IParameterProvider - методы  
-  
----  
-  
+    
 Тип [IParameterProvider](T_TFlex_Model_Data_ProductStructure_IParameterProvider.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplineDataKnotSequence - класс  
-  
----  
-  
+    
 Последовательность узлов - значение параметра и кратность
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySplineDataKnotSequence

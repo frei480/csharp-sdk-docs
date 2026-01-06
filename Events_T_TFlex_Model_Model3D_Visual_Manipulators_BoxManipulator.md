@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoxManipulator - события  
-  
----  
-  
+    
 Тип [BoxManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_BoxManipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

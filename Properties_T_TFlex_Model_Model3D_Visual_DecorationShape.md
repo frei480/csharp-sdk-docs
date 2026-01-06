@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationShape - свойства  
-  
----  
-  
+    
 Тип [DecorationShape](T_TFlex_Model_Model3D_Visual_DecorationShape.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

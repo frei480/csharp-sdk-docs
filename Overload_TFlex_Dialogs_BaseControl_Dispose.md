@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseControlDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Dialogs_UiObject_Dispose.md) |  |

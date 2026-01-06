@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Specification - свойства  
-  
----  
-  
+    
 Тип [Specification](T_TFlex_Configuration_Specification.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

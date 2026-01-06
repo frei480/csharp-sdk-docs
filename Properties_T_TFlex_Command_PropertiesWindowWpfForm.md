@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertiesWindowWpfForm - свойства  
-  
----  
-  
+    
 Тип [PropertiesWindowWpfForm](T_TFlex_Command_PropertiesWindowWpfForm.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

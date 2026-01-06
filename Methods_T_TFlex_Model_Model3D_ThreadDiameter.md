@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreadDiameter - методы  
-  
----  
-  
+    
 Тип [ThreadDiameter](T_TFlex_Model_Model3D_ThreadDiameter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

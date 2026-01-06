@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentExtractOptions - методы  
-  
----  
-  
+    
 Тип [FragmentExtractOptions](T_TFlex_Model_Model2D_FragmentExtractOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

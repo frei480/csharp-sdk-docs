@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlItemCollectionAdd(ModelObject) - метод  
-  
----  
-  
+    
 Вставить элемент в список
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

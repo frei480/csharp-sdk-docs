@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LCSTransformation - свойства  
-  
----  
-  
+    
 Тип [LCSTransformation](T_TFlex_Model_Model3D_LCSTransformation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

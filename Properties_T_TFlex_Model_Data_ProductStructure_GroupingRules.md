@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GroupingRules - свойства  
-  
----  
-  
+    
 Тип [GroupingRules](T_TFlex_Model_Data_ProductStructure_GroupingRules.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

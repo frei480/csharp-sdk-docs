@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureKilopoundPerSquareInch - свойство  
-  
----  
-  
+    
 Килофунт-сила на квадратный дюйм; килофунт-сила/дюйм²; ksi; 
 
 Тип - Давление

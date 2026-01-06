@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Variable - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Variable(Document)](M_TFlex_Model_Variable__ctor.md) | Конструктор |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NativeWindow - класс  
-  
----  
-  
+    
 Базовый класс для окна платформы
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) TFlex.DialogsNativeWindow [TFlex.DialogsWin32Window](T_TFlex_Dialogs_Win32Window.md) [TFlex.DialogsWinFormsWindow](T_TFlex_Dialogs_WinFormsWindow.md) [TFlex.DialogsWPFWindow](T_TFlex_Dialogs_WPFWindow.md)

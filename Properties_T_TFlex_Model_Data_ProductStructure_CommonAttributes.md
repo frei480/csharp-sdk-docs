@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommonAttributes - свойства  
-  
----  
-  
+    
 Тип [CommonAttributes](T_TFlex_Model_Data_ProductStructure_CommonAttributes.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

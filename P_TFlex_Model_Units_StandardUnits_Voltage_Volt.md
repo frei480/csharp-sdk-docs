@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVoltageVolt - свойство  
-  
----  
-  
+    
 Вольт; В; V; 
 
 Тип - Напряжение

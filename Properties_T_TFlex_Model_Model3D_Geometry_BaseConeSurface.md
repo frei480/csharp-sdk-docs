@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseConeSurface - свойства  
-  
----  
-  
+    
 Тип [BaseConeSurface](T_TFlex_Model_Model3D_Geometry_BaseConeSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

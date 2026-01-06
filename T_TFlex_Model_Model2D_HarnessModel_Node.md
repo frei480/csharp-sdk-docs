@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Node - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model2D.HarnessModelNode
 
 **Пространство имён:** [TFlex.Model.Model2D.HarnessModel](N_TFlex_Model_Model2D_HarnessModel.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

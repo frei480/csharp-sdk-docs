@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyObjectDrawContext - класс  
-  
----  
-  
+    
 Контекст отображения прокси объекта
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelProxyObjectDrawContext

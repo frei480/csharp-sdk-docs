@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Model.Structure - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [BaseCopyValuesParameters](T_TFlex_Model_Structure_BaseCopyValuesParameters.md) |  |

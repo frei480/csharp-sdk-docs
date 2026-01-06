@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DegenerateProfileCondition - свойства  
-  
----  
-  
+    
 Тип [LoftDegenerateProfileCondition](T_TFlex_Model_Model3D_Loft_DegenerateProfileCondition.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

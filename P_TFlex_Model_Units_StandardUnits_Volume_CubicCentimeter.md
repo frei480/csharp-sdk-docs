@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVolumeCubicCentimeter - свойство  
-  
----  
-  
+    
 Кубический сантиметр; см³; cm³; 
 
 Тип - Объём

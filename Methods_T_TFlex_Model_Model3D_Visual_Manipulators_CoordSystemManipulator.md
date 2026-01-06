@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CoordSystemManipulator - методы  
-  
----  
-  
+    
 Тип [CoordSystemManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_CoordSystemManipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

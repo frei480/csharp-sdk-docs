@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NumericInputControl - методы  
-  
----  
-  
+    
 Тип [NumericInputControl](T_TFlex_Dialogs_NumericInputControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

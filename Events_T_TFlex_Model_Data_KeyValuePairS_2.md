@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # KeyValuePairSTKey, TValue \- события  
-  
----  
-  
+    
 Тип [KeyValuePairSTKey, TValue](T_TFlex_Model_Data_KeyValuePairS_2.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

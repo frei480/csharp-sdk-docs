@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunResultEntryObjectIdsCollectionAdd - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Add(ModelObject)](M_TFlex_QualityManagement_RunResultEntry_ObjectIdsCollection_Add.md) | Добавить ID объекта по его ссылке |

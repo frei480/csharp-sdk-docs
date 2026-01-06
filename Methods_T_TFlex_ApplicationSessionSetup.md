@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationSessionSetup - методы  
-  
----  
-  
+    
 Тип [ApplicationSessionSetup](T_TFlex_ApplicationSessionSetup.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

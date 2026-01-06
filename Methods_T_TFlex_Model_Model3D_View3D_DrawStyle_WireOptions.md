@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WireOptions - методы  
-  
----  
-  
+    
 Тип [View3DDrawStyleWireOptions](T_TFlex_Model_Model3D_View3D_DrawStyle_WireOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircleConstruction - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CircleConstruction(Document)](M_TFlex_Model_Model2D_CircleConstruction__ctor.md) | Конструктор по умолчанию |

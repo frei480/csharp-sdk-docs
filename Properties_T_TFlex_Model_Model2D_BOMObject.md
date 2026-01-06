@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BOMObject - свойства  
-  
----  
-  
+    
 Тип [BOMObject](T_TFlex_Model_Model2D_BOMObject.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

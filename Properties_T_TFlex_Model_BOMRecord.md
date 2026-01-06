@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BOMRecord - свойства  
-  
----  
-  
+    
 Тип [BOMRecord](T_TFlex_Model_BOMRecord.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

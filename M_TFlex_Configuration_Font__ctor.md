@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Font - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [Font](T_TFlex_Configuration_Font.md)
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

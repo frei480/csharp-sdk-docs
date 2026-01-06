@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Layer - методы  
-  
----  
-  
+    
 Тип [Layer](T_TFlex_Model_Layer.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControlSetRowContent(Int32, Object) - метод  
-  
----  
-  
+    
 Устанавливает содержимое ячеек в строке списка
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

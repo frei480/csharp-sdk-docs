@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DOCs - свойства  
-  
----  
-  
+    
 Тип [DOCs](T_TFlex_Configuration_DOCs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

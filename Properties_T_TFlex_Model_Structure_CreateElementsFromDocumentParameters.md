@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CreateElementsFromDocumentParameters - свойства  
-  
----  
-  
+    
 Тип [CreateElementsFromDocumentParameters](T_TFlex_Model_Structure_CreateElementsFromDocumentParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

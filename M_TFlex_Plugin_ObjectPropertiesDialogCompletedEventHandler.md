@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginObjectPropertiesDialogCompletedEventHandler(ObjectEventArgs) - метод  
-  
----  
-  
+    
 Обработчик завершения редактирования объекта в окне "Параметры".
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensityOuncePerInch - свойство  
-  
----  
-  
+    
 Унция на дюйм; унция/дюйм; oz/in; 
 
 Тип - Линейная плотность

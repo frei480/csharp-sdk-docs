@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Area - свойства  
-  
----  
-  
+    
 Тип [Area](T_TFlex_Model_Model2D_Area.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

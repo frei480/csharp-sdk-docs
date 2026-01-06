@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixContext - класс  
-  
----  
-  
+    
 Контекст исправления
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.QualityManagementFixContext

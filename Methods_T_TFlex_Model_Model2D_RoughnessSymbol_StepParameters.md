@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StepParameters - методы  
-  
----  
-  
+    
 Тип [RoughnessSymbolStepParameters](T_TFlex_Model_Model2D_RoughnessSymbol_StepParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

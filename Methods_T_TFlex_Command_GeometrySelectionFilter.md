@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometrySelectionFilter - методы  
-  
----  
-  
+    
 Тип [GeometrySelectionFilter](T_TFlex_Command_GeometrySelectionFilter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

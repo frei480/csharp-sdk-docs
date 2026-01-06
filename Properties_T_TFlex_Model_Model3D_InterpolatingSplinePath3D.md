@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InterpolatingSplinePath3D - свойства  
-  
----  
-  
+    
 Тип [InterpolatingSplinePath3D](T_TFlex_Model_Model3D_InterpolatingSplinePath3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

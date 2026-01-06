@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoolEventArgs - методы  
-  
----  
-  
+    
 Тип [BoolEventArgs](T_TFlex_Dialogs_BoolEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

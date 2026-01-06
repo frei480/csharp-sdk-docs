@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonGroup - класс  
-  
----  
-  
+    
 Группа элементов управления во вкладке ленты
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexRibbonGroup

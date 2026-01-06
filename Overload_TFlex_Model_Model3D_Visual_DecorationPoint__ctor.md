@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationPoint - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DecorationPoint(String, FloatVector)](M_TFlex_Model_Model3D_Visual_DecorationPoint__ctor.md) | Конструктор |

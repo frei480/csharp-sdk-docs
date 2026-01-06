@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Manipulator - события  
-  
----  
-  
+    
 Тип [Manipulator](T_TFlex_Model_Model3D_Visual_Manipulators_Manipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

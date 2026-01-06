@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementInfoDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Structure_ElementInfo_Dispose.md) | Освобождает все ресурсы, используемые объектом [ElementInfo](T_TFlex_Model_Structure_ElementInfo.md) |

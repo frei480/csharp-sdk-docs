@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardColorsFaceMark1Index - свойство  
-  
----  
-  
+    
 Цвет пометки грани 1
 
 **Пространство имён:** [TFlex.Drawing](N_TFlex_Drawing.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

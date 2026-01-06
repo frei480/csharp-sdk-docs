@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseBodyCheckResult - класс  
-  
----  
-  
+    
 Результат проверки тела Parasolid
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryBaseBodyCheckResult

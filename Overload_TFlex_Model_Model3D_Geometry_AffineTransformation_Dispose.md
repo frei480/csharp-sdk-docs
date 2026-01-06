@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AffineTransformationDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Geometry_AffineTransformation_Dispose.md) | Освобождает все ресурсы, используемые объектом [AffineTransformation](T_TFlex_Model_Model3D_Geometry_AffineTransformation.md) |

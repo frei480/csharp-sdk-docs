@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CurrentDensity - методы  
-  
----  
-  
+    
 Тип [StandardUnitsCurrentDensity](T_TFlex_Model_Units_StandardUnits_CurrentDensity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

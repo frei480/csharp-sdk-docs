@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Performance3D - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Performance3D](M_TFlex_Configuration_Performance3D__ctor.md) | Инициализирует новый экземпляр класса [Performance3D](T_TFlex_Configuration_Performance3D.md) |

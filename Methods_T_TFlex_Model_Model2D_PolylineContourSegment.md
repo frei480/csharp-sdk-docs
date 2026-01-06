@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PolylineContourSegment - методы  
-  
----  
-  
+    
 Тип [PolylineContourSegment](T_TFlex_Model_Model2D_PolylineContourSegment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

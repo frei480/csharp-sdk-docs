@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseParameter - свойства  
-  
----  
-  
+    
 Тип [UDFBaseParameter](T_TFlex_Model_Model3D_UDF_BaseParameter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

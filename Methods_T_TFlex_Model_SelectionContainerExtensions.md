@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectionContainerExtensions - методы  
-  
----  
-  
+    
 Тип [SelectionContainerExtensions](T_TFlex_Model_SelectionContainerExtensions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

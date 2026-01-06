@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentGetFixingVectorName - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetFixingVectorName](M_TFlex_Model_Model2D_Fragment_GetFixingVectorName.md) | Получить имя текущего вектора привязки фрагмента |

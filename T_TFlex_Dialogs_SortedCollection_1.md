@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SortedCollectionT \- класс  
-  
----  
-  
+    
 Упорядоченная коллекция элементов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsSortedCollectionT [TFlex.DialogsSelectedRowCollection](T_TFlex_Dialogs_SelectedRowCollection.md)

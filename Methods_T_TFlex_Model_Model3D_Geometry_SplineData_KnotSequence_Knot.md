@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Knot - методы  
-  
----  
-  
+    
 Тип [SplineDataKnotSequenceKnot](T_TFlex_Model_Model3D_Geometry_SplineData_KnotSequence_Knot.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

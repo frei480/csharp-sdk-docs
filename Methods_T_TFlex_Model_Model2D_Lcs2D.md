@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Lcs2D - методы  
-  
----  
-  
+    
 Тип [Lcs2D](T_TFlex_Model_Model2D_Lcs2D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

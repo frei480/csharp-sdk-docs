@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMomentOfInertiaForCrossSectionFootToTheFourthPower - свойство  
-  
----  
-  
+    
 Фут в степени 4; фут⁴; ft⁴; 
 
 Тип - Момент инерции сечения

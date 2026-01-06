@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentSaveInNomenclature - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SaveInNomenclature(Boolean)](M_TFlex_Model_Document_SaveInNomenclature.md) | Сохранить документ в справочник электронной структуры изделия T-FLEX DOCs |

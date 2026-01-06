@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Volume - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsVolume](T_TFlex_Model_Units_StandardUnits_Volume.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

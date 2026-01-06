@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftDegenerateProfileCondition - класс  
-  
----  
-  
+    
 Класс для задания граничного условия для вырожденного профиля
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DLoftDegenerateProfileCondition [TFlex.Model.Model3DLoftDirectionDegenerateProfileCondition](T_TFlex_Model_Model3D_Loft_DirectionDegenerateProfileCondition.md) [TFlex.Model.Model3DLoftSecondPointDegenerateProfileCondition](T_TFlex_Model_Model3D_Loft_SecondPointDegenerateProfileCondition.md)

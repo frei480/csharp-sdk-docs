@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RenderOptions2D - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RenderOptions2D](M_TFlex_Configuration_RenderOptions2D__ctor.md) | Инициализирует новый экземпляр класса [RenderOptions2D](T_TFlex_Configuration_RenderOptions2D.md) |

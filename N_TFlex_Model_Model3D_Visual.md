@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Model.Model3D.Visual - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [BodyRepresentation](T_TFlex_Model_Model3D_Visual_BodyRepresentation.md) |  |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GroupRemoveChild - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RemoveChild(Int32)](M_TFlex_Model_Model3D_Visual_Group_RemoveChild.md) | Удаляет потомка с соответствующим индексом. Потомки с большими индексами сдвигаются влево. |

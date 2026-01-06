@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SphereVector - свойства  
-  
----  
-  
+    
 Тип [LoftSphereVector](T_TFlex_Model_Model3D_Loft_SphereVector.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

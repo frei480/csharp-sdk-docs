@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LCSGeometryData - класс  
-  
----  
-  
+    
 Множество геометрических данных системы координат
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DLCSGeometryData

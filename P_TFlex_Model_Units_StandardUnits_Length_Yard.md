@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLengthYard - свойство  
-  
----  
-  
+    
 Ярд; ярд; yd; 
 
 Тип - Длина

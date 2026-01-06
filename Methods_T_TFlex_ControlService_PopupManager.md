@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PopupManager - методы  
-  
----  
-  
+    
 Тип [PopupManager](T_TFlex_ControlService_PopupManager.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

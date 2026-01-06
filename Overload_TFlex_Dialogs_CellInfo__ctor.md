@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CellInfo - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CellInfo](M_TFlex_Dialogs_CellInfo__ctor.md) | Инициализирует новый экземпляр класса [CellInfo](T_TFlex_Dialogs_CellInfo.md) |

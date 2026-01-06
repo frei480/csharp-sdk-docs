@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HyperlinkPropertiesWithUserText - свойства  
-  
----  
-  
+    
 Тип [HyperlinkPropertiesWithUserText](T_TFlex_Model_Model2D_HyperlinkPropertiesWithUserText.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

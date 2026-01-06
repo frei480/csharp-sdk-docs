@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParametricSweep - свойства  
-  
----  
-  
+    
 Тип [ParametricSweep](T_TFlex_Model_Model3D_ParametricSweep.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

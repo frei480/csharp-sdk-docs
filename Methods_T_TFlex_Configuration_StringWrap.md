@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StringWrap - методы  
-  
----  
-  
+    
 Тип [StringWrap](T_TFlex_Configuration_StringWrap.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

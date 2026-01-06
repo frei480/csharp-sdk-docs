@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ColorSelectControl - класс  
-  
----  
-  
+    
 Контрол выбора цвета
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) [TFlex.DialogsBaseControl](T_TFlex_Dialogs_BaseControl.md) [TFlex.DialogsInputControlBase](T_TFlex_Dialogs_InputControlBase.md) [TFlex.DialogsNumericInputControl](T_TFlex_Dialogs_NumericInputControl.md) TFlex.DialogsColorSelectControl

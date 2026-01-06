@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardWorkplane - методы  
-  
----  
-  
+    
 Тип [StandardWorkplane](T_TFlex_Model_Model3D_StandardWorkplane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

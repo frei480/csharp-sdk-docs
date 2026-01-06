@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonButton - свойства  
-  
----  
-  
+    
 Тип [RibbonButton](T_TFlex_RibbonButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

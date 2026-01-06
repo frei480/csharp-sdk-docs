@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Point - структура  
-  
----  
-  
+    
 Класс хранит точку с вещественными координатами
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemValueType](https://learn.microsoft.com/dotnet/api/system.valuetype) TFlex.DrawingPoint

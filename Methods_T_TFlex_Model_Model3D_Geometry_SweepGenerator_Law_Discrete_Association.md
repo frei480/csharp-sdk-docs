@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Association - методы  
-  
----  
-  
+    
 Тип [SweepGeneratorLawDiscreteAssociation](T_TFlex_Model_Model3D_Geometry_SweepGenerator_Law_Discrete_Association.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsThermalExpansionCoefficient - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Коэффициент теплового расширения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsThermalExpansionCoefficient

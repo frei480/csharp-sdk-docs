@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GuidePathParametric - методы  
-  
----  
-  
+    
 Тип [GuidePathParametric](T_TFlex_Model_Model3D_GuidePathParametric.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

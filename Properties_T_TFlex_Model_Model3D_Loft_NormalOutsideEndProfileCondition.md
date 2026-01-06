@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NormalOutsideEndProfileCondition - свойства  
-  
----  
-  
+    
 Тип [LoftNormalOutsideEndProfileCondition](T_TFlex_Model_Model3D_Loft_NormalOutsideEndProfileCondition.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectProperty - методы  
-  
----  
-  
+    
 Тип [ObjectProperty](T_TFlex_Model_ObjectProperty.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConstructionDimension - методы  
-  
----  
-  
+    
 Тип [ConstructionDimension](T_TFlex_Model_Model2D_ConstructionDimension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

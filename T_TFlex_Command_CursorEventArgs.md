@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CursorEventArgs - класс  
-  
----  
-  
+    
 Базовый класс аргументов событий, возникающих при манипуляциях с курсором
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.CommandCommandEventArgs](T_TFlex_Command_CommandEventArgs.md) TFlex.CommandCursorEventArgs [TFlex.CommandKeyEventArgs](T_TFlex_Command_KeyEventArgs.md) [TFlex.CommandMouseEventArgs](T_TFlex_Command_MouseEventArgs.md) [TFlex.CommandSelectEventArgs](T_TFlex_Command_SelectEventArgs.md)

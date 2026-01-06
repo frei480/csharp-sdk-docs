@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportTo3dCommon - класс  
-  
----  
-  
+    
 Базовый класс для экспорта в некоторые универсальные 3D форматы(STEP, ACIS, JT, PRC, 3MF, IGES, GLTF)
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelExportTo](T_TFlex_Model_ExportTo.md) TFlex.ModelExportTo3dCommon Подробнее

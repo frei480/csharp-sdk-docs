@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FilterOwnerCreateSelectionFilterButton - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateSelectionFilterButton(Guid, String)](M_TFlex_Command_FilterOwner_CreateSelectionFilterButton.md) | Создать кнопку селекции |

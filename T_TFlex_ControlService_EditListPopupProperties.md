@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EditListPopupProperties - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ControlServiceEditListPopupProperties
 
 **Пространство имён:** [TFlex.ControlService](N_TFlex_ControlService.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

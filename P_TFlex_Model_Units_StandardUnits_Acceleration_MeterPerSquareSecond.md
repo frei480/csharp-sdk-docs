@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAccelerationMeterPerSquareSecond - свойство  
-  
----  
-  
+    
 Метр на секунду в квадрате; м/с²; m/s²; 
 
 Тип - Ускорение

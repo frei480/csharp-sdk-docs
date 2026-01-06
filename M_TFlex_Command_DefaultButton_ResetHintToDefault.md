@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DefaultButtonResetHintToDefault - метод  
-  
----  
-  
+    
 Восстановить подсказку по-умолчанию
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

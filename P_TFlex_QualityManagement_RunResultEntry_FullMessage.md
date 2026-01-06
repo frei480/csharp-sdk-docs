@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunResultEntryFullMessage - свойство  
-  
----  
-  
+    
 Полное описание записи(отображается во второй колонке)
 
 **Пространство имён:** [TFlex.QualityManagement](N_TFlex_QualityManagement.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

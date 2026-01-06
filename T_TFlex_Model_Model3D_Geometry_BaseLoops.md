@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseLoops - класс  
-  
----  
-  
+    
 Множество циклов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryBaseLoops [TFlex.Model.Model3D.GeometryLoops](T_TFlex_Model_Model3D_Geometry_Loops.md) [TFlex.Model.Model3D.GeometryModelLoops](T_TFlex_Model_Model3D_Geometry_ModelLoops.md)

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntersectionNode3D - класс  
-  
----  
-  
+    
 Узел на пересечении элементов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DConstruction3D](T_TFlex_Model_Model3D_Construction3D.md) [TFlex.Model.Model3DNode3D](T_TFlex_Model_Model3D_Node3D.md) TFlex.Model.Model3DIntersectionNode3D

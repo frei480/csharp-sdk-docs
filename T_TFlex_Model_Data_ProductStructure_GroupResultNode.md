@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GroupResultNode - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Data.ProductStructureContainerResultNode](T_TFlex_Model_Data_ProductStructure_ContainerResultNode.md) TFlex.Model.Data.ProductStructureGroupResultNode
 
 **Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

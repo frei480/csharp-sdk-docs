@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentCopyObjects - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CopyObjects(ListModelObject, CopyObjectsOptions)](M_TFlex_Model_Document_CopyObjects.md) |  |

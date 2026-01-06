@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceBlendingBlendAttribute - класс  
-  
----  
-  
+    
 Абстрактный класс используемый для задания свойств сглаживания
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DFaceBlendingBlendAttribute [TFlex.Model.Model3DFaceBlendingContinuousRadiusAttribute](T_TFlex_Model_Model3D_FaceBlending_ContinuousRadiusAttribute.md) [TFlex.Model.Model3DFaceBlendingContinuousWidthAttribute](T_TFlex_Model_Model3D_FaceBlending_ContinuousWidthAttribute.md) [TFlex.Model.Model3DFaceBlendingVariableRadiusAttribute](T_TFlex_Model_Model3D_FaceBlending_VariableRadiusAttribute.md)

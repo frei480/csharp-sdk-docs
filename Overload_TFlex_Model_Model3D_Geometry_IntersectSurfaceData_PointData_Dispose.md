@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntersectSurfaceDataPointDataDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Geometry_IntersectSurfaceData_PointData_Dispose.md) | Выполняет определяемые приложением задачи, связанные с удалением, высвобождением или сбросом неуправляемых ресурсов |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3DGeomReference - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Object3DGeomReference(ModelAxis)](M_TFlex_Model_Model3D_Object3D_GeomReference__ctor.md) | Конструктор ссылки на модельную ось |

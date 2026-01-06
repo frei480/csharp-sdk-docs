@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationGroupContainer - методы  
-  
----  
-  
+    
 Тип [TransformationGroupContainer](T_TFlex_Model_Model3D_TransformationGroupContainer.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

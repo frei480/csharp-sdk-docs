@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConstructionContourSegment - методы  
-  
----  
-  
+    
 Тип [ConstructionContourSegment](T_TFlex_Model_Model2D_ConstructionContourSegment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

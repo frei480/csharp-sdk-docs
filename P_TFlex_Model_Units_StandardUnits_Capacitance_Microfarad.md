@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCapacitanceMicrofarad - свойство  
-  
----  
-  
+    
 Микрофарад; мкФ; µF; 
 
 Тип - Электроёмкость

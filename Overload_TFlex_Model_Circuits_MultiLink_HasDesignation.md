@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MultiLinkHasDesignation - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [HasDesignation(DesignationType)](M_TFlex_Model_Circuits_MultiLink_HasDesignation.md) |  |

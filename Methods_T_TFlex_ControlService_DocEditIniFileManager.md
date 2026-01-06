@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocEditIniFileManager - методы  
-  
----  
-  
+    
 Тип [DocEditIniFileManager](T_TFlex_ControlService_DocEditIniFileManager.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

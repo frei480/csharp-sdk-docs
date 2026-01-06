@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ItemsCollection - свойства  
-  
----  
-  
+    
 Тип [Model3DObjectGroupItemsCollection](T_TFlex_Model_Model3D_Model3DObjectGroup_ItemsCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

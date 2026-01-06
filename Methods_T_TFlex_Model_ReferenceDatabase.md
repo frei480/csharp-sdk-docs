@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReferenceDatabase - методы  
-  
----  
-  
+    
 Тип [ReferenceDatabase](T_TFlex_Model_ReferenceDatabase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

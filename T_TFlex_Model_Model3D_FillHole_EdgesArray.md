@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FillHoleEdgesArray - класс  
-  
----  
-  
+    
 Массив рёбер заполнения отверстий
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DFillHoleEdgesArray

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TorqueActuator - методы  
-  
----  
-  
+    
 Тип [TorqueActuator](T_TFlex_Model_Model3D_TorqueActuator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

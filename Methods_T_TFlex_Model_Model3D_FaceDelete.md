@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceDelete - методы  
-  
----  
-  
+    
 Тип [FaceDelete](T_TFlex_Model_Model3D_FaceDelete.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

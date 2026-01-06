@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextSetCursor - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetCursor(PositionProperties)](M_TFlex_Model_Model2D_RichText_SetCursor.md) | Установка положения курсора в тексте |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsForcePoundForce - свойство  
-  
----  
-  
+    
 Фунт-сила; фунт-сила; lbf; 
 
 Тип - Сила

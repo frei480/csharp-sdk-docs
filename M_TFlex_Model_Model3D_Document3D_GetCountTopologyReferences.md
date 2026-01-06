@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Document3DGetCountTopologyReferences - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Количество топологических ссылок

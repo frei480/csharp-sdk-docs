@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConditionalGroupingRule - свойства  
-  
----  
-  
+    
 Тип [ConditionalGroupingRule](T_TFlex_Model_Data_ProductStructure_ConditionalGroupingRule.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectGroupFindItem - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FindItem(ModelObject)](M_TFlex_Model_ModelObjectGroup_FindItem.md) | Найти элемент группы - объект модели |

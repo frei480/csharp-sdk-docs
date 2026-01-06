@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Link - методы  
-  
----  
-  
+    
 Тип [Link](T_TFlex_Model_Circuits_Link.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

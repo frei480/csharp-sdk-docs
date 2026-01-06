@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFrom3dCommonConfigurationLoad - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Load(String)](M_TFlex_Model_ImportFrom3dCommon_Configuration_Load.md) |  |

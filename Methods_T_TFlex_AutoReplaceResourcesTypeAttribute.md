@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AutoReplaceResourcesTypeAttribute - методы  
-  
----  
-  
+    
 Тип [AutoReplaceResourcesTypeAttribute](T_TFlex_AutoReplaceResourcesTypeAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

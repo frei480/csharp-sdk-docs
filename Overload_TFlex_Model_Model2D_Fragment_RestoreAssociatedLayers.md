@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentRestoreAssociatedLayers - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RestoreAssociatedLayers](M_TFlex_Model_Model2D_Fragment_RestoreAssociatedLayers.md) | Восстанавливаем видимость слоев, связанных с вектором привязки |

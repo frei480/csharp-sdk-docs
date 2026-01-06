@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MethodCallContext - свойства  
-  
----  
-  
+    
 Тип [MethodCallContext](T_TFlex_Model_Structure_MethodCallContext.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentGetVariables - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetVariables](M_TFlex_Model_Model2D_Fragment_GetVariables.md) | Контейнер переменных фрагмента |

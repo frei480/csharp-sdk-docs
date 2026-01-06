@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Path2DPath - методы  
-  
----  
-  
+    
 Тип [Path2DPath](T_TFlex_Model_Model3D_Path2DPath.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

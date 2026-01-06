@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertiesWindowForm - класс  
-  
----  
-  
+    
 Класс вкладки служебного окна
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.CommandPropertiesWindowFormBase](T_TFlex_Command_PropertiesWindowFormBase.md) TFlex.CommandPropertiesWindowForm [TFlex.CommandFragmentPropertiesWindowForm](T_TFlex_Command_FragmentPropertiesWindowForm.md) [TFlex.CommandObject3dTransformationForm](T_TFlex_Command_Object3dTransformationForm.md)

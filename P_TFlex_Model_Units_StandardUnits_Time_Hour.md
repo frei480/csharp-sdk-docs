@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTimeHour - свойство  
-  
----  
-  
+    
 Час; ч; h; 
 
 Тип - Время

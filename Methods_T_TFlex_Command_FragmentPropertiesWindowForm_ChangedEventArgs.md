@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ChangedEventArgs - методы  
-  
----  
-  
+    
 Тип [FragmentPropertiesWindowFormChangedEventArgs](T_TFlex_Command_FragmentPropertiesWindowForm_ChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

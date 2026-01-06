@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GraphicsSetEraseMode - метод  
-  
----  
-  
+    
 Установка режима очистки фона
 
 **Пространство имён:** [TFlex.Drawing](N_TFlex_Drawing.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

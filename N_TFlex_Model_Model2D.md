@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Model.Model2D - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [AggregateMultilineTextExtension](T_TFlex_Model_Model2D_AggregateMultilineTextExtension.md) |  |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplineDataControlPoints - класс  
-  
----  
-  
+    
 Класс представляет упорядоченное множество контрольных точек - координат точки и вес, если используется
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySplineDataControlPoints

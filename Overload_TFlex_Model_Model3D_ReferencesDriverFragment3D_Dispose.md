@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReferencesDriverFragment3DDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_ReferencesDriverFragment3D_Dispose.md) | Освобождает все ресурсы, используемые объектом [ReferencesDriverFragment3D](T_TFlex_Model_Model3D_ReferencesDriverFragment3D.md) |

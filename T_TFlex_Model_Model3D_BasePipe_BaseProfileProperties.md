@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BasePipeBaseProfileProperties - класс  
-  
----  
-  
+    
 Базовый класс свойств трубопровода
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DBasePipeBaseProfileProperties [TFlex.Model.Model3DPipeCircleProfileProperties](T_TFlex_Model_Model3D_Pipe_CircleProfileProperties.md) [TFlex.Model.Model3DRectanglePipeRectangleProfileProperties](T_TFlex_Model_Model3D_RectanglePipe_RectangleProfileProperties.md)

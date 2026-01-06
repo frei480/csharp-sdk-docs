@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VerticesArray - класс  
-  
----  
-  
+    
 Множество модельных вершин
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DTopolArray](T_TFlex_Model_Model3D_TopolArray.md) TFlex.Model.Model3DVerticesArray

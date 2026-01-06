@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Param - класс  
-  
----  
-  
+    
 Информация о параметризации
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryParam

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReportGenerationContext - методы  
-  
----  
-  
+    
 Тип [ReportGenerationContext](T_TFlex_Model_Data_ProductStructure_ReportGenerationContext.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UnitsManager - методы  
-  
----  
-  
+    
 Тип [UnitsManager](T_TFlex_Model_Units_UnitsManager.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

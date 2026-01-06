@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginAlterColorButtonPressedHandler - метод  
-  
----  
-  
+    
 Обработчик события, при нажатии кнопки альтернативного выбора цвета
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

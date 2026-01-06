@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationGroup - свойства  
-  
----  
-  
+    
 Тип [TransformationGroup](T_TFlex_Model_Model3D_TransformationGroup.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

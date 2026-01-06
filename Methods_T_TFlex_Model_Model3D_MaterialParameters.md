@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialParameters - методы  
-  
----  
-  
+    
 Тип [MaterialParameters](T_TFlex_Model_Model3D_MaterialParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

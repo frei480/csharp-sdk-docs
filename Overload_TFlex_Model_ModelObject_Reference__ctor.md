@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectReference - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ModelObjectReference(ModelObject)](M_TFlex_Model_ModelObject_Reference__ctor_1.md) | Конструктор ссылки по ключу |

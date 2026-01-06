@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Parametric - свойства  
-  
----  
-  
+    
 Тип [Parametric](T_TFlex_Model_Model3D_Parametric.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

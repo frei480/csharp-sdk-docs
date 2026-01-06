@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertiesWindowFormBaseExpanded - свойство  
-  
----  
-  
+    
 Свойство отображения вкладки служебного окна свойств (развернуто или свернуто)
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

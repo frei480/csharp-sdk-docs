@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BasePipeRemoveCuttingItem - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RemoveCuttingItem(Int32)](M_TFlex_Model_Model3D_BasePipe_RemoveCuttingItem.md) | Удаляет операцию "врезки" по индексу |

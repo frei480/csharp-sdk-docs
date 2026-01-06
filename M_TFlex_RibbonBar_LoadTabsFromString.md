@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonBarLoadTabsFromString - метод  
-  
----  
-  
+    
 Загружает вкладки из указанной строки в формате XML и добавляет их в ленту каждого из открытых главных окон T-FLEX CAD
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

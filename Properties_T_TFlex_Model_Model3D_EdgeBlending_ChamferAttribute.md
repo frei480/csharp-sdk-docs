@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ChamferAttribute - свойства  
-  
----  
-  
+    
 Тип [EdgeBlendingChamferAttribute](T_TFlex_Model_Model3D_EdgeBlending_ChamferAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

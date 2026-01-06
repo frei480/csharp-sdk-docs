@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTimeDay - свойство  
-  
----  
-  
+    
 День; дн; d; 
 
 Тип - Время

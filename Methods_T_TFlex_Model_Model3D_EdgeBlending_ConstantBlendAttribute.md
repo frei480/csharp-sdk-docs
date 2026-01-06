@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConstantBlendAttribute - методы  
-  
----  
-  
+    
 Тип [EdgeBlendingConstantBlendAttribute](T_TFlex_Model_Model3D_EdgeBlending_ConstantBlendAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

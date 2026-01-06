@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TableGraphLaw - свойства  
-  
----  
-  
+    
 Тип [TableGraphLaw](T_TFlex_Model_Model2D_TableGraphLaw.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

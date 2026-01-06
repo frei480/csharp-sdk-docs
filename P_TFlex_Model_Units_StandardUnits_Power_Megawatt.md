@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPowerMegawatt - свойство  
-  
----  
-  
+    
 Мегаватт; МВт; MW; 
 
 Тип - Мощность

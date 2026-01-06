@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichText - свойства  
-  
----  
-  
+    
 Тип [RichText](T_TFlex_Model_Model2D_RichText.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

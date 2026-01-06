@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelFaceGeometryDataDirection - свойство  
-  
----  
-  
+    
 В большинстве случаев грань имеет не более одного направления. Выбрать любое возможное направление
 
 **Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

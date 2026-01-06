@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseSurfaceParameterize2 - метод  
-  
----  
-  
+    
 Вычислить параметры на поверхности, для точки, лежащей около нее
 
 **Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

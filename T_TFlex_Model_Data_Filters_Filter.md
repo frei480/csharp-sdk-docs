@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Filter - класс  
-  
----  
-  
+    
 Фильтр
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Data.FiltersFilter

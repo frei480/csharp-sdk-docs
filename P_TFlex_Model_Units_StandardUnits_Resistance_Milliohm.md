@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsResistanceMilliohm - свойство  
-  
----  
-  
+    
 Миллиом; мОм; mΩ; 
 
 Тип - Сопротивление

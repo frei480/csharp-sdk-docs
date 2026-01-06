@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AngleCommitedEventArgs - методы  
-  
----  
-  
+    
 Тип [RotationManipulatorAngleCommitedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_RotationManipulator_AngleCommitedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

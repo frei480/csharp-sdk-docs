@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToSTL - методы  
-  
----  
-  
+    
 Тип [ExportToSTL](T_TFlex_Model_ExportToSTL.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

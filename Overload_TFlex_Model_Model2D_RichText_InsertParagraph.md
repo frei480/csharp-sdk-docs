@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextInsertParagraph - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [InsertParagraph](M_TFlex_Model_Model2D_RichText_InsertParagraph.md) | Вставка абзаца |

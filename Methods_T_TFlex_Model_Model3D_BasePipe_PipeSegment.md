@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipeSegment - методы  
-  
----  
-  
+    
 Тип [BasePipePipeSegment](T_TFlex_Model_Model3D_BasePipe_PipeSegment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

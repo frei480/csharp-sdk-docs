@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseCurve - свойства  
-  
----  
-  
+    
 Тип [BaseCurve](T_TFlex_Model_Model3D_Geometry_BaseCurve.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

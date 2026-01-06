@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MultiLinkRemoveDesignation - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RemoveDesignation(DesignationType)](M_TFlex_Model_Circuits_MultiLink_RemoveDesignation.md) |  |

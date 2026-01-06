@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeomReference - свойства  
-  
----  
-  
+    
 Тип [Object3DGeomReference](T_TFlex_Model_Model3D_Object3D_GeomReference.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

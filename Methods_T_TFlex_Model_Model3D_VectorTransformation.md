@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VectorTransformation - методы  
-  
----  
-  
+    
 Тип [VectorTransformation](T_TFlex_Model_Model3D_VectorTransformation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FilterOwnerExtensions - методы  
-  
----  
-  
+    
 Тип [FilterOwnerExtensions](T_TFlex_Command_FilterOwnerExtensions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsBreakingStrengthKilogramForcePerSquareCentimeter - свойство  
-  
----  
-  
+    
 КГС на квадратный сантиметр; кгс/см²; kgf/cm²; 
 
 Тип - Прочность на разрыв

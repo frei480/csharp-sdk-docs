@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentSave - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Save](M_TFlex_Model_Document_Save.md) | Сохранить документ |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentPropertiesWindowFormChangedEventArgs - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) TFlex.CommandFragmentPropertiesWindowFormChangedEventArgs
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

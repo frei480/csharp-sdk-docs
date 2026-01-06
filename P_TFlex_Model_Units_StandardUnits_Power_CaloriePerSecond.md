@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPowerCaloriePerSecond - свойство  
-  
----  
-  
+    
 Калория в секунду; кал/с; cal/s; 
 
 Тип - Мощность

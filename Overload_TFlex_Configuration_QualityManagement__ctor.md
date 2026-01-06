@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # QualityManagement - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [QualityManagement](M_TFlex_Configuration_QualityManagement__ctor.md) | Инициализирует новый экземпляр класса [QualityManagement](T_TFlex_Configuration_QualityManagement.md) |

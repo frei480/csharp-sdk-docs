@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowDescriptorInfo - методы  
-  
----  
-  
+    
 Тип [ProductStructureUpdatingEventArgsRowDescriptorInfo](T_TFlex_ProductStructureUpdatingEventArgs_RowDescriptorInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

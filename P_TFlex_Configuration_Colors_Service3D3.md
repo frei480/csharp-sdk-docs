@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ColorsService3D3 - свойство  
-  
----  
-**Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
 
 ```csharp
 public int Service3D3 { get; set; }

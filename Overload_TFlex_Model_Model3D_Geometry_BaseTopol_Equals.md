@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseTopolEquals - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Equals(BaseTopol)](M_TFlex_Model_Model3D_Geometry_BaseTopol_Equals.md) |  |

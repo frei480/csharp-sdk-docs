@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseEventArgs - класс  
-  
----  
-  
+    
 Базовый класс для событий элементов управления
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) TFlex.DialogsBaseEventArgs Подробнее

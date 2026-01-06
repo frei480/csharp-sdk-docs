@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InsertVariableDialog - класс  
-  
----  
-  
+    
 Класс "Диалог вставки переменной"
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model2DInsertVariableDialog

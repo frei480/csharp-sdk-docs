@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectsMeasuredEventArgs - свойства  
-  
----  
-  
+    
 Тип [ObjectsMeasuredEventArgs](T_TFlex_ObjectsMeasuredEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

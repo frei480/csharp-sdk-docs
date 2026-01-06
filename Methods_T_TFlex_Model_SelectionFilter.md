@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectionFilter - методы  
-  
----  
-  
+    
 Тип [SelectionFilter](T_TFlex_Model_SelectionFilter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

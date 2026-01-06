@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginPlaneChangedEventHandler - метод  
-  
----  
-  
+    
 Обработчик события, возникающего при перемещении рабочей плоскости на линейке
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

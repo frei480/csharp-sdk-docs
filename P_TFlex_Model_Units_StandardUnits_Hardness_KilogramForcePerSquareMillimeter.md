@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHardnessKilogramForcePerSquareMillimeter - свойство  
-  
----  
-  
+    
 Килограмм-сила на квадратный миллиметр; кгс/мм²; kgf/mm²; 
 
 Тип - Твёрдость

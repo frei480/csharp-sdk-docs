@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMassCentner - свойство  
-  
----  
-  
+    
 Центнер; ц; q; 
 
 Тип - Масса

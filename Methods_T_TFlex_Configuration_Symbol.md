@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Symbol - методы  
-  
----  
-  
+    
 Тип [Symbol](T_TFlex_Configuration_Symbol.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

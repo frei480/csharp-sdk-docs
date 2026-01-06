@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentRunMacro(String, Object) - метод  
-  
----  
-  
+    
 Выполнить макрос с заданным именем и передать в него параметры
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

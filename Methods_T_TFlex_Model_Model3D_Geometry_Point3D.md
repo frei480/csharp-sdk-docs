@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Point3D - методы  
-  
----  
-  
+    
 Тип [Point3D](T_TFlex_Model_Model3D_Geometry_Point3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FacesArray - свойства  
-  
----  
-  
+    
 Тип [FacesArray](T_TFlex_Model_Model3D_FacesArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

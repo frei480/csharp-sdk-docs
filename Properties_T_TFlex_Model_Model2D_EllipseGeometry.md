@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EllipseGeometry - свойства  
-  
----  
-  
+    
 Тип [EllipseGeometry](T_TFlex_Model_Model2D_EllipseGeometry.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

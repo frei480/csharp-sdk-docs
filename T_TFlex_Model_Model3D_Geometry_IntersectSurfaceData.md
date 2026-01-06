@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntersectSurfaceData - класс  
-  
----  
-  
+    
 Класс для хранения результатов пересечения двух поверхностей
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryIntersectSurfaceData

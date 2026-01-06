@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunResultEntryObjectIdsCollectionGetModelObjects - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetModelObjects(Document)](M_TFlex_QualityManagement_RunResultEntry_ObjectIdsCollection_GetModelObjects.md) | Получить перечисление добавленных объектов |

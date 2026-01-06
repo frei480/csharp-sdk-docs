@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseCurve - класс  
-  
----  
-  
+    
 Базовый класс для кривых
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) TFlex.Model.Model3D.GeometryBaseCurve [TFlex.Model.Model3D.GeometryCurve](T_TFlex_Model_Model3D_Geometry_Curve.md) [TFlex.Model.Model3D.GeometryModelCurve](T_TFlex_Model_Model3D_Geometry_ModelCurve.md)

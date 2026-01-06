@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Profile - свойства  
-  
----  
-  
+    
 Тип [Profile](T_TFlex_Model_Model3D_Profile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

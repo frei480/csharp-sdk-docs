@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseBodyConvertToRGK - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ConvertToRGK(Document, IntPtr)](M_TFlex_Model_Model3D_Geometry_BaseBody_ConvertToRGK.md) | Конвертировать тело Parasolid в тело RGK |

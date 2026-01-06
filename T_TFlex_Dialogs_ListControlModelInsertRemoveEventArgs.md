@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlModelInsertRemoveEventArgs - класс  
-  
----  
-  
+    
 Класс аргументов событий добавления/удаления строк и стоблцов в ListControlModel
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) TFlex.DialogsListControlModelInsertRemoveEventArgs

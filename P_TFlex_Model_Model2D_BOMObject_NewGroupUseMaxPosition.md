@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BOMObjectNewGroupUseMaxPosition - свойство  
-  
----  
-  
+    
 Начинать нумерацию в разделе после максимального значения в предыдущем разделе
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

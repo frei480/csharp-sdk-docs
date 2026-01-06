@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PositionResultNode - методы  
-  
----  
-  
+    
 Тип [PositionResultNode](T_TFlex_Model_Data_ProductStructure_PositionResultNode.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

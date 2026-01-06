@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AmountOfSubstance - методы  
-  
----  
-  
+    
 Тип [StandardUnitsAmountOfSubstance](T_TFlex_Model_Units_StandardUnits_AmountOfSubstance.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

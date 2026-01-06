@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RelationPointElement - класс  
-  
----  
-  
+    
 Элемент, относительно которого или на котором ищется ближайшая точка
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DRelationPointElement

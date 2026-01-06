@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointOnPath - свойства  
-  
----  
-  
+    
 Тип [PipePath3DPointOnPath](T_TFlex_Model_Model3D_PipePath3D_PointOnPath.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

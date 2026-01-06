@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Geometry - класс  
-  
----  
-  
+    
 Базовый класс для геометрических данных объектов 3D модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryGeometry Подробнее

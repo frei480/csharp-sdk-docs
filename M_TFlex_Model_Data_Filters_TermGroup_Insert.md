@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TermGroupInsert - метод  
-  
----  
-  
+    
 Добавляет в текущую группу условий указанный элемент по заданному индексу
 
 **Пространство имён:** [TFlex.Model.Data.Filters](N_TFlex_Model_Data_Filters.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)

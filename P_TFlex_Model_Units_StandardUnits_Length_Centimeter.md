@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLengthCentimeter - свойство  
-  
----  
-  
+    
 Сантиметр; см; cm; 
 
 Тип - Длина

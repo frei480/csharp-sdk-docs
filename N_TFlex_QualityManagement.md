@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.QualityManagement - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [ActionInfo](T_TFlex_QualityManagement_ActionInfo.md) | Информация о действии |

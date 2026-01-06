@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Documents - класс  
-  
----  
-  
+    
 Перечислитель документов T-FLEX CAD
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexDocuments

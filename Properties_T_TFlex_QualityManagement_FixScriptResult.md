@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixScriptResult - свойства  
-  
----  
-  
+    
 Тип [FixScriptResult](T_TFlex_QualityManagement_FixScriptResult.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

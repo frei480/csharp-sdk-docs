@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MenuAppendSystemCommand - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AppendSystemCommand(Int32)](M_TFlex_Menu_AppendSystemCommand.md) | Добавить пункт меню |

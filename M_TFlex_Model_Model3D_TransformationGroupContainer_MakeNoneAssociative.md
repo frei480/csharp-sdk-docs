@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationGroupContainerMakeNoneAssociative - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Заменить все преобразования одним неассоциативным преобразованием

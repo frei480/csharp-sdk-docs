@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TwoPointCircleOutline - методы  
-  
----  
-  
+    
 Тип [TwoPointCircleOutline](T_TFlex_Model_Model2D_TwoPointCircleOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

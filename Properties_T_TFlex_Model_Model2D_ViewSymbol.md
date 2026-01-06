@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ViewSymbol - свойства  
-  
----  
-  
+    
 Тип [ViewSymbol](T_TFlex_Model_Model2D_ViewSymbol.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

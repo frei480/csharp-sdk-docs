@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationContainer - класс  
-  
----  
-  
+    
 Контейнер преобразований 3D элемента
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DTransformationContainer

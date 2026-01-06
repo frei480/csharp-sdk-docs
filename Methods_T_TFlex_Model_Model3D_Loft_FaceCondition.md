@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceCondition - методы  
-  
----  
-  
+    
 Тип [LoftFaceCondition](T_TFlex_Model_Model3D_Loft_FaceCondition.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

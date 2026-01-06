@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Model.Circuits - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [Bus](T_TFlex_Model_Circuits_Bus.md) | Объект "Линия связи с разрывом" |

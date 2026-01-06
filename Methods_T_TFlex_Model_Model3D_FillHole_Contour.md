@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Contour - методы  
-  
----  
-  
+    
 Тип [FillHoleContour](T_TFlex_Model_Model3D_FillHole_Contour.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

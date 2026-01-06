@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplinewiseDataPositions - класс  
-  
----  
-  
+    
 Упорядоченное множество интерполяционных точек - координаты точки и параметр, если используется
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySplinewiseDataPositions

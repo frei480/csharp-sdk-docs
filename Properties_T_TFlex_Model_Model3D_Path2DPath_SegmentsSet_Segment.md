@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Segment - свойства  
-  
----  
-  
+    
 Тип [Path2DPathSegmentsSetSegment](T_TFlex_Model_Model3D_Path2DPath_SegmentsSet_Segment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunResultEntry - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RunResultEntry](M_TFlex_QualityManagement_RunResultEntry__ctor.md) | Инициализирует новый экземпляр класса [RunResultEntry](T_TFlex_QualityManagement_RunResultEntry.md) |

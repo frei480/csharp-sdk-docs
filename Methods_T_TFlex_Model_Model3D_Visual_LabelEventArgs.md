@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LabelEventArgs - методы  
-  
----  
-  
+    
 Тип [LabelEventArgs](T_TFlex_Model_Model3D_Visual_LabelEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

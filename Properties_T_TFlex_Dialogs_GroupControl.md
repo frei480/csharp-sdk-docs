@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GroupControl - свойства  
-  
----  
-  
+    
 Тип [GroupControl](T_TFlex_Dialogs_GroupControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

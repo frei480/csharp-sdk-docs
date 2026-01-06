@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntParameter - методы  
-  
----  
-  
+    
 Тип [IntParameter](T_TFlex_Configuration_IntParameter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

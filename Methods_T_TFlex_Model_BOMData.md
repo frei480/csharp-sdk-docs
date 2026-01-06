@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BOMData - методы  
-  
----  
-  
+    
 Тип [BOMData](T_TFlex_Model_BOMData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

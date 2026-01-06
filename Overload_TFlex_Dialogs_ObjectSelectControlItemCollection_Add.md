@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlItemCollectionAdd - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Add(T)](M_TFlex_Dialogs_Collection_1_Add.md) | Добавить элемент в конец коллекции |

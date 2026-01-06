@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAdditionalStiffnessOnEdge - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Дополнительная жёсткость на ребро
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsAdditionalStiffnessOnEdge

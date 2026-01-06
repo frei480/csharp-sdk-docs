@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SpunData - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SpunData](M_TFlex_Model_Model3D_Geometry_SpunData__ctor.md) | Конструктор по умолчанию |

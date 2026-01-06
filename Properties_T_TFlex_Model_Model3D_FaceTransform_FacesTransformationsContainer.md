@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FacesTransformationsContainer - свойства  
-  
----  
-  
+    
 Тип [FaceTransformFacesTransformationsContainer](T_TFlex_Model_Model3D_FaceTransform_FacesTransformationsContainer.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

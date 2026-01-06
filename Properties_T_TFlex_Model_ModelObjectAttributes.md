@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectAttributes - свойства  
-  
----  
-  
+    
 Тип [ModelObjectAttributes](T_TFlex_Model_ModelObjectAttributes.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

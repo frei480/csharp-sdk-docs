@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseCreatePrototypesParameters - свойства  
-  
----  
-  
+    
 Тип [BaseCreatePrototypesParameters](T_TFlex_Model_Structure_BaseCreatePrototypesParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

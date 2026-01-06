@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WorkplaneShowElements2DInView3D - свойство  
-  
----  
-  
+    
 Показать 2D элементы на 3D виде
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

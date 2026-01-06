@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PopupToolBarButtonSetRemove - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Remove(Int32)](M_TFlex_PopupToolBarButtonSet_Remove.md) | Удаляет из этого набора кнопку с указанным идентификатором |

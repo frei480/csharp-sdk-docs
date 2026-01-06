@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IFilteringRule - операторы  
-  
----  
-  
+    
 Тип [IFilteringRule](T_TFlex_Model_Data_ProductStructure_IFilteringRule.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

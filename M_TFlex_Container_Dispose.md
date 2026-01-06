@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ContainerDispose - метод  
-  
----  
-  
+    
 Освобождает все ресурсы, используемые объектом [Container](T_TFlex_Container.md)
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

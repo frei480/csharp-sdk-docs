@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Direction - свойства  
-  
----  
-  
+    
 Тип [Direction](T_TFlex_Model_Model3D_Geometry_Direction.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

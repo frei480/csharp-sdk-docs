@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Hardness - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsHardness](T_TFlex_Model_Units_StandardUnits_Hardness.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

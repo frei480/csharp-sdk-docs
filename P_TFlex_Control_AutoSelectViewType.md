@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlAutoSelectViewType - свойство  
-  
----  
-  
+    
 Выбирать тип вида (2D/3D) по умолчанию
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

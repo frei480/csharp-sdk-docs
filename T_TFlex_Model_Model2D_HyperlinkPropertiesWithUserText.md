@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HyperlinkPropertiesWithUserText - класс  
-  
----  
-  
+    
 Базовый класс параметров гиперссылки с пользовательским текстом
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model2DHyperlinkProperties](T_TFlex_Model_Model2D_HyperlinkProperties.md) TFlex.Model.Model2DHyperlinkPropertiesWithUserText Подробнее

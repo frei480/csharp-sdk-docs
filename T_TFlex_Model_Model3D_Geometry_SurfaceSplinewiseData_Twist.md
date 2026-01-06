@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfaceSplinewiseDataTwist - класс  
-  
----  
-  
+    
 Класс для задания закона кручения на концах
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySurfaceSplinewiseDataTwist

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogDebug - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Debug(String)](M_TFlex_Log_Debug.md) |  |

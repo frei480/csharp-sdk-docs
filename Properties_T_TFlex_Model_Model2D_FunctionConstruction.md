@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FunctionConstruction - свойства  
-  
----  
-  
+    
 Тип [FunctionConstruction](T_TFlex_Model_Model2D_FunctionConstruction.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

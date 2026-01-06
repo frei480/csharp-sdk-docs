@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RelationPoint - методы  
-  
----  
-  
+    
 Тип [RelationPoint](T_TFlex_Model_Model3D_RelationPoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

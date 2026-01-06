@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControl - события  
-  
----  
-  
+    
 Тип [ListControl](T_TFlex_Dialogs_ListControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

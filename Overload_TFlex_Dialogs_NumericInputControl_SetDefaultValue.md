@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NumericInputControlSetDefaultValue - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetDefaultValue(Double)](M_TFlex_Dialogs_NumericInputControl_SetDefaultValue.md) | Устанавливает значение по умолчанию |

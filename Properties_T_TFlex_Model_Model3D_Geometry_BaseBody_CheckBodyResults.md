@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CheckBodyResults - свойства  
-  
----  
-  
+    
 Тип [BaseBodyCheckBodyResults](T_TFlex_Model_Model3D_Geometry_BaseBody_CheckBodyResults.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

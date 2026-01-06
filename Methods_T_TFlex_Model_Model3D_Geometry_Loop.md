@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Loop - методы  
-  
----  
-  
+    
 Тип [Loop](T_TFlex_Model_Model3D_Geometry_Loop.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

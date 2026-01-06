@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ShowingFullRegenerationDialogEventArgs - свойства  
-  
----  
-  
+    
 Тип [ShowingFullRegenerationDialogEventArgs](T_TFlex_ShowingFullRegenerationDialogEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

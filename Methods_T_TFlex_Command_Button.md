@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Button - методы  
-  
----  
-  
+    
 Тип [Button](T_TFlex_Command_Button.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

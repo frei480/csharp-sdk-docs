@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ManipulatorException - класс  
-  
----  
-  
+    
 XXX
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemException](https://learn.microsoft.com/dotnet/api/system.exception) TFlex.Model.Model3D.Visual.ManipulatorsManipulatorException [TFlex.Model.Model3D.Visual.ManipulatorsManipulatorDisposedException](T_TFlex_Model_Model3D_Visual_Manipulators_ManipulatorDisposedException.md) [TFlex.Model.Model3D.Visual.ManipulatorsManipulatorInvalidStateException](T_TFlex_Model_Model3D_Visual_Manipulators_ManipulatorInvalidStateException.md)

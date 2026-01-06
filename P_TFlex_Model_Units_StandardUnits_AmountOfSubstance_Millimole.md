@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAmountOfSubstanceMillimole - свойство  
-  
----  
-  
+    
 Миллимоль; ммоль; mmol; 
 
 Тип - Количество вещества

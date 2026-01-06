@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommonAttribute - события  
-  
----  
-  
+    
 Тип [CommonAttribute](T_TFlex_Model_Data_ProductStructure_CommonAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

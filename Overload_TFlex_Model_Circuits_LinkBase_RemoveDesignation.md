@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkBaseRemoveDesignation - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RemoveDesignation(DesignationType)](M_TFlex_Model_Circuits_LinkBase_RemoveDesignation.md) |  |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircleContourSegment - методы  
-  
----  
-  
+    
 Тип [CircleContourSegment](T_TFlex_Model_Model2D_CircleContourSegment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

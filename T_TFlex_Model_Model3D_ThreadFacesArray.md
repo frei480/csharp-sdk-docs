@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreadFacesArray - класс  
-  
----  
-  
+    
 Коллекция граней на которые накладывается резьба
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DThreadFacesArray

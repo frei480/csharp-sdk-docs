@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsBreakingStrengthMegapascal - свойство  
-  
----  
-  
+    
 Мегапаскаль; МПа; MPa; 
 
 Тип - Прочность на разрыв

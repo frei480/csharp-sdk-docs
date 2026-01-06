@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControlIsCellEditable - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [IsCellEditable(CellInfo)](M_TFlex_Dialogs_ListControl_IsCellEditable.md) |  |

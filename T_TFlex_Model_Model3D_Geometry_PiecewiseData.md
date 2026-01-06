@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PiecewiseData - класс  
-  
----  
-  
+    
 Класс для задания и определения свойств сплайна по набору сегментов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryPiecewiseData

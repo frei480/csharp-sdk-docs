@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectGeometryDispose(Boolean) - метод  
-  
----  
-  
+    
 Освобождает неуправляемые ресурсы, используемые объектом [ObjectGeometry](T_TFlex_Model_Model2D_ObjectGeometry.md), а при необходимости освобождает также управляемые ресурсы
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

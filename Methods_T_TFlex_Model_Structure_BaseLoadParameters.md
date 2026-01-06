@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseLoadParameters - методы  
-  
----  
-  
+    
 Тип [BaseLoadParameters](T_TFlex_Model_Structure_BaseLoadParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

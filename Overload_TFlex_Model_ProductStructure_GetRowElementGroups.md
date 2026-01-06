@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureGetRowElementGroups - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetRowElementGroups](M_TFlex_Model_ProductStructure_GetRowElementGroups.md) | Получить группы элементов структуры изделия |

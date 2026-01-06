@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngularAccelerationRadiansPerSquareSecond - свойство  
-  
----  
-  
+    
 Радиан на секунду в квадрате; рад/с²; rad/s²; 
 
 Тип - Угловое ускорение

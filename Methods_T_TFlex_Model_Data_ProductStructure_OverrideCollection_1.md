@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OverrideCollectionT \- методы  
-  
----  
-  
+    
 Тип [OverrideCollectionT](T_TFlex_Model_Data_ProductStructure_OverrideCollection_1.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

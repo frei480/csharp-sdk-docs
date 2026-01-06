@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorqueKilogramForceCentimeter - свойство  
-  
----  
-  
+    
 Килограмм-сила сантиметр; кгс·см; kgf·cm; 
 
 Тип - Момент силы

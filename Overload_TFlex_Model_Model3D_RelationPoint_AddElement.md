@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RelationPointAddElement - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddElement(ModelTopol)](M_TFlex_Model_Model3D_RelationPoint_AddElement.md) | Добавить элемент |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3dTransformationForm(Object3D, Boolean) - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [Object3dTransformationForm](T_TFlex_Command_Object3dTransformationForm.md)
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

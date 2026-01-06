@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IconCreateByImagePath(String, String) - метод  
-  
----  
-  
+    
 Создать объект Icon по пути к изображению
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

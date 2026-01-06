@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToOBJ - свойства  
-  
----  
-  
+    
 Тип [ExportToOBJ](T_TFlex_Model_ExportToOBJ.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

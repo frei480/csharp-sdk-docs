@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PageProperties - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [PageProperties](M_TFlex_Configuration_PageProperties__ctor.md) | Инициализирует новый экземпляр класса [PageProperties](T_TFlex_Configuration_PageProperties.md) |

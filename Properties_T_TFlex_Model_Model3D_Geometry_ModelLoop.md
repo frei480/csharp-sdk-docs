@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelLoop - свойства  
-  
----  
-  
+    
 Тип [ModelLoop](T_TFlex_Model_Model3D_Geometry_ModelLoop.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

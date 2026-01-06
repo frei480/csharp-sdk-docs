@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgeBlendingPositionData - класс  
-  
----  
-  
+    
 Класс используемый для задания данных позиций в переменном сглаживании
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DEdgeBlendingPositionData

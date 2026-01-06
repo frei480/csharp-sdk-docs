@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SweepGeneratorLawDiscreteAssociation - класс  
-  
----  
-  
+    
 Зависимость значения функции от вершины
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySweepGeneratorLawDiscreteAssociation

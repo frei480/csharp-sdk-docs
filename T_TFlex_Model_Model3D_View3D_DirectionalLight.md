@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # View3DDirectionalLight - структура  
-  
----  
-  
+    
 Параметры направленного источника света
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemValueType](https://learn.microsoft.com/dotnet/api/system.valuetype) TFlex.Model.Model3DView3DDirectionalLight

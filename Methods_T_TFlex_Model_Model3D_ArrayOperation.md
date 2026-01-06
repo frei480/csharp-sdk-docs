@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ArrayOperation - методы  
-  
----  
-  
+    
 Тип [ArrayOperation](T_TFlex_Model_Model3D_ArrayOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConvertToRGKResult - методы  
-  
----  
-  
+    
 Тип [BaseCurveConvertToRGKResult](T_TFlex_Model_Model3D_Geometry_BaseCurve_ConvertToRGKResult.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

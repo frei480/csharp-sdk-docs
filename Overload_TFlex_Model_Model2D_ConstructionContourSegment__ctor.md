@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConstructionContourSegment - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ConstructionContourSegment(Contour)](M_TFlex_Model_Model2D_ConstructionContourSegment__ctor.md) | Конструктор, добавляющий сегмент в конец контура |

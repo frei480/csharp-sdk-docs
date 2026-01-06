@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelPoint3D - методы  
-  
----  
-  
+    
 Тип [ModelPoint3D](T_TFlex_Model_Model3D_Geometry_ModelPoint3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

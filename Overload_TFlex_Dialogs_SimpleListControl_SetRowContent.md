@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControlSetRowContent - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetRowContent(Int32, IList)](M_TFlex_Dialogs_SimpleListControl_SetRowContent.md) | Устанавливает содержимое ячеек в строке списка |

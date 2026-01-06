@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DRemoveSegment - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RemoveSegment(PipePath3DBaseSegment)](M_TFlex_Model_Model3D_PipePath3D_RemoveSegment_1.md) | Удалить участок |

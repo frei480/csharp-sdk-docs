@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformContext - методы  
-  
----  
-  
+    
 Тип [ProxyObject2DTransformContext](T_TFlex_Model_Model2D_ProxyObject2D_TransformContext.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

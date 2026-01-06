@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DeletingObjectParentsEventArgs - класс  
-  
----  
-  
+    
 Класс, содержащий данные о событии, происходящем перед удалением объекта модели для получания дополнтиельных зависимых объектов для удаления
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlexPluginEventArgs](T_TFlex_PluginEventArgs.md) [TFlexDocumentEventArgs](T_TFlex_DocumentEventArgs.md) [TFlexObjectEventArgs](T_TFlex_ObjectEventArgs.md) TFlexDeletingObjectParentsEventArgs

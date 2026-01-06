@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectId - операторы и преобразования типов  
-  
----  
-  
+    
 Тип [ObjectId](T_TFlex_Model_ObjectId.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

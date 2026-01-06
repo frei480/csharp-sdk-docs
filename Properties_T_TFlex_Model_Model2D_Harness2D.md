@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Harness2D - свойства  
-  
----  
-  
+    
 Тип [Harness2D](T_TFlex_Model_Model2D_Harness2D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

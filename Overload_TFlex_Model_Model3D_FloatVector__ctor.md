@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FloatVector - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FloatVector(BaseDirection)](M_TFlex_Model_Model3D_FloatVector__ctor_1.md) | Конструктор, берущий координаты с вектора |

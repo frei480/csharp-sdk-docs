@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OpenDocumentOptionsForceNewObject - свойство  
-  
----  
-  
+    
 Создавать новый объект [Document](T_TFlex_Model_Document.md), даже если файл уже открыт
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

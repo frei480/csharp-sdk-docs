@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DPointSplineToPointSetTangent - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Устанавливает касательную в точке

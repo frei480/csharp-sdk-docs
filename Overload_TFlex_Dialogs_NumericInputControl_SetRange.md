@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NumericInputControlSetRange - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetRange(Range)](M_TFlex_Dialogs_NumericInputControl_SetRange_2.md) | Устанавливает диапазон допустимых значений |

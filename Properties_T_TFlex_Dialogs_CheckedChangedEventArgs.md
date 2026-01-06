@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CheckedChangedEventArgs - свойства  
-  
----  
-  
+    
 Тип [CheckedChangedEventArgs](T_TFlex_Dialogs_CheckedChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MenuItem - свойства  
-  
----  
-  
+    
 Тип [MenuItem](T_TFlex_ControlService_MenuItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

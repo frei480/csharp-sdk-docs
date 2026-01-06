@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CollectionT \- свойства  
-  
----  
-  
+    
 Тип [CollectionT](T_TFlex_Dialogs_Collection_1.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

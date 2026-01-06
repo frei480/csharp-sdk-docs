@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Element - методы  
-  
----  
-  
+    
 Тип [RelationPointElement](T_TFlex_Model_Model3D_RelationPoint_Element.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

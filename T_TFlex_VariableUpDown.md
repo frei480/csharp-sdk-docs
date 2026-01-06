@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableUpDown - класс  
-  
----  
-  
+    
 Элемент управления NumericUpDown, позволяющий создавать переменную модели с указанным именем
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemMarshalByRefObject](https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject) [System.ComponentModelComponent](https://learn.microsoft.com/dotnet/api/system.componentmodel.component) [System.Windows.FormsControl](https://learn.microsoft.com/dotnet/api/system.windows.forms.control) [System.Windows.FormsScrollableControl](https://learn.microsoft.com/dotnet/api/system.windows.forms.scrollablecontrol) [System.Windows.FormsContainerControl](https://learn.microsoft.com/dotnet/api/system.windows.forms.containercontrol) [System.Windows.FormsUpDownBase](https://learn.microsoft.com/dotnet/api/system.windows.forms.updownbase) TFlexVariableUpDown

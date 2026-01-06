@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GroupButton - методы  
-  
----  
-  
+    
 Тип [GroupButton](T_TFlex_Command_GroupButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

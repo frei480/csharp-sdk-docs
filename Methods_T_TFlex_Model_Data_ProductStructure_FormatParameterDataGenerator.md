@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FormatParameterDataGenerator - методы  
-  
----  
-  
+    
 Тип [FormatParameterDataGenerator](T_TFlex_Model_Data_ProductStructure_FormatParameterDataGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

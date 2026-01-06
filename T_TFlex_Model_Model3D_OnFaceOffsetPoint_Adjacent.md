@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OnFaceOffsetPointAdjacent - класс  
-  
----  
-  
+    
 Граница
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DOnFaceOffsetPointAdjacent

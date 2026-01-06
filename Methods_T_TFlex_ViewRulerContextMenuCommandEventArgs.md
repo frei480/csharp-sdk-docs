@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ViewRulerContextMenuCommandEventArgs - методы  
-  
----  
-  
+    
 Тип [ViewRulerContextMenuCommandEventArgs](T_TFlex_ViewRulerContextMenuCommandEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

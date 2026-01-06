@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BodyPart - класс  
-  
----  
-  
+    
 Класс тела в структуре модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DBodyPart

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToPDF - свойства  
-  
----  
-  
+    
 Тип [ExportToPDF](T_TFlex_Model_ExportToPDF.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

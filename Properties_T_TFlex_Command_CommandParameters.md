@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommandParameters - свойства  
-  
----  
-  
+    
 Тип [CommandParameters](T_TFlex_Command_CommandParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

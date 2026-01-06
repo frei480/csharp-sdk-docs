@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentProperties - свойства  
-  
----  
-  
+    
 Тип [DocumentProperties](T_TFlex_Model_DocumentProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

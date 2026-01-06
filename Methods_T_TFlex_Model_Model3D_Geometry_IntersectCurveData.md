@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntersectCurveData - методы  
-  
----  
-  
+    
 Тип [IntersectCurveData](T_TFlex_Model_Model3D_Geometry_IntersectCurveData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkCanInsert - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CanInsert(FixingVector)](M_TFlex_Model_Circuits_Link_CanInsert.md) | Проверка, можно ли вставить point в линию |

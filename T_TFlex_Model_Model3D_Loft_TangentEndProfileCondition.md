@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftTangentEndProfileCondition - класс  
-  
----  
-  
+    
 Класс для задания касательного граничного условия для первого или последнего профиля
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DLoftEndProfileCondition](T_TFlex_Model_Model3D_Loft_EndProfileCondition.md) TFlex.Model.Model3DLoftTangentEndProfileCondition

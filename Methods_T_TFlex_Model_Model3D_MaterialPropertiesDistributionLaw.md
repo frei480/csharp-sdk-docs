@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialPropertiesDistributionLaw - методы  
-  
----  
-  
+    
 Тип [MaterialPropertiesDistributionLaw](T_TFlex_Model_Model3D_MaterialPropertiesDistributionLaw.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

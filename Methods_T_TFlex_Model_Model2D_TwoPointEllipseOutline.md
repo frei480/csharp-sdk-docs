@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TwoPointEllipseOutline - методы  
-  
----  
-  
+    
 Тип [TwoPointEllipseOutline](T_TFlex_Model_Model2D_TwoPointEllipseOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

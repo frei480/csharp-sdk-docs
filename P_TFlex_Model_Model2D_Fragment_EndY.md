@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentEndY - свойство  
-  
----  
-  
+    
 Координата Y привязки конечной точки вектора привязки
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MarkManagerDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Visual_MarkManager_Dispose.md) | Освобождает все ресурсы, используемые объектом [MarkManager](T_TFlex_Model_Model3D_Visual_MarkManager.md) |

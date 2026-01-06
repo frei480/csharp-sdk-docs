@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectionNode - методы  
-  
----  
-  
+    
 Тип [ProjectionNode](T_TFlex_Model_Model2D_ProjectionNode.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

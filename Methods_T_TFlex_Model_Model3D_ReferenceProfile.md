@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReferenceProfile - методы  
-  
----  
-  
+    
 Тип [ReferenceProfile](T_TFlex_Model_Model3D_ReferenceProfile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

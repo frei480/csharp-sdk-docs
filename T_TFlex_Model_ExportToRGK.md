@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToRGK - класс  
-  
----  
-  
+    
 Базовый класс экспорта в файл формата RGK
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelExportTo](T_TFlex_Model_ExportTo.md) [TFlex.ModelExportWithApplication](T_TFlex_Model_ExportWithApplication.md) TFlex.ModelExportToRGK

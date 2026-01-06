@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PageGrid - методы  
-  
----  
-  
+    
 Тип [PageGrid](T_TFlex_Configuration_PageGrid.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunResultEntriesCollection - класс  
-  
----  
-  
+    
 Класс коллекции записей результата проверки
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.QualityManagementRunResultEntriesCollection

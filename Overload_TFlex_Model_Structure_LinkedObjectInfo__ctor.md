@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkedObjectInfo - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [LinkedObjectInfo(ModelObject, LinkDescriptor)](M_TFlex_Model_Structure_LinkedObjectInfo__ctor.md) | Инициализирует новый экземпляр класса [LinkedObjectInfo](T_TFlex_Model_Structure_LinkedObjectInfo.md) |

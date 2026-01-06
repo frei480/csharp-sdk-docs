@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectGroup - класс  
-  
----  
-  
+    
 Класс группы объектов модели, вспомогательного объекта документа T-FLEX.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelModelObjectGroup

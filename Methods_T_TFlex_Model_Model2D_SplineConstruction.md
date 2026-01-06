@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplineConstruction - методы  
-  
----  
-  
+    
 Тип [SplineConstruction](T_TFlex_Model_Model2D_SplineConstruction.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

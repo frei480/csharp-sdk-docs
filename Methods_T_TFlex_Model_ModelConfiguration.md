@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelConfiguration - методы  
-  
----  
-  
+    
 Тип [ModelConfiguration](T_TFlex_Model_ModelConfiguration.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

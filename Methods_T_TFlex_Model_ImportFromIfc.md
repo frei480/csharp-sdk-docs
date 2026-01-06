@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFromIfc - методы  
-  
----  
-  
+    
 Тип [ImportFromIfc](T_TFlex_Model_ImportFromIfc.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

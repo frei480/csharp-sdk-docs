@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLengthMeter - свойство  
-  
----  
-  
+    
 Метр; м; m; 
 
 Тип - Длина

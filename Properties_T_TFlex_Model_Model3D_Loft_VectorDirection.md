@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VectorDirection - свойства  
-  
----  
-  
+    
 Тип [LoftVectorDirection](T_TFlex_Model_Model3D_Loft_VectorDirection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

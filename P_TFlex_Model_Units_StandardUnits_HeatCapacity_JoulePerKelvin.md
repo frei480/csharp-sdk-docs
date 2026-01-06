@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatCapacityJoulePerKelvin - свойство  
-  
----  
-  
+    
 Джоуль на Кельвин; Дж/К; J/K; 
 
 Тип - Теплоёмкость

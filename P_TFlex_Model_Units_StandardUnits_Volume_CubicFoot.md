@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVolumeCubicFoot - свойство  
-  
----  
-  
+    
 Кубический фут; фут³; ft³; 
 
 Тип - Объём

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationMatrixMultiply - оператор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Multiply(BaseBody, TransformationMatrix)](M_TFlex_Model_Model3D_Geometry_TransformationMatrix_op_Multiply.md) |  |

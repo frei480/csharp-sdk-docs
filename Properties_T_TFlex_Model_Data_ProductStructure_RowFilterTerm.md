@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowFilterTerm - свойства  
-  
----  
-  
+    
 Тип [RowFilterTerm](T_TFlex_Model_Data_ProductStructure_RowFilterTerm.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

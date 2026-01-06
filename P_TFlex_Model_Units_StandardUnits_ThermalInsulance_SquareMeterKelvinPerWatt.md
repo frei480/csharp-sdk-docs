@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsThermalInsulanceSquareMeterKelvinPerWatt - свойство  
-  
----  
-  
+    
 Квадратный метр Кельвин на Ватт; м²·K/Вт; m²·K/W; 
 
 Тип - Поверхностное тепловое сопротивление

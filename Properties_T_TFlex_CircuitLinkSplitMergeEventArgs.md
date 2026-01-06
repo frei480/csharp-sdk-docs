@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircuitLinkSplitMergeEventArgs - свойства  
-  
----  
-  
+    
 Тип [CircuitLinkSplitMergeEventArgs](T_TFlex_CircuitLinkSplitMergeEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

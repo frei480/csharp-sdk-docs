@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseFaces - класс  
-  
----  
-  
+    
 Множество граней
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryBaseFaces [TFlex.Model.Model3D.GeometryFaces](T_TFlex_Model_Model3D_Geometry_Faces.md) [TFlex.Model.Model3D.GeometryModelFaces](T_TFlex_Model_Model3D_Geometry_ModelFaces.md)

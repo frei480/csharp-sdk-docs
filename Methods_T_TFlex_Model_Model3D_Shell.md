@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Shell - методы  
-  
----  
-  
+    
 Тип [Shell](T_TFlex_Model_Model3D_Shell.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

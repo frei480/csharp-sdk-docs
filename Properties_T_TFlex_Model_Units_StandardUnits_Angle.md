@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Angle - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsAngle](T_TFlex_Model_Units_StandardUnits_Angle.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

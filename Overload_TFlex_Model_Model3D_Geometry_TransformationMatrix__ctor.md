@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationMatrix - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [TransformationMatrix](M_TFlex_Model_Model3D_Geometry_TransformationMatrix__ctor.md) | Конструктор для единичной трансформации |

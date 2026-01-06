@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PageProperties - методы  
-  
----  
-  
+    
 Тип [PageProperties](T_TFlex_Configuration_PageProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

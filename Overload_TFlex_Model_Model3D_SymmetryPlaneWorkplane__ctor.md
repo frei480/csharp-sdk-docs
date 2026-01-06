@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SymmetryPlaneWorkplane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SymmetryPlaneWorkplane(Document)](M_TFlex_Model_Model3D_SymmetryPlaneWorkplane__ctor.md) | Конструктор для создания рабочей плоскости |

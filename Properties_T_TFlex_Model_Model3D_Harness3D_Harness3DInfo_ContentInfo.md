@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ContentInfo - свойства  
-  
----  
-  
+    
 Тип [Harness3DHarness3DInfoContentInfo](T_TFlex_Model_Model3D_Harness3D_Harness3DInfo_ContentInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

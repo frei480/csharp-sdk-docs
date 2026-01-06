@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardColorsNode - свойство  
-  
----  
-  
+    
 Цвет 2D узлов по умолчанию
 
 **Пространство имён:** [TFlex.Drawing](N_TFlex_Drawing.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

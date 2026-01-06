@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConvertToRGKResult - свойства  
-  
----  
-  
+    
 Тип [BaseBodyConvertToRGKResult](T_TFlex_Model_Model3D_Geometry_BaseBody_ConvertToRGKResult.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Specification - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Specification](M_TFlex_Configuration_Specification__ctor.md) | Инициализирует новый экземпляр класса [Specification](T_TFlex_Configuration_Specification.md) |

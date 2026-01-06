@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseBody - класс  
-  
----  
-  
+    
 Базовый класс хранения тел
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryBaseBody [TFlex.Model.Model3D.GeometryBody](T_TFlex_Model_Model3D_Geometry_Body.md) [TFlex.Model.Model3D.GeometryModelBody](T_TFlex_Model_Model3D_Geometry_ModelBody.md)

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyObject3D - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ProxyObject3D](M_TFlex_Model_Model3D_ProxyObject3D__ctor.md) | Инициализирует новый экземпляр класса [ProxyObject3D](T_TFlex_Model_Model3D_ProxyObject3D.md) |

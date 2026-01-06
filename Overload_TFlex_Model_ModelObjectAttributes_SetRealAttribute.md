@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectAttributesSetRealAttribute - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetRealAttribute(String, Double)](M_TFlex_Model_ModelObjectAttributes_SetRealAttribute.md) | Установить значение вещественного атрибута |

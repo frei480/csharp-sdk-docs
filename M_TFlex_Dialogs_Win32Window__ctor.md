@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Win32Window - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [Win32Window](T_TFlex_Dialogs_Win32Window.md)
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

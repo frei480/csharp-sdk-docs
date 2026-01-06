@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Size - методы  
-  
----  
-  
+    
 Тип [Size](T_TFlex_Drawing_Size.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

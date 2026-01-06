@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgeBlendingChamferLengthAttribute - класс  
-  
----  
-  
+    
 Класс для задания фаски с помощью ширины и угла
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DEdgeBlendingAttribute](T_TFlex_Model_Model3D_EdgeBlending_Attribute.md) TFlex.Model.Model3DEdgeBlendingChamferLengthAttribute

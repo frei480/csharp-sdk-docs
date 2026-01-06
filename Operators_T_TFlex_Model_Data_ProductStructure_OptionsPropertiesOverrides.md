@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OptionsPropertiesOverrides - операторы  
-  
----  
-  
+    
 Тип [OptionsPropertiesOverrides](T_TFlex_Model_Data_ProductStructure_OptionsPropertiesOverrides.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

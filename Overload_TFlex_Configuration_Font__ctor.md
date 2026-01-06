@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Font - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Font](M_TFlex_Configuration_Font__ctor.md) | Инициализирует новый экземпляр класса [Font](T_TFlex_Configuration_Font.md) |

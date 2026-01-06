@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectedRowCollection - свойства  
-  
----  
-  
+    
 Тип [SelectedRowCollection](T_TFlex_Dialogs_SelectedRowCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

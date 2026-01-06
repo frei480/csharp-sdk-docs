@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3DGeomReference  \- операторы преобразования  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [(ModelAxis to Object3DGeomReference)](M_TFlex_Model_Model3D_Object3D_GeomReference_op_Implicit.md) |  |

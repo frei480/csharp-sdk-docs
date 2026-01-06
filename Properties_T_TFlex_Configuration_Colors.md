@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Colors - свойства  
-  
----  
-  
+    
 Тип [Colors](T_TFlex_Configuration_Colors.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

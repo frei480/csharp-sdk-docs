@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CreationSettings - поля  
-  
----  
-  
+    
 Тип [TableCreationSettings](T_TFlex_Model_Model2D_Table_CreationSettings.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

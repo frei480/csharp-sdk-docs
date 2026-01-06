@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExitEventArgs - методы  
-  
----  
-  
+    
 Тип [ExitEventArgs](T_TFlex_Command_ExitEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

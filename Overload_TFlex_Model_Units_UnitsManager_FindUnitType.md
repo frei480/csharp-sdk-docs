@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UnitsManagerFindUnitType - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FindUnitType(Guid)](M_TFlex_Model_Units_UnitsManager_FindUnitType.md) |  |

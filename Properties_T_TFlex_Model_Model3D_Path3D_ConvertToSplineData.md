@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConvertToSplineData - свойства  
-  
----  
-  
+    
 Тип [Path3DConvertToSplineData](T_TFlex_Model_Model3D_Path3D_ConvertToSplineData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

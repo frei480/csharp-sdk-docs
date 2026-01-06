@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Start - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Start](M_TFlex_Configuration_Start__ctor.md) | Инициализирует новый экземпляр класса [Start](T_TFlex_Configuration_Start.md) |

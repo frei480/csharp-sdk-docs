@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FilesPrototype3DAssemblyName - свойство  
-  
----  
-**Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
 
 ```csharp
 public string Prototype3DAssemblyName { get; set; }

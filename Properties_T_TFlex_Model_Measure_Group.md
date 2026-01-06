@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Group - свойства  
-  
----  
-  
+    
 Тип [Group](T_TFlex_Model_Measure_Group.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

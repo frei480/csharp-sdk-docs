@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Node - методы  
-  
----  
-  
+    
 Тип [Node](T_TFlex_Model_Model2D_HarnessModel_Node.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

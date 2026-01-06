@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAmountOfSubstanceMegamole - свойство  
-  
----  
-  
+    
 Мегамоль; Ммол; Mmol; 
 
 Тип - Количество вещества

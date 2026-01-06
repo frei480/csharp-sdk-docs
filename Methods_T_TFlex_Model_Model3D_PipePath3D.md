@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3D - методы  
-  
----  
-  
+    
 Тип [PipePath3D](T_TFlex_Model_Model3D_PipePath3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

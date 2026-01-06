@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CompoundStringControlExplodedString - свойство  
-  
----  
-  
+    
 Раскрытая строка (строка, в которую подставлены значения переменных) для текущего значения Text
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

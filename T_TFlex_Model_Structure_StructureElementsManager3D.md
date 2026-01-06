@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StructureElementsManager3D - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.StructureStructureElementsManager3D
 
 **Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

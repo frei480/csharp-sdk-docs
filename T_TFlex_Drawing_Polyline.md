@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Polyline - класс  
-  
----  
-  
+    
 Класс содержит полилинию - замкнутый контур, состоящий из отрезков, или набор контуров в вещественных координатах
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DrawingPolyline

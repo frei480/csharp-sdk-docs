@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometrySelectionFilterDisable(SelectableGeometryType) - метод  
-  
----  
-  
+    
 Запретить выбор геометрии указанного типа
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

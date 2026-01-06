@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Length - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsLength](T_TFlex_Model_Units_StandardUnits_Length.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

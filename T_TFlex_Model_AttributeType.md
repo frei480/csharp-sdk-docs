@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AttributeType - перечисление  
-  
----  
-  
+    
 Тип атрибута объекта класса [ModelObjectAttributes](T_TFlex_Model_ModelObjectAttributes.md)
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

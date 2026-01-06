@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Guide - методы  
-  
----  
-  
+    
 Тип [LoftOperationGuide](T_TFlex_Model_Model3D_LoftOperation_Guide.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

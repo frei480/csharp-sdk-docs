@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectControl - методы  
-  
----  
-  
+    
 Тип [SelectControl](T_TFlex_Dialogs_SelectControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

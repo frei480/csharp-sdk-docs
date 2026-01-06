@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointSplineToPolyline - методы  
-  
----  
-  
+    
 Тип [PipePath3DPointSplineToPolyline](T_TFlex_Model_Model3D_PipePath3D_PointSplineToPolyline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

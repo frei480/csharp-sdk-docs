@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HeatResistance - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsHeatResistance](T_TFlex_Model_Units_StandardUnits_HeatResistance.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

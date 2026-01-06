@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Assembly - свойства  
-  
----  
-  
+    
 Тип [Assembly](T_TFlex_Configuration_Assembly.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

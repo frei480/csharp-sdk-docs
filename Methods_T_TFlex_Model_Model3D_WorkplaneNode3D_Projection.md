@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Projection - методы  
-  
----  
-  
+    
 Тип [WorkplaneNode3DProjection](T_TFlex_Model_Model3D_WorkplaneNode3D_Projection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

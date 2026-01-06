@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TempFileLinkParameters - класс  
-  
----  
-  
+    
 Класс содержит свойства ссылки, указывающей на временный документ
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelTempFileLinkParameters

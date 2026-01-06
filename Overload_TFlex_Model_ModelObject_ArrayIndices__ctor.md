@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectArrayIndices - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ModelObjectArrayIndices(UInt32)](M_TFlex_Model_ModelObject_ArrayIndices__ctor.md) | Конструктор для одного индекса |

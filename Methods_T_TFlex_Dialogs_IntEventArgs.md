@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntEventArgs - методы  
-  
----  
-  
+    
 Тип [IntEventArgs](T_TFlex_Dialogs_IntEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

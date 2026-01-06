@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowDescriptorFROM_APP_TYPE - поле  
-  
----  
-**Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
+  **Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
 
 ```csharp
 public const int FROM_APP_TYPE = 20002

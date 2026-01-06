@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TangentEndProfileCondition - свойства  
-  
----  
-  
+    
 Тип [LoftTangentEndProfileCondition](T_TFlex_Model_Model3D_Loft_TangentEndProfileCondition.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

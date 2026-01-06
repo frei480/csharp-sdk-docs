@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Fragment - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Fragment(Document)](M_TFlex_Model_Model2D_Fragment__ctor.md) | Конструктор по умолчанию |

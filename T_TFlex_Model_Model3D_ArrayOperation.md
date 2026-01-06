@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ArrayOperation - класс  
-  
----  
-  
+    
 Базовая операция для всех видов массивов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DOperation](T_TFlex_Model_Model3D_Operation.md) TFlex.Model.Model3DArrayOperation [TFlex.Model.Model3DCircularArrayOperation](T_TFlex_Model_Model3D_CircularArrayOperation.md) [TFlex.Model.Model3DLinearArrayOperation](T_TFlex_Model_Model3D_LinearArrayOperation.md) [TFlex.Model.Model3DNodeArrayOperation](T_TFlex_Model_Model3D_NodeArrayOperation.md) [TFlex.Model.Model3DPathArrayOperation](T_TFlex_Model_Model3D_PathArrayOperation.md)

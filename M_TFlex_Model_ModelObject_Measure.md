@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectMeasure(ObjectArray, String, ModelObject) - метод  
-  
----  
-  
+    
 Измерить параметр одного объекта либо отношение нескольких объектов
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

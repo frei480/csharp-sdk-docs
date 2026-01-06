@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextInsertText - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [InsertText(String)](M_TFlex_Model_Model2D_RichText_InsertText.md) | Вставка текста с использованием формата символов по умолчанию |

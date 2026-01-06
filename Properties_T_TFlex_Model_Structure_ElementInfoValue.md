@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementInfoValue - свойства  
-  
----  
-  
+    
 Тип [ElementInfoValue](T_TFlex_Model_Structure_ElementInfoValue.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

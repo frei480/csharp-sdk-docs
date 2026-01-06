@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceBlendingPositionData - класс  
-  
----  
-  
+    
 Класс используемый для задания параметров переменного сглаживания
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DFaceBlendingPositionData

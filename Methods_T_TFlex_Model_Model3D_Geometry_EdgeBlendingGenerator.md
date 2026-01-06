@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgeBlendingGenerator - методы  
-  
----  
-  
+    
 Тип [EdgeBlendingGenerator](T_TFlex_Model_Model3D_Geometry_EdgeBlendingGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TopolReference - свойства  
-  
----  
-  
+    
 Тип [TopolReference](T_TFlex_Model_Model3D_TopolReference.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

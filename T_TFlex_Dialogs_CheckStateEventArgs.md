@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CheckStateEventArgs - класс  
-  
----  
-  
+    
 Базовый класс для событий с одним параметром типа CheckState
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.DialogsBaseEventArgs](T_TFlex_Dialogs_BaseEventArgs.md) TFlex.DialogsCheckStateEventArgs [TFlex.DialogsCheckedChangedEventArgs](T_TFlex_Dialogs_CheckedChangedEventArgs.md) [TFlex.DialogsLockedChangedEventArgs](T_TFlex_Dialogs_LockedChangedEventArgs.md)

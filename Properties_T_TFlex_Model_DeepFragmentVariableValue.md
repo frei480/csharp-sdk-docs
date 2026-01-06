@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DeepFragmentVariableValue - свойства  
-  
----  
-  
+    
 Тип [DeepFragmentVariableValue](T_TFlex_Model_DeepFragmentVariableValue.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

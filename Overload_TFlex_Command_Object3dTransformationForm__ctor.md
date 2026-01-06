@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3dTransformationForm - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Object3dTransformationForm(Object3D)](M_TFlex_Command_Object3dTransformationForm__ctor.md) | Инициализирует новый экземпляр класса [Object3dTransformationForm](T_TFlex_Command_Object3dTransformationForm.md) |

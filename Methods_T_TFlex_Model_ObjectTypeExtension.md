@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectTypeExtension - методы  
-  
----  
-  
+    
 Тип [ObjectTypeExtension](T_TFlex_Model_ObjectTypeExtension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControlSetHeaders - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetHeaders(IList)](M_TFlex_Dialogs_SimpleListControl_SetHeaders.md) | Устанавливает данные всех заголовков списка |

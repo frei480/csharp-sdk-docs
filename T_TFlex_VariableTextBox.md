@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableTextBox - класс  
-  
----  
-  
+    
 Элемент управления TextBox, позволяющий создавать переменную модели с указанным именем
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemMarshalByRefObject](https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject) [System.ComponentModelComponent](https://learn.microsoft.com/dotnet/api/system.componentmodel.component) [System.Windows.FormsControl](https://learn.microsoft.com/dotnet/api/system.windows.forms.control) [System.Windows.FormsTextBoxBase](https://learn.microsoft.com/dotnet/api/system.windows.forms.textboxbase) [System.Windows.FormsTextBox](https://learn.microsoft.com/dotnet/api/system.windows.forms.textbox) TFlexVariableTextBox

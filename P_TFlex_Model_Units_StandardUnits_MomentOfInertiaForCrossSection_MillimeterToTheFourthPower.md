@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMomentOfInertiaForCrossSectionMillimeterToTheFourthPower - свойство  
-  
----  
-  
+    
 Миллиметр в степени 4; мм⁴; mm⁴; 
 
 Тип - Момент инерции сечения

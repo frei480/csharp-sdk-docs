@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AngleEnqueuedEventArgs - свойства  
-  
----  
-  
+    
 Тип [RotationManipulatorAngleEnqueuedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_RotationManipulator_AngleEnqueuedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

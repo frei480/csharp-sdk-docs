@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToPLY - свойства  
-  
----  
-  
+    
 Тип [ExportToPLY](T_TFlex_Model_ExportToPLY.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

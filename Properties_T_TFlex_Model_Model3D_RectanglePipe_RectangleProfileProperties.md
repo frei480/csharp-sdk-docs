@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RectangleProfileProperties - свойства  
-  
----  
-  
+    
 Тип [RectanglePipeRectangleProfileProperties](T_TFlex_Model_Model3D_RectanglePipe_RectangleProfileProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

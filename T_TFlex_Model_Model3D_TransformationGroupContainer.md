@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationGroupContainer - класс  
-  
----  
-  
+    
 Контейнер групп трансформаций.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DTransformationGroupContainer

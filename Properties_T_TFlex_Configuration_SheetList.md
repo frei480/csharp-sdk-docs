@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SheetList - свойства  
-  
----  
-  
+    
 Тип [SheetList](T_TFlex_Configuration_SheetList.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

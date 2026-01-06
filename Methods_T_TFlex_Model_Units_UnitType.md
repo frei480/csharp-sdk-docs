@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UnitType - методы  
-  
----  
-  
+    
 Тип [UnitType](T_TFlex_Model_Units_UnitType.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomButton - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CustomButton(Int32, KeyCode, String)](M_TFlex_Command_CustomButton__ctor.md) | Конструктор |

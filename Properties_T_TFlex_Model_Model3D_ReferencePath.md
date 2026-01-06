@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReferencePath - свойства  
-  
----  
-  
+    
 Тип [ReferencePath](T_TFlex_Model_Model3D_ReferencePath.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

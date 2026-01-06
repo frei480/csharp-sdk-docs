@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GroupControl - события  
-  
----  
-  
+    
 Тип [GroupControl](T_TFlex_Dialogs_GroupControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

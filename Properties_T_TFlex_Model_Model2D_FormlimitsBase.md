@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FormlimitsBase - свойства  
-  
----  
-  
+    
 Тип [FormlimitsBase](T_TFlex_Model_Model2D_FormlimitsBase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TopolSolid - свойства  
-  
----  
-  
+    
 Тип [TopolSolid](T_TFlex_Model_Model3D_Geometry_TopolSolid.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

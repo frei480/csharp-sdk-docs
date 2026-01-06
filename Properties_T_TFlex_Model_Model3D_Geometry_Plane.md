@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Plane - свойства  
-  
----  
-  
+    
 Тип [Plane](T_TFlex_Model_Model3D_Geometry_Plane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentApplyChanges - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ApplyChanges](M_TFlex_Model_Document_ApplyChanges.md) | Применить изменения без закрытия блока изменения документа |

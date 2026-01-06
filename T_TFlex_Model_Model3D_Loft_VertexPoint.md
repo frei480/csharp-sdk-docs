@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftVertexPoint - класс  
-  
----  
-  
+    
 Класс для задания точки в вершине
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DLoftPointOnContour](T_TFlex_Model_Model3D_Loft_PointOnContour.md) TFlex.Model.Model3DLoftVertexPoint

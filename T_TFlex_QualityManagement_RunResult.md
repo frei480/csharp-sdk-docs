@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunResult - класс  
-  
----  
-  
+    
 Класс с информациией о результате проверки
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.QualityManagementRunResult

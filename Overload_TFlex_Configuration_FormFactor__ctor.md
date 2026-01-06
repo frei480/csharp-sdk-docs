@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FormFactor - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FormFactor](M_TFlex_Configuration_FormFactor__ctor.md) | Инициализирует новый экземпляр класса [FormFactor](T_TFlex_Configuration_FormFactor.md) |

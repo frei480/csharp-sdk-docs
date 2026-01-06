@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ManipulatorEventArgs - свойства  
-  
----  
-  
+    
 Тип [ManipulatorEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_ManipulatorEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

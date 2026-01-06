@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfaceSplinewiseDataPositionsPositionsRow - класс  
-  
----  
-  
+    
 Упорядоченное множество интерполяционных точек по V для изопараметрической кривой по U : координаты точки и параметр по V, если используется
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySurfaceSplinewiseDataPositionsPositionsRow

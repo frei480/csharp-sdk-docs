@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceBlendingVariableRadiusAttribute - класс  
-  
----  
-  
+    
 Класс свойств используемый для создания сглаживания с переменным радиусом
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DFaceBlendingBlendAttribute](T_TFlex_Model_Model3D_FaceBlending_BlendAttribute.md) TFlex.Model.Model3DFaceBlendingVariableRadiusAttribute

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToJt - класс  
-  
----  
-  
+    
 Класс экспорта в файл формата JT
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelExportTo](T_TFlex_Model_ExportTo.md) [TFlex.ModelExportTo3dCommon](T_TFlex_Model_ExportTo3dCommon.md) TFlex.ModelExportToJt

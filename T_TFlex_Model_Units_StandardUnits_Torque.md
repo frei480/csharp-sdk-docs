@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorque - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Момент силы
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsTorque

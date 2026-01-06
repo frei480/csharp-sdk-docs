@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfaceSplineDataControlNetControlPoints - класс  
-  
----  
-  
+    
 Упорядоченное множество контрольных точек по V для изопараметрической кривой по U - координаты точки и вес, если используется
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySurfaceSplineDataControlNetControlPoints

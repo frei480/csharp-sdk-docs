@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureReportSupport - методы  
-  
----  
-  
+    
 Тип [ProductStructureReportSupport](T_TFlex_Model_ProductStructureReportSupport.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

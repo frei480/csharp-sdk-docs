@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginCommandEventArgs - свойства  
-  
----  
-  
+    
 Тип [PluginCommandEventArgs](T_TFlex_PluginCommandEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

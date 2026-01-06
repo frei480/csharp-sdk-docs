@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EntriesCollection - методы  
-  
----  
-  
+    
 Тип [RunResultEntriesCollection](T_TFlex_QualityManagement_RunResult_EntriesCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

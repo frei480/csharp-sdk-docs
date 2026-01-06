@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorsionalStrengthPoundForcePerFoot - свойство  
-  
----  
-  
+    
 Фунт-сила на фут; фунт-сила/фут; lbf/ft; 
 
 Тип - Прочность кручения

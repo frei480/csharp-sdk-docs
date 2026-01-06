@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MenuItemBase - класс  
-  
----  
-  
+    
 Базовый класс для элементов меню
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsMenuItemBase [TFlex.DialogsMenu](T_TFlex_Dialogs_Menu.md) [TFlex.DialogsMenuItem](T_TFlex_Dialogs_MenuItem.md) [TFlex.DialogsMenuSeparator](T_TFlex_Dialogs_MenuSeparator.md)

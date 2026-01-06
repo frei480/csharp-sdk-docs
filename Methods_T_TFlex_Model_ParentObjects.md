@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParentObjects - методы  
-  
----  
-  
+    
 Тип [ParentObjects](T_TFlex_Model_ParentObjects.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

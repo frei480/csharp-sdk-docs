@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3DSetReference - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetReference(Int32, ModelObjectReference)](M_TFlex_Model_Model3D_Object3D_SetReference.md) | Установить ссылку на родительcкий объект по ключу |

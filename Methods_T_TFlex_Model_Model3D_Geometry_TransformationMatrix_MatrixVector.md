@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MatrixVector - методы  
-  
----  
-  
+    
 Тип [TransformationMatrixMatrixVector](T_TFlex_Model_Model3D_Geometry_TransformationMatrix_MatrixVector.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

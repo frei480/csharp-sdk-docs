@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentConvertLibraryFileLinksToDOCs - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Переназначить ссылки на файлы в библиотеке T-Flex CAD на ссылки в библиотеке DOCs

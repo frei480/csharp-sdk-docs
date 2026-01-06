@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Library - методы  
-  
----  
-  
+    
 Тип [Library](T_TFlex_Library.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

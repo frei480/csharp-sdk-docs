@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UDFParameterDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_UDF_Parameter_Dispose.md) | Освобождает все ресурсы, используемые объектом [UDFParameter](T_TFlex_Model_Model3D_UDF_Parameter.md) |

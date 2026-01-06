@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExternalObject - методы  
-  
----  
-  
+    
 Тип [ExternalObject](T_TFlex_Model_Model2D_ExternalObject.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

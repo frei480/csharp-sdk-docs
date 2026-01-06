@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ILogicFactory - методы  
-  
----  
-  
+    
 Тип [ILogicFactory](T_TFlex_QualityManagement_ILogicFactory.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

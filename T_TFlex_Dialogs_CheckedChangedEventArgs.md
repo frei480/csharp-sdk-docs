@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CheckedChangedEventArgs - класс  
-  
----  
-  
+    
 Данные о событии смены состояния ToggleControl
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.DialogsBaseEventArgs](T_TFlex_Dialogs_BaseEventArgs.md) [TFlex.DialogsCheckStateEventArgs](T_TFlex_Dialogs_CheckStateEventArgs.md) TFlex.DialogsCheckedChangedEventArgs

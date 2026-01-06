@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReferenceWeld3D - свойства  
-  
----  
-  
+    
 Тип [ReferenceWeld3D](T_TFlex_Model_Model3D_ReferenceWeld3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

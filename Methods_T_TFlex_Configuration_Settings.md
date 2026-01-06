@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Settings - методы  
-  
----  
-  
+    
 Тип [Settings](T_TFlex_Configuration_Settings.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

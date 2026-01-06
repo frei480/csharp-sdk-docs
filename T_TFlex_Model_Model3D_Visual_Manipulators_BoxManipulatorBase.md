@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoxManipulatorBase - класс  
-  
----  
-  
+    
 Манипулятор для настройки размеров параллелепипеда
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.Visual.ManipulatorsManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_Manipulator.md) TFlex.Model.Model3D.Visual.ManipulatorsBoxManipulatorBase [TFlex.Model.Model3D.Visual.ManipulatorsBoxManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_BoxManipulator.md) [TFlex.Model.Model3D.Visual.ManipulatorsSpecialBoxManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_SpecialBoxManipulator.md)

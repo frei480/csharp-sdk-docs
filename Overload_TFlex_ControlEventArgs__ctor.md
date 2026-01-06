@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlEventArgs - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ControlEventArgs(Int32, Int32)](M_TFlex_ControlEventArgs__ctor.md) | Конструктор |

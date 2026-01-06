@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Node3DGeometryDataCurveTangentNormalPlane - свойство  
-  
----  
-  
+    
 Получить плоскость по касательной и нормали в точке, построенной на ребре, пути или профиле
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

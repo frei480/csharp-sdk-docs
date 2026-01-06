@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationGroupBaseAddMoveToNodeTransf(TransformationCoordinate, ModelPoint3D) - метод  
-  
----  
-  
+    
 Добавить трансформацию "Перемещение до точки" к группе трансформаций
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

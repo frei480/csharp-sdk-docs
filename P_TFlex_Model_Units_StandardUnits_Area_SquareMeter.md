@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAreaSquareMeter - свойство  
-  
----  
-  
+    
 Квадратный метр; м²; m²; 
 
 Тип - Площадь

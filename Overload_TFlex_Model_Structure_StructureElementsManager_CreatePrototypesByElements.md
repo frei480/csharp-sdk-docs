@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StructureElementsManagerCreatePrototypesByElements - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreatePrototypesByElements(CreatePrototypesInSerializedParameters)](M_TFlex_Model_Structure_StructureElementsManager_CreatePrototypesByElements.md) |  |

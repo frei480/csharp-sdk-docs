@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectionWithSection - методы  
-  
----  
-  
+    
 Тип [ProjectionWithSection](T_TFlex_Model_Model3D_ProjectionWithSection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureCsvExportOptions - методы  
-  
----  
-  
+    
 Тип [ProductStructureCsvExportOptions](T_TFlex_Model_ProductStructureCsvExportOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

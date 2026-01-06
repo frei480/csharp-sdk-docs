@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HoleAddHole - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddHole(ModelFace, Node3D)](M_TFlex_Model_Model3D_Hole_AddHole.md) | Добавить отверстие на грани |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToBitmap - класс  
-  
----  
-  
+    
 Класс экспорта в файлы растровых форматов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelExportTo](T_TFlex_Model_ExportTo.md) TFlex.ModelExportToBitmap

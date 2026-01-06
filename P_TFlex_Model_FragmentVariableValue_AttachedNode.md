@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentVariableValueAttachedNode - свойство  
-  
----  
-  
+    
 Узел сборки, связанный с внешней переменной
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

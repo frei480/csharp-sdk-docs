@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DraggerEventArgs - свойства  
-  
----  
-  
+    
 Тип [DraggerEventArgs](T_TFlex_Model_Model3D_Visual_DraggerEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

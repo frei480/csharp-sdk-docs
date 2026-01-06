@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentOutline - свойства  
-  
----  
-  
+    
 Тип [FragmentOutline](T_TFlex_Model_Model2D_FragmentOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

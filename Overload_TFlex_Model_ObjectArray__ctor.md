@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectArray - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ObjectArray](M_TFlex_Model_ObjectArray__ctor.md) | Конструктор |

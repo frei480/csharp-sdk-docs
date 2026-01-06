@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Coords - свойства  
-  
----  
-  
+    
 Тип [VariableParametricCoords](T_TFlex_Model_Model3D_VariableParametric_Coords.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

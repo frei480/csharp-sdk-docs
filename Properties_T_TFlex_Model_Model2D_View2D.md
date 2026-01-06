@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # View2D - свойства  
-  
----  
-  
+    
 Тип [View2D](T_TFlex_Model_Model2D_View2D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

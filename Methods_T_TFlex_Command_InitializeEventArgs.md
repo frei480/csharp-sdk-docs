@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InitializeEventArgs - методы  
-  
----  
-  
+    
 Тип [InitializeEventArgs](T_TFlex_Command_InitializeEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

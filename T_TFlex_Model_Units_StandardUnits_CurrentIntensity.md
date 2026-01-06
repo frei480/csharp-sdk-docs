@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCurrentIntensity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Сила тока
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsCurrentIntensity

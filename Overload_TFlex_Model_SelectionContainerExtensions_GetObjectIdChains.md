@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectionContainerExtensionsGetObjectIdChains - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetObjectIdChains(ModelObject)](M_TFlex_Model_SelectionContainerExtensions_GetObjectIdChains.md) |  |

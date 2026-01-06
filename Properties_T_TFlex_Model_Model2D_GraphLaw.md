@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GraphLaw - свойства  
-  
----  
-  
+    
 Тип [GraphLaw](T_TFlex_Model_Model2D_GraphLaw.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

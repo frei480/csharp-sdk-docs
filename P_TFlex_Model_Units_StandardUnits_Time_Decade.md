@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTimeDecade - свойство  
-  
----  
-  
+    
 Декада; дек; decade; 
 
 Тип - Время

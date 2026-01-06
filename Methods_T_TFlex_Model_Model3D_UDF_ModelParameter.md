@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelParameter - методы  
-  
----  
-  
+    
 Тип [UDFModelParameter](T_TFlex_Model_Model3D_UDF_ModelParameter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

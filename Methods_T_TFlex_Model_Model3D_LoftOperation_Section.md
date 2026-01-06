@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Section - методы  
-  
----  
-  
+    
 Тип [LoftOperationSection](T_TFlex_Model_Model3D_LoftOperation_Section.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

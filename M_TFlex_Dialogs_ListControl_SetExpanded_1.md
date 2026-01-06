@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlSetExpanded(Int64, Boolean) - метод  
-  
----  
-  
+    
 Развернута ли строка. IsHierarchyOn должно быть true.
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

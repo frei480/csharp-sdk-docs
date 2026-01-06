@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircularDimension3DSetRadialDimensionType - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetRadialDimensionType(RadialDimensionType)](M_TFlex_Model_Model3D_CircularDimension3D_SetRadialDimensionType.md) | Установка размера, как радиального |

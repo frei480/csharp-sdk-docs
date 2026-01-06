@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDensityGramPerCubicCentimeter - свойство  
-  
----  
-  
+    
 Грамм на кубический сантиметр; г/см³; g/cm³; 
 
 Тип - Плотность

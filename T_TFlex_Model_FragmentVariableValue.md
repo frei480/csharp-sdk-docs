@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentVariableValue - класс  
-  
----  
-  
+    
 Класс предназначенный для задания значения переменной фрагмента
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelFragmentVariableValue

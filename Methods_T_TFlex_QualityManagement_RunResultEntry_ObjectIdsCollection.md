@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectIdsCollection - методы  
-  
----  
-  
+    
 Тип [RunResultEntryObjectIdsCollection](T_TFlex_QualityManagement_RunResultEntry_ObjectIdsCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

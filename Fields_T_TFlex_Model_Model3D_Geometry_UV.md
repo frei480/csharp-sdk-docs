@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UV - поля  
-  
----  
-  
+    
 Тип [UV](T_TFlex_Model_Model3D_Geometry_UV.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

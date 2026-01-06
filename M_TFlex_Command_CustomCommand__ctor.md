@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomCommand - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [CustomCommand](T_TFlex_Command_CustomCommand.md)
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

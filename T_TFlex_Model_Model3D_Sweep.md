@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Sweep - класс  
-  
----  
-  
+    
 Базовый класс для кинематических операций. Общим для всех порожденных из него классов является способ задания образующего контура
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DOperation](T_TFlex_Model_Model3D_Operation.md) TFlex.Model.Model3DSweep [TFlex.Model.Model3DExtrusion](T_TFlex_Model_Model3D_Extrusion.md) [TFlex.Model.Model3DParametricSweep](T_TFlex_Model_Model3D_ParametricSweep.md) [TFlex.Model.Model3DRotation](T_TFlex_Model_Model3D_Rotation.md) [TFlex.Model.Model3DSwept](T_TFlex_Model_Model3D_Swept.md)

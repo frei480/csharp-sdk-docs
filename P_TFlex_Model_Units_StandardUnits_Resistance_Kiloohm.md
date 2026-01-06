@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsResistanceKiloohm - свойство  
-  
----  
-  
+    
 Килоом; кОм; kOhm; 
 
 Тип - Сопротивление

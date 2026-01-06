@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlButtonCollection - свойства  
-  
----  
-  
+    
 Тип [ListControlButtonCollection](T_TFlex_Dialogs_ListControlButtonCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

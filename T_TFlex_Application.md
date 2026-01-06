@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Application - класс  
-  
----  
-  
+    
 Объект данного класса обеспечивает доступ к объектам T-FLEX CAD
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexApplication

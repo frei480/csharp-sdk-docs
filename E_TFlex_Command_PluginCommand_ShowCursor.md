@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginCommandShowCursor - событие  
-  
----  
-  
+    
 Событие, возникающее при прорисовке динамического курсора при перемещении мыши
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

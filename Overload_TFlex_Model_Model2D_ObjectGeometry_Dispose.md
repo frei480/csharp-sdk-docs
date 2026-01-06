@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectGeometryDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model2D_ObjectGeometry_Dispose.md) | Выполняет определяемые приложением задачи, связанные с удалением, высвобождением или сбросом неуправляемых ресурсов |

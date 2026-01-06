@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RoughnessSymbol - методы  
-  
----  
-  
+    
 Тип [RoughnessSymbol](T_TFlex_Model_Model2D_RoughnessSymbol.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

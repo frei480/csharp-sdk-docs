@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScenarioStagesAdd - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Add](M_TFlex_Model_Model3D_ScenarioStages_Add.md) |  |

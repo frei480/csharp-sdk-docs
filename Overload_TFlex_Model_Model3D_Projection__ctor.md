@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Projection - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Projection(Document)](M_TFlex_Model_Model3D_Projection__ctor.md) | Конструктор для создания новой проекции |

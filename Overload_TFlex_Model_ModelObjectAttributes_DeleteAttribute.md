@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectAttributesDeleteAttribute - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DeleteAttribute(String)](M_TFlex_Model_ModelObjectAttributes_DeleteAttribute.md) | Удалить атрибут |

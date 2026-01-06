@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CylinderWorkSurface - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CylinderWorkSurface(Document)](M_TFlex_Model_Model3D_CylinderWorkSurface__ctor.md) | Конструктор для создания цилиндрической поверхности |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TermGroup - свойства  
-  
----  
-  
+    
 Тип [TermGroup](T_TFlex_Model_Data_Filters_TermGroup.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

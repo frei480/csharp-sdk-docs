@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkReplaceDesignation - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ReplaceDesignation(String, String, String)](M_TFlex_Model_Circuits_Link_ReplaceDesignation.md) |  |

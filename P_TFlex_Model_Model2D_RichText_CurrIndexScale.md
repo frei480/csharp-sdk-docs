@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextCurrIndexScale - свойство  
-  
----  
-  
+    
 Текущий масштаб высоты шрифта для индексов, используется при вставке новых индексов
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

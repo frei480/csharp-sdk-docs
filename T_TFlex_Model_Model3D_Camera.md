@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Camera - класс  
-  
----  
-  
+    
 Базовый класс камеры
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) TFlex.Model.Model3DCamera [TFlex.Model.Model3DOrthographicCamera](T_TFlex_Model_Model3D_OrthographicCamera.md) [TFlex.Model.Model3DPerspectiveCamera](T_TFlex_Model_Model3D_PerspectiveCamera.md)

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToPrc - методы  
-  
----  
-  
+    
 Тип [ExportToPrc](T_TFlex_Model_ExportToPrc.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

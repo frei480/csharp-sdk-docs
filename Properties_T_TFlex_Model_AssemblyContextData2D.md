@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AssemblyContextData2D - свойства  
-  
----  
-  
+    
 Тип [AssemblyContextData2D](T_TFlex_Model_AssemblyContextData2D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

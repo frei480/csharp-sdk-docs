@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CurveRepresentation - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CurveRepresentation(Scene, Object3D, ModelBodies, String)](M_TFlex_Model_Model3D_Visual_CurveRepresentation__ctor.md) | Инициализирует новый экземпляр класса [CurveRepresentation](T_TFlex_Model_Model3D_Visual_CurveRepresentation.md) |

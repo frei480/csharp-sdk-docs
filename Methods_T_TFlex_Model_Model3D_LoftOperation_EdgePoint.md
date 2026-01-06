@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgePoint - методы  
-  
----  
-  
+    
 Тип [LoftOperationEdgePoint](T_TFlex_Model_Model3D_LoftOperation_EdgePoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

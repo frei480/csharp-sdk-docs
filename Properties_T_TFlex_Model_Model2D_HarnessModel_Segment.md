@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Segment - свойства  
-  
----  
-  
+    
 Тип [Segment](T_TFlex_Model_Model2D_HarnessModel_Segment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

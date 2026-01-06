@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Segment - методы  
-  
----  
-  
+    
 Тип [WireFromCurvesGeneratorSegment](T_TFlex_Model_Model3D_Geometry_WireFromCurvesGenerator_Segment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

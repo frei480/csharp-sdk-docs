@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftOperationPointOnContour - класс  
-  
----  
-  
+    
 Базовый класс для задания точки на контуре сечения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DLoftOperationPointOnContour [TFlex.Model.Model3DLoftOperationEdgePoint](T_TFlex_Model_Model3D_LoftOperation_EdgePoint.md) [TFlex.Model.Model3DLoftOperationNodePoint](T_TFlex_Model_Model3D_LoftOperation_NodePoint.md) [TFlex.Model.Model3DLoftOperationVertexPoint](T_TFlex_Model_Model3D_LoftOperation_VertexPoint.md)

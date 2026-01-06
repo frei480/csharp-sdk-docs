@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BasePipeBorderInfoReset - метод  
-  
----  
-  
+    
 Сбросить границу в значение по умолчанию, конечная граница в конце пути, начальная граница в начале
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

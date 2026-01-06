@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceTransform - свойства  
-  
----  
-  
+    
 Тип [FaceTransform](T_TFlex_Model_Model3D_FaceTransform.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

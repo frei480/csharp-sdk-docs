@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextInsertFragment(Fragment) - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Вставка фрагмента

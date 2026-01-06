@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CellProperties - поля  
-  
----  
-  
+    
 Тип [TableCellProperties](T_TFlex_Model_Model2D_Table_CellProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

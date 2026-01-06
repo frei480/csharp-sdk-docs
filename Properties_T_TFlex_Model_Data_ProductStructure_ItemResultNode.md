@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ItemResultNode - свойства  
-  
----  
-  
+    
 Тип [ItemResultNode](T_TFlex_Model_Data_ProductStructure_ItemResultNode.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

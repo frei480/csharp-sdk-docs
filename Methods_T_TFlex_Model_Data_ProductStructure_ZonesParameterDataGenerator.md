@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ZonesParameterDataGenerator - методы  
-  
----  
-  
+    
 Тип [ZonesParameterDataGenerator](T_TFlex_Model_Data_ProductStructure_ZonesParameterDataGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

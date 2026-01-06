@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConeDevelopmentProfile - свойства  
-  
----  
-  
+    
 Тип [ConeDevelopmentProfile](T_TFlex_Model_Model3D_ConeDevelopmentProfile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

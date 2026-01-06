@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseSpunSurface - свойства  
-  
----  
-  
+    
 Тип [BaseSpunSurface](T_TFlex_Model_Model3D_Geometry_BaseSpunSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

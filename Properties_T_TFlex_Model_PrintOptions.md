@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PrintOptions - свойства  
-  
----  
-  
+    
 Тип [PrintOptions](T_TFlex_Model_PrintOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

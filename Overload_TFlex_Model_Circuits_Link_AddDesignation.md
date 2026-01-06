@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkAddDesignation - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddDesignation(String, String, DesignationType)](M_TFlex_Model_Circuits_Link_AddDesignation.md) |  |

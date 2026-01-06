@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoundedExtrusion - класс  
-  
----  
-  
+    
 Операция выталкивания от границы до границы
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DOperation](T_TFlex_Model_Model3D_Operation.md) [TFlex.Model.Model3DSweep](T_TFlex_Model_Model3D_Sweep.md) [TFlex.Model.Model3DExtrusion](T_TFlex_Model_Model3D_Extrusion.md) TFlex.Model.Model3DBoundedExtrusion

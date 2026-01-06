@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Path3DConvertToSplineData - класс  
-  
----  
-  
+    
 Класс параметров для преобразования пути в сплайн
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DPath3DConvertToSplineData

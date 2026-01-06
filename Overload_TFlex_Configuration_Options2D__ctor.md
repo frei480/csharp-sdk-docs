@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Options2D - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Options2D](M_TFlex_Configuration_Options2D__ctor.md) | Инициализирует новый экземпляр класса [Options2D](T_TFlex_Configuration_Options2D.md) |

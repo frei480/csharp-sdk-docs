@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BackFileLinkParameters - класс  
-  
----  
-  
+    
 Класс содержит свойства обратной ссылки
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelBackFileLinkParameters

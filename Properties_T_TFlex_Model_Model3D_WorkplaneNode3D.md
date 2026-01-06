@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WorkplaneNode3D - свойства  
-  
----  
-  
+    
 Тип [WorkplaneNode3D](T_TFlex_Model_Model3D_WorkplaneNode3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

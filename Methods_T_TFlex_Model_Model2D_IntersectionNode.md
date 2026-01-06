@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntersectionNode - методы  
-  
----  
-  
+    
 Тип [IntersectionNode](T_TFlex_Model_Model2D_IntersectionNode.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

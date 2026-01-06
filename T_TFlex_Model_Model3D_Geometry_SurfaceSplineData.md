@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfaceSplineData - класс  
-  
----  
-  
+    
 Класс для задания и определения свойств сплайновой поверхности по набору контрольных точек, весов и последовательности узлов параметризации
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySurfaceSplineData

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceBlendingContinuousWidthAttribute - класс  
-  
----  
-  
+    
 Класс свойств использумый для создания сглаживания с постоянной шириной
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DFaceBlendingBlendAttribute](T_TFlex_Model_Model3D_FaceBlending_BlendAttribute.md) TFlex.Model.Model3DFaceBlendingContinuousWidthAttribute

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DynamicStudy - свойства  
-  
----  
-  
+    
 Тип [DynamicStudy](T_TFlex_Model_Model3D_DynamicStudy.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

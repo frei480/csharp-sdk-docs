@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVelocityInchesPerSecond - свойство  
-  
----  
-  
+    
 Дюйм в секунду; дюйм/с; In/s; 
 
 Тип - Скорость

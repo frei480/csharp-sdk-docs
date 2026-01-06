@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AuxiliaryWorkplane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AuxiliaryWorkplane(Document)](M_TFlex_Model_Model3D_AuxiliaryWorkplane__ctor.md) | Конструктор для создания рабочей плоскости |

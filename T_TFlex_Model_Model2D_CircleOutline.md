@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircleOutline - класс  
-  
----  
-  
+    
 Линия изображения - окружность с центром в узле с заданным радиусом
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.Model2DOutline](T_TFlex_Model_Model2D_Outline.md) TFlex.Model.Model2DCircleOutline

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFrom3dCommon - методы  
-  
----  
-  
+    
 Тип [ImportFrom3dCommon](T_TFlex_Model_ImportFrom3dCommon.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

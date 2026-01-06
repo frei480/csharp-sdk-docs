@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CreatePartOptions - поля  
-  
----  
-  
+    
 Тип [BodyPartCreatePartOptions](T_TFlex_Model_Model3D_BodyPart_CreatePartOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

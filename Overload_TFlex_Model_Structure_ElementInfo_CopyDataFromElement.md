@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementInfoCopyDataFromElement - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CopyDataFromElement(Element)](M_TFlex_Model_Structure_ElementInfo_CopyDataFromElement.md) |  |

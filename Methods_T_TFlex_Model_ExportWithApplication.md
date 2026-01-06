@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportWithApplication - методы  
-  
----  
-  
+    
 Тип [ExportWithApplication](T_TFlex_Model_ExportWithApplication.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

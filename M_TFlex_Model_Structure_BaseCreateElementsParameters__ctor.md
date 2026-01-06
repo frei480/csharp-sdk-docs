@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseCreateElementsParameters - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [BaseCreateElementsParameters](T_TFlex_Model_Structure_BaseCreateElementsParameters.md)
 
 **Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ValueChangedEventArgs - методы  
-  
----  
-  
+    
 Тип [ValueChangedEventArgs](T_TFlex_Dialogs_ValueChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

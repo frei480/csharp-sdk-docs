@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelDirection - класс  
-  
----  
-  
+    
 Вектор с модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) [TFlex.Model.Model3D.GeometryBaseDirection](T_TFlex_Model_Model3D_Geometry_BaseDirection.md) TFlex.Model.Model3D.GeometryModelDirection

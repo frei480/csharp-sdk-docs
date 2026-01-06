@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Managed3dApiCreateObject - метод  
-  
----  
-**Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0
 
 ```csharp
 public virtual ModelObject CreateObject(

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OptionsContext - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [OptionsContext](M_TFlex_Configuration_OptionsContext__ctor.md) | Инициализирует новый экземпляр класса [OptionsContext](T_TFlex_Configuration_OptionsContext.md) |

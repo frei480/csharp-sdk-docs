@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SpunData - класс  
-  
----  
-  
+    
 Класс для задания и определения свойств поверхности вращения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySpunData

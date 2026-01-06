@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomFilter - класс  
-  
----  
-  
+    
 Класс пользовательского фильтра
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelSelectionFilter](T_TFlex_Model_SelectionFilter.md) TFlex.ModelCustomFilter [TFlex.CommandGeometrySelectionFilter](T_TFlex_Command_GeometrySelectionFilter.md)

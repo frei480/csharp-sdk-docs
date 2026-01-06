@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PickPointEventArgsView - свойство  
-  
----  
-  
+    
 Вид (окно) в котором был произведён выбор точки
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

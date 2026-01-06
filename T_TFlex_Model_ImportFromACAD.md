@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFromACAD - класс  
-  
----  
-  
+    
 Класс, импортирующий документы формата AutoCAD
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelImportFromACAD

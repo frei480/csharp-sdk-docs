@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MultiLinkSetDesignation - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetDesignation(String, String, DesignationType)](M_TFlex_Model_Circuits_MultiLink_SetDesignation.md) |  |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Path3DSegment - методы  
-  
----  
-  
+    
 Тип [Path3DPath3DSegment](T_TFlex_Model_Model3D_Path3D_Path3DSegment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

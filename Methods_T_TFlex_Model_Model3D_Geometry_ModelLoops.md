@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelLoops - методы  
-  
----  
-  
+    
 Тип [ModelLoops](T_TFlex_Model_Model3D_Geometry_ModelLoops.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

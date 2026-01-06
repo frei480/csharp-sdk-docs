@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SweptData - методы  
-  
----  
-  
+    
 Тип [SweptData](T_TFlex_Model_Model3D_Geometry_SweptData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TangentOperationEndProfileCondition - методы  
-  
----  
-  
+    
 Тип [LoftTangentOperationEndProfileCondition](T_TFlex_Model_Model3D_Loft_TangentOperationEndProfileCondition.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

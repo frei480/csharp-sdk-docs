@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToMetafileWMF - методы  
-  
----  
-  
+    
 Тип [ExportToMetafileWMF](T_TFlex_Model_ExportToMetafileWMF.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

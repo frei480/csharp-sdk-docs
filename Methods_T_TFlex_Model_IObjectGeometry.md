@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IObjectGeometry - методы  
-  
----  
-  
+    
 Тип [IObjectGeometry](T_TFlex_Model_IObjectGeometry.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

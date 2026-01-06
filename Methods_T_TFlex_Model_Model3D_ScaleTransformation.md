@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScaleTransformation - методы  
-  
----  
-  
+    
 Тип [ScaleTransformation](T_TFlex_Model_Model3D_ScaleTransformation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

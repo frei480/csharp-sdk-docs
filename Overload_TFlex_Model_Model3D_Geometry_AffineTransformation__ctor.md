@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AffineTransformation - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AffineTransformation](M_TFlex_Model_Model3D_Geometry_AffineTransformation__ctor.md) | Конструктор для единичной трансформации |

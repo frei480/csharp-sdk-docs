@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginObjectDeletedEventHandler - метод  
-  
----  
-  
+    
 Обработчик события, возникающего после удаления объекта модели
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

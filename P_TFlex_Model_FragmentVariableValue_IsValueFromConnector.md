@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentVariableValueIsValueFromConnector - свойство  
-  
----  
-  
+    
 Установлено ли значение переменной в соответствии со значением этой переменной в коннекторе
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

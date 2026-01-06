@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectGroupContainer - методы  
-  
----  
-  
+    
 Тип [ModelObjectGroupContainer](T_TFlex_Model_ModelObjectGroupContainer.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

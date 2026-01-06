@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplinePath3D - класс  
-  
----  
-  
+    
 Класс пути по точкам
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DConstruction3D](T_TFlex_Model_Model3D_Construction3D.md) [TFlex.Model.Model3DPath3D](T_TFlex_Model_Model3D_Path3D.md) TFlex.Model.Model3DSplinePath3D [TFlex.Model.Model3DApproximatedSplinePath3D](T_TFlex_Model_Model3D_ApproximatedSplinePath3D.md) [TFlex.Model.Model3DInterpolatingSplinePath3D](T_TFlex_Model_Model3D_InterpolatingSplinePath3D.md) [TFlex.Model.Model3DPolylineSplinePath3D](T_TFlex_Model_Model3D_PolylineSplinePath3D.md)

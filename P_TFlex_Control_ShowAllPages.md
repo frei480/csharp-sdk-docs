@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlShowAllPages - свойство  
-  
----  
-  
+    
 Параметр "Показывать все страницы"
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

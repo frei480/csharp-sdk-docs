@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Material - свойства  
-  
----  
-  
+    
 Тип [Material](T_TFlex_Model_Model3D_Material.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

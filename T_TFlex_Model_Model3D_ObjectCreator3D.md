@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectCreator3D - класс  
-  
----  
-  
+    
 Класс для создания объектов 3D модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DObjectCreator3D

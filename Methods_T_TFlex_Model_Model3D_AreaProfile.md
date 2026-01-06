@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AreaProfile - методы  
-  
----  
-  
+    
 Тип [AreaProfile](T_TFlex_Model_Model3D_AreaProfile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

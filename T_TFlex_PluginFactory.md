@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginFactory - класс  
-  
----  
-  
+    
 Данный класс отвечает за регистрацию приложения. Он является точкой входа в приложение
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexPluginFactory

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelConfigurationsGetConfiguration - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetConfiguration(Int32)](M_TFlex_Model_ModelConfigurations_GetConfiguration.md) | Получить конфигурацию модели с заданным номером |

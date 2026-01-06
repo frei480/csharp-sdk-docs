@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LCSTestCompatibility - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [TestCompatibility(LCS, LCS)](M_TFlex_Model_Model3D_LCS_TestCompatibility.md) | Проверить совместимость типов, объект и объект |

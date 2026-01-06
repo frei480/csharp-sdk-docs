@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTemperatureGradientCelsiusDegreePerMilliliter - свойство  
-  
----  
-  
+    
 Градус Цельсия на миллиметр; °C/мм; °C/mm; 
 
 Тип - Градиент температур

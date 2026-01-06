@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngleDegree - свойство  
-  
----  
-  
+    
 Градус; °; deg; 
 
 Тип - Угол

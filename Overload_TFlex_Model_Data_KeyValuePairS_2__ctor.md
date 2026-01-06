@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # KeyValuePairSTKey, TValue \- конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [KeyValuePairSTKey, TValue](M_TFlex_Model_Data_KeyValuePairS_2__ctor.md) | Инициализирует новый экземпляр класса [KeyValuePairSTKey, TValue](T_TFlex_Model_Data_KeyValuePairS_2.md) |

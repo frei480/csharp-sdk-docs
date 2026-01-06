@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConstructionOutline - методы  
-  
----  
-  
+    
 Тип [ConstructionOutline](T_TFlex_Model_Model2D_ConstructionOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

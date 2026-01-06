@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialLibraryGetOpenedLibraries - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Получить открытые библиотеки

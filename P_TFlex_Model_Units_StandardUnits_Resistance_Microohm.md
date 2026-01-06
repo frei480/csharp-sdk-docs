@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsResistanceMicroohm - свойство  
-  
----  
-  
+    
 Микроом; мкОм; µΩ; 
 
 Тип - Сопротивление

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Variable(Document, String, Double, Boolean) - конструктор  
-  
----  
-  
+    
 Конструктор, создающий вещественную переменную с указанным значением
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

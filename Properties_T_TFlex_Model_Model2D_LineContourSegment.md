@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LineContourSegment - свойства  
-  
----  
-  
+    
 Тип [LineContourSegment](T_TFlex_Model_Model2D_LineContourSegment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

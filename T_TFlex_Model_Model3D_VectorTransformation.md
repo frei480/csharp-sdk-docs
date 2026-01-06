@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VectorTransformation - класс  
-  
----  
-  
+    
 Базовый класс преобразований относительно оси
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DTransformation](T_TFlex_Model_Model3D_Transformation.md) TFlex.Model.Model3DVectorTransformation [TFlex.Model.Model3DMoveVectorTransformation](T_TFlex_Model_Model3D_MoveVectorTransformation.md) [TFlex.Model.Model3DRotateVectorTransformation](T_TFlex_Model_Model3D_RotateVectorTransformation.md) [TFlex.Model.Model3DScaleVectorTransformation](T_TFlex_Model_Model3D_ScaleVectorTransformation.md)

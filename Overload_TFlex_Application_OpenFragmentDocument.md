@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationOpenFragmentDocument - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [OpenFragmentDocument(FileLink)](M_TFlex_Application_OpenFragmentDocument_2.md) | Открыть документ фрагмента для чтения |

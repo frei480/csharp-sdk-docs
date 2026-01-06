@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OutlinesArray - методы  
-  
----  
-  
+    
 Тип [SketchProfileOutlinesArray](T_TFlex_Model_Model3D_SketchProfile_OutlinesArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

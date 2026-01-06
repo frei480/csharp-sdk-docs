@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectControl - класс  
-  
----  
-  
+    
 Выбор элемента. Может иметь вид панели, списка, выпадающего списка или набора радиокнопок.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) [TFlex.DialogsBaseControl](T_TFlex_Dialogs_BaseControl.md) TFlex.DialogsSelectControl

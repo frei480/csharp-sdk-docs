@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommonAttributes - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CommonAttributes](M_TFlex_Model_Data_ProductStructure_CommonAttributes__ctor.md) | Инициализирует новый экземпляр класса [CommonAttributes](T_TFlex_Model_Data_ProductStructure_CommonAttributes.md) |

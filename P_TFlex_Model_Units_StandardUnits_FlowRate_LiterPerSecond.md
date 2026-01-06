@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsFlowRateLiterPerSecond - свойство  
-  
----  
-  
+    
 Литр в секунду; л/с; l/s; 
 
 Тип - Расход

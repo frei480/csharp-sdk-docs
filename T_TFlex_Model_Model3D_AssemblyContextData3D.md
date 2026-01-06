@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AssemblyContextData3D - класс  
-  
----  
-  
+    
 Данные редактирования документа в контексте 3D сборки
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelAssemblyContextData](T_TFlex_Model_AssemblyContextData.md) TFlex.Model.Model3DAssemblyContextData3D

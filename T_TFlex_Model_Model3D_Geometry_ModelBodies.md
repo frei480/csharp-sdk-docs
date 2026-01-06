@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelBodies - класс  
-  
----  
-  
+    
 Множество тел с объекта модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) [TFlex.Model.Model3D.GeometryBodies](T_TFlex_Model_Model3D_Geometry_Bodies.md) TFlex.Model.Model3D.GeometryModelBodies [TFlex.Model.Model3D.GeometryModelContour](T_TFlex_Model_Model3D_Geometry_ModelContour.md) [TFlex.Model.Model3D.GeometryModelSolid](T_TFlex_Model_Model3D_Geometry_ModelSolid.md)

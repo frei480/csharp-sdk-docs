@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialOperationAddFace - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddFace(ModelFace)](M_TFlex_Model_Model3D_MaterialOperation_AddFace_1.md) | Добавить грань к наложению материала |

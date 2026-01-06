@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # View3D - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [View3D](T_TFlex_Configuration_View3D.md)
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

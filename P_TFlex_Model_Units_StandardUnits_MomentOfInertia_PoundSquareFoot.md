@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMomentOfInertiaPoundSquareFoot - свойство  
-  
----  
-  
+    
 Фунт квадратный фут; фунт·фут²; lb·ft²; 
 
 Тип - Момент инерции

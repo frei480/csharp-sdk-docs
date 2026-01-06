@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Picture3D - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Picture3D(Document)](M_TFlex_Model_Model3D_Picture3D__ctor.md) | Конструктор для операции 3D изображения |

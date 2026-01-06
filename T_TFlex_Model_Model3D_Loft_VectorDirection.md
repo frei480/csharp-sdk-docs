@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftVectorDirection - класс  
-  
----  
-  
+    
 Базовый класс для задания направления вектора для векторного граничного условия
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DLoftVectorDirection [TFlex.Model.Model3DLoftDirectionVector](T_TFlex_Model_Model3D_Loft_DirectionVector.md) [TFlex.Model.Model3DLoftSecondPointVector](T_TFlex_Model_Model3D_Loft_SecondPointVector.md) [TFlex.Model.Model3DLoftSphereVector](T_TFlex_Model_Model3D_Loft_SphereVector.md) [TFlex.Model.Model3DLoftXyzVector](T_TFlex_Model_Model3D_Loft_XyzVector.md)

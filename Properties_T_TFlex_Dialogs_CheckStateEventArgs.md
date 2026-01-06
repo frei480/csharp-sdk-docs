@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CheckStateEventArgs - свойства  
-  
----  
-  
+    
 Тип [CheckStateEventArgs](T_TFlex_Dialogs_CheckStateEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

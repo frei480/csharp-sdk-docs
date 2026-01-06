@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgeBlendingPositionData - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [EdgeBlendingPositionData(Parameter, Parameter)](M_TFlex_Model_Model3D_EdgeBlending_PositionData__ctor.md) | Конструктор |

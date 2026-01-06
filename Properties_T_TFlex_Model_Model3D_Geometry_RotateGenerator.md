@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RotateGenerator - свойства  
-  
----  
-  
+    
 Тип [RotateGenerator](T_TFlex_Model_Model3D_Geometry_RotateGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

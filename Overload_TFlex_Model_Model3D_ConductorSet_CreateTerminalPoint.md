@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConductorSetCreateTerminalPoint - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateTerminalPoint(BasePoint3D)](M_TFlex_Model_Model3D_ConductorSet_CreateTerminalPoint_1.md) |  |

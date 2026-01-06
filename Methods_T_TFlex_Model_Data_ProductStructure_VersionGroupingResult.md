@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VersionGroupingResult - методы  
-  
----  
-  
+    
 Тип [VersionGroupingResult](T_TFlex_Model_Data_ProductStructure_VersionGroupingResult.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

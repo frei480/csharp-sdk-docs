@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectArray - методы  
-  
----  
-  
+    
 Тип [ObjectArray](T_TFlex_Model_ObjectArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

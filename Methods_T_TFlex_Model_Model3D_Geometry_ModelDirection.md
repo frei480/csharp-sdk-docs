@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelDirection - методы  
-  
----  
-  
+    
 Тип [ModelDirection](T_TFlex_Model_Model3D_Geometry_ModelDirection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

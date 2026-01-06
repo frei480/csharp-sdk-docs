@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DraggerDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Visual_Dragger_Dispose.md) | Освобождает все ресурсы, используемые объектом [Dragger](T_TFlex_Model_Model3D_Visual_Dragger.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentFileUserDataProductStructureData - класс  
-  
----  
-  
+    
 Данные о структуре изделия
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model2DFragmentFileUserDataProductStructureData

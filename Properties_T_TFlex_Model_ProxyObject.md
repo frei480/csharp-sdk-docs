@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyObject - свойства  
-  
----  
-  
+    
 Тип [ProxyObject](T_TFlex_Model_ProxyObject.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

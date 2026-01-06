@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MouseEventArgs - методы  
-  
----  
-  
+    
 Тип [MouseEventArgs](T_TFlex_Command_MouseEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

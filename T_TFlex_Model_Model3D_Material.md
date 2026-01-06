@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Material - класс  
-  
----  
-  
+    
 Объект "Материал"
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) TFlex.Model.Model3DMaterial

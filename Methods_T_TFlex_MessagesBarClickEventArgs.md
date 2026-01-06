@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MessagesBarClickEventArgs - методы  
-  
----  
-  
+    
 Тип [MessagesBarClickEventArgs](T_TFlex_MessagesBarClickEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

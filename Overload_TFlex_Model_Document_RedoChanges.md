@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentRedoChanges - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RedoChanges](M_TFlex_Model_Document_RedoChanges.md) | Повторить изменения, сохранённые в последнем отменённом Undo-блоке |

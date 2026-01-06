@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureInchOfMercury - свойство  
-  
----  
-  
+    
 Дюйм ртутного столба; дюйм рт. ст.; inches Hg; 
 
 Тип - Давление

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Vertex - методы  
-  
----  
-  
+    
 Тип [Vertex](T_TFlex_Model_Model3D_Geometry_Vertex.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SourceLoadParameters - свойства  
-  
----  
-  
+    
 Тип [SourceLoadParameters](T_TFlex_Model_Structure_SourceLoadParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

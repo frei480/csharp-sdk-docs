@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Save - методы  
-  
----  
-  
+    
 Тип [Save](T_TFlex_Configuration_Save.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

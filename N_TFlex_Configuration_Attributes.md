@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Configuration.Attributes - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [CustomBrowsableTreeAttribute](T_TFlex_Configuration_Attributes_CustomBrowsableTreeAttribute.md) |  |

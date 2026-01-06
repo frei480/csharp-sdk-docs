@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Point - класс  
-  
----  
-  
+    
 Точка линии связи
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Circuits.GraphPoint

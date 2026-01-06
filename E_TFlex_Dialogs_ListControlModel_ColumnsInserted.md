@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlModelColumnsInserted - событие  
-  
----  
-  
+    
 Событие добавления столбцов
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Parameters - методы  
-  
----  
-  
+    
 Тип [View3DParameters](T_TFlex_Model_Model3D_View3D_Parameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorqueMillinewtonMeter - свойство  
-  
----  
-  
+    
 Миллиньютон метр; мН·м; mN·m; 
 
 Тип - Момент силы

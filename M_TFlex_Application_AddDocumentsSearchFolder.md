@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationAddDocumentsSearchFolder - метод  
-  
----  
-  
+    
 Назначить папку для поиска указанного типа файлов, если при работе с системой она не была задана явно
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

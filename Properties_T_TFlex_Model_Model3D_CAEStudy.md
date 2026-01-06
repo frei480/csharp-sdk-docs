@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CAEStudy - свойства  
-  
----  
-  
+    
 Тип [CAEStudy](T_TFlex_Model_Model3D_CAEStudy.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

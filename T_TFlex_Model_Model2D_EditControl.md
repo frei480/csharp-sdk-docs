@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EditControl - класс  
-  
----  
-  
+    
 Класс элемента управления "Строка редактирования"
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.Model2DControl](T_TFlex_Model_Model2D_Control.md) [TFlex.Model.Model2DVariableControl](T_TFlex_Model_Model2D_VariableControl.md) TFlex.Model.Model2DEditControl

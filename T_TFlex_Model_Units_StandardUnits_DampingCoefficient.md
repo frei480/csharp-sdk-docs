@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDampingCoefficient - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Коэффициент демпфирования
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsDampingCoefficient

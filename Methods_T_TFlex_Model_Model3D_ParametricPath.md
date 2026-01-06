@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParametricPath - методы  
-  
----  
-  
+    
 Тип [ParametricPath](T_TFlex_Model_Model3D_ParametricPath.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

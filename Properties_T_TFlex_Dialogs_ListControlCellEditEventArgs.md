@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlCellEditEventArgs - свойства  
-  
----  
-  
+    
 Тип [ListControlCellEditEventArgs](T_TFlex_Dialogs_ListControlCellEditEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

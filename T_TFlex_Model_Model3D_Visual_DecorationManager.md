@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationManager - класс  
-  
----  
-  
+    
 Диспетчер декораций
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.VisualDecorationManager

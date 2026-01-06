@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AngularDimensionBase - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AngularDimensionBase(Document)](M_TFlex_Model_Model2D_AngularDimensionBase__ctor_2.md) | Инициализирует новый экземпляр класса [AngularDimensionBase](T_TFlex_Model_Model2D_AngularDimensionBase.md) |

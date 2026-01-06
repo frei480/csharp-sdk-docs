@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureKilonewtonPerSquareCentimeter - свойство  
-  
----  
-  
+    
 Килоньютон на квадратный сантиметр; кН/см²; kN/cm²; 
 
 Тип - Давление

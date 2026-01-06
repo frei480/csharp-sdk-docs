@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Model.Model3D.Visual.Manipulators - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [AngularSizeManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_AngularSizeManipulator.md) |  |

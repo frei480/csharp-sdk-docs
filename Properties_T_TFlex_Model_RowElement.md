@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowElement - свойства  
-  
----  
-  
+    
 Тип [RowElement](T_TFlex_Model_RowElement.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

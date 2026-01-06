@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Twist - методы  
-  
----  
-  
+    
 Тип [SurfaceSplinewiseDataTwist](T_TFlex_Model_Model3D_Geometry_SurfaceSplinewiseData_Twist.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

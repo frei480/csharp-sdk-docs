@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsBreakingStrengthNewtonPerSquareMeter - свойство  
-  
----  
-  
+    
 Ньютон на квадратный метр; Н/м²; N/m²; 
 
 Тип - Прочность на разрыв

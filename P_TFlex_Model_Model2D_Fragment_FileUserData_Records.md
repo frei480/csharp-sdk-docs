@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentFileUserDataRecords - свойство  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Пользовательские данные

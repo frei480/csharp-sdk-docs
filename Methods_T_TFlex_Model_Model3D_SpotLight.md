@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SpotLight - методы  
-  
----  
-  
+    
 Тип [SpotLight](T_TFlex_Model_Model3D_SpotLight.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

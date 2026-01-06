@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginException - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [PluginException(Plugin, String)](M_TFlex_PluginException__ctor.md) | Для внутреннего использования |

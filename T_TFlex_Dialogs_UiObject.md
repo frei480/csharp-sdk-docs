@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UiObject - класс  
-  
----  
-  
+    
 Базовый класс для объектов интерфейса пользователя
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsUiObject [TFlex.DialogsBaseControl](T_TFlex_Dialogs_BaseControl.md) [TFlex.DialogsListControlModel](T_TFlex_Dialogs_ListControlModel.md) [TFlex.DialogsNativeWindow](T_TFlex_Dialogs_NativeWindow.md) [TFlex.DialogsObjectSelectControlFilter](T_TFlex_Dialogs_ObjectSelectControlFilter.md)

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Knots - методы  
-  
----  
-  
+    
 Тип [SurfaceSplinewiseDataKnots](T_TFlex_Model_Model3D_Geometry_SurfaceSplinewiseData_Knots.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

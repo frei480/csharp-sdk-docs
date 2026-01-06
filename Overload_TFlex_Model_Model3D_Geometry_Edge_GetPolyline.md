@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgeGetPolyline - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetPolyline](M_TFlex_Model_Model3D_Geometry_Edge_GetPolyline.md) | Полилиния |

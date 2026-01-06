@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelSheet - свойства  
-  
----  
-  
+    
 Тип [ModelSheet](T_TFlex_Model_Model3D_Geometry_ModelSheet.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

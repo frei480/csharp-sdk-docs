@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectTerm - методы  
-  
----  
-  
+    
 Тип [ObjectTerm](T_TFlex_Model_Data_ProductStructure_ObjectTerm.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

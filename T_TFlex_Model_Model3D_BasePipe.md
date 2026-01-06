@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BasePipe - класс  
-  
----  
-  
+    
 Базовая операция трубопровода
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DOperation](T_TFlex_Model_Model3D_Operation.md) TFlex.Model.Model3DBasePipe [TFlex.Model.Model3DPipe](T_TFlex_Model_Model3D_Pipe.md) [TFlex.Model.Model3DRectanglePipe](T_TFlex_Model_Model3D_RectanglePipe.md)

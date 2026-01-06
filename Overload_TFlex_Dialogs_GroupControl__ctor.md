@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GroupControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GroupControl](M_TFlex_Dialogs_GroupControl__ctor.md) | Инициализирует новый экземпляр класса [GroupControl](T_TFlex_Dialogs_GroupControl.md) |

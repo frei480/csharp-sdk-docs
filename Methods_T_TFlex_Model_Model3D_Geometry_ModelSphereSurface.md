@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelSphereSurface - методы  
-  
----  
-  
+    
 Тип [ModelSphereSurface](T_TFlex_Model_Model3D_Geometry_ModelSphereSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

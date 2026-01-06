@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Formlimits - класс  
-  
----  
-  
+    
 Базовый класс допусков формы, расположения и обозначения базы
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) TFlex.Model.Model2DFormlimits [TFlex.Model.Model2DFormlimitsBase](T_TFlex_Model_Model2D_FormlimitsBase.md) [TFlex.Model.Model2DFormlimitsSymbol](T_TFlex_Model_Model2D_FormlimitsSymbol.md)

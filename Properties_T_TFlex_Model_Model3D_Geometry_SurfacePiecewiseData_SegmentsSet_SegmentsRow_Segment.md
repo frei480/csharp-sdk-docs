@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Segment - свойства  
-  
----  
-  
+    
 Тип [SurfacePiecewiseDataSegmentsSetSegmentsRowSegment](T_TFlex_Model_Model3D_Geometry_SurfacePiecewiseData_SegmentsSet_SegmentsRow_Segment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

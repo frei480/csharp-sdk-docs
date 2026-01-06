@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsFrequencyMegahertz - свойство  
-  
----  
-  
+    
 Мегагерц; МГц; MHz; 
 
 Тип - Частота

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyBaseOperation - свойства  
-  
----  
-  
+    
 Тип [CopyBaseOperation](T_TFlex_Model_Model3D_CopyBaseOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

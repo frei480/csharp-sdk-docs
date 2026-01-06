@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MarkManagerAdd - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Add(ListKeyValuePairObject3D, MarkManagerStyle)](M_TFlex_Model_Model3D_Visual_MarkManager_Add.md) |  |

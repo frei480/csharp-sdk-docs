@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AffineMap - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AffineMap](M_TFlex_Drawing_AffineMap__ctor.md) | Конструктор |

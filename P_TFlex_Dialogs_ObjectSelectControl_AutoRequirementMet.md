@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlAutoRequirementMet - свойство  
-  
----  
-  
+    
 Автоматически выставлять свойство IsRequarementMet. Также см. IsRequired.
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

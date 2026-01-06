@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorsionalStrengthNewtonPerMeter - свойство  
-  
----  
-  
+    
 Ньютон на метр; Н/м; N/m; 
 
 Тип - Прочность кручения

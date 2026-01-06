@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ButtonControl(String, String) - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [ButtonControl](T_TFlex_Dialogs_ButtonControl.md)
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

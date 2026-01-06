@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentLoadParameters - свойства  
-  
----  
-  
+    
 Тип [DocumentLoadParameters](T_TFlex_Model_Structure_DocumentLoadParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

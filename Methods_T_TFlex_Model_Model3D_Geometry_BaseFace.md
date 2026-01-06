@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseFace - методы  
-  
----  
-  
+    
 Тип [BaseFace](T_TFlex_Model_Model3D_Geometry_BaseFace.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

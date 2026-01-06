@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SaveInNomenclatureOptions - методы  
-  
----  
-  
+    
 Тип [SaveInNomenclatureOptions](T_TFlex_Model_SaveInNomenclatureOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

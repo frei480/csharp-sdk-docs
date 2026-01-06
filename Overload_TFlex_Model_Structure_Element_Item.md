@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementItem - свойство  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ItemGuid](P_TFlex_Model_Structure_Element_Item.md) |  |

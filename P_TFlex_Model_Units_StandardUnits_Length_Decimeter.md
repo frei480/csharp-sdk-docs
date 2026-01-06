@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLengthDecimeter - свойство  
-  
----  
-  
+    
 Дециметр; дм; dm; 
 
 Тип - Длина

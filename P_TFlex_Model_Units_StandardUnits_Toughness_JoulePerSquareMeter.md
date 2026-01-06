@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsToughnessJoulePerSquareMeter - свойство  
-  
----  
-  
+    
 Джоуль на квадратный метр; Дж/м²; J/m²; 
 
 Тип - Ударная вязкость

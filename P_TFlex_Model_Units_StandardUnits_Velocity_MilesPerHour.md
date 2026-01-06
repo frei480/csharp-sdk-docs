@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVelocityMilesPerHour - свойство  
-  
----  
-  
+    
 Миль в час; миль/ч; mph; 
 
 Тип - Скорость

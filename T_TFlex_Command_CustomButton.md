@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomButton - класс  
-  
----  
-  
+    
 Кнопка с иконкой
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.CommandButton](T_TFlex_Command_Button.md) TFlex.CommandCustomButton

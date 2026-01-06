@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PendingGeometryChangedEventArgs - методы  
-  
----  
-  
+    
 Тип [PendingGeometryChangedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_PendingGeometryChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

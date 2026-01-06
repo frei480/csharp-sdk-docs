@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ContinueEventArgs - методы  
-  
----  
-  
+    
 Тип [ContinueEventArgs](T_TFlex_Command_ContinueEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

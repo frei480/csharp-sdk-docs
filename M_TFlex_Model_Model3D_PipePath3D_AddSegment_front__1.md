@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DAddSegment_frontType \- метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Добавить участок в начало

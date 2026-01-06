@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLengthFoot - свойство  
-  
----  
-  
+    
 Фут; фут; ft; 
 
 Тип - Длина

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # References - свойства  
-  
----  
-  
+    
 Тип [References](T_TFlex_Model_Model3D_References.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

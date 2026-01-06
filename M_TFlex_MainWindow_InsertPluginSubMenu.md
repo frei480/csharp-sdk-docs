@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MainWindowInsertPluginSubMenu(String, MainWindowInsertMenuPosition, Plugin) - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Вставить подменю приложения

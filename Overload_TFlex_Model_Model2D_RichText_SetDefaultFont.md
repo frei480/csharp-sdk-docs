@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextSetDefaultFont - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetDefaultFont(String, Double, UInt32, Boolean)](M_TFlex_Model_Model2D_RichText_SetDefaultFont.md) | Установка шрифта, используемого по умолчанию |

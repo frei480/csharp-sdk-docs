@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PageColors - методы  
-  
----  
-  
+    
 Тип [PageColors](T_TFlex_Configuration_PageColors.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectionAreaArray - свойства  
-  
----  
-  
+    
 Тип [ProjectionAreaArray](T_TFlex_Model_Model3D_ProjectionAreaArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlSingleObject - свойство  
-  
----  
-  
+    
 Используется для установки или получения объекта, когда элемент управления находится в режиме выбора одного объекта
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

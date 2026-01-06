@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Icon - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Icon](M_TFlex_Dialogs_Icon__ctor.md) | Инициализирует новый экземпляр класса [Icon](T_TFlex_Dialogs_Icon.md) |

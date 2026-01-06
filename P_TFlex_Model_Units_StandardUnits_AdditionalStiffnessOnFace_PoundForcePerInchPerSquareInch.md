@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAdditionalStiffnessOnFacePoundForcePerInchPerSquareInch - свойство  
-  
----  
-  
+    
 Фунт-сила на дюйм на квадратный дюйм; (фунт-сила/дюйм)/дюйм²; (lbf/in)/in²; 
 
 Тип - Дополнительная жёсткость на грань

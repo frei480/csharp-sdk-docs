@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommandEventArgs - свойства  
-  
----  
-  
+    
 Тип [CommandEventArgs](T_TFlex_Command_CommandEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

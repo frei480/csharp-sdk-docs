@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FindAreaContourOptions - методы  
-  
----  
-  
+    
 Тип [FindAreaContourOptions](T_TFlex_Model_Model2D_FindAreaContourOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

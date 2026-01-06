@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PerpendicularToPathWorkplane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [PerpendicularToPathWorkplane(Document)](M_TFlex_Model_Model3D_PerpendicularToPathWorkplane__ctor.md) | Конструктор для создания рабочей плоскости |

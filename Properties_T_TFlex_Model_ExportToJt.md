@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToJt - свойства  
-  
----  
-  
+    
 Тип [ExportToJt](T_TFlex_Model_ExportToJt.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

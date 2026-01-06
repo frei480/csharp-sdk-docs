@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseGenerator - методы  
-  
----  
-  
+    
 Тип [BaseGenerator](T_TFlex_Model_Model3D_Geometry_BaseGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

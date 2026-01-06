@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GroupBox - свойства  
-  
----  
-  
+    
 Тип [GroupBox](T_TFlex_Model_Model2D_GroupBox.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

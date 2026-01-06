@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Pipe - методы  
-  
----  
-  
+    
 Тип [Pipe](T_TFlex_Model_Model3D_Pipe.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

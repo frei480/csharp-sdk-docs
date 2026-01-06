@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ShowingImportExportDialogEventArgsItem - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [ShowingImportExportDialogEventArgsItem](T_TFlex_ShowingImportExportDialogEventArgs_Item.md)
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

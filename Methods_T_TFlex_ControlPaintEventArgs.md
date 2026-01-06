@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlPaintEventArgs - методы  
-  
----  
-  
+    
 Тип [ControlPaintEventArgs](T_TFlex_ControlPaintEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

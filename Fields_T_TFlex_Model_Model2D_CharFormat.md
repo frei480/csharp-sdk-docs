@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CharFormat - поля  
-  
----  
-  
+    
 Тип [CharFormat](T_TFlex_Model_Model2D_CharFormat.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

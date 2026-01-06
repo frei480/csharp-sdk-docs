@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InsertObjectOptions - методы  
-  
----  
-  
+    
 Тип [RichTextInsertObjectOptions](T_TFlex_Model_Model2D_RichText_InsertObjectOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

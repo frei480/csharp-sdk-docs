@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyObjectDrawContextAssemblyContext - свойство  
-  
----  
-  
+    
 Стек документов сборки от корневой до текущего документа фрагмента
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

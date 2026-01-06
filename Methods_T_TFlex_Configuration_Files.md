@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Files - методы  
-  
----  
-  
+    
 Тип [Files](T_TFlex_Configuration_Files.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

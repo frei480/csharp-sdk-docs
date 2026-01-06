@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TreeSettings - свойства  
-  
----  
-  
+    
 Тип [TreeSettings](T_TFlex_Configuration_TreeSettings.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

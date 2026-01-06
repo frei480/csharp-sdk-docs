@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModalDialogPage - класс  
-  
----  
-  
+    
 Вкладка в модальном диалоге
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsModalDialogPage

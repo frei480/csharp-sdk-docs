@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseDirectionAddition - оператор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Addition(BaseDirection, BaseDirection)](M_TFlex_Model_Model3D_Geometry_BaseDirection_op_Addition.md) |  |

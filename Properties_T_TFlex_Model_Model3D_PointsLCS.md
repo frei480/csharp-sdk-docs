@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointsLCS - свойства  
-  
----  
-  
+    
 Тип [PointsLCS](T_TFlex_Model_Model3D_PointsLCS.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

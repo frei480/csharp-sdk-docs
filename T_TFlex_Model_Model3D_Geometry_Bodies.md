@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Bodies - класс  
-  
----  
-  
+    
 Базовый класс для множества тел
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) TFlex.Model.Model3D.GeometryBodies [TFlex.Model.Model3D.GeometryModelBodies](T_TFlex_Model_Model3D_Geometry_ModelBodies.md) [TFlex.Model.Model3D.GeometryTopolBodies](T_TFlex_Model_Model3D_Geometry_TopolBodies.md)

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Torque - методы  
-  
----  
-  
+    
 Тип [StandardUnitsTorque](T_TFlex_Model_Units_StandardUnits_Torque.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

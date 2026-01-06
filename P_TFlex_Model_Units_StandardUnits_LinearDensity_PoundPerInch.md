@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensityPoundPerInch - свойство  
-  
----  
-  
+    
 Фунт на дюйм; фунт/дюйм; lb/in; 
 
 Тип - Линейная плотность

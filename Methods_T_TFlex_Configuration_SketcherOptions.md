@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SketcherOptions - методы  
-  
----  
-  
+    
 Тип [SketcherOptions](T_TFlex_Configuration_SketcherOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

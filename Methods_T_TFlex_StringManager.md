@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StringManager - методы  
-  
----  
-  
+    
 Тип [StringManager](T_TFlex_StringManager.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

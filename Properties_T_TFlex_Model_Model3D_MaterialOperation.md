@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialOperation - свойства  
-  
----  
-  
+    
 Тип [MaterialOperation](T_TFlex_Model_Model3D_MaterialOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

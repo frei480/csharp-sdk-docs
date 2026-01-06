@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Plane - класс  
-  
----  
-  
+    
 Геометрическая плоскость
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) [TFlex.Model.Model3D.GeometryBasePlane](T_TFlex_Model_Model3D_Geometry_BasePlane.md) TFlex.Model.Model3D.GeometryPlane

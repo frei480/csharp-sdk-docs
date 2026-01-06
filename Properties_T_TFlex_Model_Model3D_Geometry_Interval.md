@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Interval - свойства  
-  
----  
-  
+    
 Тип [Interval](T_TFlex_Model_Model3D_Geometry_Interval.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

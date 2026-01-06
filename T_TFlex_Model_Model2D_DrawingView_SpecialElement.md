@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DrawingViewSpecialElement - класс  
-  
----  
-  
+    
 Особый элемент оформления, входящий в вид
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model2DDrawingViewSpecialElement

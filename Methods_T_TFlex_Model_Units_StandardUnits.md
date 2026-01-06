@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnits - методы  
-  
----  
-  
+    
 Тип [StandardUnits](T_TFlex_Model_Units_StandardUnits.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

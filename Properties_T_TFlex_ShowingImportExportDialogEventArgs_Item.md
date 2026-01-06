@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Item - свойства  
-  
----  
-  
+    
 Тип [ShowingImportExportDialogEventArgsItem](T_TFlex_ShowingImportExportDialogEventArgs_Item.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

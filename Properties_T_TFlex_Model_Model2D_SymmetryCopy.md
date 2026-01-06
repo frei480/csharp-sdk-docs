@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SymmetryCopy - свойства  
-  
----  
-  
+    
 Тип [SymmetryCopy](T_TFlex_Model_Model2D_SymmetryCopy.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

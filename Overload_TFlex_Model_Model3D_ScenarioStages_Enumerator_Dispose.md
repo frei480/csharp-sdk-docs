@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScenarioStagesEnumeratorDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_ScenarioStages_Enumerator_Dispose.md) | Освобождает все ресурсы, используемые объектом [ScenarioStagesEnumerator](T_TFlex_Model_Model3D_ScenarioStages_Enumerator.md) |

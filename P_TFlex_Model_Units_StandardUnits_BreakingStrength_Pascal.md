@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsBreakingStrengthPascal - свойство  
-  
----  
-  
+    
 Паскаль; Па; Pa; 
 
 Тип - Прочность на разрыв

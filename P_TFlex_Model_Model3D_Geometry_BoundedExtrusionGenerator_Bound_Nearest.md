@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoundedExtrusionGeneratorBoundNearest - свойство  
-  
----  
-  
+    
 Если true, то разбиения нумеруются начиная с первого и увеличиваясь в направлении движения от профиля. Если false, то первое разбиение наиболее удалено от профиля и номер разбиения увеличивается в направлении движения к профилю.
 
 **Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

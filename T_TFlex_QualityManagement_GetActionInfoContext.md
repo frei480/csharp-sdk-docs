@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GetActionInfoContext - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.QualityManagementGetActionInfoContext
 
 **Пространство имён:** [TFlex.QualityManagement](N_TFlex_QualityManagement.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

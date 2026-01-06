@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentParameters - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DocumentParameters](M_TFlex_Configuration_DocumentParameters__ctor.md) | Инициализирует новый экземпляр класса [DocumentParameters](T_TFlex_Configuration_DocumentParameters.md) |

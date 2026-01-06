@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ViewFrustum - поля  
-  
----  
-  
+    
 Тип [View3DViewFrustum](T_TFlex_Model_Model3D_View3D_ViewFrustum.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

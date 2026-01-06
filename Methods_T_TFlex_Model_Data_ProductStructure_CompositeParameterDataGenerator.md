@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CompositeParameterDataGenerator - методы  
-  
----  
-  
+    
 Тип [CompositeParameterDataGenerator](T_TFlex_Model_Data_ProductStructure_CompositeParameterDataGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

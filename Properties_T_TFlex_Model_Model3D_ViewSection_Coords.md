@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Coords - свойства  
-  
----  
-  
+    
 Тип [ViewSectionCoords](T_TFlex_Model_Model3D_ViewSection_Coords.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

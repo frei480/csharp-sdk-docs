@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardWorkplane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [StandardWorkplane(Document, StandardWorkplaneStandardType)](M_TFlex_Model_Model3D_StandardWorkplane__ctor.md) | Конструктор для создания стандартной рабочей плоскости |

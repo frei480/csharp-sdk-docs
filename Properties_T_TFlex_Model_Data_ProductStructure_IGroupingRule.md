@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IGroupingRule - свойства  
-  
----  
-  
+    
 Тип [IGroupingRule](T_TFlex_Model_Data_ProductStructure_IGroupingRule.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

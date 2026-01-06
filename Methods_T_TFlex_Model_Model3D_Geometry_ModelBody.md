@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelBody - методы  
-  
----  
-  
+    
 Тип [ModelBody](T_TFlex_Model_Model3D_Geometry_ModelBody.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

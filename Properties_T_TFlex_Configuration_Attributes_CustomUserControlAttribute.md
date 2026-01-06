@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomUserControlAttribute - свойства  
-  
----  
-  
+    
 Тип [CustomUserControlAttribute](T_TFlex_Configuration_Attributes_CustomUserControlAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

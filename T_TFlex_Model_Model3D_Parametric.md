@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Parametric - класс  
-  
----  
-  
+    
 Базовый класс определения общих свойств параметрических объектов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DParametric [TFlex.Model.Model3DGuidePathParametric](T_TFlex_Model_Model3D_GuidePathParametric.md) [TFlex.Model.Model3DVariableParametric](T_TFlex_Model_Model3D_VariableParametric.md)

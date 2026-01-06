@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixingVector - класс  
-  
----  
-  
+    
 Класс вектора привязки
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) TFlex.Model.Model2DFixingVector [TFlex.Model.Model2DConnector](T_TFlex_Model_Model2D_Connector.md) [TFlex.Model.Model2DLcs2D](T_TFlex_Model_Model2D_Lcs2D.md)

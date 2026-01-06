@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplineData - методы  
-  
----  
-  
+    
 Тип [SplineData](T_TFlex_Model_Model3D_Geometry_SplineData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

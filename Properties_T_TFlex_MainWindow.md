@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MainWindow - свойства  
-  
----  
-  
+    
 Тип [MainWindow](T_TFlex_MainWindow.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TableGetCellText - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetCellText(UInt32)](M_TFlex_Model_Model2D_Table_GetCellText.md) | Получение текста в ячейке |

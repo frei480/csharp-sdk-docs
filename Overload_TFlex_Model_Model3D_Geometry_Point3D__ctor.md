@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Point3D - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Point3D(BasePoint3D)](M_TFlex_Model_Model3D_Geometry_Point3D__ctor_1.md) | Конструктор, копирующий координаты другой точки |

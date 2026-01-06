@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVoltageMicrovolt - свойство  
-  
----  
-  
+    
 Микровольт; мкВ; mkV; 
 
 Тип - Напряжение

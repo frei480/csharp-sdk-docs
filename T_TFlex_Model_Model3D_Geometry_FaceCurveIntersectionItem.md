@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceCurveIntersectionItem - класс  
-  
----  
-  
+    
 Тип данных, описывающий одно пересечение грани и кривой.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryFaceCurveIntersectionItem

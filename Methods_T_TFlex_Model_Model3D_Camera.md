@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Camera - методы  
-  
----  
-  
+    
 Тип [Camera](T_TFlex_Model_Model3D_Camera.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

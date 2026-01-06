@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatConvectionCoefficientWattPerSquareCentimeterCelsiusDegree - свойство  
-  
----  
-  
+    
 Ватт на квадратный сантиметр на градус Цельсия; Вт/(см²·°С); W/(cm²·°C); 
 
 Тип - Коэффициент теплоотдачи

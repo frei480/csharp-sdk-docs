@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngleRevolution - свойство  
-  
----  
-  
+    
 Оборот; оборот; revolution; 
 
 Тип - Угол

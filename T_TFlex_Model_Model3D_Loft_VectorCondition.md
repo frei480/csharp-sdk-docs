@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftVectorCondition - класс  
-  
----  
-  
+    
 Класс для задания векторного условия
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DLoftVectorCondition

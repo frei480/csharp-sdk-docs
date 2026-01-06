@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TempFileLinkParameters - методы  
-  
----  
-  
+    
 Тип [TempFileLinkParameters](T_TFlex_Model_TempFileLinkParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

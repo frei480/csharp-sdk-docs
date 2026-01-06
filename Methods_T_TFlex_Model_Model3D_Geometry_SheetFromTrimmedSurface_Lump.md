@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Lump - методы  
-  
----  
-  
+    
 Тип [SheetFromTrimmedSurfaceLump](T_TFlex_Model_Model3D_Geometry_SheetFromTrimmedSurface_Lump.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

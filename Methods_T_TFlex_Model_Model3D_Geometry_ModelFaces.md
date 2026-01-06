@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelFaces - методы  
-  
----  
-  
+    
 Тип [ModelFaces](T_TFlex_Model_Model3D_Geometry_ModelFaces.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

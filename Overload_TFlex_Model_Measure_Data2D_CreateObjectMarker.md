@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Data2DCreateObjectMarker - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateObjectMarker(UInt64, String, Page, ListObjectId)](M_TFlex_Model_Measure_Data2D_CreateObjectMarker.md) |  |

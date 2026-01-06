@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplinePath3D - методы  
-  
----  
-  
+    
 Тип [SplinePath3D](T_TFlex_Model_Model3D_SplinePath3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

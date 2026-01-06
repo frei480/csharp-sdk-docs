@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Harness3DInfo - методы  
-  
----  
-  
+    
 Тип [Harness3DHarness3DInfo](T_TFlex_Model_Model3D_Harness3D_Harness3DInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

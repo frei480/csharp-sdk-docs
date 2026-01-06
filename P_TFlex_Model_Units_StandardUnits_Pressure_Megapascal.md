@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureMegapascal - свойство  
-  
----  
-  
+    
 Мегапаскаль; МПа; MPa; 
 
 Тип - Давление

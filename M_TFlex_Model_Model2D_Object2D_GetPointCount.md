@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object2DGetPointCount - метод  
-  
----  
-  
+    
 Получение количества характерных точек объекта, в которых может быть построен узел
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

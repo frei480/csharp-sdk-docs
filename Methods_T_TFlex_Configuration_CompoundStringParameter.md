@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CompoundStringParameter - методы  
-  
----  
-  
+    
 Тип [CompoundStringParameter](T_TFlex_Configuration_CompoundStringParameter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

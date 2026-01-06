@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixResult - свойства  
-  
----  
-  
+    
 Тип [FixResult](T_TFlex_QualityManagement_FixResult.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

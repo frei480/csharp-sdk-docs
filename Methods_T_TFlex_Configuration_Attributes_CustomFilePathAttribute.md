@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomFilePathAttribute - методы  
-  
----  
-  
+    
 Тип [CustomFilePathAttribute](T_TFlex_Configuration_Attributes_CustomFilePathAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

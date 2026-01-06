@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Cable - операторы  
-  
----  
-  
+    
 Тип [Cable](T_TFlex_Model_Model3D_ConductorModel_Cable.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

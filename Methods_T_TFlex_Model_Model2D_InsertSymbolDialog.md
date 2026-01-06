@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InsertSymbolDialog - методы  
-  
----  
-  
+    
 Тип [InsertSymbolDialog](T_TFlex_Model_Model2D_InsertSymbolDialog.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

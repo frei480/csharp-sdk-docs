@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PerspectiveCamera - методы  
-  
----  
-  
+    
 Тип [PerspectiveCamera](T_TFlex_Model_Model3D_PerspectiveCamera.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

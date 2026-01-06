@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Graphics - свойства  
-  
----  
-  
+    
 Тип [Graphics](T_TFlex_Drawing_Graphics.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftGeneratorSetSApexDir - метод  
-  
----  
-  
+    
 Функция устанавливает задающию нормаль к касательной плоскости вершинного лофтинга
 
 **Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

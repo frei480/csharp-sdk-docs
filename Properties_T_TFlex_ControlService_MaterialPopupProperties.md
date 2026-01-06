@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialPopupProperties - свойства  
-  
----  
-  
+    
 Тип [MaterialPopupProperties](T_TFlex_ControlService_MaterialPopupProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

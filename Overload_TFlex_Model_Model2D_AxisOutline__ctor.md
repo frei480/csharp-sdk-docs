@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AxisOutline - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AxisOutline(Document, Outline, Outline)](M_TFlex_Model_Model2D_AxisOutline__ctor.md) | Конструктор |

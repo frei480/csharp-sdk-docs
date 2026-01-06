@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginCreateFloatingWindowControl - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateFloatingWindowControl(UInt32)](M_TFlex_Plugin_CreateFloatingWindowControl.md) | Создать клиентскую часть плавающего окна приложения |

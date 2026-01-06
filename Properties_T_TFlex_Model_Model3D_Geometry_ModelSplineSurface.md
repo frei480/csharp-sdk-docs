@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelSplineSurface - свойства  
-  
----  
-  
+    
 Тип [ModelSplineSurface](T_TFlex_Model_Model3D_Geometry_ModelSplineSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

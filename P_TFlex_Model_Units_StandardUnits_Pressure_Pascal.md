@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressurePascal - свойство  
-  
----  
-  
+    
 Паскаль; Па; Pa; 
 
 Тип - Давление

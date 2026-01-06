@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureKilopascal - свойство  
-  
----  
-  
+    
 Килопаскаль; кПа; kPa; 
 
 Тип - Давление

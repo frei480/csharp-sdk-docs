@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NativeControl - класс  
-  
----  
-  
+    
 Контрол, позволяющий отображать элементы WinForms, WPF, либо родные окна Win32
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) [TFlex.DialogsBaseControl](T_TFlex_Dialogs_BaseControl.md) TFlex.DialogsNativeControl

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureUpdatingEventArgs - методы  
-  
----  
-  
+    
 Тип [ProductStructureUpdatingEventArgs](T_TFlex_ProductStructureUpdatingEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DrawingViewBreaks - класс  
-  
----  
-  
+    
 Набор разрывов чертёжного вида
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model2DDrawingViewBreaks

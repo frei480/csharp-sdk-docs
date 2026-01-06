@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Database - класс  
-  
----  
-  
+    
 Класс базы данных
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) TFlex.ModelDatabase [TFlex.ModelDOCsReferenceDatabase](T_TFlex_Model_DOCsReferenceDatabase.md) [TFlex.ModelInternalDatabase](T_TFlex_Model_InternalDatabase.md) [TFlex.ModelReferenceDatabase](T_TFlex_Model_ReferenceDatabase.md)

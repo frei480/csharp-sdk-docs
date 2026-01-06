@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlItemCollectionClear - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Clear](M_TFlex_Dialogs_Collection_1_Clear.md) | Удалить все элементы из коллекции |

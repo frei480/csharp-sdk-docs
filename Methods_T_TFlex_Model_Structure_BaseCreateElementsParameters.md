@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseCreateElementsParameters - методы  
-  
----  
-  
+    
 Тип [BaseCreateElementsParameters](T_TFlex_Model_Structure_BaseCreateElementsParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

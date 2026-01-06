@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Splice - класс  
-  
----  
-  
+    
 Информация о точке сращивания
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.CircuitsSplice

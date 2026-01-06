@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DraggerManagerDispose - метод  
-  
----  
-  
+    
 Освобождает все ресурсы, используемые объектом [DraggerManager](T_TFlex_Model_Model3D_Visual_DraggerManager.md)
 
 **Пространство имён:** [TFlex.Model.Model3D.Visual](N_TFlex_Model_Model3D_Visual.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAccelerationCentimeterPerSquareSecond - свойство  
-  
----  
-  
+    
 Сантиметр на секунду в квадрате; см/с²; sm/s²; 
 
 Тип - Ускорение

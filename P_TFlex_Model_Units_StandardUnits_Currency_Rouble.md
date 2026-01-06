@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCurrencyRouble - свойство  
-  
----  
-  
+    
 Рубль; руб; RU; 
 
 Тип - Валюта

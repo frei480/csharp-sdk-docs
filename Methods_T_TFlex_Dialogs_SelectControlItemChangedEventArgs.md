@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectControlItemChangedEventArgs - методы  
-  
----  
-  
+    
 Тип [SelectControlItemChangedEventArgs](T_TFlex_Dialogs_SelectControlItemChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DBaseSegment - класс  
-  
----  
-  
+    
 Базовый класс участок пути
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DPipePath3DBaseSegment Подробнее

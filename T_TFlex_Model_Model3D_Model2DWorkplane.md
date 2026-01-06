@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Model2DWorkplane - класс  
-  
----  
-  
+    
 Рабочая плоскость, построенная по 2D
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DConstruction3D](T_TFlex_Model_Model3D_Construction3D.md) [TFlex.Model.Model3DWorkSurface](T_TFlex_Model_Model3D_WorkSurface.md) [TFlex.Model.Model3DWorkplane](T_TFlex_Model_Model3D_Workplane.md) TFlex.Model.Model3DModel2DWorkplane [TFlex.Model.Model3DAuxiliaryWorkplane](T_TFlex_Model_Model3D_AuxiliaryWorkplane.md) [TFlex.Model.Model3DLCSWorkplane](T_TFlex_Model_Model3D_LCSWorkplane.md) [TFlex.Model.Model3DProjectingWorkplane](T_TFlex_Model_Model3D_ProjectingWorkplane.md) [TFlex.Model.Model3DStandardWorkplane](T_TFlex_Model_Model3D_StandardWorkplane.md)

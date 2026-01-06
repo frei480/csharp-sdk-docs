@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DBasePoint3DSetPosition - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetPosition(ModelPoint3D)](M_TFlex_Model_Model3D_PipePath3D_BasePoint3D_SetPosition_1.md) | Устанавливает положение точки по ModelPoint |

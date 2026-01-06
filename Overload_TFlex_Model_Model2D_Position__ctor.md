@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Position - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Position(Int32)](M_TFlex_Model_Model2D_Position__ctor.md) | Конструктор |

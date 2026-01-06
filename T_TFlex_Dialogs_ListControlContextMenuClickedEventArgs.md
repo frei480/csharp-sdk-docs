@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlContextMenuClickedEventArgs - класс  
-  
----  
-  
+    
 Событие нажатия в контекстном меню в ListControl
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.DialogsBaseEventArgs](T_TFlex_Dialogs_BaseEventArgs.md) TFlex.DialogsListControlContextMenuClickedEventArgs

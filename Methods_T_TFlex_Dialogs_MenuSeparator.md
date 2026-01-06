@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MenuSeparator - методы  
-  
----  
-  
+    
 Тип [MenuSeparator](T_TFlex_Dialogs_MenuSeparator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

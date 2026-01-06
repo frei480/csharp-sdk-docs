@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WireFromEdgesGenerator - класс  
-  
----  
-  
+    
 Генератор проволочных тел по набору рёбер с разных тел
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryBaseGenerator](T_TFlex_Model_Model3D_Geometry_BaseGenerator.md) [TFlex.Model.Model3D.GeometryBodyGenerator](T_TFlex_Model_Model3D_Geometry_BodyGenerator.md) TFlex.Model.Model3D.GeometryWireFromEdgesGenerator

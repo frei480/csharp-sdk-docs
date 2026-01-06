@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PopupToolBarButtonSet - класс  
-  
----  
-  
+    
 Набор кнопок, отображаемых в динамической панели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexPopupToolBarButtonSet

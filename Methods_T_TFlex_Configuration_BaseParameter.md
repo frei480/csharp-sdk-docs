@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseParameter - методы  
-  
----  
-  
+    
 Тип [BaseParameter](T_TFlex_Configuration_BaseParameter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

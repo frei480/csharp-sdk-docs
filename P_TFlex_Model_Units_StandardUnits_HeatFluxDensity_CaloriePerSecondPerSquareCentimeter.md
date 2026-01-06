@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatFluxDensityCaloriePerSecondPerSquareCentimeter - свойство  
-  
----  
-  
+    
 Калория в секунду на квадратный сантиметр; кал/(см²·с); cal/(cm²·s); 
 
 Тип - Плотность теплового потока

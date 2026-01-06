@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Enumerator - методы  
-  
----  
-  
+    
 Тип [CollectionTEnumerator](T_TFlex_Dialogs_Collection_1_Enumerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

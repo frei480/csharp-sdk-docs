@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EuclideanWorkplaneManager - методы  
-  
----  
-  
+    
 Тип [EuclideanWorkplaneManager](T_TFlex_Model_Model3D_EuclideanWorkplaneManager.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

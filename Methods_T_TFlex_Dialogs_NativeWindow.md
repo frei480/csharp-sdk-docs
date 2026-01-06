@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NativeWindow - методы  
-  
----  
-  
+    
 Тип [NativeWindow](T_TFlex_Dialogs_NativeWindow.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

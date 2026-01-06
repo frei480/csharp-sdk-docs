@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IconGetHashCode - метод  
-  
----  
-**Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
 
 ```csharp
 public override int GetHashCode()

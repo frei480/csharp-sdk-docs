@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelVertex - свойства  
-  
----  
-  
+    
 Тип [ModelVertex](T_TFlex_Model_Model3D_Geometry_ModelVertex.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

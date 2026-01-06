@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VersionNameParameterDataGenerator - методы  
-  
----  
-  
+    
 Тип [VersionNameParameterDataGenerator](T_TFlex_Model_Data_ProductStructure_VersionNameParameterDataGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

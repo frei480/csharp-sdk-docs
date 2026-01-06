@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLuminousIntensity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Сила света
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsLuminousIntensity

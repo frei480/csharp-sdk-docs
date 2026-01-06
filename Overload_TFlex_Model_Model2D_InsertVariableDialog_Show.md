@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InsertVariableDialogShow - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Show](M_TFlex_Model_Model2D_InsertVariableDialog_Show.md) |  |

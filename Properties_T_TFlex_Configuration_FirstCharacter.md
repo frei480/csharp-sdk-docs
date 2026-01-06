@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FirstCharacter - свойства  
-  
----  
-  
+    
 Тип [FirstCharacter](T_TFlex_Configuration_FirstCharacter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScalePreset - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ScalePreset](M_TFlex_Configuration_ScalePreset__ctor.md) | Инициализирует новый экземпляр класса [ScalePreset](T_TFlex_Configuration_ScalePreset.md) |

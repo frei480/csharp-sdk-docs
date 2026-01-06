@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UnitsExtensions - методы  
-  
----  
-  
+    
 Тип [UnitsExtensions](T_TFlex_Model_Units_UnitsExtensions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectGroup - свойства  
-  
----  
-  
+    
 Тип [ModelObjectGroup](T_TFlex_Model_ModelObjectGroup.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

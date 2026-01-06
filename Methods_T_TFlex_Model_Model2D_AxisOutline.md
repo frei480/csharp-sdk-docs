@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AxisOutline - методы  
-  
----  
-  
+    
 Тип [AxisOutline](T_TFlex_Model_Model2D_AxisOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GetActionInfoContext - методы  
-  
----  
-  
+    
 Тип [GetActionInfoContext](T_TFlex_QualityManagement_GetActionInfoContext.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

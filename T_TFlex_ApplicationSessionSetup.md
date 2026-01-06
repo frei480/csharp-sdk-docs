@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationSessionSetup - класс  
-  
----  
-  
+    
 Параметры инициализации сессии по работе с OpenAPI из другого приложения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexApplicationSessionSetup

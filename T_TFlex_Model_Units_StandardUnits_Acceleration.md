@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAcceleration - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Ускорение
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsAcceleration

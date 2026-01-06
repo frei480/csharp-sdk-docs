@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Scheme - методы  
-  
----  
-  
+    
 Тип [Scheme](T_TFlex_Model_Data_ProductStructure_Scheme.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectGeometry - класс  
-  
----  
-  
+    
 Базовый класс 2D геометрии
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model2DObjectGeometry Подробнее

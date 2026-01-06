@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowElementGroupMergedCellValue  \- преобразование (RowElementGroupMergedCellValue to String)  
-  
----  
-**Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
 
 ```csharp
 public static implicit operator string (

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TopolArray - свойства  
-  
----  
-  
+    
 Тип [TopolArray](T_TFlex_Model_Model3D_TopolArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

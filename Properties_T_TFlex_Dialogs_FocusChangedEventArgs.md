@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FocusChangedEventArgs - свойства  
-  
----  
-  
+    
 Тип [FocusChangedEventArgs](T_TFlex_Dialogs_FocusChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

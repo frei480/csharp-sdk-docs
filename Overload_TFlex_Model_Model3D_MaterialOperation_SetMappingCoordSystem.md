@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialOperationSetMappingCoordSystem - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetMappingCoordSystem(Int32, LCS)](M_TFlex_Model_Model3D_MaterialOperation_SetMappingCoordSystem_1.md) | Установить систему координат наложения текстуры для данной группы граней |

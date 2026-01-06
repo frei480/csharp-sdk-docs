@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableControl - класс  
-  
----  
-  
+    
 Класс элемента управления, связанного с переменной
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.Model2DControl](T_TFlex_Model_Model2D_Control.md) TFlex.Model.Model2DVariableControl [TFlex.Model.Model2DEditControl](T_TFlex_Model_Model2D_EditControl.md)

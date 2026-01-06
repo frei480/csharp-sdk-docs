@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkBase - свойства  
-  
----  
-  
+    
 Тип [LinkBase](T_TFlex_Model_Circuits_LinkBase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

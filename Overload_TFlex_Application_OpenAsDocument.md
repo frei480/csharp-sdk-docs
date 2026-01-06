@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationOpenAsDocument - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [OpenAsDocument(String)](M_TFlex_Application_OpenAsDocument.md) | Открыть документ или импортировать файл |

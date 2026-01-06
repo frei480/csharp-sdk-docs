@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlBeginCellEditing - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [BeginCellEditing(CellInfo)](M_TFlex_Dialogs_ListControl_BeginCellEditing_1.md) |  |

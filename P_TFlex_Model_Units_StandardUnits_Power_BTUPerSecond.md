@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPowerBTUPerSecond - свойство  
-  
----  
-  
+    
 БТЕ в секунду; БТЕ/с; BTU/s; 
 
 Тип - Мощность

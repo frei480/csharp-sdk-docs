@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Path2DSection - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Path2DSection(Document)](M_TFlex_Model_Model3D_Path2DSection__ctor.md) | Конструктор для создания сечения по 2D пути |

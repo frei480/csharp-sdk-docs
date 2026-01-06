@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NonStandardProjection - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [NonStandardProjection(Document)](M_TFlex_Model_Model3D_NonStandardProjection__ctor.md) | Конструктор для создания новой проекции |

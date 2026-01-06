@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixTask - свойства  
-  
----  
-  
+    
 Тип [FixTask](T_TFlex_QualityManagement_FixTask.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

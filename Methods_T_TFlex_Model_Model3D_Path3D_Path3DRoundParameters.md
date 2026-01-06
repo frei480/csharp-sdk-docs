@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Path3DRoundParameters - методы  
-  
----  
-  
+    
 Тип [Path3DPath3DRoundParameters](T_TFlex_Model_Model3D_Path3D_Path3DRoundParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

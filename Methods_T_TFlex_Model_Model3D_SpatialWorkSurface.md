@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SpatialWorkSurface - методы  
-  
----  
-  
+    
 Тип [SpatialWorkSurface](T_TFlex_Model_Model3D_SpatialWorkSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

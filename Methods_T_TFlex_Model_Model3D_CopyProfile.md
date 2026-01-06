@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyProfile - методы  
-  
----  
-  
+    
 Тип [CopyProfile](T_TFlex_Model_Model3D_CopyProfile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

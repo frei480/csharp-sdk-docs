@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyWorkplane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CopyWorkplane(Document)](M_TFlex_Model_Model3D_CopyWorkplane__ctor.md) | Конструктор для создания рабочей плоскости |

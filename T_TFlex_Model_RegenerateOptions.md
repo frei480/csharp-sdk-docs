@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RegenerateOptions - класс  
-  
----  
-  
+    
 Опции регенерации модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelRegenerateOptions

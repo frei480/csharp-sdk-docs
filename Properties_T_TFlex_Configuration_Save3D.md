@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Save3D - свойства  
-  
----  
-  
+    
 Тип [Save3D](T_TFlex_Configuration_Save3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

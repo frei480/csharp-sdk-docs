@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Bound - свойства  
-  
----  
-  
+    
 Тип [BoundedExtrusionBound](T_TFlex_Model_Model3D_BoundedExtrusion_Bound.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

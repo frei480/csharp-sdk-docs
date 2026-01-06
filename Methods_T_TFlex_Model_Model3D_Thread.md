@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Thread - методы  
-  
----  
-  
+    
 Тип [Thread](T_TFlex_Model_Model3D_Thread.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

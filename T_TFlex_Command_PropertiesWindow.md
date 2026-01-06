@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertiesWindow - класс  
-  
----  
-  
+    
 Класс, представляющий служебное окно свойств объекта
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.CommandPropertiesWindow

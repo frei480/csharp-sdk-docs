@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardColorsPathMark2Index - свойство  
-  
----  
-  
+    
 Цвет пометки путей и профилей 2
 
 **Пространство имён:** [TFlex.Drawing](N_TFlex_Drawing.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

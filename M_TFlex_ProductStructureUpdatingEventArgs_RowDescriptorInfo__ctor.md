@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureUpdatingEventArgsRowDescriptorInfo - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [ProductStructureUpdatingEventArgsRowDescriptorInfo](T_TFlex_ProductStructureUpdatingEventArgs_RowDescriptorInfo.md)
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

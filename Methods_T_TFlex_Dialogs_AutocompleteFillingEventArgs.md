@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AutocompleteFillingEventArgs - методы  
-  
----  
-  
+    
 Тип [AutocompleteFillingEventArgs](T_TFlex_Dialogs_AutocompleteFillingEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

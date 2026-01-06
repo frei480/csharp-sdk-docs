@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MacroHyperlinkProperties - свойства  
-  
----  
-  
+    
 Тип [MacroHyperlinkProperties](T_TFlex_Model_Model2D_MacroHyperlinkProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

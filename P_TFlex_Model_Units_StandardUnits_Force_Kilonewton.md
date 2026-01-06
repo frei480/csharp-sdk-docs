@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsForceKilonewton - свойство  
-  
----  
-  
+    
 Килоньютон; кН; kN; 
 
 Тип - Сила

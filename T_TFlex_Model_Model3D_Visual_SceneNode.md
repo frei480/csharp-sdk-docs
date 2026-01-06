@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SceneNode - класс  
-  
----  
-  
+    
 Базовый класс для элементов, входящих в состав изображения модельного объекта. Из объектов данного класса строится дерево трехмерной сцены.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.VisualSceneNode [TFlex.Model.Model3D.VisualExternalNode](T_TFlex_Model_Model3D_Visual_ExternalNode.md) [TFlex.Model.Model3D.VisualGroup](T_TFlex_Model_Model3D_Visual_Group.md) [TFlex.Model.Model3D.VisualRenderSwitch](T_TFlex_Model_Model3D_Visual_RenderSwitch.md)

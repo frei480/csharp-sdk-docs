@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftOperationMatch - класс  
-  
----  
-  
+    
 Класс соответствия
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DLoftOperationMatch

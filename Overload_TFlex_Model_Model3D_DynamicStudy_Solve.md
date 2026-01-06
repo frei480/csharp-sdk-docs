@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DynamicStudySolve - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Solve](M_TFlex_Model_Model3D_DynamicStudy_Solve.md) | Рассчитать задачу |

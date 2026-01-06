@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LCS - класс  
-  
----  
-  
+    
 Базовый класс для всех локальных систем координат (ЛСК)
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DConstruction3D](T_TFlex_Model_Model3D_Construction3D.md) TFlex.Model.Model3DLCS [TFlex.Model.Model3DImportedLCS](T_TFlex_Model_Model3D_ImportedLCS.md) [TFlex.Model.Model3DPointsLCS](T_TFlex_Model_Model3D_PointsLCS.md) [TFlex.Model.Model3DReferenceLCS](T_TFlex_Model_Model3D_ReferenceLCS.md)

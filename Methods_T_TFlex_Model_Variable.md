@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Variable - методы  
-  
----  
-  
+    
 Тип [Variable](T_TFlex_Model_Variable.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

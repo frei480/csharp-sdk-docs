@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParamProviderTable - свойства  
-  
----  
-  
+    
 Тип [ParamProviderTable](T_TFlex_Model_Data_ProductStructure_ParamProviderTable.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

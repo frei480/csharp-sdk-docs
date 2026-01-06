@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MoveRotateTransformation - свойства  
-  
----  
-  
+    
 Тип [MoveRotateTransformation](T_TFlex_Model_Model3D_MoveRotateTransformation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

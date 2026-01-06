@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseLoadParameters - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.StructureBaseLoadParameters [TFlex.Model.StructureBasePartialLoadParameters](T_TFlex_Model_Structure_BasePartialLoadParameters.md) [TFlex.Model.StructureDocumentLoadParameters](T_TFlex_Model_Structure_DocumentLoadParameters.md) [TFlex.Model.StructureLoadParameters](T_TFlex_Model_Structure_LoadParameters.md) [TFlex.Model.StructureSourceLoadParameters](T_TFlex_Model_Structure_SourceLoadParameters.md)
 
 **Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

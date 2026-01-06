@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectedLinearDimension - свойства  
-  
----  
-  
+    
 Тип [ProjectedLinearDimension](T_TFlex_Model_Model3D_ProjectedLinearDimension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RegenerateDocumentEventArgs - методы  
-  
----  
-  
+    
 Тип [RegenerateDocumentEventArgs](T_TFlex_RegenerateDocumentEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

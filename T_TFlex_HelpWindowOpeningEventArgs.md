@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HelpWindowOpeningEventArgs - класс  
-  
----  
-  
+    
 Класс, содержащий данные о событии, возникающем в момент открытия окна справки
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlexPluginEventArgs](T_TFlex_PluginEventArgs.md) TFlexHelpWindowOpeningEventArgs

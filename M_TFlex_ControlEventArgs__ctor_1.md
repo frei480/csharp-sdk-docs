@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlEventArgs(Int32, Int32, Double, Double) - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [ControlEventArgs](T_TFlex_ControlEventArgs.md)
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

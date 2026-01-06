@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AngularDimension3D - класс  
-  
----  
-  
+    
 Угловой размер на 3D
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.Model2DDimension](T_TFlex_Model_Model2D_Dimension.md) [TFlex.Model.Model2DAngularDimensionBase](T_TFlex_Model_Model2D_AngularDimensionBase.md) TFlex.Model.Model3DAngularDimension3D

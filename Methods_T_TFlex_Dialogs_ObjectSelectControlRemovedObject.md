@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlRemovedObject - методы  
-  
----  
-  
+    
 Тип [ObjectSelectControlRemovedObject](T_TFlex_Dialogs_ObjectSelectControlRemovedObject.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

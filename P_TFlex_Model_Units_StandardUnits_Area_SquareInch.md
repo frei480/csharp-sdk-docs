@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAreaSquareInch - свойство  
-  
----  
-  
+    
 Квадратный дюйм; дюйм²; in²; 
 
 Тип - Площадь

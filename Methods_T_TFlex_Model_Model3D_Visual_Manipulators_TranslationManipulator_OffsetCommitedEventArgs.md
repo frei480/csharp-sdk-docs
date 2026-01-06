@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OffsetCommitedEventArgs - методы  
-  
----  
-  
+    
 Тип [TranslationManipulatorOffsetCommitedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_TranslationManipulator_OffsetCommitedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

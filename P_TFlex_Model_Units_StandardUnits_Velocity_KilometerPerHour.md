@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVelocityKilometerPerHour - свойство  
-  
----  
-  
+    
 Километр в час; км/ч; km/h; 
 
 Тип - Скорость

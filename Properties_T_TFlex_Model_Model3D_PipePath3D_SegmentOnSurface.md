@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SegmentOnSurface - свойства  
-  
----  
-  
+    
 Тип [PipePath3DSegmentOnSurface](T_TFlex_Model_Model3D_PipePath3D_SegmentOnSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

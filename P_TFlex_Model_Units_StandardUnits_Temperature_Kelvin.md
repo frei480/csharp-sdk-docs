@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTemperatureKelvin - свойство  
-  
----  
-  
+    
 Кельвин; К; K; 
 
 Тип - Температура

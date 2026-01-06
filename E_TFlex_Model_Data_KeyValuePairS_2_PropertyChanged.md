@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # KeyValuePairSTKey, TValuePropertyChanged - событие  
-  
----  
-**Пространство имён:** [TFlex.Model.Data](N_TFlex_Model_Data.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
+  **Пространство имён:** [TFlex.Model.Data](N_TFlex_Model_Data.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
 
 ```csharp
 public event PropertyChangedEventHandler PropertyChanged

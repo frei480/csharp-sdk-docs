@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceBlendingVariableRadiusAttribute - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FaceBlendingVariableRadiusAttribute(FaceBlendingPositionData)](M_TFlex_Model_Model3D_FaceBlending_VariableRadiusAttribute__ctor.md) | Конструктор |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PathConstruction - методы  
-  
----  
-  
+    
 Тип [PathConstruction](T_TFlex_Model_Model2D_PathConstruction.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

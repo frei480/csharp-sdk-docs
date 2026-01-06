@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseSegment - методы  
-  
----  
-  
+    
 Тип [PipePath3DBaseSegment](T_TFlex_Model_Model3D_PipePath3D_BaseSegment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

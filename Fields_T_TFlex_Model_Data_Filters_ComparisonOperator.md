@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ComparisonOperator - поля  
-  
----  
-  
+    
 Тип [ComparisonOperator](T_TFlex_Model_Data_Filters_ComparisonOperator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

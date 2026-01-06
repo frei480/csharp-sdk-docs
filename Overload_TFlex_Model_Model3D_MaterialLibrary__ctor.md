@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialLibrary - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [MaterialLibrary](M_TFlex_Model_Model3D_MaterialLibrary__ctor.md) | Конструктор по умолчанию |

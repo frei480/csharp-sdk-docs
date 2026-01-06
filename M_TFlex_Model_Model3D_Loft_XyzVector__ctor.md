@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftXyzVector(Parameter, Parameter, Parameter, Parameter) - конструктор  
-  
----  
-  
+    
 Конструктор для задания вектора с помощью координат X, Y, Z заданных в локальной системе координат
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

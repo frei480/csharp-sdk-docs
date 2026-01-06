@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Save3D - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Save3D](M_TFlex_Configuration_Save3D__ctor.md) | Инициализирует новый экземпляр класса [Save3D](T_TFlex_Configuration_Save3D.md) |

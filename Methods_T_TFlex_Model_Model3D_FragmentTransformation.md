@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentTransformation - методы  
-  
----  
-  
+    
 Тип [FragmentTransformation](T_TFlex_Model_Model3D_FragmentTransformation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SaveOptions - методы  
-  
----  
-  
+    
 Тип [SaveOptions](T_TFlex_Model_SaveOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

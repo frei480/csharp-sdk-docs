@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToACAD - класс  
-  
----  
-  
+    
 Класс экспорта в форматы AutoCAD
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelExportTo](T_TFlex_Model_ExportTo.md) TFlex.ModelExportToACAD [TFlex.ModelExportToDWG](T_TFlex_Model_ExportToDWG.md) [TFlex.ModelExportToDXB](T_TFlex_Model_ExportToDXB.md) [TFlex.ModelExportToDXF](T_TFlex_Model_ExportToDXF.md) [TFlex.ModelExportToDXF3D](T_TFlex_Model_ExportToDXF3D.md)

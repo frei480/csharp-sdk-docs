@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Suppression - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Suppression(Boolean)](M_TFlex_Model_Model3D_Suppression__ctor.md) | Конструктор для создания параметра, заданного константой |

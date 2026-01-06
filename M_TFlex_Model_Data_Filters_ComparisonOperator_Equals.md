@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ComparisonOperatorEquals - метод  
-  
----  
-  
+    
 Возвращает значение, указывающее, равен ли заданный объект текущему
 
 **Пространство имён:** [TFlex.Model.Data.Filters](N_TFlex_Model_Data_Filters.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)

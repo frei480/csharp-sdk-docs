@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EntriesCollection - методы  
-  
----  
-  
+    
 Тип [FixTaskEntriesCollection](T_TFlex_QualityManagement_FixTask_EntriesCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

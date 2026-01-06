@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableParametricCoords - класс  
-  
----  
-  
+    
 Класс координат управляющих параметров копии объекта
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DVariableParametricCoords

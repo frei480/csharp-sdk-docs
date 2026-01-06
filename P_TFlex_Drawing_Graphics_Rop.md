@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GraphicsRop - свойство  
-  
----  
-  
+    
 Тип растровой операции, установленной для вывода
 
 **Пространство имён:** [TFlex.Drawing](N_TFlex_Drawing.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

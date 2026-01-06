@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DSegmentSplineToPointAddPoint_begin - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Добавить точку в начало

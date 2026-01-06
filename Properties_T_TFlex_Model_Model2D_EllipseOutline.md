@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EllipseOutline - свойства  
-  
----  
-  
+    
 Тип [EllipseOutline](T_TFlex_Model_Model2D_EllipseOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

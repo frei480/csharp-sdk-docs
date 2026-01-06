@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportTo3mf - методы  
-  
----  
-  
+    
 Тип [ExportTo3mf](T_TFlex_Model_ExportTo3mf.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlModelRowDataChangedEventArgs - свойства  
-  
----  
-  
+    
 Тип [ListControlModelRowDataChangedEventArgs](T_TFlex_Dialogs_ListControlModelRowDataChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

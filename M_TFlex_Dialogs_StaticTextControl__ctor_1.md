@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StaticTextControl(String) - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [StaticTextControl](T_TFlex_Dialogs_StaticTextControl.md)
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

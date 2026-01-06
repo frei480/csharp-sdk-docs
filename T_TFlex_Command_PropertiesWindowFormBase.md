@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertiesWindowFormBase - класс  
-  
----  
-  
+    
 Базовый класс для вкладки служебного окна свойств
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.CommandPropertiesWindowFormBase [TFlex.CommandPropertiesWindowForm](T_TFlex_Command_PropertiesWindowForm.md) [TFlex.CommandPropertiesWindowWpfForm](T_TFlex_Command_PropertiesWindowWpfForm.md) [TFlex.DialogsControlsWindowForm](T_TFlex_Dialogs_ControlsWindowForm.md)

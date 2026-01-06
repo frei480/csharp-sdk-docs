@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFrom3dCommon - класс  
-  
----  
-  
+    
 Класс импорта из множества популярных форматов CAD-систем(step, acis, iges, SolidWorks, NX, SolidEdge, Creo,...)
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelImportFrom3dCommon

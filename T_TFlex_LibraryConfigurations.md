@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LibraryConfigurations - класс  
-  
----  
-  
+    
 Конфигурации библиотек
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexLibraryConfigurations

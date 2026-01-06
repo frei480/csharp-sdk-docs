@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTemperatureGradient - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Градиент температур
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsTemperatureGradient

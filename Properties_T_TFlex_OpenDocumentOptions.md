@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OpenDocumentOptions - свойства  
-  
----  
-  
+    
 Тип [OpenDocumentOptions](T_TFlex_OpenDocumentOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

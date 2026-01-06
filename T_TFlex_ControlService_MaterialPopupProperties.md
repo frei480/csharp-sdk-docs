@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialPopupProperties - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ControlServiceMaterialPopupProperties
 
 **Пространство имён:** [TFlex.ControlService](N_TFlex_ControlService.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

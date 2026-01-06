@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyOperation - класс  
-  
----  
-  
+    
 Базовый класс операции копирования
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) TFlex.Model.Model2DCopyOperation [TFlex.Model.Model2DLinearArray](T_TFlex_Model_Model2D_LinearArray.md) [TFlex.Model.Model2DMoveCopy](T_TFlex_Model_Model2D_MoveCopy.md) [TFlex.Model.Model2DRevolveArray](T_TFlex_Model_Model2D_RevolveArray.md) [TFlex.Model.Model2DSymmetryCopy](T_TFlex_Model_Model2D_SymmetryCopy.md)

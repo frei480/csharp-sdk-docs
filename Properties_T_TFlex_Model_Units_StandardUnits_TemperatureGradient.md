@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TemperatureGradient - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsTemperatureGradient](T_TFlex_Model_Units_StandardUnits_TemperatureGradient.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

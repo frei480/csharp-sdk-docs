@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationStudentVersion - свойство  
-  
----  
-  
+    
 Свойство, возвращающее true, если версия T-FLEX CAD учебная
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

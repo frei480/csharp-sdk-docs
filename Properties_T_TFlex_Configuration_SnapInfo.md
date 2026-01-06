@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SnapInfo - свойства  
-  
----  
-  
+    
 Тип [SnapInfo](T_TFlex_Configuration_SnapInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

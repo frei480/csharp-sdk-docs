@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatConvectionCoefficientCaloriePerSecondPerSquareCentimeterPerCelciusDegree - свойство  
-  
----  
-  
+    
 Калория в секунду на квадратный сантиметр на градус Цельсия; кал/(с·см²·°C); cal/(s·cm²·°C); 
 
 Тип - Коэффициент теплоотдачи

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCurrentDensityAmperesPerSquareCentimeter - свойство  
-  
----  
-  
+    
 Ампер на квадратный сантиметр; А/см²; A/cm²; 
 
 Тип - Плотность тока

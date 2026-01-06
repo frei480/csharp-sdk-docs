@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OnAxisWorkplane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [OnAxisWorkplane(Document)](M_TFlex_Model_Model3D_OnAxisWorkplane__ctor.md) | Конструктор для создания рабочей плоскости |

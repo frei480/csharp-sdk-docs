@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTemperatureFahrenheitDegree - свойство  
-  
----  
-  
+    
 Градус Фаренгейта; °F; °F; 
 
 Тип - Температура

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgesArray - свойства  
-  
----  
-  
+    
 Тип [FillHoleEdgesArray](T_TFlex_Model_Model3D_FillHole_EdgesArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

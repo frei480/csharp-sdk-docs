@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkedObjectInfo - свойства  
-  
----  
-  
+    
 Тип [LinkedObjectInfo](T_TFlex_Model_Structure_LinkedObjectInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

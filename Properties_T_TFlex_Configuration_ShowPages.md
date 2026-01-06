@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ShowPages - свойства  
-  
----  
-  
+    
 Тип [ShowPages](T_TFlex_Configuration_ShowPages.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

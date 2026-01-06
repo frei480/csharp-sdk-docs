@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MeshWorkPlane - свойства  
-  
----  
-  
+    
 Тип [MeshWorkPlane](T_TFlex_Model_Model3D_MeshWorkPlane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

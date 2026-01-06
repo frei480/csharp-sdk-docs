@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunContext - свойства  
-  
----  
-  
+    
 Тип [RunContext](T_TFlex_QualityManagement_RunContext.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

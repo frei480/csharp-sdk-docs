@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BSplineSurfaceConstrainedData - методы  
-  
----  
-  
+    
 Тип [BSplineSurfaceConstrainedData](T_TFlex_Model_Model3D_BSplineSurfaceConstrainedData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

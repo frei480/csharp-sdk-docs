@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TrackingContextPopupMenuEventArgs - методы  
-  
----  
-  
+    
 Тип [TrackingContextPopupMenuEventArgs](T_TFlex_TrackingContextPopupMenuEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

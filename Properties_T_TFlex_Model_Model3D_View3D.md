@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # View3D - свойства  
-  
----  
-  
+    
 Тип [View3D](T_TFlex_Model_Model3D_View3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

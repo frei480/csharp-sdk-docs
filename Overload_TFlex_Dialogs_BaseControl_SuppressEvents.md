@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseControlSuppressEvents - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SuppressEvents](M_TFlex_Dialogs_BaseControl_SuppressEvents.md) | Заглушить события |

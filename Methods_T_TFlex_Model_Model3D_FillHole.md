@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FillHole - методы  
-  
----  
-  
+    
 Тип [FillHole](T_TFlex_Model_Model3D_FillHole.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

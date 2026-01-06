@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonTabAddGroup - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddGroup(String)](M_TFlex_RibbonTab_AddGroup.md) | Добавляет новую группу в эту вкладку |

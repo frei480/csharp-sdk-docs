@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementProjection - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ElementProjection(Document)](M_TFlex_Model_Model3D_ElementProjection__ctor.md) | Конструктор для создания новой проекции |

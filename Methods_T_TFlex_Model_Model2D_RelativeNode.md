@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RelativeNode - методы  
-  
----  
-  
+    
 Тип [RelativeNode](T_TFlex_Model_Model2D_RelativeNode.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

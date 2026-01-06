@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TableSetSelection - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetSelection(IntPtr, IntPtr)](M_TFlex_Model_Model2D_Table_SetSelection.md) |  |

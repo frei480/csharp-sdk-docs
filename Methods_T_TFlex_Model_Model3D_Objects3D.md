@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Objects3D - методы  
-  
----  
-  
+    
 Тип [Objects3D](T_TFlex_Model_Model3D_Objects3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

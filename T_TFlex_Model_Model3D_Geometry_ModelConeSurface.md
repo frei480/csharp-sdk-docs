@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelConeSurface - класс  
-  
----  
-  
+    
 Коническая поверхность с модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) [TFlex.Model.Model3D.GeometryBaseSurface](T_TFlex_Model_Model3D_Geometry_BaseSurface.md) [TFlex.Model.Model3D.GeometryModelSurface](T_TFlex_Model_Model3D_Geometry_ModelSurface.md) TFlex.Model.Model3D.GeometryModelConeSurface

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MultiLink - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.CircuitsLinkBase](T_TFlex_Model_Circuits_LinkBase.md) TFlex.Model.CircuitsMultiLink [TFlex.Model.CircuitsMultiLinksGroup](T_TFlex_Model_Circuits_MultiLinksGroup.md)
 
 **Пространство имён:** [TFlex.Model.Circuits](N_TFlex_Model_Circuits.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

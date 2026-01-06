@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Loops - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Loops(Body)](M_TFlex_Model_Model3D_Geometry_Loops__ctor.md) | Инициализирует новый экземпляр класса [Loops](T_TFlex_Model_Model3D_Geometry_Loops.md) |

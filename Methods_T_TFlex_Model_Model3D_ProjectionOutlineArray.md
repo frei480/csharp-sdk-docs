@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectionOutlineArray - методы  
-  
----  
-  
+    
 Тип [ProjectionOutlineArray](T_TFlex_Model_Model3D_ProjectionOutlineArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

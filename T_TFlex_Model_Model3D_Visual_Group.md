@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Group - класс  
-  
----  
-  
+    
 Базовый класс для групп
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.VisualSceneNode](T_TFlex_Model_Model3D_Visual_SceneNode.md) TFlex.Model.Model3D.VisualGroup [TFlex.Model.Model3D.VisualGroupingNode](T_TFlex_Model_Model3D_Visual_GroupingNode.md) [TFlex.Model.Model3D.VisualSeparator](T_TFlex_Model_Model3D_Visual_Separator.md)

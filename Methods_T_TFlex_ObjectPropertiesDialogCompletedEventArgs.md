@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectPropertiesDialogCompletedEventArgs - методы  
-  
----  
-  
+    
 Тип [ObjectPropertiesDialogCompletedEventArgs](T_TFlex_ObjectPropertiesDialogCompletedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

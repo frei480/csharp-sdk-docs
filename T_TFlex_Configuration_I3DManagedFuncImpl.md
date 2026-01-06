@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # I3DManagedFuncImpl - интерфейс  
-  
----  
-  
+    
 Для внутреннего использования
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

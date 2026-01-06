@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PathBy2DElems - класс  
-  
----  
-  
+    
 Путь, построенный по набору сегментов: 2D путь и рабочая поверхность
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DConstruction3D](T_TFlex_Model_Model3D_Construction3D.md) [TFlex.Model.Model3DPath3D](T_TFlex_Model_Model3D_Path3D.md) TFlex.Model.Model3DPathBy2DElems

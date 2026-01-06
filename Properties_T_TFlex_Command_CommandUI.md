@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommandUI - свойства  
-  
----  
-  
+    
 Тип [CommandUI](T_TFlex_Command_CommandUI.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

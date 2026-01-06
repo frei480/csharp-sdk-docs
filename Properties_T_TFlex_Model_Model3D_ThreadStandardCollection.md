@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreadStandardCollection - свойства  
-  
----  
-  
+    
 Тип [ThreadStandardCollection](T_TFlex_Model_Model3D_ThreadStandardCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

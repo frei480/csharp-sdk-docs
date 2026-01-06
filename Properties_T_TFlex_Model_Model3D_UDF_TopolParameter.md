@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TopolParameter - свойства  
-  
----  
-  
+    
 Тип [UDFTopolParameter](T_TFlex_Model_Model3D_UDF_TopolParameter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

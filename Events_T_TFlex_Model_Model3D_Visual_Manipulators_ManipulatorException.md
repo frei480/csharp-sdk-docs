@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ManipulatorException - события  
-  
----  
-  
+    
 Тип [ManipulatorException](T_TFlex_Model_Model3D_Visual_Manipulators_ManipulatorException.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentPrint - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Print(PrintOptions)](M_TFlex_Model_Document_Print_2.md) | Печать документа |

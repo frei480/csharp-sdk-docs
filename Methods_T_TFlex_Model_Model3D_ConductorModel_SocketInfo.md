@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SocketInfo - методы  
-  
----  
-  
+    
 Тип [SocketInfo](T_TFlex_Model_Model3D_ConductorModel_SocketInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

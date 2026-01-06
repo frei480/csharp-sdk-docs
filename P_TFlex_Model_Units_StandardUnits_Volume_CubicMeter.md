@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVolumeCubicMeter - свойство  
-  
----  
-  
+    
 Кубический метр; м³; m³; 
 
 Тип - Объём

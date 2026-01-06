@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Box - свойства  
-  
----  
-  
+    
 Тип [Box](T_TFlex_Model_Model3D_Geometry_Box.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

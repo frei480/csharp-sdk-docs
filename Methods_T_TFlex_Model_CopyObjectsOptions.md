@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyObjectsOptions - методы  
-  
----  
-  
+    
 Тип [CopyObjectsOptions](T_TFlex_Model_CopyObjectsOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DeepFragmentVariableValue - класс  
-  
----  
-  
+    
 Класс предназначенный для задания значения переменной фрагмента чере уровень
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelDeepFragmentVariableValue

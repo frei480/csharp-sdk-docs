@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDensityTonnePerCubicMeter - свойство  
-  
----  
-  
+    
 Тонна на кубический метр; т/м³; t/m³; 
 
 Тип - Плотность

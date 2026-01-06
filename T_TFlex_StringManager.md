@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StringManager - класс  
-  
----  
-  
+    
 Менеджер строк для локализации
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexStringManager

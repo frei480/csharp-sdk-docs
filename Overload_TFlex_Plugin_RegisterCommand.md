@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginRegisterCommand - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RegisterCommand(Int32, String)](M_TFlex_Plugin_RegisterCommand.md) | **Устарело.** |

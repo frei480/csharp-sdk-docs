@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseSplineCurve - свойства  
-  
----  
-  
+    
 Тип [BaseSplineCurve](T_TFlex_Model_Model3D_Geometry_BaseSplineCurve.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

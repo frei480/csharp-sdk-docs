@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExclusionCollection - методы  
-  
----  
-  
+    
 Тип [ExclusionCollection](T_TFlex_Model_Model3D_ExclusionCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

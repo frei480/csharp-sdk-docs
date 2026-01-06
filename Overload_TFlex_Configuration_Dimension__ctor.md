@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Dimension - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dimension](M_TFlex_Configuration_Dimension__ctor.md) | Инициализирует новый экземпляр класса [Dimension](T_TFlex_Configuration_Dimension.md) |

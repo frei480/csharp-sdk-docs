@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConductorSetBase - свойства  
-  
----  
-  
+    
 Тип [ConductorSetBase](T_TFlex_Model_Model3D_ConductorSetBase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

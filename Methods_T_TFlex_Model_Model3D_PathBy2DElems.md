@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PathBy2DElems - методы  
-  
----  
-  
+    
 Тип [PathBy2DElems](T_TFlex_Model_Model3D_PathBy2DElems.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

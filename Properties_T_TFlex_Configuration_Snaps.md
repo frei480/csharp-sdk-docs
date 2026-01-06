@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Snaps - свойства  
-  
----  
-  
+    
 Тип [Snaps](T_TFlex_Configuration_Snaps.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ShowingImportExportDialogEventArgsAddFilter(String) - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Добавить фильтр к текущему диалогу

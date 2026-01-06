@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogError - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Error(String)](M_TFlex_Log_Error.md) |  |

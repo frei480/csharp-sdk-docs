@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseBodyConvertToRGKResult - класс  
-  
----  
-  
+    
 Результат конвертации тела Parasolid в тело RGK
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryBaseBodyConvertToRGKResult

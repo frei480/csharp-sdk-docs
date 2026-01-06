@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyObject - класс  
-  
----  
-  
+    
 Класс прокси объекта
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelProxyObject [TFlex.Model.Model2DProxyObject2D](T_TFlex_Model_Model2D_ProxyObject2D.md) [TFlex.Model.Model3DProxyObject3D](T_TFlex_Model_Model3D_ProxyObject3D.md)

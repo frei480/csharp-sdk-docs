@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentVariableValues - методы  
-  
----  
-  
+    
 Тип [FragmentVariableValues](T_TFlex_Model_FragmentVariableValues.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

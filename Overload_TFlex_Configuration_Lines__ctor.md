@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Lines - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Lines](M_TFlex_Configuration_Lines__ctor.md) | Инициализирует новый экземпляр класса [Lines](T_TFlex_Configuration_Lines.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkSymbol - методы  
-  
----  
-  
+    
 Тип [LinkSymbol](T_TFlex_Model_Circuits_LinkSymbol.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

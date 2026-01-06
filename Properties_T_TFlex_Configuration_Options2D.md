@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Options2D - свойства  
-  
----  
-  
+    
 Тип [Options2D](T_TFlex_Configuration_Options2D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

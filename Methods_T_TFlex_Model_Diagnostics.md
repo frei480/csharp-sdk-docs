@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Diagnostics - методы  
-  
----  
-  
+    
 Тип [Diagnostics](T_TFlex_Model_Diagnostics.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

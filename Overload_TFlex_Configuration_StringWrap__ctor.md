@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StringWrap - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [StringWrap](M_TFlex_Configuration_StringWrap__ctor.md) | Инициализирует новый экземпляр класса [StringWrap](T_TFlex_Configuration_StringWrap.md) |

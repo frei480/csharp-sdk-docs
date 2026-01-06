@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RotateVectorTransformation - свойства  
-  
----  
-  
+    
 Тип [RotateVectorTransformation](T_TFlex_Model_Model3D_RotateVectorTransformation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

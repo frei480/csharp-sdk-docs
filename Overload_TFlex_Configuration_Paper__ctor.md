@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Paper - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Paper](M_TFlex_Configuration_Paper__ctor.md) | Инициализирует новый экземпляр класса [Paper](T_TFlex_Configuration_Paper.md) |

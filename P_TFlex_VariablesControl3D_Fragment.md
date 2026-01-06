@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariablesControl3DFragment - свойство  
-  
----  
-  
+    
 Фрагмент, для которого выполняется редактирование внешних переменных
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

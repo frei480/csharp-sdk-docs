@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportedOperationCreate - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Create(Document, ListBaseCurve, ListBaseInterval, ListPoint)](M_TFlex_Model_Model3D_ImportedOperation_Create.md) |  |

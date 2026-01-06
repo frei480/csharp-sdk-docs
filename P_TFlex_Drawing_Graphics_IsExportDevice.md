@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GraphicsIsExportDevice - свойство  
-  
----  
-  
+    
 Текущий вывод производится в файл другого формата
 
 **Пространство имён:** [TFlex.Drawing](N_TFlex_Drawing.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

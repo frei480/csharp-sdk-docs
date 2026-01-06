@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationGroup - класс  
-  
----  
-  
+    
 Группа трансформаций
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DTransformationGroupBase](T_TFlex_Model_Model3D_TransformationGroupBase.md) TFlex.Model.Model3DTransformationGroup

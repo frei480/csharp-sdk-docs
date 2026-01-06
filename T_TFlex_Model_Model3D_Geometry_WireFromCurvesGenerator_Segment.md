@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WireFromCurvesGeneratorSegment - класс  
-  
----  
-  
+    
 Сегмент проволочного тела
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryWireFromCurvesGeneratorSegment

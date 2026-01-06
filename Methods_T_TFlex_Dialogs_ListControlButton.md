@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlButton - методы  
-  
----  
-  
+    
 Тип [ListControlButton](T_TFlex_Dialogs_ListControlButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DrawingViewSpecialElementsEnumeratorDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model2D_DrawingView_SpecialElements_Enumerator_Dispose.md) | Освобождает все ресурсы, используемые объектом [DrawingViewSpecialElementsEnumerator](T_TFlex_Model_Model2D_DrawingView_SpecialElements_Enumerator.md) |

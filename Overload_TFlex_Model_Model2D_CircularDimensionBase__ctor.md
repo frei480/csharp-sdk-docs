@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircularDimensionBase - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CircularDimensionBase(Document)](M_TFlex_Model_Model2D_CircularDimensionBase__ctor_2.md) | Инициализирует новый экземпляр класса [CircularDimensionBase](T_TFlex_Model_Model2D_CircularDimensionBase.md) |

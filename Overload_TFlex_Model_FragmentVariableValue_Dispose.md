@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentVariableValueDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_FragmentVariableValue_Dispose.md) | Освобождает все ресурсы, используемые объектом [FragmentVariableValue](T_TFlex_Model_FragmentVariableValue.md) |

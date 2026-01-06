@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftSecondPointDegenerateProfileCondition - класс  
-  
----  
-  
+    
 Класс для задания граничного условия для вырожденного профиля с помощью второй точки
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DLoftDegenerateProfileCondition](T_TFlex_Model_Model3D_Loft_DegenerateProfileCondition.md) TFlex.Model.Model3DLoftSecondPointDegenerateProfileCondition

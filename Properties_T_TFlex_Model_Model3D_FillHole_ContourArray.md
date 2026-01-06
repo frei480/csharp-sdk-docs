@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ContourArray - свойства  
-  
----  
-  
+    
 Тип [FillHoleContourArray](T_TFlex_Model_Model3D_FillHole_ContourArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

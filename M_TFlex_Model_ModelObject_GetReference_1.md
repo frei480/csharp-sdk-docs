@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectGetReference(Int32, ModelObjectArrayIndices) - метод  
-  
----  
-  
+    
 Получить ссылку на родительский объект по ключу и индексу. Используется для организации массивов
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NodeArrayOperation - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [NodeArrayOperation(Document)](M_TFlex_Model_Model3D_NodeArrayOperation__ctor.md) | Конструктор для операции "Массив по точкам" |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LibraryConfiguration - свойства  
-  
----  
-  
+    
 Тип [LibraryConfiguration](T_TFlex_LibraryConfiguration.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

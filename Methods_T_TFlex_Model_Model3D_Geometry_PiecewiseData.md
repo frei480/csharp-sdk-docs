@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PiecewiseData - методы  
-  
----  
-  
+    
 Тип [PiecewiseData](T_TFlex_Model_Model3D_Geometry_PiecewiseData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

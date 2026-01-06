@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfacePiecewiseDataSegmentsSet - класс  
-  
----  
-  
+    
 Сетка сегментов. Упорядоченное по U множество строк сегментов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySurfacePiecewiseDataSegmentsSet

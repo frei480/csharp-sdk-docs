@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreadClass - свойства  
-  
----  
-  
+    
 Тип [ThreadClass](T_TFlex_Model_Model3D_ThreadClass.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlStateUpdateEventArgs - методы  
-  
----  
-  
+    
 Тип [ObjectSelectControlStateUpdateEventArgs](T_TFlex_Dialogs_ObjectSelectControlStateUpdateEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

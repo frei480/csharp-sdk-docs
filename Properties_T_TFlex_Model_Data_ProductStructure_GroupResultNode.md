@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GroupResultNode - свойства  
-  
----  
-  
+    
 Тип [GroupResultNode](T_TFlex_Model_Data_ProductStructure_GroupResultNode.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScriptDispose - метод  
-  
----  
-  
+    
 Освобождает все ресурсы, используемые объектом [Script](T_TFlex_QualityManagement_Script.md)
 
 **Пространство имён:** [TFlex.QualityManagement](N_TFlex_QualityManagement.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

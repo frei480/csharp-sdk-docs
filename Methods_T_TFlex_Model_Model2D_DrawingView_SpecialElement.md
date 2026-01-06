@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SpecialElement - методы  
-  
----  
-  
+    
 Тип [DrawingViewSpecialElement](T_TFlex_Model_Model2D_DrawingView_SpecialElement.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

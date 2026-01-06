@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationPolyline - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DecorationPolyline(String, FloatVector)](M_TFlex_Model_Model3D_Visual_DecorationPolyline__ctor.md) | Конструктор |

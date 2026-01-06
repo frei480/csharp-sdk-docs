@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModalDialog - класс  
-  
----  
-  
+    
 Модальный диалог
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsModalDialog

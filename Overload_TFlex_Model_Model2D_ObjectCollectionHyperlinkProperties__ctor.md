@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectCollectionHyperlinkProperties - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ObjectCollectionHyperlinkProperties(ICollectionModelObject, String)](M_TFlex_Model_Model2D_ObjectCollectionHyperlinkProperties__ctor.md) | Инициализирует новый экземпляр класса [ObjectCollectionHyperlinkProperties](T_TFlex_Model_Model2D_ObjectCollectionHyperlinkProperties.md) |

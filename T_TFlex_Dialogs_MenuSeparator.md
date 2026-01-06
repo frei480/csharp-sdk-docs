@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MenuSeparator - класс  
-  
----  
-  
+    
 Разделитель для элементов меню
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsMenuItemBase](T_TFlex_Dialogs_MenuItemBase.md) TFlex.DialogsMenuSeparator

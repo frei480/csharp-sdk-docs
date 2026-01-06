@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgeBlendingConstantBlendAttribute - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [EdgeBlendingConstantBlendAttribute(Parameter)](M_TFlex_Model_Model3D_EdgeBlending_ConstantBlendAttribute__ctor.md) | Конструктор |

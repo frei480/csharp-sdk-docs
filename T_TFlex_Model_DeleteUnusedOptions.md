@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DeleteUnusedOptions - класс  
-  
----  
-  
+    
 Опции удаления объектов модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelDeleteUnusedOptions

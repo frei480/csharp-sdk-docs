@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomOrderPropertyAttribute - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CustomOrderPropertyAttribute(Int32)](M_TFlex_Configuration_Attributes_CustomOrderPropertyAttribute__ctor.md) | Инициализирует новый экземпляр класса [CustomOrderPropertyAttribute](T_TFlex_Configuration_Attributes_CustomOrderPropertyAttribute.md) |

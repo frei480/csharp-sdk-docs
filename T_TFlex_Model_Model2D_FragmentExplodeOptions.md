@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentExplodeOptions - класс  
-  
----  
-  
+    
 Параметры раскрытия фрагмента
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model2DFragmentExplodeOptions

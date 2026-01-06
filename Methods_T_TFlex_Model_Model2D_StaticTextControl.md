@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StaticTextControl - методы  
-  
----  
-  
+    
 Тип [StaticTextControl](T_TFlex_Model_Model2D_StaticTextControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

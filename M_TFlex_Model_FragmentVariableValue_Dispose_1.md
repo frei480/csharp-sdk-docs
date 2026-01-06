@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentVariableValueDispose(Boolean) - метод  
-  
----  
-  
+    
 Освобождает неуправляемые ресурсы, используемые объектом [FragmentVariableValue](T_TFlex_Model_FragmentVariableValue.md), а при необходимости освобождает также управляемые ресурсы
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

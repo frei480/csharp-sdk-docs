@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OutlineContourSegment - свойства  
-  
----  
-  
+    
 Тип [OutlineContourSegment](T_TFlex_Model_Model2D_OutlineContourSegment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

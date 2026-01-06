@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EnergyDensity - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsEnergyDensity](T_TFlex_Model_Units_StandardUnits_EnergyDensity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

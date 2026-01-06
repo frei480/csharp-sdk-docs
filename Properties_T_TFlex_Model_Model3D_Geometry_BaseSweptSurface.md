@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseSweptSurface - свойства  
-  
----  
-  
+    
 Тип [BaseSweptSurface](T_TFlex_Model_Model3D_Geometry_BaseSweptSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

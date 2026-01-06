@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SpliceWireSetManipulator - методы  
-  
----  
-  
+    
 Тип [SpliceWireSetManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_SpliceWireSetManipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

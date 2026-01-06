@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MultiLink - методы  
-  
----  
-  
+    
 Тип [MultiLink](T_TFlex_Model_Circuits_MultiLink.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

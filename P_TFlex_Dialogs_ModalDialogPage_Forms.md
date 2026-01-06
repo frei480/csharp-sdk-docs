@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModalDialogPageForms - свойство  
-  
----  
-  
+    
 Доступ коллекции форм с контролами, которые отображаются на данной вкладке
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

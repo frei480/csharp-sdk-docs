@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToIGES - методы  
-  
----  
-  
+    
 Тип [ExportToIGES](T_TFlex_Model_ExportToIGES.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

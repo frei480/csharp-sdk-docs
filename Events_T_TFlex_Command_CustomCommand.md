@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomCommand - события  
-  
----  
-  
+    
 Тип [CustomCommand](T_TFlex_Command_CustomCommand.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

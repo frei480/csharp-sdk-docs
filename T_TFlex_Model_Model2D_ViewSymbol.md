@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ViewSymbol - класс  
-  
----  
-  
+    
 Базовый класс обозначения вида, разреза или сечения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) TFlex.Model.Model2DViewSymbol [TFlex.Model.Model2DArrowViewSymbol](T_TFlex_Model_Model2D_ArrowViewSymbol.md) [TFlex.Model.Model2DSectionViewSymbol](T_TFlex_Model_Model2D_SectionViewSymbol.md) [TFlex.Model.Model2DSimpleViewSymbol](T_TFlex_Model_Model2D_SimpleViewSymbol.md)

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationSessionSetupDOCsAPIVersion - свойство  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Номер версии T-FLEX DOCs, с которой нужно установить интеграцию

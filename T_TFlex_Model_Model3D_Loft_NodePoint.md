@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftNodePoint - класс  
-  
----  
-  
+    
 Класс для задания точки в 3D узле
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DLoftPointOnContour](T_TFlex_Model_Model3D_Loft_PointOnContour.md) TFlex.Model.Model3DLoftNodePoint

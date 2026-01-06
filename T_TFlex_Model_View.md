@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # View - класс  
-  
----  
-  
+    
 Данный класс реализует функциональность вида документа
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelView [TFlex.Model.Model2DView2D](T_TFlex_Model_Model2D_View2D.md) [TFlex.Model.Model3DView3D](T_TFlex_Model_Model3D_View3D.md)

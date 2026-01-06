@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ArrowProjection - класс  
-  
----  
-  
+    
 Класс создания проекции по стрелке
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DProjection](T_TFlex_Model_Model3D_Projection.md) [TFlex.Model.Model3DSimpleDrawingProjection](T_TFlex_Model_Model3D_SimpleDrawingProjection.md) TFlex.Model.Model3DArrowProjection

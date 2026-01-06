@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ComparisonOperatorCompare - метод  
-  
----  
-  
+    
 Возвращает значение, указывающее, выполняется ли условие оператора сравнения для указанных операндов
 
 **Пространство имён:** [TFlex.Model.Data.Filters](N_TFlex_Model_Data_Filters.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)

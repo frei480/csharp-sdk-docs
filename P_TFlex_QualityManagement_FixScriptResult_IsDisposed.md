@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixScriptResultIsDisposed - свойство  
-  
----  
-**Пространство имён:** [TFlex.QualityManagement](N_TFlex_QualityManagement.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.QualityManagement](N_TFlex_QualityManagement.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
 
 ```csharp
 public virtual bool IsDisposed { get; }

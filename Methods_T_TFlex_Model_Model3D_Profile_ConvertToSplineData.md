@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConvertToSplineData - методы  
-  
----  
-  
+    
 Тип [ProfileConvertToSplineData](T_TFlex_Model_Model3D_Profile_ConvertToSplineData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

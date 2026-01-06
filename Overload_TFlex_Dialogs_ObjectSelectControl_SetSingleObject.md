@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlSetSingleObject - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetSingleObject(ModelObject)](M_TFlex_Dialogs_ObjectSelectControl_SetSingleObject_2.md) | Устанавливает объект, когда элемент управления находится в режиме выбора одного объекта |

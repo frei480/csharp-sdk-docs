@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationCircleArc - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DecorationCircleArc(String, FloatVector, FloatVector, FloatVector)](M_TFlex_Model_Model3D_Visual_DecorationCircleArc__ctor.md) | Конструктор |

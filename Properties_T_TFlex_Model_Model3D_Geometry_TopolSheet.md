@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TopolSheet - свойства  
-  
----  
-  
+    
 Тип [TopolSheet](T_TFlex_Model_Model3D_Geometry_TopolSheet.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

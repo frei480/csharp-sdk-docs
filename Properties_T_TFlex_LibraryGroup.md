@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LibraryGroup - свойства  
-  
----  
-  
+    
 Тип [LibraryGroup](T_TFlex_LibraryGroup.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

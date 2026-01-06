@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThermalExpansionCoefficient - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsThermalExpansionCoefficient](T_TFlex_Model_Units_StandardUnits_ThermalExpansionCoefficient.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

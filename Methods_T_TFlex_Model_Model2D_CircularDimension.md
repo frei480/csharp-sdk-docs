@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircularDimension - методы  
-  
----  
-  
+    
 Тип [CircularDimension](T_TFlex_Model_Model2D_CircularDimension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

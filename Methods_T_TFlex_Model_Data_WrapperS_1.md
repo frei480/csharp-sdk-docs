@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WrapperSTObj \- методы  
-  
----  
-  
+    
 Тип [WrapperSTObj](T_TFlex_Model_Data_WrapperS_1.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

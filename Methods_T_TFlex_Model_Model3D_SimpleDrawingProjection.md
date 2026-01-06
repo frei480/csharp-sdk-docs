@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleDrawingProjection - методы  
-  
----  
-  
+    
 Тип [SimpleDrawingProjection](T_TFlex_Model_Model3D_SimpleDrawingProjection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SphereWorkSurface - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SphereWorkSurface(Document)](M_TFlex_Model_Model3D_SphereWorkSurface__ctor.md) | Конструктор для создания сферической поверхности |

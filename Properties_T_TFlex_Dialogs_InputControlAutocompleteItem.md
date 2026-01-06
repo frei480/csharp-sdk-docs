@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InputControlAutocompleteItem - свойства  
-  
----  
-  
+    
 Тип [InputControlAutocompleteItem](T_TFlex_Dialogs_InputControlAutocompleteItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

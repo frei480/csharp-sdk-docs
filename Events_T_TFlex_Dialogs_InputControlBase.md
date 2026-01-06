@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InputControlBase - события  
-  
----  
-  
+    
 Тип [InputControlBase](T_TFlex_Dialogs_InputControlBase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

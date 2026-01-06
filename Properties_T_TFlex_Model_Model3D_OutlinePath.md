@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OutlinePath - свойства  
-  
----  
-  
+    
 Тип [OutlinePath](T_TFlex_Model_Model3D_OutlinePath.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

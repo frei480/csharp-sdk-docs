@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseValue - методы  
-  
----  
-  
+    
 Тип [BaseValue](T_TFlex_Model_Structure_BaseValue.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

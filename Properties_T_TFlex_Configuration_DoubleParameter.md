@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DoubleParameter - свойства  
-  
----  
-  
+    
 Тип [DoubleParameter](T_TFlex_Configuration_DoubleParameter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

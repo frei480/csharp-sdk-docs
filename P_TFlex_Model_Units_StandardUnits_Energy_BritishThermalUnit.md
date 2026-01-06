@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsEnergyBritishThermalUnit - свойство  
-  
----  
-  
+    
 Британская термическая единица; бте; btu; 
 
 Тип - Энергия

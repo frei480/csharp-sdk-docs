@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextExcelExportOptions - свойства  
-  
----  
-  
+    
 Тип [RichTextExcelExportOptions](T_TFlex_Model_Model2D_RichTextExcelExportOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

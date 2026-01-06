@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ActionInfo - методы  
-  
----  
-  
+    
 Тип [ActionInfo](T_TFlex_QualityManagement_ActionInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

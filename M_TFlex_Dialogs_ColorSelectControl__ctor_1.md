@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ColorSelectControl(String) - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [ColorSelectControl](T_TFlex_Dialogs_ColorSelectControl.md)
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SettingsGroupDispose(Boolean) - метод  
-  
----  
-  
+    
 Освобождает неуправляемые ресурсы, используемые объектом [SettingsGroup](T_TFlex_Configuration_SettingsGroup.md), а при необходимости освобождает также управляемые ресурсы
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

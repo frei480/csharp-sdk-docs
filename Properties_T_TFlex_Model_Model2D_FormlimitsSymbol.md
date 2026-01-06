@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FormlimitsSymbol - свойства  
-  
----  
-  
+    
 Тип [FormlimitsSymbol](T_TFlex_Model_Model2D_FormlimitsSymbol.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

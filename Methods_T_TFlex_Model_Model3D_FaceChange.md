@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceChange - методы  
-  
----  
-  
+    
 Тип [FaceChange](T_TFlex_Model_Model3D_FaceChange.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

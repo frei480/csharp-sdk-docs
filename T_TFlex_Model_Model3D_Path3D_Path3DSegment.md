@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Path3DPath3DSegment - класс  
-  
----  
-  
+    
 Участок пути
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DPath3DPath3DSegment

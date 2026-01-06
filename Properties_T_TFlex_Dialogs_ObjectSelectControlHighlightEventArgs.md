@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlHighlightEventArgs - свойства  
-  
----  
-  
+    
 Тип [ObjectSelectControlHighlightEventArgs](T_TFlex_Dialogs_ObjectSelectControlHighlightEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

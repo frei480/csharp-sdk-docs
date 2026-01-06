@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDampingCoefficientPoundForceSecondPerInch - свойство  
-  
----  
-  
+    
 Фунт-сила-секунда на дюйм; фунт-сила·с/дюйм; lbf·s/in; 
 
 Тип - Коэффициент демпфирования

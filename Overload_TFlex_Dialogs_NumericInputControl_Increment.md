@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NumericInputControlIncrement - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Increment](M_TFlex_Dialogs_NumericInputControl_Increment.md) | Увеличить текущее значение |

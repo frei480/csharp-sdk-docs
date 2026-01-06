@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElectricalConductivity - методы  
-  
----  
-  
+    
 Тип [StandardUnitsElectricalConductivity](T_TFlex_Model_Units_StandardUnits_ElectricalConductivity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

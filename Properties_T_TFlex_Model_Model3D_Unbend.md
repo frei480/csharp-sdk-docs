@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Unbend - свойства  
-  
----  
-  
+    
 Тип [Unbend](T_TFlex_Model_Model3D_Unbend.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

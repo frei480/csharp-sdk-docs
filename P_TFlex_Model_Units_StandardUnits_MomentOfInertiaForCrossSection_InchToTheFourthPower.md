@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMomentOfInertiaForCrossSectionInchToTheFourthPower - свойство  
-  
----  
-  
+    
 Дюйм в степени 4; дюйм⁴; in⁴; 
 
 Тип - Момент инерции сечения

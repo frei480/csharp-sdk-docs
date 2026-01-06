@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControlCheckStateChangedEventArgs - свойства  
-  
----  
-  
+    
 Тип [SimpleListControlCheckStateChangedEventArgs](T_TFlex_Dialogs_SimpleListControlCheckStateChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

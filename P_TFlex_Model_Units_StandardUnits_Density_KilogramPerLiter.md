@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDensityKilogramPerLiter - свойство  
-  
----  
-  
+    
 Килограмм на литр; кг/л; kg/L; 
 
 Тип - Плотность

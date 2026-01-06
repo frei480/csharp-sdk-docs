@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Positions - свойства  
-  
----  
-  
+    
 Тип [SurfaceSplinewiseDataPositions](T_TFlex_Model_Model3D_Geometry_SurfaceSplinewiseData_Positions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

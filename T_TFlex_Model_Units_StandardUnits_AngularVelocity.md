@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngularVelocity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Угловая скорость
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsAngularVelocity

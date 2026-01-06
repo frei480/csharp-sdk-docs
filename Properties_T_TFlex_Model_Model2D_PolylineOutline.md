@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PolylineOutline - свойства  
-  
----  
-  
+    
 Тип [PolylineOutline](T_TFlex_Model_Model2D_PolylineOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

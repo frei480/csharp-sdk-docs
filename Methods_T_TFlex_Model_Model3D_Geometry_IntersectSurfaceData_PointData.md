@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointData - методы  
-  
----  
-  
+    
 Тип [IntersectSurfaceDataPointData](T_TFlex_Model_Model3D_Geometry_IntersectSurfaceData_PointData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

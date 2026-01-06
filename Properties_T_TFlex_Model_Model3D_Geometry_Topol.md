@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Topol - свойства  
-  
----  
-  
+    
 Тип [Topol](T_TFlex_Model_Model3D_Geometry_Topol.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

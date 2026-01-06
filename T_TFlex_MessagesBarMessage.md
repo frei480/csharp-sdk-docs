@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MessagesBarMessage - класс  
-  
----  
-  
+    
 Описание сообщения выводимого в MessagesBar
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexMessagesBarMessage

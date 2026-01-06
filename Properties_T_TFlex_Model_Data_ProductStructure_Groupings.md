@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Groupings - свойства  
-  
----  
-  
+    
 Тип [Groupings](T_TFlex_Model_Data_ProductStructure_Groupings.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

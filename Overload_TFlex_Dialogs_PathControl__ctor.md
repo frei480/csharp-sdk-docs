@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PathControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [PathControl](M_TFlex_Dialogs_PathControl__ctor.md) | Инициализирует новый экземпляр класса [PathControl](T_TFlex_Dialogs_PathControl.md) |

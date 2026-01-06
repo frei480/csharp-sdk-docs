@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Box - класс  
-  
----  
-  
+    
 Геометрические границы
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) [TFlex.Model.Model3D.GeometryBaseBox](T_TFlex_Model_Model3D_Geometry_BaseBox.md) TFlex.Model.Model3D.GeometryBox

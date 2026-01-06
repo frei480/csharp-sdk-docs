@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlPaintEventArgs - класс  
-  
----  
-  
+    
 Класс аргументов событий, возникающих при отрисовке
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlexControlEventArgs](T_TFlex_ControlEventArgs.md) TFlexControlPaintEventArgs

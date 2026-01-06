@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceTransformTransformation - свойство  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Трансформация

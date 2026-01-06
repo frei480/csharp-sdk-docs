@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoundedExtrusion - методы  
-  
----  
-  
+    
 Тип [BoundedExtrusion](T_TFlex_Model_Model3D_BoundedExtrusion.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

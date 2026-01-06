@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsObjectsQuantityPiece - свойство  
-  
----  
-  
+    
 Штука; шт; pc; 
 
 Тип - Количество объектов

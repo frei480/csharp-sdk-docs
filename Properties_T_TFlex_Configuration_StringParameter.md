@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StringParameter - свойства  
-  
----  
-  
+    
 Тип [StringParameter](T_TFlex_Configuration_StringParameter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

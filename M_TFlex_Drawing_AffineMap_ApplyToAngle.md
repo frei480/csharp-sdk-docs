@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AffineMapApplyToAngle - метод  
-  
----  
-  
+    
 Применить афинное преобразование к углу
 
 **Пространство имён:** [TFlex.Drawing](N_TFlex_Drawing.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

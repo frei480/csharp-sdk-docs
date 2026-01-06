@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Managed3dApi - методы  
-  
----  
-  
+    
 Тип [Managed3dApi](T_TFlex_Managed3dApi.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

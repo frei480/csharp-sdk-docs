@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Density - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsDensity](T_TFlex_Model_Units_StandardUnits_Density.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

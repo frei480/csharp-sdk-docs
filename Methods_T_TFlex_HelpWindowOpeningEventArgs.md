@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HelpWindowOpeningEventArgs - методы  
-  
----  
-  
+    
 Тип [HelpWindowOpeningEventArgs](T_TFlex_HelpWindowOpeningEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

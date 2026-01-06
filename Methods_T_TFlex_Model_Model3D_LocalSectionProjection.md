@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LocalSectionProjection - методы  
-  
----  
-  
+    
 Тип [LocalSectionProjection](T_TFlex_Model_Model3D_LocalSectionProjection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableParametric - методы  
-  
----  
-  
+    
 Тип [VariableParametric](T_TFlex_Model_Model3D_VariableParametric.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

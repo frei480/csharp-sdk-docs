@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParentObjects - класс  
-  
----  
-  
+    
 Контейнер родительских объектов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelParentObjects

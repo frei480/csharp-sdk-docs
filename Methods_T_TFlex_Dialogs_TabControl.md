@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TabControl - методы  
-  
----  
-  
+    
 Тип [TabControl](T_TFlex_Dialogs_TabControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyObjectDrawContext - свойства  
-  
----  
-  
+    
 Тип [ProxyObjectDrawContext](T_TFlex_Model_ProxyObjectDrawContext.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

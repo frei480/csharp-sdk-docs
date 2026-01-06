@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsThermalInsulance - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Поверхностное тепловое сопротивление
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsThermalInsulance

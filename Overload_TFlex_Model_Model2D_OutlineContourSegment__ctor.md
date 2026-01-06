@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OutlineContourSegment - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [OutlineContourSegment(Contour)](M_TFlex_Model_Model2D_OutlineContourSegment__ctor.md) | Конструктор, добавляющий сегмент в конец контура |

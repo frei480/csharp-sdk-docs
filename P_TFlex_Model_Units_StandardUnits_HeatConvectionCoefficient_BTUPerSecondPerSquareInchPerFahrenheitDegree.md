@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatConvectionCoefficientBTUPerSecondPerSquareInchPerFahrenheitDegree - свойство  
-  
----  
-  
+    
 БTE в секунду на квадратный дюйм на градус Фаренгейта; БТЕ/(с·дюйм²·°F); BTU/(s·in²·°F); 
 
 Тип - Коэффициент теплоотдачи

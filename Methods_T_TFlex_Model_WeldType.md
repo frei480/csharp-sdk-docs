@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WeldType - методы  
-  
----  
-  
+    
 Тип [WeldType](T_TFlex_Model_WeldType.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

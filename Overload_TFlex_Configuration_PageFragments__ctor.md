@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PageFragments - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [PageFragments](M_TFlex_Configuration_PageFragments__ctor.md) | Инициализирует новый экземпляр класса [PageFragments](T_TFlex_Configuration_PageFragments.md) |

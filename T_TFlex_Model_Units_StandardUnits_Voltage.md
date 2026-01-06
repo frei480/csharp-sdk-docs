@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVoltage - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Напряжение
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsVoltage

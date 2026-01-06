@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Coords - методы  
-  
----  
-  
+    
 Тип [GuidePathParametricCoords](T_TFlex_Model_Model3D_GuidePathParametric_Coords.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

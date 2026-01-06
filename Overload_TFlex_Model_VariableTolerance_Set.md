@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableToleranceSet - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Set(String)](M_TFlex_Model_VariableTolerance_Set.md) |  |

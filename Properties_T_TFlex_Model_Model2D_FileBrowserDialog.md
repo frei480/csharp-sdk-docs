@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FileBrowserDialog - свойства  
-  
----  
-  
+    
 Тип [FileBrowserDialog](T_TFlex_Model_Model2D_FileBrowserDialog.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

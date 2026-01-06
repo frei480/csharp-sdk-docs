@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DOCsReferenceDatabase - свойства  
-  
----  
-  
+    
 Тип [DOCsReferenceDatabase](T_TFlex_Model_DOCsReferenceDatabase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

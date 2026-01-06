@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CursorInfo - поля  
-  
----  
-  
+    
 Тип [RichTextCursorInfo](T_TFlex_Model_Model2D_RichText_CursorInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

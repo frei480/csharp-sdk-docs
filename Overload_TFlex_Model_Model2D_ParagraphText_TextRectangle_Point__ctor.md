@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParagraphTextTextRectanglePoint - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ParagraphTextTextRectanglePoint(Double, Double)](M_TFlex_Model_Model2D_ParagraphText_TextRectangle_Point__ctor.md) | Конструктор |

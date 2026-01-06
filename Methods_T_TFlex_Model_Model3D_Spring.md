@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Spring - методы  
-  
----  
-  
+    
 Тип [Spring](T_TFlex_Model_Model3D_Spring.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

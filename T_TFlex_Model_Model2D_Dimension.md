@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Dimension - класс  
-  
----  
-  
+    
 Базовый класс размера
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) TFlex.Model.Model2DDimension [TFlex.Model.Model2DAngularDimensionBase](T_TFlex_Model_Model2D_AngularDimensionBase.md) [TFlex.Model.Model2DCircularDimensionBase](T_TFlex_Model_Model2D_CircularDimensionBase.md) [TFlex.Model.Model2DConstructionDimension](T_TFlex_Model_Model2D_ConstructionDimension.md) [TFlex.Model.Model2DLinearDimensionBase](T_TFlex_Model_Model2D_LinearDimensionBase.md)

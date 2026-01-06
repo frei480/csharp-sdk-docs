@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UnknownTransformation - класс  
-  
----  
-  
+    
 Класс-заместитель для неизменяемых типов преобразований
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DTransformation](T_TFlex_Model_Model3D_Transformation.md) TFlex.Model.Model3DUnknownTransformation

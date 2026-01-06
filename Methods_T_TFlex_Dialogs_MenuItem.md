@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MenuItem - методы  
-  
----  
-  
+    
 Тип [MenuItem](T_TFlex_Dialogs_MenuItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

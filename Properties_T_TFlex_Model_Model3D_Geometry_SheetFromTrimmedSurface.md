@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SheetFromTrimmedSurface - свойства  
-  
----  
-  
+    
 Тип [SheetFromTrimmedSurface](T_TFlex_Model_Model3D_Geometry_SheetFromTrimmedSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardBOMItem - свойства  
-  
----  
-  
+    
 Тип [StandardBOMItem](T_TFlex_Model_StandardBOMItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

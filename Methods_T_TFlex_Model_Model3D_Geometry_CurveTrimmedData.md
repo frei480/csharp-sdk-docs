@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CurveTrimmedData - методы  
-  
----  
-  
+    
 Тип [CurveTrimmedData](T_TFlex_Model_Model3D_Geometry_CurveTrimmedData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

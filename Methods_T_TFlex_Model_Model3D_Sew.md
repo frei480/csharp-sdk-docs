@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Sew - методы  
-  
----  
-  
+    
 Тип [Sew](T_TFlex_Model_Model3D_Sew.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

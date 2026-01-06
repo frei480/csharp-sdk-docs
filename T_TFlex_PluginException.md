@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginException - класс  
-  
----  
-  
+    
 Класс для внутреннего использования
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemException](https://learn.microsoft.com/dotnet/api/system.exception) TFlexPluginException

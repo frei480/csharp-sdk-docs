@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearDimension - методы  
-  
----  
-  
+    
 Тип [LinearDimension](T_TFlex_Model_Model2D_LinearDimension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

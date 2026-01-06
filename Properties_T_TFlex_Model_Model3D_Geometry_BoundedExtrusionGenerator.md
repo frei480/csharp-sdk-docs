@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoundedExtrusionGenerator - свойства  
-  
----  
-  
+    
 Тип [BoundedExtrusionGenerator](T_TFlex_Model_Model3D_Geometry_BoundedExtrusionGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

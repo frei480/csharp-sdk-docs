@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControlAddRow - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddRow](M_TFlex_Dialogs_SimpleListControl_AddRow.md) | Вставить строку в конец списка |

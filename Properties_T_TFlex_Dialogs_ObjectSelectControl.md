@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControl - свойства  
-  
----  
-  
+    
 Тип [ObjectSelectControl](T_TFlex_Dialogs_ObjectSelectControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

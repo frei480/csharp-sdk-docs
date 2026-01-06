@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginFloatingWindow - методы  
-  
----  
-  
+    
 Тип [PluginFloatingWindow](T_TFlex_PluginFloatingWindow.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

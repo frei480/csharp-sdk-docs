@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementCopyValuesFrom - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CopyValuesFrom(ElementCopyValuesParameters)](M_TFlex_Model_Structure_Element_CopyValuesFrom_1.md) |  |

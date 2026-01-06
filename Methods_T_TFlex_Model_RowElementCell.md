@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowElementCell - методы  
-  
----  
-  
+    
 Тип [RowElementCell](T_TFlex_Model_RowElementCell.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

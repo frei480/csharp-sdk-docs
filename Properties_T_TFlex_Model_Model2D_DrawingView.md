@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DrawingView - свойства  
-  
----  
-  
+    
 Тип [DrawingView](T_TFlex_Model_Model2D_DrawingView.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

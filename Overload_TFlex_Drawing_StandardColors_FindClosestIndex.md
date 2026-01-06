@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardColorsFindClosestIndex - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FindClosestIndex(Color)](M_TFlex_Drawing_StandardColors_FindClosestIndex.md) | Найти индекс, наиболее соответствующий данному цвету |

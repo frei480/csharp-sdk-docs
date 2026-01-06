@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PathBy2DElemsSegmentsSet - класс  
-  
----  
-  
+    
 Упорядоченное множество сегментов 3D пути: 2D путь и рабочая поверхность
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DPathBy2DElemsSegmentsSet

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ShownPageTypes - свойства  
-  
----  
-  
+    
 Тип [ShownPageTypes](T_TFlex_ShownPageTypes.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

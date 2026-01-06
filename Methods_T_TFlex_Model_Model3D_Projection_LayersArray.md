@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LayersArray - методы  
-  
----  
-  
+    
 Тип [ProjectionLayersArray](T_TFlex_Model_Model3D_Projection_LayersArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

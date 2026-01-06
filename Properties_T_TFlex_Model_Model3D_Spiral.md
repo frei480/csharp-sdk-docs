@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Spiral - свойства  
-  
----  
-  
+    
 Тип [Spiral](T_TFlex_Model_Model3D_Spiral.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

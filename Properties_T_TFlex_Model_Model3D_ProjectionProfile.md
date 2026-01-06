@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectionProfile - свойства  
-  
----  
-  
+    
 Тип [ProjectionProfile](T_TFlex_Model_Model3D_ProjectionProfile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

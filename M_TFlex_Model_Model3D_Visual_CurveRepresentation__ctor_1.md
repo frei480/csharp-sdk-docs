@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CurveRepresentation(Scene, Object3D, ModelBody, String) - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [CurveRepresentation](T_TFlex_Model_Model3D_Visual_CurveRepresentation.md)
 
 **Пространство имён:** [TFlex.Model.Model3D.Visual](N_TFlex_Model_Model3D_Visual.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

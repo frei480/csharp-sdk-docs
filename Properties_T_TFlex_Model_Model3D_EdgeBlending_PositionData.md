@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PositionData - свойства  
-  
----  
-  
+    
 Тип [EdgeBlendingPositionData](T_TFlex_Model_Model3D_EdgeBlending_PositionData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

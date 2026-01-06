@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IGroupingRule - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Data.ProductStructureIGroupingRule [TFlex.Model.Data.ProductStructureBOMGroupGroupingRule](T_TFlex_Model_Data_ProductStructure_BOMGroupGroupingRule.md) [TFlex.Model.Data.ProductStructureByParameterGroupingRule](T_TFlex_Model_Data_ProductStructure_ByParameterGroupingRule.md) [TFlex.Model.Data.ProductStructureConditionalGroupingRule](T_TFlex_Model_Data_ProductStructure_ConditionalGroupingRule.md) [TFlex.Model.Data.ProductStructureDefaultGroupingRule](T_TFlex_Model_Data_ProductStructure_DefaultGroupingRule.md)
 
 **Пространство имён:** [TFlex.Model.Data.ProductStructure](N_TFlex_Model_Data_ProductStructure.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)

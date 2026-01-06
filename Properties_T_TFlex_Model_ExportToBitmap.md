@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToBitmap - свойства  
-  
----  
-  
+    
 Тип [ExportToBitmap](T_TFlex_Model_ExportToBitmap.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

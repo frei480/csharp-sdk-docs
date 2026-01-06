@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SleeveEventArgs - свойства  
-  
----  
-  
+    
 Тип [WireSetManipulatorSleeveEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_WireSetManipulator_SleeveEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseInterval - свойства  
-  
----  
-  
+    
 Тип [BaseInterval](T_TFlex_Model_Model3D_Geometry_BaseInterval.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

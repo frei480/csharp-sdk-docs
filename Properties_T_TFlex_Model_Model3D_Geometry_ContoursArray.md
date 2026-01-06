@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ContoursArray - свойства  
-  
----  
-  
+    
 Тип [ContoursArray](T_TFlex_Model_Model3D_Geometry_ContoursArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

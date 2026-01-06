@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureExportOptions - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelProductStructureExportOptions [TFlex.ModelProductStructureCsvExportOptions](T_TFlex_Model_ProductStructureCsvExportOptions.md) [TFlex.ModelProductStructureExcelExportOptions](T_TFlex_Model_ProductStructureExcelExportOptions.md) [TFlex.ModelProductStructureXmlExportOptions](T_TFlex_Model_ProductStructureXmlExportOptions.md)
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

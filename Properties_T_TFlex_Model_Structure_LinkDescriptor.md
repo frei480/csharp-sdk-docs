@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkDescriptor - свойства  
-  
----  
-  
+    
 Тип [LinkDescriptor](T_TFlex_Model_Structure_LinkDescriptor.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

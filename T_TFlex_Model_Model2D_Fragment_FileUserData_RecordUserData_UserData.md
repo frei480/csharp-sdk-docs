@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentFileUserDataRecordUserDataUserData - класс  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Пользовательские данные

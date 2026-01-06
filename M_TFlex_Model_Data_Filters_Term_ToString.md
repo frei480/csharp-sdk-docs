@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TermToString - метод  
-  
----  
-  
+    
 Возвращает строковое представление условия
 
 **Пространство имён:** [TFlex.Model.Data.Filters](N_TFlex_Model_Data_Filters.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)

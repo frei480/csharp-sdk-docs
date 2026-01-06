@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DiagnosticsMessage - класс  
-  
----  
-  
+    
 Класс сообщения, добавляемого в контейнер диагноситики документа
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelDiagnosticsMessage

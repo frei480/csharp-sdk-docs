@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Point - свойства  
-  
----  
-  
+    
 Тип [Point](T_TFlex_Drawing_Point.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

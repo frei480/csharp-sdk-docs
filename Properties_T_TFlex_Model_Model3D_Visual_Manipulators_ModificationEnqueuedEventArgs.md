@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModificationEnqueuedEventArgs - свойства  
-  
----  
-  
+    
 Тип [ModificationEnqueuedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_ModificationEnqueuedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

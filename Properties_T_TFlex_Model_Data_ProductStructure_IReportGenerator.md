@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IReportGenerator - свойства  
-  
----  
-  
+    
 Тип [IReportGenerator](T_TFlex_Model_Data_ProductStructure_IReportGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

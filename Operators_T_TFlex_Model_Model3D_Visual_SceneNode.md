@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SceneNode - операторы  
-  
----  
-  
+    
 Тип [SceneNode](T_TFlex_Model_Model3D_Visual_SceneNode.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

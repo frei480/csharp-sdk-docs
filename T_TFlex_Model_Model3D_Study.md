@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Study - класс  
-  
----  
-  
+    
 Задачи Анализа
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) TFlex.Model.Model3DStudy [TFlex.Model.Model3DCAEStudy](T_TFlex_Model_Model3D_CAEStudy.md) [TFlex.Model.Model3DDynamicStudy](T_TFlex_Model_Model3D_DynamicStudy.md)

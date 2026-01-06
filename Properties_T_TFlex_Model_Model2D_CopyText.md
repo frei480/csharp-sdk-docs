@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyText - свойства  
-  
----  
-  
+    
 Тип [CopyText](T_TFlex_Model_Model2D_CopyText.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseBodyRangePoint - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RangePoint(BasePoint3D)](M_TFlex_Model_Model3D_Geometry_BaseBody_RangePoint.md) | Найти точку на теле ближайшую к данной точке |

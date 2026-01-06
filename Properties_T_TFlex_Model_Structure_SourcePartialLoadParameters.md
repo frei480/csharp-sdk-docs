@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SourcePartialLoadParameters - свойства  
-  
----  
-  
+    
 Тип [SourcePartialLoadParameters](T_TFlex_Model_Structure_SourcePartialLoadParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircularDimensionSetDiametralDimensionType - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetDiametralDimensionType(DiametralDimensionType)](M_TFlex_Model_Model2D_CircularDimension_SetDiametralDimensionType.md) | Установка размера, как диаметрального |

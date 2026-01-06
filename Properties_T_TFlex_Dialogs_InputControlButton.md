@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InputControlButton - свойства  
-  
----  
-  
+    
 Тип [InputControlButton](T_TFlex_Dialogs_InputControlButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

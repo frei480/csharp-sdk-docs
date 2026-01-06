@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCapacitance - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Электроёмкость
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsCapacitance

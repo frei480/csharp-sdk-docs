@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Interval - класс  
-  
----  
-  
+    
 Информация об интервале
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryBaseInterval](T_TFlex_Model_Model3D_Geometry_BaseInterval.md) TFlex.Model.Model3D.GeometryInterval

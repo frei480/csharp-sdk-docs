@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DirectionalLight - свойства  
-  
----  
-  
+    
 Тип [DirectionalLight](T_TFlex_Model_Model3D_DirectionalLight.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

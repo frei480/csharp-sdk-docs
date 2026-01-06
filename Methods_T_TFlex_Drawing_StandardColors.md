@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardColors - методы  
-  
----  
-  
+    
 Тип [StandardColors](T_TFlex_Drawing_StandardColors.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

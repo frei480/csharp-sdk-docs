@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Workplane - свойства  
-  
----  
-  
+    
 Тип [Workplane](T_TFlex_Model_Model3D_Workplane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

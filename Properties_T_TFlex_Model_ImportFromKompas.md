@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFromKompas - свойства  
-  
----  
-  
+    
 Тип [ImportFromKompas](T_TFlex_Model_ImportFromKompas.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

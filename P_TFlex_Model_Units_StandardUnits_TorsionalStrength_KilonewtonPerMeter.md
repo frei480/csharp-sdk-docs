@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorsionalStrengthKilonewtonPerMeter - свойство  
-  
----  
-  
+    
 Килоньютон на метр; кН/м; kN/m; 
 
 Тип - Прочность кручения

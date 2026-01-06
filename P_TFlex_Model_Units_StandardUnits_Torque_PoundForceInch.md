@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorquePoundForceInch - свойство  
-  
----  
-  
+    
 Фунт-сила дюйм; фунт-сила·дюйм ; lbf·in; 
 
 Тип - Момент силы

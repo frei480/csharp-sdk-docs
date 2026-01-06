@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AttributeParameterProvider - методы  
-  
----  
-  
+    
 Тип [AttributeParameterProvider](T_TFlex_Model_Data_ProductStructure_AttributeParameterProvider.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

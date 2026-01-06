@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonTab - класс  
-  
----  
-  
+    
 Вкладка ленты T-FLEX CAD
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexRibbonTab

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToDWG - методы  
-  
----  
-  
+    
 Тип [ExportToDWG](T_TFlex_Model_ExportToDWG.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

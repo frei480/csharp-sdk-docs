@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NonSectionCondition - свойства  
-  
----  
-  
+    
 Тип [NonSectionCondition](T_TFlex_Configuration_NonSectionCondition.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

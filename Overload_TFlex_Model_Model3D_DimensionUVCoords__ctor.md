@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DimensionUVCoords - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DimensionUVCoords](M_TFlex_Model_Model3D_DimensionUVCoords__ctor.md) | Конструктор по умолчанию |

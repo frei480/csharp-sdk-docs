@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentExplodeOptions - свойства  
-  
----  
-  
+    
 Тип [FragmentExplodeOptions](T_TFlex_Model_Model2D_FragmentExplodeOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

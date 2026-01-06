@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ViewPointsArray - методы  
-  
----  
-  
+    
 Тип [ViewSectionViewPointsArray](T_TFlex_Model_Model3D_ViewSection_ViewPointsArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

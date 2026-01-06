@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Rectangle - свойства  
-  
----  
-  
+    
 Тип [Rectangle](T_TFlex_Drawing_Rectangle.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

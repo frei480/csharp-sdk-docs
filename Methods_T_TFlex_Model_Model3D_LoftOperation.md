@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftOperation - методы  
-  
----  
-  
+    
 Тип [LoftOperation](T_TFlex_Model_Model3D_LoftOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

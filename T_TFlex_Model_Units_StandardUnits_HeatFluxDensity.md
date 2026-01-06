@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatFluxDensity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Плотность теплового потока
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsHeatFluxDensity

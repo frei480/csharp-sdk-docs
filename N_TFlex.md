@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [AlterColorButtonPressedEventArgs](T_TFlex_AlterColorButtonPressedEventArgs.md) | Класс, содержащий данные о событии, возникающем в момент нажатия кнопки выбора альтернативного цвета |

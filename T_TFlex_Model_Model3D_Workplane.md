@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Workplane - класс  
-  
----  
-  
+    
 Базовый класс для всех типов рабочих плоскостей
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DConstruction3D](T_TFlex_Model_Model3D_Construction3D.md) [TFlex.Model.Model3DWorkSurface](T_TFlex_Model_Model3D_WorkSurface.md) TFlex.Model.Model3DWorkplane [TFlex.Model.Model3DCopyWorkplane](T_TFlex_Model_Model3D_CopyWorkplane.md) [TFlex.Model.Model3DModel2DWorkplane](T_TFlex_Model_Model3D_Model2DWorkplane.md) [TFlex.Model.Model3DModel3DWorkplane](T_TFlex_Model_Model3D_Model3DWorkplane.md) [TFlex.Model.Model3DReferenceWorkplane](T_TFlex_Model_Model3D_ReferenceWorkplane.md)

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConnectorParameters - свойства  
-  
----  
-  
+    
 Тип [ConnectorParameters](T_TFlex_Model_ConnectorParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

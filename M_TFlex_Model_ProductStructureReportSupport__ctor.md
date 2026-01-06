@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureReportSupport - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [ProductStructureReportSupport](T_TFlex_Model_ProductStructureReportSupport.md)
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

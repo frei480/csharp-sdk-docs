@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RenderOptions2D - методы  
-  
----  
-  
+    
 Тип [RenderOptions2D](T_TFlex_Configuration_RenderOptions2D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

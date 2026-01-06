@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfTrimmedData - свойства  
-  
----  
-  
+    
 Тип [SurfTrimmedData](T_TFlex_Model_Model3D_Geometry_SurfTrimmedData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectDependsOn - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DependsOn(ListModelObject)](M_TFlex_Model_ModelObject_DependsOn.md) |  |

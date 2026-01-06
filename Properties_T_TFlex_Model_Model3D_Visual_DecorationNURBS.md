@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationNURBS - свойства  
-  
----  
-  
+    
 Тип [DecorationNURBS](T_TFlex_Model_Model3D_Visual_DecorationNURBS.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

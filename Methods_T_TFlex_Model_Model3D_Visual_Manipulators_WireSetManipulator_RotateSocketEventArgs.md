@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RotateSocketEventArgs - методы  
-  
----  
-  
+    
 Тип [WireSetManipulatorRotateSocketEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_WireSetManipulator_RotateSocketEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

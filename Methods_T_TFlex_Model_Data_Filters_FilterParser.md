@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FilterParser - методы  
-  
----  
-  
+    
 Тип [FilterParser](T_TFlex_Model_Data_Filters_FilterParser.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

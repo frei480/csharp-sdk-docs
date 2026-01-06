@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HeatFluxDensity - методы  
-  
----  
-  
+    
 Тип [StandardUnitsHeatFluxDensity](T_TFlex_Model_Units_StandardUnits_HeatFluxDensity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

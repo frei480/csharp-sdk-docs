@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UnitType - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsUnitType
 
 **Пространство имён:** [TFlex.Model.Units](N_TFlex_Model_Units.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

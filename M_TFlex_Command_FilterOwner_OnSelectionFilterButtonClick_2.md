@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FilterOwnerOnSelectionFilterButtonClick(SelectionFilterButtonClickEventArgs) - метод  
-  
----  
-  
+    
 Вызывает событие [SelectionFilterButtonClick](E_TFlex_Command_FilterOwner_SelectionFilterButtonClick.md)
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

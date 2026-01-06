@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Model2DSection - свойства  
-  
----  
-  
+    
 Тип [Model2DSection](T_TFlex_Model_Model3D_Model2DSection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Windows - методы  
-  
----  
-  
+    
 Тип [Windows](T_TFlex_Configuration_Windows.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

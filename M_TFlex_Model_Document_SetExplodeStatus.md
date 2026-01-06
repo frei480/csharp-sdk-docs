@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentSetExplodeStatus - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Перевод 3D модели в режим сборки-разборки без открытия блока изменения документа [BeginChanges(String)](M_TFlex_Model_Document_BeginChanges.md)

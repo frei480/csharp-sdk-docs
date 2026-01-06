@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCurrentDensity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Плотность тока
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsCurrentDensity

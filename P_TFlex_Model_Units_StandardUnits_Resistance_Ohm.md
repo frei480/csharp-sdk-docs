@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsResistanceOhm - свойство  
-  
----  
-  
+    
 Ом; Ом; Ohm; 
 
 Тип - Сопротивление

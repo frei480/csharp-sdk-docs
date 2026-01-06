@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlPlainObject - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ObjectSelectControlPlainObject(Icon)](M_TFlex_Dialogs_ObjectSelectControlPlainObject__ctor_2.md) | Инициализирует новый экземпляр класса [ObjectSelectControlPlainObject](T_TFlex_Dialogs_ObjectSelectControlPlainObject.md) |

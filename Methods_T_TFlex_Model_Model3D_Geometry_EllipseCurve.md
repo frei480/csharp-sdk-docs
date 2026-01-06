@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EllipseCurve - методы  
-  
----  
-  
+    
 Тип [EllipseCurve](T_TFlex_Model_Model3D_Geometry_EllipseCurve.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

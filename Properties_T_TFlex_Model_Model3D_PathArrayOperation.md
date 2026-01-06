@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PathArrayOperation - свойства  
-  
----  
-  
+    
 Тип [PathArrayOperation](T_TFlex_Model_Model3D_PathArrayOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

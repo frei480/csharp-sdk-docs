@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCurrentDensityAmperePerSquareMillimeter - свойство  
-  
----  
-  
+    
 Ампер на квадратный миллиметр; А/мм²; A/mm²; 
 
 Тип - Плотность тока

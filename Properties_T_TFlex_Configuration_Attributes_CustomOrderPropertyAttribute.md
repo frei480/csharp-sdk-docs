@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomOrderPropertyAttribute - свойства  
-  
----  
-  
+    
 Тип [CustomOrderPropertyAttribute](T_TFlex_Configuration_Attributes_CustomOrderPropertyAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

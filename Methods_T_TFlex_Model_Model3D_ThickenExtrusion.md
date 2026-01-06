@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThickenExtrusion - методы  
-  
----  
-  
+    
 Тип [ThickenExtrusion](T_TFlex_Model_Model3D_ThickenExtrusion.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

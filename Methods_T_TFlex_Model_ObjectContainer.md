@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectContainer - методы  
-  
----  
-  
+    
 Тип [ObjectContainer](T_TFlex_Model_ObjectContainer.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

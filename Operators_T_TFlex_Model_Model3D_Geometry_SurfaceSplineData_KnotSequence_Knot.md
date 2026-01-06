@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Knot - преобразования типов  
-  
----  
-  
+    
 Тип [SurfaceSplineDataKnotSequenceKnot](T_TFlex_Model_Model3D_Geometry_SurfaceSplineData_KnotSequence_Knot.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

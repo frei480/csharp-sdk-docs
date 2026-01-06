@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DoubleEventArgs - свойства  
-  
----  
-  
+    
 Тип [DoubleEventArgs](T_TFlex_Dialogs_DoubleEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

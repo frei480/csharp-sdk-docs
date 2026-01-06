@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementProjection - класс  
-  
----  
-  
+    
 Класс создания проекции набора топологических элементов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DProjection](T_TFlex_Model_Model3D_Projection.md) [TFlex.Model.Model3DSimpleDrawingProjection](T_TFlex_Model_Model3D_SimpleDrawingProjection.md) [TFlex.Model.Model3DNonStandardProjection](T_TFlex_Model_Model3D_NonStandardProjection.md) TFlex.Model.Model3DElementProjection

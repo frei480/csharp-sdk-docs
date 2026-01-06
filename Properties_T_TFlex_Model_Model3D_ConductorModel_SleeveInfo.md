@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SleeveInfo - свойства  
-  
----  
-  
+    
 Тип [SleeveInfo](T_TFlex_Model_Model3D_ConductorModel_SleeveInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MultiLinkReplaceDesignation - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ReplaceDesignation(String, String, String)](M_TFlex_Model_Circuits_MultiLink_ReplaceDesignation.md) |  |

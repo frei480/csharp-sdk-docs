@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Scenario - свойства  
-  
----  
-  
+    
 Тип [Scenario](T_TFlex_Model_Model3D_Scenario.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

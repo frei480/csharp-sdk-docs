@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UserData - свойства  
-  
----  
-  
+    
 Тип [FragmentFileUserDataRecordUserDataUserData](T_TFlex_Model_Model2D_Fragment_FileUserData_RecordUserData_UserData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

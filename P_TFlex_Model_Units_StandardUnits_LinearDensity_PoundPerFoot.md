@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensityPoundPerFoot - свойство  
-  
----  
-  
+    
 Фунт на фут; фунт/фут; lb/ft; 
 
 Тип - Линейная плотность

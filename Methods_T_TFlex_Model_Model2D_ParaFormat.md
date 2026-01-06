@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParaFormat - методы  
-  
----  
-  
+    
 Тип [ParaFormat](T_TFlex_Model_Model2D_ParaFormat.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

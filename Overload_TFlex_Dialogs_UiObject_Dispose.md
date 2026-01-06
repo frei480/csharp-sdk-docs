@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UiObjectDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Dialogs_UiObject_Dispose.md) | Освобождает все ресурсы, используемые объектом [UiObject](T_TFlex_Dialogs_UiObject.md) |

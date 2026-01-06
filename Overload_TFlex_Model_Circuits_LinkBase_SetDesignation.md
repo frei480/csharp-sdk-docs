@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkBaseSetDesignation - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetDesignation(String, String, DesignationType)](M_TFlex_Model_Circuits_LinkBase_SetDesignation.md) |  |

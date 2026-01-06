@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntersectSurfaceDataPointDataDispose(Boolean) - метод  
-  
----  
-  
+    
 Освобождает неуправляемые ресурсы, используемые объектом [IntersectSurfaceDataPointData](T_TFlex_Model_Model3D_Geometry_IntersectSurfaceData_PointData.md), а при необходимости освобождает также управляемые ресурсы
 
 **Пространство имён:** [TFlex.Model.Model3D.Geometry](N_TFlex_Model_Model3D_Geometry.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

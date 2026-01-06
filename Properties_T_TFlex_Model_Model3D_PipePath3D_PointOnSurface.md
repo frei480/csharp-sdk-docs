@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointOnSurface - свойства  
-  
----  
-  
+    
 Тип [PipePath3DPointOnSurface](T_TFlex_Model_Model3D_PipePath3D_PointOnSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

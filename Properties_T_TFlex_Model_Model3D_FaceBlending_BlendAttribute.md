@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BlendAttribute - свойства  
-  
----  
-  
+    
 Тип [FaceBlendingBlendAttribute](T_TFlex_Model_Model3D_FaceBlending_BlendAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

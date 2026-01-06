@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControlSetParentRowId - метод  
-  
----  
-  
+    
 Установить индекс родительской строки. Должены быть включены режим IsHierarchyOn и IsIdMappingOn.
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

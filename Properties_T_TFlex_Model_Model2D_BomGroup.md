@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BomGroup - свойства  
-  
----  
-  
+    
 Тип [BomGroup](T_TFlex_Model_Model2D_BomGroup.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

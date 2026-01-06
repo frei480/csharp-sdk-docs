@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertiesWindowWpfForm - класс  
-  
----  
-  
+    
 Класс вкладки служебного окна для использования с контролами WPF
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.CommandPropertiesWindowFormBase](T_TFlex_Command_PropertiesWindowFormBase.md) TFlex.CommandPropertiesWindowWpfForm

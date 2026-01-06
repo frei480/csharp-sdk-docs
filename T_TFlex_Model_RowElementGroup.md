@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowElementGroup - класс  
-  
----  
-  
+    
 Класс группы элементов структуры изделия.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelRowElementGroup

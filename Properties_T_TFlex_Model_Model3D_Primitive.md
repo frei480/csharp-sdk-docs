@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Primitive - свойства  
-  
----  
-  
+    
 Тип [Primitive](T_TFlex_Model_Model3D_Primitive.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SegmentIndex - свойство  
-  
----  
-**Пространство имён:** [TFlex.Model.Model2D.HarnessModel](N_TFlex_Model_Model2D_HarnessModel.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.Model.Model2D.HarnessModel](N_TFlex_Model_Model2D_HarnessModel.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
 
 ```csharp
 public int Index { get; }

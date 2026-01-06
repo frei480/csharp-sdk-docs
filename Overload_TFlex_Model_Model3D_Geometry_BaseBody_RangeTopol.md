@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseBodyRangeTopol - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RangeTopol(BaseBody)](M_TFlex_Model_Model3D_Geometry_BaseBody_RangeTopol.md) | Найти ближайшие расстояние между двумя телами |

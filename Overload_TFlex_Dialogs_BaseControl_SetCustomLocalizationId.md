@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseControlSetCustomLocalizationId - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetCustomLocalizationId(String)](M_TFlex_Dialogs_BaseControl_SetCustomLocalizationId.md) | Задать отдельный идентификатор для локализации |

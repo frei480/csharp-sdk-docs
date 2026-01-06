@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementGetLinkedObjects - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetLinkedObjects](M_TFlex_Model_Structure_Element_GetLinkedObjects.md) |  |

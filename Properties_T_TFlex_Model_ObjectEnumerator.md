@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectEnumerator - свойства  
-  
----  
-  
+    
 Тип [ObjectEnumerator](T_TFlex_Model_ObjectEnumerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

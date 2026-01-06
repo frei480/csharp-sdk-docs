@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceBlendingPositionData - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FaceBlendingPositionData(Parameter, Parameter)](M_TFlex_Model_Model3D_FaceBlending_PositionData__ctor.md) | Конструктор |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BooleanOperationOperandsArrayOperand - класс  
-  
----  
-  
+    
 Структура для хранения операнда
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DBooleanOperationOperandsArrayOperand

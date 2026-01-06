@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircleGeometry - свойства  
-  
----  
-  
+    
 Тип [CircleGeometry](T_TFlex_Model_Model2D_CircleGeometry.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

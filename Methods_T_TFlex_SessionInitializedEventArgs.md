@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SessionInitializedEventArgs - методы  
-  
----  
-  
+    
 Тип [SessionInitializedEventArgs](T_TFlex_SessionInitializedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

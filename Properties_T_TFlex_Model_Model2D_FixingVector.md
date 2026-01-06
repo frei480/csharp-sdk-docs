@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixingVector - свойства  
-  
----  
-  
+    
 Тип [FixingVector](T_TFlex_Model_Model2D_FixingVector.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

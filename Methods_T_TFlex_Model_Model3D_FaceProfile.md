@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceProfile - методы  
-  
----  
-  
+    
 Тип [FaceProfile](T_TFlex_Model_Model3D_FaceProfile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

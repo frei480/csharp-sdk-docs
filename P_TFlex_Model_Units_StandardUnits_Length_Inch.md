@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLengthInch - свойство  
-  
----  
-  
+    
 Дюйм; дюйм; in; 
 
 Тип - Длина

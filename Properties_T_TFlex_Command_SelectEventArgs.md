@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectEventArgs - свойства  
-  
----  
-  
+    
 Тип [SelectEventArgs](T_TFlex_Command_SelectEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

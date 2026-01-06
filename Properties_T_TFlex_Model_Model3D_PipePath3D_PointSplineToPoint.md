@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointSplineToPoint - свойства  
-  
----  
-  
+    
 Тип [PipePath3DPointSplineToPoint](T_TFlex_Model_Model3D_PipePath3D_PointSplineToPoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UriHyperlinkProperties - свойства  
-  
----  
-  
+    
 Тип [UriHyperlinkProperties](T_TFlex_Model_Model2D_UriHyperlinkProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

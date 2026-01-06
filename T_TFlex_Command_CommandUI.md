@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommandUI - класс  
-  
----  
-  
+    
 Данный класс является вспомогательным классом, обеспечивающим разрешение или блокировку выполнения команды, а также установку переключателя команды в режим "включено" или "выключено".
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.CommandCommandUI

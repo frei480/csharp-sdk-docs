@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlItemCollectionContains - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Contains(T)](M_TFlex_Dialogs_Collection_1_Contains.md) | Возвращает true, если коллекция содержит элемент |

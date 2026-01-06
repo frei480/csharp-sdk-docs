@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonGroupDispose - метод  
-  
----  
-  
+    
 Освобождает все ресурсы, используемые объектом [RibbonGroup](T_TFlex_RibbonGroup.md)
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

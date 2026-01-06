@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OnPointsWorkplane - свойства  
-  
----  
-  
+    
 Тип [OnPointsWorkplane](T_TFlex_Model_Model3D_OnPointsWorkplane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

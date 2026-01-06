@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentParameters - методы  
-  
----  
-  
+    
 Тип [DocumentParameters](T_TFlex_Configuration_DocumentParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

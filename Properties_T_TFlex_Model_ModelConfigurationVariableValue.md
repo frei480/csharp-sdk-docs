@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelConfigurationVariableValue - свойства  
-  
----  
-  
+    
 Тип [ModelConfigurationVariableValue](T_TFlex_Model_ModelConfigurationVariableValue.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

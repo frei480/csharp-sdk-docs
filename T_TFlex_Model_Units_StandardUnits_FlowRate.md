@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsFlowRate - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Расход
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsFlowRate

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlRemovedObject - структура  
-  
----  
-  
+    
 Содержит данные об удалённом из списка ObjectSelectControl объекте
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemValueType](https://learn.microsoft.com/dotnet/api/system.valuetype) TFlex.DialogsObjectSelectControlRemovedObject

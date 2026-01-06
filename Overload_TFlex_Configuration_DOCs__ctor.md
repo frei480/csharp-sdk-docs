@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DOCs - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DOCs](M_TFlex_Configuration_DOCs__ctor.md) | Инициализирует новый экземпляр класса [DOCs](T_TFlex_Configuration_DOCs.md) |

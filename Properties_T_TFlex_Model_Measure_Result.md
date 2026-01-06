@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Result - свойства  
-  
----  
-  
+    
 Тип [Result](T_TFlex_Model_Measure_Result.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

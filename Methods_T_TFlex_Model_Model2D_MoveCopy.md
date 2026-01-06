@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MoveCopy - методы  
-  
----  
-  
+    
 Тип [MoveCopy](T_TFlex_Model_Model2D_MoveCopy.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

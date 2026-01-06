@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommandUISetCheck - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetCheck](M_TFlex_Command_CommandUI_SetCheck.md) | Установить состояние "Включено" для данной команды |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AlterColorButtonPressedEventArgs - свойства  
-  
----  
-  
+    
 Тип [AlterColorButtonPressedEventArgs](T_TFlex_AlterColorButtonPressedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

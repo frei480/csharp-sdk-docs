@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToParasolid - свойства  
-  
----  
-  
+    
 Тип [ExportToParasolid](T_TFlex_Model_ExportToParasolid.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

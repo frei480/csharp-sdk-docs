@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SectionViewSymbol - методы  
-  
----  
-  
+    
 Тип [SectionViewSymbol](T_TFlex_Model_Model2D_SectionViewSymbol.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

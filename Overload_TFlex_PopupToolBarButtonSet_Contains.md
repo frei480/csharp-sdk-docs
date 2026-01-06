@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PopupToolBarButtonSetContains - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Contains(Int32)](M_TFlex_PopupToolBarButtonSet_Contains.md) | Определяет, есть в этом наборе указанная кнопка или нет |

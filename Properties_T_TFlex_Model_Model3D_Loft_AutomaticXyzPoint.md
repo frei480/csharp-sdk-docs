@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AutomaticXyzPoint - свойства  
-  
----  
-  
+    
 Тип [LoftAutomaticXyzPoint](T_TFlex_Model_Model3D_Loft_AutomaticXyzPoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

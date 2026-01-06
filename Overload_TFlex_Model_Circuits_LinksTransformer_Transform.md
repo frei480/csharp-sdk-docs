@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinksTransformerTransform - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Transform(ListLink, ValueType)](M_TFlex_Model_Circuits_LinksTransformer_Transform.md) |  |

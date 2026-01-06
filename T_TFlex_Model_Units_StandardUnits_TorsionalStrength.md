@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorsionalStrength - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Прочность кручения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsTorsionalStrength

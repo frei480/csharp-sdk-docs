@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IconImage - свойства  
-  
----  
-  
+    
 Тип [IconImage](T_TFlex_Model_Structure_IconImage.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlModelInsertRemoveEventArgs - методы  
-  
----  
-  
+    
 Тип [ListControlModelInsertRemoveEventArgs](T_TFlex_Dialogs_ListControlModelInsertRemoveEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

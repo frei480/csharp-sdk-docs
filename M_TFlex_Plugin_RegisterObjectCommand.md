@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginRegisterObjectCommand(Int32, String) - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

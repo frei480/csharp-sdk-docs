@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextInsertParagraphs(UInt32, CharFormat) - метод  
-  
----  
-  
+    
 Вставка нескольких абзацев с использованием для разделителя заданного формата символов
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

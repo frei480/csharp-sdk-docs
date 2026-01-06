@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LCSWorkplane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [LCSWorkplane(Document)](M_TFlex_Model_Model3D_LCSWorkplane__ctor.md) | Конструктор для создания рабочей плоскости |

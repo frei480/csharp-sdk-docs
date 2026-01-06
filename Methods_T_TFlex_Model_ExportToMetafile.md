@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToMetafile - методы  
-  
----  
-  
+    
 Тип [ExportToMetafile](T_TFlex_Model_ExportToMetafile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

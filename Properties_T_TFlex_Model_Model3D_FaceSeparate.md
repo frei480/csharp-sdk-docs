@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceSeparate - свойства  
-  
----  
-  
+    
 Тип [FaceSeparate](T_TFlex_Model_Model3D_FaceSeparate.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

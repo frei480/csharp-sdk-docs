@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NamingRules - методы  
-  
----  
-  
+    
 Тип [NamingRules](T_TFlex_Configuration_NamingRules.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

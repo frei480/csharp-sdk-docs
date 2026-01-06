@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Extrusion - класс  
-  
----  
-  
+    
 Базовая операция для всех типов выталкивания
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DOperation](T_TFlex_Model_Model3D_Operation.md) [TFlex.Model.Model3DSweep](T_TFlex_Model_Model3D_Sweep.md) TFlex.Model.Model3DExtrusion [TFlex.Model.Model3DBoundedExtrusion](T_TFlex_Model_Model3D_BoundedExtrusion.md) [TFlex.Model.Model3DThickenExtrusion](T_TFlex_Model_Model3D_ThickenExtrusion.md)

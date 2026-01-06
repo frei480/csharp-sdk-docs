@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Managed3dApi - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexManaged3dApi
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

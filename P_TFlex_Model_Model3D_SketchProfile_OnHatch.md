@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SketchProfileOnHatch - свойство  
-  
----  
-  
+    
 2D узел, задающий перемещение узла контура в 3D узел
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

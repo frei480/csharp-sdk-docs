@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # KeyValuePairSTKey, TValue \- класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.DataKeyValuePairSTKey, TValue
 
 **Пространство имён:** [TFlex.Model.Data](N_TFlex_Model_Data.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)

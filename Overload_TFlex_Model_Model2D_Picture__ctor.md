@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Picture - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Picture(Document)](M_TFlex_Model_Model2D_Picture__ctor.md) | Конструктор по умолчанию |

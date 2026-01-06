@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # KeyEventArgs - класс  
-  
----  
-  
+    
 Класс аргументов события, возникающего при нажатии на клавишу клавиатуры или кнопку автоменю
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.CommandCommandEventArgs](T_TFlex_Command_CommandEventArgs.md) [TFlex.CommandCursorEventArgs](T_TFlex_Command_CursorEventArgs.md) TFlex.CommandKeyEventArgs

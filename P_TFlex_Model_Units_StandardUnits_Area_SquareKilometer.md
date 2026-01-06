@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAreaSquareKilometer - свойство  
-  
----  
-  
+    
 Квадратный километр; км²; km²; 
 
 Тип - Площадь

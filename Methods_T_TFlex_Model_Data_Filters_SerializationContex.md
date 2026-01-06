@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SerializationContex - методы  
-  
----  
-  
+    
 Тип [SerializationContex](T_TFlex_Model_Data_Filters_SerializationContex.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

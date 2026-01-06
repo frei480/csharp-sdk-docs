@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Options2DGridPointSize - свойство  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportedTransformation - методы  
-  
----  
-  
+    
 Тип [ImportedTransformation](T_TFlex_Model_Model3D_ImportedTransformation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

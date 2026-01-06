@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BoundaryCondition - свойства  
-  
----  
-  
+    
 Тип [SurfaceSplinewiseDataBoundaryCondition](T_TFlex_Model_Model3D_Geometry_SurfaceSplinewiseData_BoundaryCondition.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

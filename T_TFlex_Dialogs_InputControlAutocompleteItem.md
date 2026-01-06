@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InputControlAutocompleteItem - класс  
-  
----  
-  
+    
 Элемент автодополнения для InputControlBase
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsInputControlAutocompleteItem

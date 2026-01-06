@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DrawingViewBreaksAddBreak - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddBreak](M_TFlex_Model_Model2D_DrawingView_Breaks_AddBreak.md) | Добавить разрыв |

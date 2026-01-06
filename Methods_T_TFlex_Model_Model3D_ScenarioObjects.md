@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScenarioObjects - методы  
-  
----  
-  
+    
 Тип [ScenarioObjects](T_TFlex_Model_Model3D_ScenarioObjects.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

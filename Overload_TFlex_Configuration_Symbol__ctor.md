@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Symbol - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Symbol](M_TFlex_Configuration_Symbol__ctor.md) | Инициализирует новый экземпляр класса [Symbol](T_TFlex_Configuration_Symbol.md) |

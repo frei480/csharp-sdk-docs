@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TopolBodies - класс  
-  
----  
-  
+    
 Множество тел с топологии
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) [TFlex.Model.Model3D.GeometryBodies](T_TFlex_Model_Model3D_Geometry_Bodies.md) TFlex.Model.Model3D.GeometryTopolBodies [TFlex.Model.Model3D.GeometryTopolContour](T_TFlex_Model_Model3D_Geometry_TopolContour.md) [TFlex.Model.Model3D.GeometryTopolSolid](T_TFlex_Model_Model3D_Geometry_TopolSolid.md)

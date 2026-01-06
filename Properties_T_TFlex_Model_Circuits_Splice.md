@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Splice - свойства  
-  
----  
-  
+    
 Тип [Splice](T_TFlex_Model_Circuits_Splice.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

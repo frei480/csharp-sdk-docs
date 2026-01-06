@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementInfoValueAsEnumValue - свойство  
-  
----  
-**Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
 
 ```csharp
 public TypeValue AsEnumValue { get; }

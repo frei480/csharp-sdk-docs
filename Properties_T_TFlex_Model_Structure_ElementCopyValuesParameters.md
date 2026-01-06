@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementCopyValuesParameters - свойства  
-  
----  
-  
+    
 Тип [ElementCopyValuesParameters](T_TFlex_Model_Structure_ElementCopyValuesParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

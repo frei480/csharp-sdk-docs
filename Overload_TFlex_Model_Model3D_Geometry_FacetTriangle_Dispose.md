@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FacetTriangleDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Geometry_FacetTriangle_Dispose.md) | Освобождает все ресурсы, используемые объектом [FacetTriangle](T_TFlex_Model_Model3D_Geometry_FacetTriangle.md) |

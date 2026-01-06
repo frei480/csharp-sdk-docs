@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Area - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsArea](T_TFlex_Model_Units_StandardUnits_Area.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

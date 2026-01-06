@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlsWindowForm - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ControlsWindowForm](M_TFlex_Dialogs_ControlsWindowForm__ctor.md) | Инициализирует новый экземпляр класса [ControlsWindowForm](T_TFlex_Dialogs_ControlsWindowForm.md) |

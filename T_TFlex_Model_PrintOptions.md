@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PrintOptions - класс  
-  
----  
-  
+    
 Параметры печати
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelPrintOptions

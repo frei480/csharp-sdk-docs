@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ViewSearch - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Search(Point, SelectionFilter, Double)](M_TFlex_Model_View_Search_1.md) | Поиск элемента модели |

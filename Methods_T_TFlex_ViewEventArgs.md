@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ViewEventArgs - методы  
-  
----  
-  
+    
 Тип [ViewEventArgs](T_TFlex_ViewEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

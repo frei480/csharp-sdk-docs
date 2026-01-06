@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreadClass - структура  
-  
----  
-  
+    
 Класс точности резьбы
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemValueType](https://learn.microsoft.com/dotnet/api/system.valuetype) TFlex.Model.Model3DThreadClass

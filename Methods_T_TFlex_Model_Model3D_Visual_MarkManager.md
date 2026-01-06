@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MarkManager - методы  
-  
----  
-  
+    
 Тип [MarkManager](T_TFlex_Model_Model3D_Visual_MarkManager.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

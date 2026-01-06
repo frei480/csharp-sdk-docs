@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FreeNode - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FreeNode(Document)](M_TFlex_Model_Model2D_FreeNode__ctor.md) | Конструктор по умолчанию. Координаты установлены в значение 0,0 |

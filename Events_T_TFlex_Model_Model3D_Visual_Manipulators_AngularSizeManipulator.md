@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AngularSizeManipulator - события  
-  
----  
-  
+    
 Тип [AngularSizeManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_AngularSizeManipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

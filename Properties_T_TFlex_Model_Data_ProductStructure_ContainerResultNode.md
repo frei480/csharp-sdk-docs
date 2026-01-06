@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ContainerResultNode - свойства  
-  
----  
-  
+    
 Тип [ContainerResultNode](T_TFlex_Model_Data_ProductStructure_ContainerResultNode.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PickPointResult - свойства  
-  
----  
-  
+    
 Тип [PickPointResult](T_TFlex_PickPointResult.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

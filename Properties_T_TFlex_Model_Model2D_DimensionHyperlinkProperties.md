@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DimensionHyperlinkProperties - свойства  
-  
----  
-  
+    
 Тип [DimensionHyperlinkProperties](T_TFlex_Model_Model2D_DimensionHyperlinkProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

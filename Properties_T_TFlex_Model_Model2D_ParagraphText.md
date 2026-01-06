@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParagraphText - свойства  
-  
----  
-  
+    
 Тип [ParagraphText](T_TFlex_Model_Model2D_ParagraphText.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

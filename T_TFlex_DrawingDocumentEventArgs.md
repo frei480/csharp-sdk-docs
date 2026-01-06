@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DrawingDocumentEventArgs - класс  
-  
----  
-  
+    
 Класс, содержащий данные о событии, возникшем при прорисовке документа
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlexPluginEventArgs](T_TFlex_PluginEventArgs.md) [TFlexDocumentEventArgs](T_TFlex_DocumentEventArgs.md) [TFlexViewEventArgs](T_TFlex_ViewEventArgs.md) TFlexDrawingDocumentEventArgs

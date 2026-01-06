@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectedCircularDimension - методы  
-  
----  
-  
+    
 Тип [ProjectedCircularDimension](T_TFlex_Model_Model3D_ProjectedCircularDimension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

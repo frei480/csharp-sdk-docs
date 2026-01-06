@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PageZones - свойства  
-  
----  
-  
+    
 Тип [PageZones](T_TFlex_Configuration_PageZones.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

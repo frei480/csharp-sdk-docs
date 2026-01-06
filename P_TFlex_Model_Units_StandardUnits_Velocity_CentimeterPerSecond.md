@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVelocityCentimeterPerSecond - свойство  
-  
----  
-  
+    
 Сантиметр в секунду; см/с; sm/s; 
 
 Тип - Скорость

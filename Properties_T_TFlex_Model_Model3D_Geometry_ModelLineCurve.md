@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelLineCurve - свойства  
-  
----  
-  
+    
 Тип [ModelLineCurve](T_TFlex_Model_Model3D_Geometry_ModelLineCurve.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

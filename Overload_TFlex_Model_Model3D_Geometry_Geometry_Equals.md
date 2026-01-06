@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometryEquals - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Equals(Geometry)](M_TFlex_Model_Model3D_Geometry_Geometry_Equals.md) | Проверка эквивалетности ссылки |

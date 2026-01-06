@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Rebend - методы  
-  
----  
-  
+    
 Тип [Rebend](T_TFlex_Model_Model3D_Rebend.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

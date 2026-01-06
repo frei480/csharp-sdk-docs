@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometryData - свойства  
-  
----  
-  
+    
 Тип [Path3DGeometryData](T_TFlex_Model_Model3D_Path3D_GeometryData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

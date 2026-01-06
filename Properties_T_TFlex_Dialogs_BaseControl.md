@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseControl - свойства  
-  
----  
-  
+    
 Тип [BaseControl](T_TFlex_Dialogs_BaseControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReportGeneratorWrapper - свойства  
-  
----  
-  
+    
 Тип [ReportGeneratorWrapper](T_TFlex_Model_Data_ProductStructure_ReportGeneratorWrapper.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

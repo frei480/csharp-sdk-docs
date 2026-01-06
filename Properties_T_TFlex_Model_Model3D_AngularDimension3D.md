@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AngularDimension3D - свойства  
-  
----  
-  
+    
 Тип [AngularDimension3D](T_TFlex_Model_Model3D_AngularDimension3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

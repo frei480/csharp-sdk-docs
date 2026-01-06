@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensityGramPerCentimeter - свойство  
-  
----  
-  
+    
 Грамм на сантиметр; г/см; g/cm; 
 
 Тип - Линейная плотность

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GraphicsSetRGBColor - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetRGBColor(Int32)](M_TFlex_Drawing_Graphics_SetRGBColor.md) | Установка цвета, которым должен производиться вывод, в виде компонент красного, зелёного и синего |

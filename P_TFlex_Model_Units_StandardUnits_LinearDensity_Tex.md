@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensityTex - свойство  
-  
----  
-  
+    
 Текс; текс; tex; 
 
 Тип - Линейная плотность

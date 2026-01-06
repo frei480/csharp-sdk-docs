@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Script - свойства  
-  
----  
-  
+    
 Тип [Script](T_TFlex_QualityManagement_Script.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

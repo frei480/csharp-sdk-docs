@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsEnergyDensityMegajoulePerCubicMeter - свойство  
-  
----  
-  
+    
 Мегаджоуль на кубический метр; МДж/м³; MJ/m³; 
 
 Тип - Плотность энергии

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectCollectionHyperlinkPropertiesObjects - свойство  
-  
----  
-  
+    
 Коллекция целевых объектов в том же документе, что и гиперссылка (не должна быть null)
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

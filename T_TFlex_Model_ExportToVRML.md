@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToVRML - класс  
-  
----  
-  
+    
 Класс экспорта в файл форматa VRML
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelExportTo](T_TFlex_Model_ExportTo.md) [TFlex.ModelExportToFacet](T_TFlex_Model_ExportToFacet.md) TFlex.ModelExportToVRML

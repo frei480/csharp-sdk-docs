@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Automenu - свойства  
-  
----  
-  
+    
 Тип [Automenu](T_TFlex_Command_Automenu.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

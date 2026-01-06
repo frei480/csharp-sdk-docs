@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectionContainerSelect - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Select(ModelObject)](M_TFlex_Model_SelectionContainer_Select.md) | Выбрать объект |

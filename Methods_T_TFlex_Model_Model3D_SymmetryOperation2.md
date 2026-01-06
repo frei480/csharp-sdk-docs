@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SymmetryOperation2 - методы  
-  
----  
-  
+    
 Тип [SymmetryOperation2](T_TFlex_Model_Model3D_SymmetryOperation2.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

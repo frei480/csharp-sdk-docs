@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementTypeRunMethod - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RunMethod(Guid, Object)](M_TFlex_Model_Structure_ElementType_RunMethod.md) |  |

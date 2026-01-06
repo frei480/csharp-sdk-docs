@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlSelectionChangedEventArgs - класс  
-  
----  
-  
+    
 Событие смены селекции ListControl
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.DialogsBaseEventArgs](T_TFlex_Dialogs_BaseEventArgs.md) TFlex.DialogsListControlSelectionChangedEventArgs

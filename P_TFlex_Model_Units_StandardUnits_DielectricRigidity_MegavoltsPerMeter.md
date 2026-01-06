@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDielectricRigidityMegavoltsPerMeter - свойство  
-  
----  
-  
+    
 Мегавольт на метр; МВ/м; MV/m; 
 
 Тип - Прочность диэлектрическая

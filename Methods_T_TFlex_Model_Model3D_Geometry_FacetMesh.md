@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FacetMesh - методы  
-  
----  
-  
+    
 Тип [FacetMesh](T_TFlex_Model_Model3D_Geometry_FacetMesh.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

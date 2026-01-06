@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LabelEventArgs - класс  
-  
----  
-  
+    
 Параметры событий меток
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.Model.Model3D.VisualVisualEventArgs](T_TFlex_Model_Model3D_Visual_VisualEventArgs.md) TFlex.Model.Model3D.VisualLabelEventArgs

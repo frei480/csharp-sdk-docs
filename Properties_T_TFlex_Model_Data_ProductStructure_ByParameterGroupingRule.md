@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ByParameterGroupingRule - свойства  
-  
----  
-  
+    
 Тип [ByParameterGroupingRule](T_TFlex_Model_Data_ProductStructure_ByParameterGroupingRule.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

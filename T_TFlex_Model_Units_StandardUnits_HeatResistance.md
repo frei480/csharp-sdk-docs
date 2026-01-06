@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatResistance - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Тепловое сопротивление
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsHeatResistance

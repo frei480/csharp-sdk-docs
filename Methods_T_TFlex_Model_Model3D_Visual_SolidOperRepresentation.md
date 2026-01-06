@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SolidOperRepresentation - методы  
-  
----  
-  
+    
 Тип [SolidOperRepresentation](T_TFlex_Model_Model3D_Visual_SolidOperRepresentation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

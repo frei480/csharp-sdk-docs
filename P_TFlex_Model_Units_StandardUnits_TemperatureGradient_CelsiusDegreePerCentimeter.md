@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTemperatureGradientCelsiusDegreePerCentimeter - свойство  
-  
----  
-  
+    
 Градус Цельсия на сантиметр; °C/см; °C/cm; 
 
 Тип - Градиент температур

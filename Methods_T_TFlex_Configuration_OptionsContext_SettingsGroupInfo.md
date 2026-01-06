@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SettingsGroupInfo - методы  
-  
----  
-  
+    
 Тип [OptionsContextSettingsGroupInfo](T_TFlex_Configuration_OptionsContext_SettingsGroupInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

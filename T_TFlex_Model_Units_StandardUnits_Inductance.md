@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsInductance - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Индуктивность
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsInductance

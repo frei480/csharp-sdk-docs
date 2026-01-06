@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoopTrimmedData - свойства  
-  
----  
-  
+    
 Тип [LoopTrimmedData](T_TFlex_Model_Model3D_Geometry_LoopTrimmedData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

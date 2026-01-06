@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StatusBarStartProgress - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [StartProgress(UInt32)](M_TFlex_StatusBar_StartProgress.md) | Запустить индикатор состояния |

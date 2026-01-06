@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragVarParameterDataGenerator - свойства  
-  
----  
-  
+    
 Тип [FragVarParameterDataGenerator](T_TFlex_Model_Data_ProductStructure_FragVarParameterDataGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

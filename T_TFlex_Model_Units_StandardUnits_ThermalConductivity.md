@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsThermalConductivity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Теплопроводность
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsThermalConductivity

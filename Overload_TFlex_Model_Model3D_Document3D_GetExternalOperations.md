@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Document3DGetExternalOperations - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetExternalOperations(Document)](M_TFlex_Model_Model3D_Document3D_GetExternalOperations.md) | Получить контейнер внешних операций документа |

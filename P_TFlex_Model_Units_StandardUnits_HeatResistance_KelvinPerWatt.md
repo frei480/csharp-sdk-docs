@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatResistanceKelvinPerWatt - свойство  
-  
----  
-  
+    
 Градус Кельвина на Ватт; К/Вт; K/W; 
 
 Тип - Тепловое сопротивление

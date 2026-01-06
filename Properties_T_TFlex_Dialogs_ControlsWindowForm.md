@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlsWindowForm - свойства  
-  
----  
-  
+    
 Тип [ControlsWindowForm](T_TFlex_Dialogs_ControlsWindowForm.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

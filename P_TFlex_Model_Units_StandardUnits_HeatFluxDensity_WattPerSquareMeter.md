@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsHeatFluxDensityWattPerSquareMeter - свойство  
-  
----  
-  
+    
 Ватт на квадратный метр; Вт/м²; W/m²; 
 
 Тип - Плотность теплового потока

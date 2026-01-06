@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ActiveChangedEventArgs - класс  
-  
----  
-  
+    
 Данные о событии изменения значения IsActive у элемента
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.DialogsBaseEventArgs](T_TFlex_Dialogs_BaseEventArgs.md) [TFlex.DialogsBoolEventArgs](T_TFlex_Dialogs_BoolEventArgs.md) TFlex.DialogsActiveChangedEventArgs

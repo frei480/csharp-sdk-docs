@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLengthKilometer - свойство  
-  
----  
-  
+    
 Километр; км; km; 
 
 Тип - Длина

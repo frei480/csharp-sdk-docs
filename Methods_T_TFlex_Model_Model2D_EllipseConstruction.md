@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EllipseConstruction - методы  
-  
----  
-  
+    
 Тип [EllipseConstruction](T_TFlex_Model_Model2D_EllipseConstruction.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

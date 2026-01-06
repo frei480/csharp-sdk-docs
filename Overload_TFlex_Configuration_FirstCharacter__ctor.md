@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FirstCharacter - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FirstCharacter](M_TFlex_Configuration_FirstCharacter__ctor.md) | Инициализирует новый экземпляр класса [FirstCharacter](T_TFlex_Configuration_FirstCharacter.md) |

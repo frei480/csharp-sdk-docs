@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Connector - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Connector(Document)](M_TFlex_Model_Model2D_Connector__ctor.md) | Конструктор по умолчанию |

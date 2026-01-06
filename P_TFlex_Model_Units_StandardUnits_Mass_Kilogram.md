@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMassKilogram - свойство  
-  
----  
-  
+    
 Килограмм; кг; kg; 
 
 Тип - Масса

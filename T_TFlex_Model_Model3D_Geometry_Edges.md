@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Edges - класс  
-  
----  
-  
+    
 Множество геометрических рёбер
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryBaseEdges](T_TFlex_Model_Model3D_Geometry_BaseEdges.md) TFlex.Model.Model3D.GeometryEdges

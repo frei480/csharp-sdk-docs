@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Container - методы  
-  
----  
-  
+    
 Тип [Container](T_TFlex_Container.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureInchOfWater - свойство  
-  
----  
-  
+    
 Дюйм водяного столба; дюйм в. ст.; inches H₂O; 
 
 Тип - Давление

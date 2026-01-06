@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngleRadian - свойство  
-  
----  
-  
+    
 Радиан; рад; rad; 
 
 Тип - Угол

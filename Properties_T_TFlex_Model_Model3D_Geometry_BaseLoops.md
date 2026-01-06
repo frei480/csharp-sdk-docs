@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseLoops - свойства  
-  
----  
-  
+    
 Тип [BaseLoops](T_TFlex_Model_Model3D_Geometry_BaseLoops.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

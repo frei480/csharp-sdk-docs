@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentEndChanges - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [EndChanges](M_TFlex_Model_Document_EndChanges.md) | Применить изменения и закрыть блок изменения документа |

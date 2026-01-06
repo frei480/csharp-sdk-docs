@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlBeginUserInsert - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [BeginUserInsert](M_TFlex_Dialogs_ObjectSelectControl_BeginUserInsert.md) | Начать операцию пользовательского добавления нового объекта |

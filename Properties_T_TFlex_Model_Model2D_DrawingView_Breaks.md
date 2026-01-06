@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Breaks - свойства  
-  
----  
-  
+    
 Тип [DrawingViewBreaks](T_TFlex_Model_Model2D_DrawingView_Breaks.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

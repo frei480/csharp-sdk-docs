@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PolylineContourSegment - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [PolylineContourSegment(Contour)](M_TFlex_Model_Model2D_PolylineContourSegment__ctor.md) | Конструктор, добавляющий сегмент в конец контура |

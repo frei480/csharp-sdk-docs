@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Curve - свойства  
-  
----  
-  
+    
 Тип [Curve](T_TFlex_Model_Model3D_Geometry_Curve.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

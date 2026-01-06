@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SymmetryOperation2 - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SymmetryOperation2(Document)](M_TFlex_Model_Model3D_SymmetryOperation2__ctor.md) | Конструктор для Симметрии операций |

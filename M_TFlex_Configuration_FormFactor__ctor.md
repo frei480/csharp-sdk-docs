@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FormFactor - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [FormFactor](T_TFlex_Configuration_FormFactor.md)
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

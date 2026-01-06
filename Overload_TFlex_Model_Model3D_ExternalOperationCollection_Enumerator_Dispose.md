@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExternalOperationCollectionEnumeratorDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_ExternalOperationCollection_Enumerator_Dispose.md) | Освобождает все ресурсы, используемые объектом [ExternalOperationCollectionEnumerator](T_TFlex_Model_Model3D_ExternalOperationCollection_Enumerator.md) |

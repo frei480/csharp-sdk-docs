@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Model.Model3D.ConductorModel - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [BasePoint](T_TFlex_Model_Model3D_ConductorModel_BasePoint.md) |  |

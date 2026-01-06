@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextInsertFragment - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [InsertFragment](M_TFlex_Model_Model2D_RichText_InsertFragment.md) | Вставка фрагмента с указанием ссылки |

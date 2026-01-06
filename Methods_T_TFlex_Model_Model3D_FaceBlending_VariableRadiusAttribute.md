@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableRadiusAttribute - методы  
-  
----  
-  
+    
 Тип [FaceBlendingVariableRadiusAttribute](T_TFlex_Model_Model3D_FaceBlending_VariableRadiusAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

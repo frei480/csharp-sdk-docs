@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureNewtonPerSquareCentimeter - свойство  
-  
----  
-  
+    
 Ньютон на квадратный сантиметр; Н/см²; N/cm²; 
 
 Тип - Давление

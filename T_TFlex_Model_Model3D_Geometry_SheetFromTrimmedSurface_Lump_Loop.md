@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SheetFromTrimmedSurfaceLumpLoop - класс  
-  
----  
-  
+    
 Одна из границ связанной области
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySheetFromTrimmedSurfaceLumpLoop

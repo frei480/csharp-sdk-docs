@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WrapPanelControlItemWidth - свойство  
-  
----  
-  
+    
 Получает или задает значение, указывающее ширину всех элементов, содержащихся внутри WrapPanel.
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

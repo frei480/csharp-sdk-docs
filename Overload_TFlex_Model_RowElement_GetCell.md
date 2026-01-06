@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowElementGetCell - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetCell(Guid)](M_TFlex_Model_RowElement_GetCell.md) | Получить ячейку элемента для колонки структуры изделия |

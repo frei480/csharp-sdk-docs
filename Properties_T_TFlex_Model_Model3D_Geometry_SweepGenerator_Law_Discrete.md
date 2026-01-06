@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Discrete - свойства  
-  
----  
-  
+    
 Тип [SweepGeneratorLawDiscrete](T_TFlex_Model_Model3D_Geometry_SweepGenerator_Law_Discrete.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

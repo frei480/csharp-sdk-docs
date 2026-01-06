@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Term - класс  
-  
----  
-  
+    
 Условие фильтра
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Data.FiltersTermGroupItem](T_TFlex_Model_Data_Filters_TermGroupItem.md) TFlex.Model.Data.FiltersTerm [TFlex.Model.Data.ProductStructureObjectTerm](T_TFlex_Model_Data_ProductStructure_ObjectTerm.md) [TFlex.Model.Data.ProductStructureRowFilterTerm](T_TFlex_Model_Data_ProductStructure_RowFilterTerm.md)

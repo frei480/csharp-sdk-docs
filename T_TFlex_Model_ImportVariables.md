@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportVariables - класс  
-  
----  
-  
+    
 Класс, импортирующий переменные документа
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelImportVariables

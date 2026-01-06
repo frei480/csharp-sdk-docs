@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementInfo - методы  
-  
----  
-  
+    
 Тип [ProductStructureUpdatingEventArgsElementInfo](T_TFlex_ProductStructureUpdatingEventArgs_ElementInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

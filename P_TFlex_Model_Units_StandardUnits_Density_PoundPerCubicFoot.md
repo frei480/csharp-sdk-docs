@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDensityPoundPerCubicFoot - свойство  
-  
----  
-  
+    
 Фунт на кубический фут; фунт/фут³; lb/ft³; 
 
 Тип - Плотность

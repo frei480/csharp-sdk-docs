@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Screen - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Screen](M_TFlex_Configuration_Screen__ctor.md) | Инициализирует новый экземпляр класса [Screen](T_TFlex_Configuration_Screen.md) |

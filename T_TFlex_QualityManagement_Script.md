@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Script - класс  
-  
----  
-  
+    
 Сценарий контроля качества
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.QualityManagementScript

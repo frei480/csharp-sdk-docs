@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LCSPoint - свойства  
-  
----  
-  
+    
 Тип [LCSPoint](T_TFlex_Model_Model3D_LCSPoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

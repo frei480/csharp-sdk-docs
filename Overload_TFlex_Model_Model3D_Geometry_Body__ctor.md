@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Body - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Body(BaseBody)](M_TFlex_Model_Model3D_Geometry_Body__ctor_1.md) | Конструктор для создания тела как копии другого тела |

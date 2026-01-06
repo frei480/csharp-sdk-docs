@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearDimensionBase - класс  
-  
----  
-  
+    
 Базовый класс линейных размеров
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.Model2DDimension](T_TFlex_Model_Model2D_Dimension.md) TFlex.Model.Model2DLinearDimensionBase [TFlex.Model.Model2DLinearDimension](T_TFlex_Model_Model2D_LinearDimension.md) [TFlex.Model.Model3DLinearDimension3D](T_TFlex_Model_Model3D_LinearDimension3D.md) [TFlex.Model.Model3DProjectedLinearDimension](T_TFlex_Model_Model3D_ProjectedLinearDimension.md)

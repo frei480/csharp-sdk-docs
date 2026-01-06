@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ShellWireSetManipulator - события  
-  
----  
-  
+    
 Тип [ShellWireSetManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_ShellWireSetManipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

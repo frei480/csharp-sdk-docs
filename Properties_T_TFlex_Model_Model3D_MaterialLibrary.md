@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialLibrary - свойства  
-  
----  
-  
+    
 Тип [MaterialLibrary](T_TFlex_Model_Model3D_MaterialLibrary.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

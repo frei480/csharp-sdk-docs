@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentActiveView - свойство  
-  
----  
-  
+    
 Объект класса View, представляющий активный (текущий) вид документа
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AlterColorButtonPressedEventArgs - класс  
-  
----  
-  
+    
 Класс, содержащий данные о событии, возникающем в момент нажатия кнопки выбора альтернативного цвета
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlexPluginEventArgs](T_TFlex_PluginEventArgs.md) TFlexAlterColorButtonPressedEventArgs

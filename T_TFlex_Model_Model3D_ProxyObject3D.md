@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyObject3D - класс  
-  
----  
-  
+    
 Базовый класс для 3D объектов внешнего приложения, встраиваемых в модель
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelProxyObject](T_TFlex_Model_ProxyObject.md) TFlex.Model.Model3DProxyObject3D [TFlex.Model.Model3DProxyOperation](T_TFlex_Model_Model3D_ProxyOperation.md)

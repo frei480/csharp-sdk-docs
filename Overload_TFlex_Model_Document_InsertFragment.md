@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentInsertFragment - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [InsertFragment(FileLink)](M_TFlex_Model_Document_InsertFragment_1.md) | Вставить фрагмент |

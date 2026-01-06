@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFXmlHelper - методы  
-  
----  
-  
+    
 Тип [TFXmlHelper](T_TFlex_Model_Data_TFXmlHelper.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

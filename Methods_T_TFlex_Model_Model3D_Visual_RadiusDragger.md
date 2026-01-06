@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RadiusDragger - методы  
-  
----  
-  
+    
 Тип [RadiusDragger](T_TFlex_Model_Model3D_Visual_RadiusDragger.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

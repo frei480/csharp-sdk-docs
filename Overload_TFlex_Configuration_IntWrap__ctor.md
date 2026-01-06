@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntWrap - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [IntWrap](M_TFlex_Configuration_IntWrap__ctor.md) | Инициализирует новый экземпляр класса [IntWrap](T_TFlex_Configuration_IntWrap.md) |

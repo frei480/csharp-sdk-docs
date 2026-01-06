@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCapacitanceFarad - свойство  
-  
----  
-  
+    
 Фарад; Ф; F; 
 
 Тип - Электроёмкость

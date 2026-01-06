@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Fragment - свойства  
-  
----  
-  
+    
 Тип [Fragment](T_TFlex_Model_Model2D_Fragment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

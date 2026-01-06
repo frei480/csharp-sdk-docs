@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ClashBodyResultItem - методы  
-  
----  
-  
+    
 Тип [ClashBodyResultItem](T_TFlex_Model_Model3D_Geometry_ClashBodyResultItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

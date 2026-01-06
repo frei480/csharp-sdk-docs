@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FolderBrowserDialogShowDialog - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ShowDialog](M_TFlex_Model_Model2D_FolderBrowserDialog_ShowDialog.md) | **Устарело.** |

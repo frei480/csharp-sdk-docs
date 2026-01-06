@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Formlimits - методы  
-  
----  
-  
+    
 Тип [Formlimits](T_TFlex_Model_Model2D_Formlimits.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

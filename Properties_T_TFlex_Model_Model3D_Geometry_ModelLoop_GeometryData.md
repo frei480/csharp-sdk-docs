@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometryData - свойства  
-  
----  
-  
+    
 Тип [ModelLoopGeometryData](T_TFlex_Model_Model3D_Geometry_ModelLoop_GeometryData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

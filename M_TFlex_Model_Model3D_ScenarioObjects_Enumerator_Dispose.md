@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ScenarioObjectsEnumeratorDispose - метод  
-  
----  
-  
+    
 Освобождает все ресурсы, используемые объектом [ScenarioObjectsEnumerator](T_TFlex_Model_Model3D_ScenarioObjects_Enumerator.md)
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

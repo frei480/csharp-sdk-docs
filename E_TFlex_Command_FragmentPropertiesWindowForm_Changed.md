@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentPropertiesWindowFormChanged - событие  
-  
----  
-**Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
 
 ```csharp
 public event EventHandler<FragmentPropertiesWindowFormChangedEventArgs> Changed

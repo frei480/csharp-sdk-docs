@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometrySelectionFilterEnable - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Enable(ObjectType)](M_TFlex_Model_SelectionFilter_Enable.md) | Разрешить выбор объектов указанного типа |

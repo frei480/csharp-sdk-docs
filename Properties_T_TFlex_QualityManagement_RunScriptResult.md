@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunScriptResult - свойства  
-  
----  
-  
+    
 Тип [RunScriptResult](T_TFlex_QualityManagement_RunScriptResult.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

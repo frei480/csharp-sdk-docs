@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GroupButton - класс  
-  
----  
-  
+    
 Кнопка с вложенным списком команд
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.CommandButton](T_TFlex_Command_Button.md) TFlex.CommandGroupButton

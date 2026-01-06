@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BasePipe - свойства  
-  
----  
-  
+    
 Тип [BasePipe](T_TFlex_Model_Model3D_BasePipe.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

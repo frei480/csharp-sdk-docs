@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixingVectorTextExtension - методы  
-  
----  
-  
+    
 Тип [FixingVectorTextExtension](T_TFlex_Model_Model2D_FixingVectorTextExtension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

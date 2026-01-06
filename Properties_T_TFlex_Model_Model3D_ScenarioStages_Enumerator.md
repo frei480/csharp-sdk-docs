@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Enumerator - свойства  
-  
----  
-  
+    
 Тип [ScenarioStagesEnumerator](T_TFlex_Model_Model3D_ScenarioStages_Enumerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

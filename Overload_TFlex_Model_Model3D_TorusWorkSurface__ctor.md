@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TorusWorkSurface - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [TorusWorkSurface(Document)](M_TFlex_Model_Model3D_TorusWorkSurface__ctor.md) | Конструктор для создания тороидальной поверхности |

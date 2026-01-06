@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPowerGigawatt - свойство  
-  
----  
-  
+    
 Гигаватт; ГВт; GW; 
 
 Тип - Мощность

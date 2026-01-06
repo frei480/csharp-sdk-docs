@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GridControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GridControl](M_TFlex_Dialogs_GridControl__ctor.md) | Инициализирует новый экземпляр класса [GridControl](T_TFlex_Dialogs_GridControl.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Parameter - класс  
-  
----  
-  
+    
 Класс для хранения чиcловых переменных или констант
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelParameter

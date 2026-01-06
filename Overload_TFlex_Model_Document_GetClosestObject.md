@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentGetClosestObject - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetClosestObject(Point, Page, SelectionFilter)](M_TFlex_Model_Document_GetClosestObject.md) | Получить объект, ближайший к заданной точке на заданной странице с учётом фильтра |

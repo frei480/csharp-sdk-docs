@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BasePoint - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.ConductorModelBasePoint [TFlex.Model.Model3D.ConductorModelPoint](T_TFlex_Model_Model3D_ConductorModel_Point.md) [TFlex.Model.Model3D.ConductorModelSleevePoint](T_TFlex_Model_Model3D_ConductorModel_SleevePoint.md) [TFlex.Model.Model3D.ConductorModelTerminalPoint](T_TFlex_Model_Model3D_ConductorModel_TerminalPoint.md)
 
 **Пространство имён:** [TFlex.Model.Model3D.ConductorModel](N_TFlex_Model_Model3D_ConductorModel.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

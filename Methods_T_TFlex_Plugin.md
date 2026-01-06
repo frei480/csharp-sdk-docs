@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Plugin - методы  
-  
----  
-  
+    
 Тип [Plugin](T_TFlex_Plugin.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

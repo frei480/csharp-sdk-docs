@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointCompareTo - метод  
-  
----  
-**Пространство имён:** [TFlex.Model.Circuits.Graph](N_TFlex_Model_Circuits_Graph.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.Model.Circuits.Graph](N_TFlex_Model_Circuits_Graph.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
 
 ```csharp
 public virtual int CompareTo(

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParamProviderMap - методы  
-  
----  
-  
+    
 Тип [ParamProviderMap](T_TFlex_Model_Data_ProductStructure_ParamProviderMap.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

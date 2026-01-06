@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomCommand - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.CommandFilterOwner](T_TFlex_Command_FilterOwner.md) TFlex.CommandCustomCommand
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsForceMeganewton - свойство  
-  
----  
-  
+    
 Меганьютон; МН; MN; 
 
 Тип - Сила

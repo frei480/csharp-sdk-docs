@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelAttributesSetTextAttribute - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetTextAttribute(String, String)](M_TFlex_Model_ModelAttributes_SetTextAttribute.md) | Установить значение текстового атрибута |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Table - структура  
-  
----  
-  
+    
 Класс для работы с таблицей
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemValueType](https://learn.microsoft.com/dotnet/api/system.valuetype) TFlex.Model.Model2DTable

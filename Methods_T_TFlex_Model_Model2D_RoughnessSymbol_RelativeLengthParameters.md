@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RelativeLengthParameters - методы  
-  
----  
-  
+    
 Тип [RoughnessSymbolRelativeLengthParameters](T_TFlex_Model_Model2D_RoughnessSymbol_RelativeLengthParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

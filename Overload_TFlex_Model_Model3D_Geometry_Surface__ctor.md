@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Surface - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Surface](M_TFlex_Model_Model3D_Geometry_Surface__ctor.md) | Конструктор |

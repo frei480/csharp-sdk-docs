@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomCategoryOrderAttribute - методы  
-  
----  
-  
+    
 Тип [CustomCategoryOrderAttribute](T_TFlex_Configuration_Attributes_CustomCategoryOrderAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

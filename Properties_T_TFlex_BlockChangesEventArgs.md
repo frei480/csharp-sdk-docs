@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BlockChangesEventArgs - свойства  
-  
----  
-  
+    
 Тип [BlockChangesEventArgs](T_TFlex_BlockChangesEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

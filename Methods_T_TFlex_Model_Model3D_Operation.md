@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Operation - методы  
-  
----  
-  
+    
 Тип [Operation](T_TFlex_Model_Model3D_Operation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

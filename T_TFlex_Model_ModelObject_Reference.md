@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectReference - класс  
-  
----  
-  
+    
 Класс для передачи ссылки на другой объект модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelModelObjectReference [TFlex.Model.Model3DObject3DGeomReference](T_TFlex_Model_Model3D_Object3D_GeomReference.md)

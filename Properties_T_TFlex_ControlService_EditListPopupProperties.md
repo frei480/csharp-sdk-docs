@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EditListPopupProperties - свойства  
-  
----  
-  
+    
 Тип [EditListPopupProperties](T_TFlex_ControlService_EditListPopupProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

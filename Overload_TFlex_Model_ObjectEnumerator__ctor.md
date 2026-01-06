@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectEnumerator - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ObjectEnumerator(Document)](M_TFlex_Model_ObjectEnumerator__ctor.md) | Конструктор по умолчанию |

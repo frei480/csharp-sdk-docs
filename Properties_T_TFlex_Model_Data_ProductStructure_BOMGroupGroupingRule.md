@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BOMGroupGroupingRule - свойства  
-  
----  
-  
+    
 Тип [BOMGroupGroupingRule](T_TFlex_Model_Data_ProductStructure_BOMGroupGroupingRule.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginOnCommand - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [OnCommand(CommandEventArgs)](M_TFlex_Plugin_OnCommand.md) | Приложение переопределяет эту функцию для получения команд, которые этим приложением зарегистрированы |

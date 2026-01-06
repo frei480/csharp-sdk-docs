@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAreaSquareDecimeter - свойство  
-  
----  
-  
+    
 Квадратный дециметр; дм²; dm²; 
 
 Тип - Площадь

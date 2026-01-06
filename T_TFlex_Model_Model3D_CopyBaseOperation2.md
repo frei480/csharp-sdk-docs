@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyBaseOperation2 - класс  
-  
----  
-  
+    
 Базовый класс для операций Копирования и Симметрии
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DOperation](T_TFlex_Model_Model3D_Operation.md) TFlex.Model.Model3DCopyBaseOperation2 [TFlex.Model.Model3DCopyOperation2](T_TFlex_Model_Model3D_CopyOperation2.md) [TFlex.Model.Model3DSymmetryOperation2](T_TFlex_Model_Model3D_SymmetryOperation2.md)

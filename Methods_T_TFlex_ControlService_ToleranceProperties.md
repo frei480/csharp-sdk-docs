@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ToleranceProperties - методы  
-  
----  
-  
+    
 Тип [ToleranceProperties](T_TFlex_ControlService_ToleranceProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

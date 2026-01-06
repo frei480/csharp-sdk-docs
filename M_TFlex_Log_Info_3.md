@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogInfo(String, Object) - метод  
-  
----  
-**Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0
 
 ```csharp
 public static void Info(

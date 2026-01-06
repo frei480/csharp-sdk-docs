@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SortRuleItem - свойства  
-  
----  
-  
+    
 Тип [SortRuleItem](T_TFlex_Model_Data_ProductStructure_SortRuleItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

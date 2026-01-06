@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StringMap - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [System.Collections.GenericDictionary](https://learn.microsoft.com/dotnet/api/system.collections.generic.dictionary-2)[String](https://learn.microsoft.com/dotnet/api/system.string), [String](https://learn.microsoft.com/dotnet/api/system.string) TFlex.ConfigurationStringMap
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UDFFolderParameter - класс  
-  
----  
-  
+    
 Папка содержит параметры и подпапки
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DUDFParameter](T_TFlex_Model_Model3D_UDF_Parameter.md) TFlex.Model.Model3DUDFFolderParameter

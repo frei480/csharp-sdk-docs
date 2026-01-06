@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TabControlSelectedTabChangedEventArgs - свойства  
-  
----  
-  
+    
 Тип [TabControlSelectedTabChangedEventArgs](T_TFlex_Dialogs_TabControlSelectedTabChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

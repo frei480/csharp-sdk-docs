@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LightParameters - методы  
-  
----  
-  
+    
 Тип [View3DLightParameters](T_TFlex_Model_Model3D_View3D_LightParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAdditionalStiffnessOnEdgeKilogramForcePerCentimeterPerCentimeter - свойство  
-  
----  
-  
+    
 Килограмм-сила на сантиметр на сантиметр; (кГ/см)/см; (kgf/cm)/cm; 
 
 Тип - Дополнительная жёсткость на ребро

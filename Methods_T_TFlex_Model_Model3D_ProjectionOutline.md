@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectionOutline - методы  
-  
----  
-  
+    
 Тип [ProjectionOutline](T_TFlex_Model_Model3D_ProjectionOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

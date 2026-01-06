@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAccelerationFootPerSquareSecond - свойство  
-  
----  
-  
+    
 Фут в секунду в квадрате; фут/c²; ft/s²; 
 
 Тип - Ускорение

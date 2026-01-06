@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WiresArray - методы  
-  
----  
-  
+    
 Тип [WiresArray](T_TFlex_Model_Model3D_Geometry_WiresArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

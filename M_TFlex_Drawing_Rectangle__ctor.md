@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Rectangle(Double, Double, Double, Double) - конструктор  
-  
----  
-  
+    
 Конструктор с параметрами - координатами границ прямоугольника
 
 **Пространство имён:** [TFlex.Drawing](N_TFlex_Drawing.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

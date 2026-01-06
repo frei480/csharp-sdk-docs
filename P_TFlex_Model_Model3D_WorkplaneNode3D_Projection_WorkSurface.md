@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WorkplaneNode3DProjectionWorkSurface - свойство  
-  
----  
-  
+    
 Рабочая плоскость, задающая направление проецирования или поверхность, на которой лежит точка
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

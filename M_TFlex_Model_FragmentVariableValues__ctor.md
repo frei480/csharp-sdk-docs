@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentVariableValues - конструктор  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Инициализирует новый экземпляр класса [FragmentVariableValues](T_TFlex_Model_FragmentVariableValues.md)

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlSelect - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Select](https://learn.microsoft.com/dotnet/api/system.windows.forms.control.select#system-windows-forms-control-select) | Activates the control. |

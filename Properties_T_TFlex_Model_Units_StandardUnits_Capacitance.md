@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Capacitance - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsCapacitance](T_TFlex_Model_Units_StandardUnits_Capacitance.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

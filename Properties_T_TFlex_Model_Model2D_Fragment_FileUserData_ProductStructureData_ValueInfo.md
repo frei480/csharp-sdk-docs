@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ValueInfo - свойства  
-  
----  
-  
+    
 Тип [FragmentFileUserDataProductStructureDataValueInfo](T_TFlex_Model_Model2D_Fragment_FileUserData_ProductStructureData_ValueInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

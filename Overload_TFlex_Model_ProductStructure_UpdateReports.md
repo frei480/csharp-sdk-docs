@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureUpdateReports - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [UpdateReports](M_TFlex_Model_ProductStructure_UpdateReports.md) | Обновить все отчёты структуры изделия |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectionFilterDispose(Boolean) - метод  
-  
----  
-  
+    
 Освобождает неуправляемые ресурсы, используемые объектом [SelectionFilter](T_TFlex_Model_SelectionFilter.md), а при необходимости освобождает также управляемые ресурсы
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginCreateToolbar - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateToolbar(String, Int32)](M_TFlex_Plugin_CreateToolbar.md) | Создать панель инструментов |

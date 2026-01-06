@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Picture3DFixByPictureLCS - метод  
-  
----  
-  
+    
 Привязать 3D изображение по системе координат созданной в документе фрагмента в систему координат сборки 
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

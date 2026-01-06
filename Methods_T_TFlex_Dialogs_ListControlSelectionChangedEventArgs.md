@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlSelectionChangedEventArgs - методы  
-  
----  
-  
+    
 Тип [ListControlSelectionChangedEventArgs](T_TFlex_Dialogs_ListControlSelectionChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

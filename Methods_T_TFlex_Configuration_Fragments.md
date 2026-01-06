@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Fragments - методы  
-  
----  
-  
+    
 Тип [Fragments](T_TFlex_Configuration_Fragments.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

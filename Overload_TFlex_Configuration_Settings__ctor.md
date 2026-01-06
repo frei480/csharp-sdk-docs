@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Settings - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Settings](M_TFlex_Configuration_Settings__ctor.md) | Инициализирует новый экземпляр класса [Settings](T_TFlex_Configuration_Settings.md) |

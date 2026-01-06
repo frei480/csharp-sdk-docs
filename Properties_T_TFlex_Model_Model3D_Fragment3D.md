@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Fragment3D - свойства  
-  
----  
-  
+    
 Тип [Fragment3D](T_TFlex_Model_Model3D_Fragment3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

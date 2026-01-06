@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ClashTopolResultItem - свойства  
-  
----  
-  
+    
 Тип [ClashTopolResultItem](T_TFlex_Model_Model3D_Geometry_ClashTopolResultItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

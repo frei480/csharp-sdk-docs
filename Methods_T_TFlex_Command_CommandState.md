@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommandState - методы  
-  
----  
-  
+    
 Тип [CommandState](T_TFlex_Command_CommandState.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

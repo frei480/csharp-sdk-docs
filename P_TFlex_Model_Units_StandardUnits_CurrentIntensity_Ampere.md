@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCurrentIntensityAmpere - свойство  
-  
----  
-  
+    
 Ампер; А; A; 
 
 Тип - Сила тока

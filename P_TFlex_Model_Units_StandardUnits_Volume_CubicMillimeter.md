@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVolumeCubicMillimeter - свойство  
-  
----  
-  
+    
 Кубический миллиметр; мм³; mm³; 
 
 Тип - Объём

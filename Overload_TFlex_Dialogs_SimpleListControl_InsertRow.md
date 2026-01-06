@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControlInsertRow - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [InsertRow(Int32)](M_TFlex_Dialogs_SimpleListControl_InsertRow.md) | Вставить строку в список |

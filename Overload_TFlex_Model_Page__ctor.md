@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Page - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Page(Document)](M_TFlex_Model_Page__ctor.md) | Конструктор |

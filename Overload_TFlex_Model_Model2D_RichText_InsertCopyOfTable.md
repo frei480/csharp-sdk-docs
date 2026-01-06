@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextInsertCopyOfTable - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [InsertCopyOfTable(Table)](M_TFlex_Model_Model2D_RichText_InsertCopyOfTable_1.md) | Вставка копии таблицы перед символом, на котором находится курсор |

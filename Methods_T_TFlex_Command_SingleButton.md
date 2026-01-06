@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SingleButton - методы  
-  
----  
-  
+    
 Тип [SingleButton](T_TFlex_Command_SingleButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

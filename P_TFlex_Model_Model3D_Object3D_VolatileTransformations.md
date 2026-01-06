@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3DVolatileTransformations - свойство  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Преобразование 3D объекта для изменения

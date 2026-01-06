@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MessagesBarClickEventArgs - класс  
-  
----  
-  
+    
 Аргументы события клика в кнопку в область сообщений
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexMessagesBarClickEventArgs

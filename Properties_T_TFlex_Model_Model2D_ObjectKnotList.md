@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectKnotList - свойства  
-  
----  
-  
+    
 Тип [ObjectKnotList](T_TFlex_Model_Model2D_ObjectKnotList.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

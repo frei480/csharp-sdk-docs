@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # KeyEventArgs - свойства  
-  
----  
-  
+    
 Тип [KeyEventArgs](T_TFlex_Command_KeyEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

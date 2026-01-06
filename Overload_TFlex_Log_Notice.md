@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogNotice - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Notice(String)](M_TFlex_Log_Notice.md) |  |

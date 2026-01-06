@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Curve - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Curve](M_TFlex_Model_Model3D_Geometry_Curve__ctor.md) | Конструктор |

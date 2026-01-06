@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModalDialog - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ModalDialog](M_TFlex_Dialogs_ModalDialog__ctor.md) | Инициализирует новый экземпляр класса [ModalDialog](T_TFlex_Dialogs_ModalDialog.md) |

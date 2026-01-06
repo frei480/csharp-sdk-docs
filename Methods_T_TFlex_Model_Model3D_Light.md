@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Light - методы  
-  
----  
-  
+    
 Тип [Light](T_TFlex_Model_Model3D_Light.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

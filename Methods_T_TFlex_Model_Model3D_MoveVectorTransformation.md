@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MoveVectorTransformation - методы  
-  
----  
-  
+    
 Тип [MoveVectorTransformation](T_TFlex_Model_Model3D_MoveVectorTransformation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

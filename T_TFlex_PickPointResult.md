@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PickPointResult - класс  
-  
----  
-  
+    
 Выходные параметры метода PickPoint
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexPickPointResult

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPowerMicrowatt - свойство  
-  
----  
-  
+    
 Микроватт; мкВт; mkW; 
 
 Тип - Мощность

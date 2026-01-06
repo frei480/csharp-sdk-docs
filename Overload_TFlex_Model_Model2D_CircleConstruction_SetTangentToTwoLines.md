@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircleConstructionSetTangentToTwoLines - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetTangentToTwoLines(Construction, Construction, Parameter, Int32)](M_TFlex_Model_Model2D_CircleConstruction_SetTangentToTwoLines.md) | Окружность, касательная к двум прямым |

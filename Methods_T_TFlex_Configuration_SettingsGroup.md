@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SettingsGroup - методы  
-  
----  
-  
+    
 Тип [SettingsGroup](T_TFlex_Configuration_SettingsGroup.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

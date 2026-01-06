@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApproximatedSplinePath3D - методы  
-  
----  
-  
+    
 Тип [ApproximatedSplinePath3D](T_TFlex_Model_Model3D_ApproximatedSplinePath3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

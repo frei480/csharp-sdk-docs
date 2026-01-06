@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PageHyperlinkProperties - свойства  
-  
----  
-  
+    
 Тип [PageHyperlinkProperties](T_TFlex_Model_Model2D_PageHyperlinkProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

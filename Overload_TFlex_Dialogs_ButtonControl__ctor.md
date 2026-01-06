@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ButtonControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ButtonControl](M_TFlex_Dialogs_ButtonControl__ctor.md) | Инициализирует новый экземпляр класса [ButtonControl](T_TFlex_Dialogs_ButtonControl.md) |

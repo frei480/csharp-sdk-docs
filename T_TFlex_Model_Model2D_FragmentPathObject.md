@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentPathObject - класс  
-  
----  
-  
+    
 Класс содержащий информацию о привязке объекта к фрагменту
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model2DFragmentPathObject

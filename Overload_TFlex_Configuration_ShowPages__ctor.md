@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ShowPages - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ShowPages](M_TFlex_Configuration_ShowPages__ctor.md) | Инициализирует новый экземпляр класса [ShowPages](T_TFlex_Configuration_ShowPages.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableTextBox - методы  
-  
----  
-  
+    
 Тип [VariableTextBox](T_TFlex_VariableTextBox.md) предоставляет следующие члены.
 
 |     | Имя                                                                                                                                                                                                                                                                                     | Описание                                                                                                                                                                                                                                                                                                                                                                                                |

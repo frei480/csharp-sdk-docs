@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlFilterFromDoc - класс  
-  
----  
-  
+    
 Реализация фильтра поиска ObjectSelectControlFilter для выполнения поиска среди объектов из документа.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) [TFlex.DialogsObjectSelectControlFilter](T_TFlex_Dialogs_ObjectSelectControlFilter.md) [TFlex.DialogsObjectSelectControlFilterSimple](T_TFlex_Dialogs_ObjectSelectControlFilterSimple.md) TFlex.DialogsObjectSelectControlFilterFromDoc

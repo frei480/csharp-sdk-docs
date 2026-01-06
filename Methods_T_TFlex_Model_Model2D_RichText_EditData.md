@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EditData - методы  
-  
----  
-  
+    
 Тип [RichTextEditData](T_TFlex_Model_Model2D_RichText_EditData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

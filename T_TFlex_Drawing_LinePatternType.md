@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinePatternType - класс  
-  
----  
-  
+    
 Тип линии
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DrawingLinePatternType

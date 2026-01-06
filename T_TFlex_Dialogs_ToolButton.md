@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ToolButton - класс  
-  
----  
-  
+    
 Базовый класс для вспомогательных кнопок элементов управления
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsToolButton [TFlex.DialogsInputControlButton](T_TFlex_Dialogs_InputControlButton.md) [TFlex.DialogsListControlButton](T_TFlex_Dialogs_ListControlButton.md)

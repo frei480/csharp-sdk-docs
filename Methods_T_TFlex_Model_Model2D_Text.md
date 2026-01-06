@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Text - методы  
-  
----  
-  
+    
 Тип [Text](T_TFlex_Model_Model2D_Text.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

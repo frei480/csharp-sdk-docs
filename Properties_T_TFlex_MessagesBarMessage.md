@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MessagesBarMessage - свойства  
-  
----  
-  
+    
 Тип [MessagesBarMessage](T_TFlex_MessagesBarMessage.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

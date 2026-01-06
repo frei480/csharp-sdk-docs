@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ClashTopolResultItemTarget - свойство  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Первый объект

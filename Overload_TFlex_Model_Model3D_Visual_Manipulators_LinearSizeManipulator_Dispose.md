@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearSizeManipulatorDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Visual_Manipulators_Manipulator_Dispose.md) |  |

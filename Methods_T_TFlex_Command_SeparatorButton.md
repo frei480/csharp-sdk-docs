@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SeparatorButton - методы  
-  
----  
-  
+    
 Тип [SeparatorButton](T_TFlex_Command_SeparatorButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RunResult - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RunResult](M_TFlex_QualityManagement_RunResult__ctor.md) | Конструктор по умолчанию |

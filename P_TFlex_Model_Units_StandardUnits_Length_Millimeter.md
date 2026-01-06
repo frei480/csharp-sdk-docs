@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLengthMillimeter - свойство  
-  
----  
-  
+    
 Миллиметр; мм; mm; 
 
 Тип - Длина

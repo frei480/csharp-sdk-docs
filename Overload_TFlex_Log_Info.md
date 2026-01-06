@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogInfo - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Info(String)](M_TFlex_Log_Info.md) |  |

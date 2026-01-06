@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationCircle - методы  
-  
----  
-  
+    
 Тип [DecorationCircle](T_TFlex_Model_Model3D_Visual_DecorationCircle.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

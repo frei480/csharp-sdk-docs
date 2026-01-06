@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FilteringRules - методы  
-  
----  
-  
+    
 Тип [FilteringRules](T_TFlex_Model_Data_ProductStructure_FilteringRules.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

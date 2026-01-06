@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FreeNode - методы  
-  
----  
-  
+    
 Тип [FreeNode](T_TFlex_Model_Model2D_FreeNode.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

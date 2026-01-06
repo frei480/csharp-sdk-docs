@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseIntervalDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Geometry_BaseInterval_Dispose.md) | Освобождает все ресурсы, используемые объектом [BaseInterval](T_TFlex_Model_Model3D_Geometry_BaseInterval.md) |

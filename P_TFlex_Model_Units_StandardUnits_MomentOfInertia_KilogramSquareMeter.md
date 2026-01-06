@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMomentOfInertiaKilogramSquareMeter - свойство  
-  
----  
-  
+    
 Килограмм квадратный метр; кг·м²; kg·m²; 
 
 Тип - Момент инерции

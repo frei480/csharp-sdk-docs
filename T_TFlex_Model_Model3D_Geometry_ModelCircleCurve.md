@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelCircleCurve - класс  
-  
----  
-  
+    
 Класс окружности с модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) [TFlex.Model.Model3D.GeometryBaseCurve](T_TFlex_Model_Model3D_Geometry_BaseCurve.md) [TFlex.Model.Model3D.GeometryModelCurve](T_TFlex_Model_Model3D_Geometry_ModelCurve.md) TFlex.Model.Model3D.GeometryModelCircleCurve

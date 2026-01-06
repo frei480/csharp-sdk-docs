@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SegmentOutline - свойства  
-  
----  
-  
+    
 Тип [SegmentOutline](T_TFlex_Model_Model2D_SegmentOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

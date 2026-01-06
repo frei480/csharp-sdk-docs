@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StatusBar - класс  
-  
----  
-  
+    
 Статусная строка T-FLEX CAD
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexStatusBar

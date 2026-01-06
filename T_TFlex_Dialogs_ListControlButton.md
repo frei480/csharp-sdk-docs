@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlButton - класс  
-  
----  
-  
+    
 Кнопка внутри ListControl
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsToolButton](T_TFlex_Dialogs_ToolButton.md) TFlex.DialogsListControlButton

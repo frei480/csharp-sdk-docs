@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomButton - методы  
-  
----  
-  
+    
 Тип [CustomButton](T_TFlex_Command_CustomButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

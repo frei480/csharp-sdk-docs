@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WPFWindow - свойства  
-  
----  
-  
+    
 Тип [WPFWindow](T_TFlex_Dialogs_WPFWindow.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

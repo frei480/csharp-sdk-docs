@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AreaPath - методы  
-  
----  
-  
+    
 Тип [AreaPath](T_TFlex_Model_Model3D_AreaPath.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

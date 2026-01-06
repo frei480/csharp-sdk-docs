@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WrapperSTObjPropertyChanged - событие  
-  
----  
-**Пространство имён:** [TFlex.Model.Data](N_TFlex_Model_Data.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
+  **Пространство имён:** [TFlex.Model.Data](N_TFlex_Model_Data.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)
 
 ```csharp
 public virtual event PropertyChangedEventHandler PropertyChanged

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseClashResultItem - методы  
-  
----  
-  
+    
 Тип [BaseClashResultItem](T_TFlex_Model_Model3D_Geometry_BaseClashResultItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

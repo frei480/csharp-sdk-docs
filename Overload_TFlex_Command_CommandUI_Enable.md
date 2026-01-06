@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CommandUIEnable - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Enable](M_TFlex_Command_CommandUI_Enable.md) | Разрешить выполнение данной команды |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PolylineSplinePath3D - свойства  
-  
----  
-  
+    
 Тип [PolylineSplinePath3D](T_TFlex_Model_Model3D_PolylineSplinePath3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Parameter - преобразования типов  
-  
----  
-  
+    
 Тип [Parameter](T_TFlex_Model_Parameter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

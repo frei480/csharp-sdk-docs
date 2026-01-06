@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BetweenNode - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [BetweenNode(Document)](M_TFlex_Model_Model2D_BetweenNode__ctor.md) | Конструктор по умолчанию. Координаты установлены в значение 0, 0 |

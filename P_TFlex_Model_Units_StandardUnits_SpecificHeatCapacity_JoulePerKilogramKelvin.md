@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsSpecificHeatCapacityJoulePerKilogramKelvin - свойство  
-  
----  
-  
+    
 Джоуль на килограмм на Кельвин; Дж/(кг·К); J/(kg·K); 
 
 Тип - Удельная теплоемкость

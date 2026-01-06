@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GridControlSetAutoWidth - метод  
-  
----  
-  
+    
 Задать автоподбор ширины для колонки
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

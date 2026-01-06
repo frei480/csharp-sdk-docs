@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FaceTransformFacesTransformationsContainer - класс  
-  
----  
-  
+    
 Контейнер хранения преобразований для граней
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DFaceTransformFacesTransformationsContainer

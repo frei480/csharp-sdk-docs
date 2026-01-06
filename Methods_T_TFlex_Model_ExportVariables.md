@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportVariables - методы  
-  
----  
-  
+    
 Тип [ExportVariables](T_TFlex_Model_ExportVariables.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixTask - класс  
-  
----  
-  
+    
 Задача по исправлению результата проверки
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.QualityManagementFixTask

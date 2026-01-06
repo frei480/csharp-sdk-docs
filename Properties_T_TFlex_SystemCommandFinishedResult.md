@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SystemCommandFinishedResult - свойства  
-  
----  
-  
+    
 Тип [SystemCommandFinishedResult](T_TFlex_SystemCommandFinishedResult.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

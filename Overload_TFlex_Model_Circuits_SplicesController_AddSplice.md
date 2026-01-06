@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplicesControllerAddSplice - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddSplice](M_TFlex_Model_Circuits_SplicesController_AddSplice.md) | Добавить новое сращивание в ЛС |

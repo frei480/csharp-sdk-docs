@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomParameterProvider - свойства  
-  
----  
-  
+    
 Тип [CustomParameterProvider](T_TFlex_Model_Data_ProductStructure_CustomParameterProvider.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Model.Model3D - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [AngularDimension3D](T_TFlex_Model_Model3D_AngularDimension3D.md) | Угловой размер на 3D |

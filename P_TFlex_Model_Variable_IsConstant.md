@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableIsConstant - свойство  
-  
----  
-  
+    
 true, если переменная является константной.
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

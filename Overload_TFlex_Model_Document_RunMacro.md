@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentRunMacro - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [RunMacro(String)](M_TFlex_Model_Document_RunMacro.md) | Выполнить макрос с заданным именем |

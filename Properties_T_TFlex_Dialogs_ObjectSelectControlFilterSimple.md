@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlFilterSimple - свойства  
-  
----  
-  
+    
 Тип [ObjectSelectControlFilterSimple](T_TFlex_Dialogs_ObjectSelectControlFilterSimple.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExternalObject - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ExternalObject(IntPtr)](M_TFlex_Model_Model2D_ExternalObject__ctor.md) | Инициализирует новый экземпляр класса [ExternalObject](T_TFlex_Model_Model2D_ExternalObject.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DeleteOptions - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DeleteOptions](M_TFlex_Model_DeleteOptions__ctor.md) | Конструктор по умолчанию |

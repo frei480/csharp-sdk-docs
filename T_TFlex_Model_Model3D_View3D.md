@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # View3D - класс  
-  
----  
-  
+    
 Данный класс представляет собой 3D вид документа
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelView](T_TFlex_Model_View.md) TFlex.Model.Model3DView3D

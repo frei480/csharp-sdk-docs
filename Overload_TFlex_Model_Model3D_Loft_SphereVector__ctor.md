@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftSphereVector - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [LoftSphereVector(Parameter, Parameter, Parameter)](M_TFlex_Model_Model3D_Loft_SphereVector__ctor.md) | Конструктор для задания вектора в сферических координатах заданных в локальной системе координат |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertiesWindowFormBase - методы  
-  
----  
-  
+    
 Тип [PropertiesWindowFormBase](T_TFlex_Command_PropertiesWindowFormBase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ViewHWnd - свойство  
-  
----  
-  
+    
 Дескриптор окна вида
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

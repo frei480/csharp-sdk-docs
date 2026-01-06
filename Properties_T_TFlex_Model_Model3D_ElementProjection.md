@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementProjection - свойства  
-  
----  
-  
+    
 Тип [ElementProjection](T_TFlex_Model_Model3D_ElementProjection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

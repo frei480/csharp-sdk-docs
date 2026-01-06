@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlFilter - методы  
-  
----  
-  
+    
 Тип [ObjectSelectControlFilter](T_TFlex_Dialogs_ObjectSelectControlFilter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

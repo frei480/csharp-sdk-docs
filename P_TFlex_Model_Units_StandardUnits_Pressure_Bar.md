@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureBar - свойство  
-  
----  
-  
+    
 Бар; бар; bar; 
 
 Тип - Давление

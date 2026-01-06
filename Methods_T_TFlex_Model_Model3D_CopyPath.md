@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyPath - методы  
-  
----  
-  
+    
 Тип [CopyPath](T_TFlex_Model_Model3D_CopyPath.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

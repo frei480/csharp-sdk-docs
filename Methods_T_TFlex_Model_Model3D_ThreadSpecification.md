@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreadSpecification - методы  
-  
----  
-  
+    
 Тип [ThreadSpecification](T_TFlex_Model_Model3D_ThreadSpecification.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

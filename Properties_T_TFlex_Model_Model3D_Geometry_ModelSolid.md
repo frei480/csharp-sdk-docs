@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelSolid - свойства  
-  
----  
-  
+    
 Тип [ModelSolid](T_TFlex_Model_Model3D_Geometry_ModelSolid.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

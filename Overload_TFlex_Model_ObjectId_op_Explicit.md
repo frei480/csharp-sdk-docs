@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectId  \- операторы преобразования  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [(ObjectId to UInt32)](M_TFlex_Model_ObjectId_op_Explicit.md) |  |

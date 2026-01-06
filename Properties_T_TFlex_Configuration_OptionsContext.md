@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OptionsContext - свойства  
-  
----  
-  
+    
 Тип [OptionsContext](T_TFlex_Configuration_OptionsContext.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

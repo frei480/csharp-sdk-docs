@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectedCircularDimensionSetDiametralDimensionType - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetDiametralDimensionType(DiametralDimensionType)](M_TFlex_Model_Model3D_ProjectedCircularDimension_SetDiametralDimensionType.md) | Установка размера, как диаметрального |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsEnergyDensityKilojoulePerCubicMeter - свойство  
-  
----  
-  
+    
 Килоджоуль на кубический метр; кДж/м³; kJ/m³; 
 
 Тип - Плотность энергии

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelAxis - класс  
-  
----  
-  
+    
 Класс оси с модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) [TFlex.Model.Model3D.GeometryBaseAxis](T_TFlex_Model_Model3D_Geometry_BaseAxis.md) TFlex.Model.Model3D.GeometryModelAxis

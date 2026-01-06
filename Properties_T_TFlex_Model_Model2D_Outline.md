@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Outline - свойства  
-  
----  
-  
+    
 Тип [Outline](T_TFlex_Model_Model2D_Outline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

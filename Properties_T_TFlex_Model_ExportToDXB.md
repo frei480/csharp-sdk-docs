@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToDXB - свойства  
-  
----  
-  
+    
 Тип [ExportToDXB](T_TFlex_Model_ExportToDXB.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelTopolCreateReference - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateReference](M_TFlex_Model_Model3D_Geometry_ModelTopol_CreateReference.md) | Создать ссылку (создается либо топологическая ссылка, либо ссылочный элемент на топологию) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EndChangesOptions - класс  
-  
----  
-  
+    
 Опции метода Document.EndChanges
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelEndChangesOptions

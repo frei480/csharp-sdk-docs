@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Term - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Term](M_TFlex_Model_Data_Filters_Term__ctor.md) | Инициализирует новый экземпляр класса [Term](T_TFlex_Model_Data_Filters_Term.md) |

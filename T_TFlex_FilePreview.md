@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FilePreview - класс  
-  
----  
-  
+    
 Элемент управления для просмотра 2D документов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemMarshalByRefObject](https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject) [System.ComponentModelComponent](https://learn.microsoft.com/dotnet/api/system.componentmodel.component) [System.Windows.FormsControl](https://learn.microsoft.com/dotnet/api/system.windows.forms.control) TFlexFilePreview

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfaceSplinewiseDataPositions - класс  
-  
----  
-  
+    
 Сетка интерполяционных точек. Каждая строка соответствует изопараметрической кривой по U
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometrySurfaceSplinewiseDataPositions

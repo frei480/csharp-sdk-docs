@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLinearDensityDecitex - свойство  
-  
----  
-  
+    
 Децитекс; децитекс; dtex; 
 
 Тип - Линейная плотность

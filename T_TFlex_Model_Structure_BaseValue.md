@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseValue - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.StructureBaseValue [TFlex.Model.StructureElementInfoValue](T_TFlex_Model_Structure_ElementInfoValue.md) [TFlex.Model.StructureElementValue](T_TFlex_Model_Structure_ElementValue.md) [TFlex.Model.StructureTypeValue](T_TFlex_Model_Structure_TypeValue.md)
 
 **Пространство имён:** [TFlex.Model.Structure](N_TFlex_Model_Structure.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

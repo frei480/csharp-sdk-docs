@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportTo3mf - класс  
-  
----  
-  
+    
 Класс экспорта в файл формата 3MF
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelExportTo](T_TFlex_Model_ExportTo.md) [TFlex.ModelExportTo3dCommon](T_TFlex_Model_ExportTo3dCommon.md) TFlex.ModelExportTo3mf

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ShowingImportExportDialogEventArgs - методы  
-  
----  
-  
+    
 Тип [ShowingImportExportDialogEventArgs](T_TFlex_ShowingImportExportDialogEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

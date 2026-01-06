@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Block - методы  
-  
----  
-  
+    
 Тип [Block](T_TFlex_Model_Model3D_Block.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsArea - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Площадь
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsArea

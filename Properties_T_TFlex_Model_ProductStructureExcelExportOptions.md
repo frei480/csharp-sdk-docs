@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureExcelExportOptions - свойства  
-  
----  
-  
+    
 Тип [ProductStructureExcelExportOptions](T_TFlex_Model_ProductStructureExcelExportOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectionWithSection - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ProjectionWithSection(Document)](M_TFlex_Model_Model3D_ProjectionWithSection__ctor.md) | Конструктор для создания новой проекции |

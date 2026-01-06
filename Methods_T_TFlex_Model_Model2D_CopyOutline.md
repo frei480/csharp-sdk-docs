@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyOutline - методы  
-  
----  
-  
+    
 Тип [CopyOutline](T_TFlex_Model_Model2D_CopyOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

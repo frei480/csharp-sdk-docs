@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToPOV - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ExportToPOV(Control)](M_TFlex_Model_ExportToPOV__ctor.md) | Инициализирует новый экземпляр класса [ExportToPOV](T_TFlex_Model_ExportToPOV.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OffsetEnqueuedEventArgs - методы  
-  
----  
-  
+    
 Тип [BoxManipulatorBaseOffsetEnqueuedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_BoxManipulatorBase_OffsetEnqueuedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

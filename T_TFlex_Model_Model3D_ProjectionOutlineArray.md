@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProjectionOutlineArray - класс  
-  
----  
-  
+    
 Множество линий изображения проекции. Возможно перечисление линий с использованием конструкции foreach 
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DProjectionOutlineArray

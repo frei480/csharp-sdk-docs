@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FrameControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FrameControl](M_TFlex_Dialogs_FrameControl__ctor.md) | Инициализирует новый экземпляр класса [FrameControl](T_TFlex_Dialogs_FrameControl.md) |

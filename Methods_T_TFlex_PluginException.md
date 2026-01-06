@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginException - методы  
-  
----  
-  
+    
 Тип [PluginException](T_TFlex_PluginException.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

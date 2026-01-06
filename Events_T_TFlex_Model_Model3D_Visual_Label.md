@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Label - события  
-  
----  
-  
+    
 Тип [Label](T_TFlex_Model_Model3D_Visual_Label.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

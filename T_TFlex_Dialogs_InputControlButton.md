@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InputControlButton - класс  
-  
----  
-  
+    
 Дополнительная кнопка для элементов ввода значения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsToolButton](T_TFlex_Dialogs_ToolButton.md) TFlex.DialogsInputControlButton

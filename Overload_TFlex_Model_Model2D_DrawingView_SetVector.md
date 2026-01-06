@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DrawingViewSetVector - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetVector(FixingVector, Point, Point)](M_TFlex_Model_Model2D_DrawingView_SetVector.md) | Установка привязки по вектору и точкам |

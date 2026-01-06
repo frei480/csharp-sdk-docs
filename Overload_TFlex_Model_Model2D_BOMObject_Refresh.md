@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BOMObjectRefresh - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Refresh](M_TFlex_Model_Model2D_BOMObject_Refresh.md) | Обновить спецификацию |

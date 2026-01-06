@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ColorSelectControl - методы  
-  
----  
-  
+    
 Тип [ColorSelectControl](T_TFlex_Dialogs_ColorSelectControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

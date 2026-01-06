@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Section3D - свойства  
-  
----  
-  
+    
 Тип [Section3D](T_TFlex_Model_Model3D_Section3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

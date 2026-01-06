@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Time - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsTime](T_TFlex_Model_Units_StandardUnits_Time.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

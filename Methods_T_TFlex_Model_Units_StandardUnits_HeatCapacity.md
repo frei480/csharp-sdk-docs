@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HeatCapacity - методы  
-  
----  
-  
+    
 Тип [StandardUnitsHeatCapacity](T_TFlex_Model_Units_StandardUnits_HeatCapacity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PageGrid - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [PageGrid](M_TFlex_Configuration_PageGrid__ctor.md) | Инициализирует новый экземпляр класса [PageGrid](T_TFlex_Configuration_PageGrid.md) |

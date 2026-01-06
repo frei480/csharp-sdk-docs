@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinksGroup - свойства  
-  
----  
-  
+    
 Тип [LinksGroup](T_TFlex_Model_Circuits_LinksGroup.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

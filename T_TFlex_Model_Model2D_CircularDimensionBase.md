@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircularDimensionBase - класс  
-  
----  
-  
+    
 Базовый класс для размеров на окружности
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.Model2DDimension](T_TFlex_Model_Model2D_Dimension.md) TFlex.Model.Model2DCircularDimensionBase [TFlex.Model.Model2DCircularDimension](T_TFlex_Model_Model2D_CircularDimension.md) [TFlex.Model.Model3DCircularDimension3D](T_TFlex_Model_Model3D_CircularDimension3D.md) [TFlex.Model.Model3DProjectedCircularDimension](T_TFlex_Model_Model3D_ProjectedCircularDimension.md)

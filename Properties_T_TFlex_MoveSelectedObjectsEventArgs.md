@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MoveSelectedObjectsEventArgs - свойства  
-  
----  
-  
+    
 Тип [MoveSelectedObjectsEventArgs](T_TFlex_MoveSelectedObjectsEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

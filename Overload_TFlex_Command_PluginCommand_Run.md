@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginCommandRun - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Run(View)](M_TFlex_Command_PluginCommand_Run.md) | Запустить команду на выполнение |

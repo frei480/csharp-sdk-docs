@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AreaFindContour - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FindContour(Double, Double)](M_TFlex_Model_Model2D_Area_FindContour.md) | Автоматический поиск контуров штриховки по точке. |

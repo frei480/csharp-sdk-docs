@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FullRegenerationWindowItem - класс  
-  
----  
-  
+    
 Класс для добавляемого приложением элемента в окно полного пересчёта
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexFullRegenerationWindowItem

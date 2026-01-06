@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SeparateFacesArray - методы  
-  
----  
-  
+    
 Тип [FaceSeparateSeparateFacesArray](T_TFlex_Model_Model3D_FaceSeparate_SeparateFacesArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VerticesArray - методы  
-  
----  
-  
+    
 Тип [VerticesArray](T_TFlex_Model_Model3D_VerticesArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReferencesDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_References_Dispose.md) | Освобождает все ресурсы, используемые объектом [References](T_TFlex_Model_Model3D_References.md) |

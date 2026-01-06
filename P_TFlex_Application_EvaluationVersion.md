@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationEvaluationVersion - свойство  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Свойство, возвращающее true, если версия T-FLEX CAD ознакомительная

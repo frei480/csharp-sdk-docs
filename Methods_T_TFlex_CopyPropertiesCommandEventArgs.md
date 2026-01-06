@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyPropertiesCommandEventArgs - методы  
-  
----  
-  
+    
 Тип [CopyPropertiesCommandEventArgs](T_TFlex_CopyPropertiesCommandEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

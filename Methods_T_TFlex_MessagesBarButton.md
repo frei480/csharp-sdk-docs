@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MessagesBarButton - методы  
-  
----  
-  
+    
 Тип [MessagesBarButton](T_TFlex_MessagesBarButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

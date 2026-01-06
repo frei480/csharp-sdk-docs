@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Sensor - свойства  
-  
----  
-  
+    
 Тип [Sensor](T_TFlex_Model_Model3D_Sensor.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AdditionalStiffnessOnEdge - методы  
-  
----  
-  
+    
 Тип [StandardUnitsAdditionalStiffnessOnEdge](T_TFlex_Model_Units_StandardUnits_AdditionalStiffnessOnEdge.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

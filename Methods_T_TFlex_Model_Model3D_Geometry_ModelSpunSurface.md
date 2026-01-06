@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelSpunSurface - методы  
-  
----  
-  
+    
 Тип [ModelSpunSurface](T_TFlex_Model_Model3D_Geometry_ModelSpunSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

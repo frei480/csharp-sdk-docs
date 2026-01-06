@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogicManager - методы  
-  
----  
-  
+    
 Тип [LogicManager](T_TFlex_QualityManagement_LogicManager.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

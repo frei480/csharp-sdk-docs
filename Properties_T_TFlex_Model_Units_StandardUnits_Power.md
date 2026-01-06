@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Power - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsPower](T_TFlex_Model_Units_StandardUnits_Power.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

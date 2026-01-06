@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToRGP - методы  
-  
----  
-  
+    
 Тип [ExportToRGP](T_TFlex_Model_ExportToRGP.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

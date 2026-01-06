@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Derivative - свойства  
-  
----  
-  
+    
 Тип [InterpolatingSplinePath3DDerivative](T_TFlex_Model_Model3D_InterpolatingSplinePath3D_Derivative.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

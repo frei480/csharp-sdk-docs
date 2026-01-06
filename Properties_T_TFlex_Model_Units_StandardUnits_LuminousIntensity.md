@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LuminousIntensity - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsLuminousIntensity](T_TFlex_Model_Units_StandardUnits_LuminousIntensity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

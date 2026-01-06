@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Temperature - методы  
-  
----  
-  
+    
 Тип [StandardUnitsTemperature](T_TFlex_Model_Units_StandardUnits_Temperature.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ShowingImportExportDialogEventArgsItem - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ShowingImportExportDialogEventArgsItem](M_TFlex_ShowingImportExportDialogEventArgs_Item__ctor.md) | Инициализирует новый экземпляр класса [ShowingImportExportDialogEventArgsItem](T_TFlex_ShowingImportExportDialogEventArgs_Item.md) |

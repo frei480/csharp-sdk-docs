@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectionFilter - класс  
-  
----  
-  
+    
 Фильтр, позволяющий выбирать или не выбирать объекты различных типов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelSelectionFilter [TFlex.ModelCustomFilter](T_TFlex_Model_CustomFilter.md)

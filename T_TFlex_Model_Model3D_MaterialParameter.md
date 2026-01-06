@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MaterialParameter - класс  
-  
----  
-  
+    
 Класс для хранения ссылки на материал
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DMaterialParameter

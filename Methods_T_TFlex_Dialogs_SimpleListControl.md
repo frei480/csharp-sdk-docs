@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControl - методы  
-  
----  
-  
+    
 Тип [SimpleListControl](T_TFlex_Dialogs_SimpleListControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

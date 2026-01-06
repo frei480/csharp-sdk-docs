@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReportRegenerateContext - свойства  
-  
----  
-  
+    
 Тип [ReportRegenerateContext](T_TFlex_Model_Data_ProductStructure_ReportRegenerateContext.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

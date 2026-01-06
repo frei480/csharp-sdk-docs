@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UiObjectDispose(Boolean) - метод  
-  
----  
-  
+    
 Освобождает неуправляемые ресурсы, используемые объектом [UiObject](T_TFlex_Dialogs_UiObject.md), а при необходимости освобождает также управляемые ресурсы
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

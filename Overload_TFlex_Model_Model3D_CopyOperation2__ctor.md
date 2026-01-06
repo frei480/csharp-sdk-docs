@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyOperation2 - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CopyOperation2(Document)](M_TFlex_Model_Model3D_CopyOperation2__ctor.md) | Конструктор для Копирования операций |

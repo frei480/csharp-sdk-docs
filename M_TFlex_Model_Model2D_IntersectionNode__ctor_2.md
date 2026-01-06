@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntersectionNode(Document, Construction, Construction, Double, Double) - конструктор  
-  
----  
-  
+    
 Конструктор, задающий линии построения, на пересечении которых находится узел и координаты точки, ближайшей к требуемому варианту пересечения
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseControl - класс  
-  
----  
-  
+    
 Базовый класс для элементов управления
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) TFlex.DialogsBaseControl Подробнее

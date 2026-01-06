@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UDFBaseParameter - класс  
-  
----  
-  
+    
 Собственно параметр
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DUDFParameter](T_TFlex_Model_Model3D_UDF_Parameter.md) TFlex.Model.Model3DUDFBaseParameter [TFlex.Model.Model3DUDFModelParameter](T_TFlex_Model_Model3D_UDF_ModelParameter.md) [TFlex.Model.Model3DUDFTopolParameter](T_TFlex_Model_Model3D_UDF_TopolParameter.md)

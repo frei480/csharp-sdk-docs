@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Exclusion(ArrayOperation, Parameter, Parameter) - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [Exclusion](T_TFlex_Model_Model3D_Exclusion.md)
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

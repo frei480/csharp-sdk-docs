@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OutlinesIntersection - методы  
-  
----  
-  
+    
 Тип [OutlinesIntersection](T_TFlex_Model_Model2D_OutlinesIntersection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

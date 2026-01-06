@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsInductanceMillihenry - свойство  
-  
----  
-  
+    
 Миллигенри; мГн; mH; 
 
 Тип - Индуктивность

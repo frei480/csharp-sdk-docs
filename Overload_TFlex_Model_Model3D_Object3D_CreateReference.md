@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3DCreateReference - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateReference](M_TFlex_Model_Model3D_Object3D_CreateReference.md) | Создаёт ссылочный элемент в исходном документе(внутренняя ссылка) |

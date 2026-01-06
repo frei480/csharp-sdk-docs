@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElectricProperties - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ElectricProperties](M_TFlex_Configuration_ElectricProperties__ctor.md) | Инициализирует новый экземпляр класса [ElectricProperties](T_TFlex_Configuration_ElectricProperties.md) |

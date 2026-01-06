@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VertexPoint - свойства  
-  
----  
-  
+    
 Тип [LoftOperationVertexPoint](T_TFlex_Model_Model3D_LoftOperation_VertexPoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

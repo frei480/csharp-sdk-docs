@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AffineMap - свойства  
-  
----  
-  
+    
 Тип [AffineMap](T_TFlex_Drawing_AffineMap.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

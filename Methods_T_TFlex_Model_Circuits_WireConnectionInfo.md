@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WireConnectionInfo - методы  
-  
----  
-  
+    
 Тип [WireConnectionInfo](T_TFlex_Model_Circuits_WireConnectionInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

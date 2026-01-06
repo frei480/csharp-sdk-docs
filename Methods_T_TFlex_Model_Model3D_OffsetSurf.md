@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OffsetSurf - методы  
-  
----  
-  
+    
 Тип [OffsetSurf](T_TFlex_Model_Model3D_OffsetSurf.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

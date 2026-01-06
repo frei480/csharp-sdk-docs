@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Fragment3DParameters - свойство  
-  
----  
-  
+    
 Список идентификаторов объектов-параметров в документе фрагмента и объектов-значений в документе сборки
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

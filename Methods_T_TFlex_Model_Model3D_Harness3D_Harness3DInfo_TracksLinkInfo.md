@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TracksLinkInfo - методы  
-  
----  
-  
+    
 Тип [Harness3DHarness3DInfoTracksLinkInfo](T_TFlex_Model_Model3D_Harness3D_Harness3DInfo_TracksLinkInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

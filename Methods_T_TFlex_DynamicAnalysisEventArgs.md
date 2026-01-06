@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DynamicAnalysisEventArgs - методы  
-  
----  
-  
+    
 Тип [DynamicAnalysisEventArgs](T_TFlex_DynamicAnalysisEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

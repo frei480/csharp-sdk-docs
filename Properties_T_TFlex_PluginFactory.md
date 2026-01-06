@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginFactory - свойства  
-  
----  
-  
+    
 Тип [PluginFactory](T_TFlex_PluginFactory.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

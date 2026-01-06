@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsThermalConductivityWattPerMeterDegree - свойство  
-  
----  
-  
+    
 Ватт на метр-градус; Вт/(м·К); W/(m·°С); 
 
 Тип - Теплопроводность

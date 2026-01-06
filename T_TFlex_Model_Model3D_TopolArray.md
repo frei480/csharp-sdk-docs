@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TopolArray - класс  
-  
----  
-  
+    
 Множество топологиеских данных
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DTopolArray [TFlex.Model.Model3DEdgesArray](T_TFlex_Model_Model3D_EdgesArray.md) [TFlex.Model.Model3DFacesArray](T_TFlex_Model_Model3D_FacesArray.md) [TFlex.Model.Model3DLoopsArray](T_TFlex_Model_Model3D_LoopsArray.md) [TFlex.Model.Model3DVerticesArray](T_TFlex_Model_Model3D_VerticesArray.md)

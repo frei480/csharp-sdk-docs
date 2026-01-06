@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectArray - класс  
-  
----  
-  
+    
 Массив объектов модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelObjectArray

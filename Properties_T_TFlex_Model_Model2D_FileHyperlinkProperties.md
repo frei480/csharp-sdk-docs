@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FileHyperlinkProperties - свойства  
-  
----  
-  
+    
 Тип [FileHyperlinkProperties](T_TFlex_Model_Model2D_FileHyperlinkProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgeBlendingVariableBlendAttribute - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [EdgeBlendingVariableBlendAttribute(Parameter, Parameter)](M_TFlex_Model_Model3D_EdgeBlending_VariableBlendAttribute__ctor_1.md) | Конструктор |

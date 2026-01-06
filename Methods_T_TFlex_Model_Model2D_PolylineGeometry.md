@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PolylineGeometry - методы  
-  
----  
-  
+    
 Тип [PolylineGeometry](T_TFlex_Model_Model2D_PolylineGeometry.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

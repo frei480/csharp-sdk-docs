@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Model.Data.ProductStructure - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [AttributeParameterProvider](T_TFlex_Model_Data_ProductStructure_AttributeParameterProvider.md) |  |

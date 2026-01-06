@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StructureElementsManager3D - методы  
-  
----  
-  
+    
 Тип [StructureElementsManager3D](T_TFlex_Model_Structure_StructureElementsManager3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

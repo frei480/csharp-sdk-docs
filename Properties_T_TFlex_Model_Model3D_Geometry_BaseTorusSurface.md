@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseTorusSurface - свойства  
-  
----  
-  
+    
 Тип [BaseTorusSurface](T_TFlex_Model_Model3D_Geometry_BaseTorusSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

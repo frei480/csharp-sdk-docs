@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAmountOfSubstanceMole - свойство  
-  
----  
-  
+    
 Моль; моль; mol; 
 
 Тип - Количество вещества

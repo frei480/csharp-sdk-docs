@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Response - класс  
-  
----  
-  
+    
 Ответ. Для использования в REST вызовах
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.RestResponse

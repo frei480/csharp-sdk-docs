@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementGetAddableLinks - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetAddableLinks(ModelObject)](M_TFlex_Model_Structure_Element_GetAddableLinks.md) |  |

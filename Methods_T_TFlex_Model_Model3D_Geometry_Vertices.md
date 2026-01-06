@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Vertices - методы  
-  
----  
-  
+    
 Тип [Vertices](T_TFlex_Model_Model3D_Geometry_Vertices.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

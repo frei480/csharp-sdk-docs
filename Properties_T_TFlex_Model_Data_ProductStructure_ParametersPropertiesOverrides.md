@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParametersPropertiesOverrides - свойства  
-  
----  
-  
+    
 Тип [ParametersPropertiesOverrides](T_TFlex_Model_Data_ProductStructure_ParametersPropertiesOverrides.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

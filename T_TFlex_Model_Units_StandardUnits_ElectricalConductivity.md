@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsElectricalConductivity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Электропроводность
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsElectricalConductivity

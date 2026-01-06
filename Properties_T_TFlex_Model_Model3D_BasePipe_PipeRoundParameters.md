@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipeRoundParameters - свойства  
-  
----  
-  
+    
 Тип [BasePipePipeRoundParameters](T_TFlex_Model_Model3D_BasePipe_PipeRoundParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

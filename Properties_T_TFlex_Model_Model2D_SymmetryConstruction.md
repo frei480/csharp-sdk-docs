@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SymmetryConstruction - свойства  
-  
----  
-  
+    
 Тип [SymmetryConstruction](T_TFlex_Model_Model2D_SymmetryConstruction.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

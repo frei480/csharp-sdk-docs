@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HiddenOptions - поля  
-  
----  
-  
+    
 Тип [View3DDrawStyleHiddenOptions](T_TFlex_Model_Model3D_View3D_DrawStyle_HiddenOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

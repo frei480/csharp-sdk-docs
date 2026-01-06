@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginWorkplaneCommandEventHandler - метод  
-  
----  
-  
+    
 Класс, содержащий данные о событии - вызвана команда управления рабочими плоскостями
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

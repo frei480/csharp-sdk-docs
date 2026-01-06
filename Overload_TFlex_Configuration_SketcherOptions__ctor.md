@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SketcherOptions - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SketcherOptions](M_TFlex_Configuration_SketcherOptions__ctor.md) | Инициализирует новый экземпляр класса [SketcherOptions](T_TFlex_Configuration_SketcherOptions.md) |

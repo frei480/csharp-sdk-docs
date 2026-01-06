@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomDynamicDisabledAttribute - методы  
-  
----  
-  
+    
 Тип [CustomDynamicDisabledAttribute](T_TFlex_Configuration_Attributes_CustomDynamicDisabledAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

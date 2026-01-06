@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationPoint - свойства  
-  
----  
-  
+    
 Тип [DecorationPoint](T_TFlex_Model_Model3D_Visual_DecorationPoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

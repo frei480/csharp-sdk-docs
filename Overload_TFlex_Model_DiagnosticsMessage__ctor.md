@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DiagnosticsMessage - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DiagnosticsMessage(DiagnosticsMessageType, String)](M_TFlex_Model_DiagnosticsMessage__ctor.md) | Конструктор |

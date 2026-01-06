@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureCreateProductStructure - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateProductStructure(Document, Scheme)](M_TFlex_Model_ProductStructure_CreateProductStructure.md) | Создать новую структуру изделия |

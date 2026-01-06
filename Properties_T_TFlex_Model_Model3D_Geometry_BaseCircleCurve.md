@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseCircleCurve - свойства  
-  
----  
-  
+    
 Тип [BaseCircleCurve](T_TFlex_Model_Model3D_Geometry_BaseCircleCurve.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VertHorParams - методы  
-  
----  
-  
+    
 Тип [TableVertHorParams](T_TFlex_Model_Model2D_Table_VertHorParams.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

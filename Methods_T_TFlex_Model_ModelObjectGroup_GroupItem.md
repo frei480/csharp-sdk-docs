@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GroupItem - методы  
-  
----  
-  
+    
 Тип [ModelObjectGroupGroupItem](T_TFlex_Model_ModelObjectGroup_GroupItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

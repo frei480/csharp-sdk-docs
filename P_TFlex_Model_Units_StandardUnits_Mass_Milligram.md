@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMassMilligram - свойство  
-  
----  
-  
+    
 Миллиграмм; мг; mg; 
 
 Тип - Масса

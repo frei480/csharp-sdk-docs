@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Parameters - методы  
-  
----  
-  
+    
 Тип [Parameters](T_TFlex_QualityManagement_Parameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

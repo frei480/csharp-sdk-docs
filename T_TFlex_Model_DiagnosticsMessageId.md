@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DiagnosticsMessageId - класс  
-  
----  
-  
+    
 Идентификатор диагностического сообщения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelDiagnosticsMessageId

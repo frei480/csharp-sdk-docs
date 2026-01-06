@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlContextMenuClickedEventArgs - свойства  
-  
----  
-  
+    
 Тип [ListControlContextMenuClickedEventArgs](T_TFlex_Dialogs_ListControlContextMenuClickedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

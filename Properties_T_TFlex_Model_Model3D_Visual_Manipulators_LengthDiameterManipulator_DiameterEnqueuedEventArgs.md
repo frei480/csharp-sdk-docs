@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DiameterEnqueuedEventArgs - свойства  
-  
----  
-  
+    
 Тип [LengthDiameterManipulatorDiameterEnqueuedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_LengthDiameterManipulator_DiameterEnqueuedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

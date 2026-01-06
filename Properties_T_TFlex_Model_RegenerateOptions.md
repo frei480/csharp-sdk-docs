@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RegenerateOptions - свойства  
-  
----  
-  
+    
 Тип [RegenerateOptions](T_TFlex_Model_RegenerateOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

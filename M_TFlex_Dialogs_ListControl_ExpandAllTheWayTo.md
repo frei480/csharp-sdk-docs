@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControlExpandAllTheWayTo(Int32) - метод  
-  
----  
-  
+    
 Развернуть все строки до row. IsHierarchyOn должно быть true.
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

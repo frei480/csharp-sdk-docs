@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StringManagerGetString - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetString(String)](M_TFlex_StringManager_GetString.md) | Получает строку локализации |

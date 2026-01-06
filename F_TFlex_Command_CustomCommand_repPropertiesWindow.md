@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomCommandrepPropertiesWindow - поле  
-  
----  
-**Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
+  **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0
 
 ```csharp
 protected PropertiesWindow repPropertiesWindow

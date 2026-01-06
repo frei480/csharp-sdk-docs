@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgePath - методы  
-  
----  
-  
+    
 Тип [EdgePath](T_TFlex_Model_Model3D_EdgePath.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

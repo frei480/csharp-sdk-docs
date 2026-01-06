@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureMillimeterOfMercury - свойство  
-  
----  
-  
+    
 Миллиметр ртутного столба; мм рт.ст.; mm Hg; 
 
 Тип - Давление

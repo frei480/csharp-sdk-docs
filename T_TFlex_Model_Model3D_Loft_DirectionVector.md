@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LoftDirectionVector - класс  
-  
----  
-  
+    
 Класс для задания вектора с помощью направления
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DLoftVectorDirection](T_TFlex_Model_Model3D_Loft_VectorDirection.md) TFlex.Model.Model3DLoftDirectionVector

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportedOperation - свойства  
-  
----  
-  
+    
 Тип [ImportedOperation](T_TFlex_Model_Model3D_ImportedOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

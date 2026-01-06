@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object3dTransformationForm - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.CommandPropertiesWindowFormBase](T_TFlex_Command_PropertiesWindowFormBase.md) [TFlex.CommandPropertiesWindowForm](T_TFlex_Command_PropertiesWindowForm.md) TFlex.CommandObject3dTransformationForm
 
 **Пространство имён:** [TFlex.Command](N_TFlex_Command.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

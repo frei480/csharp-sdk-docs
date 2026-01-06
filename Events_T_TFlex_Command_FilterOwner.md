@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FilterOwner - события  
-  
----  
-  
+    
 Тип [FilterOwner](T_TFlex_Command_FilterOwner.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

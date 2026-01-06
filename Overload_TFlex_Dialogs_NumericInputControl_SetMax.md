@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NumericInputControlSetMax - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetMax(Double)](M_TFlex_Dialogs_NumericInputControl_SetMax.md) | Устанавливает максимальное допустимое значение |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RangeResult2 - класс  
-  
----  
-  
+    
 Класс отрезка между двумя телами
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryRangeResult2

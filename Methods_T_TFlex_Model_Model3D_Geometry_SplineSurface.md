@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplineSurface - методы  
-  
----  
-  
+    
 Тип [SplineSurface](T_TFlex_Model_Model3D_Geometry_SplineSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

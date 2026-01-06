@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MenuItemBase - методы  
-  
----  
-  
+    
 Тип [MenuItemBase](T_TFlex_Dialogs_MenuItemBase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

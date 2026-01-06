@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Annotations - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Annotations](M_TFlex_Configuration_Annotations__ctor.md) | Инициализирует новый экземпляр класса [Annotations](T_TFlex_Configuration_Annotations.md) |

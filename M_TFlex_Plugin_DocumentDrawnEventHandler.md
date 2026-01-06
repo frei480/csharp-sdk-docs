@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginDocumentDrawnEventHandler - метод  
-  
----  
-  
+    
 Обработчик события, возникающего после отрисовки документа
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

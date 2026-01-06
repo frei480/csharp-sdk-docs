@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UDFParameter - класс  
-  
----  
-  
+    
 Базовый класс для внешних параметров
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DUDFParameter [TFlex.Model.Model3DUDFBaseParameter](T_TFlex_Model_Model3D_UDF_BaseParameter.md) [TFlex.Model.Model3DUDFFolderParameter](T_TFlex_Model_Model3D_UDF_FolderParameter.md)

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardBOMItem - класс  
-  
----  
-  
+    
 Стандартный элемент записи данных для спецификации
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelStandardBOMItem

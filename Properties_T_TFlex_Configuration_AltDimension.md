@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AltDimension - свойства  
-  
----  
-  
+    
 Тип [AltDimension](T_TFlex_Configuration_AltDimension.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

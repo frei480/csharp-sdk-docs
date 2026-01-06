@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearArrayOperation - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [LinearArrayOperation(Document)](M_TFlex_Model_Model3D_LinearArrayOperation__ctor.md) | Конструктор для операции "Линейный массив" |

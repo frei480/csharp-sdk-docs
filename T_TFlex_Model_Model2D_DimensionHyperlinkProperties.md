@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DimensionHyperlinkProperties - класс  
-  
----  
-  
+    
 Параметры гиперссылки для выбора размера
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model2DHyperlinkProperties](T_TFlex_Model_Model2D_HyperlinkProperties.md) TFlex.Model.Model2DDimensionHyperlinkProperties

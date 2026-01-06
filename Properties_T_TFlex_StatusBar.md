@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StatusBar - свойства  
-  
----  
-  
+    
 Тип [StatusBar](T_TFlex_StatusBar.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

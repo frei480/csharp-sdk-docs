@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToRhino - методы  
-  
----  
-  
+    
 Тип [ExportToRhino](T_TFlex_Model_ExportToRhino.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

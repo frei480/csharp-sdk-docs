@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsKinematicViscosity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Кинематическая вязкость
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsKinematicViscosity

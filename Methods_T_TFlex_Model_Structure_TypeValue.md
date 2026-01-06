@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TypeValue - методы  
-  
----  
-  
+    
 Тип [TypeValue](T_TFlex_Model_Structure_TypeValue.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

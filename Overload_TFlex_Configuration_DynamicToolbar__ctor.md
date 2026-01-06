@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DynamicToolbar - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DynamicToolbar](M_TFlex_Configuration_DynamicToolbar__ctor.md) | Инициализирует новый экземпляр класса [DynamicToolbar](T_TFlex_Configuration_DynamicToolbar.md) |

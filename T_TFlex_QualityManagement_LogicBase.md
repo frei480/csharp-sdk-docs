@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogicBase - класс  
-  
----  
-  
+    
 Базовый класс логики действия
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.QualityManagementLogicBase

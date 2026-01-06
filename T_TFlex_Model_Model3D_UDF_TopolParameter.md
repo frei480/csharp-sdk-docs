@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UDFTopolParameter - класс  
-  
----  
-  
+    
 Топологический параметр: вершина, ребро, цикл, грань
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DUDFParameter](T_TFlex_Model_Model3D_UDF_Parameter.md) [TFlex.Model.Model3DUDFBaseParameter](T_TFlex_Model_Model3D_UDF_BaseParameter.md) TFlex.Model.Model3DUDFTopolParameter

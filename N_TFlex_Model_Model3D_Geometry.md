@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Model.Model3D.Geometry - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [AffineTransformation](T_TFlex_Model_Model3D_Geometry_AffineTransformation.md) | Аффинные преобразования |

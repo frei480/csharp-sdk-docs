@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentAssignParametersToDOCs - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Cвязать переменные T-Flex CAD с параметрами документа DOCs

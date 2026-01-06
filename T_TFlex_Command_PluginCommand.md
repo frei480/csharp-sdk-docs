@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginCommand - класс  
-  
----  
-  
+    
 Реализация функциональности команды приложения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.CommandFilterOwner](T_TFlex_Command_FilterOwner.md) TFlex.CommandPluginCommand

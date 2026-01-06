@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # View2D - класс  
-  
----  
-  
+    
 Данный класс представляет собой 2D вид документа.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelView](T_TFlex_Model_View.md) TFlex.Model.Model2DView2D

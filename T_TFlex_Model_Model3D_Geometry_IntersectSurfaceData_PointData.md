@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IntersectSurfaceDataPointData - класс  
-  
----  
-  
+    
 Класс для хранения точек пересечения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryIntersectSurfaceDataPointData

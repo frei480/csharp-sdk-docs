@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMomentOfInertiaGramSquareCentimeter - свойство  
-  
----  
-  
+    
 Грамм квадратный сантиметр; г·см²; g·cm²; 
 
 Тип - Момент инерции

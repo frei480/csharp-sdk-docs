@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UnitConverterFromMeter - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FromMeter(BaseAxis)](M_TFlex_Model_Model3D_Geometry_UnitConverter_FromMeter_1.md) | Конвертировать координаты оси из метров в единицы модели |

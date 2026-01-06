@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # WPFWindow - класс  
-  
----  
-  
+    
 Позволяет размещать элементы WPF внутри NativeControl
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) [TFlex.DialogsNativeWindow](T_TFlex_Dialogs_NativeWindow.md) TFlex.DialogsWPFWindow

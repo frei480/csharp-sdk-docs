@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Path3D - методы  
-  
----  
-  
+    
 Тип [Path3D](T_TFlex_Model_Model3D_Path3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

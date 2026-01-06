@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginEventArgs - класс  
-  
----  
-  
+    
 Класс, содержащий данные о событии, возникшем в приложении
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) TFlexPluginEventArgs Подробнее

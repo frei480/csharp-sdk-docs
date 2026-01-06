@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object2D - класс  
-  
----  
-  
+    
 Класс 2D объекта модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) TFlex.Model.Model2DObject2D Подробнее

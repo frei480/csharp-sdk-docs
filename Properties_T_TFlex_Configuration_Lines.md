@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Lines - свойства  
-  
----  
-  
+    
 Тип [Lines](T_TFlex_Configuration_Lines.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

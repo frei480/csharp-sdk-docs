@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectionFilterButtonClickEventArgs - свойства  
-  
----  
-  
+    
 Тип [SelectionFilterButtonClickEventArgs](T_TFlex_Command_SelectionFilterButtonClickEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

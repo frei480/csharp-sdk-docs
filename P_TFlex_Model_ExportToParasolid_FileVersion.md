@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToParasolidFileVersion - свойство  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Версия выходного файла

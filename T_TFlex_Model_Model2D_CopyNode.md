@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyNode - класс  
-  
----  
-  
+    
 Класс узла, полученного ассоциативным копированием
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.Model2DNode](T_TFlex_Model_Model2D_Node.md) TFlex.Model.Model2DCopyNode

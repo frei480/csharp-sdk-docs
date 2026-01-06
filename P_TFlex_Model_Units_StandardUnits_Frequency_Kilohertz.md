@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsFrequencyKilohertz - свойство  
-  
----  
-  
+    
 Килогерц; кГц; kHz; 
 
 Тип - Частота

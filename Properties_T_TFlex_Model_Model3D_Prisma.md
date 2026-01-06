@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Prisma - свойства  
-  
----  
-  
+    
 Тип [Prisma](T_TFlex_Model_Model3D_Prisma.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

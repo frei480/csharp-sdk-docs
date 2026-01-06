@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Weld - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Weld](M_TFlex_Configuration_Weld__ctor.md) | Инициализирует новый экземпляр класса [Weld](T_TFlex_Configuration_Weld.md) |

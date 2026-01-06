@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FrameControl - методы  
-  
----  
-  
+    
 Тип [FrameControl](T_TFlex_Dialogs_FrameControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

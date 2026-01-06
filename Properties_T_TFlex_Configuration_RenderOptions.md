@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RenderOptions - свойства  
-  
----  
-  
+    
 Тип [RenderOptions](T_TFlex_Configuration_RenderOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementGetValue - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetValue(Guid)](M_TFlex_Model_Structure_Element_GetValue.md) |  |

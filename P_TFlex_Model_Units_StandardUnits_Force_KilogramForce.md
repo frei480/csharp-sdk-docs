@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsForceKilogramForce - свойство  
-  
----  
-  
+    
 Килограмм-сила; кГ; kgf; 
 
 Тип - Сила

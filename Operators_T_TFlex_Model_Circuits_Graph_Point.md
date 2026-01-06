@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Point - операторы  
-  
----  
-  
+    
 Тип [Point](T_TFlex_Model_Circuits_Graph_Point.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

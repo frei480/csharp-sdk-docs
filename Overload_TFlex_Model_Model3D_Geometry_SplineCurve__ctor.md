@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplineCurve - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SplineCurve(PiecewiseData)](M_TFlex_Model_Model3D_Geometry_SplineCurve__ctor.md) | Создание сплайна по набору сегментов |

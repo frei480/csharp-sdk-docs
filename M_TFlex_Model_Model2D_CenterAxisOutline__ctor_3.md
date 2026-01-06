@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CenterAxisOutline(Document, Outline, CenterAxisOutlineCenterAxisType, Outline, Outline, Outline, Node, Node) - конструктор  
-  
----  
-  
+    
 Конструктор для создания оси от центра, заданного дугой или окружностью изображения
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # View3DDrawStyle - структура  
-  
----  
-  
+    
 Стиль изображения в 3D окне
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemValueType](https://learn.microsoft.com/dotnet/api/system.valuetype) TFlex.Model.Model3DView3DDrawStyle

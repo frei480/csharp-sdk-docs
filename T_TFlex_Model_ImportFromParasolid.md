@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFromParasolid - класс  
-  
----  
-  
+    
 Класс, импортирующий документы Parasolid
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelImportFromParasolid

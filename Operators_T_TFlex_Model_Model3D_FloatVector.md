@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FloatVector - операторы и преобразования типов  
-  
----  
-  
+    
 Тип [FloatVector](T_TFlex_Model_Model3D_FloatVector.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

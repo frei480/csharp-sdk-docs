@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngularAccelerationRevolutionsPerSquareMinute - свойство  
-  
----  
-  
+    
 Оборотов на минуту в квадрате; об/мин²; r/min²; 
 
 Тип - Угловое ускорение

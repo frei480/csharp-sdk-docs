@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelParametricCurve - свойства  
-  
----  
-  
+    
 Тип [ModelParametricCurve](T_TFlex_Model_Model3D_Geometry_ModelParametricCurve.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

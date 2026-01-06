@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StringManagerLoadResourceFile - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [LoadResourceFile(String)](M_TFlex_StringManager_LoadResourceFile.md) | Загружает строки из файла в формате Microsoft ResX |

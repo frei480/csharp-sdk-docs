@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginCreateFloatingWindow(UInt32, String) - метод  
-  
----  
-  
+    
 Создать плавающее окно приложения
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

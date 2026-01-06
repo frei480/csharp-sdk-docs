@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LibraryConfigurationsClose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Close(Int32)](M_TFlex_LibraryConfigurations_Close.md) | Закрыть конфигурацию с указанным номером |

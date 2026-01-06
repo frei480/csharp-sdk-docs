@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Weld - методы  
-  
----  
-  
+    
 Тип [Weld](T_TFlex_Configuration_Weld.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

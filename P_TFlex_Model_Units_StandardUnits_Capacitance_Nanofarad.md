@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCapacitanceNanofarad - свойство  
-  
----  
-  
+    
 Нанофарад; нФ; nF; 
 
 Тип - Электроёмкость

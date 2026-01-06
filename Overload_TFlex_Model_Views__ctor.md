@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Views - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Views(Document)](M_TFlex_Model_Views__ctor.md) | Конструктор по умолчанию |

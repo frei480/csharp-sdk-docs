@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircleArcGeometry - класс  
-  
----  
-  
+    
 Класс 2D геометрии - дуга окружности
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model2DObjectGeometry](T_TFlex_Model_Model2D_ObjectGeometry.md) TFlex.Model.Model2DCircleArcGeometry

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngularAcceleration - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Угловое ускорение
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsAngularAcceleration

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConductorSetBaseSwapConductors - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SwapConductors(IEnumerableInt32, IEnumerableInt32)](M_TFlex_Model_Model3D_ConductorSetBase_SwapConductors.md) |  |

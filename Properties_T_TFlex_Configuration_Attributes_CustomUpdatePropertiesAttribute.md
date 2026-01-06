@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomUpdatePropertiesAttribute - свойства  
-  
----  
-  
+    
 Тип [CustomUpdatePropertiesAttribute](T_TFlex_Configuration_Attributes_CustomUpdatePropertiesAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

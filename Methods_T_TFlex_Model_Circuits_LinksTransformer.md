@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinksTransformer - методы  
-  
----  
-  
+    
 Тип [LinksTransformer](T_TFlex_Model_Circuits_LinksTransformer.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

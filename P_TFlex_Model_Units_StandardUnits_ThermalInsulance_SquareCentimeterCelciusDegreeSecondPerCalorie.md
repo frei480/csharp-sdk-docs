@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsThermalInsulanceSquareCentimeterCelciusDegreeSecondPerCalorie - свойство  
-  
----  
-  
+    
 Квадратный сантиметр градус Цельсия секунда на калорию; см²·°C·с/кал; cm²·°C·s/cal; 
 
 Тип - Поверхностное тепловое сопротивление

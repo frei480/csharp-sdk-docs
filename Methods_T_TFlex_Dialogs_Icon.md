@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Icon - методы  
-  
----  
-  
+    
 Тип [Icon](T_TFlex_Dialogs_Icon.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

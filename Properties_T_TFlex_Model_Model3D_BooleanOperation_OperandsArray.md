@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OperandsArray - свойства  
-  
----  
-  
+    
 Тип [BooleanOperationOperandsArray](T_TFlex_Model_Model3D_BooleanOperation_OperandsArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

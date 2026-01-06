@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlFilter - класс  
-  
----  
-  
+    
 Базовый класс источника данных для поиска объектов в ObjectSelectControl
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) TFlex.DialogsObjectSelectControlFilter [TFlex.DialogsObjectSelectControlFilterSimple](T_TFlex_Dialogs_ObjectSelectControlFilterSimple.md)

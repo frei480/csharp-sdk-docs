@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplineConstructionAddPoint - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddPoint(Node)](M_TFlex_Model_Model2D_SplineConstruction_AddPoint_2.md) | Добавить точку |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Snaps - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Snaps](M_TFlex_Configuration_Snaps__ctor.md) | Инициализирует новый экземпляр класса [Snaps](T_TFlex_Configuration_Snaps.md) |

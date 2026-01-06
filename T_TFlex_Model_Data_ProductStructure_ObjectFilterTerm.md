@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectFilterTerm - класс  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Data.ProductStructureObjectFilterTerm

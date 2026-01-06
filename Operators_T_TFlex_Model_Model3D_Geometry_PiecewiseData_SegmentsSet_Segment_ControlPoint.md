@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlPoint - преобразования типов  
-  
----  
-  
+    
 Тип [PiecewiseDataSegmentsSetSegmentControlPoint](T_TFlex_Model_Model3D_Geometry_PiecewiseData_SegmentsSet_Segment_ControlPoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

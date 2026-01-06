@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointOnPathManipulator - методы  
-  
----  
-  
+    
 Тип [PointOnPathManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_PointOnPathManipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

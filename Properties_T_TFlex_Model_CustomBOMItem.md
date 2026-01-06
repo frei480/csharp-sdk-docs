@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomBOMItem - свойства  
-  
----  
-  
+    
 Тип [CustomBOMItem](T_TFlex_Model_CustomBOMItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

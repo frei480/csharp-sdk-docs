@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToVRML - свойства  
-  
----  
-  
+    
 Тип [ExportToVRML](T_TFlex_Model_ExportToVRML.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentOpenPart - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [OpenPart](M_TFlex_Model_Model2D_Fragment_OpenPart.md) | Создать деталировку |

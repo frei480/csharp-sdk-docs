@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThickenExtrusion - класс  
-  
----  
-  
+    
 Операция выталкивания по вектору или приданием толщины
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DOperation](T_TFlex_Model_Model3D_Operation.md) [TFlex.Model.Model3DSweep](T_TFlex_Model_Model3D_Sweep.md) [TFlex.Model.Model3DExtrusion](T_TFlex_Model_Model3D_Extrusion.md) TFlex.Model.Model3DThickenExtrusion

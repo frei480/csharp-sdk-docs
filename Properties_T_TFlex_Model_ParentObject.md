@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParentObject - свойства  
-  
----  
-  
+    
 Тип [ParentObject](T_TFlex_Model_ParentObject.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

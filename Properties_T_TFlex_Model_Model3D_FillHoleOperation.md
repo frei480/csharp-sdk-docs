@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FillHoleOperation - свойства  
-  
----  
-  
+    
 Тип [FillHoleOperation](T_TFlex_Model_Model3D_FillHoleOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

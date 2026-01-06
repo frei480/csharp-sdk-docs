@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Currency - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsCurrency](T_TFlex_Model_Units_StandardUnits_Currency.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

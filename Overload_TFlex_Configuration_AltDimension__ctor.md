@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AltDimension - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AltDimension](M_TFlex_Configuration_AltDimension__ctor.md) | Инициализирует новый экземпляр класса [AltDimension](T_TFlex_Configuration_AltDimension.md) |

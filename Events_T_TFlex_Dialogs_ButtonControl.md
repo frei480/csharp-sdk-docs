@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ButtonControl - события  
-  
----  
-  
+    
 Тип [ButtonControl](T_TFlex_Dialogs_ButtonControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

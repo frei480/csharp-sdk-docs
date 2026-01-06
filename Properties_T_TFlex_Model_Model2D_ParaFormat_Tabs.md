@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Tabs - свойства  
-  
----  
-  
+    
 Тип [ParaFormatTabs](T_TFlex_Model_Model2D_ParaFormat_Tabs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

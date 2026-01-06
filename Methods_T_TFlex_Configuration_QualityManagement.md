@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # QualityManagement - методы  
-  
----  
-  
+    
 Тип [QualityManagement](T_TFlex_Configuration_QualityManagement.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

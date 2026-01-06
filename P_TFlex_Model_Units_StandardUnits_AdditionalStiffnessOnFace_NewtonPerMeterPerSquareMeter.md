@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAdditionalStiffnessOnFaceNewtonPerMeterPerSquareMeter - свойство  
-  
----  
-  
+    
 Ньютон на метр на квадратный метр; (Н/м)/м²; (N/m)m²; 
 
 Тип - Дополнительная жёсткость на грань

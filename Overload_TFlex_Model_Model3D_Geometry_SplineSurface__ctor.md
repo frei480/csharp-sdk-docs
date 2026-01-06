@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplineSurface - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SplineSurface(SurfacePiecewiseData)](M_TFlex_Model_Model3D_Geometry_SplineSurface__ctor.md) | Создание сплайновой поверхности по набору сегментов |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SourceFile - свойства  
-  
----  
-  
+    
 Тип [SourceFile](T_TFlex_Model_Structure_SourceFile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

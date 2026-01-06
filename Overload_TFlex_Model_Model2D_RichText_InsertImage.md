@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextInsertImage - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [InsertImage](M_TFlex_Model_Model2D_RichText_InsertImage.md) | Вставка изображения с указанием ссылки |

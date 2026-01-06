@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementInfo - методы  
-  
----  
-  
+    
 Тип [FragmentFileUserDataProductStructureDataElementInfo](T_TFlex_Model_Model2D_Fragment_FileUserData_ProductStructureData_ElementInfo.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

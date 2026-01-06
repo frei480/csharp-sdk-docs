@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentMacroExists - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [MacroExists(String)](M_TFlex_Model_Document_MacroExists.md) | Проверка наличия макроса с указанным именем |

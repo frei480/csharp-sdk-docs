@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SpunSurface - свойства  
-  
----  
-  
+    
 Тип [SpunSurface](T_TFlex_Model_Model3D_Geometry_SpunSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

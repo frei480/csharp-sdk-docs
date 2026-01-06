@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NodePoint - свойства  
-  
----  
-  
+    
 Тип [LoftOperationNodePoint](T_TFlex_Model_Model3D_LoftOperation_NodePoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

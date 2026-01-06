@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PopupToolBarButtonSet - методы  
-  
----  
-  
+    
 Тип [PopupToolBarButtonSet](T_TFlex_PopupToolBarButtonSet.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OffsetConstruction - свойства  
-  
----  
-  
+    
 Тип [OffsetConstruction](T_TFlex_Model_Model2D_OffsetConstruction.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

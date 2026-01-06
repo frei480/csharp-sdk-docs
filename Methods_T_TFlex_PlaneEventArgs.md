@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PlaneEventArgs - методы  
-  
----  
-  
+    
 Тип [PlaneEventArgs](T_TFlex_PlaneEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorsionalStrengthMillinewtonPerMeter - свойство  
-  
----  
-  
+    
 Миллиньютон на метр; мН/м; mN/m; 
 
 Тип - Прочность кручения

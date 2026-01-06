@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureReportSupport - класс  
-  
----  
-  
+    
 Auxiliary class for product structure report generation
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelProductStructureReportSupport

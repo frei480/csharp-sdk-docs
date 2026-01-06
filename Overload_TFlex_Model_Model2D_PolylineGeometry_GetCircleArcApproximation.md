@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PolylineGeometryGetCircleArcApproximation - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetCircleArcApproximation(Double)](M_TFlex_Model_Model2D_PolylineGeometry_GetCircleArcApproximation.md) | Аппроксимация дугами окружности. |

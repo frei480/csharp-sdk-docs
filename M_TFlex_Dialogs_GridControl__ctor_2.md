@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GridControl(String, Int32, Int32) - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [GridControl](T_TFlex_Dialogs_GridControl.md)
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

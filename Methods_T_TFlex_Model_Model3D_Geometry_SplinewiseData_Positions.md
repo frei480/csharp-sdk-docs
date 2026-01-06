@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Positions - методы  
-  
----  
-  
+    
 Тип [SplinewiseDataPositions](T_TFlex_Model_Model3D_Geometry_SplinewiseData_Positions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

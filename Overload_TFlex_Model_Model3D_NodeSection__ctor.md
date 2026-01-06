@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NodeSection - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [NodeSection(Document)](M_TFlex_Model_Model3D_NodeSection__ctor.md) | Конструктор для создания сечения по 2D узлам |

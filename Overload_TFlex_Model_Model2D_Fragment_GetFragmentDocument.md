@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentGetFragmentDocument - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetFragmentDocument](M_TFlex_Model_Model2D_Fragment_GetFragmentDocument.md) | Получить документ фрамента |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LabelDispose - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Dispose](M_TFlex_Model_Model3D_Visual_Label_Dispose.md) | Освобождает все ресурсы, используемые объектом [Label](T_TFlex_Model_Model3D_Visual_Label.md) |

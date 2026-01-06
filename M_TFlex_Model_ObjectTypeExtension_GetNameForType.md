@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectTypeExtensionGetNameForType - метод  
-  
----  
-  
+    
 Получить локализованное имя типа объекта или null если имя не задано
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

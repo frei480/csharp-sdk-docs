@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReferenceLCS - свойства  
-  
----  
-  
+    
 Тип [ReferenceLCS](T_TFlex_Model_Model3D_ReferenceLCS.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

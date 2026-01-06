@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyOperation - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ProxyOperation](M_TFlex_Model_Model3D_ProxyOperation__ctor.md) | Инициализирует новый экземпляр класса [ProxyOperation](T_TFlex_Model_Model3D_ProxyOperation.md) |

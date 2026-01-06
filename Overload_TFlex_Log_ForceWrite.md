@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogForceWrite - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ForceWrite(LogSeverity, String)](M_TFlex_Log_ForceWrite.md) |  |

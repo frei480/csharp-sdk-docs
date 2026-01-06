@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyObject3D - методы  
-  
----  
-  
+    
 Тип [ProxyObject3D](T_TFlex_Model_Model3D_ProxyObject3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

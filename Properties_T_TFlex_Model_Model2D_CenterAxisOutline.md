@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CenterAxisOutline - свойства  
-  
----  
-  
+    
 Тип [CenterAxisOutline](T_TFlex_Model_Model2D_CenterAxisOutline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

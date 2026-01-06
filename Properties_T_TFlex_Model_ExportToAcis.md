@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToAcis - свойства  
-  
----  
-  
+    
 Тип [ExportToAcis](T_TFlex_Model_ExportToAcis.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogWrite - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Write(LogSeverity, String)](M_TFlex_Log_Write.md) |  |

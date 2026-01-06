@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HeightParameters - методы  
-  
----  
-  
+    
 Тип [RoughnessSymbolHeightParameters](T_TFlex_Model_Model2D_RoughnessSymbol_HeightParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

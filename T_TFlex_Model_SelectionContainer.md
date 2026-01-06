@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectionContainer - класс  
-  
----  
-  
+    
 Класс контейнера выбранных объектов.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelSelectionContainer

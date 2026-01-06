@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # XyzVector - методы  
-  
----  
-  
+    
 Тип [LoftXyzVector](T_TFlex_Model_Model3D_Loft_XyzVector.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

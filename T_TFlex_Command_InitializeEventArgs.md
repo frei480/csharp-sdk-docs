@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InitializeEventArgs - класс  
-  
----  
-  
+    
 Класс аргументов события, возникающего при инициализации команды приложения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemEventArgs](https://learn.microsoft.com/dotnet/api/system.eventargs) [TFlex.CommandCommandEventArgs](T_TFlex_Command_CommandEventArgs.md) TFlex.CommandInitializeEventArgs

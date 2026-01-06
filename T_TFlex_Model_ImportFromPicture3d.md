@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportFromPicture3d - класс  
-  
----  
-  
+    
 Класс импорта из множества форматов(tf3d, iv, wrl, x3d, 3ds, ply, obj, stl, 3mf, gltf, gtlb, ...)
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelImportFromPicture3d

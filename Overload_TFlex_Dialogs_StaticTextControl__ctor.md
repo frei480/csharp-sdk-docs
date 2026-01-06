@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StaticTextControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [StaticTextControl](M_TFlex_Dialogs_StaticTextControl__ctor.md) | Инициализирует новый экземпляр класса [StaticTextControl](T_TFlex_Dialogs_StaticTextControl.md) |

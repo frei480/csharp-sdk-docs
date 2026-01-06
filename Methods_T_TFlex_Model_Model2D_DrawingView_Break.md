@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Break - методы  
-  
----  
-  
+    
 Тип [DrawingViewBreak](T_TFlex_Model_Model2D_DrawingView_Break.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

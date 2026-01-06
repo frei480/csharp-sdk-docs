@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ForcedCultureResourcesTypeAttribute - методы  
-  
----  
-  
+    
 Тип [ForcedCultureResourcesTypeAttribute](T_TFlex_ForcedCultureResourcesTypeAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

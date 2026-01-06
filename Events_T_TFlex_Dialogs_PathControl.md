@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PathControl - события  
-  
----  
-  
+    
 Тип [PathControl](T_TFlex_Dialogs_PathControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

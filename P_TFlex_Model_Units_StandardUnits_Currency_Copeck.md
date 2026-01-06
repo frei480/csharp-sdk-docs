@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCurrencyCopeck - свойство  
-  
----  
-  
+    
 Копейка; коп; cop; 
 
 Тип - Валюта

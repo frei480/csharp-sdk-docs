@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircleDragger - методы  
-  
----  
-  
+    
 Тип [CircleDragger](T_TFlex_Model_Model3D_Visual_CircleDragger.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

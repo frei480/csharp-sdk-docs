@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationContainer - методы  
-  
----  
-  
+    
 Тип [DecorationContainer](T_TFlex_Model_Model3D_Visual_DecorationContainer.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

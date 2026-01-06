@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearSizeManipulator - методы  
-  
----  
-  
+    
 Тип [LinearSizeManipulator](T_TFlex_Model_Model3D_Visual_Manipulators_LinearSizeManipulator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

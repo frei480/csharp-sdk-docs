@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseGenerator - класс  
-  
----  
-  
+    
 Базовый класс для всех генераторов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryBaseGenerator [TFlex.Model.Model3D.GeometryBodyGenerator](T_TFlex_Model_Model3D_Geometry_BodyGenerator.md)

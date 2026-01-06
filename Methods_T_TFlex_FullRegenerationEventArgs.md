@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FullRegenerationEventArgs - методы  
-  
----  
-  
+    
 Тип [FullRegenerationEventArgs](T_TFlex_FullRegenerationEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

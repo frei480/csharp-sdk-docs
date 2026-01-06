@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DrawingViewSpecialElementsRemove - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Remove(ObjectId)](M_TFlex_Model_Model2D_DrawingView_SpecialElements_Remove_1.md) | Удалить особый элемент оформления |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToBitmapExport - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Export(ImageExport)](M_TFlex_Model_ExportToBitmap_Export_3.md) | Функция экспорта документа |

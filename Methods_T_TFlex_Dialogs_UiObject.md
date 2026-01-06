@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UiObject - методы  
-  
----  
-  
+    
 Тип [UiObject](T_TFlex_Dialogs_UiObject.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

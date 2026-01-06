@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationForceCulture - метод  
-  
----  
-  
+    
 Принудительно выставить локализацию текущему потому. Использовать в using-e.
 
 **Пространство имён:** [TFlex](N_TFlex.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

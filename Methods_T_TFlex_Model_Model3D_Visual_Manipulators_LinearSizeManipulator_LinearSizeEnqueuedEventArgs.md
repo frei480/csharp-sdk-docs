@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearSizeEnqueuedEventArgs - методы  
-  
----  
-  
+    
 Тип [LinearSizeManipulatorLinearSizeEnqueuedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_LinearSizeManipulator_LinearSizeEnqueuedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

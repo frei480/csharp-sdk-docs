@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReferenceNode3D - свойства  
-  
----  
-  
+    
 Тип [ReferenceNode3D](T_TFlex_Model_Model3D_ReferenceNode3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

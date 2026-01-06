@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UVBox - свойства  
-  
----  
-  
+    
 Тип [UVBox](T_TFlex_Model_Model3D_Geometry_UVBox.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

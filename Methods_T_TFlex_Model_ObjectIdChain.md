@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectIdChain - методы  
-  
----  
-  
+    
 Тип [ObjectIdChain](T_TFlex_Model_ObjectIdChain.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

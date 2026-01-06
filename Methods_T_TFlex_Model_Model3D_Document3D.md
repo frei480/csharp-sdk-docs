@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Document3D - методы  
-  
----  
-  
+    
 Тип [Document3D](T_TFlex_Model_Model3D_Document3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

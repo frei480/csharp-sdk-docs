@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AssemblyContextData - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelAssemblyContextData [TFlex.ModelAssemblyContextData2D](T_TFlex_Model_AssemblyContextData2D.md) [TFlex.Model.Model3DAssemblyContextData3D](T_TFlex_Model_Model3D_AssemblyContextData3D.md)
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

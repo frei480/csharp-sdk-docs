@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DirectionVector - методы  
-  
----  
-  
+    
 Тип [LoftDirectionVector](T_TFlex_Model_Model3D_Loft_DirectionVector.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

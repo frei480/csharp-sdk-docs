@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometryData - свойства  
-  
----  
-  
+    
 Тип [WorkplaneGeometryData](T_TFlex_Model_Model3D_Workplane_GeometryData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

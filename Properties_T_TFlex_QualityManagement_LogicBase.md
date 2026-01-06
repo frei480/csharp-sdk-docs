@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogicBase - свойства  
-  
----  
-  
+    
 Тип [LogicBase](T_TFlex_QualityManagement_LogicBase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

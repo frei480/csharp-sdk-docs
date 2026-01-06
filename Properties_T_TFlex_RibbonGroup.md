@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonGroup - свойства  
-  
----  
-  
+    
 Тип [RibbonGroup](T_TFlex_RibbonGroup.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

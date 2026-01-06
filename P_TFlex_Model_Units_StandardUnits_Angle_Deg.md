@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAngleDeg - свойство  
-  
----  
-  
+    
 Град; град; gon; 
 
 Тип - Угол

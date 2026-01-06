@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Fragment3DUpdateVariablesFromFragmentDocument - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [UpdateVariablesFromFragmentDocument](M_TFlex_Model_Model3D_Fragment3D_UpdateVariablesFromFragmentDocument.md) | Обновить все переменные фрагмента по документу фрагмента |

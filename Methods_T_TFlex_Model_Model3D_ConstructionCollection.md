@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConstructionCollection - методы  
-  
----  
-  
+    
 Тип [ConstructionCollection](T_TFlex_Model_Model3D_ConstructionCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StringMap - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [StringMap](T_TFlex_Configuration_StringMap.md)
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

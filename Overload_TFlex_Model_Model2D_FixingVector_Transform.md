@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixingVectorTransform - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Transform(ValueType)](M_TFlex_Model_Model2D_FixingVector_Transform.md) |  |

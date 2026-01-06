@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StructureElementsManagerLoadFromSource - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [LoadFromSource(SourceLoadParameters)](M_TFlex_Model_Structure_StructureElementsManager_LoadFromSource.md) |  |

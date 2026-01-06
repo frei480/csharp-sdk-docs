@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Decoration - класс  
-  
----  
-  
+    
 Декорация
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.VisualDecoration [TFlex.Model.Model3D.VisualDecorationContainer](T_TFlex_Model_Model3D_Visual_DecorationContainer.md) [TFlex.Model.Model3D.VisualDecorationShape](T_TFlex_Model_Model3D_Visual_DecorationShape.md)

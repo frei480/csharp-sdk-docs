@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectionContainerExtensionsSelectSubFragment - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SelectSubFragment(SelectionContainer, Fragment3D, IEnumerableObjectId)](M_TFlex_Model_SelectionContainerExtensions_SelectSubFragment.md) |  |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformFacesArray - методы  
-  
----  
-  
+    
 Тип [FaceTransformTransformFacesArray](T_TFlex_Model_Model3D_FaceTransform_TransformFacesArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

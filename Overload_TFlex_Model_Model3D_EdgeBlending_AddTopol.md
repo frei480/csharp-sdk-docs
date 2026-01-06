@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # EdgeBlendingAddTopol - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [AddTopol(ModelTopol)](M_TFlex_Model_Model3D_EdgeBlending_AddTopol.md) | Добавить топологию с общими атрибутами |

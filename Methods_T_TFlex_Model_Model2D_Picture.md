@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Picture - методы  
-  
----  
-  
+    
 Тип [Picture](T_TFlex_Model_Model2D_Picture.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

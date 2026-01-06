@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfaceSetDevelopmentProfile - методы  
-  
----  
-  
+    
 Тип [SurfaceSetDevelopmentProfile](T_TFlex_Model_Model3D_SurfaceSetDevelopmentProfile.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

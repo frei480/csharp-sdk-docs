@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomFilter - методы  
-  
----  
-  
+    
 Тип [CustomFilter](T_TFlex_Model_CustomFilter.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

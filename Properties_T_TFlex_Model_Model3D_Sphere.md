@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Sphere - свойства  
-  
----  
-  
+    
 Тип [Sphere](T_TFlex_Model_Model3D_Sphere.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

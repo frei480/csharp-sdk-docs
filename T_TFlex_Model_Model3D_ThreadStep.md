@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreadStep - класс  
-  
----  
-  
+    
 Параметры шага резьбы
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DThreadStep

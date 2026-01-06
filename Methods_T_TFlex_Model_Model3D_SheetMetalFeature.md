@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SheetMetalFeature - методы  
-  
----  
-  
+    
 Тип [SheetMetalFeature](T_TFlex_Model_Model3D_SheetMetalFeature.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

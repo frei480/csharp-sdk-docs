@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FixTaskEntriesCollection - класс  
-  
----  
-  
+    
 Коллекция записей результата проверки для задачи по исправлению
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.QualityManagementFixTaskEntriesCollection

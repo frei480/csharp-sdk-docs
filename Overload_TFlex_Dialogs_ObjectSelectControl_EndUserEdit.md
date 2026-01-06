@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlEndUserEdit - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [EndUserEdit](M_TFlex_Dialogs_ObjectSelectControl_EndUserEdit.md) | Завершить операцию пользовательского добавления/редактирования объектов |

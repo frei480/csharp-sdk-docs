@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ShellGenerator - свойства  
-  
----  
-  
+    
 Тип [ShellGenerator](T_TFlex_Model_Model3D_Geometry_ShellGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

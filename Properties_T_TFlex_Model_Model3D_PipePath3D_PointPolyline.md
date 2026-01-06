@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PointPolyline - свойства  
-  
----  
-  
+    
 Тип [PipePath3DPointPolyline](T_TFlex_Model_Model3D_PipePath3D_PointPolyline.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

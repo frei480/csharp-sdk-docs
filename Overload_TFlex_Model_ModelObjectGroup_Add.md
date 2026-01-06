@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelObjectGroupAdd - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Add(ModelObject)](M_TFlex_Model_ModelObjectGroup_Add.md) | Добавление объекта в группу |

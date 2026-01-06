@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Coords - методы  
-  
----  
-  
+    
 Тип [Coords](T_TFlex_Coords.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

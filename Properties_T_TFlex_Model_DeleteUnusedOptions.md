@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DeleteUnusedOptions - свойства  
-  
----  
-  
+    
 Тип [DeleteUnusedOptions](T_TFlex_Model_DeleteUnusedOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

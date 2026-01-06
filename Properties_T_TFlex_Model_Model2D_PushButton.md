@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PushButton - свойства  
-  
----  
-  
+    
 Тип [PushButton](T_TFlex_Model_Model2D_PushButton.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

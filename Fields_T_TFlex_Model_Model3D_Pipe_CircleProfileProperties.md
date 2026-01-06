@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircleProfileProperties - поля  
-  
----  
-  
+    
 Тип [PipeCircleProfileProperties](T_TFlex_Model_Model3D_Pipe_CircleProfileProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

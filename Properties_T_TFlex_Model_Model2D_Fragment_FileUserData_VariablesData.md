@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariablesData - свойства  
-  
----  
-  
+    
 Тип [FragmentFileUserDataVariablesData](T_TFlex_Model_Model2D_Fragment_FileUserData_VariablesData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationOpenDocumentFromDOCs(Int32, Boolean, Boolean) - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 T-FLEX DOCs 11 больше не поддерживается

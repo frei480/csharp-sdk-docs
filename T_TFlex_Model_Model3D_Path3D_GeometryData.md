@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Path3DGeometryData - класс  
-  
----  
-  
+    
 Множество геометрических данных пути
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DPath3DGeometryData

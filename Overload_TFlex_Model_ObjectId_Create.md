@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectIdCreate - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Create(UInt32)](M_TFlex_Model_ObjectId_Create.md) | Возвращает новый ObjectId, если oldID корректный. Иначе возвращает null. |

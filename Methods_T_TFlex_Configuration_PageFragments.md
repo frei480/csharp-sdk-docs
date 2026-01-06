@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PageFragments - методы  
-  
----  
-  
+    
 Тип [PageFragments](T_TFlex_Configuration_PageFragments.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectArray(ModelObject) - конструктор  
-  
----  
-  
+    
 Конструктор, добавляющий в массив один объект
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

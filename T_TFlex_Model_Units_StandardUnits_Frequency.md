@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsFrequency - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Частота
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsFrequency

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InvalidNodeException - методы  
-  
----  
-  
+    
 Тип [SceneNodeInvalidNodeException](T_TFlex_Model_Model3D_Visual_SceneNode_InvalidNodeException.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

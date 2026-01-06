@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinePatternType - свойства  
-  
----  
-  
+    
 Тип [LinePatternType](T_TFlex_Drawing_LinePatternType.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

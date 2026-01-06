@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsPressureNewtonPerSquareMeter - свойство  
-  
----  
-  
+    
 Ньютон на квадратный метр; Н/м²; N/m²; 
 
 Тип - Давление

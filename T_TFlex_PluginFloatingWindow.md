@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PluginFloatingWindow - класс  
-  
----  
-  
+    
 Класс, представляющий плавающее окно приложения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlexPluginFloatingWindow

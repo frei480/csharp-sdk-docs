@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UDF - методы  
-  
----  
-  
+    
 Тип [UDF](T_TFlex_Model_Model3D_UDF.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

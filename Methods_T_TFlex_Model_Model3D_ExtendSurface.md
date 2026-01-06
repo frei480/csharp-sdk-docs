@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExtendSurface - методы  
-  
----  
-  
+    
 Тип [ExtendSurface](T_TFlex_Model_Model3D_ExtendSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsDampingCoefficientKilogramForceSecondPerCentimeter - свойство  
-  
----  
-  
+    
 Килограмм-сила-секунда на сантиметр; кГ·с/см; kgf·s/cm; 
 
 Тип - Коэффициент демпфирования

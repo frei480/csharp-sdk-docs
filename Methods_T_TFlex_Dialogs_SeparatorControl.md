@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SeparatorControl - методы  
-  
----  
-  
+    
 Тип [SeparatorControl](T_TFlex_Dialogs_SeparatorControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsSpecificHeatCapacity - класс  
-  
----  
-  
+    
 Тип единицы измерения (физическая величина) Удельная теплоемкость
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.UnitsStandardUnitsSpecificHeatCapacity

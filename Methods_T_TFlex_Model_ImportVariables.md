@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ImportVariables - методы  
-  
----  
-  
+    
 Тип [ImportVariables](T_TFlex_Model_ImportVariables.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

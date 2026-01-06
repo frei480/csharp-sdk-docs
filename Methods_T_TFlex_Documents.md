@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Documents - методы  
-  
----  
-  
+    
 Тип [Documents](T_TFlex_Documents.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

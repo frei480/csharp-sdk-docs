@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TableFunction - свойства  
-  
----  
-  
+    
 Тип [TableFunction](T_TFlex_Model_Model3D_TableFunction.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

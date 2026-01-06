@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelConfigurationsLoadConfigurationSolids - метод  
-  
----  
-  
+    
 Загрузка тел в текущую модель из конфигурации с именем Name
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

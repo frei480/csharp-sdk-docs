@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomDynamicBrowsableAttribute - методы  
-  
----  
-  
+    
 Тип [CustomDynamicBrowsableAttribute](T_TFlex_Configuration_Attributes_CustomDynamicBrowsableAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

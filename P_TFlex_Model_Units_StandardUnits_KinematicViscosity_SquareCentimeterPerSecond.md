@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsKinematicViscositySquareCentimeterPerSecond - свойство  
-  
----  
-  
+    
 Квадратный сантиметр в секунду; см²/c; cm²/s; 
 
 Тип - Кинематическая вязкость

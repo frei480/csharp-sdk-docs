@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SheetMetalPart - методы  
-  
----  
-  
+    
 Тип [SheetMetalPart](T_TFlex_Model_Model3D_SheetMetalPart.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RectanglePipe - методы  
-  
----  
-  
+    
 Тип [RectanglePipe](T_TFlex_Model_Model3D_RectanglePipe.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

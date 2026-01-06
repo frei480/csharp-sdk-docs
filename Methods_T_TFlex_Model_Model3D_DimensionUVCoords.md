@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DimensionUVCoords - методы  
-  
----  
-  
+    
 Тип [DimensionUVCoords](T_TFlex_Model_Model3D_DimensionUVCoords.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

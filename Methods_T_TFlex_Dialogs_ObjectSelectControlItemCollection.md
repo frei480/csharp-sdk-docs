@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlItemCollection - методы  
-  
----  
-  
+    
 Тип [ObjectSelectControlItemCollection](T_TFlex_Dialogs_ObjectSelectControlItemCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

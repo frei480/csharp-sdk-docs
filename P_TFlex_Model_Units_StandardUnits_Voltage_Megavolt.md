@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsVoltageMegavolt - свойство  
-  
----  
-  
+    
 Мегавольт; МВ; MV; 
 
 Тип - Напряжение

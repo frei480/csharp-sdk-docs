@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConeSurface - свойства  
-  
----  
-  
+    
 Тип [ConeSurface](T_TFlex_Model_Model3D_Geometry_ConeSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

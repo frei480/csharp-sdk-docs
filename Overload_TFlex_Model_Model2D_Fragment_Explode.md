@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragmentExplode - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Explode(Boolean)](M_TFlex_Model_Model2D_Fragment_Explode.md) | Раскрыть фрагмент |

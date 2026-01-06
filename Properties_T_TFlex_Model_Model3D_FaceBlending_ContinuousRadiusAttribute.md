@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ContinuousRadiusAttribute - свойства  
-  
----  
-  
+    
 Тип [FaceBlendingContinuousRadiusAttribute](T_TFlex_Model_Model3D_FaceBlending_ContinuousRadiusAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

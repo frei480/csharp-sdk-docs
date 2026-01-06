@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearDensity - методы  
-  
----  
-  
+    
 Тип [StandardUnitsLinearDensity](T_TFlex_Model_Units_StandardUnits_LinearDensity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

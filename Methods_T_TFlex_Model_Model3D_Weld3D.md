@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Weld3D - методы  
-  
----  
-  
+    
 Тип [Weld3D](T_TFlex_Model_Model3D_Weld3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

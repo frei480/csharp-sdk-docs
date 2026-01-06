@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Screen - методы  
-  
----  
-  
+    
 Тип [Screen](T_TFlex_Configuration_Screen.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

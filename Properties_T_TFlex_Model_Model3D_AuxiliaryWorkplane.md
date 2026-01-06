@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AuxiliaryWorkplane - свойства  
-  
----  
-  
+    
 Тип [AuxiliaryWorkplane](T_TFlex_Model_Model3D_AuxiliaryWorkplane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

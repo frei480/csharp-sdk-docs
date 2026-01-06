@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CollectionT \- класс  
-  
----  
-  
+    
 Коллекция элементов
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsCollectionT [TFlex.DialogsListControlButtonCollection](T_TFlex_Dialogs_ListControlButtonCollection.md) [TFlex.DialogsListControlEditorCollection](T_TFlex_Dialogs_ListControlEditorCollection.md) [TFlex.DialogsObjectSelectControlItemCollection](T_TFlex_Dialogs_ObjectSelectControlItemCollection.md)

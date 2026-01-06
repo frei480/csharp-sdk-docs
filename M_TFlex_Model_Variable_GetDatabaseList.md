@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableGetDatabaseList - метод  
-  
----  
-  
+    
 Получить параметры для формирования списка значений на основе базы данных 
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

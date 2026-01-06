@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CircularArrayOperation - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CircularArrayOperation(Document)](M_TFlex_Model_Model3D_CircularArrayOperation__ctor.md) | Конструктор для операции "Круговой массив" |

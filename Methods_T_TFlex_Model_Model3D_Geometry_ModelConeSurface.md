@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelConeSurface - методы  
-  
----  
-  
+    
 Тип [ModelConeSurface](T_TFlex_Model_Model3D_Geometry_ModelConeSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

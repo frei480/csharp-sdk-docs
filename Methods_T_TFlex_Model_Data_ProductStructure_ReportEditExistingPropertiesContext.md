@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ReportEditExistingPropertiesContext - методы  
-  
----  
-  
+    
 Тип [ReportEditExistingPropertiesContext](T_TFlex_Model_Data_ProductStructure_ReportEditExistingPropertiesContext.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

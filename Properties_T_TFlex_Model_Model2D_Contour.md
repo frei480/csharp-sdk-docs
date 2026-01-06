@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Contour - свойства  
-  
----  
-  
+    
 Тип [Contour](T_TFlex_Model_Model2D_Contour.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

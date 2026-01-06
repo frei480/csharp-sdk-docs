@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectRepresentation - методы  
-  
----  
-  
+    
 Тип [ObjectRepresentation](T_TFlex_Model_Model3D_Visual_ObjectRepresentation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

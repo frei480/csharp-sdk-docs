@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PiecewiseDataSegmentsSet - класс  
-  
----  
-  
+    
 Упорядоченное множество сегментов - координаты точки и вес, если используется
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryPiecewiseDataSegmentsSet

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectControlItem - события  
-  
----  
-  
+    
 Тип [SelectControlItem](T_TFlex_Dialogs_SelectControlItem.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

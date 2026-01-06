@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CylinderWorkSurface - методы  
-  
----  
-  
+    
 Тип [CylinderWorkSurface](T_TFlex_Model_Model3D_CylinderWorkSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

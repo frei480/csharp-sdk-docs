@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseHarness3D - свойства  
-  
----  
-  
+    
 Тип [BaseHarness3D](T_TFlex_Model_Model3D_BaseHarness3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

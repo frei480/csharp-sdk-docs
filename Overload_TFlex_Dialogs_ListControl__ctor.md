@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ListControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ListControl](M_TFlex_Dialogs_ListControl__ctor.md) | Инициализирует новый экземпляр класса [ListControl](T_TFlex_Dialogs_ListControl.md) |

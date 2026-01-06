@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControlPlainObject - свойства  
-  
----  
-  
+    
 Тип [ObjectSelectControlPlainObject](T_TFlex_Dialogs_ObjectSelectControlPlainObject.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

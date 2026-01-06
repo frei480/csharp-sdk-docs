@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextProductStructureFile - свойство  
-  
----  
-  
+    
 Ссылка на документ состава изделия по которому создан текст, если текст является отчетом состава изделия
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

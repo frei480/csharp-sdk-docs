@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # KnotSequence - свойства  
-  
----  
-  
+    
 Тип [SurfaceSplineDataKnotSequence](T_TFlex_Model_Model3D_Geometry_SurfaceSplineData_KnotSequence.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

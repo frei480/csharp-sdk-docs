@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # HeatConvectionCoefficient - методы  
-  
----  
-  
+    
 Тип [StandardUnitsHeatConvectionCoefficient](T_TFlex_Model_Units_StandardUnits_HeatConvectionCoefficient.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

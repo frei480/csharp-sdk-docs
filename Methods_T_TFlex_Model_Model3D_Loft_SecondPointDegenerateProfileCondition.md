@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SecondPointDegenerateProfileCondition - методы  
-  
----  
-  
+    
 Тип [LoftSecondPointDegenerateProfileCondition](T_TFlex_Model_Model3D_Loft_SecondPointDegenerateProfileCondition.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometricArray - методы  
-  
----  
-  
+    
 Тип [GeometricArray](T_TFlex_Model_Model3D_Geometry_GeometricArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

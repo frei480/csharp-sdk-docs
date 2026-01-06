@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableBlendAttribute - методы  
-  
----  
-  
+    
 Тип [EdgeBlendingVariableBlendAttribute](T_TFlex_Model_Model3D_EdgeBlending_VariableBlendAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

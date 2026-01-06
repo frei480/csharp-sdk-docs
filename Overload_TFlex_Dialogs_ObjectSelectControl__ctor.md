@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControl - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ObjectSelectControl](M_TFlex_Dialogs_ObjectSelectControl__ctor.md) | Инициализирует новый экземпляр класса [ObjectSelectControl](T_TFlex_Dialogs_ObjectSelectControl.md) |

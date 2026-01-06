@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ElementInfo - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ElementInfo](M_TFlex_Model_Structure_ElementInfo__ctor.md) | Инициализирует новый экземпляр класса [ElementInfo](T_TFlex_Model_Structure_ElementInfo.md) |

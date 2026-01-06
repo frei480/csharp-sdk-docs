@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # UnloadBodyOptions - свойства  
-  
----  
-  
+    
 Тип [BodyPartUnloadBodyOptions](T_TFlex_Model_Model3D_BodyPart_UnloadBodyOptions.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

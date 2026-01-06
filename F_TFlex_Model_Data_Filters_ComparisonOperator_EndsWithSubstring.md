@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ComparisonOperatorEndsWithSubstring - поле  
-  
----  
-  
+    
 Возвращает оператор "Заканчивается на"
 
 **Пространство имён:** [TFlex.Model.Data.Filters](N_TFlex_Model_Data_Filters.md)**Сборка:** TFlexAPIData (в TFlexAPIData.dll) Версия: 17.1.20.0 (17.1.20.0)

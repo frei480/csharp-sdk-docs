@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearDimensionBase - методы  
-  
----  
-  
+    
 Тип [LinearDimensionBase](T_TFlex_Model_Model2D_LinearDimensionBase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

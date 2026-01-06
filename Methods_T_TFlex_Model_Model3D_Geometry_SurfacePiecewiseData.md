@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfacePiecewiseData - методы  
-  
----  
-  
+    
 Тип [SurfacePiecewiseData](T_TFlex_Model_Model3D_Geometry_SurfacePiecewiseData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

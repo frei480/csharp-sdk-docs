@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowElement - класс  
-  
----  
-  
+    
 Класс элемента структуры изделия
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) TFlex.ModelRowElement

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AngularAcceleration - методы  
-  
----  
-  
+    
 Тип [StandardUnitsAngularAcceleration](T_TFlex_Model_Units_StandardUnits_AngularAcceleration.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

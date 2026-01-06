@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PerpendicularToPathWorkplane - методы  
-  
----  
-  
+    
 Тип [PerpendicularToPathWorkplane](T_TFlex_Model_Model3D_PerpendicularToPathWorkplane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

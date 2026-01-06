@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Model.Data.Filters - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [ComparisonOperator](T_TFlex_Model_Data_Filters_ComparisonOperator.md) | Оператор сравнения |

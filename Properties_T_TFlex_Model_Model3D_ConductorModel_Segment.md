@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Segment - свойства  
-  
----  
-  
+    
 Тип [Segment](T_TFlex_Model_Model3D_ConductorModel_Segment.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

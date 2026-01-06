@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCapacitancePicofarad - свойство  
-  
----  
-  
+    
 Пикофарад; пФ; pF; 
 
 Тип - Электроёмкость

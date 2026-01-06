@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Restraint - свойства  
-  
----  
-  
+    
 Тип [Restraint](T_TFlex_Model_Model3D_Restraint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

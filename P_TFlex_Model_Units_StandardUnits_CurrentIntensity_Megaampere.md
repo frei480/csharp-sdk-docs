@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCurrentIntensityMegaampere - свойство  
-  
----  
-  
+    
 Мегаампер; МА; MA; 
 
 Тип - Сила тока

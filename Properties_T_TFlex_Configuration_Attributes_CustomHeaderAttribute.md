@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomHeaderAttribute - свойства  
-  
----  
-  
+    
 Тип [CustomHeaderAttribute](T_TFlex_Configuration_Attributes_CustomHeaderAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

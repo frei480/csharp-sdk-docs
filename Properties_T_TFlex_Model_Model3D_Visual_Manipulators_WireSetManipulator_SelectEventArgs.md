@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SelectEventArgs - свойства  
-  
----  
-  
+    
 Тип [WireSetManipulatorSelectEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_WireSetManipulator_SelectEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

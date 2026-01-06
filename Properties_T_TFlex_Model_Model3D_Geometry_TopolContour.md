@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TopolContour - свойства  
-  
----  
-  
+    
 Тип [TopolContour](T_TFlex_Model_Model3D_Geometry_TopolContour.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

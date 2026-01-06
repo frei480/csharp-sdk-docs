@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Collection - события  
-  
----  
-  
+    
 Тип [Collection](T_TFlex_Configuration_Collection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

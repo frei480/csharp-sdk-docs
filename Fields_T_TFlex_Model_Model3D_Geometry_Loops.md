@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Loops - поля  
-  
----  
-  
+    
 Тип [Loops](T_TFlex_Model_Model3D_Geometry_Loops.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

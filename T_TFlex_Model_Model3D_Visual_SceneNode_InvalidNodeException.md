@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SceneNodeInvalidNodeException - класс  
-  
----  
-  
+    
 Исключения этого класса выбрасываются при ошибке обращения к объектам класса SceneNode.
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemException](https://learn.microsoft.com/dotnet/api/system.exception) TFlex.Model.Model3D.VisualSceneNodeInvalidNodeException

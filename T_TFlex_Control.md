@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Control - класс  
-  
----  
-  
+    
 Класс визуального элемент управления, позволяющего отображать документы T-FLEX CAD в окне приложения
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemMarshalByRefObject](https://learn.microsoft.com/dotnet/api/system.marshalbyrefobject) [System.ComponentModelComponent](https://learn.microsoft.com/dotnet/api/system.componentmodel.component) [System.Windows.FormsControl](https://learn.microsoft.com/dotnet/api/system.windows.forms.control) TFlexControl

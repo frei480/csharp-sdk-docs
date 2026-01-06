@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BasePointInOffset - свойства  
-  
----  
-  
+    
 Тип [PipePath3DBasePointInOffset](T_TFlex_Model_Model3D_PipePath3D_BasePointInOffset.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

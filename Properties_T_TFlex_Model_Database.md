@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Database - свойства  
-  
----  
-  
+    
 Тип [Database](T_TFlex_Model_Database.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

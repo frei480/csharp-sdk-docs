@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DecorationNURBS - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [DecorationNURBS(String, FloatVector, Single)](M_TFlex_Model_Model3D_Visual_DecorationNURBS__ctor.md) | Конструктор |

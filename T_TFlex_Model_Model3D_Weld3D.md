@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Weld3D - класс  
-  
----  
-  
+    
 Класс 3D-сварного шва
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) TFlex.Model.Model3DWeld3D [TFlex.Model.Model3DReferenceWeld3D](T_TFlex_Model_Model3D_ReferenceWeld3D.md)

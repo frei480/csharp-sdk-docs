@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextCreateTable - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CreateTable(TableCreationSettings)](M_TFlex_Model_Model2D_RichText_CreateTable_1.md) | Создание таблицы перед символом, на котором находится курсор |

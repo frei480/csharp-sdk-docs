@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ArrowProjection - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ArrowProjection(Document)](M_TFlex_Model_Model3D_ArrowProjection__ctor.md) | Конструктор для создания новой проекции |

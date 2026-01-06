@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogicManagerDispose - метод  
-  
----  
-  
+    
 Освобождает все ресурсы, используемые объектом [LogicManager](T_TFlex_QualityManagement_LogicManager.md)
 
 **Пространство имён:** [TFlex.QualityManagement](N_TFlex_QualityManagement.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

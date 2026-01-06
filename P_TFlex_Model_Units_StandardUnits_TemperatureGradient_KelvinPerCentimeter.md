@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTemperatureGradientKelvinPerCentimeter - свойство  
-  
----  
-  
+    
 Кельвин на сантиметр; К/см; K/cm; 
 
 Тип - Градиент температур

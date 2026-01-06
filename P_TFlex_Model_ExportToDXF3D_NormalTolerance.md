@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportToDXF3DNormalTolerance - свойство  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Максимальное уклонение нормали

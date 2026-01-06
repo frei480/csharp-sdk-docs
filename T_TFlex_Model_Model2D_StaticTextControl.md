@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StaticTextControl - класс  
-  
----  
-  
+    
 Статический элемент управления
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) [TFlex.Model.Model2DControl](T_TFlex_Model_Model2D_Control.md) TFlex.Model.Model2DStaticTextControl [TFlex.Model.Model2DGroupBox](T_TFlex_Model_Model2D_GroupBox.md) [TFlex.Model.Model2DLabel](T_TFlex_Model_Model2D_Label.md) [TFlex.Model.Model2DPushButton](T_TFlex_Model_Model2D_PushButton.md)

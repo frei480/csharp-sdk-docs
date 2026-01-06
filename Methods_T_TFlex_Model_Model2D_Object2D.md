@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Object2D - методы  
-  
----  
-  
+    
 Тип [Object2D](T_TFlex_Model_Model2D_Object2D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

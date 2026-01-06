@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # User - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [User](M_TFlex_Configuration_User__ctor.md) | Инициализирует новый экземпляр класса [User](T_TFlex_Configuration_User.md) |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAdditionalStiffnessOnEdgePoundForcePerInchPerInch - свойство  
-  
----  
-  
+    
 Фунт-сила на дюйм на дюйм; (фунт-сила/дюйм)/дюйм; (lbf/in)/in; 
 
 Тип - Дополнительная жёсткость на ребро

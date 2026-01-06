@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTimeMicrosecond - свойство  
-  
----  
-  
+    
 Микросекунда; мкс; µs; 
 
 Тип - Время

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExternalOperation - свойства  
-  
----  
-  
+    
 Тип [ExternalOperation](T_TFlex_Model_Model3D_ExternalOperation.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

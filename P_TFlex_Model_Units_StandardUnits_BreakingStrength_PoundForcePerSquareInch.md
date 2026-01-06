@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsBreakingStrengthPoundForcePerSquareInch - свойство  
-  
----  
-  
+    
 Фунт-сила на квадратный дюйм; фунт-сила/дюйм²; lbf/in²; 
 
 Тип - Прочность на разрыв

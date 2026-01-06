@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TableMergeCells - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [MergeCells](M_TFlex_Model_Model2D_Table_MergeCells.md) | Объединение выделенных ячеек |

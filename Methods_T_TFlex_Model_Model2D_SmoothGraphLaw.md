@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SmoothGraphLaw - методы  
-  
----  
-  
+    
 Тип [SmoothGraphLaw](T_TFlex_Model_Model2D_SmoothGraphLaw.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

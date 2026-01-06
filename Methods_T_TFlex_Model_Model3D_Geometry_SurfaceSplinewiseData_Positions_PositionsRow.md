@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PositionsRow - методы  
-  
----  
-  
+    
 Тип [SurfaceSplinewiseDataPositionsPositionsRow](T_TFlex_Model_Model3D_Geometry_SurfaceSplinewiseData_Positions_PositionsRow.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

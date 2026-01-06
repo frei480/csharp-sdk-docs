@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ObjectSelectControl(String) - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [ObjectSelectControl](T_TFlex_Dialogs_ObjectSelectControl.md)
 
 **Пространство имён:** [TFlex.Dialogs](N_TFlex_Dialogs.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

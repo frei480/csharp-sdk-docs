@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ControlObjectChangedEventArgs - свойства  
-  
----  
-  
+    
 Тип [ControlObjectChangedEventArgs](T_TFlex_ControlObjectChangedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

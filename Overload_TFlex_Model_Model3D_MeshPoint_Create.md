@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MeshPointCreate - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Create](M_TFlex_Model_Model3D_MeshPoint_Create.md) | Создать или найти модельный узел на пересечении |

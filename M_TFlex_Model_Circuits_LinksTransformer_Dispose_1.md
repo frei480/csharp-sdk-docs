@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinksTransformerDispose(Boolean) - метод  
-  
----  
-  
+    
 Освобождает неуправляемые ресурсы, используемые объектом [LinksTransformer](T_TFlex_Model_Circuits_LinksTransformer.md), а при необходимости освобождает также управляемые ресурсы
 
 **Пространство имён:** [TFlex.Model.Circuits](N_TFlex_Model_Circuits.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

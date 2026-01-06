@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GraphLaw - класс  
-  
----  
-  
+    
 Зависимость F(x), заданная графиком
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model2DObject2D](T_TFlex_Model_Model2D_Object2D.md) TFlex.Model.Model2DGraphLaw [TFlex.Model.Model2DSmoothGraphLaw](T_TFlex_Model_Model2D_SmoothGraphLaw.md) [TFlex.Model.Model2DTableGraphLaw](T_TFlex_Model_Model2D_TableGraphLaw.md)

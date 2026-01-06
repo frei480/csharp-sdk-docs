@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SimpleListControl - класс  
-  
----  
-  
+    
 Упрощённый вариант ListControl, позволяющий избежать явного создания класса модели данных для простых списков
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.DialogsUiObject](T_TFlex_Dialogs_UiObject.md) [TFlex.DialogsBaseControl](T_TFlex_Dialogs_BaseControl.md) [TFlex.DialogsListControl](T_TFlex_Dialogs_ListControl.md) TFlex.DialogsSimpleListControl

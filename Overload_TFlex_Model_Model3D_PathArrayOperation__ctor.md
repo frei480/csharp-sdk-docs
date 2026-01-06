@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PathArrayOperation - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [PathArrayOperation(Document)](M_TFlex_Model_Model3D_PathArrayOperation__ctor.md) | Конструктор для операции "Массив по пути" |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Match - методы  
-  
----  
-  
+    
 Тип [LoftOperationMatch](T_TFlex_Model_Model3D_LoftOperation_Match.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

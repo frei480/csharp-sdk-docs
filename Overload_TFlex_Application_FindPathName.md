@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ApplicationFindPathName - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FindPathName(String)](M_TFlex_Application_FindPathName.md) | Полный путь к файлу |

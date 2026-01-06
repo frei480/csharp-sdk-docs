@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipeCircleProfileProperties - класс  
-  
----  
-  
+    
 Параметры круглого профиля трубопровода
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DBasePipeBaseProfileProperties](T_TFlex_Model_Model3D_BasePipe_BaseProfileProperties.md) TFlex.Model.Model3DPipeCircleProfileProperties

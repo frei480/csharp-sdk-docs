@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreadDiameterCollection - свойства  
-  
----  
-  
+    
 Тип [ThreadDiameterCollection](T_TFlex_Model_Model3D_ThreadDiameterCollection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

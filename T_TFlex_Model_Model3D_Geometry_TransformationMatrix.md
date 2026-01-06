@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationMatrix - класс  
-  
----  
-  
+    
 Базовый класс для преобразований
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryTransformationMatrix [TFlex.Model.Model3D.GeometryAffineTransformation](T_TFlex_Model_Model3D_Geometry_AffineTransformation.md)

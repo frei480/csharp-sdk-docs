@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Fragment3D(IntPtr, Boolean) - конструктор  
-  
----  
-  
+    
 Инициализирует новый экземпляр класса [Fragment3D](T_TFlex_Configuration_Fragment3D.md)
 
 **Пространство имён:** [TFlex.Configuration](N_TFlex_Configuration.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

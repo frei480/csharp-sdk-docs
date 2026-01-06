@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Control - события  
-  
----  
-  
+    
 Тип [Control](T_TFlex_Control.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

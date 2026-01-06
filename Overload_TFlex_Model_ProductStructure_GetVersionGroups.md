@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructureGetVersionGroups - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetVersionGroups(Guid)](M_TFlex_Model_ProductStructure_GetVersionGroups.md) |  |

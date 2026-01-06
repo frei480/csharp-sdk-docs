@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExpanderControl - события  
-  
----  
-  
+    
 Тип [ExpanderControl](T_TFlex_Dialogs_ExpanderControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

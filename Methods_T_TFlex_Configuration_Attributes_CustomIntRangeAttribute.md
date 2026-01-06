@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomIntRangeAttribute - методы  
-  
----  
-  
+    
 Тип [CustomIntRangeAttribute](T_TFlex_Configuration_Attributes_CustomIntRangeAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

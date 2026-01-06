@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextDelete - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Delete](M_TFlex_Model_Model2D_RichText_Delete.md) | Удаление выделенного фрагмента или символа, на котором находится курсор |

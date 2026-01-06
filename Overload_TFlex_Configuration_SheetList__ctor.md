@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SheetList - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SheetList](M_TFlex_Configuration_SheetList__ctor.md) | Инициализирует новый экземпляр класса [SheetList](T_TFlex_Configuration_SheetList.md) |

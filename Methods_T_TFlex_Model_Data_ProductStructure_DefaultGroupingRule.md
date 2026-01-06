@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DefaultGroupingRule - методы  
-  
----  
-  
+    
 Тип [DefaultGroupingRule](T_TFlex_Model_Data_ProductStructure_DefaultGroupingRule.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

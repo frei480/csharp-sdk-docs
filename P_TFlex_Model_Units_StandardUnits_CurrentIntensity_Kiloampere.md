@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsCurrentIntensityKiloampere - свойство  
-  
----  
-  
+    
 Килоампер; кА; kA; 
 
 Тип - Сила тока

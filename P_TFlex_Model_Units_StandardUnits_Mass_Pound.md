@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMassPound - свойство  
-  
----  
-  
+    
 Фунт; фунт; lb; 
 
 Тип - Масса

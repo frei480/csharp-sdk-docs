@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GeometryData - методы  
-  
----  
-  
+    
 Тип [LCSGeometryData](T_TFlex_Model_Model3D_LCS_GeometryData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

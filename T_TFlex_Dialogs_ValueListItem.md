@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ValueListItem - структура  
-  
----  
-  
+    
 Описывает элемент списка значений
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [SystemValueType](https://learn.microsoft.com/dotnet/api/system.valuetype) TFlex.DialogsValueListItem

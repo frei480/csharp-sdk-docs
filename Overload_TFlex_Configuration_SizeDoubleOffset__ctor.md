@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SizeDoubleOffset - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SizeDoubleOffset](M_TFlex_Configuration_SizeDoubleOffset__ctor.md) | Инициализирует новый экземпляр класса [SizeDoubleOffset](T_TFlex_Configuration_SizeDoubleOffset.md) |

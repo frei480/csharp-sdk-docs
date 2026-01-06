@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTimeDay24 - свойство  
-  
----  
-  
+    
 Сутки; сут; d; 
 
 Тип - Время

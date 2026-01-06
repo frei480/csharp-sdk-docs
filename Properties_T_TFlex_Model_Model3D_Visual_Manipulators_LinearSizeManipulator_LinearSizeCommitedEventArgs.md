@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinearSizeCommitedEventArgs - свойства  
-  
----  
-  
+    
 Тип [LinearSizeManipulatorLinearSizeCommitedEventArgs](T_TFlex_Model_Model3D_Visual_Manipulators_LinearSizeManipulator_LinearSizeCommitedEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

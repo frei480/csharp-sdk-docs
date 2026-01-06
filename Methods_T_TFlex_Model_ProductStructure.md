@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProductStructure - методы  
-  
----  
-  
+    
 Тип [ProductStructure](T_TFlex_Model_ProductStructure.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAreaSquareCentimeter - свойство  
-  
----  
-  
+    
 Квадратный сантиметр; см²; cm²; 
 
 Тип - Площадь

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.ControlService - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [DocEditIniFileManager](T_TFlex_ControlService_DocEditIniFileManager.md) |  |

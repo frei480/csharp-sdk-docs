@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CenterAxisOutline - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CenterAxisOutline(Document, Outline, Boolean)](M_TFlex_Model_Model2D_CenterAxisOutline__ctor.md) | Конструктор для создания горизонтальной или вертикальной оси окружности |

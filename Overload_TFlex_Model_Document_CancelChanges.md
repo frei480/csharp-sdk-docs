@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentCancelChanges - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [CancelChanges](M_TFlex_Model_Document_CancelChanges.md) | Отменить все изменения и закрыть блок изменения документа |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BasePoint3D - свойства  
-  
----  
-  
+    
 Тип [PipePath3DBasePoint3D](T_TFlex_Model_Model3D_PipePath3D_BasePoint3D.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

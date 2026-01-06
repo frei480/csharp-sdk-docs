@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLengthMicrometer - свойство  
-  
----  
-  
+    
 Микрометр; мкм; µm; 
 
 Тип - Длина

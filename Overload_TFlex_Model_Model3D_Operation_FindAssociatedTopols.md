@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OperationFindAssociatedTopols - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [FindAssociatedTopols(Hole)](M_TFlex_Model_Model3D_Operation_FindAssociatedTopols.md) | Поиск топологических элементов, ассоциированных с отверстием |

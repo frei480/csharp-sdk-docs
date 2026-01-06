@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # VariableProperties - поля  
-  
----  
-  
+    
 Тип [VariableProperties](T_TFlex_Model_VariableProperties.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

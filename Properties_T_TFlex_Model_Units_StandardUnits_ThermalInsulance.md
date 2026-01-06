@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThermalInsulance - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsThermalInsulance](T_TFlex_Model_Units_StandardUnits_ThermalInsulance.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

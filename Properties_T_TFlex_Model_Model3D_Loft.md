@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Loft - свойства  
-  
----  
-  
+    
 Тип [Loft](T_TFlex_Model_Model3D_Loft.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

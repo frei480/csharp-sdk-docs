@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FloatVector  \- операторы преобразования  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [(BaseDirection to FloatVector)](M_TFlex_Model_Model3D_FloatVector_op_Implicit.md) | Преобразование вектора |

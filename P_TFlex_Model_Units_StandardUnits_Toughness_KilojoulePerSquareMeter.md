@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsToughnessKilojoulePerSquareMeter - свойство  
-  
----  
-  
+    
 Килоджоуль на квадратный метр; кДж/м²; kJ/m²; 
 
 Тип - Ударная вязкость

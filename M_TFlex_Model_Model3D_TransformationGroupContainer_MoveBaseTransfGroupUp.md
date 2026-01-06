@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationGroupContainerMoveBaseTransfGroupUp - метод  
-  
----  
-  
+    
 Переместить базовую группу трансформаций на 1 позицию вверх. В случае успеха transfGroup становится устаревшей (IsValid == false).
 
 **Пространство имён:** [TFlex.Model.Model3D](N_TFlex_Model_Model3D.md)**Сборка:** TFlexAPI3D (в TFlexAPI3D.dll) Версия: 17.1.20.0

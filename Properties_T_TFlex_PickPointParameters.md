@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PickPointParameters - свойства  
-  
----  
-  
+    
 Тип [PickPointParameters](T_TFlex_PickPointParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

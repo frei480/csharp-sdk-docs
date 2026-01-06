@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BaseCopyValuesParameters - методы  
-  
----  
-  
+    
 Тип [BaseCopyValuesParameters](T_TFlex_Model_Structure_BaseCopyValuesParameters.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

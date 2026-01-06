@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PropertyArrayAdd - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Add(String, String, PropertyArrayType)](M_TFlex_Model_PropertyArray_Add.md) | Добавить свойство в массив свойств |

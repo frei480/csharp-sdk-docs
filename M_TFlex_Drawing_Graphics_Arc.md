@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GraphicsArc(Point, Point, Point) - метод  
-  
----  
-  
+    
 Прорисовка дуги с центром в заданной точке, проходящей через две точки, против часовой стрелки
 
 **Пространство имён:** [TFlex.Drawing](N_TFlex_Drawing.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

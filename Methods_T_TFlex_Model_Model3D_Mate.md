@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Mate - методы  
-  
----  
-  
+    
 Тип [Mate](T_TFlex_Model_Model3D_Mate.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

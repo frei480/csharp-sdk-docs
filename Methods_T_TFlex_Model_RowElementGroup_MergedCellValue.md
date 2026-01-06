@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MergedCellValue - методы  
-  
----  
-  
+    
 Тип [RowElementGroupMergedCellValue](T_TFlex_Model_RowElementGroup_MergedCellValue.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

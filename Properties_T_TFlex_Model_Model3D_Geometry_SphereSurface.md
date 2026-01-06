@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SphereSurface - свойства  
-  
----  
-  
+    
 Тип [SphereSurface](T_TFlex_Model_Model3D_Geometry_SphereSurface.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

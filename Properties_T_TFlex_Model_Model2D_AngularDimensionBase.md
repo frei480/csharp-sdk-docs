@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # AngularDimensionBase - свойства  
-  
----  
-  
+    
 Тип [AngularDimensionBase](T_TFlex_Model_Model2D_AngularDimensionBase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

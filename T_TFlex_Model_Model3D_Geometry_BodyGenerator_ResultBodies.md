@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BodyGeneratorResultBodies - класс  
-  
----  
-  
+    
 Множество результирующих тел. Возможно перечисление тел с использованием конструкции foreach
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3D.GeometryBodyGeneratorResultBodies

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MomentOfInertia - методы  
-  
----  
-  
+    
 Тип [StandardUnitsMomentOfInertia](T_TFlex_Model_Units_StandardUnits_MomentOfInertia.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Cylinder - методы  
-  
----  
-  
+    
 Тип [Cylinder](T_TFlex_Model_Model3D_Cylinder.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

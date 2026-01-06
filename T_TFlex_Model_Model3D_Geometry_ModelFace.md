@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelFace - класс  
-  
----  
-  
+    
 Модельная грань
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) [TFlex.Model.Model3D.GeometryBaseTopol](T_TFlex_Model_Model3D_Geometry_BaseTopol.md) [TFlex.Model.Model3D.GeometryModelTopol](T_TFlex_Model_Model3D_Geometry_ModelTopol.md) TFlex.Model.Model3D.GeometryModelFace

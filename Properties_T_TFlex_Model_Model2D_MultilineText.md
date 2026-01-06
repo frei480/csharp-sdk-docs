@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MultilineText - свойства  
-  
----  
-  
+    
 Тип [MultilineText](T_TFlex_Model_Model2D_MultilineText.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

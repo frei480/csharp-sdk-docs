@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsMassTonne - свойство  
-  
----  
-  
+    
 Тонна; т; t; 
 
 Тип - Масса

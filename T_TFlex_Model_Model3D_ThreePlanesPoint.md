@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ThreePlanesPoint - класс  
-  
----  
-  
+    
 Узел на пересечении трёх плоскостей
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.ModelModelObject](T_TFlex_Model_ModelObject.md) [TFlex.Model.Model3DObject3D](T_TFlex_Model_Model3D_Object3D.md) [TFlex.Model.Model3DConstruction3D](T_TFlex_Model_Model3D_Construction3D.md) [TFlex.Model.Model3DNode3D](T_TFlex_Model_Model3D_Node3D.md) TFlex.Model.Model3DThreePlanesPoint [TFlex.Model.Model3DMeshPoint](T_TFlex_Model_Model3D_MeshPoint.md)

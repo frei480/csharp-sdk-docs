@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # DocumentEventArgs - свойства  
-  
----  
-  
+    
 Тип [DocumentEventArgs](T_TFlex_DocumentEventArgs.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

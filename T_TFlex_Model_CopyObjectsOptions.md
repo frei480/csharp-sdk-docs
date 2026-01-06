@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CopyObjectsOptions - класс  
-  
----  
-  
+    
 Опции метода Document.CopyObjects
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ModelCopyObjectsOptions

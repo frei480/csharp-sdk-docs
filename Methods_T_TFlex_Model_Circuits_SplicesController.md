@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SplicesController - методы  
-  
----  
-  
+    
 Тип [SplicesController](T_TFlex_Model_Circuits_SplicesController.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

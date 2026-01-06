@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BasePlane - методы  
-  
----  
-  
+    
 Тип [BasePlane](T_TFlex_Model_Model3D_Geometry_BasePlane.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

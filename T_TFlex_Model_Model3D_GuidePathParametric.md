@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # GuidePathParametric - класс  
-  
----  
-  
+    
 Класс для описания свойств проволочной модели (пути) параметрического объекта
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3DParametric](T_TFlex_Model_Model3D_Parametric.md) TFlex.Model.Model3DGuidePathParametric [TFlex.Model.Model3DDirectedGuidePathParametric](T_TFlex_Model_Model3D_DirectedGuidePathParametric.md) [TFlex.Model.Model3DOneGuidePathParametric](T_TFlex_Model_Model3D_OneGuidePathParametric.md)

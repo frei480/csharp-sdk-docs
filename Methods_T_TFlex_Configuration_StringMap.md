@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StringMap - методы  
-  
----  
-  
+    
 Тип [StringMap](T_TFlex_Configuration_StringMap.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Tab - класс  
-  
----  
-  
+    
 Вкладка TabControl
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.DialogsTab

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsAmountOfSubstanceKilomole - свойство  
-  
----  
-  
+    
 Киломоль; кмоль; kmol; 
 
 Тип - Количество вещества

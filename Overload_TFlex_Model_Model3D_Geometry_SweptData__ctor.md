@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SweptData - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SweptData](M_TFlex_Model_Model3D_Geometry_SweptData__ctor.md) | Конструктор по умолчанию |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConstructionOutline - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ConstructionOutline(Document, Construction)](M_TFlex_Model_Model2D_ConstructionOutline__ctor.md) | Конструктор, задающий линию построения по которой будет построена новая линия. |

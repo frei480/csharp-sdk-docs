@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParentValueParameterDataGenerator - методы  
-  
----  
-  
+    
 Тип [ParentValueParameterDataGenerator](T_TFlex_Model_Data_ProductStructure_ParentValueParameterDataGenerator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ProxyOperationTexturedBody - класс  
-  
----  
-  
+    
 Класс для задания параметров рисования тела
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.Model.Model3DProxyOperationTexturedBody

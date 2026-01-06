@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LogWarn - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [Warn(String)](M_TFlex_Log_Warn.md) |  |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsLuminousIntensityCandela - свойство  
-  
----  
-  
+    
 Кандела; кд; cd; 
 
 Тип - Сила света

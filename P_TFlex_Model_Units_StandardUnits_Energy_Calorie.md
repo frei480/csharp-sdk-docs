@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsEnergyCalorie - свойство  
-  
----  
-  
+    
 Калория; кал; cal; 
 
 Тип - Энергия

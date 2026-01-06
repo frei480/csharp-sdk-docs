@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NumericInputControlSetVariable - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [SetVariable(Variable)](M_TFlex_Dialogs_NumericInputControl_SetVariable.md) | Устанавливает текущую переменную |

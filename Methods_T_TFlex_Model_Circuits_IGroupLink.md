@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # IGroupLink - методы  
-  
----  
-  
+    
 Тип [IGroupLink](T_TFlex_Model_Circuits_IGroupLink.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

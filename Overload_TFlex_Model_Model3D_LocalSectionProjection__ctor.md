@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LocalSectionProjection - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [LocalSectionProjection(Document)](M_TFlex_Model_Model3D_LocalSectionProjection__ctor.md) | Конструктор для создания новой проекции |

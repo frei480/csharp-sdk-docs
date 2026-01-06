@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # InternalDatabase - методы  
-  
----  
-  
+    
 Тип [InternalDatabase](T_TFlex_Model_InternalDatabase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

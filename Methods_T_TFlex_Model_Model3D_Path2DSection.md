@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Path2DSection - методы  
-  
----  
-  
+    
 Тип [Path2DSection](T_TFlex_Model_Model3D_Path2DSection.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

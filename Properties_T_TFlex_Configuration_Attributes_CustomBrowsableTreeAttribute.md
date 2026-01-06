@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # CustomBrowsableTreeAttribute - свойства  
-  
----  
-  
+    
 Тип [CustomBrowsableTreeAttribute](T_TFlex_Configuration_Attributes_CustomBrowsableTreeAttribute.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

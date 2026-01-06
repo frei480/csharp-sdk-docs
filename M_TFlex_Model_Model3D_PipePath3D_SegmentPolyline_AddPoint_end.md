@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # PipePath3DSegmentPolylineAddPoint_end - метод  
-  
----  
-  
+    
 **Примечание: Данный API устарел.**
 
 Добавить точку в конец

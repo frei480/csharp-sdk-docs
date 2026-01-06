@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FolderBrowserDialog - методы  
-  
----  
-  
+    
 Тип [FolderBrowserDialog](T_TFlex_Model_Model2D_FolderBrowserDialog.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

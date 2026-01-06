@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsEnergyKilowattHour - свойство  
-  
----  
-  
+    
 Киловатт-час; кВт·ч; kW·h; 
 
 Тип - Энергия

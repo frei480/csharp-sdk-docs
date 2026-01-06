@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MessagesBarMessage - методы  
-  
----  
-  
+    
 Тип [MessagesBarMessage](T_TFlex_MessagesBarMessage.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

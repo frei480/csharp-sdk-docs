@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Compatibility - методы  
-  
----  
-  
+    
 Тип [Compatibility](T_TFlex_Configuration_Compatibility.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

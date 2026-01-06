@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TransformationGroupBase - методы  
-  
----  
-  
+    
 Тип [TransformationGroupBase](T_TFlex_Model_Model3D_TransformationGroupBase.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

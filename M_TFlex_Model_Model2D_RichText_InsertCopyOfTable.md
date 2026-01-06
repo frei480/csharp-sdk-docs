@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RichTextInsertCopyOfTable(UInt32, Table) - метод  
-  
----  
-  
+    
 Вставка копии таблицы перед символом, заданным порядковым номером относительно начала текста
 
 **Пространство имён:** [TFlex.Model.Model2D](N_TFlex_Model_Model2D.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

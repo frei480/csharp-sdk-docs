@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MeshPoint - методы  
-  
----  
-  
+    
 Тип [MeshPoint](T_TFlex_Model_Model3D_MeshPoint.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

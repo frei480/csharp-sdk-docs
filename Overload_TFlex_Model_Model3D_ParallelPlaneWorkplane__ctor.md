@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ParallelPlaneWorkplane - конструктор  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [ParallelPlaneWorkplane(Document)](M_TFlex_Model_Model3D_ParallelPlaneWorkplane__ctor.md) | Конструктор для создания рабочей плоскости |

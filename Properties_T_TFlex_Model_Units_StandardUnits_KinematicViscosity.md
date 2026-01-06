@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # KinematicViscosity - свойства  
-  
----  
-  
+    
 Тип [StandardUnitsKinematicViscosity](T_TFlex_Model_Units_StandardUnits_KinematicViscosity.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

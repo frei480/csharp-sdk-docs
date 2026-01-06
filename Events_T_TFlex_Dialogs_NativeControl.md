@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # NativeControl - события  
-  
----  
-  
+    
 Тип [NativeControl](T_TFlex_Dialogs_NativeControl.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # TFlex.Drawing - пространство имён  
-  
----  
-  
+    
 |  | Класс | Описание |
 | --- | --- | --- |
 |  | [AffineMap](T_TFlex_Drawing_AffineMap.md) | Класс двухмерного афинного преобразования |

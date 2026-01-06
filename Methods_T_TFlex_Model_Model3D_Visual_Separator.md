@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # Separator - методы  
-  
----  
-  
+    
 Тип [Separator](T_TFlex_Model_Model3D_Visual_Separator.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

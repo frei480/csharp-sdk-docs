@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RibbonTab - свойства  
-  
----  
-  
+    
 Тип [RibbonTab](T_TFlex_RibbonTab.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

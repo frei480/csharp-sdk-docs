@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # MenuItem - класс  
-  
----  
-  
+    
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) TFlex.ControlServiceMenuItem
 
 **Пространство имён:** [TFlex.ControlService](N_TFlex_ControlService.md)**Сборка:** TFlexCommandAPI (в TFlexCommandAPI.dll) Версия: 17.1.20.0

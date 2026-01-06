@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # BreakingStrength - методы  
-  
----  
-  
+    
 Тип [StandardUnitsBreakingStrength](T_TFlex_Model_Units_StandardUnits_BreakingStrength.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

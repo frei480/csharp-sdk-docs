@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # StandardUnitsTorsionalStrengthDynePerCentimeter - свойство  
-  
----  
-  
+    
 Дина на сантиметр; дин/см; dyn/cm; 
 
 Тип - Прочность кручения

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # OperandPartsArray - методы  
-  
----  
-  
+    
 Тип [BooleanOperationOperandPartsArray](T_TFlex_Model_Model3D_BooleanOperation_OperandPartsArray.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

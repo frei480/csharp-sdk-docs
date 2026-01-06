@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ExportTo3dCommon - свойства  
-  
----  
-  
+    
 Тип [ExportTo3dCommon](T_TFlex_Model_ExportTo3dCommon.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # RowDescriptor - поля  
-  
----  
-  
+    
 Тип [RowDescriptor](T_TFlex_Model_Data_ProductStructure_RowDescriptor.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

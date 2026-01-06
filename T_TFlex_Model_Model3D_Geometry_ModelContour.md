@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ModelContour - класс  
-  
----  
-  
+    
 Контур с объекта модели
 
 [SystemObject](https://learn.microsoft.com/dotnet/api/system.object) [TFlex.Model.Model3D.GeometryGeometry](T_TFlex_Model_Model3D_Geometry_Geometry.md) [TFlex.Model.Model3D.GeometryBodies](T_TFlex_Model_Model3D_Geometry_Bodies.md) [TFlex.Model.Model3D.GeometryModelBodies](T_TFlex_Model_Model3D_Geometry_ModelBodies.md) TFlex.Model.Model3D.GeometryModelContour [TFlex.Model.Model3D.GeometryModelSheet](T_TFlex_Model_Model3D_Geometry_ModelSheet.md) [TFlex.Model.Model3D.GeometryModelWire](T_TFlex_Model_Model3D_Geometry_ModelWire.md)

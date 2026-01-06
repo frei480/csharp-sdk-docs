@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkGetTexts - метод  
-  
----  
-  
+    
 |  | Имя | Описание |
 | --- | --- | --- |
 |  | [GetTexts(Boolean, DesignationType)](M_TFlex_Model_Circuits_Link_GetTexts.md) |  |

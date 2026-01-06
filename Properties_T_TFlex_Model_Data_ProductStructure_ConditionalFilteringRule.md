@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ConditionalFilteringRule - свойства  
-  
----  
-  
+    
 Тип [ConditionalFilteringRule](T_TFlex_Model_Data_ProductStructure_ConditionalFilteringRule.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FragVarParameterProvider - свойства  
-  
----  
-  
+    
 Тип [FragVarParameterProvider](T_TFlex_Model_Data_ProductStructure_FragVarParameterProvider.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

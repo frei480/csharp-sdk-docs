@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # FileLink(Document, IntPtr) - конструктор  
-  
----  
-  
+    
 Конструктор ссылки на файл по внутреннему идентификатору
 
 **Пространство имён:** [TFlex.Model](N_TFlex_Model.md)**Сборка:** TFlexAPI (в TFlexAPI.dll) Версия: 17.1.20.0

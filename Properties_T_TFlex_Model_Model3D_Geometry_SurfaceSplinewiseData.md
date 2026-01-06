@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # SurfaceSplinewiseData - свойства  
-  
----  
-  
+    
 Тип [SurfaceSplinewiseData](T_TFlex_Model_Model3D_Geometry_SurfaceSplinewiseData.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

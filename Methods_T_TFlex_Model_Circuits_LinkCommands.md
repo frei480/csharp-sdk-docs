@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # LinkCommands - методы  
-  
----  
-  
+    
 Тип [LinkCommands](T_TFlex_Model_Circuits_LinkCommands.md) предоставляет следующие члены.
 
 |  | Имя | Описание |

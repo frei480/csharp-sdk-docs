@@ -3,9 +3,7 @@
 Руководство по T-FLEX CAD Open API
 
 # ManipulatorInvalidStateException - методы  
-  
----  
-  
+    
 Тип [ManipulatorInvalidStateException](T_TFlex_Model_Model3D_Visual_Manipulators_ManipulatorInvalidStateException.md) предоставляет следующие члены.
 
 |  | Имя | Описание |
