@@ -11,16 +11,8 @@
 ```csharp
 public double Start { get; }
 ```
-```vb
-Public ReadOnly Property Start As Double
-	Get
-```
-```cpp
-public:
-property double Start {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

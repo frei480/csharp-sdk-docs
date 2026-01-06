@@ -11,12 +11,8 @@
 ```csharp
 public enum InputControlFocusLostBehavior
 ```
-```vb
-Public Enumeration InputControlFocusLostBehavior
-```
-```cpp
-public enum class InputControlFocusLostBehavior
-```
+
+
 
 
 | Имя члена | Значение | Описание |

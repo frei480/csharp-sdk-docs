@@ -13,13 +13,8 @@
 ```csharp
 public class CheckStateEventArgs : BaseEventArgs
 ```
-```vb
-Public Class CheckStateEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class CheckStateEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип CheckStateEventArgs предоставляет следующие члены.

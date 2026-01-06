@@ -8,13 +8,8 @@
 ```csharp
 public Object2D GetFixingVector()
 ```
-```vb
-Public Function GetFixingVector As Object2D
-```
-```cpp
-public:
-Object2D^ GetFixingVector()
-```
+
+
 
 
 #### Возвращаемое значение

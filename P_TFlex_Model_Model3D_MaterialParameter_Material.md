@@ -11,18 +11,8 @@
 ```csharp
 public Material Material { get; set; }
 ```
-```vb
-Public Property Material As Material
-	Get
-	Set
-```
-```cpp
-public:
-property Material^ Material {
-	Material^ get ();
-	void set (Material^ value);
-}
-```
+
+
 
 
 #### Значение свойства

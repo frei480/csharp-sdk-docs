@@ -11,18 +11,8 @@
 ```csharp
 public string DefaultAnnotationFontName { get; set; }
 ```
-```vb
-Public Property DefaultAnnotationFontName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ DefaultAnnotationFontName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

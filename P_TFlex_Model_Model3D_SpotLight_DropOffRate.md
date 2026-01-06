@@ -11,18 +11,8 @@
 ```csharp
 public Parameter DropOffRate { get; set; }
 ```
-```vb
-Public Property DropOffRate As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ DropOffRate {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

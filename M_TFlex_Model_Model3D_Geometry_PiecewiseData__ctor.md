@@ -11,13 +11,8 @@
 ```csharp
 public PiecewiseData()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PiecewiseData()
-```
+
+
 
 
 #### Ссылки

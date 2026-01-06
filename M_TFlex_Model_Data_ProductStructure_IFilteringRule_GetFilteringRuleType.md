@@ -8,13 +8,8 @@
 ```csharp
 public abstract FilteringRuleType GetFilteringRuleType()
 ```
-```vb
-Public MustOverride Function GetFilteringRuleType As FilteringRuleType
-```
-```cpp
-public:
-virtual FilteringRuleType GetFilteringRuleType() abstract
-```
+
+
 
 
 #### Возвращаемое значение

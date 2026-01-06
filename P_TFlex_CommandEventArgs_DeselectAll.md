@@ -11,18 +11,8 @@
 ```csharp
 public bool DeselectAll { get; set; }
 ```
-```vb
-Public Property DeselectAll As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DeselectAll {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

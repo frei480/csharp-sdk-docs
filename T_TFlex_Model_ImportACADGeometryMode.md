@@ -11,12 +11,8 @@
 ```csharp
 public enum ImportACADGeometryMode
 ```
-```vb
-Public Enumeration ImportACADGeometryMode
-```
-```cpp
-public enum class ImportACADGeometryMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

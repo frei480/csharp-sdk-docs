@@ -11,12 +11,8 @@
 ```csharp
 public enum BorderType
 ```
-```vb
-Public Enumeration BorderType
-```
-```cpp
-public enum class BorderType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

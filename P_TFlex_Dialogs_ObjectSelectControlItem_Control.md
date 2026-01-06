@@ -11,16 +11,8 @@
 ```csharp
 public ObjectSelectControl Control { get; }
 ```
-```vb
-Public ReadOnly Property Control As ObjectSelectControl
-	Get
-```
-```cpp
-public:
-property ObjectSelectControl^ Control {
-	ObjectSelectControl^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

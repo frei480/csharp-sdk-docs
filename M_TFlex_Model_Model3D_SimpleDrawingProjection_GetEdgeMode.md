@@ -11,13 +11,8 @@
 ```csharp
 public ProjectionClass GetEdgeMode()
 ```
-```vb
-Public Function GetEdgeMode As ProjectionClass
-```
-```cpp
-public:
-ProjectionClass GetEdgeMode()
-```
+
+
 
 
 #### Возвращаемое значение

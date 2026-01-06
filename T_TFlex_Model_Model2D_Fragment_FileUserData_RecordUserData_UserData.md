@@ -16,14 +16,8 @@
 [ObsoleteAttribute("The class is obsolete. Content is formed by conversion from product structure.")]
 public class UserData
 ```
-```vb
-<ObsoleteAttribute("The class is obsolete. Content is formed by conversion from product structure.")>
-Public Class UserData
-```
-```cpp
-[ObsoleteAttribute(L"The class is obsolete. Content is formed by conversion from product structure.")]
-public ref class UserData
-```
+
+
 
 
 Тип FragmentFileUserDataRecordUserDataUserData предоставляет следующие члены.

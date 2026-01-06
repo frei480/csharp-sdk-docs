@@ -13,13 +13,8 @@
 ```csharp
 public class EllipseGeometry : ObjectGeometry
 ```
-```vb
-Public Class EllipseGeometry
-	Inherits ObjectGeometry
-```
-```cpp
-public ref class EllipseGeometry : public ObjectGeometry
-```
+
+
 
 
 Тип EllipseGeometry предоставляет следующие члены.

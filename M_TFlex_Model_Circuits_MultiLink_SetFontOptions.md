@@ -10,17 +10,8 @@ public override void SetFontOptions(
 	FontOptions A_0
 )
 ```
-```vb
-Public Overrides Sub SetFontOptions ( 
-	A_0 As FontOptions
-)
-```
-```cpp
-public:
-virtual void SetFontOptions(
-	FontOptions^ A_0
-) override
-```
+
+
 
 
 #### Параметры

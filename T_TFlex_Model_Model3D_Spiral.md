@@ -13,13 +13,8 @@
 ```csharp
 public class Spiral : Operation
 ```
-```vb
-Public Class Spiral
-	Inherits Operation
-```
-```cpp
-public ref class Spiral : public Operation
-```
+
+
 
 
 Тип Spiral предоставляет следующие члены.

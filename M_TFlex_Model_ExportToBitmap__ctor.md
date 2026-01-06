@@ -13,17 +13,8 @@ public ExportToBitmap(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToBitmap(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

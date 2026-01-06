@@ -14,19 +14,8 @@ public double? GetRelation(
 	string relationName
 )
 ```
-```vb
-Public Function GetRelation ( 
-	other As ModelObject,
-	relationName As String
-) As Double?
-```
-```cpp
-public:
-Nullable<double> GetRelation(
-	ModelObject^ other, 
-	String^ relationName
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@ X-координата конца дуги
 ```csharp
 public double EndX { get; }
 ```
-```vb
-Public ReadOnly Property EndX As Double
-	Get
-```
-```cpp
-public:
-property double EndX {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

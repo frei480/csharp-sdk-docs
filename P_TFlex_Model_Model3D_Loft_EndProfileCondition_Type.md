@@ -11,16 +11,8 @@
 ```csharp
 public abstract LoftEndProfileConditionType Type { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property Type As LoftEndProfileConditionType
-	Get
-```
-```cpp
-public:
-virtual property LoftEndProfileConditionType Type {
-	LoftEndProfileConditionType get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

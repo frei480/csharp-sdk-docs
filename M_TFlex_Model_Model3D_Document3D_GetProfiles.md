@@ -13,19 +13,8 @@ public static ICollection<Profile> GetProfiles(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetProfiles ( 
-	document As Document
-) As ICollection(Of Profile)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Profile^>^ GetProfiles(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ protected virtual void OnUndoAction(
 	ProxyObjectUndoActionType type
 )
 ```
-```vb
-Protected Overridable Sub OnUndoAction ( 
-	type As ProxyObjectUndoActionType
-)
-```
-```cpp
-protected:
-virtual void OnUndoAction(
-	ProxyObjectUndoActionType type
-)
-```
+
+
 
 
 #### Параметры

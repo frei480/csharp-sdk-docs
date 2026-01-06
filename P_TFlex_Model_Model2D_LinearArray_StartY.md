@@ -11,18 +11,8 @@ Y-координата начальной точки
 ```csharp
 public double StartY { get; set; }
 ```
-```vb
-Public Property StartY As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double StartY {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

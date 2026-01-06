@@ -11,13 +11,8 @@
 ```csharp
 public Object3D GetFirstElement()
 ```
-```vb
-Public Function GetFirstElement As Object3D
-```
-```cpp
-public:
-Object3D^ GetFirstElement()
-```
+
+
 
 
 #### Возвращаемое значение

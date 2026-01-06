@@ -11,18 +11,8 @@
 ```csharp
 public int SelectionLength { get; set; }
 ```
-```vb
-Public Property SelectionLength As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SelectionLength {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class CircleContourSegment : ContourSegment
 ```
-```vb
-Public Class CircleContourSegment
-	Inherits ContourSegment
-```
-```cpp
-public ref class CircleContourSegment : public ContourSegment
-```
+
+
 
 
 Тип CircleContourSegment предоставляет следующие члены.

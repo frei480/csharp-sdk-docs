@@ -17,25 +17,8 @@ public void SetNodeAndOffset(
 	double dY
 )
 ```
-```vb
-Public Sub SetNodeAndOffset ( 
-	baseNode As Node,
-	baseX As Double,
-	baseY As Double,
-	dX As Double,
-	dY As Double
-)
-```
-```cpp
-public:
-void SetNodeAndOffset(
-	Node^ baseNode, 
-	double baseX, 
-	double baseY, 
-	double dX, 
-	double dY
-)
-```
+
+
 
 
 #### Параметры

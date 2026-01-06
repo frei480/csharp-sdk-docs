@@ -11,13 +11,8 @@
 ```csharp
 protected IParameterProvider()
 ```
-```vb
-Protected Sub New
-```
-```cpp
-protected:
-IParameterProvider()
-```
+
+
 
 
 #### Ссылки

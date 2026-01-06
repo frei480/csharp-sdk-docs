@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<ListControlHighlightEventArgs> ItemHighlighted
 ```
-```vb
-Public Event ItemHighlighted As EventHandler(Of ListControlHighlightEventArgs)
-```
-```cpp
-public:
- event EventHandler<ListControlHighlightEventArgs^>^ ItemHighlighted {
-	void add (EventHandler<ListControlHighlightEventArgs^>^ value);
-	void remove (EventHandler<ListControlHighlightEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

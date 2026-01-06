@@ -11,16 +11,8 @@
 ```csharp
 public bool InScene { get; }
 ```
-```vb
-Public ReadOnly Property InScene As Boolean
-	Get
-```
-```cpp
-public:
-property bool InScene {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

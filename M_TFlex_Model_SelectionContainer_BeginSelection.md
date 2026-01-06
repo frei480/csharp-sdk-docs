@@ -11,13 +11,8 @@
 ```csharp
 public void BeginSelection()
 ```
-```vb
-Public Sub BeginSelection
-```
-```cpp
-public:
-void BeginSelection()
-```
+
+
 
 
 Пока не завершится блок селекции уведомления выбора объектов не будут приходить

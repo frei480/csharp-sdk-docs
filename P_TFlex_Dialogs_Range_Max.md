@@ -8,16 +8,8 @@
 ```csharp
 public double Max { get; }
 ```
-```vb
-Public ReadOnly Property Max As Double
-	Get
-```
-```cpp
-public:
-property double Max {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

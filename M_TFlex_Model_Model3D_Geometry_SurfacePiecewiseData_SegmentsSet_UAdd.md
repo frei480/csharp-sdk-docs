@@ -11,13 +11,8 @@
 ```csharp
 public void UAdd()
 ```
-```vb
-Public Sub UAdd
-```
-```cpp
-public:
-void UAdd()
-```
+
+
 
 
 Добавить новые сегменты по U с большим значением U

@@ -13,17 +13,8 @@ public void SetRadialDimensionType(
 	RadialDimensionType type
 )
 ```
-```vb
-Public Sub SetRadialDimensionType ( 
-	type As RadialDimensionType
-)
-```
-```cpp
-public:
-void SetRadialDimensionType(
-	RadialDimensionType type
-)
-```
+
+
 
 
 #### Параметры

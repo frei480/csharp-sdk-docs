@@ -11,13 +11,8 @@
 ```csharp
 public Direction NormalizedVector()
 ```
-```vb
-Public Function NormalizedVector As Direction
-```
-```cpp
-public:
-Direction^ NormalizedVector()
-```
+
+
 
 
 #### Возвращаемое значение

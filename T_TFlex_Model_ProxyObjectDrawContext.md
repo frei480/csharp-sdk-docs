@@ -13,12 +13,8 @@
 ```csharp
 public class ProxyObjectDrawContext
 ```
-```vb
-Public Class ProxyObjectDrawContext
-```
-```cpp
-public ref class ProxyObjectDrawContext
-```
+
+
 
 
 Тип ProxyObjectDrawContext предоставляет следующие члены.

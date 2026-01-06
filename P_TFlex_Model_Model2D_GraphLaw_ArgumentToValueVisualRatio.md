@@ -11,18 +11,8 @@
 ```csharp
 public double ArgumentToValueVisualRatio { get; set; }
 ```
-```vb
-Public Property ArgumentToValueVisualRatio As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double ArgumentToValueVisualRatio {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

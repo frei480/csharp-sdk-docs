@@ -11,18 +11,8 @@
 ```csharp
 public bool Cancellable { get; set; }
 ```
-```vb
-Public Property Cancellable As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Cancellable {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

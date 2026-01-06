@@ -8,13 +8,8 @@
 ```csharp
 public bool EndCellEditing()
 ```
-```vb
-Public Function EndCellEditing As Boolean
-```
-```cpp
-public:
-bool EndCellEditing()
-```
+
+
 
 
 #### Возвращаемое значение

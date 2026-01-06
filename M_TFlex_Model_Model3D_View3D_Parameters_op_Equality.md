@@ -11,19 +11,8 @@ public static bool operator ==(
 	View3DParameters second
 )
 ```
-```vb
-Public Shared Operator = ( 
-	first As View3DParameters,
-	second As View3DParameters
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	View3DParameters^ first, 
-	View3DParameters^ second
-)
-```
+
+
 
 
 #### Параметры

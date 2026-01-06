@@ -14,19 +14,8 @@ public void AddSetAxisDirectionTransf(
 	ModelDirection direction
 )
 ```
-```vb
-Public Sub AddSetAxisDirectionTransf ( 
-	axis As TransformationCoordinate,
-	direction As ModelDirection
-)
-```
-```cpp
-public:
-void AddSetAxisDirectionTransf(
-	TransformationCoordinate axis, 
-	ModelDirection^ direction
-)
-```
+
+
 
 
 #### Параметры

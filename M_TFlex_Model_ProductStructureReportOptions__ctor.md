@@ -11,13 +11,8 @@
 ```csharp
 public ProductStructureReportOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ProductStructureReportOptions()
-```
+
+
 
 
 #### Ссылки

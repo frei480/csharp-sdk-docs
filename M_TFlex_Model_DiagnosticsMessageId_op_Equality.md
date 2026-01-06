@@ -11,19 +11,8 @@ public static bool operator ==(
 	DiagnosticsMessageId rightId
 )
 ```
-```vb
-Public Shared Operator = ( 
-	leftId As DiagnosticsMessageId,
-	rightId As DiagnosticsMessageId
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	DiagnosticsMessageId^ leftId, 
-	DiagnosticsMessageId^ rightId
-)
-```
+
+
 
 
 #### Параметры

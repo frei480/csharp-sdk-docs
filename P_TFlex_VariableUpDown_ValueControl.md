@@ -11,18 +11,8 @@
 ```csharp
 public Control ValueControl { get; set; }
 ```
-```vb
-Public Property ValueControl As Control
-	Get
-	Set
-```
-```cpp
-public:
-property Control^ ValueControl {
-	Control^ get ();
-	void set (Control^ value);
-}
-```
+
+
 
 
 #### Значение свойства

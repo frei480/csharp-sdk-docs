@@ -13,17 +13,8 @@ public void Print(
 	PrintOptions options
 )
 ```
-```vb
-Public Sub Print ( 
-	options As PrintOptions
-)
-```
-```cpp
-public:
-void Print(
-	PrintOptions^ options
-)
-```
+
+
 
 
 #### Параметры

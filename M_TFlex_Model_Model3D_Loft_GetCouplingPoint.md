@@ -14,19 +14,8 @@ public LoftPointOnContour GetCouplingPoint(
 	int profileIndex
 )
 ```
-```vb
-Public Function GetCouplingPoint ( 
-	couplingIndex As Integer,
-	profileIndex As Integer
-) As LoftPointOnContour
-```
-```cpp
-public:
-LoftPointOnContour^ GetCouplingPoint(
-	int couplingIndex, 
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

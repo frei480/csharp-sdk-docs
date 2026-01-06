@@ -13,13 +13,8 @@
 ```csharp
 public sealed class SingleButton : Button
 ```
-```vb
-Public NotInheritable Class SingleButton
-	Inherits Button
-```
-```cpp
-public ref class SingleButton sealed : public Button
-```
+
+
 
 
 Тип SingleButton предоставляет следующие члены.

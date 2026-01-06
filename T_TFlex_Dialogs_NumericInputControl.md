@@ -13,13 +13,8 @@
 ```csharp
 public class NumericInputControl : InputControlBase
 ```
-```vb
-Public Class NumericInputControl
-	Inherits InputControlBase
-```
-```cpp
-public ref class NumericInputControl : public InputControlBase
-```
+
+
 
 
 Тип NumericInputControl предоставляет следующие члены.

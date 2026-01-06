@@ -15,21 +15,8 @@ protected virtual bool GetNode(
 	ref double y
 )
 ```
-```vb
-Protected Overridable Function GetNode ( 
-	id As Integer,
-	ByRef x As Double,
-	ByRef y As Double
-) As Boolean
-```
-```cpp
-protected:
-virtual bool GetNode(
-	int id, 
-	double% x, 
-	double% y
-)
-```
+
+
 
 
 #### Параметры

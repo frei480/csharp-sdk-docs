@@ -13,13 +13,8 @@
 ```csharp
 public class CircleOutline : Outline
 ```
-```vb
-Public Class CircleOutline
-	Inherits Outline
-```
-```cpp
-public ref class CircleOutline : public Outline
-```
+
+
 
 
 Тип CircleOutline предоставляет следующие члены.

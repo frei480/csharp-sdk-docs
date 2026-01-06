@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveFirstElement()
 ```
-```vb
-Public Sub RemoveFirstElement
-```
-```cpp
-public:
-void RemoveFirstElement()
-```
+
+
 
 
 #### Ссылки

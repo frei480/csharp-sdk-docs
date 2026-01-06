@@ -11,19 +11,8 @@ public void Select(
 	int pointIndex
 )
 ```
-```vb
-Public Sub Select ( 
-	segmentIndex As Integer,
-	pointIndex As Integer
-)
-```
-```cpp
-public:
-void Select(
-	int segmentIndex, 
-	int pointIndex
-)
-```
+
+
 
 
 #### Параметры

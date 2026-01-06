@@ -18,27 +18,8 @@ public void Transform(
 	double OffsetY
 )
 ```
-```vb
-Public Sub Transform ( 
-	scale As Double,
-	angle As Double,
-	OriginX As Double,
-	OriginY As Double,
-	OffsetX As Double,
-	OffsetY As Double
-)
-```
-```cpp
-public:
-void Transform(
-	double scale, 
-	double angle, 
-	double OriginX, 
-	double OriginY, 
-	double OffsetX, 
-	double OffsetY
-)
-```
+
+
 
 
 #### Параметры

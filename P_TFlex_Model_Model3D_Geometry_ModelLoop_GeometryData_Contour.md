@@ -11,16 +11,8 @@
 ```csharp
 public TopolContour Contour { get; }
 ```
-```vb
-Public ReadOnly Property Contour As TopolContour
-	Get
-```
-```cpp
-public:
-property TopolContour^ Contour {
-	TopolContour^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter ManualMass { get; set; }
 ```
-```vb
-Public Property ManualMass As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ ManualMass {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

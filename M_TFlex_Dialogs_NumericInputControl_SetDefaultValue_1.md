@@ -14,19 +14,8 @@ public void SetDefaultValue(
 	Unit unit
 )
 ```
-```vb
-Public Sub SetDefaultValue ( 
-	defaultValue As Double,
-	unit As Unit
-)
-```
-```cpp
-public:
-void SetDefaultValue(
-	double defaultValue, 
-	Unit^ unit
-)
-```
+
+
 
 
 #### Параметры

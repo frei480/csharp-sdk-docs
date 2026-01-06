@@ -13,17 +13,8 @@ public LineCurve(
 	BaseAxis line
 )
 ```
-```vb
-Public Sub New ( 
-	line As BaseAxis
-)
-```
-```cpp
-public:
-LineCurve(
-	BaseAxis^ line
-)
-```
+
+
 
 
 #### Параметры

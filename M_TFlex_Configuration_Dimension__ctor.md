@@ -11,13 +11,8 @@
 ```csharp
 public Dimension()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Dimension()
-```
+
+
 
 
 #### Ссылки

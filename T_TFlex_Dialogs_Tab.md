@@ -13,12 +13,8 @@
 ```csharp
 public class Tab
 ```
-```vb
-Public Class Tab
-```
-```cpp
-public ref class Tab
-```
+
+
 
 
 Тип Tab предоставляет следующие члены.

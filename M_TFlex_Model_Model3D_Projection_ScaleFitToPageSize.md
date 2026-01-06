@@ -14,19 +14,8 @@ public double ScaleFitToPageSize(
 	double dPageHeight
 )
 ```
-```vb
-Public Function ScaleFitToPageSize ( 
-	dPageWidth As Double,
-	dPageHeight As Double
-) As Double
-```
-```cpp
-public:
-double ScaleFitToPageSize(
-	double dPageWidth, 
-	double dPageHeight
-)
-```
+
+
 
 
 #### Параметры

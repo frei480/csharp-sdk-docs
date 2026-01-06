@@ -8,13 +8,8 @@
 ```csharp
 public string ToXmlString()
 ```
-```vb
-Public Function ToXmlString As String
-```
-```cpp
-public:
-String^ ToXmlString()
-```
+
+
 
 
 #### Возвращаемое значение

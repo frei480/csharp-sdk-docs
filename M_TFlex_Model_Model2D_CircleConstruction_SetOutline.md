@@ -13,17 +13,8 @@ public void SetOutline(
 	Outline srcOutline
 )
 ```
-```vb
-Public Sub SetOutline ( 
-	srcOutline As Outline
-)
-```
-```cpp
-public:
-void SetOutline(
-	Outline^ srcOutline
-)
-```
+
+
 
 
 #### Параметры

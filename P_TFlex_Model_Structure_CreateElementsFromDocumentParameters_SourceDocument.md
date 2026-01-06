@@ -8,18 +8,8 @@
 ```csharp
 public Document SourceDocument { get; set; }
 ```
-```vb
-Public Property SourceDocument As Document
-	Get
-	Set
-```
-```cpp
-public:
-property Document^ SourceDocument {
-	Document^ get ();
-	void set (Document^ value);
-}
-```
+
+
 
 
 #### Значение свойства

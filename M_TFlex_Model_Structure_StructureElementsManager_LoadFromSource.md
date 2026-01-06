@@ -10,17 +10,8 @@ public bool LoadFromSource(
 	SourceLoadParameters parameters
 )
 ```
-```vb
-Public Function LoadFromSource ( 
-	parameters As SourceLoadParameters
-) As Boolean
-```
-```cpp
-public:
-bool LoadFromSource(
-	SourceLoadParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToMetafileWMF : ExportTo
 ```
-```vb
-Public NotInheritable Class ExportToMetafileWMF
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportToMetafileWMF sealed : public ExportTo
-```
+
+
 
 
 Тип ExportToMetafileWMF предоставляет следующие члены.

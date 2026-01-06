@@ -15,21 +15,8 @@ public Connector(
 	string connectorComment
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	fragment As Fragment,
-	connectorComment As String
-)
-```
-```cpp
-public:
-Connector(
-	Document^ document, 
-	Fragment^ fragment, 
-	String^ connectorComment
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public ChangesResult EndChanges()
 ```
-```vb
-Public Function EndChanges As ChangesResult
-```
-```cpp
-public:
-ChangesResult EndChanges()
-```
+
+
 
 
 #### Возвращаемое значение

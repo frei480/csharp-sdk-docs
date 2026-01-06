@@ -10,17 +10,8 @@ public Direction GetCommitedDirection(
 	int index
 )
 ```
-```vb
-Public Function GetCommitedDirection ( 
-	index As Integer
-) As Direction
-```
-```cpp
-public:
-Direction^ GetCommitedDirection(
-	int index
-)
-```
+
+
 
 
 #### Параметры

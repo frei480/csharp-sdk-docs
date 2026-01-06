@@ -11,19 +11,8 @@ public static string DoubleToString(
 	int precision
 )
 ```
-```vb
-Public Shared Function DoubleToString ( 
-	value As Double,
-	precision As Integer
-) As String
-```
-```cpp
-public:
-static String^ DoubleToString(
-	double value, 
-	int precision
-)
-```
+
+
 
 
 #### Параметры

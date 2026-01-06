@@ -11,18 +11,8 @@
 ```csharp
 public ArrayDirectionType Direction2Type { get; set; }
 ```
-```vb
-Public Property Direction2Type As ArrayDirectionType
-	Get
-	Set
-```
-```cpp
-public:
-property ArrayDirectionType Direction2Type {
-	ArrayDirectionType get ();
-	void set (ArrayDirectionType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public ModelObject CurrentObject { get; }
 ```
-```vb
-Public ReadOnly Property CurrentObject As ModelObject
-	Get
-```
-```cpp
-public:
-property ModelObject^ CurrentObject {
-	ModelObject^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

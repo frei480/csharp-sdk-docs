@@ -11,18 +11,8 @@
 ```csharp
 public Splice EndSplice { get; set; }
 ```
-```vb
-Public Property EndSplice As Splice
-	Get
-	Set
-```
-```cpp
-public:
-property Splice^ EndSplice {
-	Splice^ get ();
-	void set (Splice^ value);
-}
-```
+
+
 
 
 #### Значение свойства

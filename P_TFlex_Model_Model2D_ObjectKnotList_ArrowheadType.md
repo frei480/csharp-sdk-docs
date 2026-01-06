@@ -11,18 +11,8 @@
 ```csharp
 public int ArrowheadType { get; set; }
 ```
-```vb
-Public Property ArrowheadType As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ArrowheadType {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

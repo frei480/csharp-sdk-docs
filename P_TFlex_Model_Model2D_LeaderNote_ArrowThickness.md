@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ArrowThickness { get; set; }
 ```
-```vb
-Public Property ArrowThickness As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ArrowThickness {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

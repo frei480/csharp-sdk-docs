@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<BaseEventArgs> GotFocus
 ```
-```vb
-Public Event GotFocus As EventHandler(Of BaseEventArgs)
-```
-```cpp
-public:
- event EventHandler<BaseEventArgs^>^ GotFocus {
-	void add (EventHandler<BaseEventArgs^>^ value);
-	void remove (EventHandler<BaseEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

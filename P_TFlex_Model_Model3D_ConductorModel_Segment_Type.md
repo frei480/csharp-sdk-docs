@@ -8,18 +8,8 @@
 ```csharp
 public SegmentCurveType Type { get; set; }
 ```
-```vb
-Public Property Type As SegmentCurveType
-	Get
-	Set
-```
-```cpp
-public:
-property SegmentCurveType Type {
-	SegmentCurveType get ();
-	void set (SegmentCurveType value);
-}
-```
+
+
 
 
 #### Значение свойства

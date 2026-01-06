@@ -13,17 +13,8 @@ public TexturedBody(
 	BaseBody solid
 )
 ```
-```vb
-Public Sub New ( 
-	solid As BaseBody
-)
-```
-```cpp
-public:
-TexturedBody(
-	BaseBody^ solid
-)
-```
+
+
 
 
 #### Параметры

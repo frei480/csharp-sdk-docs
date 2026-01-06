@@ -10,17 +10,8 @@ protected override void OnTextChanged(
 	EventArgs e
 )
 ```
-```vb
-Protected Overrides Sub OnTextChanged ( 
-	e As EventArgs
-)
-```
-```cpp
-protected:
-virtual void OnTextChanged(
-	EventArgs^ e
-) override
-```
+
+
 
 
 #### Параметры

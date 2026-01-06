@@ -11,16 +11,8 @@
 ```csharp
 public bool IsExpanded { get; }
 ```
-```vb
-Public ReadOnly Property IsExpanded As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsExpanded {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

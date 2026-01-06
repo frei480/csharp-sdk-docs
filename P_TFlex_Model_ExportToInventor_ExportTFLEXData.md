@@ -11,18 +11,8 @@
 ```csharp
 public bool ExportTFLEXData { get; set; }
 ```
-```vb
-Public Property ExportTFLEXData As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ExportTFLEXData {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

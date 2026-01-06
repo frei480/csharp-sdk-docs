@@ -11,13 +11,8 @@
 ```csharp
 public IDisposable CreateChangesScope()
 ```
-```vb
-Public Function CreateChangesScope As IDisposable
-```
-```cpp
-public:
-IDisposable^ CreateChangesScope()
-```
+
+
 
 
 #### Возвращаемое значение

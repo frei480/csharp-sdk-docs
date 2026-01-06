@@ -11,18 +11,8 @@
 ```csharp
 public bool IsReadOnly { get; set; }
 ```
-```vb
-Public Property IsReadOnly As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsReadOnly {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public void Insert(
 	ListControlStandardButton standardButton
 )
 ```
-```vb
-Public Sub Insert ( 
-	pos As Integer,
-	standardButton As ListControlStandardButton
-)
-```
-```cpp
-public:
-void Insert(
-	int pos, 
-	ListControlStandardButton standardButton
-)
-```
+
+
 
 
 #### Параметры

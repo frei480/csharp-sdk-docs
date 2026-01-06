@@ -13,13 +13,8 @@
 ```csharp
 public class LineConstruction : Construction
 ```
-```vb
-Public Class LineConstruction
-	Inherits Construction
-```
-```cpp
-public ref class LineConstruction : public Construction
-```
+
+
 
 
 Тип LineConstruction предоставляет следующие члены.

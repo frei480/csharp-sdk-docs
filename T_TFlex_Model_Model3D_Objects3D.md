@@ -14,14 +14,8 @@
 public class Objects3D : IEnumerator, IEnumerable, 
 	IDisposable
 ```
-```vb
-Public Class Objects3D
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class Objects3D : IEnumerator, 
-	IEnumerable, IDisposable
-```
+
+
 
 
 Тип Objects3D предоставляет следующие члены.

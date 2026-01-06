@@ -14,19 +14,8 @@ public void AddSetAxisTransf(
 	ModelAxis axis
 )
 ```
-```vb
-Public Sub AddSetAxisTransf ( 
-	axisType As TransformationCoordinate,
-	axis As ModelAxis
-)
-```
-```cpp
-public:
-void AddSetAxisTransf(
-	TransformationCoordinate axisType, 
-	ModelAxis^ axis
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class ProductStructureUpdatingEventArgs : ObjectEventArgs
 ```
-```vb
-Public Class ProductStructureUpdatingEventArgs
-	Inherits ObjectEventArgs
-```
-```cpp
-public ref class ProductStructureUpdatingEventArgs : public ObjectEventArgs
-```
+
+
 
 
 Тип ProductStructureUpdatingEventArgs предоставляет следующие члены.

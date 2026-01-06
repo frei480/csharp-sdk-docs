@@ -13,13 +13,8 @@
 ```csharp
 public class Label : StaticTextControl
 ```
-```vb
-Public Class Label
-	Inherits StaticTextControl
-```
-```cpp
-public ref class Label : public StaticTextControl
-```
+
+
 
 
 Тип Label предоставляет следующие члены.

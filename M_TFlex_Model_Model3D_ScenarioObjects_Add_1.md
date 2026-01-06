@@ -10,17 +10,8 @@ public ObjectId Add(
 	Light light
 )
 ```
-```vb
-Public Function Add ( 
-	light As Light
-) As ObjectId
-```
-```cpp
-public:
-ObjectId^ Add(
-	Light^ light
-)
-```
+
+
 
 
 #### Параметры

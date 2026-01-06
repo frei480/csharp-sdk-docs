@@ -11,16 +11,8 @@
 ```csharp
 public ImprintImprintTargetFacesArray TargetFaces { get; }
 ```
-```vb
-Public ReadOnly Property TargetFaces As ImprintImprintTargetFacesArray
-	Get
-```
-```cpp
-public:
-property ImprintImprintTargetFacesArray^ TargetFaces {
-	ImprintImprintTargetFacesArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

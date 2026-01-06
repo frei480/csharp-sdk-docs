@@ -11,16 +11,8 @@
 ```csharp
 public virtual ModelPoint3D SecondPoint { get; }
 ```
-```vb
-Public Overridable ReadOnly Property SecondPoint As ModelPoint3D
-	Get
-```
-```cpp
-public:
-virtual property ModelPoint3D^ SecondPoint {
-	ModelPoint3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

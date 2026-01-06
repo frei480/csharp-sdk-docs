@@ -8,18 +8,8 @@
 ```csharp
 public MassUnitType MassUnit { get; set; }
 ```
-```vb
-Public Property MassUnit As MassUnitType
-	Get
-	Set
-```
-```cpp
-public:
-property MassUnitType MassUnit {
-	MassUnitType get ();
-	void set (MassUnitType value);
-}
-```
+
+
 
 
 #### Значение свойства

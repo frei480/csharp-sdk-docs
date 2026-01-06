@@ -11,18 +11,8 @@
 ```csharp
 public bool AnalyzeFlag { get; set; }
 ```
-```vb
-Public Property AnalyzeFlag As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AnalyzeFlag {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

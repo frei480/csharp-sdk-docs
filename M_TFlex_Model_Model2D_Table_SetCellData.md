@@ -14,19 +14,8 @@ public void SetCellData(
 	IntPtr data
 )
 ```
-```vb
-Public Sub SetCellData ( 
-	cell As UInteger,
-	data As IntPtr
-)
-```
-```cpp
-public:
-void SetCellData(
-	unsigned int cell, 
-	IntPtr data
-)
-```
+
+
 
 
 #### Параметры

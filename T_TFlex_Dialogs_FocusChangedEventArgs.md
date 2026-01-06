@@ -13,13 +13,8 @@
 ```csharp
 public class FocusChangedEventArgs : BoolEventArgs
 ```
-```vb
-Public Class FocusChangedEventArgs
-	Inherits BoolEventArgs
-```
-```cpp
-public ref class FocusChangedEventArgs : public BoolEventArgs
-```
+
+
 
 
 Тип FocusChangedEventArgs предоставляет следующие члены.

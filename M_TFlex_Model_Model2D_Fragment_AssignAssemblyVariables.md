@@ -11,13 +11,8 @@
 ```csharp
 public void AssignAssemblyVariables()
 ```
-```vb
-Public Sub AssignAssemblyVariables
-```
-```cpp
-public:
-void AssignAssemblyVariables()
-```
+
+
 
 
 #### Ссылки

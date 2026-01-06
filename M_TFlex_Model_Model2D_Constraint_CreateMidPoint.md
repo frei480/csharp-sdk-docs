@@ -19,29 +19,8 @@ public static Constraint CreateMidPoint(
 	ConstraintPointType iPoint3
 )
 ```
-```vb
-Public Shared Function CreateMidPoint ( 
-	iDoc As Document,
-	iObject1 As Object2D,
-	iPoint1 As ConstraintPointType,
-	iObject2 As Object2D,
-	iPoint2 As ConstraintPointType,
-	iObject3 As Object2D,
-	iPoint3 As ConstraintPointType
-) As Constraint
-```
-```cpp
-public:
-static Constraint^ CreateMidPoint(
-	Document^ iDoc, 
-	Object2D^ iObject1, 
-	ConstraintPointType iPoint1, 
-	Object2D^ iObject2, 
-	ConstraintPointType iPoint2, 
-	Object2D^ iObject3, 
-	ConstraintPointType iPoint3
-)
-```
+
+
 
 
 #### Параметры

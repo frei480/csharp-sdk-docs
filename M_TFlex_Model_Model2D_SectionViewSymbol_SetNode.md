@@ -14,19 +14,8 @@ public void SetNode(
 	Node node
 )
 ```
-```vb
-Public Sub SetNode ( 
-	i As UInteger,
-	node As Node
-)
-```
-```cpp
-public:
-void SetNode(
-	unsigned int i, 
-	Node^ node
-)
-```
+
+
 
 
 #### Параметры

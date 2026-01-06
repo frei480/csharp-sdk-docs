@@ -11,13 +11,8 @@
 ```csharp
 public class DynamicToolbar : SettingsGroup
 ```
-```vb
-Public Class DynamicToolbar
-	Inherits SettingsGroup
-```
-```cpp
-public ref class DynamicToolbar : public SettingsGroup
-```
+
+
 
 
 Тип DynamicToolbar предоставляет следующие члены.

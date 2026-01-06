@@ -11,16 +11,8 @@
 ```csharp
 public string[] MacroNames { get; }
 ```
-```vb
-Public ReadOnly Property MacroNames As String()
-	Get
-```
-```cpp
-public:
-property array<String^>^ MacroNames {
-	array<String^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

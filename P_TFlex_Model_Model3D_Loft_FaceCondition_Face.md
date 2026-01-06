@@ -11,16 +11,8 @@
 ```csharp
 public ModelFace Face { get; }
 ```
-```vb
-Public ReadOnly Property Face As ModelFace
-	Get
-```
-```cpp
-public:
-property ModelFace^ Face {
-	ModelFace^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

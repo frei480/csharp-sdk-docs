@@ -11,19 +11,8 @@ public bool XMLDeserialize(
 	SerializationContex context
 )
 ```
-```vb
-Public Function XMLDeserialize ( 
-	element As XmlElement,
-	context As SerializationContex
-) As Boolean
-```
-```cpp
-public:
-bool XMLDeserialize(
-	XmlElement^ element, 
-	SerializationContex^ context
-)
-```
+
+
 
 
 #### Параметры

@@ -11,15 +11,8 @@
 ```csharp
 SurfaceSplinewiseData Splinewise { get; }
 ```
-```vb
-ReadOnly Property Splinewise As SurfaceSplinewiseData
-	Get
-```
-```cpp
-property SurfaceSplinewiseData^ Splinewise {
-	SurfaceSplinewiseData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

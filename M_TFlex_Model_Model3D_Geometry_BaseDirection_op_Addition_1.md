@@ -11,19 +11,8 @@ public static Point3D operator +(
 	BaseDirection direction
 )
 ```
-```vb
-Public Shared Operator + ( 
-	point As BasePoint3D,
-	direction As BaseDirection
-) As Point3D
-```
-```cpp
-public:
-static Point3D^ operator +(
-	BasePoint3D^ point, 
-	BaseDirection^ direction
-)
-```
+
+
 
 
 #### Параметры

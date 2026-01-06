@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter RotationAngle { get; set; }
 ```
-```vb
-Public Property RotationAngle As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ RotationAngle {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

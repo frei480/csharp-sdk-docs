@@ -11,18 +11,8 @@
 ```csharp
 public Parameter TopAngle { get; set; }
 ```
-```vb
-Public Property TopAngle As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ TopAngle {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

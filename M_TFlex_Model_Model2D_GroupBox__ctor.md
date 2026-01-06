@@ -13,17 +13,8 @@ public GroupBox(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-GroupBox(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

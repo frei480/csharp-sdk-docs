@@ -10,17 +10,8 @@ public void SetTipFilePath(
 	string fileName
 )
 ```
-```vb
-Public Sub SetTipFilePath ( 
-	fileName As String
-)
-```
-```cpp
-public:
-void SetTipFilePath(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public abstract string Name { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property Name As String
-	Get
-```
-```cpp
-public:
-virtual property String^ Name {
-	String^ get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

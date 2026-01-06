@@ -13,12 +13,8 @@
 ```csharp
 public abstract class BasePoint
 ```
-```vb
-Public MustInherit Class BasePoint
-```
-```cpp
-public ref class BasePoint abstract
-```
+
+
 
 
 Тип PipePath3DBasePoint предоставляет следующие члены.

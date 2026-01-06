@@ -8,16 +8,8 @@
 ```csharp
 public BoolOverrideCollection IgnoreComparingForPos { get; }
 ```
-```vb
-Public ReadOnly Property IgnoreComparingForPos As BoolOverrideCollection
-	Get
-```
-```cpp
-public:
-property BoolOverrideCollection^ IgnoreComparingForPos {
-	BoolOverrideCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

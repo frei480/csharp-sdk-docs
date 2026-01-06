@@ -13,17 +13,8 @@ public EllipseConstruction(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-EllipseConstruction(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

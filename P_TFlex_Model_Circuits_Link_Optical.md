@@ -8,18 +8,8 @@
 ```csharp
 public bool Optical { get; set; }
 ```
-```vb
-Public Property Optical As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Optical {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class DefaultButton : Button
 ```
-```vb
-Public NotInheritable Class DefaultButton
-	Inherits Button
-```
-```cpp
-public ref class DefaultButton sealed : public Button
-```
+
+
 
 
 Тип DefaultButton предоставляет следующие члены.

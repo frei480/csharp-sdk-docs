@@ -16,23 +16,8 @@ public TwoPointEllipseOutline(
 	double radius
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	startNode As Node,
-	endNode As Node,
-	radius As Double
-)
-```
-```cpp
-public:
-TwoPointEllipseOutline(
-	Document^ document, 
-	Node^ startNode, 
-	Node^ endNode, 
-	double radius
-)
-```
+
+
 
 
 #### Параметры

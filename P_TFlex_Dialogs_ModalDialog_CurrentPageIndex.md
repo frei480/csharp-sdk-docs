@@ -11,18 +11,8 @@
 ```csharp
 public int CurrentPageIndex { get; set; }
 ```
-```vb
-Public Property CurrentPageIndex As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int CurrentPageIndex {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

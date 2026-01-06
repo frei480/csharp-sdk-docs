@@ -11,13 +11,8 @@
 ```csharp
 public class ProductStructureXmlExportOptions : ProductStructureExportOptions
 ```
-```vb
-Public Class ProductStructureXmlExportOptions
-	Inherits ProductStructureExportOptions
-```
-```cpp
-public ref class ProductStructureXmlExportOptions : public ProductStructureExportOptions
-```
+
+
 
 
 Тип ProductStructureXmlExportOptions предоставляет следующие члены.

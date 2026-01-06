@@ -8,13 +8,8 @@
 ```csharp
 protected virtual void Release()
 ```
-```vb
-Protected Overridable Sub Release
-```
-```cpp
-protected:
-virtual void Release()
-```
+
+
 
 
 #### Ссылки

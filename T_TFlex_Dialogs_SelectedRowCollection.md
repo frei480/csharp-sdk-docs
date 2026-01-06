@@ -13,13 +13,8 @@
 ```csharp
 public class SelectedRowCollection : SortedCollection<int>
 ```
-```vb
-Public Class SelectedRowCollection
-	Inherits SortedCollection(Of Integer)
-```
-```cpp
-public ref class SelectedRowCollection : public SortedCollection<int>
-```
+
+
 
 
 Тип SelectedRowCollection предоставляет следующие члены.

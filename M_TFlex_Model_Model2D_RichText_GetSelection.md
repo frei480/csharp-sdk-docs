@@ -14,16 +14,8 @@ public void GetSelection(
 	Position* end
 )
 ```
-```vb
-Visual Basic не поддерживает интерфейсы API, которые принимают или возвращают небезопасные типы.
-```
-```cpp
-public:
-void GetSelection(
-	Position* begining, 
-	Position* end
-)
-```
+
+
 
 
 #### Параметры

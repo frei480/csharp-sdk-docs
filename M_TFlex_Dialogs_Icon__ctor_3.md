@@ -14,19 +14,8 @@ public Icon(
 	string path
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	path As String
-)
-```
-```cpp
-public:
-Icon(
-	String^ id, 
-	String^ path
-)
-```
+
+
 
 
 #### Параметры

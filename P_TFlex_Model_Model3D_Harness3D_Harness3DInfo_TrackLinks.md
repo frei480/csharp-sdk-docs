@@ -8,16 +8,8 @@
 ```csharp
 public Dictionary<KeyValuePair<uint, uint>, List<Harness3DHarness3DInfoTracksLinkInfo>> TrackLinks { get; }
 ```
-```vb
-Public ReadOnly Property TrackLinks As Dictionary(Of KeyValuePair(Of UInteger, UInteger), List(Of Harness3DHarness3DInfoTracksLinkInfo))
-	Get
-```
-```cpp
-public:
-property Dictionary<KeyValuePair<unsigned int, unsigned int>, List<Harness3DHarness3DInfoTracksLinkInfo^>^>^ TrackLinks {
-	Dictionary<KeyValuePair<unsigned int, unsigned int>, List<Harness3DHarness3DInfoTracksLinkInfo^>^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

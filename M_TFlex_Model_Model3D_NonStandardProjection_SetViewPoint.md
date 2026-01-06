@@ -15,21 +15,8 @@ public void SetViewPoint(
 	double zvp
 )
 ```
-```vb
-Public Sub SetViewPoint ( 
-	xvp As Double,
-	yvp As Double,
-	zvp As Double
-)
-```
-```cpp
-public:
-void SetViewPoint(
-	double xvp, 
-	double yvp, 
-	double zvp
-)
-```
+
+
 
 
 #### Параметры

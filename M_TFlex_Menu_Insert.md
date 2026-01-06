@@ -16,23 +16,8 @@ public void Insert(
 	Plugin plugin
 )
 ```
-```vb
-Public Sub Insert ( 
-	index As Integer,
-	command As Integer,
-	caption As String,
-	plugin As Plugin
-)
-```
-```cpp
-public:
-void Insert(
-	int index, 
-	int command, 
-	String^ caption, 
-	Plugin^ plugin
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public uint CountOperationChain { get; }
 ```
-```vb
-Public ReadOnly Property CountOperationChain As UInteger
-	Get
-```
-```cpp
-public:
-property unsigned int CountOperationChain {
-	unsigned int get ();
-}
-```
+
+
 
 
 #### Значение свойства

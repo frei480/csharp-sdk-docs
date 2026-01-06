@@ -11,18 +11,8 @@
 ```csharp
 public bool SelfIntersecting { get; set; }
 ```
-```vb
-Public Property SelfIntersecting As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SelfIntersecting {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

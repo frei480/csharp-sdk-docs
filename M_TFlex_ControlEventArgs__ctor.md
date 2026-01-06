@@ -14,19 +14,8 @@ public ControlEventArgs(
 	int _y
 )
 ```
-```vb
-Public Sub New ( 
-	_x As Integer,
-	_y As Integer
-)
-```
-```cpp
-public:
-ControlEventArgs(
-	int _x, 
-	int _y
-)
-```
+
+
 
 
 #### Параметры

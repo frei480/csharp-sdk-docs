@@ -8,16 +8,8 @@
 ```csharp
 public double Min { get; }
 ```
-```vb
-Public ReadOnly Property Min As Double
-	Get
-```
-```cpp
-public:
-property double Min {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

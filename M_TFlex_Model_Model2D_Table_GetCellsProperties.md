@@ -14,19 +14,8 @@ public TableCellProperties GetCellsProperties(
 	uint cell2
 )
 ```
-```vb
-Public Function GetCellsProperties ( 
-	cell1 As UInteger,
-	cell2 As UInteger
-) As TableCellProperties
-```
-```cpp
-public:
-TableCellProperties GetCellsProperties(
-	unsigned int cell1, 
-	unsigned int cell2
-)
-```
+
+
 
 
 #### Параметры

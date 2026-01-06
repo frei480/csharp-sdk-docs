@@ -11,18 +11,8 @@
 ```csharp
 public Guid LogicUid { get; set; }
 ```
-```vb
-Public Property LogicUid As Guid
-	Get
-	Set
-```
-```cpp
-public:
-property Guid LogicUid {
-	Guid get ();
-	void set (Guid value);
-}
-```
+
+
 
 
 #### Значение свойства

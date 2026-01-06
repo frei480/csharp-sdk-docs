@@ -14,19 +14,8 @@ public Views(
 	bool only2D
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	only2D As Boolean
-)
-```
-```cpp
-public:
-Views(
-	Document^ document, 
-	bool only2D
-)
-```
+
+
 
 
 #### Параметры

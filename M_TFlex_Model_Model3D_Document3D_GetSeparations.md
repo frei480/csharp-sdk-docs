@@ -13,19 +13,8 @@ public static ICollection<Separation> GetSeparations(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetSeparations ( 
-	document As Document
-) As ICollection(Of Separation)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Separation^>^ GetSeparations(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

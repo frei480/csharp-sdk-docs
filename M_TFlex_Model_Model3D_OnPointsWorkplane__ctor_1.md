@@ -14,19 +14,8 @@ public OnPointsWorkplane(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-public:
-OnPointsWorkplane(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

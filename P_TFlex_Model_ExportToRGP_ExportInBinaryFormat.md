@@ -11,18 +11,8 @@
 ```csharp
 public bool ExportInBinaryFormat { get; set; }
 ```
-```vb
-Public Property ExportInBinaryFormat As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ExportInBinaryFormat {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

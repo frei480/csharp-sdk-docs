@@ -13,17 +13,8 @@ public void RemoveMultipleLeaderString(
 	int index
 )
 ```
-```vb
-Public Sub RemoveMultipleLeaderString ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void RemoveMultipleLeaderString(
-	int index
-)
-```
+
+
 
 
 #### Параметры

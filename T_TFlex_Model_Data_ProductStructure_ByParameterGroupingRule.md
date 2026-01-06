@@ -11,13 +11,8 @@
 ```csharp
 public class ByParameterGroupingRule : IGroupingRule
 ```
-```vb
-Public Class ByParameterGroupingRule
-	Inherits IGroupingRule
-```
-```cpp
-public ref class ByParameterGroupingRule : public IGroupingRule
-```
+
+
 
 
 Тип ByParameterGroupingRule предоставляет следующие члены.

@@ -14,19 +14,8 @@ public BaseParameter(
 	IntPtr item
 )
 ```
-```vb
-Public Sub New ( 
-	udf As UDF,
-	item As IntPtr
-)
-```
-```cpp
-public:
-BaseParameter(
-	UDF^ udf, 
-	IntPtr item
-)
-```
+
+
 
 
 #### Параметры

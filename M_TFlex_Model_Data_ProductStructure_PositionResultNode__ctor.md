@@ -11,13 +11,8 @@
 ```csharp
 public PositionResultNode()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PositionResultNode()
-```
+
+
 
 
 #### Ссылки

@@ -11,13 +11,8 @@
 ```csharp
 public CommonAttribute()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CommonAttribute()
-```
+
+
 
 
 #### Ссылки

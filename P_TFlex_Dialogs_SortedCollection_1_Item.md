@@ -10,18 +10,8 @@ public virtual T this[
 	int index
 ] { get; }
 ```
-```vb
-Public Overridable ReadOnly Default Property Item ( 
-	index As Integer
-) As T
-	Get
-```
-```cpp
-public:
-virtual property T default[int index] {
-	T get (int index);
-}
-```
+
+
 
 
 #### Параметры

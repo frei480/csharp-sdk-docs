@@ -11,12 +11,8 @@
 ```csharp
 public sealed class Hole
 ```
-```vb
-Public NotInheritable Class Hole
-```
-```cpp
-public ref class Hole sealed
-```
+
+
 
 
 Тип Hole предоставляет следующие члены.

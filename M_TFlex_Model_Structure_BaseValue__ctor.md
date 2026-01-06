@@ -13,17 +13,8 @@ protected BaseValue(
 	Guid id
 )
 ```
-```vb
-Protected Sub New ( 
-	id As Guid
-)
-```
-```cpp
-protected:
-BaseValue(
-	Guid id
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public MaterialPropertiesDistributionLaw MaterialDistributionLaw { get; }
 ```
-```vb
-Public ReadOnly Property MaterialDistributionLaw As MaterialPropertiesDistributionLaw
-	Get
-```
-```cpp
-public:
-property MaterialPropertiesDistributionLaw^ MaterialDistributionLaw {
-	MaterialPropertiesDistributionLaw^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

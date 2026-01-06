@@ -13,17 +13,8 @@ public void SetNode(
 	Node node
 )
 ```
-```vb
-Public Sub SetNode ( 
-	node As Node
-)
-```
-```cpp
-public:
-void SetNode(
-	Node^ node
-)
-```
+
+
 
 
 #### Параметры

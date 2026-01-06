@@ -11,13 +11,8 @@
 ```csharp
 public void ClearExclusions()
 ```
-```vb
-Public Sub ClearExclusions
-```
-```cpp
-public:
-void ClearExclusions()
-```
+
+
 
 
 #### Ссылки

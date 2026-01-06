@@ -14,19 +14,8 @@ public void InsertRow(
 	IList data
 )
 ```
-```vb
-Public Sub InsertRow ( 
-	pos As Integer,
-	data As IList
-)
-```
-```cpp
-public:
-void InsertRow(
-	int pos, 
-	IList^ data
-)
-```
+
+
 
 
 #### Параметры

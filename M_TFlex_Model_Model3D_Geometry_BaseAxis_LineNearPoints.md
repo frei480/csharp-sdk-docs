@@ -13,17 +13,8 @@ public Point3D LineNearPoints(
 	Axis line
 )
 ```
-```vb
-Public Function LineNearPoints ( 
-	line As Axis
-) As Point3D
-```
-```cpp
-public:
-Point3D^ LineNearPoints(
-	Axis^ line
-)
-```
+
+
 
 
 #### Параметры

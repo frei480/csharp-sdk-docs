@@ -11,18 +11,8 @@
 ```csharp
 public Bitmap Bitmap { get; set; }
 ```
-```vb
-Public Property Bitmap As Bitmap
-	Get
-	Set
-```
-```cpp
-public:
-property Bitmap^ Bitmap {
-	Bitmap^ get ();
-	void set (Bitmap^ value);
-}
-```
+
+
 
 
 #### Значение свойства

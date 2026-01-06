@@ -13,13 +13,8 @@
 ```csharp
 public class ThickenExtrusionGenerator : BodyGenerator
 ```
-```vb
-Public Class ThickenExtrusionGenerator
-	Inherits BodyGenerator
-```
-```cpp
-public ref class ThickenExtrusionGenerator : public BodyGenerator
-```
+
+
 
 
 Тип ThickenExtrusionGenerator предоставляет следующие члены.

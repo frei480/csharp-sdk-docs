@@ -8,13 +8,8 @@
 ```csharp
 public FillHole AddFillHoleOperation()
 ```
-```vb
-Public Function AddFillHoleOperation As FillHole
-```
-```cpp
-public:
-FillHole^ AddFillHoleOperation()
-```
+
+
 
 
 #### Возвращаемое значение

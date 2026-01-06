@@ -14,14 +14,8 @@
 public class ContourArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ContourArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ContourArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип FillHoleContourArray предоставляет следующие члены.

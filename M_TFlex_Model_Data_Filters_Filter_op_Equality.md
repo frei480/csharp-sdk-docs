@@ -11,19 +11,8 @@ public static bool operator ==(
 	Filter right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As Filter,
-	right As Filter
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	Filter^ left, 
-	Filter^ right
-)
-```
+
+
 
 
 #### Параметры

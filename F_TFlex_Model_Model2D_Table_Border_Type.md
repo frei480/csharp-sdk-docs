@@ -11,13 +11,8 @@
 ```csharp
 public TableBorderBorderType Type
 ```
-```vb
-Public Type As TableBorderBorderType
-```
-```cpp
-public:
-TableBorderBorderType Type
-```
+
+
 
 
 #### Значение поля

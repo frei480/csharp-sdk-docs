@@ -13,12 +13,8 @@
 ```csharp
 public sealed class MessagesBarClickEventArgs
 ```
-```vb
-Public NotInheritable Class MessagesBarClickEventArgs
-```
-```cpp
-public ref class MessagesBarClickEventArgs sealed
-```
+
+
 
 
 Тип MessagesBarClickEventArgs предоставляет следующие члены.

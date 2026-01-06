@@ -11,18 +11,8 @@
 ```csharp
 public string DOCsRegistryKeyName { get; set; }
 ```
-```vb
-Public Property DOCsRegistryKeyName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ DOCsRegistryKeyName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

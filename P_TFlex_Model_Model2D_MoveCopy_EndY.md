@@ -11,18 +11,8 @@ Y-координата конечной точки
 ```csharp
 public double EndY { get; set; }
 ```
-```vb
-Public Property EndY As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double EndY {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

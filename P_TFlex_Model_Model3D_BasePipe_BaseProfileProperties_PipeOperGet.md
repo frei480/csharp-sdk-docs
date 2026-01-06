@@ -8,15 +8,8 @@
 ```csharp
 protected PipeOper* PipeOperGet { get; }
 ```
-```vb
-Visual Basic не поддерживает интерфейсы API, которые принимают или возвращают небезопасные типы.
-```
-```cpp
-protected:
-property PipeOper* PipeOperGet {
-	PipeOper* get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public DrawingViewSpecialElementDrawMode Mode { get; set; }
 ```
-```vb
-Public Property Mode As DrawingViewSpecialElementDrawMode
-	Get
-	Set
-```
-```cpp
-public:
-property DrawingViewSpecialElementDrawMode Mode {
-	DrawingViewSpecialElementDrawMode get ();
-	void set (DrawingViewSpecialElementDrawMode value);
-}
-```
+
+
 
 
 #### Значение свойства

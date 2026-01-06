@@ -13,17 +13,8 @@ public void Add(
 	Construction3D operand
 )
 ```
-```vb
-Public Sub Add ( 
-	operand As Construction3D
-)
-```
-```cpp
-public:
-void Add(
-	Construction3D^ operand
-)
-```
+
+
 
 
 #### Параметры

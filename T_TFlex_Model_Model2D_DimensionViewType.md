@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionViewType
 ```
-```vb
-Public Enumeration DimensionViewType
-```
-```cpp
-public enum class DimensionViewType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

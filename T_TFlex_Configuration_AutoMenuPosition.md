@@ -8,12 +8,8 @@
 ```csharp
 public enum AutoMenuPosition
 ```
-```vb
-Public Enumeration AutoMenuPosition
-```
-```cpp
-public enum class AutoMenuPosition
-```
+
+
 
 
 | Имя члена | Значение | Описание |

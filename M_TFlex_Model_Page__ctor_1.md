@@ -14,19 +14,8 @@ public Page(
 	PageType pageType
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	pageType As PageType
-)
-```
-```cpp
-public:
-Page(
-	Document^ document, 
-	PageType pageType
-)
-```
+
+
 
 
 #### Параметры

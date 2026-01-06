@@ -16,23 +16,8 @@ public XyzVector(
 	Parameter magnitude
 )
 ```
-```vb
-Public Sub New ( 
-	x As Parameter,
-	y As Parameter,
-	z As Parameter,
-	magnitude As Parameter
-)
-```
-```cpp
-public:
-XyzVector(
-	Parameter^ x, 
-	Parameter^ y, 
-	Parameter^ z, 
-	Parameter^ magnitude
-)
-```
+
+
 
 
 #### Параметры

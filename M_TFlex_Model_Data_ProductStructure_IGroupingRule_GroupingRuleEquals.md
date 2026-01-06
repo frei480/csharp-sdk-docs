@@ -10,17 +10,8 @@ protected virtual bool GroupingRuleEquals(
 	IGroupingRule group
 )
 ```
-```vb
-Protected Overridable Function GroupingRuleEquals ( 
-	group As IGroupingRule
-) As Boolean
-```
-```cpp
-protected:
-virtual bool GroupingRuleEquals(
-	IGroupingRule^ group
-)
-```
+
+
 
 
 #### Параметры

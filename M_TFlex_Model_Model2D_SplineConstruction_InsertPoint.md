@@ -14,19 +14,8 @@ public int InsertPoint(
 	Node node
 )
 ```
-```vb
-Public Function InsertPoint ( 
-	index As Integer,
-	node As Node
-) As Integer
-```
-```cpp
-public:
-int InsertPoint(
-	int index, 
-	Node^ node
-)
-```
+
+
 
 
 #### Параметры

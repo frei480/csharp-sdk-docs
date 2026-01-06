@@ -8,18 +8,8 @@
 ```csharp
 public View3DViewFrustum Frustum { get; set; }
 ```
-```vb
-Public Property Frustum As View3DViewFrustum
-	Get
-	Set
-```
-```cpp
-public:
-property View3DViewFrustum Frustum {
-	View3DViewFrustum get ();
-	void set (View3DViewFrustum value);
-}
-```
+
+
 
 
 #### Значение свойства

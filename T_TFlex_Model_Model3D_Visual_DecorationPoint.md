@@ -13,13 +13,8 @@
 ```csharp
 public class DecorationPoint : DecorationShape
 ```
-```vb
-Public Class DecorationPoint
-	Inherits DecorationShape
-```
-```cpp
-public ref class DecorationPoint : public DecorationShape
-```
+
+
 
 
 Тип DecorationPoint предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public ObjectTransformManipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ObjectTransformManipulator()
-```
+
+
 
 
 #### Ссылки

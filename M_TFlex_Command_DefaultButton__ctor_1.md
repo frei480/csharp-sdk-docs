@@ -14,19 +14,8 @@ public DefaultButton(
 	ButtonStyle style
 )
 ```
-```vb
-Public Sub New ( 
-	kind As DefaultButtonKind,
-	style As ButtonStyle
-)
-```
-```cpp
-public:
-DefaultButton(
-	DefaultButtonKind kind, 
-	ButtonStyle style
-)
-```
+
+
 
 
 #### Параметры

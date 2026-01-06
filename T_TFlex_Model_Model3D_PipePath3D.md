@@ -13,13 +13,8 @@
 ```csharp
 public class PipePath3D : Path3D
 ```
-```vb
-Public Class PipePath3D
-	Inherits Path3D
-```
-```cpp
-public ref class PipePath3D : public Path3D
-```
+
+
 
 
 Тип PipePath3D предоставляет следующие члены.

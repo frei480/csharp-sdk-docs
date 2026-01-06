@@ -14,19 +14,8 @@ public Fragment2D(
 	bool isOwned
 )
 ```
-```vb
-Public Sub New ( 
-	nativeOptionsPointer As IntPtr,
-	isOwned As Boolean
-)
-```
-```cpp
-public:
-Fragment2D(
-	IntPtr nativeOptionsPointer, 
-	bool isOwned
-)
-```
+
+
 
 
 #### Параметры

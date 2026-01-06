@@ -14,19 +14,8 @@ public virtual void CopyTo(
 	int arrayIndex
 )
 ```
-```vb
-Public Overridable Sub CopyTo ( 
-	array As T(),
-	arrayIndex As Integer
-)
-```
-```cpp
-public:
-virtual void CopyTo(
-	array<T>^ array, 
-	int arrayIndex
-)
-```
+
+
 
 
 #### Параметры

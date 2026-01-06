@@ -11,19 +11,8 @@ public bool CopyObjects(
 	CopyObjectsOptions options
 )
 ```
-```vb
-Public Function CopyObjects ( 
-	sourceObjects As List(Of ModelObject),
-	options As CopyObjectsOptions
-) As Boolean
-```
-```cpp
-public:
-bool CopyObjects(
-	List<ModelObject^>^ sourceObjects, 
-	CopyObjectsOptions^ options
-)
-```
+
+
 
 
 #### Параметры

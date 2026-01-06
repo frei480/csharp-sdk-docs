@@ -14,19 +14,8 @@ public void CopyTo(
 	int arrayIndex
 )
 ```
-```vb
-Public Sub CopyTo ( 
-	array As TermGroupItem(),
-	arrayIndex As Integer
-)
-```
-```cpp
-public:
-virtual void CopyTo(
-	array<TermGroupItem^>^ array, 
-	int arrayIndex
-) sealed
-```
+
+
 
 
 #### Параметры

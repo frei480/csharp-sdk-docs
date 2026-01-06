@@ -13,13 +13,8 @@
 ```csharp
 public class Rotation : Sweep
 ```
-```vb
-Public Class Rotation
-	Inherits Sweep
-```
-```cpp
-public ref class Rotation : public Sweep
-```
+
+
 
 
 Тип Rotation предоставляет следующие члены.

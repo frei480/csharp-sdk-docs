@@ -8,18 +8,8 @@
 ```csharp
 public int PageBorder { get; set; }
 ```
-```vb
-Public Property PageBorder As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int PageBorder {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool AsSurface { get; set; }
 ```
-```vb
-Public Property AsSurface As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AsSurface {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

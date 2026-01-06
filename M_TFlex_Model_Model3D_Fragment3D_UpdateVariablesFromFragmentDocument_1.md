@@ -13,17 +13,8 @@ public bool UpdateVariablesFromFragmentDocument(
 	bool recalculateVariablesFromFragment
 )
 ```
-```vb
-Public Function UpdateVariablesFromFragmentDocument ( 
-	recalculateVariablesFromFragment As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool UpdateVariablesFromFragmentDocument(
-	bool recalculateVariablesFromFragment
-)
-```
+
+
 
 
 #### Параметры

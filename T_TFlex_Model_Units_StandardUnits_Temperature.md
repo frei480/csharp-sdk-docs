@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Temperature
 ```
-```vb
-Public NotInheritable Class Temperature
-```
-```cpp
-public ref class Temperature sealed
-```
+
+
 
 
 Тип StandardUnitsTemperature предоставляет следующие члены.

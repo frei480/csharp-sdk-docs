@@ -13,13 +13,8 @@
 ```csharp
 public class TwoProjectionsPath : Path3D
 ```
-```vb
-Public Class TwoProjectionsPath
-	Inherits Path3D
-```
-```cpp
-public ref class TwoProjectionsPath : public Path3D
-```
+
+
 
 
 Тип TwoProjectionsPath предоставляет следующие члены.

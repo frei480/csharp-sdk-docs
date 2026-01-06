@@ -11,18 +11,8 @@
 ```csharp
 public string DOCsIntegrationRule { get; set; }
 ```
-```vb
-Public Property DOCsIntegrationRule As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ DOCsIntegrationRule {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

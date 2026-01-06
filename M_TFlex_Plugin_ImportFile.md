@@ -13,17 +13,8 @@ protected virtual Document ImportFile(
 	string fileName
 )
 ```
-```vb
-Protected Overridable Function ImportFile ( 
-	fileName As String
-) As Document
-```
-```cpp
-protected:
-virtual Document^ ImportFile(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

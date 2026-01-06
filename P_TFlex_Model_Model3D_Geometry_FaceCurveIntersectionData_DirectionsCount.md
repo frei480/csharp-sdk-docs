@@ -8,16 +8,8 @@
 ```csharp
 public int DirectionsCount { get; }
 ```
-```vb
-Public ReadOnly Property DirectionsCount As Integer
-	Get
-```
-```cpp
-public:
-property int DirectionsCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

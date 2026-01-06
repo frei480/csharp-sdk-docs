@@ -11,13 +11,8 @@
 ```csharp
 public void CancelBinding()
 ```
-```vb
-Public Sub CancelBinding
-```
-```cpp
-public:
-void CancelBinding()
-```
+
+
 
 
 #### Ссылки

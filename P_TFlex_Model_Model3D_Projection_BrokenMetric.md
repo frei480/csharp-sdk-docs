@@ -11,18 +11,8 @@
 ```csharp
 public BrokenMetric BrokenMetric { get; set; }
 ```
-```vb
-Public Property BrokenMetric As BrokenMetric
-	Get
-	Set
-```
-```cpp
-public:
-property BrokenMetric BrokenMetric {
-	BrokenMetric get ();
-	void set (BrokenMetric value);
-}
-```
+
+
 
 
 #### Значение свойства

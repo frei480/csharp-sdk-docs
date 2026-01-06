@@ -13,17 +13,8 @@ protected virtual int GetNodeID(
 	int Number
 )
 ```
-```vb
-Protected Overridable Function GetNodeID ( 
-	Number As Integer
-) As Integer
-```
-```cpp
-protected:
-virtual int GetNodeID(
-	int Number
-)
-```
+
+
 
 
 #### Параметры

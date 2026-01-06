@@ -11,13 +11,8 @@
 ```csharp
 public class User : SettingsGroup
 ```
-```vb
-Public Class User
-	Inherits SettingsGroup
-```
-```cpp
-public ref class User : public SettingsGroup
-```
+
+
 
 
 Тип User предоставляет следующие члены.

@@ -13,17 +13,8 @@ public void VDelete(
 	uint index
 )
 ```
-```vb
-Public Sub VDelete ( 
-	index As UInteger
-)
-```
-```cpp
-public:
-void VDelete(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

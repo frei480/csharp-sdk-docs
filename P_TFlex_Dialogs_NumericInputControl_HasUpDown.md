@@ -11,18 +11,8 @@
 ```csharp
 public bool HasUpDown { get; set; }
 ```
-```vb
-Public Property HasUpDown As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool HasUpDown {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

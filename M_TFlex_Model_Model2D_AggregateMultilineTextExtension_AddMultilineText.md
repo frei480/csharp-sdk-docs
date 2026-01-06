@@ -13,19 +13,8 @@ public static int AddMultilineText(
 	this ModelObject A_0
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function AddMultilineText ( 
-	A_0 As ModelObject
-) As Integer
-```
-```cpp
-public:
-[ExtensionAttribute]
-static int AddMultilineText(
-	ModelObject^ A_0
-)
-```
+
+
 
 
 #### Параметры

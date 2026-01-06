@@ -11,18 +11,8 @@
 ```csharp
 public FixResultState State { get; set; }
 ```
-```vb
-Public Property State As FixResultState
-	Get
-	Set
-```
-```cpp
-public:
-property FixResultState State {
-	FixResultState get ();
-	void set (FixResultState value);
-}
-```
+
+
 
 
 #### Значение свойства

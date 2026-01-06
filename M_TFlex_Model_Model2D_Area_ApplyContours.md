@@ -11,13 +11,8 @@
 ```csharp
 public bool ApplyContours()
 ```
-```vb
-Public Function ApplyContours As Boolean
-```
-```cpp
-public:
-bool ApplyContours()
-```
+
+
 
 
 #### Возвращаемое значение

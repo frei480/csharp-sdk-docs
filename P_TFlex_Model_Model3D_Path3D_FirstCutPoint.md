@@ -11,18 +11,8 @@
 ```csharp
 public ModelPoint3D FirstCutPoint { get; set; }
 ```
-```vb
-Public Property FirstCutPoint As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ FirstCutPoint {
-	ModelPoint3D^ get ();
-	void set (ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,12 +13,8 @@
 ```csharp
 public class FullRegenerationWindowItem
 ```
-```vb
-Public Class FullRegenerationWindowItem
-```
-```cpp
-public ref class FullRegenerationWindowItem
-```
+
+
 
 
 Тип FullRegenerationWindowItem предоставляет следующие члены.

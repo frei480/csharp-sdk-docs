@@ -10,17 +10,8 @@ public uint GetCellIndex(
 	IntPtr handle
 )
 ```
-```vb
-Public Function GetCellIndex ( 
-	handle As IntPtr
-) As UInteger
-```
-```cpp
-public:
-unsigned int GetCellIndex(
-	IntPtr handle
-)
-```
+
+
 
 
 #### Параметры

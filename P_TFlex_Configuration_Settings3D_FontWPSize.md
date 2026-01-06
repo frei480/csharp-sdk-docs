@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter FontWPSize { get; set; }
 ```
-```vb
-Public Property FontWPSize As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ FontWPSize {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

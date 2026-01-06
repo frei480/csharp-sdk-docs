@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Mass
 ```
-```vb
-Public NotInheritable Class Mass
-```
-```cpp
-public ref class Mass sealed
-```
+
+
 
 
 Тип StandardUnitsMass предоставляет следующие члены.

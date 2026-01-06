@@ -11,13 +11,8 @@
 ```csharp
 public int DefaultBorderColor
 ```
-```vb
-Public DefaultBorderColor As Integer
-```
-```cpp
-public:
-int DefaultBorderColor
-```
+
+
 
 
 #### Значение поля

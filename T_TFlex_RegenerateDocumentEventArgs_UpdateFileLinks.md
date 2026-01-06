@@ -11,12 +11,8 @@
 ```csharp
 public enum UpdateFileLinks
 ```
-```vb
-Public Enumeration UpdateFileLinks
-```
-```cpp
-public enum class UpdateFileLinks
-```
+
+
 
 
 | Имя члена | Значение | Описание |

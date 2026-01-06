@@ -13,17 +13,8 @@ public Separation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Separation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

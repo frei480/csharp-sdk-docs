@@ -13,17 +13,8 @@ public virtual SurfacePiecewiseData Piecewise(
 	PiecewiseRepresentation representation
 )
 ```
-```vb
-Public Overridable Function Piecewise ( 
-	representation As PiecewiseRepresentation
-) As SurfacePiecewiseData
-```
-```cpp
-public:
-virtual SurfacePiecewiseData^ Piecewise(
-	PiecewiseRepresentation representation
-)
-```
+
+
 
 
 #### Параметры

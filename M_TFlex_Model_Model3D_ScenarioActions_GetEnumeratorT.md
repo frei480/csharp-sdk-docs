@@ -8,13 +8,8 @@
 ```csharp
 public IEnumerator<ScenarioAction> GetEnumeratorT()
 ```
-```vb
-Public Function GetEnumeratorT As IEnumerator(Of ScenarioAction)
-```
-```cpp
-public:
-virtual IEnumerator<ScenarioAction^>^ GetEnumeratorT() sealed
-```
+
+
 
 
 #### Возвращаемое значение

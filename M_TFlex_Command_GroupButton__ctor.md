@@ -14,19 +14,8 @@ public GroupButton(
 	Button[] buttonArray
 )
 ```
-```vb
-Public Sub New ( 
-	groupName As String,
-	buttonArray As Button()
-)
-```
-```cpp
-public:
-GroupButton(
-	String^ groupName, 
-	array<Button^>^ buttonArray
-)
-```
+
+
 
 
 #### Параметры

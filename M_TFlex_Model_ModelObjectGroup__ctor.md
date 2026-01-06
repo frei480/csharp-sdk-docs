@@ -14,19 +14,8 @@ public ModelObjectGroup(
 	string Name
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	Name As String
-)
-```
-```cpp
-public:
-ModelObjectGroup(
-	Document^ Doc, 
-	String^ Name
-)
-```
+
+
 
 
 #### Параметры

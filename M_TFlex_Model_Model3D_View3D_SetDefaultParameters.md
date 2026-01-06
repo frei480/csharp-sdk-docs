@@ -13,17 +13,8 @@ public static void SetDefaultParameters(
 	View3DParameters params
 )
 ```
-```vb
-Public Shared Sub SetDefaultParameters ( 
-	params As View3DParameters
-)
-```
-```cpp
-public:
-static void SetDefaultParameters(
-	View3DParameters^ params
-)
-```
+
+
 
 
 #### Параметры

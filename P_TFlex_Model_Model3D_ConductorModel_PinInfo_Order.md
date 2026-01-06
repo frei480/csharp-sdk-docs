@@ -8,16 +8,8 @@
 ```csharp
 public int Order { get; }
 ```
-```vb
-Public ReadOnly Property Order As Integer
-	Get
-```
-```cpp
-public:
-property int Order {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public Icon LargeIcon { get; set; }
 ```
-```vb
-Public Property LargeIcon As Icon
-	Get
-	Set
-```
-```cpp
-public:
-property Icon^ LargeIcon {
-	Icon^ get ();
-	void set (Icon^ value);
-}
-```
+
+
 
 
 #### Значение свойства

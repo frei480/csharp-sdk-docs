@@ -10,17 +10,8 @@ public void Assign(
 	SheetList source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As SheetList
-)
-```
-```cpp
-public:
-void Assign(
-	SheetList^ source
-)
-```
+
+
 
 
 #### Параметры

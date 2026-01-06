@@ -13,13 +13,8 @@
 ```csharp
 public class ExtendSurface : Operation
 ```
-```vb
-Public Class ExtendSurface
-	Inherits Operation
-```
-```cpp
-public ref class ExtendSurface : public Operation
-```
+
+
 
 
 Тип ExtendSurface предоставляет следующие члены.

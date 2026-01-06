@@ -11,13 +11,8 @@
 ```csharp
 public PathControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PathControl()
-```
+
+
 
 
 #### Ссылки

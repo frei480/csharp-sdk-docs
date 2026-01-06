@@ -13,17 +13,8 @@ public ModelObject GetAt(
 	int i
 )
 ```
-```vb
-Public Function GetAt ( 
-	i As Integer
-) As ModelObject
-```
-```cpp
-public:
-ModelObject^ GetAt(
-	int i
-)
-```
+
+
 
 
 #### Параметры

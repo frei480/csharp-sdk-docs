@@ -11,16 +11,8 @@
 ```csharp
 public VariableListType ListType { get; }
 ```
-```vb
-Public ReadOnly Property ListType As VariableListType
-	Get
-```
-```cpp
-public:
-property VariableListType ListType {
-	VariableListType get ();
-}
-```
+
+
 
 
 #### Значение свойства

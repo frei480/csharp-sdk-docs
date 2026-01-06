@@ -11,13 +11,8 @@
 ```csharp
 public void Decrement()
 ```
-```vb
-Public Sub Decrement
-```
-```cpp
-public:
-void Decrement()
-```
+
+
 
 
 #### Ссылки

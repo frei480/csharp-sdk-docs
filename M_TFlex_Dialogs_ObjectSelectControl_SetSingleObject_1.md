@@ -14,19 +14,8 @@ public void SetSingleObject(
 	bool endUserEdit
 )
 ```
-```vb
-Public Sub SetSingleObject ( 
-	object As ObjectSelectControlPlainObject,
-	endUserEdit As Boolean
-)
-```
-```cpp
-public:
-void SetSingleObject(
-	ObjectSelectControlPlainObject object, 
-	bool endUserEdit
-)
-```
+
+
 
 
 #### Параметры

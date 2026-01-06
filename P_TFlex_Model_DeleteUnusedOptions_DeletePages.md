@@ -11,18 +11,8 @@
 ```csharp
 public bool DeletePages { get; set; }
 ```
-```vb
-Public Property DeletePages As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DeletePages {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

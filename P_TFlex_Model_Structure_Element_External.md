@@ -8,18 +8,8 @@
 ```csharp
 public ExternalMode External { get; set; }
 ```
-```vb
-Public Property External As ExternalMode
-	Get
-	Set
-```
-```cpp
-public:
-property ExternalMode External {
-	ExternalMode get ();
-	void set (ExternalMode value);
-}
-```
+
+
 
 
 #### Значение свойства

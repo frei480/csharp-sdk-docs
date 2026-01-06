@@ -13,17 +13,8 @@ public Point GetWCSPoint(
 	Point point
 )
 ```
-```vb
-Public Function GetWCSPoint ( 
-	point As Point
-) As Point
-```
-```cpp
-public:
-Point GetWCSPoint(
-	Point point
-)
-```
+
+
 
 
 #### Параметры

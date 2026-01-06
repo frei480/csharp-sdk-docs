@@ -12,23 +12,8 @@ public static void SetTextHorizontalAlignment(
 	TextExtensionHorizontalAlignment __unnamed002
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SetTextHorizontalAlignment ( 
-	__unnamed000 As FixingVector,
-	iText As Integer,
-	__unnamed002 As TextExtensionHorizontalAlignment
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SetTextHorizontalAlignment(
-	FixingVector^ __unnamed000, 
-	int iText, 
-	TextExtensionHorizontalAlignment __unnamed002
-)
-```
+
+
 
 
 #### Параметры

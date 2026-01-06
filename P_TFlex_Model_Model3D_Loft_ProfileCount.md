@@ -11,16 +11,8 @@
 ```csharp
 public int ProfileCount { get; }
 ```
-```vb
-Public ReadOnly Property ProfileCount As Integer
-	Get
-```
-```cpp
-public:
-property int ProfileCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

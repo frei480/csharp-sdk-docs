@@ -11,18 +11,8 @@
 ```csharp
 public bool SharedDenotation { get; set; }
 ```
-```vb
-Public Property SharedDenotation As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SharedDenotation {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

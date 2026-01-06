@@ -14,19 +14,8 @@ public virtual void OnHideCursor(
 	MouseEventArgs e
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. System hide cursor automatically.")>
-Public Overridable Sub OnHideCursor ( 
-	e As MouseEventArgs
-)
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. System hide cursor automatically.")]
-virtual void OnHideCursor(
-	MouseEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ protected virtual void DrawingDocumentEventHandler(
 	DrawingDocumentEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub DrawingDocumentEventHandler ( 
-	args As DrawingDocumentEventArgs
-)
-```
-```cpp
-protected:
-virtual void DrawingDocumentEventHandler(
-	DrawingDocumentEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

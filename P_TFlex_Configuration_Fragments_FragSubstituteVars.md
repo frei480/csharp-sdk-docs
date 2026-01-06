@@ -8,18 +8,8 @@
 ```csharp
 public bool FragSubstituteVars { get; set; }
 ```
-```vb
-Public Property FragSubstituteVars As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool FragSubstituteVars {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public double getMeterage(
 	string key
 )
 ```
-```vb
-Public Function getMeterage ( 
-	key As String
-) As Double
-```
-```cpp
-public:
-double getMeterage(
-	String^ key
-)
-```
+
+
 
 
 #### Параметры

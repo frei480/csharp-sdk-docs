@@ -13,13 +13,8 @@
 ```csharp
 public class FaceChange : Operation
 ```
-```vb
-Public Class FaceChange
-	Inherits Operation
-```
-```cpp
-public ref class FaceChange : public Operation
-```
+
+
 
 
 Тип FaceChange предоставляет следующие члены.

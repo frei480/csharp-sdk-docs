@@ -11,19 +11,8 @@ public static bool operator !=(
 	CommonAttributes right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As CommonAttributes,
-	right As CommonAttributes
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	CommonAttributes^ left, 
-	CommonAttributes^ right
-)
-```
+
+
 
 
 #### Параметры

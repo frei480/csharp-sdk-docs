@@ -11,18 +11,8 @@
 ```csharp
 public Node SecondFixingVectorNode { get; set; }
 ```
-```vb
-Public Property SecondFixingVectorNode As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ SecondFixingVectorNode {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

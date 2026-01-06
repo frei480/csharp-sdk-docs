@@ -8,13 +8,8 @@
 ```csharp
 public Element CreateElement()
 ```
-```vb
-Public Function CreateElement As Element
-```
-```cpp
-public:
-Element^ CreateElement()
-```
+
+
 
 
 #### Возвращаемое значение

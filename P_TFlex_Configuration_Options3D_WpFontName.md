@@ -8,18 +8,8 @@
 ```csharp
 public string WpFontName { get; set; }
 ```
-```vb
-Public Property WpFontName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ WpFontName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

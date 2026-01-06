@@ -11,16 +11,8 @@
 ```csharp
 public Plugin Plugin { get; }
 ```
-```vb
-Public ReadOnly Property Plugin As Plugin
-	Get
-```
-```cpp
-public:
-property Plugin^ Plugin {
-	Plugin^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

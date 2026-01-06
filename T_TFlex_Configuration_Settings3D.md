@@ -11,13 +11,8 @@
 ```csharp
 public class Settings3D : SettingsGroup
 ```
-```vb
-Public Class Settings3D
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Settings3D : public SettingsGroup
-```
+
+
 
 
 Тип Settings3D предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Coils { get; set; }
 ```
-```vb
-Public Property Coils As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Coils {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

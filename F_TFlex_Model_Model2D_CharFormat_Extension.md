@@ -11,13 +11,8 @@
 ```csharp
 public double Extension
 ```
-```vb
-Public Extension As Double
-```
-```cpp
-public:
-double Extension
-```
+
+
 
 
 #### Значение поля

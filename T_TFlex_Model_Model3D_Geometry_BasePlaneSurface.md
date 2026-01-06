@@ -11,12 +11,8 @@
 ```csharp
 public interface BasePlaneSurface
 ```
-```vb
-Public Interface BasePlaneSurface
-```
-```cpp
-public interface class BasePlaneSurface
-```
+
+
 
 
 Тип BasePlaneSurface предоставляет следующие члены.

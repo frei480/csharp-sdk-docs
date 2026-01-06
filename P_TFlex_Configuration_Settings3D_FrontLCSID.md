@@ -8,18 +8,8 @@
 ```csharp
 public ObjectId FrontLCSID { get; set; }
 ```
-```vb
-Public Property FrontLCSID As ObjectId
-	Get
-	Set
-```
-```cpp
-public:
-property ObjectId^ FrontLCSID {
-	ObjectId^ get ();
-	void set (ObjectId^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class DiameterEnqueuedEventArgs : LengthDiameterManipulatorValueEnqueuedEventArgs
 ```
-```vb
-Public Class DiameterEnqueuedEventArgs
-	Inherits LengthDiameterManipulatorValueEnqueuedEventArgs
-```
-```cpp
-public ref class DiameterEnqueuedEventArgs : public LengthDiameterManipulatorValueEnqueuedEventArgs
-```
+
+
 
 
 Тип LengthDiameterManipulatorDiameterEnqueuedEventArgs предоставляет следующие члены.

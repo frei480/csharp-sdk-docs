@@ -14,19 +14,8 @@ public void AddElement(
 	LoftOperationPointOnContour point
 )
 ```
-```vb
-Public Sub AddElement ( 
-	sectionIndex As Integer,
-	point As LoftOperationPointOnContour
-)
-```
-```cpp
-public:
-void AddElement(
-	int sectionIndex, 
-	LoftOperationPointOnContour^ point
-)
-```
+
+
 
 
 #### Параметры

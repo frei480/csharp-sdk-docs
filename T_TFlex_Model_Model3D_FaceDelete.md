@@ -13,13 +13,8 @@
 ```csharp
 public class FaceDelete : Operation
 ```
-```vb
-Public Class FaceDelete
-	Inherits Operation
-```
-```cpp
-public ref class FaceDelete : public Operation
-```
+
+
 
 
 Тип FaceDelete предоставляет следующие члены.

@@ -15,21 +15,8 @@ public static Document OpenFragmentDocument(
 	bool recalculate
 )
 ```
-```vb
-Public Shared Function OpenFragmentDocument ( 
-	link As FileLink,
-	with3D As Boolean,
-	recalculate As Boolean
-) As Document
-```
-```cpp
-public:
-static Document^ OpenFragmentDocument(
-	FileLink^ link, 
-	bool with3D, 
-	bool recalculate
-)
-```
+
+
 
 
 #### Параметры

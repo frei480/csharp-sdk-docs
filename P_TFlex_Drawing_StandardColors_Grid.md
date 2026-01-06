@@ -11,16 +11,8 @@
 ```csharp
 public static Color Grid { get; }
 ```
-```vb
-Public Shared ReadOnly Property Grid As Color
-	Get
-```
-```cpp
-public:
-static property Color Grid {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

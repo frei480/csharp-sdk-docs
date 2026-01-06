@@ -8,18 +8,8 @@
 ```csharp
 public OverrideBool SortByPostitions { get; set; }
 ```
-```vb
-Public Property SortByPostitions As OverrideBool
-	Get
-	Set
-```
-```cpp
-public:
-property OverrideBool SortByPostitions {
-	OverrideBool get ();
-	void set (OverrideBool value);
-}
-```
+
+
 
 
 #### Значение свойства

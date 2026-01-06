@@ -8,13 +8,8 @@
 ```csharp
 public void RemovePins()
 ```
-```vb
-Public Sub RemovePins
-```
-```cpp
-public:
-void RemovePins()
-```
+
+
 
 
 #### Ссылки

@@ -11,16 +11,8 @@
 ```csharp
 public Node Node1 { get; }
 ```
-```vb
-Public ReadOnly Property Node1 As Node
-	Get
-```
-```cpp
-public:
-property Node^ Node1 {
-	Node^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

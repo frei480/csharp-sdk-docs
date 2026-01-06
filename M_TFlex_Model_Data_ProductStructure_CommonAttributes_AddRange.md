@@ -10,17 +10,8 @@ public void AddRange(
 	IEnumerable<CommonAttribute> items
 )
 ```
-```vb
-Public Sub AddRange ( 
-	items As IEnumerable(Of CommonAttribute)
-)
-```
-```cpp
-public:
-void AddRange(
-	IEnumerable<CommonAttribute^>^ items
-)
-```
+
+
 
 
 #### Параметры

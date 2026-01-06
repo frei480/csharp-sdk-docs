@@ -13,12 +13,8 @@
 ```csharp
 public class Lump
 ```
-```vb
-Public Class Lump
-```
-```cpp
-public ref class Lump
-```
+
+
 
 
 Тип SheetFromTrimmedSurfaceLump предоставляет следующие члены.

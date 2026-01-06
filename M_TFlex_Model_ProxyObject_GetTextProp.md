@@ -13,17 +13,8 @@ protected virtual string GetTextProp(
 	string name
 )
 ```
-```vb
-Protected Overridable Function GetTextProp ( 
-	name As String
-) As String
-```
-```cpp
-protected:
-virtual String^ GetTextProp(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

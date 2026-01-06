@@ -13,17 +13,8 @@ public void Add(
 	Exclusion exclusion
 )
 ```
-```vb
-Public Sub Add ( 
-	exclusion As Exclusion
-)
-```
-```cpp
-public:
-void Add(
-	Exclusion^ exclusion
-)
-```
+
+
 
 
 #### Параметры

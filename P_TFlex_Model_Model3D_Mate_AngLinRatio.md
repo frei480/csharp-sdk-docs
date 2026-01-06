@@ -11,18 +11,8 @@
 ```csharp
 public Parameter AngLinRatio { get; set; }
 ```
-```vb
-Public Property AngLinRatio As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ AngLinRatio {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

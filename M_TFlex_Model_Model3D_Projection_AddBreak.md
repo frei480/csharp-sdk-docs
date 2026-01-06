@@ -15,21 +15,8 @@ public void AddBreak(
 	Parameter end
 )
 ```
-```vb
-Public Sub AddBreak ( 
-	norm As Boolean,
-	begin As Parameter,
-	end As Parameter
-)
-```
-```cpp
-public:
-void AddBreak(
-	bool norm, 
-	Parameter^ begin, 
-	Parameter^ end
-)
-```
+
+
 
 
 #### Параметры

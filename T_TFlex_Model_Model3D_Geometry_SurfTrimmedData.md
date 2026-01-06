@@ -11,12 +11,8 @@
 ```csharp
 public class SurfTrimmedData
 ```
-```vb
-Public Class SurfTrimmedData
-```
-```cpp
-public ref class SurfTrimmedData
-```
+
+
 
 
 Тип SurfTrimmedData предоставляет следующие члены.

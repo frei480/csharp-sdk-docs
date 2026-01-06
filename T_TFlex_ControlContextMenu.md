@@ -14,18 +14,8 @@ public delegate void ControlContextMenu(
 	ControlEventArgs e
 )
 ```
-```vb
-Public Delegate Sub ControlContextMenu ( 
-	sender As Object,
-	e As ControlEventArgs
-)
-```
-```cpp
-public delegate void ControlContextMenu(
-	Object^ sender, 
-	ControlEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

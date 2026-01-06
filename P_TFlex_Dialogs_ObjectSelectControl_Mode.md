@@ -11,18 +11,8 @@
 ```csharp
 public ObjectSelectControlMode Mode { get; set; }
 ```
-```vb
-Public Property Mode As ObjectSelectControlMode
-	Get
-	Set
-```
-```cpp
-public:
-property ObjectSelectControlMode Mode {
-	ObjectSelectControlMode get ();
-	void set (ObjectSelectControlMode value);
-}
-```
+
+
 
 
 #### Значение свойства

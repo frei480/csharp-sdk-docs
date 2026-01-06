@@ -11,18 +11,8 @@
 ```csharp
 public ToolVisibility LockMode { get; set; }
 ```
-```vb
-Public Property LockMode As ToolVisibility
-	Get
-	Set
-```
-```cpp
-public:
-property ToolVisibility LockMode {
-	ToolVisibility get ();
-	void set (ToolVisibility value);
-}
-```
+
+
 
 
 #### Значение свойства

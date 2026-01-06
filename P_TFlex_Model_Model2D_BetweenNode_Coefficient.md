@@ -11,18 +11,8 @@
 ```csharp
 public double Coefficient { get; set; }
 ```
-```vb
-Public Property Coefficient As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Coefficient {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

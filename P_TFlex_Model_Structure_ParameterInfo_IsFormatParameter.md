@@ -8,18 +8,8 @@
 ```csharp
 public bool IsFormatParameter { get; set; }
 ```
-```vb
-Public Property IsFormatParameter As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsFormatParameter {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

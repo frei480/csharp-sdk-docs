@@ -8,18 +8,8 @@
 ```csharp
 public string InitialDirectory { get; set; }
 ```
-```vb
-Public Property InitialDirectory As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ InitialDirectory {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

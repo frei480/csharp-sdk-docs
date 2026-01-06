@@ -11,18 +11,8 @@
 ```csharp
 public bool IsIntegral { get; set; }
 ```
-```vb
-Public Property IsIntegral As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsIntegral {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

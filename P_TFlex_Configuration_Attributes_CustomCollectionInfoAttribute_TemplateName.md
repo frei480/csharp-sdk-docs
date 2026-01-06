@@ -8,18 +8,8 @@
 ```csharp
 public string TemplateName { get; set; }
 ```
-```vb
-Public Property TemplateName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TemplateName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

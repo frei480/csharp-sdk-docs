@@ -14,19 +14,8 @@ public void SetName(
 	bool includeAllExpressions
 )
 ```
-```vb
-Public Sub SetName ( 
-	name As String,
-	includeAllExpressions As Boolean
-)
-```
-```cpp
-public:
-void SetName(
-	String^ name, 
-	bool includeAllExpressions
-)
-```
+
+
 
 
 #### Параметры

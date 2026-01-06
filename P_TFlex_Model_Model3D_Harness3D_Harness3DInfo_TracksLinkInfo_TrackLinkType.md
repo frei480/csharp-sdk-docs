@@ -8,16 +8,8 @@
 ```csharp
 public Harness3DHarness3DInfoTracksLinkType TrackLinkType { get; }
 ```
-```vb
-Public ReadOnly Property TrackLinkType As Harness3DHarness3DInfoTracksLinkType
-	Get
-```
-```cpp
-public:
-property Harness3DHarness3DInfoTracksLinkType TrackLinkType {
-	Harness3DHarness3DInfoTracksLinkType get ();
-}
-```
+
+
 
 
 #### Значение свойства

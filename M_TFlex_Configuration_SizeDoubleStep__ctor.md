@@ -11,13 +11,8 @@
 ```csharp
 public SizeDoubleStep()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SizeDoubleStep()
-```
+
+
 
 
 #### Ссылки

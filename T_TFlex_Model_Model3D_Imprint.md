@@ -13,13 +13,8 @@
 ```csharp
 public class Imprint : Operation
 ```
-```vb
-Public Class Imprint
-	Inherits Operation
-```
-```cpp
-public ref class Imprint : public Operation
-```
+
+
 
 
 Тип Imprint предоставляет следующие члены.

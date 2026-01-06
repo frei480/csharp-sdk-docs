@@ -10,17 +10,8 @@ public void Update(
 	ModelObject fragment
 )
 ```
-```vb
-Public Sub Update ( 
-	fragment As ModelObject
-)
-```
-```cpp
-public:
-void Update(
-	ModelObject^ fragment
-)
-```
+
+
 
 
 #### Параметры

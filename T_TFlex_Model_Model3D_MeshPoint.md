@@ -13,13 +13,8 @@
 ```csharp
 public class MeshPoint : ThreePlanesPoint
 ```
-```vb
-Public Class MeshPoint
-	Inherits ThreePlanesPoint
-```
-```cpp
-public ref class MeshPoint : public ThreePlanesPoint
-```
+
+
 
 
 Тип MeshPoint предоставляет следующие члены.

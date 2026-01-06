@@ -13,17 +13,8 @@ protected override void OnMouseDoubleClick(
 	MouseEventArgs e
 )
 ```
-```vb
-Protected Overrides Sub OnMouseDoubleClick ( 
-	e As MouseEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnMouseDoubleClick(
-	MouseEventArgs^ e
-) override
-```
+
+
 
 
 #### Параметры

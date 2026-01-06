@@ -8,13 +8,8 @@
 ```csharp
 protected virtual void Init()
 ```
-```vb
-Protected Overridable Sub Init
-```
-```cpp
-protected:
-virtual void Init()
-```
+
+
 
 
 #### Ссылки

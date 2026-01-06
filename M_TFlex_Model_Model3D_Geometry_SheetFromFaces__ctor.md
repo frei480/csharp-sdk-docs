@@ -14,19 +14,8 @@ public SheetFromFaces(
 	BaseFace[] faces
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	faces As BaseFace()
-)
-```
-```cpp
-public:
-SheetFromFaces(
-	ProxyObject3D^ object, 
-	array<BaseFace^>^ faces
-)
-```
+
+
 
 
 #### Параметры

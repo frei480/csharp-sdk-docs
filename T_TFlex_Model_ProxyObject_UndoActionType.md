@@ -11,12 +11,8 @@
 ```csharp
 protected enum UndoActionType
 ```
-```vb
-Protected Enumeration UndoActionType
-```
-```cpp
-protected enum class UndoActionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

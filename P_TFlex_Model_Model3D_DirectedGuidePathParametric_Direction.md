@@ -11,18 +11,8 @@
 ```csharp
 public DirectedGuidePathParametricDirectionType Direction { get; set; }
 ```
-```vb
-Public Property Direction As DirectedGuidePathParametricDirectionType
-	Get
-	Set
-```
-```cpp
-public:
-property DirectedGuidePathParametricDirectionType Direction {
-	DirectedGuidePathParametricDirectionType get ();
-	void set (DirectedGuidePathParametricDirectionType value);
-}
-```
+
+
 
 
 #### Значение свойства

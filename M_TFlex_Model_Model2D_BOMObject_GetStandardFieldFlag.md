@@ -11,19 +11,8 @@ public bool GetStandardFieldFlag(
 	BOMObjectFieldFlag flag
 )
 ```
-```vb
-Public Function GetStandardFieldFlag ( 
-	field As BOMObjectStandardField,
-	flag As BOMObjectFieldFlag
-) As Boolean
-```
-```cpp
-public:
-bool GetStandardFieldFlag(
-	BOMObjectStandardField field, 
-	BOMObjectFieldFlag flag
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public ModelFace GetCenterFace(
 	int faceIndex
 )
 ```
-```vb
-Public Function GetCenterFace ( 
-	faceIndex As Integer
-) As ModelFace
-```
-```cpp
-public:
-ModelFace^ GetCenterFace(
-	int faceIndex
-)
-```
+
+
 
 
 #### Параметры

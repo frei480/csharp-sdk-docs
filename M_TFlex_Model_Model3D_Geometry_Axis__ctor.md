@@ -13,17 +13,8 @@ public Axis(
 	BaseAxis axis
 )
 ```
-```vb
-Public Sub New ( 
-	axis As BaseAxis
-)
-```
-```cpp
-public:
-Axis(
-	BaseAxis^ axis
-)
-```
+
+
 
 
 #### Параметры

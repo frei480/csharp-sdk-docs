@@ -11,18 +11,8 @@
 ```csharp
 public LibraryConfiguration Active { get; set; }
 ```
-```vb
-Public Property Active As LibraryConfiguration
-	Get
-	Set
-```
-```cpp
-public:
-property LibraryConfiguration^ Active {
-	LibraryConfiguration^ get ();
-	void set (LibraryConfiguration^ value);
-}
-```
+
+
 
 
 #### Значение свойства

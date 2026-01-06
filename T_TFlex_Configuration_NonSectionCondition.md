@@ -11,13 +11,8 @@
 ```csharp
 public class NonSectionCondition : SettingsGroup
 ```
-```vb
-Public Class NonSectionCondition
-	Inherits SettingsGroup
-```
-```cpp
-public ref class NonSectionCondition : public SettingsGroup
-```
+
+
 
 
 Тип NonSectionCondition предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public bool Visible { get; }
 ```
-```vb
-Public ReadOnly Property Visible As Boolean
-	Get
-```
-```cpp
-public:
-property bool Visible {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

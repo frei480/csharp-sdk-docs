@@ -8,16 +8,8 @@
 ```csharp
 public BoolOverrideCollection IgnoreSumDifference { get; }
 ```
-```vb
-Public ReadOnly Property IgnoreSumDifference As BoolOverrideCollection
-	Get
-```
-```cpp
-public:
-property BoolOverrideCollection^ IgnoreSumDifference {
-	BoolOverrideCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

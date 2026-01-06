@@ -13,12 +13,8 @@
 ```csharp
 public abstract class PluginFactory
 ```
-```vb
-Public MustInherit Class PluginFactory
-```
-```cpp
-public ref class PluginFactory abstract
-```
+
+
 
 
 Тип PluginFactory предоставляет следующие члены.

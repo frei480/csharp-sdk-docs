@@ -14,19 +14,8 @@ public ChamferAttribute(
 	Parameter offset2
 )
 ```
-```vb
-Public Sub New ( 
-	offset1 As Parameter,
-	offset2 As Parameter
-)
-```
-```cpp
-public:
-ChamferAttribute(
-	Parameter^ offset1, 
-	Parameter^ offset2
-)
-```
+
+
 
 
 #### Параметры

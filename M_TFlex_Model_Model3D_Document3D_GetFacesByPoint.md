@@ -12,23 +12,8 @@ public static ICollection<ModelFace> GetFacesByPoint(
 	IList<Operation> operations
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetFacesByPoint ( 
-	document As Document,
-	point3D As BasePoint3D,
-	operations As IList(Of Operation)
-) As ICollection(Of ModelFace)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<ModelFace^>^ GetFacesByPoint(
-	Document^ document, 
-	BasePoint3D^ point3D, 
-	IList<Operation^>^ operations
-)
-```
+
+
 
 
 #### Параметры

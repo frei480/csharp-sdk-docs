@@ -11,16 +11,8 @@
 ```csharp
 public string Massa { get; }
 ```
-```vb
-Public ReadOnly Property Massa As String
-	Get
-```
-```cpp
-public:
-property String^ Massa {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

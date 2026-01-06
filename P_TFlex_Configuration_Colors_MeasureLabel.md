@@ -8,18 +8,8 @@
 ```csharp
 public int MeasureLabel { get; set; }
 ```
-```vb
-Public Property MeasureLabel As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int MeasureLabel {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

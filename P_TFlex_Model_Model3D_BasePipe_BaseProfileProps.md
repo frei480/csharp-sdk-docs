@@ -8,16 +8,8 @@
 ```csharp
 public BasePipeBaseProfileProperties BaseProfileProps { get; }
 ```
-```vb
-Public ReadOnly Property BaseProfileProps As BasePipeBaseProfileProperties
-	Get
-```
-```cpp
-public:
-property BasePipeBaseProfileProperties^ BaseProfileProps {
-	BasePipeBaseProfileProperties^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public virtual bool Equals(
 	BaseTopol topol
 )
 ```
-```vb
-Public Overridable Function Equals ( 
-	topol As BaseTopol
-) As Boolean
-```
-```cpp
-public:
-virtual bool Equals(
-	BaseTopol^ topol
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public void SetCenterAndCircle(
 	Construction srcCircle
 )
 ```
-```vb
-Public Sub SetCenterAndCircle ( 
-	centerNode As Node,
-	srcCircle As Construction
-)
-```
-```cpp
-public:
-void SetCenterAndCircle(
-	Node^ centerNode, 
-	Construction^ srcCircle
-)
-```
+
+
 
 
 #### Параметры

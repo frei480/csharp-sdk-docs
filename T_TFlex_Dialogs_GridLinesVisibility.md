@@ -12,14 +12,8 @@
 [FlagsAttribute]
 public enum GridLinesVisibility
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration GridLinesVisibility
-```
-```cpp
-[FlagsAttribute]
-public enum class GridLinesVisibility
-```
+
+
 
 
 | Имя члена | Значение | Описание |

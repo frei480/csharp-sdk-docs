@@ -15,21 +15,8 @@ public CustomDoubleRangeAttribute(
 	double step
 )
 ```
-```vb
-Public Sub New ( 
-	min As Double,
-	max As Double,
-	step As Double
-)
-```
-```cpp
-public:
-CustomDoubleRangeAttribute(
-	double min, 
-	double max, 
-	double step
-)
-```
+
+
 
 
 #### Параметры

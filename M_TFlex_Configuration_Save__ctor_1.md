@@ -14,19 +14,8 @@ public Save(
 	bool isOwned
 )
 ```
-```vb
-Public Sub New ( 
-	nativeOptionsPointer As IntPtr,
-	isOwned As Boolean
-)
-```
-```cpp
-public:
-Save(
-	IntPtr nativeOptionsPointer, 
-	bool isOwned
-)
-```
+
+
 
 
 #### Параметры

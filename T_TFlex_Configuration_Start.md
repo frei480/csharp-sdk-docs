@@ -11,13 +11,8 @@
 ```csharp
 public class Start : SettingsGroup
 ```
-```vb
-Public Class Start
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Start : public SettingsGroup
-```
+
+
 
 
 Тип Start предоставляет следующие члены.

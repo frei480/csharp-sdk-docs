@@ -11,18 +11,8 @@
 ```csharp
 public string ModelName { get; set; }
 ```
-```vb
-Public Property ModelName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ModelName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

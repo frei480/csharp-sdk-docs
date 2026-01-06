@@ -11,12 +11,8 @@
 ```csharp
 public enum RoughnessHeightParameterType
 ```
-```vb
-Public Enumeration RoughnessHeightParameterType
-```
-```cpp
-public enum class RoughnessHeightParameterType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

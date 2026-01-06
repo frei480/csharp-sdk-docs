@@ -11,12 +11,8 @@
 ```csharp
 public enum EmptyRectAction
 ```
-```vb
-Public Enumeration EmptyRectAction
-```
-```cpp
-public enum class EmptyRectAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

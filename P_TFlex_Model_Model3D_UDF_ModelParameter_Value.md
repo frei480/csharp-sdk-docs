@@ -11,18 +11,8 @@
 ```csharp
 public Object3D Value { get; set; }
 ```
-```vb
-Public Property Value As Object3D
-	Get
-	Set
-```
-```cpp
-public:
-property Object3D^ Value {
-	Object3D^ get ();
-	void set (Object3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

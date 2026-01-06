@@ -14,19 +14,8 @@ public void SetAbsolute(
 	Parameter y
 )
 ```
-```vb
-Public Sub SetAbsolute ( 
-	x As Parameter,
-	y As Parameter
-)
-```
-```cpp
-public:
-void SetAbsolute(
-	Parameter^ x, 
-	Parameter^ y
-)
-```
+
+
 
 
 #### Параметры

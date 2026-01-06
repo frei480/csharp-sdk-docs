@@ -8,12 +8,8 @@
 ```csharp
 public enum CommandRightButtonAction
 ```
-```vb
-Public Enumeration CommandRightButtonAction
-```
-```cpp
-public enum class CommandRightButtonAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

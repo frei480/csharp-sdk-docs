@@ -14,15 +14,8 @@
 public sealed class ModelFace : ModelTopol, 
 	BaseFace
 ```
-```vb
-Public NotInheritable Class ModelFace
-	Inherits ModelTopol
-	Implements BaseFace
-```
-```cpp
-public ref class ModelFace sealed : public ModelTopol, 
-	BaseFace
-```
+
+
 
 
 Тип ModelFace предоставляет следующие члены.

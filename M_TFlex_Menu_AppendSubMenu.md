@@ -13,17 +13,8 @@ public Menu AppendSubMenu(
 	string caption
 )
 ```
-```vb
-Public Function AppendSubMenu ( 
-	caption As String
-) As Menu
-```
-```cpp
-public:
-Menu^ AppendSubMenu(
-	String^ caption
-)
-```
+
+
 
 
 #### Параметры

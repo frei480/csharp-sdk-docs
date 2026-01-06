@@ -18,23 +18,8 @@ public void SetTangent(
 	Parameter pParam
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete. Please use SetLeftRightTangent.", 
-	true)>
-Public Sub SetTangent ( 
-	pDirection As Point3D,
-	pParam As Parameter
-)
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete. Please use SetLeftRightTangent.", 
-	true)]
-void SetTangent(
-	Point3D^ pDirection, 
-	Parameter^ pParam
-)
-```
+
+
 
 
 #### Параметры

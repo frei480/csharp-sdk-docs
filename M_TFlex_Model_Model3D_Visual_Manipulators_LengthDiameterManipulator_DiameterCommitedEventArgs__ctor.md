@@ -11,13 +11,8 @@
 ```csharp
 public DiameterCommitedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-DiameterCommitedEventArgs()
-```
+
+
 
 
 #### Ссылки

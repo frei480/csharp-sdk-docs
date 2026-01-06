@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ModelEdges : BaseEdges
 ```
-```vb
-Public NotInheritable Class ModelEdges
-	Inherits BaseEdges
-```
-```cpp
-public ref class ModelEdges sealed : public BaseEdges
-```
+
+
 
 
 Тип ModelEdges предоставляет следующие члены.

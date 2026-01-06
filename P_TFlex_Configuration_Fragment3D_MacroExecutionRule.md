@@ -8,18 +8,8 @@
 ```csharp
 public MacroExecutionRules MacroExecutionRule { get; set; }
 ```
-```vb
-Public Property MacroExecutionRule As MacroExecutionRules
-	Get
-	Set
-```
-```cpp
-public:
-property MacroExecutionRules MacroExecutionRule {
-	MacroExecutionRules get ();
-	void set (MacroExecutionRules value);
-}
-```
+
+
 
 
 #### Значение свойства

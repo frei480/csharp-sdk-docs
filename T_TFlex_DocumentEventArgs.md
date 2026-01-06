@@ -13,13 +13,8 @@
 ```csharp
 public class DocumentEventArgs : PluginEventArgs
 ```
-```vb
-Public Class DocumentEventArgs
-	Inherits PluginEventArgs
-```
-```cpp
-public ref class DocumentEventArgs : public PluginEventArgs
-```
+
+
 
 
 Тип DocumentEventArgs предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public DiagnosticsMessageId Id { get; }
 ```
-```vb
-Public ReadOnly Property Id As DiagnosticsMessageId
-	Get
-```
-```cpp
-public:
-property DiagnosticsMessageId^ Id {
-	DiagnosticsMessageId^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

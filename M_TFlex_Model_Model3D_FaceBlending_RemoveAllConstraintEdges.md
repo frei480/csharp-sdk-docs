@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllConstraintEdges()
 ```
-```vb
-Public Sub RemoveAllConstraintEdges
-```
-```cpp
-public:
-void RemoveAllConstraintEdges()
-```
+
+
 
 
 #### Ссылки

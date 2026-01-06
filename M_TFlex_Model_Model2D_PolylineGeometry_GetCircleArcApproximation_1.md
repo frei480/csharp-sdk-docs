@@ -15,21 +15,8 @@ public static CircleArcGeometry[] GetCircleArcApproximation(
 	double accuracy
 )
 ```
-```vb
-Public Shared Function GetCircleArcApproximation ( 
-	X As Double(),
-	Y As Double(),
-	accuracy As Double
-) As CircleArcGeometry()
-```
-```cpp
-public:
-static array<CircleArcGeometry^>^ GetCircleArcApproximation(
-	array<double>^ X, 
-	array<double>^ Y, 
-	double accuracy
-)
-```
+
+
 
 
 #### Параметры

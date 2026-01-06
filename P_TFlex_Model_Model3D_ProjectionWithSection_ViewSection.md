@@ -11,18 +11,8 @@
 ```csharp
 public Section3D ViewSection { get; set; }
 ```
-```vb
-Public Property ViewSection As Section3D
-	Get
-	Set
-```
-```cpp
-public:
-property Section3D^ ViewSection {
-	Section3D^ get ();
-	void set (Section3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

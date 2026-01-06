@@ -13,17 +13,8 @@ public RibbonTab AddTab(
 	string caption
 )
 ```
-```vb
-Public Function AddTab ( 
-	caption As String
-) As RibbonTab
-```
-```cpp
-public:
-RibbonTab^ AddTab(
-	String^ caption
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool FullThird { get; set; }
 ```
-```vb
-Public Property FullThird As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool FullThird {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

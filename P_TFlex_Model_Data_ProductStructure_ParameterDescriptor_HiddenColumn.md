@@ -8,18 +8,8 @@
 ```csharp
 public bool HiddenColumn { get; set; }
 ```
-```vb
-Public Property HiddenColumn As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool HiddenColumn {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

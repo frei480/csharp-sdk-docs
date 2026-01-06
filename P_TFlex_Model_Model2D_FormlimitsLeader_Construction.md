@@ -11,16 +11,8 @@
 ```csharp
 public Construction Construction { get; }
 ```
-```vb
-Public ReadOnly Property Construction As Construction
-	Get
-```
-```cpp
-public:
-property Construction^ Construction {
-	Construction^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

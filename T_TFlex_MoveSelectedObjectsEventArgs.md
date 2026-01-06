@@ -11,13 +11,8 @@
 ```csharp
 public class MoveSelectedObjectsEventArgs : ObjectEventArgs
 ```
-```vb
-Public Class MoveSelectedObjectsEventArgs
-	Inherits ObjectEventArgs
-```
-```cpp
-public ref class MoveSelectedObjectsEventArgs : public ObjectEventArgs
-```
+
+
 
 
 Тип MoveSelectedObjectsEventArgs предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public IntWrap()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-IntWrap()
-```
+
+
 
 
 #### Ссылки

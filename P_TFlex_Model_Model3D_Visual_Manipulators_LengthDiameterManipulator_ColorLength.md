@@ -8,18 +8,8 @@
 ```csharp
 public Color ColorLength { get; set; }
 ```
-```vb
-Public Property ColorLength As Color
-	Get
-	Set
-```
-```cpp
-public:
-property Color ColorLength {
-	Color get ();
-	void set (Color value);
-}
-```
+
+
 
 
 #### Значение свойства

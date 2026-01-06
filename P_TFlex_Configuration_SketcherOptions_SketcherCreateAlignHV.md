@@ -8,18 +8,8 @@
 ```csharp
 public bool SketcherCreateAlignHV { get; set; }
 ```
-```vb
-Public Property SketcherCreateAlignHV As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SketcherCreateAlignHV {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

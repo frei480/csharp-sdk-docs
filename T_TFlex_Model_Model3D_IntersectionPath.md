@@ -13,13 +13,8 @@
 ```csharp
 public class IntersectionPath : Path3D
 ```
-```vb
-Public Class IntersectionPath
-	Inherits Path3D
-```
-```cpp
-public ref class IntersectionPath : public Path3D
-```
+
+
 
 
 Тип IntersectionPath предоставляет следующие члены.

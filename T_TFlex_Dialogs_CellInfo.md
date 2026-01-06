@@ -13,12 +13,8 @@
 ```csharp
 public sealed class CellInfo
 ```
-```vb
-Public NotInheritable Class CellInfo
-```
-```cpp
-public ref class CellInfo sealed
-```
+
+
 
 
 Тип CellInfo предоставляет следующие члены.

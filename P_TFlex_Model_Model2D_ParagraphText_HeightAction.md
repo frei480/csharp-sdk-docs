@@ -11,18 +11,8 @@
 ```csharp
 public ParagraphTextFitHeightAction HeightAction { get; set; }
 ```
-```vb
-Public Property HeightAction As ParagraphTextFitHeightAction
-	Get
-	Set
-```
-```cpp
-public:
-property ParagraphTextFitHeightAction HeightAction {
-	ParagraphTextFitHeightAction get ();
-	void set (ParagraphTextFitHeightAction value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public virtual BasePoint3D Center { get; set; }
 ```
-```vb
-Public Overridable Property Center As BasePoint3D
-	Get
-	Set
-```
-```cpp
-public:
-virtual property BasePoint3D^ Center {
-	BasePoint3D^ get ();
-	void set (BasePoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

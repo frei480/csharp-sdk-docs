@@ -10,17 +10,8 @@ public void SetLeaderMultiPoints(
 	IList<Point> points
 )
 ```
-```vb
-Public Sub SetLeaderMultiPoints ( 
-	points As IList(Of Point)
-)
-```
-```cpp
-public:
-void SetLeaderMultiPoints(
-	IList<Point>^ points
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public void Add(
 	BooleanOperationOperandsArrayOperand operand
 )
 ```
-```vb
-Public Sub Add ( 
-	operand As BooleanOperationOperandsArrayOperand
-)
-```
-```cpp
-public:
-void Add(
-	BooleanOperationOperandsArrayOperand^ operand
-)
-```
+
+
 
 
 #### Параметры

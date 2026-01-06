@@ -11,13 +11,8 @@
 ```csharp
 public double Angle
 ```
-```vb
-Public Angle As Double
-```
-```cpp
-public:
-double Angle
-```
+
+
 
 
 #### Значение поля

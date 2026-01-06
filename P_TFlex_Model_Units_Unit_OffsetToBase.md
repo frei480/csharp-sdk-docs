@@ -8,16 +8,8 @@
 ```csharp
 public double OffsetToBase { get; }
 ```
-```vb
-Public ReadOnly Property OffsetToBase As Double
-	Get
-```
-```cpp
-public:
-property double OffsetToBase {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

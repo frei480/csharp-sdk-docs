@@ -13,17 +13,8 @@ public void SetFApexDir(
 	Point3D p
 )
 ```
-```vb
-Public Sub SetFApexDir ( 
-	p As Point3D
-)
-```
-```cpp
-public:
-void SetFApexDir(
-	Point3D^ p
-)
-```
+
+
 
 
 #### Параметры

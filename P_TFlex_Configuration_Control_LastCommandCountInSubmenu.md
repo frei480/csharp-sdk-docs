@@ -8,18 +8,8 @@
 ```csharp
 public int LastCommandCountInSubmenu { get; set; }
 ```
-```vb
-Public Property LastCommandCountInSubmenu As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int LastCommandCountInSubmenu {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

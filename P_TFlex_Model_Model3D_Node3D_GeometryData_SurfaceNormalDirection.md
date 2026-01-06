@@ -11,16 +11,8 @@
 ```csharp
 public ModelDirection SurfaceNormalDirection { get; }
 ```
-```vb
-Public ReadOnly Property SurfaceNormalDirection As ModelDirection
-	Get
-```
-```cpp
-public:
-property ModelDirection^ SurfaceNormalDirection {
-	ModelDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

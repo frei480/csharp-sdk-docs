@@ -10,17 +10,8 @@ public static TextVerticalAlignment convert(
 	TextExtensionVerticalAlignment A_0
 )
 ```
-```vb
-Public Shared Function convert ( 
-	A_0 As TextExtensionVerticalAlignment
-) As TextVerticalAlignment
-```
-```cpp
-public:
-static TextVerticalAlignment convert(
-	TextExtensionVerticalAlignment A_0
-)
-```
+
+
 
 
 #### Параметры

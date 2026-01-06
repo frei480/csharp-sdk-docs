@@ -11,12 +11,8 @@
 ```csharp
 public enum StandardField
 ```
-```vb
-Public Enumeration StandardField
-```
-```cpp
-public enum class StandardField
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,16 +11,8 @@
 ```csharp
 public bool IsSetBeginPart { get; }
 ```
-```vb
-Public ReadOnly Property IsSetBeginPart As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsSetBeginPart {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

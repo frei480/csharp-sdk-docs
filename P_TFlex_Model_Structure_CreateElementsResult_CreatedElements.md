@@ -8,18 +8,8 @@
 ```csharp
 public IEnumerable<Element> CreatedElements { get; set; }
 ```
-```vb
-Public Property CreatedElements As IEnumerable(Of Element)
-	Get
-	Set
-```
-```cpp
-public:
-property IEnumerable<Element^>^ CreatedElements {
-	IEnumerable<Element^>^ get ();
-	void set (IEnumerable<Element^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

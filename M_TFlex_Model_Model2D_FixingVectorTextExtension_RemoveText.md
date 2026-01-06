@@ -11,21 +11,8 @@ public static void RemoveText(
 	int iText
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub RemoveText ( 
-	__unnamed000 As FixingVector,
-	iText As Integer
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void RemoveText(
-	FixingVector^ __unnamed000, 
-	int iText
-)
-```
+
+
 
 
 #### Параметры

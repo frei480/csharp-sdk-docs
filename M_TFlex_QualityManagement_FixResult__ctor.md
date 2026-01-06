@@ -11,13 +11,8 @@
 ```csharp
 public FixResult()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FixResult()
-```
+
+
 
 
 #### Ссылки

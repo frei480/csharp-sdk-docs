@@ -13,13 +13,8 @@
 ```csharp
 public class Path2DSection : Model2DSection
 ```
-```vb
-Public Class Path2DSection
-	Inherits Model2DSection
-```
-```cpp
-public ref class Path2DSection : public Model2DSection
-```
+
+
 
 
 Тип Path2DSection предоставляет следующие члены.

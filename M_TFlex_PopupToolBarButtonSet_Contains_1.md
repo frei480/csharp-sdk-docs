@@ -14,19 +14,8 @@ public bool Contains(
 	Plugin plugin
 )
 ```
-```vb
-Public Function Contains ( 
-	commandId As Integer,
-	plugin As Plugin
-) As Boolean
-```
-```cpp
-public:
-bool Contains(
-	int commandId, 
-	Plugin^ plugin
-)
-```
+
+
 
 
 #### Параметры

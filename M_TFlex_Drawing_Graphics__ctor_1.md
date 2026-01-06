@@ -14,19 +14,8 @@ public Graphics(
 	AffineMap transformation
 )
 ```
-```vb
-Public Sub New ( 
-	baseGraphics As Graphics,
-	transformation As AffineMap
-)
-```
-```cpp
-public:
-Graphics(
-	Graphics^ baseGraphics, 
-	AffineMap^ transformation
-)
-```
+
+
 
 
 #### Параметры

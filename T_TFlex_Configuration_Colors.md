@@ -11,13 +11,8 @@
 ```csharp
 public class Colors : SettingsGroup
 ```
-```vb
-Public Class Colors
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Colors : public SettingsGroup
-```
+
+
 
 
 Тип Colors предоставляет следующие члены.

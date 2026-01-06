@@ -11,12 +11,8 @@
 ```csharp
 public enum ImportFrom3dOption
 ```
-```vb
-Public Enumeration ImportFrom3dOption
-```
-```cpp
-public enum class ImportFrom3dOption
-```
+
+
 
 
 | Имя члена | Значение | Описание |

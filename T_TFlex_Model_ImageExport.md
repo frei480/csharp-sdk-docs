@@ -12,14 +12,8 @@
 [FlagsAttribute]
 public enum ImageExport
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration ImageExport
-```
-```cpp
-[FlagsAttribute]
-public enum class ImageExport
-```
+
+
 
 
 | Имя члена | Значение | Описание |

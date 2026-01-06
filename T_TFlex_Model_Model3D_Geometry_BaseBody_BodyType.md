@@ -11,12 +11,8 @@
 ```csharp
 public enum BodyType
 ```
-```vb
-Public Enumeration BodyType
-```
-```cpp
-public enum class BodyType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

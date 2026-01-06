@@ -10,17 +10,8 @@ public static bool? Has3DContent(
 	string fileName
 )
 ```
-```vb
-Public Shared Function Has3DContent ( 
-	fileName As String
-) As Boolean?
-```
-```cpp
-public:
-static Nullable<bool> Has3DContent(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

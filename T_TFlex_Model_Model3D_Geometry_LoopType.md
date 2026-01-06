@@ -11,12 +11,8 @@
 ```csharp
 public enum LoopType
 ```
-```vb
-Public Enumeration LoopType
-```
-```cpp
-public enum class LoopType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

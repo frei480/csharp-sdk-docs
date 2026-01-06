@@ -14,19 +14,8 @@ public LoftFaceCondition GetGuideFaceCondition(
 	int guideFaceConditionIndex
 )
 ```
-```vb
-Public Function GetGuideFaceCondition ( 
-	guideIndex As Integer,
-	guideFaceConditionIndex As Integer
-) As LoftFaceCondition
-```
-```cpp
-public:
-LoftFaceCondition^ GetGuideFaceCondition(
-	int guideIndex, 
-	int guideFaceConditionIndex
-)
-```
+
+
 
 
 #### Параметры

@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Farad { get; }
 ```
-```vb
-Public Shared ReadOnly Property Farad As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Farad {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

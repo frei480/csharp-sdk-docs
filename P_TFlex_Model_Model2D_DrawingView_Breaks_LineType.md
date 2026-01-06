@@ -11,18 +11,8 @@
 ```csharp
 public string LineType { get; set; }
 ```
-```vb
-Public Property LineType As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ LineType {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

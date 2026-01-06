@@ -8,16 +8,8 @@
 ```csharp
 public SleevePointElementType Type { get; }
 ```
-```vb
-Public ReadOnly Property Type As SleevePointElementType
-	Get
-```
-```cpp
-public:
-property SleevePointElementType Type {
-	SleevePointElementType get ();
-}
-```
+
+
 
 
 #### Значение свойства

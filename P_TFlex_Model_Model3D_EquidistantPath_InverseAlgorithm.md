@@ -11,18 +11,8 @@
 ```csharp
 public bool InverseAlgorithm { get; set; }
 ```
-```vb
-Public Property InverseAlgorithm As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool InverseAlgorithm {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

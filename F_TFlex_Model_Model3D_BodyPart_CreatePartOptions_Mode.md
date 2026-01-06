@@ -11,13 +11,8 @@
 ```csharp
 public BodyPartCreatePartMode Mode
 ```
-```vb
-Public Mode As BodyPartCreatePartMode
-```
-```cpp
-public:
-BodyPartCreatePartMode Mode
-```
+
+
 
 
 #### Значение поля

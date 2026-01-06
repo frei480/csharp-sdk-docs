@@ -11,18 +11,8 @@
 ```csharp
 public bool ShowDialog { get; set; }
 ```
-```vb
-Public Property ShowDialog As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowDialog {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

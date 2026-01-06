@@ -11,18 +11,8 @@
 ```csharp
 public string MacroName { get; set; }
 ```
-```vb
-Public Property MacroName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ MacroName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

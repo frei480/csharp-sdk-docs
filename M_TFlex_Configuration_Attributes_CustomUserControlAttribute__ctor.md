@@ -13,17 +13,8 @@ public CustomUserControlAttribute(
 	string userControl
 )
 ```
-```vb
-Public Sub New ( 
-	userControl As String
-)
-```
-```cpp
-public:
-CustomUserControlAttribute(
-	String^ userControl
-)
-```
+
+
 
 
 #### Параметры

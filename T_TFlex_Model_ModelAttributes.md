@@ -13,13 +13,8 @@
 ```csharp
 public class ModelAttributes : IEnumerable<ModelAttribute>
 ```
-```vb
-Public Class ModelAttributes
-	Implements IEnumerable(Of ModelAttribute)
-```
-```cpp
-public ref class ModelAttributes : IEnumerable<ModelAttribute^>
-```
+
+
 
 
 Тип ModelAttributes предоставляет следующие члены.

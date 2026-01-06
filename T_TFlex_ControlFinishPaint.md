@@ -14,18 +14,8 @@ public delegate void ControlFinishPaint(
 	ControlPaintEventArgs e
 )
 ```
-```vb
-Public Delegate Sub ControlFinishPaint ( 
-	sender As Object,
-	e As ControlPaintEventArgs
-)
-```
-```cpp
-public delegate void ControlFinishPaint(
-	Object^ sender, 
-	ControlPaintEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

@@ -16,15 +16,8 @@
 [ObsoleteAttribute("This class is obsolete and will be removed. Please use 'LoftOperation' class.")]
 public class Loft : Operation
 ```
-```vb
-<ObsoleteAttribute("This class is obsolete and will be removed. Please use 'LoftOperation' class.")>
-Public Class Loft
-	Inherits Operation
-```
-```cpp
-[ObsoleteAttribute(L"This class is obsolete and will be removed. Please use 'LoftOperation' class.")]
-public ref class Loft : public Operation
-```
+
+
 
 
 Тип Loft предоставляет следующие члены.

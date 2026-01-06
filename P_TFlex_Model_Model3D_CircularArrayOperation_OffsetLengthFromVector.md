@@ -11,18 +11,8 @@
 ```csharp
 public bool OffsetLengthFromVector { get; set; }
 ```
-```vb
-Public Property OffsetLengthFromVector As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OffsetLengthFromVector {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

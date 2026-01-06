@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Kilometer { get; }
 ```
-```vb
-Public Shared ReadOnly Property Kilometer As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Kilometer {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

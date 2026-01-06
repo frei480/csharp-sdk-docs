@@ -17,25 +17,8 @@ public void SetTwoOutlines(
 	AnglePosition position
 )
 ```
-```vb
-Public Sub SetTwoOutlines ( 
-	line1 As Outline,
-	isOnEnd1 As Boolean,
-	line2 As Outline,
-	isOnEnd2 As Boolean,
-	position As AnglePosition
-)
-```
-```cpp
-public:
-void SetTwoOutlines(
-	Outline^ line1, 
-	bool isOnEnd1, 
-	Outline^ line2, 
-	bool isOnEnd2, 
-	AnglePosition position
-)
-```
+
+
 
 
 #### Параметры

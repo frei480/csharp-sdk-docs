@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllDecorations()
 ```
-```vb
-Public Sub RemoveAllDecorations
-```
-```cpp
-public:
-void RemoveAllDecorations()
-```
+
+
 
 
 После удаления декорации из диспетчера обращение к ней недопустимо. Метод Dispose() вызывается автоматически при удалении декорации. 

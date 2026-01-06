@@ -11,19 +11,8 @@ public static bool operator ==(
 	Topol topol2
 )
 ```
-```vb
-Public Shared Operator = ( 
-	topol1 As Topol,
-	topol2 As Topol
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	Topol^ topol1, 
-	Topol^ topol2
-)
-```
+
+
 
 
 #### Параметры

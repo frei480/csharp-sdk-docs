@@ -13,17 +13,8 @@ public UV Parameterize(
 	BasePoint3D point
 )
 ```
-```vb
-Public Function Parameterize ( 
-	point As BasePoint3D
-) As UV
-```
-```cpp
-public:
-UV Parameterize(
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

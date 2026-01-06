@@ -10,16 +10,8 @@ public static implicit operator Suppression (
 	bool Suppress
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	Suppress As Boolean
-) As Suppression
-```
-```cpp
-static implicit operator Suppression^ (
-	bool Suppress
-)
-```
+
+
 
 
 #### Параметры

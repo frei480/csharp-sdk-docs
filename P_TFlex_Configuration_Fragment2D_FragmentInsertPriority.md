@@ -8,18 +8,8 @@
 ```csharp
 public int FragmentInsertPriority { get; set; }
 ```
-```vb
-Public Property FragmentInsertPriority As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int FragmentInsertPriority {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

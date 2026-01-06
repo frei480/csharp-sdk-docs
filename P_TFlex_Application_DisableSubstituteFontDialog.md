@@ -11,18 +11,8 @@
 ```csharp
 public static bool DisableSubstituteFontDialog { get; set; }
 ```
-```vb
-Public Shared Property DisableSubstituteFontDialog As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-static property bool DisableSubstituteFontDialog {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

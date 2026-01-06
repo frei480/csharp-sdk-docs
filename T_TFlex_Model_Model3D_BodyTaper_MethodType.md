@@ -11,12 +11,8 @@
 ```csharp
 public enum MethodType
 ```
-```vb
-Public Enumeration MethodType
-```
-```cpp
-public enum class MethodType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

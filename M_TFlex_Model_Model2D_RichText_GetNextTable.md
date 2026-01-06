@@ -10,17 +10,8 @@ public Table? GetNextTable(
 	Table table
 )
 ```
-```vb
-Public Function GetNextTable ( 
-	table As Table
-) As Table?
-```
-```cpp
-public:
-Nullable<Table> GetNextTable(
-	Table table
-)
-```
+
+
 
 
 #### Параметры

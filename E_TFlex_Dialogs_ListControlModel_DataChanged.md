@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<ListControlModelDataChangedEventArgs> DataChanged
 ```
-```vb
-Public Event DataChanged As EventHandler(Of ListControlModelDataChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<ListControlModelDataChangedEventArgs^>^ DataChanged {
-	void add (EventHandler<ListControlModelDataChangedEventArgs^>^ value);
-	void remove (EventHandler<ListControlModelDataChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

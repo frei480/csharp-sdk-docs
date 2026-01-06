@@ -15,21 +15,8 @@ public FileLink(
 	Document fragment
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	nameFormat As String,
-	fragment As Document
-)
-```
-```cpp
-public:
-FileLink(
-	Document^ document, 
-	String^ nameFormat, 
-	Document^ fragment
-)
-```
+
+
 
 
 #### Параметры

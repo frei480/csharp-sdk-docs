@@ -11,18 +11,8 @@
 ```csharp
 public Parameter IndexSymbolScale { get; set; }
 ```
-```vb
-Public Property IndexSymbolScale As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ IndexSymbolScale {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

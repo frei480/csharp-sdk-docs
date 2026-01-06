@@ -8,13 +8,8 @@
 ```csharp
 protected int m_Current
 ```
-```vb
-Protected m_Current As Integer
-```
-```cpp
-protected:
-int m_Current
-```
+
+
 
 
 #### Значение поля

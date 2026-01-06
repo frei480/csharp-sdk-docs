@@ -11,17 +11,8 @@
 ```csharp
 Layer Layer { get; set; }
 ```
-```vb
-Property Layer As Layer
-	Get
-	Set
-```
-```cpp
-property Layer^ Layer {
-	Layer^ get ();
-	void set (Layer^ value);
-}
-```
+
+
 
 
 #### Значение свойства

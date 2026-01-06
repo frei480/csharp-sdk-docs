@@ -10,18 +10,8 @@ public override BaseVertex this[
 	int Index
 ] { get; }
 ```
-```vb
-Public Overrides ReadOnly Default Property Item ( 
-	Index As Integer
-) As BaseVertex
-	Get
-```
-```cpp
-public:
-virtual property BaseVertex^ default[int Index] {
-	BaseVertex^ get (int Index) override;
-}
-```
+
+
 
 
 #### Параметры

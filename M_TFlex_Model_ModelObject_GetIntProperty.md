@@ -13,17 +13,8 @@ public int? GetIntProperty(
 	string propertyName
 )
 ```
-```vb
-Public Function GetIntProperty ( 
-	propertyName As String
-) As Integer?
-```
-```cpp
-public:
-Nullable<int> GetIntProperty(
-	String^ propertyName
-)
-```
+
+
 
 
 #### Параметры

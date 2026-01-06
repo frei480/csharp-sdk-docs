@@ -16,23 +16,8 @@ public ThreePointArcOutline(
 	Node endNode
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	startNode As Node,
-	middleNode As Node,
-	endNode As Node
-)
-```
-```cpp
-public:
-ThreePointArcOutline(
-	Document^ document, 
-	Node^ startNode, 
-	Node^ middleNode, 
-	Node^ endNode
-)
-```
+
+
 
 
 #### Параметры

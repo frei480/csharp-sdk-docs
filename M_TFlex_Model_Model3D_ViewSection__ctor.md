@@ -13,17 +13,8 @@ public ViewSection(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-ViewSection(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

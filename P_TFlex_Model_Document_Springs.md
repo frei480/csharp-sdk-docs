@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetSprings' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer Springs { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetSprings' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property Springs As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetSprings' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ Springs {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

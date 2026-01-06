@@ -11,18 +11,8 @@
 ```csharp
 public bool Monochrome { get; set; }
 ```
-```vb
-Public Property Monochrome As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Monochrome {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

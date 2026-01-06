@@ -11,13 +11,8 @@
 ```csharp
 public AggregateMultilineTextExtension()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-AggregateMultilineTextExtension()
-```
+
+
 
 
 #### Ссылки

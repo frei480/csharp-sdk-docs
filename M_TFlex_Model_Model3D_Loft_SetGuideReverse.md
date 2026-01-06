@@ -14,19 +14,8 @@ public void SetGuideReverse(
 	bool reverse
 )
 ```
-```vb
-Public Sub SetGuideReverse ( 
-	guideIndex As Integer,
-	reverse As Boolean
-)
-```
-```cpp
-public:
-void SetGuideReverse(
-	int guideIndex, 
-	bool reverse
-)
-```
+
+
 
 
 #### Параметры

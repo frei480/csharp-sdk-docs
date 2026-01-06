@@ -11,18 +11,8 @@
 ```csharp
 public bool CoprocessingFlag { get; set; }
 ```
-```vb
-Public Property CoprocessingFlag As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CoprocessingFlag {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

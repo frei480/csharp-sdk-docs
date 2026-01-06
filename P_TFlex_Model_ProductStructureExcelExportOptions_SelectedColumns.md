@@ -8,18 +8,8 @@
 ```csharp
 public List<Guid> SelectedColumns { get; set; }
 ```
-```vb
-Public Property SelectedColumns As List(Of Guid)
-	Get
-	Set
-```
-```cpp
-public:
-property List<Guid>^ SelectedColumns {
-	List<Guid>^ get ();
-	void set (List<Guid>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

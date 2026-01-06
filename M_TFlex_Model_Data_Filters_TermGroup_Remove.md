@@ -13,17 +13,8 @@ public bool Remove(
 	TermGroupItem item
 )
 ```
-```vb
-Public Function Remove ( 
-	item As TermGroupItem
-) As Boolean
-```
-```cpp
-public:
-virtual bool Remove(
-	TermGroupItem^ item
-) sealed
-```
+
+
 
 
 #### Параметры

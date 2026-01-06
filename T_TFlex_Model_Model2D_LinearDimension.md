@@ -13,13 +13,8 @@
 ```csharp
 public class LinearDimension : LinearDimensionBase
 ```
-```vb
-Public Class LinearDimension
-	Inherits LinearDimensionBase
-```
-```cpp
-public ref class LinearDimension : public LinearDimensionBase
-```
+
+
 
 
 Тип LinearDimension предоставляет следующие члены.

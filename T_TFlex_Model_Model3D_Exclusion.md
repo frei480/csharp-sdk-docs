@@ -13,12 +13,8 @@
 ```csharp
 public class Exclusion
 ```
-```vb
-Public Class Exclusion
-```
-```cpp
-public ref class Exclusion
-```
+
+
 
 
 Тип Exclusion предоставляет следующие члены.

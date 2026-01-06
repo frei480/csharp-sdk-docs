@@ -11,16 +11,8 @@
 ```csharp
 public bool IsValueInRange { get; }
 ```
-```vb
-Public ReadOnly Property IsValueInRange As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsValueInRange {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

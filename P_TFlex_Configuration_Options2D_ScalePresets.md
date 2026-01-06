@@ -8,16 +8,8 @@
 ```csharp
 public Collection ScalePresets { get; }
 ```
-```vb
-Public ReadOnly Property ScalePresets As Collection
-	Get
-```
-```cpp
-public:
-property Collection^ ScalePresets {
-	Collection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

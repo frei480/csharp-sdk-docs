@@ -11,18 +11,8 @@
 ```csharp
 public DimensionStandardType Standard { get; set; }
 ```
-```vb
-Public Property Standard As DimensionStandardType
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionStandardType Standard {
-	DimensionStandardType get ();
-	void set (DimensionStandardType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public Object Result { set; }
 ```
-```vb
-Public WriteOnly Property Result As Object
-	Set
-```
-```cpp
-public:
-property Object^ Result {
-	void set (Object^ value);
-}
-```
+
+
 
 
 #### Значение свойства

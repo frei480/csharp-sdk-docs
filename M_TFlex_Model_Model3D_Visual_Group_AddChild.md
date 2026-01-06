@@ -13,17 +13,8 @@ public void AddChild(
 	SceneNode node
 )
 ```
-```vb
-Public Sub AddChild ( 
-	node As SceneNode
-)
-```
-```cpp
-public:
-void AddChild(
-	SceneNode^ node
-)
-```
+
+
 
 
 #### Параметры

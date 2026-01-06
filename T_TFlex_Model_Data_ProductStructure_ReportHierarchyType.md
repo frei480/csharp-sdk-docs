@@ -11,12 +11,8 @@
 ```csharp
 public enum ReportHierarchyType
 ```
-```vb
-Public Enumeration ReportHierarchyType
-```
-```cpp
-public enum class ReportHierarchyType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

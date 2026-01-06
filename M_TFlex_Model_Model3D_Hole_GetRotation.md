@@ -13,17 +13,8 @@ public ModelTopol GetRotation(
 	int hole
 )
 ```
-```vb
-Public Function GetRotation ( 
-	hole As Integer
-) As ModelTopol
-```
-```cpp
-public:
-ModelTopol^ GetRotation(
-	int hole
-)
-```
+
+
 
 
 #### Параметры

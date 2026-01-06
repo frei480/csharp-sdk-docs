@@ -10,17 +10,8 @@ public void Assign(
 	Control source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Control
-)
-```
-```cpp
-public:
-void Assign(
-	Control^ source
-)
-```
+
+
 
 
 #### Параметры

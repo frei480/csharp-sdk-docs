@@ -11,18 +11,8 @@
 ```csharp
 public LoftOperationLoftSyncStartPointsType Synchronization { get; set; }
 ```
-```vb
-Public Property Synchronization As LoftOperationLoftSyncStartPointsType
-	Get
-	Set
-```
-```cpp
-public:
-property LoftOperationLoftSyncStartPointsType Synchronization {
-	LoftOperationLoftSyncStartPointsType get ();
-	void set (LoftOperationLoftSyncStartPointsType value);
-}
-```
+
+
 
 
 #### Значение свойства

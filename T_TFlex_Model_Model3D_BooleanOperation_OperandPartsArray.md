@@ -11,12 +11,8 @@
 ```csharp
 public class OperandPartsArray
 ```
-```vb
-Public Class OperandPartsArray
-```
-```cpp
-public ref class OperandPartsArray
-```
+
+
 
 
 Тип BooleanOperationOperandPartsArray предоставляет следующие члены.

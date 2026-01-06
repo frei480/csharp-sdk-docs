@@ -11,16 +11,8 @@
 ```csharp
 public int GuideCount { get; }
 ```
-```vb
-Public ReadOnly Property GuideCount As Integer
-	Get
-```
-```cpp
-public:
-property int GuideCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public Material GetFaceMaterial(
 	int Index
 )
 ```
-```vb
-Public Function GetFaceMaterial ( 
-	Group As Integer,
-	Index As Integer
-) As Material
-```
-```cpp
-public:
-Material^ GetFaceMaterial(
-	int Group, 
-	int Index
-)
-```
+
+
 
 
 #### Параметры

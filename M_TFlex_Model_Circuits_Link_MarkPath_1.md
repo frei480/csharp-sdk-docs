@@ -12,21 +12,8 @@ public override void MarkPath(
 	FixingVector point2
 )
 ```
-```vb
-Public Overrides Sub MarkPath ( 
-	__unnamed000 As Graphics,
-	point1 As FixingVector,
-	point2 As FixingVector
-)
-```
-```cpp
-public:
-virtual void MarkPath(
-	Graphics^ __unnamed000, 
-	FixingVector^ point1, 
-	FixingVector^ point2
-) override
-```
+
+
 
 
 #### Параметры

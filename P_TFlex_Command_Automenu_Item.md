@@ -10,18 +10,8 @@ public Button this[
 	int i
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	i As Integer
-) As Button
-	Get
-```
-```cpp
-public:
-property Button^ default[int i] {
-	Button^ get (int i);
-}
-```
+
+
 
 
 #### Параметры

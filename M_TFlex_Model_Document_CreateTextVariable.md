@@ -14,19 +14,8 @@ public Variable CreateTextVariable(
 	string defaultValue
 )
 ```
-```vb
-Public Function CreateTextVariable ( 
-	expression As String,
-	defaultValue As String
-) As Variable
-```
-```cpp
-public:
-Variable^ CreateTextVariable(
-	String^ expression, 
-	String^ defaultValue
-)
-```
+
+
 
 
 #### Параметры

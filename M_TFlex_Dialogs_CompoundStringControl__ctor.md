@@ -11,13 +11,8 @@
 ```csharp
 public CompoundStringControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CompoundStringControl()
-```
+
+
 
 
 #### Ссылки

@@ -8,12 +8,8 @@
 ```csharp
 public enum GroupingResNodeType
 ```
-```vb
-Public Enumeration GroupingResNodeType
-```
-```cpp
-public enum class GroupingResNodeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

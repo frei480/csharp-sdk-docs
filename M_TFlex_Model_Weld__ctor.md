@@ -13,17 +13,8 @@ public Weld(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-Weld(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

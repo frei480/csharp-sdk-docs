@@ -10,17 +10,8 @@ public bool Merge(
 	Shell shell
 )
 ```
-```vb
-Public Function Merge ( 
-	shell As Shell
-) As Boolean
-```
-```cpp
-public:
-bool Merge(
-	Shell^ shell
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class RelativeNode : Node
 ```
-```vb
-Public Class RelativeNode
-	Inherits Node
-```
-```cpp
-public ref class RelativeNode : public Node
-```
+
+
 
 
 Тип RelativeNode предоставляет следующие члены.

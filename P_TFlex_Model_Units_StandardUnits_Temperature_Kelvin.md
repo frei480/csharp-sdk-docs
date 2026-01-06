@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Kelvin { get; }
 ```
-```vb
-Public Shared ReadOnly Property Kelvin As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Kelvin {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

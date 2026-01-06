@@ -14,14 +14,8 @@
 public class OperationsArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class OperationsArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class OperationsArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип MassCenterNode3DOperationsArray предоставляет следующие члены.

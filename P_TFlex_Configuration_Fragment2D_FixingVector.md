@@ -8,18 +8,8 @@
 ```csharp
 public int FixingVector { get; set; }
 ```
-```vb
-Public Property FixingVector As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int FixingVector {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

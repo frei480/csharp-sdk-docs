@@ -15,21 +15,8 @@ public abstract WireConnectionInfo AddWireConnectionInfo(
 	ModelObject end
 )
 ```
-```vb
-Public MustOverride Function AddWireConnectionInfo ( 
-	wire As Element,
-	start As ModelObject,
-	end As ModelObject
-) As WireConnectionInfo
-```
-```cpp
-public:
-virtual WireConnectionInfo^ AddWireConnectionInfo(
-	Element^ wire, 
-	ModelObject^ start, 
-	ModelObject^ end
-) abstract
-```
+
+
 
 
 #### Параметры

@@ -13,23 +13,8 @@ public static Data CreateSphere(
 	double radius
 )
 ```
-```vb
-Public Shared Function CreateSphere ( 
-	id As ULong,
-	name As String,
-	origin As Point3D,
-	radius As Double
-) As Data
-```
-```cpp
-public:
-static Data^ CreateSphere(
-	unsigned long long id, 
-	String^ name, 
-	Point3D^ origin, 
-	double radius
-)
-```
+
+
 
 
 #### Параметры

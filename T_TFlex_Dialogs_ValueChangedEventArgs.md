@@ -13,13 +13,8 @@
 ```csharp
 public class ValueChangedEventArgs : BaseEventArgs
 ```
-```vb
-Public Class ValueChangedEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class ValueChangedEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип ValueChangedEventArgs предоставляет следующие члены.

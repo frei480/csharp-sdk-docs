@@ -13,17 +13,8 @@ public void AddDecoration(
 	Decoration decoration
 )
 ```
-```vb
-Public Sub AddDecoration ( 
-	decoration As Decoration
-)
-```
-```cpp
-public:
-void AddDecoration(
-	Decoration^ decoration
-)
-```
+
+
 
 
 #### Параметры

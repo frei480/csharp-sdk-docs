@@ -8,18 +8,8 @@
 ```csharp
 public SortRuleItemCompareType compareType { get; set; }
 ```
-```vb
-Public Property compareType As SortRuleItemCompareType
-	Get
-	Set
-```
-```cpp
-public:
-property SortRuleItemCompareType compareType {
-	SortRuleItemCompareType get ();
-	void set (SortRuleItemCompareType value);
-}
-```
+
+
 
 
 #### Значение свойства

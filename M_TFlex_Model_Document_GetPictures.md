@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Picture> GetPictures()
 ```
-```vb
-Public Function GetPictures As ICollection(Of Picture)
-```
-```cpp
-public:
-ICollection<Picture^>^ GetPictures()
-```
+
+
 
 
 #### Возвращаемое значение

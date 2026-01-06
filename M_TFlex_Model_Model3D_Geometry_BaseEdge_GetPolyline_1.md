@@ -15,20 +15,8 @@ Point3D[] GetPolyline(
 	double curve_chord_max
 )
 ```
-```vb
-Function GetPolyline ( 
-	curve_chord_tol As Double,
-	curve_chord_ang As Double,
-	curve_chord_max As Double
-) As Point3D()
-```
-```cpp
-array<Point3D^>^ GetPolyline(
-	double curve_chord_tol, 
-	double curve_chord_ang, 
-	double curve_chord_max
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public static int Decoration2Index { get; }
 ```
-```vb
-Public Shared ReadOnly Property Decoration2Index As Integer
-	Get
-```
-```cpp
-public:
-static property int Decoration2Index {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

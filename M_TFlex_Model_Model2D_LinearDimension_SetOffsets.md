@@ -18,27 +18,8 @@ public void SetOffsets(
 	double offset3
 )
 ```
-```vb
-Public Sub SetOffsets ( 
-	fixNode1 As Node,
-	offset1 As Double,
-	fixNode2 As Node,
-	offset2 As Double,
-	fixNode3 As Node,
-	offset3 As Double
-)
-```
-```cpp
-public:
-void SetOffsets(
-	Node^ fixNode1, 
-	double offset1, 
-	Node^ fixNode2, 
-	double offset2, 
-	Node^ fixNode3, 
-	double offset3
-)
-```
+
+
 
 
 #### Параметры

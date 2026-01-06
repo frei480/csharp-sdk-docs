@@ -11,16 +11,8 @@
 ```csharp
 public FacesArray ToolFaces { get; }
 ```
-```vb
-Public ReadOnly Property ToolFaces As FacesArray
-	Get
-```
-```cpp
-public:
-property FacesArray^ ToolFaces {
-	FacesArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public bool Sense { get; set; }
 ```
-```vb
-Public Property Sense As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Sense {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

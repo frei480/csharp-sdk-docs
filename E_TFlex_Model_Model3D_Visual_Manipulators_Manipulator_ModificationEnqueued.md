@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<ModificationEnqueuedEventArgs> ModificationEnqueued
 ```
-```vb
-Public Event ModificationEnqueued As EventHandler(Of ModificationEnqueuedEventArgs)
-```
-```cpp
-public:
- event EventHandler<ModificationEnqueuedEventArgs^>^ ModificationEnqueued {
-	void add (EventHandler<ModificationEnqueuedEventArgs^>^ value);
-	void remove (EventHandler<ModificationEnqueuedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

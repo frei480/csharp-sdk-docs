@@ -14,19 +14,8 @@ public Point(
 	double y
 )
 ```
-```vb
-Public Sub New ( 
-	x As Double,
-	y As Double
-)
-```
-```cpp
-public:
-Point(
-	double x, 
-	double y
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public static SpatialWorkSurface Create(
 	IntPtr Handle
 )
 ```
-```vb
-Public Shared Function Create ( 
-	Handle As IntPtr
-) As SpatialWorkSurface
-```
-```cpp
-public:
-static SpatialWorkSurface^ Create(
-	IntPtr Handle
-)
-```
+
+
 
 
 #### Параметры

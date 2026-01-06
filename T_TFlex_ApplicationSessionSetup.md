@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ApplicationSessionSetup
 ```
-```vb
-Public NotInheritable Class ApplicationSessionSetup
-```
-```cpp
-public ref class ApplicationSessionSetup sealed
-```
+
+
 
 
 Тип ApplicationSessionSetup предоставляет следующие члены.

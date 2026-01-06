@@ -13,17 +13,8 @@ public void RemoveExclusion(
 	Object2D object2D
 )
 ```
-```vb
-Public Sub RemoveExclusion ( 
-	object2D As Object2D
-)
-```
-```cpp
-public:
-void RemoveExclusion(
-	Object2D^ object2D
-)
-```
+
+
 
 
 #### Параметры

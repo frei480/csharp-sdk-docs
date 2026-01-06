@@ -13,17 +13,8 @@ public int AddMultipleLeaderString(
 	string text
 )
 ```
-```vb
-Public Function AddMultipleLeaderString ( 
-	text As String
-) As Integer
-```
-```cpp
-public:
-int AddMultipleLeaderString(
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public CreateReferenceDimensionsType CreateReferenceDimensions { get; set; }
 ```
-```vb
-Public Property CreateReferenceDimensions As CreateReferenceDimensionsType
-	Get
-	Set
-```
-```cpp
-public:
-property CreateReferenceDimensionsType CreateReferenceDimensions {
-	CreateReferenceDimensionsType get ();
-	void set (CreateReferenceDimensionsType value);
-}
-```
+
+
 
 
 #### Значение свойства

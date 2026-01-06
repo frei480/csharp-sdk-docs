@@ -11,13 +11,8 @@
 ```csharp
 public bool MakeNonAssociative()
 ```
-```vb
-Public Function MakeNonAssociative As Boolean
-```
-```cpp
-public:
-bool MakeNonAssociative()
-```
+
+
 
 
 #### Возвращаемое значение

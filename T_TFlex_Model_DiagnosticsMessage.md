@@ -13,12 +13,8 @@
 ```csharp
 public sealed class DiagnosticsMessage
 ```
-```vb
-Public NotInheritable Class DiagnosticsMessage
-```
-```cpp
-public ref class DiagnosticsMessage sealed
-```
+
+
 
 
 Тип DiagnosticsMessage предоставляет следующие члены.

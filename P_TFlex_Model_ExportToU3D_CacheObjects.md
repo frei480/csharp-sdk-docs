@@ -11,18 +11,8 @@
 ```csharp
 public bool CacheObjects { get; set; }
 ```
-```vb
-Public Property CacheObjects As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CacheObjects {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

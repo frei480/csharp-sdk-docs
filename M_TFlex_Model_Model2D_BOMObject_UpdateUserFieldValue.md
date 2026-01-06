@@ -14,19 +14,8 @@ public void UpdateUserFieldValue(
 	string value
 )
 ```
-```vb
-Public Sub UpdateUserFieldValue ( 
-	fieldName As String,
-	value As String
-)
-```
-```cpp
-public:
-void UpdateUserFieldValue(
-	String^ fieldName, 
-	String^ value
-)
-```
+
+
 
 
 #### Параметры

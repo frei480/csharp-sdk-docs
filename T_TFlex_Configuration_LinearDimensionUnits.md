@@ -8,12 +8,8 @@
 ```csharp
 public enum LinearDimensionUnits
 ```
-```vb
-Public Enumeration LinearDimensionUnits
-```
-```cpp
-public enum class LinearDimensionUnits
-```
+
+
 
 
 | Имя члена | Значение | Описание |

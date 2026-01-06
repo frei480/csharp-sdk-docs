@@ -13,17 +13,8 @@ public void ApplyToAngle(
 	ref double angle
 )
 ```
-```vb
-Public Sub ApplyToAngle ( 
-	ByRef angle As Double
-)
-```
-```cpp
-public:
-void ApplyToAngle(
-	double% angle
-)
-```
+
+
 
 
 #### Параметры

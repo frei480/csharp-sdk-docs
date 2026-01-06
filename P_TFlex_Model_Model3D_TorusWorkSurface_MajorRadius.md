@@ -11,18 +11,8 @@
 ```csharp
 public Parameter MajorRadius { get; set; }
 ```
-```vb
-Public Property MajorRadius As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ MajorRadius {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

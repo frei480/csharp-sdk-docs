@@ -8,16 +8,8 @@
 ```csharp
 public ICollection<Conductor> Conductors { get; }
 ```
-```vb
-Public ReadOnly Property Conductors As ICollection(Of Conductor)
-	Get
-```
-```cpp
-public:
-property ICollection<Conductor^>^ Conductors {
-	ICollection<Conductor^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

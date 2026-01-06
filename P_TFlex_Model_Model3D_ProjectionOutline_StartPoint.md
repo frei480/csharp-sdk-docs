@@ -8,16 +8,8 @@
 ```csharp
 public ValueType StartPoint { get; }
 ```
-```vb
-Public ReadOnly Property StartPoint As ValueType
-	Get
-```
-```cpp
-public:
-property ValueType^ StartPoint {
-	ValueType^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

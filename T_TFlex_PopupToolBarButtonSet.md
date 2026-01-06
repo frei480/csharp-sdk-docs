@@ -13,12 +13,8 @@
 ```csharp
 public class PopupToolBarButtonSet
 ```
-```vb
-Public Class PopupToolBarButtonSet
-```
-```cpp
-public ref class PopupToolBarButtonSet
-```
+
+
 
 
 Тип PopupToolBarButtonSet предоставляет следующие члены.

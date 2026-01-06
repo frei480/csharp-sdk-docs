@@ -16,23 +16,8 @@ public static string[] GetDocumentExternalFileLinks(
 	bool recursive
 )
 ```
-```vb
-Public Shared Function GetDocumentExternalFileLinks ( 
-	fileName As String,
-	includeModelFilesOnly As Boolean,
-	includeLibraryLinks As Boolean,
-	recursive As Boolean
-) As String()
-```
-```cpp
-public:
-static array<String^>^ GetDocumentExternalFileLinks(
-	String^ fileName, 
-	bool includeModelFilesOnly, 
-	bool includeLibraryLinks, 
-	bool recursive
-)
-```
+
+
 
 
 #### Параметры

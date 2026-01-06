@@ -13,17 +13,8 @@ public Cylinder(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Cylinder(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

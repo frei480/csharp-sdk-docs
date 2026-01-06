@@ -11,18 +11,8 @@
 ```csharp
 public Parameter LinearDimensionPrecision { get; set; }
 ```
-```vb
-Public Property LinearDimensionPrecision As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ LinearDimensionPrecision {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

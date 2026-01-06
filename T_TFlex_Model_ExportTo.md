@@ -13,12 +13,8 @@
 ```csharp
 public abstract class ExportTo
 ```
-```vb
-Public MustInherit Class ExportTo
-```
-```cpp
-public ref class ExportTo abstract
-```
+
+
 
 
 Тип ExportTo предоставляет следующие члены.

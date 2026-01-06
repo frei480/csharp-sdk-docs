@@ -8,16 +8,8 @@
 ```csharp
 public event PropertyChangedEventHandler PropertyChanged
 ```
-```vb
-Public Event PropertyChanged As PropertyChangedEventHandler
-```
-```cpp
-public:
- event PropertyChangedEventHandler^ PropertyChanged {
-	void add (PropertyChangedEventHandler^ value);
-	void remove (PropertyChangedEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

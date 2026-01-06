@@ -11,16 +11,8 @@
 ```csharp
 public bool Editable { get; }
 ```
-```vb
-Public ReadOnly Property Editable As Boolean
-	Get
-```
-```cpp
-public:
-property bool Editable {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

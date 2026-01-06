@@ -11,16 +11,8 @@
 ```csharp
 public BaseBody Tool { get; }
 ```
-```vb
-Public ReadOnly Property Tool As BaseBody
-	Get
-```
-```cpp
-public:
-property BaseBody^ Tool {
-	BaseBody^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

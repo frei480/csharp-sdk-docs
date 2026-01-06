@@ -11,13 +11,8 @@
 ```csharp
 public WrapPanelControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-WrapPanelControl()
-```
+
+
 
 
 #### Ссылки

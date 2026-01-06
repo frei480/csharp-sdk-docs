@@ -11,16 +11,8 @@
 ```csharp
 public SweepGeneratorLaw Scale { get; }
 ```
-```vb
-Public ReadOnly Property Scale As SweepGeneratorLaw
-	Get
-```
-```cpp
-public:
-property SweepGeneratorLaw^ Scale {
-	SweepGeneratorLaw^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

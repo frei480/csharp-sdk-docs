@@ -15,21 +15,8 @@ public void SetThreeNodes(
 	Node srcNode3
 )
 ```
-```vb
-Public Sub SetThreeNodes ( 
-	srcNode1 As Node,
-	srcNode2 As Node,
-	srcNode3 As Node
-)
-```
-```cpp
-public:
-void SetThreeNodes(
-	Node^ srcNode1, 
-	Node^ srcNode2, 
-	Node^ srcNode3
-)
-```
+
+
 
 
 #### Параметры

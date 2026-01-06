@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllOffsetFaces()
 ```
-```vb
-Public Sub RemoveAllOffsetFaces
-```
-```cpp
-public:
-void RemoveAllOffsetFaces()
-```
+
+
 
 
 #### Ссылки

@@ -8,12 +8,8 @@
 ```csharp
 public enum LinkBreakPageFormats
 ```
-```vb
-Public Enumeration LinkBreakPageFormats
-```
-```cpp
-public enum class LinkBreakPageFormats
-```
+
+
 
 
 | Имя члена | Значение | Описание |

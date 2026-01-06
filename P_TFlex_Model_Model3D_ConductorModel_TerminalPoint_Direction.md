@@ -8,18 +8,8 @@
 ```csharp
 public BaseDirection Direction { get; set; }
 ```
-```vb
-Public Property Direction As BaseDirection
-	Get
-	Set
-```
-```cpp
-public:
-property BaseDirection^ Direction {
-	BaseDirection^ get ();
-	void set (BaseDirection^ value);
-}
-```
+
+
 
 
 #### Значение свойства

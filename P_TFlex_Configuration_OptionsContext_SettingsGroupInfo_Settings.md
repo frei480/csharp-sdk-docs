@@ -8,18 +8,8 @@
 ```csharp
 public SettingsGroup Settings { get; set; }
 ```
-```vb
-Public Property Settings As SettingsGroup
-	Get
-	Set
-```
-```cpp
-public:
-property SettingsGroup^ Settings {
-	SettingsGroup^ get ();
-	void set (SettingsGroup^ value);
-}
-```
+
+
 
 
 #### Значение свойства

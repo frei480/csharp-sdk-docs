@@ -14,19 +14,8 @@ public void SetConfiguration(
 	string displayName
 )
 ```
-```vb
-Public Sub SetConfiguration ( 
-	version As String,
-	displayName As String
-)
-```
-```cpp
-public:
-void SetConfiguration(
-	String^ version, 
-	String^ displayName
-)
-```
+
+
 
 
 #### Параметры

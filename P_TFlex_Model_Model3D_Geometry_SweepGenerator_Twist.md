@@ -11,16 +11,8 @@
 ```csharp
 public SweepGeneratorLaw Twist { get; }
 ```
-```vb
-Public ReadOnly Property Twist As SweepGeneratorLaw
-	Get
-```
-```cpp
-public:
-property SweepGeneratorLaw^ Twist {
-	SweepGeneratorLaw^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

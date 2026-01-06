@@ -8,18 +8,8 @@
 ```csharp
 public ForceUnitType ForceUnit { get; set; }
 ```
-```vb
-Public Property ForceUnit As ForceUnitType
-	Get
-	Set
-```
-```cpp
-public:
-property ForceUnitType ForceUnit {
-	ForceUnitType get ();
-	void set (ForceUnitType value);
-}
-```
+
+
 
 
 #### Значение свойства

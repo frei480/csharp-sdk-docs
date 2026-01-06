@@ -13,17 +13,8 @@ public FillHoleOperationContour GetContour(
 	int contourIndex
 )
 ```
-```vb
-Public Function GetContour ( 
-	contourIndex As Integer
-) As FillHoleOperationContour
-```
-```cpp
-public:
-FillHoleOperationContour^ GetContour(
-	int contourIndex
-)
-```
+
+
 
 
 #### Параметры

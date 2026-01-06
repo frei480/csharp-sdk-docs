@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ImportFromParasolid
 ```
-```vb
-Public NotInheritable Class ImportFromParasolid
-```
-```cpp
-public ref class ImportFromParasolid sealed
-```
+
+
 
 
 Тип ImportFromParasolid предоставляет следующие члены.

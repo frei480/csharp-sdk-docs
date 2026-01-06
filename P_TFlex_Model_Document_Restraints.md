@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetRestraints' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer Restraints { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetRestraints' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property Restraints As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetRestraints' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ Restraints {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

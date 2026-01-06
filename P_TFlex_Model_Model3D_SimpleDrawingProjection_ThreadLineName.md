@@ -11,18 +11,8 @@
 ```csharp
 public string ThreadLineName { get; set; }
 ```
-```vb
-Public Property ThreadLineName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ThreadLineName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public static int FindClosestIndex(
 	uint colorref
 )
 ```
-```vb
-Public Shared Function FindClosestIndex ( 
-	colorref As UInteger
-) As Integer
-```
-```cpp
-public:
-static int FindClosestIndex(
-	unsigned int colorref
-)
-```
+
+
 
 
 #### Параметры

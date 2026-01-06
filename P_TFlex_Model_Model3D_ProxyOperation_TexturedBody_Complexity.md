@@ -11,18 +11,8 @@
 ```csharp
 public double Complexity { get; set; }
 ```
-```vb
-Public Property Complexity As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Complexity {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

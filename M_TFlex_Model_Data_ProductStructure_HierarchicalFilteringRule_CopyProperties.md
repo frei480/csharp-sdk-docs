@@ -10,17 +10,8 @@ public override void CopyProperties(
 	IFilteringRule src
 )
 ```
-```vb
-Public Overrides Sub CopyProperties ( 
-	src As IFilteringRule
-)
-```
-```cpp
-public:
-virtual void CopyProperties(
-	IFilteringRule^ src
-) override
-```
+
+
 
 
 #### Параметры

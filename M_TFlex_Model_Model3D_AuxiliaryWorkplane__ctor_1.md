@@ -14,19 +14,8 @@ public AuxiliaryWorkplane(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-public:
-AuxiliaryWorkplane(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

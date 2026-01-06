@@ -13,17 +13,8 @@ public int GetTablePosition(
 	Table table
 )
 ```
-```vb
-Public Function GetTablePosition ( 
-	table As Table
-) As Integer
-```
-```cpp
-public:
-int GetTablePosition(
-	Table table
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public int GetRowSpan(
 	int column
 )
 ```
-```vb
-Public Function GetRowSpan ( 
-	row As Integer,
-	column As Integer
-) As Integer
-```
-```cpp
-public:
-int GetRowSpan(
-	int row, 
-	int column
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool VariableCreationEnabled { get; set; }
 ```
-```vb
-Public Property VariableCreationEnabled As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool VariableCreationEnabled {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

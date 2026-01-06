@@ -13,13 +13,8 @@
 ```csharp
 public sealed class DecorationManager : IDisposable
 ```
-```vb
-Public NotInheritable Class DecorationManager
-	Implements IDisposable
-```
-```cpp
-public ref class DecorationManager sealed : IDisposable
-```
+
+
 
 
 Тип DecorationManager предоставляет следующие члены.

@@ -14,19 +14,8 @@ public DecorationPoint(
 	FloatVector coords
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	coords As FloatVector
-)
-```
-```cpp
-public:
-DecorationPoint(
-	String^ name, 
-	FloatVector coords
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public ArrowViewSymbolNotePosition NotePosition { get; set; }
 ```
-```vb
-Public Property NotePosition As ArrowViewSymbolNotePosition
-	Get
-	Set
-```
-```cpp
-public:
-property ArrowViewSymbolNotePosition NotePosition {
-	ArrowViewSymbolNotePosition get ();
-	void set (ArrowViewSymbolNotePosition value);
-}
-```
+
+
 
 
 #### Значение свойства

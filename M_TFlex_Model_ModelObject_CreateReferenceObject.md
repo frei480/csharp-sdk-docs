@@ -11,19 +11,8 @@ public static ModelObject CreateReferenceObject(
 	ModelObject object
 )
 ```
-```vb
-Public Shared Function CreateReferenceObject ( 
-	targetDoc As Document,
-	object As ModelObject
-) As ModelObject
-```
-```cpp
-public:
-static ModelObject^ CreateReferenceObject(
-	Document^ targetDoc, 
-	ModelObject^ object
-)
-```
+
+
 
 
 #### Параметры

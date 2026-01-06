@@ -11,13 +11,8 @@
 ```csharp
 public class PageProperties : SettingsGroup
 ```
-```vb
-Public Class PageProperties
-	Inherits SettingsGroup
-```
-```cpp
-public ref class PageProperties : public SettingsGroup
-```
+
+
 
 
 Тип PageProperties предоставляет следующие члены.

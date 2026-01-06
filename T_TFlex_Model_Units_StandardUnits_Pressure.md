@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Pressure
 ```
-```vb
-Public NotInheritable Class Pressure
-```
-```cpp
-public ref class Pressure sealed
-```
+
+
 
 
 Тип StandardUnitsPressure предоставляет следующие члены.

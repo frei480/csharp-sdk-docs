@@ -11,12 +11,8 @@
 ```csharp
 public enum StandardType
 ```
-```vb
-Public Enumeration StandardType
-```
-```cpp
-public enum class StandardType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

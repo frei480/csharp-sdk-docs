@@ -11,19 +11,8 @@ public bool RemoveConductors(
 	bool canRemove
 )
 ```
-```vb
-Public Function RemoveConductors ( 
-	keys As List(Of Guid),
-	canRemove As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool RemoveConductors(
-	List<Guid>^ keys, 
-	bool canRemove
-)
-```
+
+
 
 
 #### Параметры

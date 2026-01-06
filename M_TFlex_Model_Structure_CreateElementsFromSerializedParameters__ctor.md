@@ -11,13 +11,8 @@
 ```csharp
 public CreateElementsFromSerializedParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CreateElementsFromSerializedParameters()
-```
+
+
 
 
 #### Ссылки

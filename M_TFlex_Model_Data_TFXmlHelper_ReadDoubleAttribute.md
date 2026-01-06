@@ -12,23 +12,8 @@ public static double ReadDoubleAttribute(
 	double defValue = 0
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function ReadDoubleAttribute ( 
-	element As XmlElement,
-	attrName As String,
-	Optional defValue As Double = 0
-) As Double
-```
-```cpp
-public:
-[ExtensionAttribute]
-static double ReadDoubleAttribute(
-	XmlElement^ element, 
-	String^ attrName, 
-	double defValue = 0
-)
-```
+
+
 
 
 #### Параметры

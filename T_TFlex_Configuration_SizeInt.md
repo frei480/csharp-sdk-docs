@@ -11,13 +11,8 @@
 ```csharp
 public class SizeInt : SettingsGroup
 ```
-```vb
-Public Class SizeInt
-	Inherits SettingsGroup
-```
-```cpp
-public ref class SizeInt : public SettingsGroup
-```
+
+
 
 
 Тип SizeInt предоставляет следующие члены.

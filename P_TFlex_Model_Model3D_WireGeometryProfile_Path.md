@@ -11,18 +11,8 @@
 ```csharp
 public Path3D Path { get; set; }
 ```
-```vb
-Public Property Path As Path3D
-	Get
-	Set
-```
-```cpp
-public:
-property Path3D^ Path {
-	Path3D^ get ();
-	void set (Path3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

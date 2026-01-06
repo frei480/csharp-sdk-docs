@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<LeaderNote> GetLeaderNotes()
 ```
-```vb
-Public Function GetLeaderNotes As ICollection(Of LeaderNote)
-```
-```cpp
-public:
-ICollection<LeaderNote^>^ GetLeaderNotes()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,12 +13,8 @@
 ```csharp
 public class Path3DSegment
 ```
-```vb
-Public Class Path3DSegment
-```
-```cpp
-public ref class Path3DSegment
-```
+
+
 
 
 Тип Path3DPath3DSegment предоставляет следующие члены.

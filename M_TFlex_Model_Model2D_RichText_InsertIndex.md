@@ -14,19 +14,8 @@ public void InsertIndex(
 	string lower
 )
 ```
-```vb
-Public Sub InsertIndex ( 
-	upper As String,
-	lower As String
-)
-```
-```cpp
-public:
-void InsertIndex(
-	String^ upper, 
-	String^ lower
-)
-```
+
+
 
 
 #### Параметры

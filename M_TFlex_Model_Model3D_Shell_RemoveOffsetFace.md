@@ -13,17 +13,8 @@ public void RemoveOffsetFace(
 	int faceIndex
 )
 ```
-```vb
-Public Sub RemoveOffsetFace ( 
-	faceIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveOffsetFace(
-	int faceIndex
-)
-```
+
+
 
 
 #### Параметры

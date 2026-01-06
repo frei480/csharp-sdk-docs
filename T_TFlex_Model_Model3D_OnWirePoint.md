@@ -13,13 +13,8 @@
 ```csharp
 public class OnWirePoint : Node3D
 ```
-```vb
-Public Class OnWirePoint
-	Inherits Node3D
-```
-```cpp
-public ref class OnWirePoint : public Node3D
-```
+
+
 
 
 Тип OnWirePoint предоставляет следующие члены.

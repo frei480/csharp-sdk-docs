@@ -13,23 +13,8 @@ public abstract void AddDesignation(
 	string annotation
 )
 ```
-```vb
-Public MustOverride Sub AddDesignation ( 
-	expression As String,
-	delimiter As String,
-	type As DesignationType,
-	annotation As String
-)
-```
-```cpp
-public:
-virtual void AddDesignation(
-	String^ expression, 
-	String^ delimiter, 
-	DesignationType type, 
-	String^ annotation
-) abstract
-```
+
+
 
 
 #### Параметры

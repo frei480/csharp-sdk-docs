@@ -11,13 +11,8 @@
 ```csharp
 public virtual void Release()
 ```
-```vb
-Public Overridable Sub Release
-```
-```cpp
-public:
-virtual void Release()
-```
+
+
 
 
 Метод вызывается, когда пользователь отпускает левую кнопку мыши при активном манипуляторе. 

@@ -8,16 +8,8 @@
 ```csharp
 public VariableEditor VariableEditor { get; }
 ```
-```vb
-Public ReadOnly Property VariableEditor As VariableEditor
-	Get
-```
-```cpp
-public:
-property VariableEditor^ VariableEditor {
-	VariableEditor^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

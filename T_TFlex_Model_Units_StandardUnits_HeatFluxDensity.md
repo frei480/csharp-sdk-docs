@@ -13,12 +13,8 @@
 ```csharp
 public sealed class HeatFluxDensity
 ```
-```vb
-Public NotInheritable Class HeatFluxDensity
-```
-```cpp
-public ref class HeatFluxDensity sealed
-```
+
+
 
 
 Тип StandardUnitsHeatFluxDensity предоставляет следующие члены.

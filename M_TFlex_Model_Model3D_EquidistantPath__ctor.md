@@ -13,17 +13,8 @@ public EquidistantPath(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-EquidistantPath(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class Hole : Operation
 ```
-```vb
-Public Class Hole
-	Inherits Operation
-```
-```cpp
-public ref class Hole : public Operation
-```
+
+
 
 
 Тип Hole предоставляет следующие члены.

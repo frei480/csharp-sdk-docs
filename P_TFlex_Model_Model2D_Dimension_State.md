@@ -11,16 +11,8 @@
 ```csharp
 public DimensionState State { get; }
 ```
-```vb
-Public ReadOnly Property State As DimensionState
-	Get
-```
-```cpp
-public:
-property DimensionState State {
-	DimensionState get ();
-}
-```
+
+
 
 
 #### Значение свойства

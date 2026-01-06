@@ -11,13 +11,8 @@
 ```csharp
 public void Erase()
 ```
-```vb
-Public Sub Erase
-```
-```cpp
-public:
-void Erase()
-```
+
+
 
 
 #### Ссылки

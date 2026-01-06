@@ -15,21 +15,8 @@ protected Projection(
 	Page page
 )
 ```
-```vb
-Protected Sub New ( 
-	document As Document,
-	dontUsedSourcePage As Boolean,
-	page As Page
-)
-```
-```cpp
-protected:
-Projection(
-	Document^ document, 
-	bool dontUsedSourcePage, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

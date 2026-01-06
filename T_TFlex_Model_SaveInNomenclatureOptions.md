@@ -13,12 +13,8 @@
 ```csharp
 public sealed class SaveInNomenclatureOptions
 ```
-```vb
-Public NotInheritable Class SaveInNomenclatureOptions
-```
-```cpp
-public ref class SaveInNomenclatureOptions sealed
-```
+
+
 
 
 Тип SaveInNomenclatureOptions предоставляет следующие члены.

@@ -8,16 +8,8 @@
 ```csharp
 public Font Font { get; }
 ```
-```vb
-Public ReadOnly Property Font As Font
-	Get
-```
-```cpp
-public:
-property Font^ Font {
-	Font^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

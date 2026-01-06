@@ -11,13 +11,8 @@
 ```csharp
 public class FormFactor : SettingsGroup
 ```
-```vb
-Public Class FormFactor
-	Inherits SettingsGroup
-```
-```cpp
-public ref class FormFactor : public SettingsGroup
-```
+
+
 
 
 Тип FormFactor предоставляет следующие члены.

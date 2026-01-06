@@ -13,16 +13,8 @@
 ```csharp
 public static Unit PoundForce { get; }
 ```
-```vb
-Public Shared ReadOnly Property PoundForce As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ PoundForce {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

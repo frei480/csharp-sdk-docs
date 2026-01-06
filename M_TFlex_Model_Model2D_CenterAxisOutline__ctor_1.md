@@ -20,31 +20,8 @@ public CenterAxisOutline(
 	Node limit2Node
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	source As Outline,
-	axisType As CenterAxisOutlineCenterAxisType,
-	centerConstruction As Construction,
-	limit1Outline As Outline,
-	limit2Outline As Outline,
-	limit1Node As Node,
-	limit2Node As Node
-)
-```
-```cpp
-public:
-CenterAxisOutline(
-	Document^ document, 
-	Outline^ source, 
-	CenterAxisOutlineCenterAxisType axisType, 
-	Construction^ centerConstruction, 
-	Outline^ limit1Outline, 
-	Outline^ limit2Outline, 
-	Node^ limit1Node, 
-	Node^ limit2Node
-)
-```
+
+
 
 
 #### Параметры

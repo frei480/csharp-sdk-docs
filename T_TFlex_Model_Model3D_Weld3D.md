@@ -13,13 +13,8 @@
 ```csharp
 public class Weld3D : Object3D
 ```
-```vb
-Public Class Weld3D
-	Inherits Object3D
-```
-```cpp
-public ref class Weld3D : public Object3D
-```
+
+
 
 
 Тип Weld3D предоставляет следующие члены.

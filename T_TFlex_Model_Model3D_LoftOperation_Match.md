@@ -13,12 +13,8 @@
 ```csharp
 public class Match
 ```
-```vb
-Public Class Match
-```
-```cpp
-public ref class Match
-```
+
+
 
 
 Тип LoftOperationMatch предоставляет следующие члены.

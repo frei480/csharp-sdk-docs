@@ -11,16 +11,8 @@
 ```csharp
 public int Frame { get; }
 ```
-```vb
-Public ReadOnly Property Frame As Integer
-	Get
-```
-```cpp
-public:
-property int Frame {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

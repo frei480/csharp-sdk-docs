@@ -13,17 +13,8 @@ public PointLight(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-PointLight(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

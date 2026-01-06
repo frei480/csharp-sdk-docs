@@ -11,19 +11,8 @@ public static bool operator !=(
 	Position p2
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	p1 As Position,
-	p2 As Position
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	Position p1, 
-	Position p2
-)
-```
+
+
 
 
 #### Параметры

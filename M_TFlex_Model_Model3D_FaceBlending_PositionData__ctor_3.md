@@ -18,27 +18,8 @@ public PositionData(
 	Parameter offset
 )
 ```
-```vb
-Public Sub New ( 
-	position As Parameter,
-	radius1 As Parameter,
-	radius2 As Parameter,
-	rho As Parameter,
-	depth As Parameter,
-	offset As Parameter
-)
-```
-```cpp
-public:
-PositionData(
-	Parameter^ position, 
-	Parameter^ radius1, 
-	Parameter^ radius2, 
-	Parameter^ rho, 
-	Parameter^ depth, 
-	Parameter^ offset
-)
-```
+
+
 
 
 #### Параметры

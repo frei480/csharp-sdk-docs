@@ -13,17 +13,8 @@ public void RemoveCoupling(
 	int couplingIndex
 )
 ```
-```vb
-Public Sub RemoveCoupling ( 
-	couplingIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveCoupling(
-	int couplingIndex
-)
-```
+
+
 
 
 #### Параметры

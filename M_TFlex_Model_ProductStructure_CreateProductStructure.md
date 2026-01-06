@@ -14,19 +14,8 @@ public static ProductStructure CreateProductStructure(
 	Scheme scheme
 )
 ```
-```vb
-Public Shared Function CreateProductStructure ( 
-	doc As Document,
-	scheme As Scheme
-) As ProductStructure
-```
-```cpp
-public:
-static ProductStructure^ CreateProductStructure(
-	Document^ doc, 
-	Scheme^ scheme
-)
-```
+
+
 
 
 #### Параметры

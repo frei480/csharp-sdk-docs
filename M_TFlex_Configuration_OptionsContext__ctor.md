@@ -11,13 +11,8 @@
 ```csharp
 public OptionsContext()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-OptionsContext()
-```
+
+
 
 
 #### Ссылки

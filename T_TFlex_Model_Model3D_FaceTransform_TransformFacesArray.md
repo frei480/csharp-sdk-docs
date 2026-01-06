@@ -14,14 +14,8 @@
 public class TransformFacesArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class TransformFacesArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class TransformFacesArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип FaceTransformTransformFacesArray предоставляет следующие члены.

@@ -14,19 +14,8 @@ public ObjectEnumerator(
 	bool only2D
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	only2D As Boolean
-)
-```
-```cpp
-public:
-ObjectEnumerator(
-	Document^ document, 
-	bool only2D
-)
-```
+
+
 
 
 #### Параметры

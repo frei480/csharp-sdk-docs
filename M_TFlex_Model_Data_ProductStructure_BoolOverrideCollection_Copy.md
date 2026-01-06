@@ -8,13 +8,8 @@
 ```csharp
 public BoolOverrideCollection Copy()
 ```
-```vb
-Public Function Copy As BoolOverrideCollection
-```
-```cpp
-public:
-BoolOverrideCollection^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

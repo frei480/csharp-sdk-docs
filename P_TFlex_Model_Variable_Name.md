@@ -11,18 +11,8 @@
 ```csharp
 public override string Name { get; set; }
 ```
-```vb
-Public Overrides Property Name As String
-	Get
-	Set
-```
-```cpp
-public:
-virtual property String^ Name {
-	String^ get () override;
-	void set (String^ value) override;
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class SheetList : SettingsGroup
 ```
-```vb
-Public Class SheetList
-	Inherits SettingsGroup
-```
-```cpp
-public ref class SheetList : public SettingsGroup
-```
+
+
 
 
 Тип SheetList предоставляет следующие члены.

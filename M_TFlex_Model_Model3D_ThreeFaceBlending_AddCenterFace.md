@@ -13,17 +13,8 @@ public void AddCenterFace(
 	ModelFace face
 )
 ```
-```vb
-Public Sub AddCenterFace ( 
-	face As ModelFace
-)
-```
-```cpp
-public:
-void AddCenterFace(
-	ModelFace^ face
-)
-```
+
+
 
 
 #### Параметры

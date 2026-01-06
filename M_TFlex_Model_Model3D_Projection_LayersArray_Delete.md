@@ -13,17 +13,8 @@ public void Delete(
 	int index
 )
 ```
-```vb
-Public Sub Delete ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void Delete(
-	int index
-)
-```
+
+
 
 
 #### Параметры

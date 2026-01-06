@@ -8,13 +8,8 @@
 ```csharp
 protected BasePipe m_bPipe
 ```
-```vb
-Protected m_bPipe As BasePipe
-```
-```cpp
-protected:
-BasePipe^ m_bPipe
-```
+
+
 
 
 #### Значение поля

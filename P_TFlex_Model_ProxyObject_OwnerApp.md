@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'Plugin' property.")]
 public Plugin OwnerApp { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'Plugin' property.")>
-Public ReadOnly Property OwnerApp As Plugin
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'Plugin' property.")]
-property Plugin^ OwnerApp {
-	Plugin^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

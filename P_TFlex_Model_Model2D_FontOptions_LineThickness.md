@@ -8,18 +8,8 @@
 ```csharp
 public virtual Parameter LineThickness { get; set; }
 ```
-```vb
-Public Overridable Property LineThickness As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Parameter^ LineThickness {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

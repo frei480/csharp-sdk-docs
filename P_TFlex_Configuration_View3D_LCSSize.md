@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter LCSSize { get; set; }
 ```
-```vb
-Public Property LCSSize As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ LCSSize {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

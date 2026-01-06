@@ -13,17 +13,8 @@ public ShownPageTypes(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-ShownPageTypes(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

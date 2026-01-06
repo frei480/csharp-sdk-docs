@@ -13,17 +13,8 @@ public void AddTopol(
 	ModelTopol topol
 )
 ```
-```vb
-Public Sub AddTopol ( 
-	topol As ModelTopol
-)
-```
-```cpp
-public:
-void AddTopol(
-	ModelTopol^ topol
-)
-```
+
+
 
 
 #### Параметры

@@ -8,12 +8,8 @@
 ```csharp
 public enum CheckFileAction
 ```
-```vb
-Public Enumeration CheckFileAction
-```
-```cpp
-public enum class CheckFileAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

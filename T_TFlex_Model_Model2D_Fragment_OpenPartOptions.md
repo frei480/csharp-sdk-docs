@@ -13,12 +13,8 @@
 ```csharp
 public struct OpenPartOptions
 ```
-```vb
-Public Structure OpenPartOptions
-```
-```cpp
-public value class OpenPartOptions
-```
+
+
 
 
 Тип FragmentOpenPartOptions предоставляет следующие члены.

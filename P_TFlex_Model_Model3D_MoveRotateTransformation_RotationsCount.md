@@ -11,16 +11,8 @@
 ```csharp
 public int RotationsCount { get; }
 ```
-```vb
-Public ReadOnly Property RotationsCount As Integer
-	Get
-```
-```cpp
-public:
-property int RotationsCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class Compatibility : SettingsGroup
 ```
-```vb
-Public Class Compatibility
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Compatibility : public SettingsGroup
-```
+
+
 
 
 Тип Compatibility предоставляет следующие члены.

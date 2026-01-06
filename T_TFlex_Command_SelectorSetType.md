@@ -11,12 +11,8 @@
 ```csharp
 public enum SelectorSetType
 ```
-```vb
-Public Enumeration SelectorSetType
-```
-```cpp
-public enum class SelectorSetType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

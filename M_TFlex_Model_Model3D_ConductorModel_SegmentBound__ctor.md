@@ -14,19 +14,8 @@ public SegmentBound(
 	TerminalPoint end
 )
 ```
-```vb
-Public Sub New ( 
-	start As TerminalPoint,
-	end As TerminalPoint
-)
-```
-```cpp
-public:
-SegmentBound(
-	TerminalPoint^ start, 
-	TerminalPoint^ end
-)
-```
+
+
 
 
 #### Параметры

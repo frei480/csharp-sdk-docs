@@ -8,16 +8,8 @@
 ```csharp
 public bool Visible { set; }
 ```
-```vb
-Public WriteOnly Property Visible As Boolean
-	Set
-```
-```cpp
-public:
-property bool Visible {
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

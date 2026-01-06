@@ -14,15 +14,8 @@
 public class TorusSurface : Surface, 
 	BaseTorusSurface
 ```
-```vb
-Public Class TorusSurface
-	Inherits Surface
-	Implements BaseTorusSurface
-```
-```cpp
-public ref class TorusSurface : public Surface, 
-	BaseTorusSurface
-```
+
+
 
 
 Тип TorusSurface предоставляет следующие члены.

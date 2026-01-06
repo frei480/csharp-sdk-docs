@@ -13,13 +13,8 @@
 ```csharp
 public class SelectionFilter : IDisposable
 ```
-```vb
-Public Class SelectionFilter
-	Implements IDisposable
-```
-```cpp
-public ref class SelectionFilter : IDisposable
-```
+
+
 
 
 Тип SelectionFilter предоставляет следующие члены.

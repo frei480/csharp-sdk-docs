@@ -11,19 +11,8 @@ public static bool operator ==(
 	Unit rightId
 )
 ```
-```vb
-Public Shared Operator = ( 
-	leftId As Unit,
-	rightId As Unit
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	Unit^ leftId, 
-	Unit^ rightId
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public double X
 ```
-```vb
-Public X As Double
-```
-```cpp
-public:
-double X
-```
+
+
 
 
 #### Значение поля

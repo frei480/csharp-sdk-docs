@@ -11,13 +11,8 @@
 ```csharp
 public DefaultGroupingRule()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-DefaultGroupingRule()
-```
+
+
 
 
 #### Ссылки

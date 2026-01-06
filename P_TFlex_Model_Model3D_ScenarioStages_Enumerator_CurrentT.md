@@ -8,16 +8,8 @@
 ```csharp
 public ScenarioStage CurrentT { get; }
 ```
-```vb
-Public ReadOnly Property CurrentT As ScenarioStage
-	Get
-```
-```cpp
-public:
-virtual property ScenarioStage^ CurrentT {
-	ScenarioStage^ get () sealed;
-}
-```
+
+
 
 
 #### Значение свойства

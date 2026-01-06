@@ -11,13 +11,8 @@
 ```csharp
 public BodyPartUnloadBodyOptionsUnloadType UnloadingType
 ```
-```vb
-Public UnloadingType As BodyPartUnloadBodyOptionsUnloadType
-```
-```cpp
-public:
-BodyPartUnloadBodyOptionsUnloadType UnloadingType
-```
+
+
 
 
 #### Значение поля

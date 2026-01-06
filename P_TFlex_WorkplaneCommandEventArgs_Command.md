@@ -11,16 +11,8 @@
 ```csharp
 public WorkplaneCommandEventArgsLocalCommands Command { get; }
 ```
-```vb
-Public ReadOnly Property Command As WorkplaneCommandEventArgsLocalCommands
-	Get
-```
-```cpp
-public:
-property WorkplaneCommandEventArgsLocalCommands Command {
-	WorkplaneCommandEventArgsLocalCommands get ();
-}
-```
+
+
 
 
 #### Значение свойства

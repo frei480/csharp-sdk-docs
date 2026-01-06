@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerator<Fragment> GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As IEnumerator(Of Fragment)
-```
-```cpp
-public:
-virtual IEnumerator<Fragment^>^ GetEnumerator() sealed
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,18 +11,8 @@
 ```csharp
 public double YEndValue { get; set; }
 ```
-```vb
-Public Property YEndValue As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double YEndValue {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

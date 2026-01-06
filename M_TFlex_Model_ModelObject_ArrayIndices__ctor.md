@@ -13,17 +13,8 @@ public ArrayIndices(
 	uint index
 )
 ```
-```vb
-Public Sub New ( 
-	index As UInteger
-)
-```
-```cpp
-public:
-ArrayIndices(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

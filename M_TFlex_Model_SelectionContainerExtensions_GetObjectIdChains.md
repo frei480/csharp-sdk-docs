@@ -10,17 +10,8 @@ public static ObjectIdChain GetObjectIdChains(
 	ModelObject A_0
 )
 ```
-```vb
-Public Shared Function GetObjectIdChains ( 
-	A_0 As ModelObject
-) As ObjectIdChain
-```
-```cpp
-public:
-static ObjectIdChain^ GetObjectIdChains(
-	ModelObject^ A_0
-)
-```
+
+
 
 
 #### Параметры

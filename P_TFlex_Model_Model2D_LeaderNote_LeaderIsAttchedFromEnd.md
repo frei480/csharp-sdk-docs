@@ -11,16 +11,8 @@
 ```csharp
 public bool LeaderIsAttchedFromEnd { get; }
 ```
-```vb
-Public ReadOnly Property LeaderIsAttchedFromEnd As Boolean
-	Get
-```
-```cpp
-public:
-property bool LeaderIsAttchedFromEnd {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

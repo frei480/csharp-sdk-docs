@@ -11,13 +11,8 @@
 ```csharp
 public class PointPolyline : PipePath3DBasePoint3D
 ```
-```vb
-Public Class PointPolyline
-	Inherits PipePath3DBasePoint3D
-```
-```cpp
-public ref class PointPolyline : public PipePath3DBasePoint3D
-```
+
+
 
 
 Тип PipePath3DPointPolyline предоставляет следующие члены.

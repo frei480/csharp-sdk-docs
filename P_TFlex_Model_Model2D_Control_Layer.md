@@ -8,18 +8,8 @@
 ```csharp
 public virtual Layer Layer { get; set; }
 ```
-```vb
-Public Overridable Property Layer As Layer
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Layer^ Layer {
-	Layer^ get ();
-	void set (Layer^ value);
-}
-```
+
+
 
 
 #### Значение свойства

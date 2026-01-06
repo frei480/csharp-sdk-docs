@@ -13,13 +13,8 @@
 ```csharp
 public sealed class EventSuppressor : IDisposable
 ```
-```vb
-Public NotInheritable Class EventSuppressor
-	Implements IDisposable
-```
-```cpp
-public ref class EventSuppressor sealed : IDisposable
-```
+
+
 
 
 Тип EventSuppressor предоставляет следующие члены.

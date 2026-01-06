@@ -13,13 +13,8 @@
 ```csharp
 public class Splice : IComparable<Splice>
 ```
-```vb
-Public Class Splice
-	Implements IComparable(Of Splice)
-```
-```cpp
-public ref class Splice : IComparable<Splice^>
-```
+
+
 
 
 Тип Splice предоставляет следующие члены.

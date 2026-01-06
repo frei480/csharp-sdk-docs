@@ -8,15 +8,8 @@
 ```csharp
 protected PrimitiveOper* PrimitiveOperSet { get; }
 ```
-```vb
-Visual Basic не поддерживает интерфейсы API, которые принимают или возвращают небезопасные типы.
-```
-```cpp
-protected:
-property PrimitiveOper* PrimitiveOperSet {
-	PrimitiveOper* get ();
-}
-```
+
+
 
 
 #### Значение свойства

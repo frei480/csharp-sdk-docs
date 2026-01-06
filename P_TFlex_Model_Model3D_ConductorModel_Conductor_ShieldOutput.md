@@ -8,16 +8,8 @@
 ```csharp
 public ShieldOutput ShieldOutput { get; }
 ```
-```vb
-Public ReadOnly Property ShieldOutput As ShieldOutput
-	Get
-```
-```cpp
-public:
-property ShieldOutput^ ShieldOutput {
-	ShieldOutput^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

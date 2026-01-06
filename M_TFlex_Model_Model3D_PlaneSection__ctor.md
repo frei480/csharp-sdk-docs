@@ -13,17 +13,8 @@ public PlaneSection(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-PlaneSection(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

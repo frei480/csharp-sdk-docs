@@ -11,18 +11,8 @@
 ```csharp
 public RunResultEntryCause Cause { get; set; }
 ```
-```vb
-Public Property Cause As RunResultEntryCause
-	Get
-	Set
-```
-```cpp
-public:
-property RunResultEntryCause Cause {
-	RunResultEntryCause get ();
-	void set (RunResultEntryCause value);
-}
-```
+
+
 
 
 #### Значение свойства

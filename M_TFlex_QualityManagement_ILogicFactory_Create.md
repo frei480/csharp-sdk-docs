@@ -11,12 +11,8 @@
 ```csharp
 LogicBase Create()
 ```
-```vb
-Function Create As LogicBase
-```
-```cpp
-LogicBase^ Create()
-```
+
+
 
 
 #### Возвращаемое значение

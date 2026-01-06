@@ -13,17 +13,8 @@ public StandardBOMItem GetStandardItem(
 	StandardBOMItemType item
 )
 ```
-```vb
-Public Function GetStandardItem ( 
-	item As StandardBOMItemType
-) As StandardBOMItem
-```
-```cpp
-public:
-StandardBOMItem^ GetStandardItem(
-	StandardBOMItemType item
-)
-```
+
+
 
 
 #### Параметры

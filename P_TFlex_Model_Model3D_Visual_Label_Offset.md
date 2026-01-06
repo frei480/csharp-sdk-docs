@@ -8,18 +8,8 @@
 ```csharp
 public virtual Point Offset { get; set; }
 ```
-```vb
-Public Overridable Property Offset As Point
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Point Offset {
-	Point get ();
-	void set (Point value);
-}
-```
+
+
 
 
 #### Значение свойства

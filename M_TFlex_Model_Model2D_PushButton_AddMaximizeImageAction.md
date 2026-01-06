@@ -11,13 +11,8 @@
 ```csharp
 public void AddMaximizeImageAction()
 ```
-```vb
-Public Sub AddMaximizeImageAction
-```
-```cpp
-public:
-void AddMaximizeImageAction()
-```
+
+
 
 
 #### Ссылки

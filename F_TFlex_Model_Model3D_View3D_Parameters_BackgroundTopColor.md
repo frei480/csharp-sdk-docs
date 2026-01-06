@@ -11,13 +11,8 @@
 ```csharp
 public Color BackgroundTopColor
 ```
-```vb
-Public BackgroundTopColor As Color
-```
-```cpp
-public:
-Color BackgroundTopColor
-```
+
+
 
 
 #### Значение поля

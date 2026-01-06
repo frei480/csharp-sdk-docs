@@ -8,13 +8,8 @@
 ```csharp
 public override FontOptions GetFontOptions()
 ```
-```vb
-Public Overrides Function GetFontOptions As FontOptions
-```
-```cpp
-public:
-virtual FontOptions^ GetFontOptions() override
-```
+
+
 
 
 #### Возвращаемое значение

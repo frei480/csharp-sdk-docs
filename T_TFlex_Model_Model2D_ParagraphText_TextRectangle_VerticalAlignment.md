@@ -11,12 +11,8 @@
 ```csharp
 public enum VerticalAlignment
 ```
-```vb
-Public Enumeration VerticalAlignment
-```
-```cpp
-public enum class VerticalAlignment
-```
+
+
 
 
 | Имя члена | Значение | Описание |

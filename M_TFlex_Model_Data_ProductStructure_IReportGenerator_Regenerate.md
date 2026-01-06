@@ -10,16 +10,8 @@ bool Regenerate(
 	ReportRegenerateContext regenerationContext
 )
 ```
-```vb
-Function Regenerate ( 
-	regenerationContext As ReportRegenerateContext
-) As Boolean
-```
-```cpp
-bool Regenerate(
-	ReportRegenerateContext^ regenerationContext
-)
-```
+
+
 
 
 #### Параметры

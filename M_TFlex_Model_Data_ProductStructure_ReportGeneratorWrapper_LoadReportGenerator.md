@@ -10,17 +10,8 @@ public static IReportGenerator LoadReportGenerator(
 	string assemName
 )
 ```
-```vb
-Public Shared Function LoadReportGenerator ( 
-	assemName As String
-) As IReportGenerator
-```
-```cpp
-public:
-static IReportGenerator^ LoadReportGenerator(
-	String^ assemName
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@ Parent control
 ```csharp
 public ListControl Control { get; }
 ```
-```vb
-Public ReadOnly Property Control As ListControl
-	Get
-```
-```cpp
-public:
-property ListControl^ Control {
-	ListControl^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public InputControlBase BaseControl { get; }
 ```
-```vb
-Public ReadOnly Property BaseControl As InputControlBase
-	Get
-```
-```cpp
-public:
-property InputControlBase^ BaseControl {
-	InputControlBase^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

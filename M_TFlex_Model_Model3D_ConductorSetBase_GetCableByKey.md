@@ -10,17 +10,8 @@ public Cable GetCableByKey(
 	Guid key
 )
 ```
-```vb
-Public Function GetCableByKey ( 
-	key As Guid
-) As Cable
-```
-```cpp
-public:
-Cable^ GetCableByKey(
-	Guid key
-)
-```
+
+
 
 
 #### Параметры

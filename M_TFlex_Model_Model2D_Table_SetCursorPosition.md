@@ -14,19 +14,8 @@ public void SetCursorPosition(
 	uint character
 )
 ```
-```vb
-Public Sub SetCursorPosition ( 
-	cell As UInteger,
-	character As UInteger
-)
-```
-```cpp
-public:
-void SetCursorPosition(
-	unsigned int cell, 
-	unsigned int character
-)
-```
+
+
 
 
 #### Параметры

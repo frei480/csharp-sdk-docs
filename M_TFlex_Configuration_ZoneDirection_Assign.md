@@ -10,17 +10,8 @@ public void Assign(
 	ZoneDirection source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As ZoneDirection
-)
-```
-```cpp
-public:
-void Assign(
-	ZoneDirection^ source
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public ImprintImprintConnectType ImprintConnect { get; set; }
 ```
-```vb
-Public Property ImprintConnect As ImprintImprintConnectType
-	Get
-	Set
-```
-```cpp
-public:
-property ImprintImprintConnectType ImprintConnect {
-	ImprintImprintConnectType get ();
-	void set (ImprintImprintConnectType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public DirectionDegenerateProfileCondition(
 	Parameter magnitude
 )
 ```
-```vb
-Public Sub New ( 
-	direction As ModelDirection,
-	magnitude As Parameter
-)
-```
-```cpp
-public:
-DirectionDegenerateProfileCondition(
-	ModelDirection^ direction, 
-	Parameter^ magnitude
-)
-```
+
+
 
 
 #### Параметры

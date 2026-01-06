@@ -11,13 +11,8 @@
 ```csharp
 public bool IsFilled()
 ```
-```vb
-Public Function IsFilled As Boolean
-```
-```cpp
-public:
-bool IsFilled()
-```
+
+
 
 
 #### Возвращаемое значение

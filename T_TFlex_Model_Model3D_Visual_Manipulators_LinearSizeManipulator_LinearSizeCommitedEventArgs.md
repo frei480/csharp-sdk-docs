@@ -11,13 +11,8 @@
 ```csharp
 public class LinearSizeCommitedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class LinearSizeCommitedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class LinearSizeCommitedEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип LinearSizeManipulatorLinearSizeCommitedEventArgs предоставляет следующие члены.

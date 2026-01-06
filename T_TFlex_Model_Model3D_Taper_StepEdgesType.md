@@ -11,12 +11,8 @@
 ```csharp
 public enum StepEdgesType
 ```
-```vb
-Public Enumeration StepEdgesType
-```
-```cpp
-public enum class StepEdgesType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

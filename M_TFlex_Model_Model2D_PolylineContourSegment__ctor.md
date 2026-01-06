@@ -13,17 +13,8 @@ public PolylineContourSegment(
 	Contour source
 )
 ```
-```vb
-Public Sub New ( 
-	source As Contour
-)
-```
-```cpp
-public:
-PolylineContourSegment(
-	Contour^ source
-)
-```
+
+
 
 
 #### Параметры

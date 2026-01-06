@@ -14,14 +14,8 @@
 public class ExclusionCollection : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ExclusionCollection
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ExclusionCollection : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип ExclusionCollection предоставляет следующие члены.

@@ -13,17 +13,8 @@ public ModelTopol GetDirectionTopol(
 	int hole
 )
 ```
-```vb
-Public Function GetDirectionTopol ( 
-	hole As Integer
-) As ModelTopol
-```
-```cpp
-public:
-ModelTopol^ GetDirectionTopol(
-	int hole
-)
-```
+
+
 
 
 #### Параметры

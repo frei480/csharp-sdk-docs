@@ -11,18 +11,8 @@
 ```csharp
 public Outline BrokenBoundOutline1 { get; set; }
 ```
-```vb
-Public Property BrokenBoundOutline1 As Outline
-	Get
-	Set
-```
-```cpp
-public:
-property Outline^ BrokenBoundOutline1 {
-	Outline^ get ();
-	void set (Outline^ value);
-}
-```
+
+
 
 
 #### Значение свойства

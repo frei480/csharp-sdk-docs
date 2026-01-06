@@ -11,12 +11,8 @@
 ```csharp
 public class BodyRepresentation
 ```
-```vb
-Public Class BodyRepresentation
-```
-```cpp
-public ref class BodyRepresentation
-```
+
+
 
 
 Тип BodyRepresentation предоставляет следующие члены.

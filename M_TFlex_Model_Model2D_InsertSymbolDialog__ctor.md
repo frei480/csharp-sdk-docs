@@ -11,13 +11,8 @@
 ```csharp
 public InsertSymbolDialog()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-InsertSymbolDialog()
-```
+
+
 
 
 #### Ссылки

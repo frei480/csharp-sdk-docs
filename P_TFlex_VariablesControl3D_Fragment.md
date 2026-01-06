@@ -11,18 +11,8 @@
 ```csharp
 public Fragment3D Fragment { get; set; }
 ```
-```vb
-Public Property Fragment As Fragment3D
-	Get
-	Set
-```
-```cpp
-public:
-property Fragment3D^ Fragment {
-	Fragment3D^ get ();
-	void set (Fragment3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

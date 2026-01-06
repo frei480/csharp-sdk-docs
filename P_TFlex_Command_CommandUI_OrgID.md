@@ -12,18 +12,8 @@
 [ObsoleteAttribute("Not fully supported.")]
 public int OrgID { get; }
 ```
-```vb
-<ObsoleteAttribute("Not fully supported.")>
-Public ReadOnly Property OrgID As Integer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Not fully supported.")]
-property int OrgID {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

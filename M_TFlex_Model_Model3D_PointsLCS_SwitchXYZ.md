@@ -11,13 +11,8 @@
 ```csharp
 public void SwitchXYZ()
 ```
-```vb
-Public Sub SwitchXYZ
-```
-```cpp
-public:
-void SwitchXYZ()
-```
+
+
 
 
 #### Ссылки

@@ -11,18 +11,8 @@
 ```csharp
 public ModelPlane EndLimitPlane { get; set; }
 ```
-```vb
-Public Property EndLimitPlane As ModelPlane
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPlane^ EndLimitPlane {
-	ModelPlane^ get ();
-	void set (ModelPlane^ value);
-}
-```
+
+
 
 
 #### Значение свойства

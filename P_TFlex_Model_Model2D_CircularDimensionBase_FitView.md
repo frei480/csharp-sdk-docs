@@ -11,18 +11,8 @@
 ```csharp
 public DimensionFitViewType FitView { get; set; }
 ```
-```vb
-Public Property FitView As DimensionFitViewType
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionFitViewType FitView {
-	DimensionFitViewType get ();
-	void set (DimensionFitViewType value);
-}
-```
+
+
 
 
 #### Значение свойства

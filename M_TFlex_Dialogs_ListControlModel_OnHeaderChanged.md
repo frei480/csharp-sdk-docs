@@ -12,21 +12,8 @@ protected virtual void OnHeaderChanged(
 	IList<ListItemRole> roles
 )
 ```
-```vb
-Protected Overridable Sub OnHeaderChanged ( 
-	column As Integer,
-	columnCount As Integer,
-	roles As IList(Of ListItemRole)
-)
-```
-```cpp
-protected:
-virtual void OnHeaderChanged(
-	int column, 
-	int columnCount, 
-	IList<ListItemRole>^ roles
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public LengthEnqueuedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LengthEnqueuedEventArgs()
-```
+
+
 
 
 #### Ссылки

@@ -11,19 +11,8 @@ public abstract void ShowDesignations(
 	bool show
 )
 ```
-```vb
-Public MustOverride Sub ShowDesignations ( 
-	type As DesignationType,
-	show As Boolean
-)
-```
-```cpp
-public:
-virtual void ShowDesignations(
-	DesignationType type, 
-	bool show
-) abstract
-```
+
+
 
 
 #### Параметры

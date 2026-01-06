@@ -8,18 +8,8 @@
 ```csharp
 public bool WrapAutoMenu { get; set; }
 ```
-```vb
-Public Property WrapAutoMenu As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool WrapAutoMenu {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

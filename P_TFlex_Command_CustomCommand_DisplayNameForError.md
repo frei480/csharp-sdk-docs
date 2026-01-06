@@ -8,16 +8,8 @@
 ```csharp
 public virtual string DisplayNameForError { get; }
 ```
-```vb
-Public Overridable ReadOnly Property DisplayNameForError As String
-	Get
-```
-```cpp
-public:
-virtual property String^ DisplayNameForError {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

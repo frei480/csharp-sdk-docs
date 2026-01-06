@@ -11,13 +11,8 @@
 ```csharp
 public void BeginDraw()
 ```
-```vb
-Public Sub BeginDraw
-```
-```cpp
-public:
-void BeginDraw()
-```
+
+
 
 
 Данный метод необходимо вызвать перед началом вывода изображения с использованием функций данного класса. Завершение вывода должно заканчиваться вызовом метода [EndDraw](M_TFlex_Drawing_Graphics_EndDraw.md). Вызовы этой пары функций могут быть вложенными, однако обязательным является соблюдение парности. Каждому вызову BeginDraw должен соответствовать вызов [EndDraw](M_TFlex_Drawing_Graphics_EndDraw.md).

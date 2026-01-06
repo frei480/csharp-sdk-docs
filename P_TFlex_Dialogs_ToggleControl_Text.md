@@ -11,18 +11,8 @@
 ```csharp
 public string Text { get; set; }
 ```
-```vb
-Public Property Text As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Text {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

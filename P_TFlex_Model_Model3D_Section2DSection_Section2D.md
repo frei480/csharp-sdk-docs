@@ -11,18 +11,8 @@
 ```csharp
 public SectionViewSymbol Section2D { get; set; }
 ```
-```vb
-Public Property Section2D As SectionViewSymbol
-	Get
-	Set
-```
-```cpp
-public:
-property SectionViewSymbol^ Section2D {
-	SectionViewSymbol^ get ();
-	void set (SectionViewSymbol^ value);
-}
-```
+
+
 
 
 #### Значение свойства

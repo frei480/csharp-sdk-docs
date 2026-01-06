@@ -11,16 +11,8 @@
 ```csharp
 public static StringManager Strings { get; }
 ```
-```vb
-Public Shared ReadOnly Property Strings As StringManager
-	Get
-```
-```cpp
-public:
-static property StringManager^ Strings {
-	StringManager^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

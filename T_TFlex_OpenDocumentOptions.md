@@ -13,12 +13,8 @@
 ```csharp
 public sealed class OpenDocumentOptions
 ```
-```vb
-Public NotInheritable Class OpenDocumentOptions
-```
-```cpp
-public ref class OpenDocumentOptions sealed
-```
+
+
 
 
 Тип OpenDocumentOptions предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public HorizontalToolBarPosition EditInPlaceToolBar { get; set; }
 ```
-```vb
-Public Property EditInPlaceToolBar As HorizontalToolBarPosition
-	Get
-	Set
-```
-```cpp
-public:
-property HorizontalToolBarPosition EditInPlaceToolBar {
-	HorizontalToolBarPosition get ();
-	void set (HorizontalToolBarPosition value);
-}
-```
+
+
 
 
 #### Значение свойства

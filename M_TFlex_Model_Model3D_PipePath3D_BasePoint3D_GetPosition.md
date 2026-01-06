@@ -13,17 +13,8 @@ public Parameter GetPosition(
 	Coordinate indCoord
 )
 ```
-```vb
-Public Function GetPosition ( 
-	indCoord As Coordinate
-) As Parameter
-```
-```cpp
-public:
-Parameter^ GetPosition(
-	Coordinate indCoord
-)
-```
+
+
 
 
 #### Параметры

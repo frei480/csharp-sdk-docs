@@ -13,17 +13,8 @@ public void RemoveRow(
 	int pos
 )
 ```
-```vb
-Public Sub RemoveRow ( 
-	pos As Integer
-)
-```
-```cpp
-public:
-void RemoveRow(
-	int pos
-)
-```
+
+
 
 
 #### Параметры

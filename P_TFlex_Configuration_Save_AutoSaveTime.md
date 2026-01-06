@@ -8,18 +8,8 @@
 ```csharp
 public int AutoSaveTime { get; set; }
 ```
-```vb
-Public Property AutoSaveTime As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int AutoSaveTime {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

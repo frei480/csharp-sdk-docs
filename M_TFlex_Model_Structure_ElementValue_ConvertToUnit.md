@@ -10,17 +10,8 @@ public void ConvertToUnit(
 	Unit unit
 )
 ```
-```vb
-Public Sub ConvertToUnit ( 
-	unit As Unit
-)
-```
-```cpp
-public:
-void ConvertToUnit(
-	Unit^ unit
-)
-```
+
+
 
 
 #### Параметры

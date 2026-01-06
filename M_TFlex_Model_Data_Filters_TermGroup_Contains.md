@@ -13,17 +13,8 @@ public bool Contains(
 	TermGroupItem item
 )
 ```
-```vb
-Public Function Contains ( 
-	item As TermGroupItem
-) As Boolean
-```
-```cpp
-public:
-virtual bool Contains(
-	TermGroupItem^ item
-) sealed
-```
+
+
 
 
 #### Параметры

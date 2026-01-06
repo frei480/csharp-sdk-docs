@@ -11,16 +11,8 @@
 ```csharp
 public DrawingView DrawingView { get; }
 ```
-```vb
-Public ReadOnly Property DrawingView As DrawingView
-	Get
-```
-```cpp
-public:
-property DrawingView^ DrawingView {
-	DrawingView^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

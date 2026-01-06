@@ -15,21 +15,8 @@ public FacetMesh Facet(
 	bool normal
 )
 ```
-```vb
-Public Function Facet ( 
-	tolerance As Double,
-	simplify As Boolean,
-	normal As Boolean
-) As FacetMesh
-```
-```cpp
-public:
-FacetMesh^ Facet(
-	double tolerance, 
-	bool simplify, 
-	bool normal
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public double GetCellWidth(
 	uint cell
 )
 ```
-```vb
-Public Function GetCellWidth ( 
-	cell As UInteger
-) As Double
-```
-```cpp
-public:
-double GetCellWidth(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

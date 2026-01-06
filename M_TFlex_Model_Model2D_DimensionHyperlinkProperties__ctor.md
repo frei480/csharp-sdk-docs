@@ -14,19 +14,8 @@ public DimensionHyperlinkProperties(
 	DimensionHyperlinkTextFlags textFlags
 )
 ```
-```vb
-Public Sub New ( 
-	dimension As Dimension,
-	textFlags As DimensionHyperlinkTextFlags
-)
-```
-```cpp
-public:
-DimensionHyperlinkProperties(
-	Dimension^ dimension, 
-	DimensionHyperlinkTextFlags textFlags
-)
-```
+
+
 
 
 #### Параметры

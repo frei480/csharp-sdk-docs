@@ -11,18 +11,8 @@
 ```csharp
 public SectionType TypeOfSection { get; set; }
 ```
-```vb
-Public Property TypeOfSection As SectionType
-	Get
-	Set
-```
-```cpp
-public:
-property SectionType TypeOfSection {
-	SectionType get ();
-	void set (SectionType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void SetFirstElement(
 	Object3D obj
 )
 ```
-```vb
-Public Sub SetFirstElement ( 
-	obj As Object3D
-)
-```
-```cpp
-public:
-void SetFirstElement(
-	Object3D^ obj
-)
-```
+
+
 
 
 #### Параметры

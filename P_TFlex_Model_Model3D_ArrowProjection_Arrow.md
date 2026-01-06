@@ -11,18 +11,8 @@
 ```csharp
 public ArrowViewSymbol Arrow { get; set; }
 ```
-```vb
-Public Property Arrow As ArrowViewSymbol
-	Get
-	Set
-```
-```cpp
-public:
-property ArrowViewSymbol^ Arrow {
-	ArrowViewSymbol^ get ();
-	void set (ArrowViewSymbol^ value);
-}
-```
+
+
 
 
 #### Значение свойства

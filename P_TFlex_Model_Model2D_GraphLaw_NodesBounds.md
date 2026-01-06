@@ -11,16 +11,8 @@
 ```csharp
 public Rectangle NodesBounds { get; }
 ```
-```vb
-Public ReadOnly Property NodesBounds As Rectangle
-	Get
-```
-```cpp
-public:
-property Rectangle NodesBounds {
-	Rectangle get ();
-}
-```
+
+
 
 
 #### Значение свойства

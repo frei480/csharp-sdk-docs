@@ -11,16 +11,8 @@
 ```csharp
 public static int ClipPlaneIndex { get; }
 ```
-```vb
-Public Shared ReadOnly Property ClipPlaneIndex As Integer
-	Get
-```
-```cpp
-public:
-static property int ClipPlaneIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

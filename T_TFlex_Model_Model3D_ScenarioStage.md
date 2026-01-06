@@ -11,12 +11,8 @@
 ```csharp
 public class ScenarioStage
 ```
-```vb
-Public Class ScenarioStage
-```
-```cpp
-public ref class ScenarioStage
-```
+
+
 
 
 Тип ScenarioStage предоставляет следующие члены.

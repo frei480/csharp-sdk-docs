@@ -10,17 +10,8 @@ public IEnumerable<ParameterInfo> GetParameters(
 	bool includeInherited
 )
 ```
-```vb
-Public Function GetParameters ( 
-	includeInherited As Boolean
-) As IEnumerable(Of ParameterInfo)
-```
-```cpp
-public:
-IEnumerable<ParameterInfo^>^ GetParameters(
-	bool includeInherited
-)
-```
+
+
 
 
 #### Параметры

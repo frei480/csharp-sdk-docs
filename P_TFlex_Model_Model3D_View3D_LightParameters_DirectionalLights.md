@@ -8,16 +8,8 @@
 ```csharp
 public ArrayList DirectionalLights { get; }
 ```
-```vb
-Public ReadOnly Property DirectionalLights As ArrayList
-	Get
-```
-```cpp
-public:
-property ArrayList^ DirectionalLights {
-	ArrayList^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

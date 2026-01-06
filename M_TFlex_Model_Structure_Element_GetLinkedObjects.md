@@ -8,13 +8,8 @@
 ```csharp
 public IEnumerable<LinkedObjectInfo> GetLinkedObjects()
 ```
-```vb
-Public Function GetLinkedObjects As IEnumerable(Of LinkedObjectInfo)
-```
-```cpp
-public:
-IEnumerable<LinkedObjectInfo^>^ GetLinkedObjects()
-```
+
+
 
 
 #### Возвращаемое значение

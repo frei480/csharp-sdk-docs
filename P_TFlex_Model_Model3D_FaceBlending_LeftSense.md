@@ -11,18 +11,8 @@
 ```csharp
 public bool LeftSense { get; set; }
 ```
-```vb
-Public Property LeftSense As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool LeftSense {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

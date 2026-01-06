@@ -11,18 +11,8 @@
 ```csharp
 public EquidistantPathMovingDirectionType MovingDirection { get; set; }
 ```
-```vb
-Public Property MovingDirection As EquidistantPathMovingDirectionType
-	Get
-	Set
-```
-```cpp
-public:
-property EquidistantPathMovingDirectionType MovingDirection {
-	EquidistantPathMovingDirectionType get ();
-	void set (EquidistantPathMovingDirectionType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class Enumerator : IEnumerator<ScenarioStage>
 ```
-```vb
-Public Class Enumerator
-	Implements IEnumerator(Of ScenarioStage)
-```
-```cpp
-public ref class Enumerator : IEnumerator<ScenarioStage^>
-```
+
+
 
 
 Тип ScenarioStagesEnumerator предоставляет следующие члены.

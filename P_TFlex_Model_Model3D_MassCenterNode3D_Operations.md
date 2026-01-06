@@ -11,16 +11,8 @@
 ```csharp
 public MassCenterNode3DOperationsArray Operations { get; }
 ```
-```vb
-Public ReadOnly Property Operations As MassCenterNode3DOperationsArray
-	Get
-```
-```cpp
-public:
-property MassCenterNode3DOperationsArray^ Operations {
-	MassCenterNode3DOperationsArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

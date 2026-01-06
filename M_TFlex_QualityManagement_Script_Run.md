@@ -13,17 +13,8 @@ public RunScriptResult Run(
 	Document document
 )
 ```
-```vb
-Public Function Run ( 
-	document As Document
-) As RunScriptResult
-```
-```cpp
-public:
-RunScriptResult^ Run(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

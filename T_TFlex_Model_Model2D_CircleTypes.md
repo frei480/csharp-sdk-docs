@@ -11,12 +11,8 @@
 ```csharp
 public enum CircleTypes
 ```
-```vb
-Public Enumeration CircleTypes
-```
-```cpp
-public enum class CircleTypes
-```
+
+
 
 
 | Имя члена | Значение | Описание |

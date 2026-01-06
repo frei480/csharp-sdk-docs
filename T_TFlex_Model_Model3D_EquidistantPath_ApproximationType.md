@@ -11,12 +11,8 @@
 ```csharp
 public enum ApproximationType
 ```
-```vb
-Public Enumeration ApproximationType
-```
-```cpp
-public enum class ApproximationType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

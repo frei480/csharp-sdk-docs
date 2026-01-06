@@ -11,13 +11,8 @@
 ```csharp
 public string GetSelectedRtfText()
 ```
-```vb
-Public Function GetSelectedRtfText As String
-```
-```cpp
-public:
-String^ GetSelectedRtfText()
-```
+
+
 
 
 #### Возвращаемое значение

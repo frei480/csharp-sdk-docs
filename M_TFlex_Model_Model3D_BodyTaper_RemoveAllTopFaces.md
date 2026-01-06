@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllTopFaces()
 ```
-```vb
-Public Sub RemoveAllTopFaces
-```
-```cpp
-public:
-void RemoveAllTopFaces()
-```
+
+
 
 
 #### Ссылки

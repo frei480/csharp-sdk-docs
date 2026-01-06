@@ -8,13 +8,8 @@
 ```csharp
 public IEnumerable<ElementType> GetLeftElementTypes()
 ```
-```vb
-Public Function GetLeftElementTypes As IEnumerable(Of ElementType)
-```
-```cpp
-public:
-IEnumerable<ElementType^>^ GetLeftElementTypes()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,18 +11,8 @@
 ```csharp
 public bool XAxisSymmetry { get; set; }
 ```
-```vb
-Public Property XAxisSymmetry As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool XAxisSymmetry {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

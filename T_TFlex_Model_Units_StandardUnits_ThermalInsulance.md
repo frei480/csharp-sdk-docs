@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ThermalInsulance
 ```
-```vb
-Public NotInheritable Class ThermalInsulance
-```
-```cpp
-public ref class ThermalInsulance sealed
-```
+
+
 
 
 Тип StandardUnitsThermalInsulance предоставляет следующие члены.

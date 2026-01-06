@@ -14,19 +14,8 @@ public bool GetTopFace(
 	ref ModelFace face
 )
 ```
-```vb
-Public Function GetTopFace ( 
-	nFace As Integer,
-	ByRef face As ModelFace
-) As Boolean
-```
-```cpp
-public:
-bool GetTopFace(
-	int nFace, 
-	ModelFace^% face
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public void SetSocketFilePath(
 	string fileName
 )
 ```
-```vb
-Public Sub SetSocketFilePath ( 
-	fileName As String
-)
-```
-```cpp
-public:
-void SetSocketFilePath(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

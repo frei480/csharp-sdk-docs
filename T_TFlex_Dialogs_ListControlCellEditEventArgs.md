@@ -11,13 +11,8 @@
 ```csharp
 public class ListControlCellEditEventArgs : BaseEventArgs
 ```
-```vb
-Public Class ListControlCellEditEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class ListControlCellEditEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип ListControlCellEditEventArgs предоставляет следующие члены.

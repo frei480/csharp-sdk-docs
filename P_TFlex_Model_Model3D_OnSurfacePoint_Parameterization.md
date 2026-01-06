@@ -11,18 +11,8 @@
 ```csharp
 public OnSurfacePointParameterizationType Parameterization { get; set; }
 ```
-```vb
-Public Property Parameterization As OnSurfacePointParameterizationType
-	Get
-	Set
-```
-```cpp
-public:
-property OnSurfacePointParameterizationType Parameterization {
-	OnSurfacePointParameterizationType get ();
-	void set (OnSurfacePointParameterizationType value);
-}
-```
+
+
 
 
 #### Значение свойства

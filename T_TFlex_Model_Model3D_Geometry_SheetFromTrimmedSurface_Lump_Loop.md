@@ -13,12 +13,8 @@
 ```csharp
 public class Loop
 ```
-```vb
-Public Class Loop
-```
-```cpp
-public ref class Loop
-```
+
+
 
 
 Тип SheetFromTrimmedSurfaceLumpLoop предоставляет следующие члены.

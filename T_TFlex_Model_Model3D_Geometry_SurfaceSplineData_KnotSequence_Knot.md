@@ -13,13 +13,8 @@
 ```csharp
 public class Knot : ICloneable
 ```
-```vb
-Public Class Knot
-	Implements ICloneable
-```
-```cpp
-public ref class Knot : ICloneable
-```
+
+
 
 
 Тип SurfaceSplineDataKnotSequenceKnot предоставляет следующие члены.

@@ -15,21 +15,8 @@ public static string GetSystemProfileFilePath(
 	bool bReadOnly
 )
 ```
-```vb
-Public Shared Function GetSystemProfileFilePath ( 
-	profileItemName As String,
-	fileName As String,
-	bReadOnly As Boolean
-) As String
-```
-```cpp
-public:
-static String^ GetSystemProfileFilePath(
-	String^ profileItemName, 
-	String^ fileName, 
-	bool bReadOnly
-)
-```
+
+
 
 
 #### Параметры

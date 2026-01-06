@@ -10,17 +10,8 @@ public virtual bool IsEqualRule(
 	IFilteringRule other
 )
 ```
-```vb
-Public Overridable Function IsEqualRule ( 
-	other As IFilteringRule
-) As Boolean
-```
-```cpp
-public:
-virtual bool IsEqualRule(
-	IFilteringRule^ other
-)
-```
+
+
 
 
 #### Параметры

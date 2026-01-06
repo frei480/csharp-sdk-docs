@@ -11,13 +11,8 @@
 ```csharp
 public class MarkManager : IDisposable
 ```
-```vb
-Public Class MarkManager
-	Implements IDisposable
-```
-```cpp
-public ref class MarkManager : IDisposable
-```
+
+
 
 
 Тип MarkManager предоставляет следующие члены.

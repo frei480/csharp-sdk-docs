@@ -11,16 +11,8 @@
 ```csharp
 public static UnitType Type { get; }
 ```
-```vb
-Public Shared ReadOnly Property Type As UnitType
-	Get
-```
-```cpp
-public:
-static property UnitType^ Type {
-	UnitType^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

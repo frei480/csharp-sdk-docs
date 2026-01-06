@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerable<Node> GetNodes()
 ```
-```vb
-Public Function GetNodes As IEnumerable(Of Node)
-```
-```cpp
-public:
-IEnumerable<Node^>^ GetNodes()
-```
+
+
 
 
 #### Возвращаемое значение

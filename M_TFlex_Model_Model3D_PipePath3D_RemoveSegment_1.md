@@ -13,17 +13,8 @@ public void RemoveSegment(
 	PipePath3DBaseSegment pSegment
 )
 ```
-```vb
-Public Sub RemoveSegment ( 
-	pSegment As PipePath3DBaseSegment
-)
-```
-```cpp
-public:
-void RemoveSegment(
-	PipePath3DBaseSegment^ pSegment
-)
-```
+
+
 
 
 #### Параметры

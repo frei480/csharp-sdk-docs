@@ -11,18 +11,8 @@
 ```csharp
 public Parameter BrokenAngle { get; set; }
 ```
-```vb
-Public Property BrokenAngle As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ BrokenAngle {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

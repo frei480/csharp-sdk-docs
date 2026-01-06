@@ -13,13 +13,8 @@
 ```csharp
 public class DirectionVector : LoftVectorDirection
 ```
-```vb
-Public Class DirectionVector
-	Inherits LoftVectorDirection
-```
-```cpp
-public ref class DirectionVector : public LoftVectorDirection
-```
+
+
 
 
 Тип LoftDirectionVector предоставляет следующие члены.

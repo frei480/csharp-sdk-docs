@@ -11,12 +11,8 @@
 ```csharp
 public enum MarkerType
 ```
-```vb
-Public Enumeration MarkerType
-```
-```cpp
-public enum class MarkerType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

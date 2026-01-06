@@ -8,13 +8,8 @@
 ```csharp
 public virtual SettingsGroup Copy()
 ```
-```vb
-Public Overridable Function Copy As SettingsGroup
-```
-```cpp
-public:
-virtual SettingsGroup^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

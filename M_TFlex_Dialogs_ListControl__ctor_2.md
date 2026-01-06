@@ -14,19 +14,8 @@ public ListControl(
 	ListControlModel model
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	model As ListControlModel
-)
-```
-```cpp
-public:
-ListControl(
-	String^ id, 
-	ListControlModel^ model
-)
-```
+
+
 
 
 #### Параметры

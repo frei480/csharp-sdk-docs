@@ -11,16 +11,8 @@ Y-координата первой точки, задающей эллип�
 ```csharp
 public double Y1 { get; }
 ```
-```vb
-Public ReadOnly Property Y1 As Double
-	Get
-```
-```cpp
-public:
-property double Y1 {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

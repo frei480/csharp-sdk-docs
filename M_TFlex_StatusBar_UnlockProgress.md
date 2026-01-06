@@ -11,13 +11,8 @@
 ```csharp
 public void UnlockProgress()
 ```
-```vb
-Public Sub UnlockProgress
-```
-```cpp
-public:
-void UnlockProgress()
-```
+
+
 
 
 #### Ссылки

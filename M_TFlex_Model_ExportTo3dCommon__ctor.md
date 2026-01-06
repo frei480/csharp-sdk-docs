@@ -13,17 +13,8 @@ protected ExportTo3dCommon(
 	Document document
 )
 ```
-```vb
-Protected Sub New ( 
-	document As Document
-)
-```
-```cpp
-protected:
-ExportTo3dCommon(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

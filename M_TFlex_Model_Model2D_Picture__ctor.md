@@ -13,17 +13,8 @@ public Picture(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-Picture(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

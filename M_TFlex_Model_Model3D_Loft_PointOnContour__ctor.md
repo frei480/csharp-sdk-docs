@@ -11,13 +11,8 @@
 ```csharp
 public PointOnContour()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PointOnContour()
-```
+
+
 
 
 #### Ссылки

@@ -11,16 +11,8 @@
 ```csharp
 public string ProductVersion { get; }
 ```
-```vb
-Public ReadOnly Property ProductVersion As String
-	Get
-```
-```cpp
-public:
-property String^ ProductVersion {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,13 +8,8 @@
 ```csharp
 public const int VERSION_TYPE = 20003
 ```
-```vb
-Public Const VERSION_TYPE As Integer = 20003
-```
-```cpp
-public:
-literal int VERSION_TYPE = 20003
-```
+
+
 
 
 #### Значение поля

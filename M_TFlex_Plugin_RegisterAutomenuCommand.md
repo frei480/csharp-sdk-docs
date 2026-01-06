@@ -15,21 +15,8 @@ protected void RegisterAutomenuCommand(
 	string hint
 )
 ```
-```vb
-<ObsoleteAttribute("Use overloaded RegisterAutomenuCommand to setup icon.")>
-Protected Sub RegisterAutomenuCommand ( 
-	id As Integer,
-	hint As String
-)
-```
-```cpp
-protected:
-[ObsoleteAttribute(L"Use overloaded RegisterAutomenuCommand to setup icon.")]
-void RegisterAutomenuCommand(
-	int id, 
-	String^ hint
-)
-```
+
+
 
 
 #### Параметры

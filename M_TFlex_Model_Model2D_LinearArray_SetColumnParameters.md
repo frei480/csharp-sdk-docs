@@ -17,25 +17,8 @@ public void SetColumnParameters(
 	Parameter colsNumber
 )
 ```
-```vb
-Public Sub SetColumnParameters ( 
-	paramsSet As LinearArrayParameters,
-	nodeNeed As NodeNeeds,
-	colsLength As Parameter,
-	colsStep As Parameter,
-	colsNumber As Parameter
-)
-```
-```cpp
-public:
-void SetColumnParameters(
-	LinearArrayParameters paramsSet, 
-	NodeNeeds nodeNeed, 
-	Parameter^ colsLength, 
-	Parameter^ colsStep, 
-	Parameter^ colsNumber
-)
-```
+
+
 
 
 #### Параметры

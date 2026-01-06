@@ -13,17 +13,8 @@ public bool DependsOn(
 	ModelObject other
 )
 ```
-```vb
-Public Function DependsOn ( 
-	other As ModelObject
-) As Boolean
-```
-```cpp
-public:
-bool DependsOn(
-	ModelObject^ other
-)
-```
+
+
 
 
 #### Параметры

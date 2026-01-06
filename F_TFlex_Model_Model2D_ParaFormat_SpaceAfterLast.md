@@ -11,13 +11,8 @@
 ```csharp
 public double SpaceAfterLast
 ```
-```vb
-Public SpaceAfterLast As Double
-```
-```cpp
-public:
-double SpaceAfterLast
-```
+
+
 
 
 #### Значение поля

@@ -10,17 +10,8 @@ public void CopyProperties(
 	FilteringRules src
 )
 ```
-```vb
-Public Sub CopyProperties ( 
-	src As FilteringRules
-)
-```
-```cpp
-public:
-void CopyProperties(
-	FilteringRules^ src
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public Point GetRelativePointToBegin(
 	double distance
 )
 ```
-```vb
-Public Function GetRelativePointToBegin ( 
-	distance As Double
-) As Point
-```
-```cpp
-public:
-Point GetRelativePointToBegin(
-	double distance
-)
-```
+
+
 
 
 #### Параметры

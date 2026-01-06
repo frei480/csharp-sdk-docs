@@ -8,18 +8,8 @@
 ```csharp
 public double SmoothRotationTime { get; set; }
 ```
-```vb
-Public Property SmoothRotationTime As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double SmoothRotationTime {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

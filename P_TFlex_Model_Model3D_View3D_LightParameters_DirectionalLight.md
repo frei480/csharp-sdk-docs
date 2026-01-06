@@ -13,20 +13,8 @@ public View3DDirectionalLight this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Property DirectionalLight ( 
-	index As Integer
-) As View3DDirectionalLight
-	Get
-	Set
-```
-```cpp
-public:
-property View3DDirectionalLight DirectionalLight[int index] {
-	View3DDirectionalLight get (int index);
-	void set (int index, View3DDirectionalLight value);
-}
-```
+
+
 
 
 #### Параметры

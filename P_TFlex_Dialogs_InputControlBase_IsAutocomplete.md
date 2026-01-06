@@ -11,18 +11,8 @@
 ```csharp
 public bool IsAutocomplete { get; set; }
 ```
-```vb
-Public Property IsAutocomplete As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsAutocomplete {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

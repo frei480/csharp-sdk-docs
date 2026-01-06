@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<PointRotationManipulatorAngleEnqueuedEventArgs> AngleEnqueued
 ```
-```vb
-Public Event AngleEnqueued As EventHandler(Of PointRotationManipulatorAngleEnqueuedEventArgs)
-```
-```cpp
-public:
- event EventHandler<PointRotationManipulatorAngleEnqueuedEventArgs^>^ AngleEnqueued {
-	void add (EventHandler<PointRotationManipulatorAngleEnqueuedEventArgs^>^ value);
-	void remove (EventHandler<PointRotationManipulatorAngleEnqueuedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

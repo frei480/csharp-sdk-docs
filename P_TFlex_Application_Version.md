@@ -11,16 +11,8 @@
 ```csharp
 public static Version Version { get; }
 ```
-```vb
-Public Shared ReadOnly Property Version As Version
-	Get
-```
-```cpp
-public:
-static property Version^ Version {
-	Version^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

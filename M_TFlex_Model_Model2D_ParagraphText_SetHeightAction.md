@@ -14,19 +14,8 @@ public void SetHeightAction(
 	ParagraphTextTextRectangle value
 )
 ```
-```vb
-Public Sub SetHeightAction ( 
-	action As ParagraphTextFitHeightAction,
-	value As ParagraphTextTextRectangle
-)
-```
-```cpp
-public:
-void SetHeightAction(
-	ParagraphTextFitHeightAction action, 
-	ParagraphTextTextRectangle value
-)
-```
+
+
 
 
 #### Параметры

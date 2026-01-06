@@ -13,17 +13,8 @@ public ImportFromIfc(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ImportFromIfc(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

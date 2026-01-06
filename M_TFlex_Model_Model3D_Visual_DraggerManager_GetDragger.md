@@ -13,17 +13,8 @@ public Dragger GetDragger(
 	int id
 )
 ```
-```vb
-Public Function GetDragger ( 
-	id As Integer
-) As Dragger
-```
-```cpp
-public:
-Dragger^ GetDragger(
-	int id
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class CustomHeaderAttribute : Attribute
 ```
-```vb
-Public Class CustomHeaderAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomHeaderAttribute : public Attribute
-```
+
+
 
 
 Тип CustomHeaderAttribute предоставляет следующие члены.

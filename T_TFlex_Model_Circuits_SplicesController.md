@@ -13,12 +13,8 @@
 ```csharp
 public class SplicesController
 ```
-```vb
-Public Class SplicesController
-```
-```cpp
-public ref class SplicesController
-```
+
+
 
 
 Тип SplicesController предоставляет следующие члены.

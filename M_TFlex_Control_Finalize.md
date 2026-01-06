@@ -8,13 +8,8 @@
 ```csharp
 protected override void Finalize()
 ```
-```vb
-Protected Overrides Sub Finalize
-```
-```cpp
-protected:
-virtual void Finalize() override
-```
+
+
 
 
 #### Ссылки

@@ -11,16 +11,8 @@
 ```csharp
 public Direction NormalIfPlanarSheet { get; }
 ```
-```vb
-Public ReadOnly Property NormalIfPlanarSheet As Direction
-	Get
-```
-```cpp
-public:
-property Direction^ NormalIfPlanarSheet {
-	Direction^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

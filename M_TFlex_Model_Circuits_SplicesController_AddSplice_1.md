@@ -13,17 +13,8 @@ public virtual Splice AddSplice(
 	Splice A_0
 )
 ```
-```vb
-Public Overridable Function AddSplice ( 
-	A_0 As Splice
-) As Splice
-```
-```cpp
-public:
-virtual Splice^ AddSplice(
-	Splice^ A_0
-)
-```
+
+
 
 
 #### Параметры

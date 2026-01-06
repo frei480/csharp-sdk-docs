@@ -8,16 +8,8 @@
 ```csharp
 public abstract Object3D Owner { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property Owner As Object3D
-	Get
-```
-```cpp
-public:
-virtual property Object3D^ Owner {
-	Object3D^ get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

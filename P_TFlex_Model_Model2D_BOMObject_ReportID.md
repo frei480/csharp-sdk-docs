@@ -11,16 +11,8 @@
 ```csharp
 public uint ReportID { get; }
 ```
-```vb
-Public ReadOnly Property ReportID As UInteger
-	Get
-```
-```cpp
-public:
-property unsigned int ReportID {
-	unsigned int get ();
-}
-```
+
+
 
 
 #### Значение свойства

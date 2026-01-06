@@ -14,19 +14,8 @@ public void SetParentRow(
 	int parent
 )
 ```
-```vb
-Public Sub SetParentRow ( 
-	row As Integer,
-	parent As Integer
-)
-```
-```cpp
-public:
-void SetParentRow(
-	int row, 
-	int parent
-)
-```
+
+
 
 
 #### Параметры

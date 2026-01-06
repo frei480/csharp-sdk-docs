@@ -10,17 +10,8 @@ public void AddConnectedSplice(
 	int index
 )
 ```
-```vb
-Public Sub AddConnectedSplice ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void AddConnectedSplice(
-	int index
-)
-```
+
+
 
 
 #### Параметры

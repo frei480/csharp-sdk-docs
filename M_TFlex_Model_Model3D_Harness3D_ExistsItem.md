@@ -14,19 +14,8 @@ public bool ExistsItem(
 	bool checkParentHarness
 )
 ```
-```vb
-Public Function ExistsItem ( 
-	pElement As Construction3D,
-	checkParentHarness As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool ExistsItem(
-	Construction3D^ pElement, 
-	bool checkParentHarness
-)
-```
+
+
 
 
 #### Параметры

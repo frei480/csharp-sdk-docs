@@ -11,19 +11,8 @@ public static void Notice(
 	Object arg
 )
 ```
-```vb
-Public Shared Sub Notice ( 
-	format As String,
-	arg As Object
-)
-```
-```cpp
-public:
-static void Notice(
-	String^ format, 
-	Object^ arg
-)
-```
+
+
 
 
 #### Параметры

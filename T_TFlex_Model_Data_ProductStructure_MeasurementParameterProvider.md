@@ -11,13 +11,8 @@
 ```csharp
 public class MeasurementParameterProvider : IParameterProvider
 ```
-```vb
-Public Class MeasurementParameterProvider
-	Inherits IParameterProvider
-```
-```cpp
-public ref class MeasurementParameterProvider : public IParameterProvider
-```
+
+
 
 
 Тип MeasurementParameterProvider предоставляет следующие члены.

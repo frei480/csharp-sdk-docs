@@ -13,17 +13,8 @@ public static void EnableNotRespondingDialog(
 	bool enable
 )
 ```
-```vb
-Public Shared Sub EnableNotRespondingDialog ( 
-	enable As Boolean
-)
-```
-```cpp
-public:
-static void EnableNotRespondingDialog(
-	bool enable
-)
-```
+
+
 
 
 #### Параметры

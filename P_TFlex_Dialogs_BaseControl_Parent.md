@@ -11,16 +11,8 @@
 ```csharp
 public BaseControl Parent { get; }
 ```
-```vb
-Public ReadOnly Property Parent As BaseControl
-	Get
-```
-```cpp
-public:
-property BaseControl^ Parent {
-	BaseControl^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

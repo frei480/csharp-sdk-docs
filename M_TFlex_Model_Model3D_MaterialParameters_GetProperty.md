@@ -13,17 +13,8 @@ public Parameter GetProperty(
 	MaterialParametersPhysicalProperty prop
 )
 ```
-```vb
-Public Function GetProperty ( 
-	prop As MaterialParametersPhysicalProperty
-) As Parameter
-```
-```cpp
-public:
-Parameter^ GetProperty(
-	MaterialParametersPhysicalProperty prop
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToOBJ : ExportToFacet
 ```
-```vb
-Public NotInheritable Class ExportToOBJ
-	Inherits ExportToFacet
-```
-```cpp
-public ref class ExportToOBJ sealed : public ExportToFacet
-```
+
+
 
 
 Тип ExportToOBJ предоставляет следующие члены.

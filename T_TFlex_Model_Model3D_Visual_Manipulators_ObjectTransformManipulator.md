@@ -11,13 +11,8 @@
 ```csharp
 public class ObjectTransformManipulator : Manipulator
 ```
-```vb
-Public Class ObjectTransformManipulator
-	Inherits Manipulator
-```
-```cpp
-public ref class ObjectTransformManipulator : public Manipulator
-```
+
+
 
 
 Тип ObjectTransformManipulator предоставляет следующие члены.

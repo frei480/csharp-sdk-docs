@@ -13,13 +13,8 @@
 ```csharp
 public class VariableControl : Control
 ```
-```vb
-Public Class VariableControl
-	Inherits Control
-```
-```cpp
-public ref class VariableControl : public Control
-```
+
+
 
 
 Тип VariableControl предоставляет следующие члены.

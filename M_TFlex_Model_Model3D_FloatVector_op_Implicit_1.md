@@ -13,16 +13,8 @@ public static implicit operator FloatVector (
 	BasePoint3D point
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	point As BasePoint3D
-) As FloatVector
-```
-```cpp
-static implicit operator FloatVector (
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

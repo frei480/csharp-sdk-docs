@@ -11,12 +11,8 @@
 ```csharp
 public enum PreferenceType
 ```
-```vb
-Public Enumeration PreferenceType
-```
-```cpp
-public enum class PreferenceType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

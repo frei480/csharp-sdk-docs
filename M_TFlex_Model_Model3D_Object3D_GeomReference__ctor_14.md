@@ -13,17 +13,8 @@ public GeomReference(
 	ModelSurface surface
 )
 ```
-```vb
-Public Sub New ( 
-	surface As ModelSurface
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelSurface^ surface
-)
-```
+
+
 
 
 #### Параметры

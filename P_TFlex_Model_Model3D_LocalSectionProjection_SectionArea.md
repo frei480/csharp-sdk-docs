@@ -11,18 +11,8 @@
 ```csharp
 public Area SectionArea { get; set; }
 ```
-```vb
-Public Property SectionArea As Area
-	Get
-	Set
-```
-```cpp
-public:
-property Area^ SectionArea {
-	Area^ get ();
-	void set (Area^ value);
-}
-```
+
+
 
 
 #### Значение свойства

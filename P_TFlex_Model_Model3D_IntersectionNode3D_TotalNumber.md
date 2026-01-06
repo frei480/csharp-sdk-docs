@@ -11,16 +11,8 @@
 ```csharp
 public int TotalNumber { get; }
 ```
-```vb
-Public ReadOnly Property TotalNumber As Integer
-	Get
-```
-```cpp
-public:
-property int TotalNumber {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

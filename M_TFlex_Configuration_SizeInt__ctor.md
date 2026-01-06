@@ -11,13 +11,8 @@
 ```csharp
 public SizeInt()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SizeInt()
-```
+
+
 
 
 #### Ссылки

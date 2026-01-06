@@ -13,17 +13,8 @@ public bool DeleteByCommand(
 	int command
 )
 ```
-```vb
-Public Function DeleteByCommand ( 
-	command As Integer
-) As Boolean
-```
-```cpp
-public:
-bool DeleteByCommand(
-	int command
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class CustomDynamicDisabledAttribute : Attribute
 ```
-```vb
-Public Class CustomDynamicDisabledAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomDynamicDisabledAttribute : public Attribute
-```
+
+
 
 
 Тип CustomDynamicDisabledAttribute предоставляет следующие члены.

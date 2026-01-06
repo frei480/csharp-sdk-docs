@@ -11,12 +11,8 @@
 ```csharp
 public enum Function
 ```
-```vb
-Public Enumeration Function
-```
-```cpp
-public enum class Function
-```
+
+
 
 
 | Имя члена | Значение | Описание |

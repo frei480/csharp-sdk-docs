@@ -10,17 +10,8 @@ public override bool CanMatchObject(
 	ObjectSelectControlPlainObject object
 )
 ```
-```vb
-Public Overrides Function CanMatchObject ( 
-	object As ObjectSelectControlPlainObject
-) As Boolean
-```
-```cpp
-public:
-virtual bool CanMatchObject(
-	ObjectSelectControlPlainObject object
-) override
-```
+
+
 
 
 #### Параметры

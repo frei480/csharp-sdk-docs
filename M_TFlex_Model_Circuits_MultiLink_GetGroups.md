@@ -8,13 +8,8 @@
 ```csharp
 public override IEnumerable<LinkBase> GetGroups()
 ```
-```vb
-Public Overrides Function GetGroups As IEnumerable(Of LinkBase)
-```
-```cpp
-public:
-virtual IEnumerable<LinkBase^>^ GetGroups() override
-```
+
+
 
 
 #### Возвращаемое значение

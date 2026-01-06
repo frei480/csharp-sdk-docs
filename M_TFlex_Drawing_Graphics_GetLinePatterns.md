@@ -11,13 +11,8 @@
 ```csharp
 public static List<LinePatternType> GetLinePatterns()
 ```
-```vb
-Public Shared Function GetLinePatterns As List(Of LinePatternType)
-```
-```cpp
-public:
-static List<LinePatternType^>^ GetLinePatterns()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -15,21 +15,8 @@ public int InsertTextColumn(
 	int length
 )
 ```
-```vb
-Public Function InsertTextColumn ( 
-	index As Integer,
-	name As String,
-	length As Integer
-) As Integer
-```
-```cpp
-public:
-int InsertTextColumn(
-	int index, 
-	String^ name, 
-	int length
-)
-```
+
+
 
 
 #### Параметры

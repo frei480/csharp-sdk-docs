@@ -11,18 +11,8 @@
 ```csharp
 public ProfileThicknessDataCornerFill CornerFillType { get; set; }
 ```
-```vb
-Public Property CornerFillType As ProfileThicknessDataCornerFill
-	Get
-	Set
-```
-```cpp
-public:
-property ProfileThicknessDataCornerFill CornerFillType {
-	ProfileThicknessDataCornerFill get ();
-	void set (ProfileThicknessDataCornerFill value);
-}
-```
+
+
 
 
 #### Значение свойства

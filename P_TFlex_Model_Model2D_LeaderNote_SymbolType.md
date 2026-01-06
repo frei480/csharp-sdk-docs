@@ -11,18 +11,8 @@
 ```csharp
 public LeaderNoteSymbolType SymbolType { get; set; }
 ```
-```vb
-Public Property SymbolType As LeaderNoteSymbolType
-	Get
-	Set
-```
-```cpp
-public:
-property LeaderNoteSymbolType SymbolType {
-	LeaderNoteSymbolType get ();
-	void set (LeaderNoteSymbolType value);
-}
-```
+
+
 
 
 #### Значение свойства

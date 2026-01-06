@@ -14,19 +14,8 @@ public string GetText(
 	Position pos2
 )
 ```
-```vb
-Public Function GetText ( 
-	pos1 As Position,
-	pos2 As Position
-) As String
-```
-```cpp
-public:
-String^ GetText(
-	Position pos1, 
-	Position pos2
-)
-```
+
+
 
 
 #### Параметры

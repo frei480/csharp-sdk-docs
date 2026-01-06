@@ -19,29 +19,8 @@ public static void MakeArray(
 	double endOffset
 )
 ```
-```vb
-Public Shared Sub MakeArray ( 
-	plane1 As Workplane,
-	plane2 As Workplane,
-	nCount As Integer,
-	fUseStep As Boolean,
-	step As Double,
-	beginOffset As Double,
-	endOffset As Double
-)
-```
-```cpp
-public:
-static void MakeArray(
-	Workplane^ plane1, 
-	Workplane^ plane2, 
-	int nCount, 
-	bool fUseStep, 
-	double step, 
-	double beginOffset, 
-	double endOffset
-)
-```
+
+
 
 
 #### Параметры

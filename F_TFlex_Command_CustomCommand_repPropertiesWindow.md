@@ -8,13 +8,8 @@
 ```csharp
 protected PropertiesWindow repPropertiesWindow
 ```
-```vb
-Protected repPropertiesWindow As PropertiesWindow
-```
-```cpp
-protected:
-PropertiesWindow^ repPropertiesWindow
-```
+
+
 
 
 #### Значение поля

@@ -11,12 +11,8 @@
 ```csharp
 public enum LeaderNoteDirection
 ```
-```vb
-Public Enumeration LeaderNoteDirection
-```
-```cpp
-public enum class LeaderNoteDirection
-```
+
+
 
 
 | Имя члена | Значение | Описание |

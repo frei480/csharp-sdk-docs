@@ -11,18 +11,8 @@
 ```csharp
 public Parameter AltTolerLowerDev { get; set; }
 ```
-```vb
-Public Property AltTolerLowerDev As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ AltTolerLowerDev {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

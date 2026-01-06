@@ -11,13 +11,8 @@
 ```csharp
 public class Weld : SettingsGroup
 ```
-```vb
-Public Class Weld
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Weld : public SettingsGroup
-```
+
+
 
 
 Тип Weld предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public virtual Object Current { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Current As Object
-	Get
-```
-```cpp
-public:
-virtual property Object^ Current {
-	Object^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

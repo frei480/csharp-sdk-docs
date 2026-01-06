@@ -14,19 +14,8 @@ public virtual Object GetRowData(
 	ListItemRole role
 )
 ```
-```vb
-Public Overridable Function GetRowData ( 
-	row As Integer,
-	role As ListItemRole
-) As Object
-```
-```cpp
-public:
-virtual Object^ GetRowData(
-	int row, 
-	ListItemRole role
-)
-```
+
+
 
 
 #### Параметры

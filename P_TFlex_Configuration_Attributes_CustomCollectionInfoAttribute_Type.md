@@ -8,18 +8,8 @@
 ```csharp
 public Type Type { get; set; }
 ```
-```vb
-Public Property Type As Type
-	Get
-	Set
-```
-```cpp
-public:
-property Type^ Type {
-	Type^ get ();
-	void set (Type^ value);
-}
-```
+
+
 
 
 #### Значение свойства

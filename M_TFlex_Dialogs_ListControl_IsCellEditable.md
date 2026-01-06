@@ -10,17 +10,8 @@ public bool IsCellEditable(
 	CellInfo cell
 )
 ```
-```vb
-Public Function IsCellEditable ( 
-	cell As CellInfo
-) As Boolean
-```
-```cpp
-public:
-bool IsCellEditable(
-	CellInfo^ cell
-)
-```
+
+
 
 
 #### Параметры

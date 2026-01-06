@@ -12,21 +12,8 @@ public Segment CreateSegment(
 	SegmentCurveType type
 )
 ```
-```vb
-Public Function CreateSegment ( 
-	first As TerminalPoint,
-	last As TerminalPoint,
-	type As SegmentCurveType
-) As Segment
-```
-```cpp
-public:
-Segment^ CreateSegment(
-	TerminalPoint^ first, 
-	TerminalPoint^ last, 
-	SegmentCurveType type
-)
-```
+
+
 
 
 #### Параметры

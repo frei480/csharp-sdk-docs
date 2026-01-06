@@ -13,19 +13,8 @@ public static ICollection<Picture3D> GetPictures3D(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetPictures3D ( 
-	document As Document
-) As ICollection(Of Picture3D)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Picture3D^>^ GetPictures3D(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

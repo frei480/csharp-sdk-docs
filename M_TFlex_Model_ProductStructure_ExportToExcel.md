@@ -13,17 +13,8 @@ public void ExportToExcel(
 	ProductStructureExcelExportOptions options
 )
 ```
-```vb
-Public Sub ExportToExcel ( 
-	options As ProductStructureExcelExportOptions
-)
-```
-```cpp
-public:
-void ExportToExcel(
-	ProductStructureExcelExportOptions^ options
-)
-```
+
+
 
 
 #### Параметры

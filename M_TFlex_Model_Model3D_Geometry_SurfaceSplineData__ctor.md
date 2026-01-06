@@ -11,13 +11,8 @@
 ```csharp
 public SurfaceSplineData()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SurfaceSplineData()
-```
+
+
 
 
 #### Ссылки

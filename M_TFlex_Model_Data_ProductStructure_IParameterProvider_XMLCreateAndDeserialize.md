@@ -10,17 +10,8 @@ public static IParameterProvider XMLCreateAndDeserialize(
 	XmlElement rElement
 )
 ```
-```vb
-Public Shared Function XMLCreateAndDeserialize ( 
-	rElement As XmlElement
-) As IParameterProvider
-```
-```cpp
-public:
-static IParameterProvider^ XMLCreateAndDeserialize(
-	XmlElement^ rElement
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public double RightIndent
 ```
-```vb
-Public RightIndent As Double
-```
-```cpp
-public:
-double RightIndent
-```
+
+
 
 
 #### Значение поля

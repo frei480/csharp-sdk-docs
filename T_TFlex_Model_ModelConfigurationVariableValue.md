@@ -11,12 +11,8 @@
 ```csharp
 public class ModelConfigurationVariableValue
 ```
-```vb
-Public Class ModelConfigurationVariableValue
-```
-```cpp
-public ref class ModelConfigurationVariableValue
-```
+
+
 
 
 Тип ModelConfigurationVariableValue предоставляет следующие члены.

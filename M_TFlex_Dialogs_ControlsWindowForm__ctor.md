@@ -11,13 +11,8 @@
 ```csharp
 public ControlsWindowForm()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ControlsWindowForm()
-```
+
+
 
 
 #### Ссылки

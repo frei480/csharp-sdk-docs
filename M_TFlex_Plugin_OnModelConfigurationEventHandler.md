@@ -13,17 +13,8 @@ protected virtual void OnModelConfigurationEventHandler(
 	ModelConfigurationEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub OnModelConfigurationEventHandler ( 
-	args As ModelConfigurationEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnModelConfigurationEventHandler(
-	ModelConfigurationEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

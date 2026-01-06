@@ -11,13 +11,8 @@
 ```csharp
 public class RenderOptions : SettingsGroup
 ```
-```vb
-Public Class RenderOptions
-	Inherits SettingsGroup
-```
-```cpp
-public ref class RenderOptions : public SettingsGroup
-```
+
+
 
 
 Тип RenderOptions предоставляет следующие члены.

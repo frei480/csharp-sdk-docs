@@ -11,13 +11,8 @@
 ```csharp
 public class PointOnPath : PipePath3DBasePoint
 ```
-```vb
-Public Class PointOnPath
-	Inherits PipePath3DBasePoint
-```
-```cpp
-public ref class PointOnPath : public PipePath3DBasePoint
-```
+
+
 
 
 Тип PipePath3DPointOnPath предоставляет следующие члены.

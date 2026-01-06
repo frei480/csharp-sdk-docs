@@ -13,17 +13,8 @@ public MultilineText(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-MultilineText(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

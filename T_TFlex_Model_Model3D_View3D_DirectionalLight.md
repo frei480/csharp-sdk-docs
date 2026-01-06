@@ -13,12 +13,8 @@
 ```csharp
 public struct DirectionalLight
 ```
-```vb
-Public Structure DirectionalLight
-```
-```cpp
-public value class DirectionalLight
-```
+
+
 
 
 Тип View3DDirectionalLight предоставляет следующие члены.

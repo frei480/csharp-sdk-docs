@@ -8,16 +8,8 @@
 ```csharp
 public IReadOnlyList<ModelObject> Objects { get; }
 ```
-```vb
-Public ReadOnly Property Objects As IReadOnlyList(Of ModelObject)
-	Get
-```
-```cpp
-public:
-property IReadOnlyList<ModelObject^>^ Objects {
-	IReadOnlyList<ModelObject^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

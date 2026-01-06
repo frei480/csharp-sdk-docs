@@ -11,16 +11,8 @@
 ```csharp
 public virtual TermGroup AsGroup { get; }
 ```
-```vb
-Public Overridable ReadOnly Property AsGroup As TermGroup
-	Get
-```
-```cpp
-public:
-virtual property TermGroup^ AsGroup {
-	TermGroup^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

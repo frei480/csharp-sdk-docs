@@ -11,13 +11,8 @@
 ```csharp
 public AngleEnqueuedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-AngleEnqueuedEventArgs()
-```
+
+
 
 
 #### Ссылки

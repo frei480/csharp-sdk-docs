@@ -11,13 +11,8 @@
 ```csharp
 public View3DDrawStyleHiddenOptions PrecisehiddenOptions
 ```
-```vb
-Public PrecisehiddenOptions As View3DDrawStyleHiddenOptions
-```
-```cpp
-public:
-View3DDrawStyleHiddenOptions PrecisehiddenOptions
-```
+
+
 
 
 #### Значение поля

@@ -13,17 +13,8 @@ public bool SetValue(
 	double value
 )
 ```
-```vb
-Public Function SetValue ( 
-	value As Double
-) As Boolean
-```
-```cpp
-public:
-bool SetValue(
-	double value
-)
-```
+
+
 
 
 #### Параметры

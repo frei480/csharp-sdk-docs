@@ -11,18 +11,8 @@
 ```csharp
 public bool ShowModeSwitchLink { get; set; }
 ```
-```vb
-Public Property ShowModeSwitchLink As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowModeSwitchLink {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

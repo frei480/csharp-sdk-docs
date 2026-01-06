@@ -8,18 +8,8 @@
 ```csharp
 public bool SyncFragmentsByDefault { get; set; }
 ```
-```vb
-Public Property SyncFragmentsByDefault As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SyncFragmentsByDefault {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

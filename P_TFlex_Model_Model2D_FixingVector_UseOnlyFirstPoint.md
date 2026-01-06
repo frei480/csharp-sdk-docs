@@ -11,18 +11,8 @@
 ```csharp
 public bool UseOnlyFirstPoint { get; set; }
 ```
-```vb
-Public Property UseOnlyFirstPoint As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseOnlyFirstPoint {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

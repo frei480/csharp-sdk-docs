@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool Visible { get; set; }
 ```
-```vb
-Public Overridable Property Visible As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool Visible {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

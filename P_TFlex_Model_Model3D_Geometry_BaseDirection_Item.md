@@ -10,18 +10,8 @@ public double this[
 	int index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As Integer
-) As Double
-	Get
-```
-```cpp
-public:
-property double default[int index] {
-	double get (int index);
-}
-```
+
+
 
 
 #### Параметры

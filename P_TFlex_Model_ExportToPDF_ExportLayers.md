@@ -11,18 +11,8 @@
 ```csharp
 public List<Layer> ExportLayers { get; set; }
 ```
-```vb
-Public Property ExportLayers As List(Of Layer)
-	Get
-	Set
-```
-```cpp
-public:
-property List<Layer^>^ ExportLayers {
-	List<Layer^>^ get ();
-	void set (List<Layer^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

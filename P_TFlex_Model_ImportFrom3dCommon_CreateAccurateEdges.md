@@ -11,18 +11,8 @@
 ```csharp
 public ImportFrom3dOption CreateAccurateEdges { get; set; }
 ```
-```vb
-Public Property CreateAccurateEdges As ImportFrom3dOption
-	Get
-	Set
-```
-```cpp
-public:
-property ImportFrom3dOption CreateAccurateEdges {
-	ImportFrom3dOption get ();
-	void set (ImportFrom3dOption value);
-}
-```
+
+
 
 
 #### Значение свойства

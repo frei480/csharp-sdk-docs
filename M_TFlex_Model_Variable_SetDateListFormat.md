@@ -13,17 +13,8 @@ public void SetDateListFormat(
 	string format
 )
 ```
-```vb
-Public Sub SetDateListFormat ( 
-	format As String
-)
-```
-```cpp
-public:
-void SetDateListFormat(
-	String^ format
-)
-```
+
+
 
 
 #### Параметры

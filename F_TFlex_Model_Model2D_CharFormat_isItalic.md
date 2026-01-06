@@ -11,13 +11,8 @@
 ```csharp
 public bool isItalic
 ```
-```vb
-Public isItalic As Boolean
-```
-```cpp
-public:
-bool isItalic
-```
+
+
 
 
 #### Значение поля

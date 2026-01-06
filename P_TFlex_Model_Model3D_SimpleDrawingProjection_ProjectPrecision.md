@@ -11,18 +11,8 @@
 ```csharp
 public double ProjectPrecision { get; set; }
 ```
-```vb
-Public Property ProjectPrecision As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double ProjectPrecision {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

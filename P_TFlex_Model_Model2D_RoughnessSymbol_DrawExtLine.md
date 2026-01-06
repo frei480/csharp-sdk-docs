@@ -11,18 +11,8 @@
 ```csharp
 public bool DrawExtLine { get; set; }
 ```
-```vb
-Public Property DrawExtLine As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DrawExtLine {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

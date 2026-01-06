@@ -12,15 +12,8 @@
 public sealed class ExternalObject : Object2D, 
 	IModelObjectWithLayer
 ```
-```vb
-Public NotInheritable Class ExternalObject
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class ExternalObject sealed : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип ExternalObject предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public bool DeleteVariables { get; set; }
 ```
-```vb
-Public Property DeleteVariables As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DeleteVariables {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool IsIdMappingOn { get; set; }
 ```
-```vb
-Public Property IsIdMappingOn As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsIdMappingOn {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

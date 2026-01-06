@@ -13,17 +13,8 @@ public DecorationShape(
 	string name
 )
 ```
-```vb
-Public Sub New ( 
-	name As String
-)
-```
-```cpp
-public:
-DecorationShape(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

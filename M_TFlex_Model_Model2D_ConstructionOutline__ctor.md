@@ -14,19 +14,8 @@ public ConstructionOutline(
 	Construction srcConstruction
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	srcConstruction As Construction
-)
-```
-```cpp
-public:
-ConstructionOutline(
-	Document^ document, 
-	Construction^ srcConstruction
-)
-```
+
+
 
 
 #### Параметры

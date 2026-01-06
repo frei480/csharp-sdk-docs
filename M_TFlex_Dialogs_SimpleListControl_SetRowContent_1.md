@@ -14,19 +14,8 @@ public void SetRowContent(
 	Object data
 )
 ```
-```vb
-Public Sub SetRowContent ( 
-	row As Integer,
-	data As Object
-)
-```
-```cpp
-public:
-void SetRowContent(
-	int row, 
-	Object^ data
-)
-```
+
+
 
 
 #### Параметры

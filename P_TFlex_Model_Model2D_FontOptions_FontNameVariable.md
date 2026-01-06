@@ -8,18 +8,8 @@
 ```csharp
 public virtual Variable FontNameVariable { get; set; }
 ```
-```vb
-Public Overridable Property FontNameVariable As Variable
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Variable^ FontNameVariable {
-	Variable^ get ();
-	void set (Variable^ value);
-}
-```
+
+
 
 
 #### Значение свойства

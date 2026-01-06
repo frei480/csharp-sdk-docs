@@ -11,13 +11,8 @@
 ```csharp
 public TransformationMatrix()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-TransformationMatrix()
-```
+
+
 
 
 #### Ссылки

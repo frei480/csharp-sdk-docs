@@ -11,12 +11,8 @@
 ```csharp
 public class ObjectTypeInfo
 ```
-```vb
-Public Class ObjectTypeInfo
-```
-```cpp
-public ref class ObjectTypeInfo
-```
+
+
 
 
 Тип ObjectTypeInfo предоставляет следующие члены.

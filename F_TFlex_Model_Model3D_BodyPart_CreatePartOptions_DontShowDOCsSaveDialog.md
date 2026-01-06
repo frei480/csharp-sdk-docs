@@ -11,13 +11,8 @@
 ```csharp
 public bool DontShowDOCsSaveDialog
 ```
-```vb
-Public DontShowDOCsSaveDialog As Boolean
-```
-```cpp
-public:
-bool DontShowDOCsSaveDialog
-```
+
+
 
 
 #### Значение поля

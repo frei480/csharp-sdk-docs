@@ -11,13 +11,8 @@
 ```csharp
 public static void IdleSession()
 ```
-```vb
-Public Shared Sub IdleSession
-```
-```cpp
-public:
-static void IdleSession()
-```
+
+
 
 
 #### Ссылки

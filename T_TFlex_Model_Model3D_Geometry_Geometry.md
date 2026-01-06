@@ -14,14 +14,8 @@
 public abstract class Geometry : IObjectGeometry, 
 	IDisposable
 ```
-```vb
-Public MustInherit Class Geometry
-	Implements IObjectGeometry, IDisposable
-```
-```cpp
-public ref class Geometry abstract : IObjectGeometry, 
-	IDisposable
-```
+
+
 
 
 Тип Geometry предоставляет следующие члены.

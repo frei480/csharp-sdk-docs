@@ -11,16 +11,8 @@
 ```csharp
 public ExportToRhino ExportToRhino { get; }
 ```
-```vb
-Public ReadOnly Property ExportToRhino As ExportToRhino
-	Get
-```
-```cpp
-public:
-property ExportToRhino^ ExportToRhino {
-	ExportToRhino^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

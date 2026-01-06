@@ -11,18 +11,8 @@
 ```csharp
 public PdmParameterType PdmParameterType { get; set; }
 ```
-```vb
-Public Property PdmParameterType As PdmParameterType
-	Get
-	Set
-```
-```cpp
-public:
-property PdmParameterType PdmParameterType {
-	PdmParameterType get ();
-	void set (PdmParameterType value);
-}
-```
+
+
 
 
 #### Значение свойства

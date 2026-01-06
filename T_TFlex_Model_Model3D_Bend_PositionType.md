@@ -11,12 +11,8 @@
 ```csharp
 public enum PositionType
 ```
-```vb
-Public Enumeration PositionType
-```
-```cpp
-public enum class PositionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

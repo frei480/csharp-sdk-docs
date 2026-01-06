@@ -14,19 +14,8 @@ public void AddOffsetFace(
 	Parameter offset
 )
 ```
-```vb
-Public Sub AddOffsetFace ( 
-	face As ModelFace,
-	offset As Parameter
-)
-```
-```cpp
-public:
-void AddOffsetFace(
-	ModelFace^ face, 
-	Parameter^ offset
-)
-```
+
+
 
 
 #### Параметры

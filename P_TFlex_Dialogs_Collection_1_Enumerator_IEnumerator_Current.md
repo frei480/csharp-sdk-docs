@@ -8,16 +8,8 @@
 ```csharp
 internal virtual Object IEnumerator_Current { get; }
 ```
-```vb
-Friend Overridable ReadOnly Property IEnumerator_Current As Object
-	Get
-```
-```cpp
-internal:
-virtual property Object^ IEnumerator_Current {
-	Object^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

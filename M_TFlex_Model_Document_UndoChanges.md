@@ -11,13 +11,8 @@
 ```csharp
 public void UndoChanges()
 ```
-```vb
-Public Sub UndoChanges
-```
-```cpp
-public:
-void UndoChanges()
-```
+
+
 
 
 #### Ссылки

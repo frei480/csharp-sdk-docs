@@ -11,18 +11,8 @@
 ```csharp
 public RunResultState State { get; set; }
 ```
-```vb
-Public Property State As RunResultState
-	Get
-	Set
-```
-```cpp
-public:
-property RunResultState State {
-	RunResultState get ();
-	void set (RunResultState value);
-}
-```
+
+
 
 
 #### Значение свойства

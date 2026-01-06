@@ -13,13 +13,8 @@
 ```csharp
 public sealed class FilePreview : Control
 ```
-```vb
-Public NotInheritable Class FilePreview
-	Inherits Control
-```
-```cpp
-public ref class FilePreview sealed : public Control
-```
+
+
 
 
 Тип FilePreview предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public event ControlContextMenu ContextMenu
 ```
-```vb
-Public Event ContextMenu As ControlContextMenu
-```
-```cpp
-public:
- event ControlContextMenu^ ContextMenu {
-	void add (ControlContextMenu^ value);
-	void remove (ControlContextMenu^ value);
-}
-```
+
+
 
 
 #### Значение

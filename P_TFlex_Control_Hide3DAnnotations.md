@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool Hide3DAnnotations { get; set; }
 ```
-```vb
-Public Overridable Property Hide3DAnnotations As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool Hide3DAnnotations {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

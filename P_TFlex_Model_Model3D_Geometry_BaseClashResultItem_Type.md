@@ -11,16 +11,8 @@
 ```csharp
 public BaseBodyTypeOfClash Type { get; }
 ```
-```vb
-Public ReadOnly Property Type As BaseBodyTypeOfClash
-	Get
-```
-```cpp
-public:
-property BaseBodyTypeOfClash Type {
-	BaseBodyTypeOfClash get ();
-}
-```
+
+
 
 
 #### Значение свойства

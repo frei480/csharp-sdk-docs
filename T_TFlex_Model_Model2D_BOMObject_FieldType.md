@@ -11,12 +11,8 @@
 ```csharp
 public enum FieldType
 ```
-```vb
-Public Enumeration FieldType
-```
-```cpp
-public enum class FieldType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

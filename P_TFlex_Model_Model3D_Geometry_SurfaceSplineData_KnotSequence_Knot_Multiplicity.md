@@ -11,18 +11,8 @@
 ```csharp
 public uint Multiplicity { get; set; }
 ```
-```vb
-Public Property Multiplicity As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int Multiplicity {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

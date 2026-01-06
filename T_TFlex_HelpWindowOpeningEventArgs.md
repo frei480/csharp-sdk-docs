@@ -13,13 +13,8 @@
 ```csharp
 public class HelpWindowOpeningEventArgs : PluginEventArgs
 ```
-```vb
-Public Class HelpWindowOpeningEventArgs
-	Inherits PluginEventArgs
-```
-```cpp
-public ref class HelpWindowOpeningEventArgs : public PluginEventArgs
-```
+
+
 
 
 Тип HelpWindowOpeningEventArgs предоставляет следующие члены.

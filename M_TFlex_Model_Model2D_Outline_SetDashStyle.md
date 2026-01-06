@@ -10,17 +10,8 @@ public void SetDashStyle(
 	List<OutlineDashStyleItem> value
 )
 ```
-```vb
-Public Sub SetDashStyle ( 
-	value As List(Of OutlineDashStyleItem)
-)
-```
-```cpp
-public:
-void SetDashStyle(
-	List<OutlineDashStyleItem>^ value
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum ObjectPropertyType
 ```
-```vb
-Public Enumeration ObjectPropertyType
-```
-```cpp
-public enum class ObjectPropertyType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

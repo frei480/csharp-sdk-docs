@@ -14,19 +14,8 @@ public DrawingViewSpecialElement AddModelObject(
 	DrawingViewSpecialElementDrawMode mode
 )
 ```
-```vb
-Public Function AddModelObject ( 
-	object2D As Object2D,
-	mode As DrawingViewSpecialElementDrawMode
-) As DrawingViewSpecialElement
-```
-```cpp
-public:
-DrawingViewSpecialElement^ AddModelObject(
-	Object2D^ object2D, 
-	DrawingViewSpecialElementDrawMode mode
-)
-```
+
+
 
 
 #### Параметры

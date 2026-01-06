@@ -11,13 +11,8 @@
 ```csharp
 public void ReloadTranslation()
 ```
-```vb
-Public Sub ReloadTranslation
-```
-```cpp
-public:
-void ReloadTranslation()
-```
+
+
 
 
 #### Ссылки

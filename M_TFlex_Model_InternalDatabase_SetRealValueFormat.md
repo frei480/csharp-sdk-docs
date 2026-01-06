@@ -15,21 +15,8 @@ public bool SetRealValueFormat(
 	int decimal
 )
 ```
-```vb
-Public Function SetRealValueFormat ( 
-	column As Integer,
-	total As Integer,
-	decimal As Integer
-) As Boolean
-```
-```cpp
-public:
-bool SetRealValueFormat(
-	int column, 
-	int total, 
-	int decimal
-)
-```
+
+
 
 
 #### Параметры

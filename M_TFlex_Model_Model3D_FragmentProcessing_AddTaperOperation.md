@@ -8,13 +8,8 @@
 ```csharp
 public Taper AddTaperOperation()
 ```
-```vb
-Public Function AddTaperOperation As Taper
-```
-```cpp
-public:
-Taper^ AddTaperOperation()
-```
+
+
 
 
 #### Возвращаемое значение

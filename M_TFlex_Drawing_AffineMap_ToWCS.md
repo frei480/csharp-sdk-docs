@@ -14,19 +14,8 @@ public void ToWCS(
 	ref double y
 )
 ```
-```vb
-Public Sub ToWCS ( 
-	ByRef x As Double,
-	ByRef y As Double
-)
-```
-```cpp
-public:
-void ToWCS(
-	double% x, 
-	double% y
-)
-```
+
+
 
 
 #### Параметры

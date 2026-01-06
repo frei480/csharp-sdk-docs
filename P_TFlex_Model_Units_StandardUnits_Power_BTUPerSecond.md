@@ -13,16 +13,8 @@
 ```csharp
 public static Unit BTUPerSecond { get; }
 ```
-```vb
-Public Shared ReadOnly Property BTUPerSecond As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ BTUPerSecond {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

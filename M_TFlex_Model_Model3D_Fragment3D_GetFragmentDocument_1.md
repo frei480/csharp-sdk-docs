@@ -14,19 +14,8 @@ public Document GetFragmentDocument(
 	bool update
 )
 ```
-```vb
-Public Function GetFragmentDocument ( 
-	substitute As Boolean,
-	update As Boolean
-) As Document
-```
-```cpp
-public:
-Document^ GetFragmentDocument(
-	bool substitute, 
-	bool update
-)
-```
+
+
 
 
 #### Параметры

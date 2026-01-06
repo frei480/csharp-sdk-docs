@@ -13,17 +13,8 @@ public MeshPoint FindNear(
 	Axis axis
 )
 ```
-```vb
-Public Function FindNear ( 
-	axis As Axis
-) As MeshPoint
-```
-```cpp
-public:
-MeshPoint^ FindNear(
-	Axis^ axis
-)
-```
+
+
 
 
 #### Параметры

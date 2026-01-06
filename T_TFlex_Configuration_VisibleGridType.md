@@ -8,12 +8,8 @@
 ```csharp
 public enum VisibleGridType
 ```
-```vb
-Public Enumeration VisibleGridType
-```
-```cpp
-public enum class VisibleGridType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

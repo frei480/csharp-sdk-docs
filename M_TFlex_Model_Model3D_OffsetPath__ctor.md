@@ -13,17 +13,8 @@ public OffsetPath(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-OffsetPath(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

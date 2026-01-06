@@ -11,18 +11,8 @@
 ```csharp
 public ModelPoint3D ReferenceDirection { get; set; }
 ```
-```vb
-Public Property ReferenceDirection As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ ReferenceDirection {
-	ModelPoint3D^ get ();
-	void set (ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

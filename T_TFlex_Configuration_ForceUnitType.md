@@ -8,12 +8,8 @@
 ```csharp
 public enum ForceUnitType
 ```
-```vb
-Public Enumeration ForceUnitType
-```
-```cpp
-public enum class ForceUnitType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -14,19 +14,8 @@ public InternalDatabase(
 	string name
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	name As String
-)
-```
-```cpp
-public:
-InternalDatabase(
-	Document^ document, 
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

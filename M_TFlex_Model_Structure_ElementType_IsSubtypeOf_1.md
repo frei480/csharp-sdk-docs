@@ -10,17 +10,8 @@ public bool IsSubtypeOf(
 	string typeSystemName
 )
 ```
-```vb
-Public Function IsSubtypeOf ( 
-	typeSystemName As String
-) As Boolean
-```
-```cpp
-public:
-bool IsSubtypeOf(
-	String^ typeSystemName
-)
-```
+
+
 
 
 #### Параметры

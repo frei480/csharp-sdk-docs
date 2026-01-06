@@ -11,18 +11,8 @@ public delegate void GeometricArrayMoveAfter(
 	int to
 )
 ```
-```vb
-Public Delegate Sub GeometricArrayMoveAfter ( 
-	from As Integer,
-	to As Integer
-)
-```
-```cpp
-public delegate void GeometricArrayMoveAfter(
-	int from, 
-	int to
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public NativeControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-NativeControl()
-```
+
+
 
 
 #### Ссылки

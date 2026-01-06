@@ -13,13 +13,8 @@
 ```csharp
 public class Separator : Group
 ```
-```vb
-Public Class Separator
-	Inherits Group
-```
-```cpp
-public ref class Separator : public Group
-```
+
+
 
 
 Тип Separator предоставляет следующие члены.

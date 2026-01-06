@@ -13,19 +13,8 @@ public static ICollection<Path3D> GetPaths3D(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetPaths3D ( 
-	document As Document
-) As ICollection(Of Path3D)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Path3D^>^ GetPaths3D(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

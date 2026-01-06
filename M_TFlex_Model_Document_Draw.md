@@ -14,19 +14,8 @@ public void Draw(
 	Page pg
 )
 ```
-```vb
-Public Sub Draw ( 
-	graphics As Graphics,
-	pg As Page
-)
-```
-```cpp
-public:
-void Draw(
-	Graphics^ graphics, 
-	Page^ pg
-)
-```
+
+
 
 
 #### Параметры

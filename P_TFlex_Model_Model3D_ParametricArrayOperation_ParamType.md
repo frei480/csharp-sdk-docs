@@ -11,18 +11,8 @@ Cпособ задания параметризации
 ```csharp
 public ParametricArrayOperationParametricType ParamType { get; set; }
 ```
-```vb
-Public Property ParamType As ParametricArrayOperationParametricType
-	Get
-	Set
-```
-```cpp
-public:
-property ParametricArrayOperationParametricType ParamType {
-	ParametricArrayOperationParametricType get ();
-	void set (ParametricArrayOperationParametricType value);
-}
-```
+
+
 
 
 #### Значение свойства

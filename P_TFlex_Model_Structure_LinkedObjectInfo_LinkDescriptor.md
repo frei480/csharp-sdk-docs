@@ -8,16 +8,8 @@
 ```csharp
 public LinkDescriptor LinkDescriptor { get; }
 ```
-```vb
-Public ReadOnly Property LinkDescriptor As LinkDescriptor
-	Get
-```
-```cpp
-public:
-property LinkDescriptor^ LinkDescriptor {
-	LinkDescriptor^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

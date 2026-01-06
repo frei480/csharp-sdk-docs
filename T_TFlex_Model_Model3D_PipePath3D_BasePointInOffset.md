@@ -13,13 +13,8 @@
 ```csharp
 public abstract class BasePointInOffset : PipePath3DBasePoint
 ```
-```vb
-Public MustInherit Class BasePointInOffset
-	Inherits PipePath3DBasePoint
-```
-```cpp
-public ref class BasePointInOffset abstract : public PipePath3DBasePoint
-```
+
+
 
 
 Тип PipePath3DBasePointInOffset предоставляет следующие члены.

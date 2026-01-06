@@ -14,14 +14,8 @@
 public abstract class BaseVertices : IEnumerator, 
 	IEnumerable, IDisposable
 ```
-```vb
-Public MustInherit Class BaseVertices
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class BaseVertices abstract : IEnumerator, 
-	IEnumerable, IDisposable
-```
+
+
 
 
 Тип BaseVertices предоставляет следующие члены.

@@ -8,16 +8,8 @@
 ```csharp
 public SegmentBound Bound { get; }
 ```
-```vb
-Public ReadOnly Property Bound As SegmentBound
-	Get
-```
-```cpp
-public:
-property SegmentBound^ Bound {
-	SegmentBound^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

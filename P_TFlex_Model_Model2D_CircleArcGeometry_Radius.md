@@ -11,16 +11,8 @@
 ```csharp
 public double Radius { get; }
 ```
-```vb
-Public ReadOnly Property Radius As Double
-	Get
-```
-```cpp
-public:
-property double Radius {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

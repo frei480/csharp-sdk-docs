@@ -8,16 +8,8 @@
 ```csharp
 public CableProductInfo Holder { get; }
 ```
-```vb
-Public ReadOnly Property Holder As CableProductInfo
-	Get
-```
-```cpp
-public:
-property CableProductInfo^ Holder {
-	CableProductInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

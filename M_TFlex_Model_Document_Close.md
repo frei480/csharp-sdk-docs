@@ -11,13 +11,8 @@
 ```csharp
 public void Close()
 ```
-```vb
-Public Sub Close
-```
-```cpp
-public:
-void Close()
-```
+
+
 
 
 После выполнения операции, с документом нельзя производить никакие операции

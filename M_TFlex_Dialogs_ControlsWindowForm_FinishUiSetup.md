@@ -11,13 +11,8 @@
 ```csharp
 public void FinishUiSetup()
 ```
-```vb
-Public Sub FinishUiSetup
-```
-```cpp
-public:
-void FinishUiSetup()
-```
+
+
 
 
 Данный метод следует вызывать после добавления элементов управления на форму

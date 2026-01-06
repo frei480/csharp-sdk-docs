@@ -11,13 +11,8 @@
 ```csharp
 public Manipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Manipulator()
-```
+
+
 
 
 #### Ссылки

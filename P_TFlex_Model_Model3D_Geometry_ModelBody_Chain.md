@@ -8,16 +8,8 @@
 ```csharp
 public List<ObjectId> Chain { get; }
 ```
-```vb
-Public ReadOnly Property Chain As List(Of ObjectId)
-	Get
-```
-```cpp
-public:
-property List<ObjectId^>^ Chain {
-	List<ObjectId^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

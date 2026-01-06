@@ -11,13 +11,8 @@
 ```csharp
 public RoughnessStepParameterType ParameterType
 ```
-```vb
-Public ParameterType As RoughnessStepParameterType
-```
-```cpp
-public:
-RoughnessStepParameterType ParameterType
-```
+
+
 
 
 #### Значение поля

@@ -14,19 +14,8 @@ public CylinderWorkSurface(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	page As Page
-)
-```
-```cpp
-public:
-CylinderWorkSurface(
-	Document^ Doc, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

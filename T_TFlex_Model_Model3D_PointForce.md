@@ -13,13 +13,8 @@
 ```csharp
 public class PointForce : Restraint
 ```
-```vb
-Public Class PointForce
-	Inherits Restraint
-```
-```cpp
-public ref class PointForce : public Restraint
-```
+
+
 
 
 Тип PointForce предоставляет следующие члены.

@@ -13,17 +13,8 @@ public void InsertFragment(
 	FileLink link
 )
 ```
-```vb
-Public Sub InsertFragment ( 
-	link As FileLink
-)
-```
-```cpp
-public:
-void InsertFragment(
-	FileLink^ link
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool IncludeToAssemblyBOM { get; set; }
 ```
-```vb
-Public Property IncludeToAssemblyBOM As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IncludeToAssemblyBOM {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,21 +15,8 @@ public void AddDirectAxisByAxisToDirectionTransf(
 	ModelDirection direction
 )
 ```
-```vb
-Public Sub AddDirectAxisByAxisToDirectionTransf ( 
-	stationaryAxis As TransformationCoordinate,
-	rotatingAxis As TransformationCoordinate,
-	direction As ModelDirection
-)
-```
-```cpp
-public:
-void AddDirectAxisByAxisToDirectionTransf(
-	TransformationCoordinate stationaryAxis, 
-	TransformationCoordinate rotatingAxis, 
-	ModelDirection^ direction
-)
-```
+
+
 
 
 #### Параметры

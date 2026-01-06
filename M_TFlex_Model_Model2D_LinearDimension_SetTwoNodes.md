@@ -15,21 +15,8 @@ public void SetTwoNodes(
 	DimensionAlignType align
 )
 ```
-```vb
-Public Sub SetTwoNodes ( 
-	node1 As Node,
-	node2 As Node,
-	align As DimensionAlignType
-)
-```
-```cpp
-public:
-void SetTwoNodes(
-	Node^ node1, 
-	Node^ node2, 
-	DimensionAlignType align
-)
-```
+
+
 
 
 #### Параметры

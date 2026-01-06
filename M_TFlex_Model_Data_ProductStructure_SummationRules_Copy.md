@@ -8,13 +8,8 @@
 ```csharp
 public SummationRules Copy()
 ```
-```vb
-Public Function Copy As SummationRules
-```
-```cpp
-public:
-SummationRules^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

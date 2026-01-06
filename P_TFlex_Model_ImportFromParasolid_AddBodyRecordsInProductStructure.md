@@ -11,18 +11,8 @@
 ```csharp
 public bool AddBodyRecordsInProductStructure { get; set; }
 ```
-```vb
-Public Property AddBodyRecordsInProductStructure As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AddBodyRecordsInProductStructure {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

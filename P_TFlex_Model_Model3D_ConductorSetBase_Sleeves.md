@@ -8,16 +8,8 @@
 ```csharp
 public ICollection<SleevePoint> Sleeves { get; }
 ```
-```vb
-Public ReadOnly Property Sleeves As ICollection(Of SleevePoint)
-	Get
-```
-```cpp
-public:
-property ICollection<SleevePoint^>^ Sleeves {
-	ICollection<SleevePoint^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

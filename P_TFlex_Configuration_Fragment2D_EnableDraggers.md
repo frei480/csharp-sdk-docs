@@ -8,18 +8,8 @@
 ```csharp
 public bool EnableDraggers { get; set; }
 ```
-```vb
-Public Property EnableDraggers As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool EnableDraggers {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class ListControlModelDataChangedEventArgs : EventArgs
 ```
-```vb
-Public Class ListControlModelDataChangedEventArgs
-	Inherits EventArgs
-```
-```cpp
-public ref class ListControlModelDataChangedEventArgs : public EventArgs
-```
+
+
 
 
 Тип ListControlModelDataChangedEventArgs предоставляет следующие члены.

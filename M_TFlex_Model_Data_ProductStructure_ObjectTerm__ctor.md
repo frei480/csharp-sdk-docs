@@ -11,13 +11,8 @@
 ```csharp
 public ObjectTerm()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ObjectTerm()
-```
+
+
 
 
 #### Ссылки

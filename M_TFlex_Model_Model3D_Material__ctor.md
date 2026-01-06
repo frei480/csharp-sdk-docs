@@ -13,17 +13,8 @@ public Material(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Material(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

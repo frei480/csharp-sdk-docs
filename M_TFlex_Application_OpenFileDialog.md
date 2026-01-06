@@ -14,19 +14,8 @@ public static string OpenFileDialog(
 	string title
 )
 ```
-```vb
-Public Shared Function OpenFileDialog ( 
-	type As String,
-	title As String
-) As String
-```
-```cpp
-public:
-static String^ OpenFileDialog(
-	String^ type, 
-	String^ title
-)
-```
+
+
 
 
 #### Параметры

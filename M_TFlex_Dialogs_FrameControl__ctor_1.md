@@ -13,17 +13,8 @@ public FrameControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-FrameControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

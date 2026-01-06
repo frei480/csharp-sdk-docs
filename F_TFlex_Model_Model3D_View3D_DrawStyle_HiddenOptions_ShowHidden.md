@@ -11,13 +11,8 @@
 ```csharp
 public bool ShowHidden
 ```
-```vb
-Public ShowHidden As Boolean
-```
-```cpp
-public:
-bool ShowHidden
-```
+
+
 
 
 #### Значение поля

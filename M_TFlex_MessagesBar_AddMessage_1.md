@@ -15,27 +15,8 @@ public IntPtr AddMessage(
 	IntPtr tag
 )
 ```
-```vb
-Public Function AddMessage ( 
-	title As String,
-	text As String,
-	document As Document,
-	buttons As List(Of MessagesBarButton),
-	buttonClicked As EventHandler(Of MessagesBarClickEventArgs),
-	tag As IntPtr
-) As IntPtr
-```
-```cpp
-public:
-IntPtr AddMessage(
-	String^ title, 
-	String^ text, 
-	Document^ document, 
-	List<MessagesBarButton^>^ buttons, 
-	EventHandler<MessagesBarClickEventArgs^>^ buttonClicked, 
-	IntPtr tag
-)
-```
+
+
 
 
 #### Параметры

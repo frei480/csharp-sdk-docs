@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseFace
 ```
-```vb
-Public Interface BaseFace
-```
-```cpp
-public interface class BaseFace
-```
+
+
 
 
 Тип BaseFace предоставляет следующие члены.

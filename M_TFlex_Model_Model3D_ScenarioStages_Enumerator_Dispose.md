@@ -11,13 +11,8 @@
 ```csharp
 public void Dispose()
 ```
-```vb
-Public Sub Dispose
-```
-```cpp
-public:
-virtual void Dispose() sealed
-```
+
+
 
 
 #### Ссылки

@@ -11,12 +11,8 @@
 ```csharp
 public enum ConePrimaryParameters
 ```
-```vb
-Public Enumeration ConePrimaryParameters
-```
-```cpp
-public enum class ConePrimaryParameters
-```
+
+
 
 
 | Имя члена | Значение | Описание |

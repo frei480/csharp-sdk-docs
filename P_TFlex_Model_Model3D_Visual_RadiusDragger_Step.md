@@ -8,18 +8,8 @@
 ```csharp
 public override double Step { get; set; }
 ```
-```vb
-Public Overrides Property Step As Double
-	Get
-	Set
-```
-```cpp
-public:
-virtual property double Step {
-	double get () override;
-	void set (double value) override;
-}
-```
+
+
 
 
 #### Значение свойства

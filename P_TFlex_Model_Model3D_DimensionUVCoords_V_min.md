@@ -11,18 +11,8 @@
 ```csharp
 public double V_min { get; set; }
 ```
-```vb
-Public Property V_min As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double V_min {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

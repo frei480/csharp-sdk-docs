@@ -13,17 +13,8 @@ public FilterParser(
 	Term termTemplate
 )
 ```
-```vb
-Public Sub New ( 
-	termTemplate As Term
-)
-```
-```cpp
-public:
-FilterParser(
-	Term^ termTemplate
-)
-```
+
+
 
 
 #### Параметры

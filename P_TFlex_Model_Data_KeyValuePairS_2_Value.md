@@ -8,18 +8,8 @@
 ```csharp
 public TValue Value { get; set; }
 ```
-```vb
-Public Property Value As TValue
-	Get
-	Set
-```
-```cpp
-public:
-property TValue Value {
-	TValue get ();
-	void set (TValue value);
-}
-```
+
+
 
 
 #### Значение свойства

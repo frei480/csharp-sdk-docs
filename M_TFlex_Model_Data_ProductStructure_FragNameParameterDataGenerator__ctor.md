@@ -11,13 +11,8 @@
 ```csharp
 public FragNameParameterDataGenerator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FragNameParameterDataGenerator()
-```
+
+
 
 
 #### Ссылки

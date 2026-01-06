@@ -13,17 +13,8 @@ public void SetAxis(
 	Axis axis
 )
 ```
-```vb
-Public Sub SetAxis ( 
-	axis As Axis
-)
-```
-```cpp
-public:
-void SetAxis(
-	Axis^ axis
-)
-```
+
+
 
 
 #### Параметры

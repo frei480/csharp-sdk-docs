@@ -8,18 +8,8 @@
 ```csharp
 public bool BeepOn { get; set; }
 ```
-```vb
-Public Property BeepOn As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool BeepOn {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

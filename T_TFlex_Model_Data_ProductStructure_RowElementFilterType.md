@@ -8,12 +8,8 @@
 ```csharp
 public enum RowElementFilterType
 ```
-```vb
-Public Enumeration RowElementFilterType
-```
-```cpp
-public enum class RowElementFilterType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,13 +11,8 @@
 ```csharp
 public void ChangeOutline()
 ```
-```vb
-Public Sub ChangeOutline
-```
-```cpp
-public:
-void ChangeOutline()
-```
+
+
 
 
 Функцию можно вызывать, когда все данные заданы, то есть построен первый очерк

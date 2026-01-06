@@ -16,23 +16,8 @@ public VisualEventArgs(
 	VisualEventArgsActionType action
 )
 ```
-```vb
-Public Sub New ( 
-	view As View3D,
-	x As Integer,
-	y As Integer,
-	action As VisualEventArgsActionType
-)
-```
-```cpp
-public:
-VisualEventArgs(
-	View3D^ view, 
-	int x, 
-	int y, 
-	VisualEventArgsActionType action
-)
-```
+
+
 
 
 #### Параметры

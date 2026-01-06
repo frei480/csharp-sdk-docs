@@ -11,13 +11,8 @@
 ```csharp
 public class ConditionalFilteringRule : IFilteringRule
 ```
-```vb
-Public Class ConditionalFilteringRule
-	Inherits IFilteringRule
-```
-```cpp
-public ref class ConditionalFilteringRule : public IFilteringRule
-```
+
+
 
 
 Тип ConditionalFilteringRule предоставляет следующие члены.

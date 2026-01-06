@@ -11,13 +11,8 @@
 ```csharp
 public bool RollbackToParents()
 ```
-```vb
-Public Function RollbackToParents As Boolean
-```
-```cpp
-public:
-bool RollbackToParents()
-```
+
+
 
 
 #### Возвращаемое значение

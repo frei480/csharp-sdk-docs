@@ -13,13 +13,8 @@
 ```csharp
 public class SliderControlValueChangedEventArgs : DoubleEventArgs
 ```
-```vb
-Public Class SliderControlValueChangedEventArgs
-	Inherits DoubleEventArgs
-```
-```cpp
-public ref class SliderControlValueChangedEventArgs : public DoubleEventArgs
-```
+
+
 
 
 Тип SliderControlValueChangedEventArgs предоставляет следующие члены.

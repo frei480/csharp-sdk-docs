@@ -11,13 +11,8 @@
 ```csharp
 public ModelObject[] GetAllObjects()
 ```
-```vb
-Public Function GetAllObjects As ModelObject()
-```
-```cpp
-public:
-array<ModelObject^>^ GetAllObjects()
-```
+
+
 
 
 #### Возвращаемое значение

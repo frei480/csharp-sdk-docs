@@ -13,12 +13,8 @@
 ```csharp
 public struct CreatePartOptions
 ```
-```vb
-Public Structure CreatePartOptions
-```
-```cpp
-public value class CreatePartOptions
-```
+
+
 
 
 Тип BodyPartCreatePartOptions предоставляет следующие члены.

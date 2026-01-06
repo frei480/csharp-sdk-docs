@@ -13,17 +13,8 @@ public Bitmap Export(
 	ImageExport options
 )
 ```
-```vb
-Public Function Export ( 
-	options As ImageExport
-) As Bitmap
-```
-```cpp
-public:
-Bitmap^ Export(
-	ImageExport options
-)
-```
+
+
 
 
 #### Параметры

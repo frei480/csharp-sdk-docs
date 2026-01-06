@@ -14,19 +14,8 @@ public GeomReference(
 	uint states
 )
 ```
-```vb
-Public Sub New ( 
-	direction As ModelDirection,
-	states As UInteger
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelDirection^ direction, 
-	unsigned int states
-)
-```
+
+
 
 
 #### Параметры

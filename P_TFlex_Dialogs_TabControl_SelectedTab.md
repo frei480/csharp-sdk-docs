@@ -11,18 +11,8 @@
 ```csharp
 public Tab SelectedTab { get; set; }
 ```
-```vb
-Public Property SelectedTab As Tab
-	Get
-	Set
-```
-```cpp
-public:
-property Tab^ SelectedTab {
-	Tab^ get ();
-	void set (Tab^ value);
-}
-```
+
+
 
 
 #### Значение свойства

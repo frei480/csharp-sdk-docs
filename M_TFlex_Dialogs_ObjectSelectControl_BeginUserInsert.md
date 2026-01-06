@@ -11,13 +11,8 @@
 ```csharp
 public void BeginUserInsert()
 ```
-```vb
-Public Sub BeginUserInsert
-```
-```cpp
-public:
-void BeginUserInsert()
-```
+
+
 
 
 #### Ссылки

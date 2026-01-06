@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool ExplodeMode { get; set; }
 ```
-```vb
-Public Overridable Property ExplodeMode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool ExplodeMode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

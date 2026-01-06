@@ -14,14 +14,8 @@
 public class PointData : IEnumerator, IEnumerable, 
 	IDisposable
 ```
-```vb
-Public Class PointData
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class PointData : IEnumerator, 
-	IEnumerable, IDisposable
-```
+
+
 
 
 Тип IntersectSurfaceDataPointData предоставляет следующие члены.

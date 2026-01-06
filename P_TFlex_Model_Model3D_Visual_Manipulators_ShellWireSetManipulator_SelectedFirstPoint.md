@@ -8,18 +8,8 @@
 ```csharp
 public int SelectedFirstPoint { get; set; }
 ```
-```vb
-Public Property SelectedFirstPoint As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SelectedFirstPoint {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

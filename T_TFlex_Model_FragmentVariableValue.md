@@ -13,13 +13,8 @@
 ```csharp
 public class FragmentVariableValue : IDisposable
 ```
-```vb
-Public Class FragmentVariableValue
-	Implements IDisposable
-```
-```cpp
-public ref class FragmentVariableValue : IDisposable
-```
+
+
 
 
 Тип FragmentVariableValue предоставляет следующие члены.

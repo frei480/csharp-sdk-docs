@@ -11,12 +11,8 @@
 ```csharp
 public enum Coordinate
 ```
-```vb
-Public Enumeration Coordinate
-```
-```cpp
-public enum class Coordinate
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,14 +11,8 @@
 ```csharp
 public class UnitsExtensions
 ```
-```vb
-<ExtensionAttribute>
-Public Class UnitsExtensions
-```
-```cpp
-[ExtensionAttribute]
-public ref class UnitsExtensions
-```
+
+
 
 
 Тип UnitsExtensions предоставляет следующие члены.

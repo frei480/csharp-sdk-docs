@@ -14,19 +14,8 @@ public bool Add(
 	Plugin plugin
 )
 ```
-```vb
-Public Function Add ( 
-	commandId As Integer,
-	plugin As Plugin
-) As Boolean
-```
-```cpp
-public:
-bool Add(
-	int commandId, 
-	Plugin^ plugin
-)
-```
+
+
 
 
 #### Параметры

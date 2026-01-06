@@ -8,16 +8,8 @@
 ```csharp
 public DynamicToolbar DynamicToolbar { get; }
 ```
-```vb
-Public ReadOnly Property DynamicToolbar As DynamicToolbar
-	Get
-```
-```cpp
-public:
-property DynamicToolbar^ DynamicToolbar {
-	DynamicToolbar^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

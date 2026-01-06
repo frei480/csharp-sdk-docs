@@ -11,18 +11,8 @@
 ```csharp
 public bool ShowView3D { get; set; }
 ```
-```vb
-Public Property ShowView3D As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowView3D {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

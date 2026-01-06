@@ -11,16 +11,8 @@
 ```csharp
 public virtual Param UParam { get; }
 ```
-```vb
-Public Overridable ReadOnly Property UParam As Param
-	Get
-```
-```cpp
-public:
-virtual property Param^ UParam {
-	Param^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

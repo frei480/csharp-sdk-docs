@@ -16,23 +16,8 @@ public void SetTangentToThreeLines(
 	int variant
 )
 ```
-```vb
-Public Sub SetTangentToThreeLines ( 
-	srcLine1 As Construction,
-	srcLine2 As Construction,
-	srcLine3 As Construction,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetTangentToThreeLines(
-	Construction^ srcLine1, 
-	Construction^ srcLine2, 
-	Construction^ srcLine3, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

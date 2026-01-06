@@ -11,13 +11,8 @@
 ```csharp
 public VariableUpDown()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-VariableUpDown()
-```
+
+
 
 
 #### Ссылки

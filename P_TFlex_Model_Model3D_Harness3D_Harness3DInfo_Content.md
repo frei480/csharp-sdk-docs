@@ -8,16 +8,8 @@
 ```csharp
 public Dictionary<uint, Harness3DHarness3DInfoContentInfo> Content { get; }
 ```
-```vb
-Public ReadOnly Property Content As Dictionary(Of UInteger, Harness3DHarness3DInfoContentInfo)
-	Get
-```
-```cpp
-public:
-property Dictionary<unsigned int, Harness3DHarness3DInfoContentInfo^>^ Content {
-	Dictionary<unsigned int, Harness3DHarness3DInfoContentInfo^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public DimensionLinearUnits Units { get; set; }
 ```
-```vb
-Public Property Units As DimensionLinearUnits
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionLinearUnits Units {
-	DimensionLinearUnits get ();
-	void set (DimensionLinearUnits value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class ClashBodyResultItem : BaseClashResultItem
 ```
-```vb
-Public Class ClashBodyResultItem
-	Inherits BaseClashResultItem
-```
-```cpp
-public ref class ClashBodyResultItem : public BaseClashResultItem
-```
+
+
 
 
 Тип ClashBodyResultItem предоставляет следующие члены.

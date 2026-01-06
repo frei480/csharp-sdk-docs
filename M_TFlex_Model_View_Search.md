@@ -16,23 +16,8 @@ public ModelObject Search(
 	double maxdist
 )
 ```
-```vb
-Public Function Search ( 
-	x As Double,
-	y As Double,
-	filter As SelectionFilter,
-	maxdist As Double
-) As ModelObject
-```
-```cpp
-public:
-ModelObject^ Search(
-	double x, 
-	double y, 
-	SelectionFilter^ filter, 
-	double maxdist
-)
-```
+
+
 
 
 #### Параметры

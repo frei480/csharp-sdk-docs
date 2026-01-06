@@ -13,17 +13,8 @@ public NonStandardProjection(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-NonStandardProjection(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

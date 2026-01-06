@@ -8,13 +8,8 @@
 ```csharp
 public void RemoveAll()
 ```
-```vb
-Public Sub RemoveAll
-```
-```cpp
-public:
-void RemoveAll()
-```
+
+
 
 
 #### Ссылки

@@ -8,18 +8,8 @@
 ```csharp
 public bool SetRegenerate3DAlways { get; set; }
 ```
-```vb
-Public Property SetRegenerate3DAlways As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SetRegenerate3DAlways {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

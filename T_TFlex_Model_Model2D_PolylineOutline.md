@@ -13,13 +13,8 @@
 ```csharp
 public class PolylineOutline : Outline
 ```
-```vb
-Public Class PolylineOutline
-	Inherits Outline
-```
-```cpp
-public ref class PolylineOutline : public Outline
-```
+
+
 
 
 Тип PolylineOutline предоставляет следующие члены.

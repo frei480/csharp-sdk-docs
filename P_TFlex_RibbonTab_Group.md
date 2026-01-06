@@ -13,18 +13,8 @@ public RibbonGroup this[
 	int i
 ] { get; }
 ```
-```vb
-Public ReadOnly Property Group ( 
-	i As Integer
-) As RibbonGroup
-	Get
-```
-```cpp
-public:
-property RibbonGroup^ Group[int i] {
-	RibbonGroup^ get (int i);
-}
-```
+
+
 
 
 #### Параметры

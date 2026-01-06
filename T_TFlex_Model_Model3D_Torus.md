@@ -13,13 +13,8 @@
 ```csharp
 public class Torus : Primitive
 ```
-```vb
-Public Class Torus
-	Inherits Primitive
-```
-```cpp
-public ref class Torus : public Primitive
-```
+
+
 
 
 Тип Torus предоставляет следующие члены.

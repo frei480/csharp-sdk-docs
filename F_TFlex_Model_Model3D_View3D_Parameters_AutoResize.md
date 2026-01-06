@@ -11,13 +11,8 @@
 ```csharp
 public bool AutoResize
 ```
-```vb
-Public AutoResize As Boolean
-```
-```cpp
-public:
-bool AutoResize
-```
+
+
 
 
 #### Значение поля

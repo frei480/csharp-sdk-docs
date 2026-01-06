@@ -13,17 +13,8 @@ public void Add(
 	ModelTopol geom
 )
 ```
-```vb
-Public Sub Add ( 
-	geom As ModelTopol
-)
-```
-```cpp
-public:
-void Add(
-	ModelTopol^ geom
-)
-```
+
+
 
 
 #### Параметры

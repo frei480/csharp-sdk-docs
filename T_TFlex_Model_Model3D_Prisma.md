@@ -13,13 +13,8 @@
 ```csharp
 public class Prisma : Primitive
 ```
-```vb
-Public Class Prisma
-	Inherits Primitive
-```
-```cpp
-public ref class Prisma : public Primitive
-```
+
+
 
 
 Тип Prisma предоставляет следующие члены.

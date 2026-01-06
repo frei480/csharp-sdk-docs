@@ -8,18 +8,8 @@
 ```csharp
 public Parameter Allowance { get; set; }
 ```
-```vb
-Public Property Allowance As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Allowance {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

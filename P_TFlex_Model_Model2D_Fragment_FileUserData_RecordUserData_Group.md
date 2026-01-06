@@ -11,16 +11,8 @@
 ```csharp
 public string Group { get; }
 ```
-```vb
-Public ReadOnly Property Group As String
-	Get
-```
-```cpp
-public:
-property String^ Group {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

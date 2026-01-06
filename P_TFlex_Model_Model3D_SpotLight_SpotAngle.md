@@ -11,18 +11,8 @@
 ```csharp
 public Parameter SpotAngle { get; set; }
 ```
-```vb
-Public Property SpotAngle As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ SpotAngle {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public BoundedExtrusion(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-BoundedExtrusion(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

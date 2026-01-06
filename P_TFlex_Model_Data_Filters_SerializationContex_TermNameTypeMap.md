@@ -8,18 +8,8 @@
 ```csharp
 public Dictionary<string, Type> TermNameTypeMap { get; set; }
 ```
-```vb
-Public Property TermNameTypeMap As Dictionary(Of String, Type)
-	Get
-	Set
-```
-```cpp
-public:
-property Dictionary<String^, Type^>^ TermNameTypeMap {
-	Dictionary<String^, Type^>^ get ();
-	void set (Dictionary<String^, Type^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

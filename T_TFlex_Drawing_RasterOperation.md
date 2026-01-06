@@ -11,12 +11,8 @@
 ```csharp
 public enum RasterOperation
 ```
-```vb
-Public Enumeration RasterOperation
-```
-```cpp
-public enum class RasterOperation
-```
+
+
 
 
 | Имя члена | Значение | Описание |

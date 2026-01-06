@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToBMF : ExportTo
 ```
-```vb
-Public NotInheritable Class ExportToBMF
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportToBMF sealed : public ExportTo
-```
+
+
 
 
 Тип ExportToBMF предоставляет следующие члены.

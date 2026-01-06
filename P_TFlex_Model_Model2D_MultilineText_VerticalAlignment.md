@@ -11,18 +11,8 @@
 ```csharp
 public TextVerticalAlignment VerticalAlignment { get; set; }
 ```
-```vb
-Public Property VerticalAlignment As TextVerticalAlignment
-	Get
-	Set
-```
-```cpp
-public:
-property TextVerticalAlignment VerticalAlignment {
-	TextVerticalAlignment get ();
-	void set (TextVerticalAlignment value);
-}
-```
+
+
 
 
 #### Значение свойства

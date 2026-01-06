@@ -13,12 +13,8 @@
 ```csharp
 public sealed class LuminousIntensity
 ```
-```vb
-Public NotInheritable Class LuminousIntensity
-```
-```cpp
-public ref class LuminousIntensity sealed
-```
+
+
 
 
 Тип StandardUnitsLuminousIntensity предоставляет следующие члены.

@@ -12,21 +12,8 @@ public abstract void MarkPath(
 	Point point2
 )
 ```
-```vb
-Public MustOverride Sub MarkPath ( 
-	__unnamed000 As Graphics,
-	point1 As Point,
-	point2 As Point
-)
-```
-```cpp
-public:
-virtual void MarkPath(
-	Graphics^ __unnamed000, 
-	Point^ point1, 
-	Point^ point2
-) abstract
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class GroupingNode : Group
 ```
-```vb
-Public Class GroupingNode
-	Inherits Group
-```
-```cpp
-public ref class GroupingNode : public Group
-```
+
+
 
 
 Тип GroupingNode предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public ObjectType ObjectTypeFilter { get; }
 ```
-```vb
-Public ReadOnly Property ObjectTypeFilter As ObjectType
-	Get
-```
-```cpp
-public:
-property ObjectType ObjectTypeFilter {
-	ObjectType get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public CircleDragger()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CircleDragger()
-```
+
+
 
 
 #### Ссылки

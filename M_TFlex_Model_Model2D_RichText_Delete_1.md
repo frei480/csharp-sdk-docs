@@ -13,17 +13,8 @@ public void Delete(
 	uint count
 )
 ```
-```vb
-Public Sub Delete ( 
-	count As UInteger
-)
-```
-```cpp
-public:
-void Delete(
-	unsigned int count
-)
-```
+
+
 
 
 #### Параметры

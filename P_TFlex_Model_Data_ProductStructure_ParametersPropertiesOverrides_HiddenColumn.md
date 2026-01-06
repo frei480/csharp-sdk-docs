@@ -8,16 +8,8 @@
 ```csharp
 public BoolOverrideCollection HiddenColumn { get; }
 ```
-```vb
-Public ReadOnly Property HiddenColumn As BoolOverrideCollection
-	Get
-```
-```cpp
-public:
-property BoolOverrideCollection^ HiddenColumn {
-	BoolOverrideCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

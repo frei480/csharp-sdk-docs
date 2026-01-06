@@ -11,13 +11,8 @@
 ```csharp
 public override sealed string ToString()
 ```
-```vb
-Public Overrides NotOverridable Function ToString As String
-```
-```cpp
-public:
-virtual String^ ToString() override sealed
-```
+
+
 
 
 #### Возвращаемое значение

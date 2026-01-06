@@ -11,16 +11,8 @@
 ```csharp
 public SheetsArray TwistSheet { get; }
 ```
-```vb
-Public ReadOnly Property TwistSheet As SheetsArray
-	Get
-```
-```cpp
-public:
-property SheetsArray^ TwistSheet {
-	SheetsArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

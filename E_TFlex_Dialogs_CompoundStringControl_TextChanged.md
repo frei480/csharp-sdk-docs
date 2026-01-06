@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<BaseEventArgs> TextChanged
 ```
-```vb
-Public Event TextChanged As EventHandler(Of BaseEventArgs)
-```
-```cpp
-public:
- event EventHandler<BaseEventArgs^>^ TextChanged {
-	void add (EventHandler<BaseEventArgs^>^ value);
-	void remove (EventHandler<BaseEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

@@ -10,17 +10,8 @@ public void Assign(
 	SnapItems source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As SnapItems
-)
-```
-```cpp
-public:
-void Assign(
-	SnapItems^ source
-)
-```
+
+
 
 
 #### Параметры

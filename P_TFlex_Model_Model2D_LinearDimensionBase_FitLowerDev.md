@@ -11,18 +11,8 @@
 ```csharp
 public Parameter FitLowerDev { get; set; }
 ```
-```vb
-Public Property FitLowerDev As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ FitLowerDev {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

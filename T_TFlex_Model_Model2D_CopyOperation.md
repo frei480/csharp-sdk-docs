@@ -13,13 +13,8 @@
 ```csharp
 public class CopyOperation : Object2D
 ```
-```vb
-Public Class CopyOperation
-	Inherits Object2D
-```
-```cpp
-public ref class CopyOperation : public Object2D
-```
+
+
 
 
 Тип CopyOperation предоставляет следующие члены.

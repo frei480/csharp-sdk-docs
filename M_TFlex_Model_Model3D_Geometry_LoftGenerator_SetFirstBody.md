@@ -14,19 +14,8 @@ public void SetFirstBody(
 	double sc
 )
 ```
-```vb
-Public Sub SetFirstBody ( 
-	b As BaseBody,
-	sc As Double
-)
-```
-```cpp
-public:
-void SetFirstBody(
-	BaseBody^ b, 
-	double sc
-)
-```
+
+
 
 
 #### Параметры

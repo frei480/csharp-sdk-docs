@@ -11,18 +11,8 @@
 ```csharp
 public virtual Cursor Cursor { get; set; }
 ```
-```vb
-Public Overridable Property Cursor As Cursor
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Cursor^ Cursor {
-	Cursor^ get ();
-	void set (Cursor^ value);
-}
-```
+
+
 
 
 #### Значение свойства

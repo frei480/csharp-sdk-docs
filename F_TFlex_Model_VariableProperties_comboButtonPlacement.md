@@ -11,13 +11,8 @@
 ```csharp
 public VariablePropertiesComboButtonPlacement comboButtonPlacement
 ```
-```vb
-Public comboButtonPlacement As VariablePropertiesComboButtonPlacement
-```
-```cpp
-public:
-VariablePropertiesComboButtonPlacement comboButtonPlacement
-```
+
+
 
 
 #### Значение поля

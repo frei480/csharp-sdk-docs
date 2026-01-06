@@ -11,18 +11,8 @@
 ```csharp
 public Parameter MinorDiameter { get; set; }
 ```
-```vb
-Public Property MinorDiameter As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ MinorDiameter {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

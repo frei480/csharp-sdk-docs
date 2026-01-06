@@ -13,16 +13,8 @@
 ```csharp
 public static Unit KilonewtonPerSquareMeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property KilonewtonPerSquareMeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ KilonewtonPerSquareMeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

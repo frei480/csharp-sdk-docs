@@ -8,18 +8,8 @@
 ```csharp
 public string DefaultScript { get; set; }
 ```
-```vb
-Public Property DefaultScript As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ DefaultScript {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Inductance
 ```
-```vb
-Public NotInheritable Class Inductance
-```
-```cpp
-public ref class Inductance sealed
-```
+
+
 
 
 Тип StandardUnitsInductance предоставляет следующие члены.

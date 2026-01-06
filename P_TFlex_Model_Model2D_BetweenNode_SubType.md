@@ -11,16 +11,8 @@
 ```csharp
 public override NodeType SubType { get; }
 ```
-```vb
-Public Overrides ReadOnly Property SubType As NodeType
-	Get
-```
-```cpp
-public:
-virtual property NodeType SubType {
-	NodeType get () override;
-}
-```
+
+
 
 
 #### Значение свойства

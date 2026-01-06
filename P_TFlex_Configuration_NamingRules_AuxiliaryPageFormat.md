@@ -8,18 +8,8 @@
 ```csharp
 public string AuxiliaryPageFormat { get; set; }
 ```
-```vb
-Public Property AuxiliaryPageFormat As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ AuxiliaryPageFormat {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

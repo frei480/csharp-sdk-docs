@@ -11,13 +11,8 @@
 ```csharp
 public Data2D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Data2D()
-```
+
+
 
 
 #### Ссылки

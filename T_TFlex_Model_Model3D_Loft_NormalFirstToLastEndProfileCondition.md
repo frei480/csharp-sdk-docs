@@ -13,13 +13,8 @@
 ```csharp
 public class NormalFirstToLastEndProfileCondition : LoftEndProfileCondition
 ```
-```vb
-Public Class NormalFirstToLastEndProfileCondition
-	Inherits LoftEndProfileCondition
-```
-```cpp
-public ref class NormalFirstToLastEndProfileCondition : public LoftEndProfileCondition
-```
+
+
 
 
 Тип LoftNormalFirstToLastEndProfileCondition предоставляет следующие члены.

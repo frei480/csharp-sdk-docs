@@ -11,13 +11,8 @@
 ```csharp
 public SeparatorControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SeparatorControl()
-```
+
+
 
 
 #### Ссылки

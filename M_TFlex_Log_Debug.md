@@ -10,17 +10,8 @@ public static void Debug(
 	string message
 )
 ```
-```vb
-Public Shared Sub Debug ( 
-	message As String
-)
-```
-```cpp
-public:
-static void Debug(
-	String^ message
-)
-```
+
+
 
 
 #### Параметры

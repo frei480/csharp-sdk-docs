@@ -13,17 +13,8 @@ public ObjectArray(
 	ModelObject object
 )
 ```
-```vb
-Public Sub New ( 
-	object As ModelObject
-)
-```
-```cpp
-public:
-ObjectArray(
-	ModelObject^ object
-)
-```
+
+
 
 
 #### Параметры

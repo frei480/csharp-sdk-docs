@@ -11,12 +11,8 @@
 ```csharp
 public enum ImprintCompleteType
 ```
-```vb
-Public Enumeration ImprintCompleteType
-```
-```cpp
-public enum class ImprintCompleteType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

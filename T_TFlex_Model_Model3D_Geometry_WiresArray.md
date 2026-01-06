@@ -13,13 +13,8 @@
 ```csharp
 public sealed class WiresArray : GeometricArray
 ```
-```vb
-Public NotInheritable Class WiresArray
-	Inherits GeometricArray
-```
-```cpp
-public ref class WiresArray sealed : public GeometricArray
-```
+
+
 
 
 Тип WiresArray предоставляет следующие члены.

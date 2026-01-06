@@ -13,13 +13,8 @@
 ```csharp
 public class Win32Window : NativeWindow
 ```
-```vb
-Public Class Win32Window
-	Inherits NativeWindow
-```
-```cpp
-public ref class Win32Window : public NativeWindow
-```
+
+
 
 
 Тип Win32Window предоставляет следующие члены.

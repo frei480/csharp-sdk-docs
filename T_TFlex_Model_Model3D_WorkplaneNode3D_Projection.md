@@ -13,12 +13,8 @@
 ```csharp
 public class Projection
 ```
-```vb
-Public Class Projection
-```
-```cpp
-public ref class Projection
-```
+
+
 
 
 Тип WorkplaneNode3DProjection предоставляет следующие члены.

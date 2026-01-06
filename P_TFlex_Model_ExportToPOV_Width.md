@@ -11,18 +11,8 @@
 ```csharp
 public int Width { get; set; }
 ```
-```vb
-Public Property Width As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int Width {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

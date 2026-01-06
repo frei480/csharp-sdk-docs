@@ -11,16 +11,8 @@
 ```csharp
 public ICollection<RibbonGroup> Groups { get; }
 ```
-```vb
-Public ReadOnly Property Groups As ICollection(Of RibbonGroup)
-	Get
-```
-```cpp
-public:
-property ICollection<RibbonGroup^>^ Groups {
-	ICollection<RibbonGroup^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

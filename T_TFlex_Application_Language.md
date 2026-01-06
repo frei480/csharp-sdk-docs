@@ -11,12 +11,8 @@
 ```csharp
 public enum Language
 ```
-```vb
-Public Enumeration Language
-```
-```cpp
-public enum class Language
-```
+
+
 
 
 | Имя члена | Значение | Описание |

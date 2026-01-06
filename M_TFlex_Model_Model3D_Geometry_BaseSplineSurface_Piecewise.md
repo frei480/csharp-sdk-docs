@@ -13,16 +13,8 @@ SurfacePiecewiseData Piecewise(
 	PiecewiseRepresentation representation
 )
 ```
-```vb
-Function Piecewise ( 
-	representation As PiecewiseRepresentation
-) As SurfacePiecewiseData
-```
-```cpp
-SurfacePiecewiseData^ Piecewise(
-	PiecewiseRepresentation representation
-)
-```
+
+
 
 
 #### Параметры

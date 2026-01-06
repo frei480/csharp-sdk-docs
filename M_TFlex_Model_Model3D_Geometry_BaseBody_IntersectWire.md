@@ -11,19 +11,8 @@ public bool IntersectWire(
 	ref List<Point3D> resultPoint
 )
 ```
-```vb
-Public Function IntersectWire ( 
-	sourceWire As BaseBody,
-	ByRef resultPoint As List(Of Point3D)
-) As Boolean
-```
-```cpp
-public:
-bool IntersectWire(
-	BaseBody^ sourceWire, 
-	List<Point3D^>^% resultPoint
-)
-```
+
+
 
 
 #### Параметры

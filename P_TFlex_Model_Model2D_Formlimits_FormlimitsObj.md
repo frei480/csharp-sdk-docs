@@ -11,16 +11,8 @@
 ```csharp
 public Formlimits FormlimitsObj { get; }
 ```
-```vb
-Public ReadOnly Property FormlimitsObj As Formlimits
-	Get
-```
-```cpp
-public:
-property Formlimits^ FormlimitsObj {
-	Formlimits^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

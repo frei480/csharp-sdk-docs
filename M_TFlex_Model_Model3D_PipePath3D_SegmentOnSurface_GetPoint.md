@@ -10,17 +10,8 @@ public PipePath3DPointOnSurface GetPoint(
 	int indexPoint
 )
 ```
-```vb
-Public Function GetPoint ( 
-	indexPoint As Integer
-) As PipePath3DPointOnSurface
-```
-```cpp
-public:
-PipePath3DPointOnSurface^ GetPoint(
-	int indexPoint
-)
-```
+
+
 
 
 #### Параметры

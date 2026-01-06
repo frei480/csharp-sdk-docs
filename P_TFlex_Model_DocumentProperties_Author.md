@@ -11,18 +11,8 @@
 ```csharp
 public string Author { get; set; }
 ```
-```vb
-Public Property Author As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Author {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

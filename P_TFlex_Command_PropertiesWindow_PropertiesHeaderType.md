@@ -11,18 +11,8 @@
 ```csharp
 public PropertiesWindowHeaderType PropertiesHeaderType { get; set; }
 ```
-```vb
-Public Property PropertiesHeaderType As PropertiesWindowHeaderType
-	Get
-	Set
-```
-```cpp
-public:
-property PropertiesWindowHeaderType PropertiesHeaderType {
-	PropertiesWindowHeaderType get ();
-	void set (PropertiesWindowHeaderType value);
-}
-```
+
+
 
 
 #### Значение свойства

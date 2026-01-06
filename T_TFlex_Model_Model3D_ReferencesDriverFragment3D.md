@@ -11,12 +11,8 @@
 ```csharp
 public class ReferencesDriverFragment3D
 ```
-```vb
-Public Class ReferencesDriverFragment3D
-```
-```cpp
-public ref class ReferencesDriverFragment3D
-```
+
+
 
 
 Тип ReferencesDriverFragment3D предоставляет следующие члены.

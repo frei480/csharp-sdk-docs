@@ -11,18 +11,8 @@
 ```csharp
 public LeaderNoteCornerType CornerType { get; set; }
 ```
-```vb
-Public Property CornerType As LeaderNoteCornerType
-	Get
-	Set
-```
-```cpp
-public:
-property LeaderNoteCornerType CornerType {
-	LeaderNoteCornerType get ();
-	void set (LeaderNoteCornerType value);
-}
-```
+
+
 
 
 #### Значение свойства

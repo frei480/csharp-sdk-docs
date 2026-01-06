@@ -8,18 +8,8 @@
 ```csharp
 public bool GeneralTopology { get; set; }
 ```
-```vb
-Public Property GeneralTopology As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool GeneralTopology {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

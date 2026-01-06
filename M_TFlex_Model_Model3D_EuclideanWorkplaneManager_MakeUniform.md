@@ -15,21 +15,8 @@ public static void MakeUniform(
 	double endOffset
 )
 ```
-```vb
-Public Shared Sub MakeUniform ( 
-	planes As Workplane(),
-	beginOffset As Double,
-	endOffset As Double
-)
-```
-```cpp
-public:
-static void MakeUniform(
-	array<Workplane^>^ planes, 
-	double beginOffset, 
-	double endOffset
-)
-```
+
+
 
 
 #### Параметры

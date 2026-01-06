@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ImportFromACAD
 ```
-```vb
-Public NotInheritable Class ImportFromACAD
-```
-```cpp
-public ref class ImportFromACAD sealed
-```
+
+
 
 
 Тип ImportFromACAD предоставляет следующие члены.

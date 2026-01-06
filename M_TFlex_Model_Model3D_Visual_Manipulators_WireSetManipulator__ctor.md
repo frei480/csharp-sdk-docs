@@ -11,13 +11,8 @@
 ```csharp
 public WireSetManipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-WireSetManipulator()
-```
+
+
 
 
 #### Ссылки

@@ -13,17 +13,8 @@ public void ResetAngle(
 	double angle
 )
 ```
-```vb
-Public Sub ResetAngle ( 
-	angle As Double
-)
-```
-```cpp
-public:
-void ResetAngle(
-	double angle
-)
-```
+
+
 
 
 #### Параметры

@@ -16,23 +16,8 @@ public void ResetCoordSystem(
 	Direction zDirection
 )
 ```
-```vb
-Public Sub ResetCoordSystem ( 
-	origin As Point3D,
-	xDirection As Direction,
-	yDirection As Direction,
-	zDirection As Direction
-)
-```
-```cpp
-public:
-void ResetCoordSystem(
-	Point3D^ origin, 
-	Direction^ xDirection, 
-	Direction^ yDirection, 
-	Direction^ zDirection
-)
-```
+
+
 
 
 #### Параметры

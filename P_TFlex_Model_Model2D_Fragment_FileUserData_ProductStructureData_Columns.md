@@ -11,16 +11,8 @@
 ```csharp
 public IEnumerable<FragmentFileUserDataProductStructureDataColumnInfo> Columns { get; }
 ```
-```vb
-Public ReadOnly Property Columns As IEnumerable(Of FragmentFileUserDataProductStructureDataColumnInfo)
-	Get
-```
-```cpp
-public:
-property IEnumerable<FragmentFileUserDataProductStructureDataColumnInfo^>^ Columns {
-	IEnumerable<FragmentFileUserDataProductStructureDataColumnInfo^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

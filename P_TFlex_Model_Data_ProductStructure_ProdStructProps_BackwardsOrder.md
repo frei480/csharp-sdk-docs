@@ -8,18 +8,8 @@
 ```csharp
 public bool BackwardsOrder { get; set; }
 ```
-```vb
-Public Property BackwardsOrder As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool BackwardsOrder {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

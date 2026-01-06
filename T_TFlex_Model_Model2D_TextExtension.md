@@ -11,12 +11,8 @@
 ```csharp
 public class TextExtension
 ```
-```vb
-Public Class TextExtension
-```
-```cpp
-public ref class TextExtension
-```
+
+
 
 
 Тип TextExtension предоставляет следующие члены.

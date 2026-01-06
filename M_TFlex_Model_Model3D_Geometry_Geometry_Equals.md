@@ -13,17 +13,8 @@ public virtual bool Equals(
 	Geometry geometry
 )
 ```
-```vb
-Public Overridable Function Equals ( 
-	geometry As Geometry
-) As Boolean
-```
-```cpp
-public:
-virtual bool Equals(
-	Geometry^ geometry
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public int CompareTo(
 	Object obj
 )
 ```
-```vb
-Public Function CompareTo ( 
-	obj As Object
-) As Integer
-```
-```cpp
-public:
-virtual int CompareTo(
-	Object^ obj
-) sealed
-```
+
+
 
 
 #### Параметры

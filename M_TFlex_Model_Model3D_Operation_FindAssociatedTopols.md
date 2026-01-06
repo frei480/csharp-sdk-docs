@@ -13,17 +13,8 @@ public List<ModelTopol> FindAssociatedTopols(
 	Hole hole
 )
 ```
-```vb
-Public Function FindAssociatedTopols ( 
-	hole As Hole
-) As List(Of ModelTopol)
-```
-```cpp
-public:
-List<ModelTopol^>^ FindAssociatedTopols(
-	Hole^ hole
-)
-```
+
+
 
 
 #### Параметры

@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ThermalConductivity
 ```
-```vb
-Public NotInheritable Class ThermalConductivity
-```
-```cpp
-public ref class ThermalConductivity sealed
-```
+
+
 
 
 Тип StandardUnitsThermalConductivity предоставляет следующие члены.

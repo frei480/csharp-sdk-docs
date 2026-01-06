@@ -11,13 +11,8 @@
 ```csharp
 public bool ShowConstructions
 ```
-```vb
-Public ShowConstructions As Boolean
-```
-```cpp
-public:
-bool ShowConstructions
-```
+
+
 
 
 #### Значение поля

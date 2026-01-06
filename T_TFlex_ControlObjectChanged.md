@@ -11,18 +11,8 @@ public delegate void ControlObjectChanged(
 	ControlObjectChangedEventArgs e
 )
 ```
-```vb
-Public Delegate Sub ControlObjectChanged ( 
-	sender As Object,
-	e As ControlObjectChangedEventArgs
-)
-```
-```cpp
-public delegate void ControlObjectChanged(
-	Object^ sender, 
-	ControlObjectChangedEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

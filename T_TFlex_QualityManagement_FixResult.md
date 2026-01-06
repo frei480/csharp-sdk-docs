@@ -13,13 +13,8 @@
 ```csharp
 public sealed class FixResult : IDisposable
 ```
-```vb
-Public NotInheritable Class FixResult
-	Implements IDisposable
-```
-```cpp
-public ref class FixResult sealed : IDisposable
-```
+
+
 
 
 Тип FixResult предоставляет следующие члены.

@@ -14,19 +14,8 @@ public Material(
 	MaterialParameters parameters
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	parameters As MaterialParameters
-)
-```
-```cpp
-public:
-Material(
-	Document^ document, 
-	MaterialParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

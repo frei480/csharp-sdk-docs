@@ -10,18 +10,8 @@ public RowElementCell this[
 	Guid parameterId
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	parameterId As Guid
-) As RowElementCell
-	Get
-```
-```cpp
-public:
-property RowElementCell^ default[Guid parameterId] {
-	RowElementCell^ get (Guid parameterId);
-}
-```
+
+
 
 
 #### Параметры

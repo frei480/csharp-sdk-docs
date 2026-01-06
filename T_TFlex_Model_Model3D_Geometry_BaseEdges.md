@@ -14,14 +14,8 @@
 public abstract class BaseEdges : IEnumerator, 
 	IEnumerable, IDisposable
 ```
-```vb
-Public MustInherit Class BaseEdges
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class BaseEdges abstract : IEnumerator, 
-	IEnumerable, IDisposable
-```
+
+
 
 
 Тип BaseEdges предоставляет следующие члены.

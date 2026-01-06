@@ -11,13 +11,8 @@
 ```csharp
 public LoftOperationPath GetPath()
 ```
-```vb
-Public Function GetPath As LoftOperationPath
-```
-```cpp
-public:
-LoftOperationPath^ GetPath()
-```
+
+
 
 
 #### Возвращаемое значение

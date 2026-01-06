@@ -13,17 +13,8 @@ public ParagraphTextTextRectangle GetRectangle(
 	uint index
 )
 ```
-```vb
-Public Function GetRectangle ( 
-	index As UInteger
-) As ParagraphTextTextRectangle
-```
-```cpp
-public:
-ParagraphTextTextRectangle GetRectangle(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

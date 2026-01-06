@@ -11,12 +11,8 @@
 ```csharp
 public enum SplitType
 ```
-```vb
-Public Enumeration SplitType
-```
-```cpp
-public enum class SplitType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

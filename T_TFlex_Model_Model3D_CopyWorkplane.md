@@ -13,13 +13,8 @@
 ```csharp
 public class CopyWorkplane : Workplane
 ```
-```vb
-Public Class CopyWorkplane
-	Inherits Workplane
-```
-```cpp
-public ref class CopyWorkplane : public Workplane
-```
+
+
 
 
 Тип CopyWorkplane предоставляет следующие члены.

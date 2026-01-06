@@ -13,13 +13,8 @@
 ```csharp
 public class Swept : Sweep
 ```
-```vb
-Public Class Swept
-	Inherits Sweep
-```
-```cpp
-public ref class Swept : public Sweep
-```
+
+
 
 
 Тип Swept предоставляет следующие члены.

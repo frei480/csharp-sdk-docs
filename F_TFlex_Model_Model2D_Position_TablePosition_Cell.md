@@ -11,13 +11,8 @@
 ```csharp
 public int Cell
 ```
-```vb
-Public Cell As Integer
-```
-```cpp
-public:
-int Cell
-```
+
+
 
 
 #### Значение поля

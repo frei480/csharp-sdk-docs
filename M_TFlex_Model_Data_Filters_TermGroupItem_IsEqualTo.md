@@ -10,17 +10,8 @@ public virtual bool IsEqualTo(
 	TermGroupItem other
 )
 ```
-```vb
-Public Overridable Function IsEqualTo ( 
-	other As TermGroupItem
-) As Boolean
-```
-```cpp
-public:
-virtual bool IsEqualTo(
-	TermGroupItem^ other
-)
-```
+
+
 
 
 #### Параметры

@@ -13,12 +13,8 @@
 ```csharp
 public struct BomGroup
 ```
-```vb
-Public Structure BomGroup
-```
-```cpp
-public value class BomGroup
-```
+
+
 
 
 Тип BomGroup предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public virtual ControlViewStyleMode ViewStyle { get; set; }
 ```
-```vb
-Public Overridable Property ViewStyle As ControlViewStyleMode
-	Get
-	Set
-```
-```cpp
-public:
-virtual property ControlViewStyleMode ViewStyle {
-	ControlViewStyleMode get ();
-	void set (ControlViewStyleMode value);
-}
-```
+
+
 
 
 #### Значение свойства

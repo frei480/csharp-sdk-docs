@@ -11,18 +11,8 @@
 ```csharp
 public double DashThicknessFactor { get; set; }
 ```
-```vb
-Public Property DashThicknessFactor As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double DashThicknessFactor {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

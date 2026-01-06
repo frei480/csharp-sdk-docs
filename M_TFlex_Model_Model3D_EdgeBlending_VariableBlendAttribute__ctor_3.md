@@ -17,25 +17,8 @@ public VariableBlendAttribute(
 	Parameter setbackEnd
 )
 ```
-```vb
-Public Sub New ( 
-	radius1 As Parameter,
-	radius2 As Parameter,
-	rho As Parameter,
-	setbackStart As Parameter,
-	setbackEnd As Parameter
-)
-```
-```cpp
-public:
-VariableBlendAttribute(
-	Parameter^ radius1, 
-	Parameter^ radius2, 
-	Parameter^ rho, 
-	Parameter^ setbackStart, 
-	Parameter^ setbackEnd
-)
-```
+
+
 
 
 #### Параметры

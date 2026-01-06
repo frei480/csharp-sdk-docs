@@ -10,17 +10,8 @@ public virtual void OnMouseMove(
 	MouseEventArgs e
 )
 ```
-```vb
-Public Overridable Sub OnMouseMove ( 
-	e As MouseEventArgs
-)
-```
-```cpp
-public:
-virtual void OnMouseMove(
-	MouseEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

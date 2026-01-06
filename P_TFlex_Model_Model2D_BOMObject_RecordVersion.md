@@ -11,18 +11,8 @@
 ```csharp
 public uint RecordVersion { get; set; }
 ```
-```vb
-Public Property RecordVersion As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int RecordVersion {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void AddElement(
 	ModelContour contour
 )
 ```
-```vb
-Public Sub AddElement ( 
-	contour As ModelContour
-)
-```
-```cpp
-public:
-void AddElement(
-	ModelContour^ contour
-)
-```
+
+
 
 
 #### Параметры

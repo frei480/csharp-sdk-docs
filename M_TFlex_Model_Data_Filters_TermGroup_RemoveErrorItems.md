@@ -13,17 +13,8 @@ public List<TermGroupItem> RemoveErrorItems(
 	bool recursive = true
 )
 ```
-```vb
-Public Function RemoveErrorItems ( 
-	Optional recursive As Boolean = true
-) As List(Of TermGroupItem)
-```
-```cpp
-public:
-List<TermGroupItem^>^ RemoveErrorItems(
-	bool recursive = true
-)
-```
+
+
 
 
 #### Параметры

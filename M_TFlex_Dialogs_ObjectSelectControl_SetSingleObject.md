@@ -13,17 +13,8 @@ public void SetSingleObject(
 	ObjectSelectControlPlainObject object
 )
 ```
-```vb
-Public Sub SetSingleObject ( 
-	object As ObjectSelectControlPlainObject
-)
-```
-```cpp
-public:
-void SetSingleObject(
-	ObjectSelectControlPlainObject object
-)
-```
+
+
 
 
 #### Параметры

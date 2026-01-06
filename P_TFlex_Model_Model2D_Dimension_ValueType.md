@@ -11,18 +11,8 @@
 ```csharp
 public DimensionValueType ValueType { get; set; }
 ```
-```vb
-Public Property ValueType As DimensionValueType
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionValueType ValueType {
-	DimensionValueType get ();
-	void set (DimensionValueType value);
-}
-```
+
+
 
 
 #### Значение свойства

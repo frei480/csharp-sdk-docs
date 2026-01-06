@@ -11,18 +11,8 @@
 ```csharp
 public KeyCode Key { get; set; }
 ```
-```vb
-Public Property Key As KeyCode
-	Get
-	Set
-```
-```cpp
-public:
-property KeyCode Key {
-	KeyCode get ();
-	void set (KeyCode value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -19,29 +19,8 @@ public FaceFaceBlendGenerator(
 	TFPlaneOrientation po
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	body As Body,
-	leftSense As Boolean,
-	rightSense As Boolean,
-	bm As TFBlendMode,
-	cm As TFCutMode,
-	po As TFPlaneOrientation
-)
-```
-```cpp
-public:
-FaceFaceBlendGenerator(
-	ProxyObject3D^ object, 
-	Body^ body, 
-	bool leftSense, 
-	bool rightSense, 
-	TFBlendMode bm, 
-	TFCutMode cm, 
-	TFPlaneOrientation po
-)
-```
+
+
 
 
 #### Параметры

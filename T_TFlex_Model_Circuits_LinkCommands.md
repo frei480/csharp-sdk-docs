@@ -11,12 +11,8 @@
 ```csharp
 public class LinkCommands
 ```
-```vb
-Public Class LinkCommands
-```
-```cpp
-public ref class LinkCommands
-```
+
+
 
 
 Тип LinkCommands предоставляет следующие члены.

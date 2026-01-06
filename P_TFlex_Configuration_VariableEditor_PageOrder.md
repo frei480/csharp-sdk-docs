@@ -8,16 +8,8 @@
 ```csharp
 public List<int> PageOrder { get; }
 ```
-```vb
-Public ReadOnly Property PageOrder As List(Of Integer)
-	Get
-```
-```cpp
-public:
-property List<int>^ PageOrder {
-	List<int>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

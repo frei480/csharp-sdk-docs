@@ -11,18 +11,8 @@
 ```csharp
 public bool Linear { get; set; }
 ```
-```vb
-Public Property Linear As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Linear {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

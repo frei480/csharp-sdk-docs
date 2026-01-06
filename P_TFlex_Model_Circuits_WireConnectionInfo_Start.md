@@ -11,18 +11,8 @@
 ```csharp
 public ModelObject Start { get; set; }
 ```
-```vb
-Public Property Start As ModelObject
-	Get
-	Set
-```
-```cpp
-public:
-property ModelObject^ Start {
-	ModelObject^ get ();
-	void set (ModelObject^ value);
-}
-```
+
+
 
 
 #### Значение свойства

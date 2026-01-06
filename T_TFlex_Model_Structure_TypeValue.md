@@ -11,13 +11,8 @@
 ```csharp
 public class TypeValue : BaseValue
 ```
-```vb
-Public Class TypeValue
-	Inherits BaseValue
-```
-```cpp
-public ref class TypeValue : public BaseValue
-```
+
+
 
 
 Тип TypeValue предоставляет следующие члены.

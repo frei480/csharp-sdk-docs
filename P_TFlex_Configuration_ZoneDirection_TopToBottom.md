@@ -8,18 +8,8 @@
 ```csharp
 public VerticalDirection TopToBottom { get; set; }
 ```
-```vb
-Public Property TopToBottom As VerticalDirection
-	Get
-	Set
-```
-```cpp
-public:
-property VerticalDirection TopToBottom {
-	VerticalDirection get ();
-	void set (VerticalDirection value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class PlaneCreateEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class PlaneCreateEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class PlaneCreateEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип PlaneCreateEventArgs предоставляет следующие члены.

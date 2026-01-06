@@ -11,13 +11,8 @@
 ```csharp
 protected virtual void OnDataReset()
 ```
-```vb
-Protected Overridable Sub OnDataReset
-```
-```cpp
-protected:
-virtual void OnDataReset()
-```
+
+
 
 
 #### Ссылки

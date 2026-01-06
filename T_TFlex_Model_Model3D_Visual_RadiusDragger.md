@@ -16,15 +16,8 @@
 [ObsoleteAttribute("This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")]
 public class RadiusDragger : Dragger
 ```
-```vb
-<ObsoleteAttribute("This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")>
-Public Class RadiusDragger
-	Inherits Dragger
-```
-```cpp
-[ObsoleteAttribute(L"This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")]
-public ref class RadiusDragger : public Dragger
-```
+
+
 
 
 Тип RadiusDragger предоставляет следующие члены.

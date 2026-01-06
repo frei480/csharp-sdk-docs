@@ -14,19 +14,8 @@ public void Insert(
 	ModelPoint3D geom
 )
 ```
-```vb
-Public Sub Insert ( 
-	Index As Integer,
-	geom As ModelPoint3D
-)
-```
-```cpp
-public:
-void Insert(
-	int Index, 
-	ModelPoint3D^ geom
-)
-```
+
+
 
 
 #### Параметры

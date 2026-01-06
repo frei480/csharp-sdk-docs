@@ -8,18 +8,8 @@
 ```csharp
 public bool FragOptimizePath { get; set; }
 ```
-```vb
-Public Property FragOptimizePath As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool FragOptimizePath {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

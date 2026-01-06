@@ -8,18 +8,8 @@
 ```csharp
 public SelectionFilterToolBarPosition SelectionFilterToolBar { get; set; }
 ```
-```vb
-Public Property SelectionFilterToolBar As SelectionFilterToolBarPosition
-	Get
-	Set
-```
-```cpp
-public:
-property SelectionFilterToolBarPosition SelectionFilterToolBar {
-	SelectionFilterToolBarPosition get ();
-	void set (SelectionFilterToolBarPosition value);
-}
-```
+
+
 
 
 #### Значение свойства

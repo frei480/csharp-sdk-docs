@@ -16,23 +16,8 @@ public DecorationCircleArc(
 	FloatVector end
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	center As FloatVector,
-	start As FloatVector,
-	end As FloatVector
-)
-```
-```cpp
-public:
-DecorationCircleArc(
-	String^ name, 
-	FloatVector center, 
-	FloatVector start, 
-	FloatVector end
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public virtual Image Image { get; set; }
 ```
-```vb
-Public Overridable Property Image As Image
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Image^ Image {
-	Image^ get ();
-	void set (Image^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class MeasureResultsUpdatingEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class MeasureResultsUpdatingEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class MeasureResultsUpdatingEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип MeasureResultsUpdatingEventArgs предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public bool FitOneLine
 ```
-```vb
-Public FitOneLine As Boolean
-```
-```cpp
-public:
-bool FitOneLine
-```
+
+
 
 
 #### Значение поля

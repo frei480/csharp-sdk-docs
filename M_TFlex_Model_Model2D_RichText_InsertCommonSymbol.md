@@ -13,17 +13,8 @@ public void InsertCommonSymbol(
 	CommonSymbol symbol
 )
 ```
-```vb
-Public Sub InsertCommonSymbol ( 
-	symbol As CommonSymbol
-)
-```
-```cpp
-public:
-void InsertCommonSymbol(
-	CommonSymbol symbol
-)
-```
+
+
 
 
 #### Параметры

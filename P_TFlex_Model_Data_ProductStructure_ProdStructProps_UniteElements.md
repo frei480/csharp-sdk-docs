@@ -8,18 +8,8 @@
 ```csharp
 public bool UniteElements { get; set; }
 ```
-```vb
-Public Property UniteElements As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UniteElements {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

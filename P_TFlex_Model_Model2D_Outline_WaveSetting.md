@@ -11,18 +11,8 @@
 ```csharp
 public OutlineWaveType WaveSetting { get; set; }
 ```
-```vb
-Public Property WaveSetting As OutlineWaveType
-	Get
-	Set
-```
-```cpp
-public:
-property OutlineWaveType WaveSetting {
-	OutlineWaveType get ();
-	void set (OutlineWaveType value);
-}
-```
+
+
 
 
 #### Значение свойства

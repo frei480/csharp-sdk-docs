@@ -11,18 +11,8 @@
 ```csharp
 public int RGBColor { get; set; }
 ```
-```vb
-Public Property RGBColor As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int RGBColor {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

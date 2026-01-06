@@ -14,19 +14,8 @@ public TopolParameter(
 	IntPtr item
 )
 ```
-```vb
-Public Sub New ( 
-	udf As UDF,
-	item As IntPtr
-)
-```
-```cpp
-public:
-TopolParameter(
-	UDF^ udf, 
-	IntPtr item
-)
-```
+
+
 
 
 #### Параметры

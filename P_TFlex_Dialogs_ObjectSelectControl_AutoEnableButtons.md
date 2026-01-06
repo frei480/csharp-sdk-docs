@@ -11,18 +11,8 @@
 ```csharp
 public bool AutoEnableButtons { get; set; }
 ```
-```vb
-Public Property AutoEnableButtons As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoEnableButtons {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

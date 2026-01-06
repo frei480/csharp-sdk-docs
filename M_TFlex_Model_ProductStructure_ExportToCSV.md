@@ -13,17 +13,8 @@ public void ExportToCSV(
 	ProductStructureCsvExportOptions options
 )
 ```
-```vb
-Public Sub ExportToCSV ( 
-	options As ProductStructureCsvExportOptions
-)
-```
-```cpp
-public:
-void ExportToCSV(
-	ProductStructureCsvExportOptions^ options
-)
-```
+
+
 
 
 #### Параметры

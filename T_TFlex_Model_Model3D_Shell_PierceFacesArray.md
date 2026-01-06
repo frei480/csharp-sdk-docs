@@ -14,14 +14,8 @@
 public class PierceFacesArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class PierceFacesArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class PierceFacesArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип ShellPierceFacesArray предоставляет следующие члены.

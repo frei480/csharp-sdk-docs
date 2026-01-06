@@ -13,17 +13,8 @@ protected Projection(
 	Document document
 )
 ```
-```vb
-Protected Sub New ( 
-	document As Document
-)
-```
-```cpp
-protected:
-Projection(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

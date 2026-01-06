@@ -10,17 +10,8 @@ public void CopyProperties(
 	ParamConditionTerm src
 )
 ```
-```vb
-Public Sub CopyProperties ( 
-	src As ParamConditionTerm
-)
-```
-```cpp
-public:
-void CopyProperties(
-	ParamConditionTerm^ src
-)
-```
+
+
 
 
 #### Параметры

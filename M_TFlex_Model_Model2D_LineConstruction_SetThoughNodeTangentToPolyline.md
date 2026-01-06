@@ -15,21 +15,8 @@ public void SetThoughNodeTangentToPolyline(
 	int variant
 )
 ```
-```vb
-Public Sub SetThoughNodeTangentToPolyline ( 
-	srcNode As Node,
-	srcPolyline As Construction,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetThoughNodeTangentToPolyline(
-	Node^ srcNode, 
-	Construction^ srcPolyline, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

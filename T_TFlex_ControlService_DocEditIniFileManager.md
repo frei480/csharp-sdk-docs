@@ -11,12 +11,8 @@
 ```csharp
 public class DocEditIniFileManager
 ```
-```vb
-Public Class DocEditIniFileManager
-```
-```cpp
-public ref class DocEditIniFileManager
-```
+
+
 
 
 Тип DocEditIniFileManager предоставляет следующие члены.

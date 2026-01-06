@@ -11,13 +11,8 @@
 ```csharp
 public void EndProgress()
 ```
-```vb
-Public Sub EndProgress
-```
-```cpp
-public:
-void EndProgress()
-```
+
+
 
 
 #### Ссылки

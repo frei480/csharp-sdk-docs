@@ -8,18 +8,8 @@
 ```csharp
 public bool Browsable { get; set; }
 ```
-```vb
-Public Property Browsable As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Browsable {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

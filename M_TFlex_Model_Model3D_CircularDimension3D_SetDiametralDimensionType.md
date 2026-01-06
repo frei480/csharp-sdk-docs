@@ -13,17 +13,8 @@ public void SetDiametralDimensionType(
 	DiametralDimensionType type
 )
 ```
-```vb
-Public Sub SetDiametralDimensionType ( 
-	type As DiametralDimensionType
-)
-```
-```cpp
-public:
-void SetDiametralDimensionType(
-	DiametralDimensionType type
-)
-```
+
+
 
 
 #### Параметры

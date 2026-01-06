@@ -11,18 +11,8 @@
 ```csharp
 public ModelPoint3D ThirdPointOnWorkplane { get; set; }
 ```
-```vb
-Public Property ThirdPointOnWorkplane As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ ThirdPointOnWorkplane {
-	ModelPoint3D^ get ();
-	void set (ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

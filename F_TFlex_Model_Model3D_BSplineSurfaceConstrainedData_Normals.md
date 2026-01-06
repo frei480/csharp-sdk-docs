@@ -8,13 +8,8 @@
 ```csharp
 public List<BaseDirection> Normals
 ```
-```vb
-Public Normals As List(Of BaseDirection)
-```
-```cpp
-public:
-List<BaseDirection^>^ Normals
-```
+
+
 
 
 #### Значение поля

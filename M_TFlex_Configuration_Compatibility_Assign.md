@@ -10,17 +10,8 @@ public void Assign(
 	Compatibility source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Compatibility
-)
-```
-```cpp
-public:
-void Assign(
-	Compatibility^ source
-)
-```
+
+
 
 
 #### Параметры

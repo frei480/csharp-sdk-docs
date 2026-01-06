@@ -8,18 +8,8 @@
 ```csharp
 public HorizontalToolBarPosition DrawingViewToolBar { get; set; }
 ```
-```vb
-Public Property DrawingViewToolBar As HorizontalToolBarPosition
-	Get
-	Set
-```
-```cpp
-public:
-property HorizontalToolBarPosition DrawingViewToolBar {
-	HorizontalToolBarPosition get ();
-	void set (HorizontalToolBarPosition value);
-}
-```
+
+
 
 
 #### Значение свойства

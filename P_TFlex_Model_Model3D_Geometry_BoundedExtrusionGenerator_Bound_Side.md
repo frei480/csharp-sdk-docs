@@ -11,18 +11,8 @@
 ```csharp
 public BoundedExtrusionGeneratorBoundSideType Side { get; set; }
 ```
-```vb
-Public Property Side As BoundedExtrusionGeneratorBoundSideType
-	Get
-	Set
-```
-```cpp
-public:
-property BoundedExtrusionGeneratorBoundSideType Side {
-	BoundedExtrusionGeneratorBoundSideType get ();
-	void set (BoundedExtrusionGeneratorBoundSideType value);
-}
-```
+
+
 
 
 #### Значение свойства

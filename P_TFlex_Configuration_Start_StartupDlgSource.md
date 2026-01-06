@@ -8,18 +8,8 @@
 ```csharp
 public StartupSource StartupDlgSource { get; set; }
 ```
-```vb
-Public Property StartupDlgSource As StartupSource
-	Get
-	Set
-```
-```cpp
-public:
-property StartupSource StartupDlgSource {
-	StartupSource get ();
-	void set (StartupSource value);
-}
-```
+
+
 
 
 #### Значение свойства

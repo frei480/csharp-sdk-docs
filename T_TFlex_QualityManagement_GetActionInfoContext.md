@@ -11,12 +11,8 @@
 ```csharp
 public class GetActionInfoContext
 ```
-```vb
-Public Class GetActionInfoContext
-```
-```cpp
-public ref class GetActionInfoContext
-```
+
+
 
 
 Тип GetActionInfoContext предоставляет следующие члены.

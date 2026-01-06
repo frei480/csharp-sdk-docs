@@ -8,18 +8,8 @@
 ```csharp
 public Parameter Parameter { get; set; }
 ```
-```vb
-Public Property Parameter As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Parameter {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

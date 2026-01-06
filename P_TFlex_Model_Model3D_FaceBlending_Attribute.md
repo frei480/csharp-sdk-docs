@@ -11,18 +11,8 @@
 ```csharp
 public FaceBlendingBlendAttribute Attribute { get; set; }
 ```
-```vb
-Public Property Attribute As FaceBlendingBlendAttribute
-	Get
-	Set
-```
-```cpp
-public:
-property FaceBlendingBlendAttribute^ Attribute {
-	FaceBlendingBlendAttribute^ get ();
-	void set (FaceBlendingBlendAttribute^ value);
-}
-```
+
+
 
 
 #### Значение свойства

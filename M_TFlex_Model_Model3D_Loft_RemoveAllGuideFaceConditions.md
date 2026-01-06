@@ -13,17 +13,8 @@ public void RemoveAllGuideFaceConditions(
 	int guideIndex
 )
 ```
-```vb
-Public Sub RemoveAllGuideFaceConditions ( 
-	guideIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveAllGuideFaceConditions(
-	int guideIndex
-)
-```
+
+
 
 
 #### Параметры

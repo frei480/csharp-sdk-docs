@@ -12,21 +12,8 @@ public void SetCheckState(
 	CheckState? checkState
 )
 ```
-```vb
-Public Sub SetCheckState ( 
-	row As Integer,
-	column As Integer,
-	checkState As CheckState?
-)
-```
-```cpp
-public:
-void SetCheckState(
-	int row, 
-	int column, 
-	Nullable<CheckState> checkState
-)
-```
+
+
 
 
 #### Параметры

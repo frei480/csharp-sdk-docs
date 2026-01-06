@@ -15,21 +15,8 @@ public void SetConstruction(
 	Parameter offset
 )
 ```
-```vb
-Public Sub SetConstruction ( 
-	line As Construction,
-	node As Node,
-	offset As Parameter
-)
-```
-```cpp
-public:
-void SetConstruction(
-	Construction^ line, 
-	Node^ node, 
-	Parameter^ offset
-)
-```
+
+
 
 
 #### Параметры

@@ -13,19 +13,8 @@ public static ICollection<Mate> GetMates(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetMates ( 
-	document As Document
-) As ICollection(Of Mate)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Mate^>^ GetMates(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public void RemoveAllCouplingPointVectors(
 	int couplingIndex
 )
 ```
-```vb
-Public Sub RemoveAllCouplingPointVectors ( 
-	couplingIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveAllCouplingPointVectors(
-	int couplingIndex
-)
-```
+
+
 
 
 #### Параметры

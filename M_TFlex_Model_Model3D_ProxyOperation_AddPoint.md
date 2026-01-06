@@ -14,19 +14,8 @@ protected bool AddPoint(
 	BasePoint3D point
 )
 ```
-```vb
-Protected Function AddPoint ( 
-	index As Integer,
-	point As BasePoint3D
-) As Boolean
-```
-```cpp
-protected:
-bool AddPoint(
-	int index, 
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

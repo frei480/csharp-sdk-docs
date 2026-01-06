@@ -11,13 +11,8 @@
 ```csharp
 public static readonly ComparisonOperator IsEmptyString
 ```
-```vb
-Public Shared ReadOnly IsEmptyString As ComparisonOperator
-```
-```cpp
-public:
-static initonly ComparisonOperator^ IsEmptyString
-```
+
+
 
 
 #### Значение поля

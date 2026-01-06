@@ -15,21 +15,8 @@ public void SetThoughNodeTangentToEllipse(
 	int variant
 )
 ```
-```vb
-Public Sub SetThoughNodeTangentToEllipse ( 
-	srcNode As Node,
-	srcEllipse As Construction,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetThoughNodeTangentToEllipse(
-	Node^ srcNode, 
-	Construction^ srcEllipse, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class LibraryConfigurations : IEnumerable<LibraryConfiguration>
 ```
-```vb
-Public NotInheritable Class LibraryConfigurations
-	Implements IEnumerable(Of LibraryConfiguration)
-```
-```cpp
-public ref class LibraryConfigurations sealed : IEnumerable<LibraryConfiguration^>
-```
+
+
 
 
 Тип LibraryConfigurations предоставляет следующие члены.

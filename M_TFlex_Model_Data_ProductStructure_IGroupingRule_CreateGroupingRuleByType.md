@@ -10,17 +10,8 @@ public static IGroupingRule CreateGroupingRuleByType(
 	GroupingRuleType type
 )
 ```
-```vb
-Public Shared Function CreateGroupingRuleByType ( 
-	type As GroupingRuleType
-) As IGroupingRule
-```
-```cpp
-public:
-static IGroupingRule^ CreateGroupingRuleByType(
-	GroupingRuleType type
-)
-```
+
+
 
 
 #### Параметры

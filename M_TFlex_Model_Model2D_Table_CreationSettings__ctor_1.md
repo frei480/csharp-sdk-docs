@@ -15,21 +15,8 @@ public CreationSettings(
 	double w
 )
 ```
-```vb
-Public Sub New ( 
-	c As UInteger,
-	r As UInteger,
-	w As Double
-)
-```
-```cpp
-public:
-CreationSettings(
-	unsigned int c, 
-	unsigned int r, 
-	double w
-)
-```
+
+
 
 
 #### Параметры

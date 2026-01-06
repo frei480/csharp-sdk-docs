@@ -13,17 +13,8 @@ public void RemoveDragger(
 	int id
 )
 ```
-```vb
-Public Sub RemoveDragger ( 
-	id As Integer
-)
-```
-```cpp
-public:
-void RemoveDragger(
-	int id
-)
-```
+
+
 
 
 #### Параметры

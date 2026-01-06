@@ -11,19 +11,8 @@ public void SetOverride(
 	T value
 )
 ```
-```vb
-Public Sub SetOverride ( 
-	key As Guid,
-	value As T
-)
-```
-```cpp
-public:
-void SetOverride(
-	Guid key, 
-	T value
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public int ColumnCount { get; set; }
 ```
-```vb
-Public Property ColumnCount As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ColumnCount {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

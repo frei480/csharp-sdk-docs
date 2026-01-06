@@ -13,16 +13,8 @@
 ```csharp
 public static Unit GramSquareCentimeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property GramSquareCentimeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ GramSquareCentimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

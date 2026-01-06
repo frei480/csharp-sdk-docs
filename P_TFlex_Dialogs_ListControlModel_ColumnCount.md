@@ -11,16 +11,8 @@
 ```csharp
 public virtual int ColumnCount { get; }
 ```
-```vb
-Public Overridable ReadOnly Property ColumnCount As Integer
-	Get
-```
-```cpp
-public:
-virtual property int ColumnCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

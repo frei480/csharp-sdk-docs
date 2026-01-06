@@ -11,18 +11,8 @@
 ```csharp
 public bool IsTransparencyOn { get; set; }
 ```
-```vb
-Public Property IsTransparencyOn As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsTransparencyOn {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

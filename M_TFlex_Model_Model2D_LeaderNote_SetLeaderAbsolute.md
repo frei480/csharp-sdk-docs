@@ -14,19 +14,8 @@ public void SetLeaderAbsolute(
 	Parameter y
 )
 ```
-```vb
-Public Sub SetLeaderAbsolute ( 
-	x As Parameter,
-	y As Parameter
-)
-```
-```cpp
-public:
-void SetLeaderAbsolute(
-	Parameter^ x, 
-	Parameter^ y
-)
-```
+
+
 
 
 #### Параметры

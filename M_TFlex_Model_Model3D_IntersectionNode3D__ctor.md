@@ -13,17 +13,8 @@ public IntersectionNode3D(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-IntersectionNode3D(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

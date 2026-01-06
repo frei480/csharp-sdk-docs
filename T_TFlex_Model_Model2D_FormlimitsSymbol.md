@@ -13,13 +13,8 @@
 ```csharp
 public class FormlimitsSymbol : Formlimits
 ```
-```vb
-Public Class FormlimitsSymbol
-	Inherits Formlimits
-```
-```cpp
-public ref class FormlimitsSymbol : public Formlimits
-```
+
+
 
 
 Тип FormlimitsSymbol предоставляет следующие члены.

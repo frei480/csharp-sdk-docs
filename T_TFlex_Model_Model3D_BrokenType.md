@@ -11,12 +11,8 @@
 ```csharp
 public enum BrokenType
 ```
-```vb
-Public Enumeration BrokenType
-```
-```cpp
-public enum class BrokenType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

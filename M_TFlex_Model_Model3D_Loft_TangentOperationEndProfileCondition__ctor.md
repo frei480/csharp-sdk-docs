@@ -14,19 +14,8 @@ public TangentOperationEndProfileCondition(
 	Parameter magnitude
 )
 ```
-```vb
-Public Sub New ( 
-	body As Operation,
-	magnitude As Parameter
-)
-```
-```cpp
-public:
-TangentOperationEndProfileCondition(
-	Operation^ body, 
-	Parameter^ magnitude
-)
-```
+
+
 
 
 #### Параметры

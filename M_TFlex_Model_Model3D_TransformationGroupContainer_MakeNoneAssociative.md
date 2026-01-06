@@ -14,15 +14,8 @@
 [ObsoleteAttribute("This method is obsolete and will be removed. Please use 'MakeNonAssociative' method.")]
 public bool MakeNoneAssociative()
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. Please use 'MakeNonAssociative' method.")>
-Public Function MakeNoneAssociative As Boolean
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. Please use 'MakeNonAssociative' method.")]
-bool MakeNoneAssociative()
-```
+
+
 
 
 #### Возвращаемое значение

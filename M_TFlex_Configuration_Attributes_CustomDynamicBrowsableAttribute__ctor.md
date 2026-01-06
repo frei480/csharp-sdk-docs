@@ -11,13 +11,8 @@
 ```csharp
 public CustomDynamicBrowsableAttribute()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CustomDynamicBrowsableAttribute()
-```
+
+
 
 
 #### Ссылки

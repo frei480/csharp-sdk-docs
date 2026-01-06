@@ -13,19 +13,8 @@ public static ICollection<NodeArrayOperation> GetNodeArrays(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetNodeArrays ( 
-	document As Document
-) As ICollection(Of NodeArrayOperation)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<NodeArrayOperation^>^ GetNodeArrays(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

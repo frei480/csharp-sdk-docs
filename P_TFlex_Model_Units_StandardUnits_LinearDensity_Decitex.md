@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Decitex { get; }
 ```
-```vb
-Public Shared ReadOnly Property Decitex As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Decitex {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

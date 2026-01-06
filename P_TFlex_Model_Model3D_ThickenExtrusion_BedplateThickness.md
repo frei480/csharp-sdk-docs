@@ -11,18 +11,8 @@
 ```csharp
 public Parameter BedplateThickness { get; set; }
 ```
-```vb
-Public Property BedplateThickness As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ BedplateThickness {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

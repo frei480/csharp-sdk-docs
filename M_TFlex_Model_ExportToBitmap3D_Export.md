@@ -13,17 +13,8 @@ public override sealed bool Export(
 	string fileName
 )
 ```
-```vb
-Public Overrides NotOverridable Function Export ( 
-	fileName As String
-) As Boolean
-```
-```cpp
-public:
-virtual bool Export(
-	String^ fileName
-) override sealed
-```
+
+
 
 
 #### Параметры

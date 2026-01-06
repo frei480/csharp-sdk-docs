@@ -13,17 +13,8 @@ public string GetName(
 	ModelObjectName nameType
 )
 ```
-```vb
-Public Function GetName ( 
-	nameType As ModelObjectName
-) As String
-```
-```cpp
-public:
-String^ GetName(
-	ModelObjectName nameType
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum GroupControlOrientation
 ```
-```vb
-Public Enumeration GroupControlOrientation
-```
-```cpp
-public enum class GroupControlOrientation
-```
+
+
 
 
 | Имя члена | Значение | Описание |

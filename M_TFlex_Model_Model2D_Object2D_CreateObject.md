@@ -8,13 +8,8 @@
 ```csharp
 public Object2D CreateObject()
 ```
-```vb
-Public Function CreateObject As Object2D
-```
-```cpp
-public:
-Object2D^ CreateObject()
-```
+
+
 
 
 #### Возвращаемое значение

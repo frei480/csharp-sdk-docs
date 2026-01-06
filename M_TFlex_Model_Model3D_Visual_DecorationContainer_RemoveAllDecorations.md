@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllDecorations()
 ```
-```vb
-Public Sub RemoveAllDecorations
-```
-```cpp
-public:
-void RemoveAllDecorations()
-```
+
+
 
 
 #### Ссылки

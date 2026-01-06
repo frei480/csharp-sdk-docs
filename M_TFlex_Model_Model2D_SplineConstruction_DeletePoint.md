@@ -13,17 +13,8 @@ public bool DeletePoint(
 	int index
 )
 ```
-```vb
-Public Function DeletePoint ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool DeletePoint(
-	int index
-)
-```
+
+
 
 
 #### Параметры

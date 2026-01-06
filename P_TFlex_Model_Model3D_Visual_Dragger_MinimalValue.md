@@ -11,18 +11,8 @@
 ```csharp
 public virtual double MinimalValue { get; set; }
 ```
-```vb
-Public Overridable Property MinimalValue As Double
-	Get
-	Set
-```
-```cpp
-public:
-virtual property double MinimalValue {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

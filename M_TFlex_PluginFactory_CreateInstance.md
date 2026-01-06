@@ -11,13 +11,8 @@ Cоздает объект приложения
 ```csharp
 public abstract Plugin CreateInstance()
 ```
-```vb
-Public MustOverride Function CreateInstance As Plugin
-```
-```cpp
-public:
-virtual Plugin^ CreateInstance() abstract
-```
+
+
 
 
 #### Возвращаемое значение

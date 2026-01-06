@@ -13,12 +13,8 @@
 ```csharp
 public class BackFileLinkParameters
 ```
-```vb
-Public Class BackFileLinkParameters
-```
-```cpp
-public ref class BackFileLinkParameters
-```
+
+
 
 
 Тип BackFileLinkParameters предоставляет следующие члены.

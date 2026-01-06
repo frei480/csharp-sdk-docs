@@ -11,12 +11,8 @@
 ```csharp
 Point3D[] GetPolyline()
 ```
-```vb
-Function GetPolyline As Point3D()
-```
-```cpp
-array<Point3D^>^ GetPolyline()
-```
+
+
 
 
 #### Возвращаемое значение

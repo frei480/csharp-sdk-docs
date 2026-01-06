@@ -11,18 +11,8 @@
 ```csharp
 public bool DisableMacrosSmartFragments { get; set; }
 ```
-```vb
-Public Property DisableMacrosSmartFragments As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DisableMacrosSmartFragments {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

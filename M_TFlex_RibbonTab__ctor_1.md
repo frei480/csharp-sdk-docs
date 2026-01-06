@@ -15,21 +15,8 @@ public RibbonTab(
 	Plugin plugin
 )
 ```
-```vb
-Public Sub New ( 
-	caption As String,
-	guid As Guid,
-	plugin As Plugin
-)
-```
-```cpp
-public:
-RibbonTab(
-	String^ caption, 
-	Guid guid, 
-	Plugin^ plugin
-)
-```
+
+
 
 
 #### Параметры

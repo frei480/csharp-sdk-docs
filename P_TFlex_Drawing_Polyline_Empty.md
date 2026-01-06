@@ -11,16 +11,8 @@
 ```csharp
 public bool Empty { get; }
 ```
-```vb
-Public ReadOnly Property Empty As Boolean
-	Get
-```
-```cpp
-public:
-property bool Empty {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

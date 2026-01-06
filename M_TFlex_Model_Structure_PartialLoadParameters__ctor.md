@@ -11,13 +11,8 @@
 ```csharp
 public PartialLoadParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PartialLoadParameters()
-```
+
+
 
 
 #### Ссылки

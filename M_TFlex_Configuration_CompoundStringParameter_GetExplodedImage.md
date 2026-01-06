@@ -11,19 +11,8 @@ public static Image GetExplodedImage(
 	string str
 )
 ```
-```vb
-Public Shared Function GetExplodedImage ( 
-	document As Document,
-	str As String
-) As Image
-```
-```cpp
-public:
-static Image^ GetExplodedImage(
-	Document^ document, 
-	String^ str
-)
-```
+
+
 
 
 #### Параметры

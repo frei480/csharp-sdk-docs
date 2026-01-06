@@ -11,13 +11,8 @@
 ```csharp
 public LengthCommitedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LengthCommitedEventArgs()
-```
+
+
 
 
 #### Ссылки

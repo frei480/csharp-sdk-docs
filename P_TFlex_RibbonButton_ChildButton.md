@@ -13,18 +13,8 @@ public RibbonButton this[
 	int i
 ] { get; }
 ```
-```vb
-Public ReadOnly Property ChildButton ( 
-	i As Integer
-) As RibbonButton
-	Get
-```
-```cpp
-public:
-property RibbonButton^ ChildButton[int i] {
-	RibbonButton^ get (int i);
-}
-```
+
+
 
 
 #### Параметры

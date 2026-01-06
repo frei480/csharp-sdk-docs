@@ -11,13 +11,8 @@
 ```csharp
 public SerializationContex()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SerializationContex()
-```
+
+
 
 
 #### Ссылки

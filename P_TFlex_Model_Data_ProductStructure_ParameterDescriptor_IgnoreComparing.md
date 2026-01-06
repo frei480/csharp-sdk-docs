@@ -8,18 +8,8 @@
 ```csharp
 public bool IgnoreComparing { get; set; }
 ```
-```vb
-Public Property IgnoreComparing As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IgnoreComparing {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

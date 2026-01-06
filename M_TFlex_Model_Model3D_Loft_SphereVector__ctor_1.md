@@ -16,23 +16,8 @@ public SphereVector(
 	LCS lcs
 )
 ```
-```vb
-Public Sub New ( 
-	phi As Parameter,
-	theta As Parameter,
-	magnitude As Parameter,
-	lcs As LCS
-)
-```
-```cpp
-public:
-SphereVector(
-	Parameter^ phi, 
-	Parameter^ theta, 
-	Parameter^ magnitude, 
-	LCS^ lcs
-)
-```
+
+
 
 
 #### Параметры

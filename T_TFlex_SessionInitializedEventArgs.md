@@ -13,13 +13,8 @@
 ```csharp
 public class SessionInitializedEventArgs : PluginEventArgs
 ```
-```vb
-Public Class SessionInitializedEventArgs
-	Inherits PluginEventArgs
-```
-```cpp
-public ref class SessionInitializedEventArgs : public PluginEventArgs
-```
+
+
 
 
 Тип SessionInitializedEventArgs предоставляет следующие члены.

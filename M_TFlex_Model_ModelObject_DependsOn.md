@@ -10,17 +10,8 @@ public bool DependsOn(
 	List<ModelObject> others
 )
 ```
-```vb
-Public Function DependsOn ( 
-	others As List(Of ModelObject)
-) As Boolean
-```
-```cpp
-public:
-bool DependsOn(
-	List<ModelObject^>^ others
-)
-```
+
+
 
 
 #### Параметры

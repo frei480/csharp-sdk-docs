@@ -15,21 +15,8 @@ public Fragment3D EditFragment(
 	int hole
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. Please use 'GetVariables' method.", 
-	true)>
-Public Function EditFragment ( 
-	hole As Integer
-) As Fragment3D
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. Please use 'GetVariables' method.", 
-	true)]
-Fragment3D^ EditFragment(
-	int hole
-)
-```
+
+
 
 
 #### Параметры

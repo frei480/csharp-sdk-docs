@@ -13,13 +13,8 @@
 ```csharp
 public class BlockChangesEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class BlockChangesEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class BlockChangesEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип BlockChangesEventArgs предоставляет следующие члены.

@@ -13,16 +13,8 @@
 ```csharp
 public static Unit KelvinPerMillimeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property KelvinPerMillimeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ KelvinPerMillimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

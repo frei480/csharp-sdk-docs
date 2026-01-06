@@ -16,23 +16,8 @@ public ShellGenerator(
 	double defDist
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	body As Body,
-	isEquid As Boolean,
-	defDist As Double
-)
-```
-```cpp
-public:
-ShellGenerator(
-	ProxyObject3D^ object, 
-	Body^ body, 
-	bool isEquid, 
-	double defDist
-)
-```
+
+
 
 
 #### Параметры

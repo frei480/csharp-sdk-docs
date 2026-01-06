@@ -11,12 +11,8 @@
 ```csharp
 public class ContentInfo
 ```
-```vb
-Public Class ContentInfo
-```
-```cpp
-public ref class ContentInfo
-```
+
+
 
 
 Тип Harness3DHarness3DInfoContentInfo предоставляет следующие члены.

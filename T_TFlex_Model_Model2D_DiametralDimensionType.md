@@ -11,12 +11,8 @@
 ```csharp
 public enum DiametralDimensionType
 ```
-```vb
-Public Enumeration DiametralDimensionType
-```
-```cpp
-public enum class DiametralDimensionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

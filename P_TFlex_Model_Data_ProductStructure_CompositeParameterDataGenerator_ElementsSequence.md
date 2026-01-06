@@ -8,18 +8,8 @@
 ```csharp
 public List<CompositeParameterDataGeneratorElementType> ElementsSequence { get; set; }
 ```
-```vb
-Public Property ElementsSequence As List(Of CompositeParameterDataGeneratorElementType)
-	Get
-	Set
-```
-```cpp
-public:
-property List<CompositeParameterDataGeneratorElementType>^ ElementsSequence {
-	List<CompositeParameterDataGeneratorElementType>^ get ();
-	void set (List<CompositeParameterDataGeneratorElementType>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

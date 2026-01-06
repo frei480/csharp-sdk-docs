@@ -11,13 +11,8 @@
 ```csharp
 public IntPtr GetDeviceContext()
 ```
-```vb
-Public Function GetDeviceContext As IntPtr
-```
-```cpp
-public:
-IntPtr GetDeviceContext()
-```
+
+
 
 
 #### Возвращаемое значение

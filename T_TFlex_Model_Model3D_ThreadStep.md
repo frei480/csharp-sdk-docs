@@ -13,12 +13,8 @@
 ```csharp
 public class ThreadStep
 ```
-```vb
-Public Class ThreadStep
-```
-```cpp
-public ref class ThreadStep
-```
+
+
 
 
 Тип ThreadStep предоставляет следующие члены.

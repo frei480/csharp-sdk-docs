@@ -11,13 +11,8 @@
 ```csharp
 public void ReportError()
 ```
-```vb
-Public Sub ReportError
-```
-```cpp
-public:
-void ReportError()
-```
+
+
 
 
 #### Ссылки

@@ -11,16 +11,8 @@
 ```csharp
 public virtual bool BeforeAll { get; }
 ```
-```vb
-Public Overridable ReadOnly Property BeforeAll As Boolean
-	Get
-```
-```cpp
-public:
-virtual property bool BeforeAll {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

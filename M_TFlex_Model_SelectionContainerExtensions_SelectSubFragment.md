@@ -12,23 +12,8 @@ public static void SelectSubFragment(
 	IEnumerable<ObjectId> fragmentIdChain
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SelectSubFragment ( 
-	selCont As SelectionContainer,
-	fragment As Fragment3D,
-	fragmentIdChain As IEnumerable(Of ObjectId)
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SelectSubFragment(
-	SelectionContainer^ selCont, 
-	Fragment3D^ fragment, 
-	IEnumerable<ObjectId^>^ fragmentIdChain
-)
-```
+
+
 
 
 #### Параметры

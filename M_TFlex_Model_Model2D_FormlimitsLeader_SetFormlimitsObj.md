@@ -14,19 +14,8 @@ public void SetFormlimitsObj(
 	int position
 )
 ```
-```vb
-Public Sub SetFormlimitsObj ( 
-	obj As Formlimits,
-	position As Integer
-)
-```
-```cpp
-public:
-void SetFormlimitsObj(
-	Formlimits^ obj, 
-	int position
-)
-```
+
+
 
 
 #### Параметры

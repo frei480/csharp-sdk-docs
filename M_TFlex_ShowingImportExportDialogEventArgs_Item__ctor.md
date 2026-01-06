@@ -11,13 +11,8 @@
 ```csharp
 public Item()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Item()
-```
+
+
 
 
 #### Ссылки

@@ -11,13 +11,8 @@
 ```csharp
 public ProjectionClass GetOutlineMode()
 ```
-```vb
-Public Function GetOutlineMode As ProjectionClass
-```
-```cpp
-public:
-ProjectionClass GetOutlineMode()
-```
+
+
 
 
 #### Возвращаемое значение

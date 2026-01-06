@@ -13,17 +13,8 @@ public void Add(
 	Outline outline
 )
 ```
-```vb
-Public Sub Add ( 
-	outline As Outline
-)
-```
-```cpp
-public:
-void Add(
-	Outline^ outline
-)
-```
+
+
 
 
 #### Параметры

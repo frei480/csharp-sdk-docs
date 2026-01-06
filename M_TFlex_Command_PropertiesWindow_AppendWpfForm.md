@@ -13,17 +13,8 @@ public void AppendWpfForm(
 	PropertiesWindowWpfForm form
 )
 ```
-```vb
-Public Sub AppendWpfForm ( 
-	form As PropertiesWindowWpfForm
-)
-```
-```cpp
-public:
-void AppendWpfForm(
-	PropertiesWindowWpfForm^ form
-)
-```
+
+
 
 
 #### Параметры

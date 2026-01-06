@@ -13,17 +13,8 @@ public void ExpandAllTheWayTo(
 	long rowId
 )
 ```
-```vb
-Public Sub ExpandAllTheWayTo ( 
-	rowId As Long
-)
-```
-```cpp
-public:
-void ExpandAllTheWayTo(
-	long long rowId
-)
-```
+
+
 
 
 #### Параметры

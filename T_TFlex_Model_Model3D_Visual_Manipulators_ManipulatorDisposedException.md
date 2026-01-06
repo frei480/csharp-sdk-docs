@@ -13,13 +13,8 @@ XXX
 ```csharp
 public class ManipulatorDisposedException : ManipulatorException
 ```
-```vb
-Public Class ManipulatorDisposedException
-	Inherits ManipulatorException
-```
-```cpp
-public ref class ManipulatorDisposedException : public ManipulatorException
-```
+
+
 
 
 Тип ManipulatorDisposedException предоставляет следующие члены.

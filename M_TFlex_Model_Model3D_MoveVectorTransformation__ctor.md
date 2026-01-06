@@ -13,17 +13,8 @@ public MoveVectorTransformation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-MoveVectorTransformation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

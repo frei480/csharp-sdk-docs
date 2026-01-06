@@ -11,12 +11,8 @@
 ```csharp
 public enum LogicalOperator
 ```
-```vb
-Public Enumeration LogicalOperator
-```
-```cpp
-public enum class LogicalOperator
-```
+
+
 
 
 | Имя члена | Значение | Описание |

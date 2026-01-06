@@ -13,13 +13,8 @@
 ```csharp
 public abstract class RichText : Text
 ```
-```vb
-Public MustInherit Class RichText
-	Inherits Text
-```
-```cpp
-public ref class RichText abstract : public Text
-```
+
+
 
 
 Тип RichText предоставляет следующие члены.

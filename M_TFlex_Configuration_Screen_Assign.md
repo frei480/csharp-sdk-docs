@@ -10,17 +10,8 @@ public void Assign(
 	Screen source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Screen
-)
-```
-```cpp
-public:
-void Assign(
-	Screen^ source
-)
-```
+
+
 
 
 #### Параметры

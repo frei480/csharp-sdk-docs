@@ -8,12 +8,8 @@
 ```csharp
 public enum FragmentInsertMethodType
 ```
-```vb
-Public Enumeration FragmentInsertMethodType
-```
-```cpp
-public enum class FragmentInsertMethodType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

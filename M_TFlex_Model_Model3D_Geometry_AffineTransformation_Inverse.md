@@ -11,13 +11,8 @@
 ```csharp
 public AffineTransformation Inverse()
 ```
-```vb
-Public Function Inverse As AffineTransformation
-```
-```cpp
-public:
-AffineTransformation^ Inverse()
-```
+
+
 
 
 #### Возвращаемое значение

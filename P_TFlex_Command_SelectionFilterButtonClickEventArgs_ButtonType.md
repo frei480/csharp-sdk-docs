@@ -8,16 +8,8 @@
 ```csharp
 public SelectionFilterButtonType ButtonType { get; }
 ```
-```vb
-Public ReadOnly Property ButtonType As SelectionFilterButtonType
-	Get
-```
-```cpp
-public:
-property SelectionFilterButtonType ButtonType {
-	SelectionFilterButtonType get ();
-}
-```
+
+
 
 
 #### Значение свойства

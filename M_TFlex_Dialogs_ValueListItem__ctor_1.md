@@ -13,17 +13,8 @@ public ValueListItem(
 	ValueListItemType type
 )
 ```
-```vb
-Public Sub New ( 
-	type As ValueListItemType
-)
-```
-```cpp
-public:
-ValueListItem(
-	ValueListItemType type
-)
-```
+
+
 
 
 #### Параметры

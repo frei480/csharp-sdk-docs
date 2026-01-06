@@ -11,12 +11,8 @@
 ```csharp
 public enum AutocadExportFileVersionType
 ```
-```vb
-Public Enumeration AutocadExportFileVersionType
-```
-```cpp
-public enum class AutocadExportFileVersionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

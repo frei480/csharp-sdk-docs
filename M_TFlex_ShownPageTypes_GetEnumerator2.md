@@ -8,13 +8,8 @@
 ```csharp
 public IEnumerator GetEnumerator2()
 ```
-```vb
-Public Function GetEnumerator2 As IEnumerator
-```
-```cpp
-public:
-virtual IEnumerator^ GetEnumerator2() sealed
-```
+
+
 
 
 #### Возвращаемое значение

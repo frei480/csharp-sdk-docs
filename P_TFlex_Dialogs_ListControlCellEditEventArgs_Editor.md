@@ -8,18 +8,8 @@
 ```csharp
 public BaseControl Editor { get; set; }
 ```
-```vb
-Public Property Editor As BaseControl
-	Get
-	Set
-```
-```cpp
-public:
-property BaseControl^ Editor {
-	BaseControl^ get ();
-	void set (BaseControl^ value);
-}
-```
+
+
 
 
 #### Значение свойства

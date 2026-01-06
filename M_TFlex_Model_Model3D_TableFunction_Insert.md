@@ -14,19 +14,8 @@ public void Insert(
 	TableFunctionDependence pair
 )
 ```
-```vb
-Public Sub Insert ( 
-	index As Integer,
-	pair As TableFunctionDependence
-)
-```
-```cpp
-public:
-void Insert(
-	int index, 
-	TableFunctionDependence^ pair
-)
-```
+
+
 
 
 #### Параметры

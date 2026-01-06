@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Rho { get; set; }
 ```
-```vb
-Public Property Rho As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Rho {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

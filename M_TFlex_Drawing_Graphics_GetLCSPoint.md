@@ -13,17 +13,8 @@ public Point GetLCSPoint(
 	Point point
 )
 ```
-```vb
-Public Function GetLCSPoint ( 
-	point As Point
-) As Point
-```
-```cpp
-public:
-Point GetLCSPoint(
-	Point point
-)
-```
+
+
 
 
 #### Параметры

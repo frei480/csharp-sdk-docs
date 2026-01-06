@@ -11,18 +11,8 @@
 ```csharp
 public bool Sewing { get; set; }
 ```
-```vb
-Public Property Sewing As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Sewing {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

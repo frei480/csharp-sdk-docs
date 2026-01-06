@@ -8,13 +8,8 @@
 ```csharp
 public Point3D GetCommitedOrigin()
 ```
-```vb
-Public Function GetCommitedOrigin As Point3D
-```
-```cpp
-public:
-Point3D^ GetCommitedOrigin()
-```
+
+
 
 
 #### Возвращаемое значение

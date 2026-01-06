@@ -11,18 +11,8 @@
 ```csharp
 public MaterialParametersMapModel MappingModel { get; set; }
 ```
-```vb
-Public Property MappingModel As MaterialParametersMapModel
-	Get
-	Set
-```
-```cpp
-public:
-property MaterialParametersMapModel MappingModel {
-	MaterialParametersMapModel get ();
-	void set (MaterialParametersMapModel value);
-}
-```
+
+
 
 
 #### Значение свойства

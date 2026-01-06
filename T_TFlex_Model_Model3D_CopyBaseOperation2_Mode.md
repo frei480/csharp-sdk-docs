@@ -11,12 +11,8 @@
 ```csharp
 public enum Mode
 ```
-```vb
-Public Enumeration Mode
-```
-```cpp
-public enum class Mode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,12 +13,8 @@
 ```csharp
 public struct DrawStyle
 ```
-```vb
-Public Structure DrawStyle
-```
-```cpp
-public value class DrawStyle
-```
+
+
 
 
 Тип View3DDrawStyle предоставляет следующие члены.

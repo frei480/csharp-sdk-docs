@@ -14,19 +14,8 @@ public void SetParallel(
 	Parameter distance
 )
 ```
-```vb
-Public Sub SetParallel ( 
-	srcLine As Construction,
-	distance As Parameter
-)
-```
-```cpp
-public:
-void SetParallel(
-	Construction^ srcLine, 
-	Parameter^ distance
-)
-```
+
+
 
 
 #### Параметры

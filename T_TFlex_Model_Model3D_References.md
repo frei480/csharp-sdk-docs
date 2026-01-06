@@ -14,14 +14,8 @@
 public class References : IEnumerator, IEnumerable, 
 	IDisposable
 ```
-```vb
-Public Class References
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class References : IEnumerator, 
-	IEnumerable, IDisposable
-```
+
+
 
 
 Тип References предоставляет следующие члены.

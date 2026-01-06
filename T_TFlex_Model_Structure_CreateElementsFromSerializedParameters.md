@@ -11,13 +11,8 @@
 ```csharp
 public sealed class CreateElementsFromSerializedParameters : BaseCreateElementsParameters
 ```
-```vb
-Public NotInheritable Class CreateElementsFromSerializedParameters
-	Inherits BaseCreateElementsParameters
-```
-```cpp
-public ref class CreateElementsFromSerializedParameters sealed : public BaseCreateElementsParameters
-```
+
+
 
 
 Тип CreateElementsFromSerializedParameters предоставляет следующие члены.

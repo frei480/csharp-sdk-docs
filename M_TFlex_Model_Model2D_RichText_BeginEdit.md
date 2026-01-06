@@ -11,13 +11,8 @@
 ```csharp
 public void BeginEdit()
 ```
-```vb
-Public Sub BeginEdit
-```
-```cpp
-public:
-void BeginEdit()
-```
+
+
 
 
 Функция устанавливает текст в режим редактирования для последующей работы с ним

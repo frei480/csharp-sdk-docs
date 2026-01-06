@@ -13,17 +13,8 @@ public ImportedTransformation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ImportedTransformation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

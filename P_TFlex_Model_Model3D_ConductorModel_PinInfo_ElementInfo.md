@@ -8,16 +8,8 @@
 ```csharp
 public ElementInfo ElementInfo { get; }
 ```
-```vb
-Public ReadOnly Property ElementInfo As ElementInfo
-	Get
-```
-```cpp
-public:
-property ElementInfo^ ElementInfo {
-	ElementInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

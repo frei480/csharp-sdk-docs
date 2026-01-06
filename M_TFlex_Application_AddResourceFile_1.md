@@ -14,19 +14,8 @@ public static bool AddResourceFile(
 	string baseName
 )
 ```
-```vb
-Public Shared Function AddResourceFile ( 
-	directory As String,
-	baseName As String
-) As Boolean
-```
-```cpp
-public:
-static bool AddResourceFile(
-	String^ directory, 
-	String^ baseName
-)
-```
+
+
 
 
 #### Параметры

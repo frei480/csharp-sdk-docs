@@ -11,13 +11,8 @@
 ```csharp
 public void SetApprox()
 ```
-```vb
-Public Sub SetApprox
-```
-```cpp
-public:
-void SetApprox()
-```
+
+
 
 
 #### Ссылки

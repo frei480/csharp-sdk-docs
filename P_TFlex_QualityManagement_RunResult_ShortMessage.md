@@ -11,18 +11,8 @@
 ```csharp
 public string ShortMessage { get; set; }
 ```
-```vb
-Public Property ShortMessage As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ShortMessage {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

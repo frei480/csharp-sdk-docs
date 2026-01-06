@@ -14,19 +14,8 @@ public void SetParentRowId(
 	long rowId
 )
 ```
-```vb
-Public Sub SetParentRowId ( 
-	row As Integer,
-	rowId As Long
-)
-```
-```cpp
-public:
-void SetParentRowId(
-	int row, 
-	long long rowId
-)
-```
+
+
 
 
 #### Параметры

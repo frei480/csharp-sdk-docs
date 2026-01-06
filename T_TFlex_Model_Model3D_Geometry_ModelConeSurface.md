@@ -14,15 +14,8 @@
 public sealed class ModelConeSurface : ModelSurface, 
 	BaseConeSurface
 ```
-```vb
-Public NotInheritable Class ModelConeSurface
-	Inherits ModelSurface
-	Implements BaseConeSurface
-```
-```cpp
-public ref class ModelConeSurface sealed : public ModelSurface, 
-	BaseConeSurface
-```
+
+
 
 
 Тип ModelConeSurface предоставляет следующие члены.

@@ -11,12 +11,8 @@
 ```csharp
 public enum ExpressionType
 ```
-```vb
-Public Enumeration ExpressionType
-```
-```cpp
-public enum class ExpressionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

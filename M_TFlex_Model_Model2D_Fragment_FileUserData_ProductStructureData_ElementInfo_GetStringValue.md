@@ -13,17 +13,8 @@ public string GetStringValue(
 	Guid paramId
 )
 ```
-```vb
-Public Function GetStringValue ( 
-	paramId As Guid
-) As String
-```
-```cpp
-public:
-String^ GetStringValue(
-	Guid paramId
-)
-```
+
+
 
 
 #### Параметры

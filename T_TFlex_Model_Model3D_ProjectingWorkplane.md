@@ -13,13 +13,8 @@
 ```csharp
 public class ProjectingWorkplane : Model2DWorkplane
 ```
-```vb
-Public Class ProjectingWorkplane
-	Inherits Model2DWorkplane
-```
-```cpp
-public ref class ProjectingWorkplane : public Model2DWorkplane
-```
+
+
 
 
 Тип ProjectingWorkplane предоставляет следующие члены.

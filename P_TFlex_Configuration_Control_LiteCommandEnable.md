@@ -8,18 +8,8 @@
 ```csharp
 public bool LiteCommandEnable { get; set; }
 ```
-```vb
-Public Property LiteCommandEnable As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool LiteCommandEnable {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

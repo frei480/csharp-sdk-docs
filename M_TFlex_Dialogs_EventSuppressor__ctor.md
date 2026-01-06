@@ -13,17 +13,8 @@ public EventSuppressor(
 	BaseControl control
 )
 ```
-```vb
-Public Sub New ( 
-	control As BaseControl
-)
-```
-```cpp
-public:
-EventSuppressor(
-	BaseControl^ control
-)
-```
+
+
 
 
 #### Параметры

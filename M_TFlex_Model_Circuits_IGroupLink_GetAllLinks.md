@@ -11,12 +11,8 @@
 ```csharp
 IEnumerable<Link> GetAllLinks()
 ```
-```vb
-Function GetAllLinks As IEnumerable(Of Link)
-```
-```cpp
-IEnumerable<Link^>^ GetAllLinks()
-```
+
+
 
 
 #### Возвращаемое значение

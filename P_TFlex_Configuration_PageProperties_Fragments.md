@@ -8,16 +8,8 @@
 ```csharp
 public PageFragments Fragments { get; }
 ```
-```vb
-Public ReadOnly Property Fragments As PageFragments
-	Get
-```
-```cpp
-public:
-property PageFragments^ Fragments {
-	PageFragments^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool ForceNewObject { get; set; }
 ```
-```vb
-Public Property ForceNewObject As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ForceNewObject {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

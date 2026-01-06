@@ -13,17 +13,8 @@ public CompoundStringControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-CompoundStringControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

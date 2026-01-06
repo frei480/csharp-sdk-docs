@@ -8,18 +8,8 @@
 ```csharp
 public FacetType Facet { get; set; }
 ```
-```vb
-Public Property Facet As FacetType
-	Get
-	Set
-```
-```cpp
-public:
-property FacetType Facet {
-	FacetType get ();
-	void set (FacetType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void AddExclusion(
 	Object2D object2D
 )
 ```
-```vb
-Public Sub AddExclusion ( 
-	object2D As Object2D
-)
-```
-```cpp
-public:
-void AddExclusion(
-	Object2D^ object2D
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public int GetCommand(
 	int index
 )
 ```
-```vb
-Public Function GetCommand ( 
-	index As Integer
-) As Integer
-```
-```cpp
-public:
-int GetCommand(
-	int index
-)
-```
+
+
 
 
 #### Параметры

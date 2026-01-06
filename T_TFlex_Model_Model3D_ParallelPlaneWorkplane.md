@@ -13,13 +13,8 @@
 ```csharp
 public class ParallelPlaneWorkplane : Model3DWorkplane
 ```
-```vb
-Public Class ParallelPlaneWorkplane
-	Inherits Model3DWorkplane
-```
-```cpp
-public ref class ParallelPlaneWorkplane : public Model3DWorkplane
-```
+
+
 
 
 Тип ParallelPlaneWorkplane предоставляет следующие члены.

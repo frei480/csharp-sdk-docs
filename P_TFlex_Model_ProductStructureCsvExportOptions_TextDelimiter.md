@@ -11,18 +11,8 @@
 ```csharp
 public ProductStructureCsvExportOptionsTextDelimiterType TextDelimiter { get; set; }
 ```
-```vb
-Public Property TextDelimiter As ProductStructureCsvExportOptionsTextDelimiterType
-	Get
-	Set
-```
-```cpp
-public:
-property ProductStructureCsvExportOptionsTextDelimiterType TextDelimiter {
-	ProductStructureCsvExportOptionsTextDelimiterType get ();
-	void set (ProductStructureCsvExportOptionsTextDelimiterType value);
-}
-```
+
+
 
 
 #### Значение свойства

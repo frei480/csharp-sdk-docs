@@ -8,18 +8,8 @@
 ```csharp
 public bool SkipCurrentDocumentPos { get; set; }
 ```
-```vb
-Public Property SkipCurrentDocumentPos As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SkipCurrentDocumentPos {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

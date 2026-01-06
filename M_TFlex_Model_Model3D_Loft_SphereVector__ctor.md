@@ -15,21 +15,8 @@ public SphereVector(
 	Parameter magnitude
 )
 ```
-```vb
-Public Sub New ( 
-	phi As Parameter,
-	theta As Parameter,
-	magnitude As Parameter
-)
-```
-```cpp
-public:
-SphereVector(
-	Parameter^ phi, 
-	Parameter^ theta, 
-	Parameter^ magnitude
-)
-```
+
+
 
 
 #### Параметры

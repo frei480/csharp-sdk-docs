@@ -13,17 +13,8 @@ public void SetMin(
 	double minValue
 )
 ```
-```vb
-Public Sub SetMin ( 
-	minValue As Double
-)
-```
-```cpp
-public:
-void SetMin(
-	double minValue
-)
-```
+
+
 
 
 #### Параметры

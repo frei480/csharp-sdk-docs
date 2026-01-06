@@ -11,13 +11,8 @@
 ```csharp
 public Windows()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Windows()
-```
+
+
 
 
 #### Ссылки

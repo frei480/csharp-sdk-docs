@@ -11,19 +11,8 @@ public static bool ParamEquals(
 	IParameterProvider right
 )
 ```
-```vb
-Public Shared Function ParamEquals ( 
-	left As IParameterProvider,
-	right As IParameterProvider
-) As Boolean
-```
-```cpp
-public:
-static bool ParamEquals(
-	IParameterProvider^ left, 
-	IParameterProvider^ right
-)
-```
+
+
 
 
 #### Параметры

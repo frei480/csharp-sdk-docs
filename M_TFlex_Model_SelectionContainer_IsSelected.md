@@ -13,17 +13,8 @@ public bool IsSelected(
 	ModelObject obj
 )
 ```
-```vb
-Public Function IsSelected ( 
-	obj As ModelObject
-) As Boolean
-```
-```cpp
-public:
-bool IsSelected(
-	ModelObject^ obj
-)
-```
+
+
 
 
 #### Параметры

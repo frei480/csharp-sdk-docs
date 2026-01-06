@@ -11,16 +11,8 @@
 ```csharp
 public override string Message { get; }
 ```
-```vb
-Public Overrides ReadOnly Property Message As String
-	Get
-```
-```cpp
-public:
-virtual property String^ Message {
-	String^ get () override;
-}
-```
+
+
 
 
 #### Значение свойства

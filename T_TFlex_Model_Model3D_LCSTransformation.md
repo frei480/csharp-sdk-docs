@@ -13,13 +13,8 @@
 ```csharp
 public class LCSTransformation : MoveRotateTransformation
 ```
-```vb
-Public Class LCSTransformation
-	Inherits MoveRotateTransformation
-```
-```cpp
-public ref class LCSTransformation : public MoveRotateTransformation
-```
+
+
 
 
 Тип LCSTransformation предоставляет следующие члены.

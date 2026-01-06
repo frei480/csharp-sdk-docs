@@ -13,12 +13,8 @@
 ```csharp
 public struct StepParameters
 ```
-```vb
-Public Structure StepParameters
-```
-```cpp
-public value class StepParameters
-```
+
+
 
 
 Тип RoughnessSymbolStepParameters предоставляет следующие члены.

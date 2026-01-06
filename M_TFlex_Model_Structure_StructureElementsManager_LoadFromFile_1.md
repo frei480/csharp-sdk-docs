@@ -10,17 +10,8 @@ public bool LoadFromFile(
 	PartialLoadParameters parameters
 )
 ```
-```vb
-Public Function LoadFromFile ( 
-	parameters As PartialLoadParameters
-) As Boolean
-```
-```cpp
-public:
-bool LoadFromFile(
-	PartialLoadParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

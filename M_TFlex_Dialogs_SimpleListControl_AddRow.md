@@ -11,13 +11,8 @@
 ```csharp
 public void AddRow()
 ```
-```vb
-Public Sub AddRow
-```
-```cpp
-public:
-void AddRow()
-```
+
+
 
 
 #### Ссылки

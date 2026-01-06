@@ -11,18 +11,8 @@
 ```csharp
 public ModelSurface MoveToSurface { get; set; }
 ```
-```vb
-Public Property MoveToSurface As ModelSurface
-	Get
-	Set
-```
-```cpp
-public:
-property ModelSurface^ MoveToSurface {
-	ModelSurface^ get ();
-	void set (ModelSurface^ value);
-}
-```
+
+
 
 
 #### Значение свойства

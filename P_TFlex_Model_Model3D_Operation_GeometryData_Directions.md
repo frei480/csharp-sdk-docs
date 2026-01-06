@@ -8,16 +8,8 @@
 ```csharp
 public IEnumerable<ModelDirection> Directions { get; }
 ```
-```vb
-Public ReadOnly Property Directions As IEnumerable(Of ModelDirection)
-	Get
-```
-```cpp
-public:
-property IEnumerable<ModelDirection^>^ Directions {
-	IEnumerable<ModelDirection^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

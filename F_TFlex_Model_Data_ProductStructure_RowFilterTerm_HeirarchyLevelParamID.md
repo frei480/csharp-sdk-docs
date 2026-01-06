@@ -8,13 +8,8 @@
 ```csharp
 public static readonly Guid HeirarchyLevelParamID
 ```
-```vb
-Public Shared ReadOnly HeirarchyLevelParamID As Guid
-```
-```cpp
-public:
-static initonly Guid HeirarchyLevelParamID
-```
+
+
 
 
 #### Значение поля

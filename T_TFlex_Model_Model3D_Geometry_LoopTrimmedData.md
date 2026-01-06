@@ -11,12 +11,8 @@
 ```csharp
 public class LoopTrimmedData
 ```
-```vb
-Public Class LoopTrimmedData
-```
-```cpp
-public ref class LoopTrimmedData
-```
+
+
 
 
 Тип LoopTrimmedData предоставляет следующие члены.

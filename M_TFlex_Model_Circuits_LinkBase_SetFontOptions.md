@@ -10,17 +10,8 @@ public abstract void SetFontOptions(
 	FontOptions A_0
 )
 ```
-```vb
-Public MustOverride Sub SetFontOptions ( 
-	A_0 As FontOptions
-)
-```
-```cpp
-public:
-virtual void SetFontOptions(
-	FontOptions^ A_0
-) abstract
-```
+
+
 
 
 #### Параметры

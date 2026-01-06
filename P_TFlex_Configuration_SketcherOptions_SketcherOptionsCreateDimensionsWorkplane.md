@@ -8,18 +8,8 @@
 ```csharp
 public bool SketcherOptionsCreateDimensionsWorkplane { get; set; }
 ```
-```vb
-Public Property SketcherOptionsCreateDimensionsWorkplane As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SketcherOptionsCreateDimensionsWorkplane {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

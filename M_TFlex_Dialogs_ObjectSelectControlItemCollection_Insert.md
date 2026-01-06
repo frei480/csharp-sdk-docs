@@ -14,19 +14,8 @@ public void Insert(
 	ObjectSelectControlPlainObject object
 )
 ```
-```vb
-Public Sub Insert ( 
-	pos As Integer,
-	object As ObjectSelectControlPlainObject
-)
-```
-```cpp
-public:
-void Insert(
-	int pos, 
-	ObjectSelectControlPlainObject object
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public BaseDirection XAxis { get; set; }
 ```
-```vb
-Public Property XAxis As BaseDirection
-	Get
-	Set
-```
-```cpp
-public:
-property BaseDirection^ XAxis {
-	BaseDirection^ get ();
-	void set (BaseDirection^ value);
-}
-```
+
+
 
 
 #### Значение свойства

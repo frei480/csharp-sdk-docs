@@ -8,12 +8,8 @@
 ```csharp
 public enum RibbonButtonStyle
 ```
-```vb
-Public Enumeration RibbonButtonStyle
-```
-```cpp
-public enum class RibbonButtonStyle
-```
+
+
 
 
 | Имя члена | Значение | Описание |

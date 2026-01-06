@@ -13,12 +13,8 @@
 ```csharp
 public sealed class FragmentExplodeOptions
 ```
-```vb
-Public NotInheritable Class FragmentExplodeOptions
-```
-```cpp
-public ref class FragmentExplodeOptions sealed
-```
+
+
 
 
 Тип FragmentExplodeOptions предоставляет следующие члены.

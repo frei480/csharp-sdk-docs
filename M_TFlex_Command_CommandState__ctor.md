@@ -11,13 +11,8 @@
 ```csharp
 public CommandState()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CommandState()
-```
+
+
 
 
 #### Ссылки

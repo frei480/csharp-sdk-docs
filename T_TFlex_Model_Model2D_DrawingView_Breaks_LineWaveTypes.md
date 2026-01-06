@@ -11,12 +11,8 @@
 ```csharp
 public enum LineWaveTypes
 ```
-```vb
-Public Enumeration LineWaveTypes
-```
-```cpp
-public enum class LineWaveTypes
-```
+
+
 
 
 | Имя члена | Значение | Описание |

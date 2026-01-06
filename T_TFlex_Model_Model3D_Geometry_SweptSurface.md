@@ -14,15 +14,8 @@
 public class SweptSurface : Surface, 
 	BaseSweptSurface
 ```
-```vb
-Public Class SweptSurface
-	Inherits Surface
-	Implements BaseSweptSurface
-```
-```cpp
-public ref class SweptSurface : public Surface, 
-	BaseSweptSurface
-```
+
+
 
 
 Тип SweptSurface предоставляет следующие члены.

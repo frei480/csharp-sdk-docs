@@ -11,18 +11,8 @@
 ```csharp
 public bool SetLineWidth { get; set; }
 ```
-```vb
-Public Property SetLineWidth As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SetLineWidth {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

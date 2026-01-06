@@ -8,13 +8,8 @@
 ```csharp
 public void UpdateGeom()
 ```
-```vb
-Public Sub UpdateGeom
-```
-```cpp
-public:
-void UpdateGeom()
-```
+
+
 
 
 #### Ссылки

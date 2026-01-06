@@ -11,19 +11,8 @@ public static void Write(
 	string message
 )
 ```
-```vb
-Public Shared Sub Write ( 
-	severity As LogSeverity,
-	message As String
-)
-```
-```cpp
-public:
-static void Write(
-	LogSeverity severity, 
-	String^ message
-)
-```
+
+
 
 
 #### Параметры

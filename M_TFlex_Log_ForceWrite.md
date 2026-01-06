@@ -11,19 +11,8 @@ public static void ForceWrite(
 	string message
 )
 ```
-```vb
-Public Shared Sub ForceWrite ( 
-	severity As LogSeverity,
-	message As String
-)
-```
-```cpp
-public:
-static void ForceWrite(
-	LogSeverity severity, 
-	String^ message
-)
-```
+
+
 
 
 #### Параметры

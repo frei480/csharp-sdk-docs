@@ -11,18 +11,8 @@
 ```csharp
 public bool DefaultTracing { get; set; }
 ```
-```vb
-Public Property DefaultTracing As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DefaultTracing {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

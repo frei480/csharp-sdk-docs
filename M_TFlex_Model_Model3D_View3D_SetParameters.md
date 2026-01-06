@@ -13,17 +13,8 @@ public void SetParameters(
 	View3DParameters params
 )
 ```
-```vb
-Public Sub SetParameters ( 
-	params As View3DParameters
-)
-```
-```cpp
-public:
-void SetParameters(
-	View3DParameters^ params
-)
-```
+
+
 
 
 #### Параметры

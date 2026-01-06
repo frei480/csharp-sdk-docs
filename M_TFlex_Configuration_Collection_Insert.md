@@ -11,19 +11,8 @@ public void Insert(
 	int index
 )
 ```
-```vb
-Public Sub Insert ( 
-	pOpts As SettingsGroup,
-	index As Integer
-)
-```
-```cpp
-public:
-void Insert(
-	SettingsGroup^ pOpts, 
-	int index
-)
-```
+
+
 
 
 #### Параметры

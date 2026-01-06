@@ -10,18 +10,8 @@ public TransformationMatrixMatrixVector this[
 	int index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As Integer
-) As TransformationMatrixMatrixVector
-	Get
-```
-```cpp
-public:
-property TransformationMatrixMatrixVector^ default[int index] {
-	TransformationMatrixMatrixVector^ get (int index);
-}
-```
+
+
 
 
 #### Параметры

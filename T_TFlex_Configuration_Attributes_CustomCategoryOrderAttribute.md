@@ -11,13 +11,8 @@
 ```csharp
 public class CustomCategoryOrderAttribute : Attribute
 ```
-```vb
-Public Class CustomCategoryOrderAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomCategoryOrderAttribute : public Attribute
-```
+
+
 
 
 Тип CustomCategoryOrderAttribute предоставляет следующие члены.

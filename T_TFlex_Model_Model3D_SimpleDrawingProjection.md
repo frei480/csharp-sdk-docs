@@ -13,13 +13,8 @@
 ```csharp
 public class SimpleDrawingProjection : Projection
 ```
-```vb
-Public Class SimpleDrawingProjection
-	Inherits Projection
-```
-```cpp
-public ref class SimpleDrawingProjection : public Projection
-```
+
+
 
 
 Тип SimpleDrawingProjection предоставляет следующие члены.

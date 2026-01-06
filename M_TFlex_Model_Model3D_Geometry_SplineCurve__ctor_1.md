@@ -13,17 +13,8 @@ public SplineCurve(
 	SplineData data
 )
 ```
-```vb
-Public Sub New ( 
-	data As SplineData
-)
-```
-```cpp
-public:
-SplineCurve(
-	SplineData^ data
-)
-```
+
+
 
 
 #### Параметры

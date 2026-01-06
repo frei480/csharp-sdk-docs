@@ -8,18 +8,8 @@
 ```csharp
 public OverrideBool BackwardsOrder { get; set; }
 ```
-```vb
-Public Property BackwardsOrder As OverrideBool
-	Get
-	Set
-```
-```cpp
-public:
-property OverrideBool BackwardsOrder {
-	OverrideBool get ();
-	void set (OverrideBool value);
-}
-```
+
+
 
 
 #### Значение свойства

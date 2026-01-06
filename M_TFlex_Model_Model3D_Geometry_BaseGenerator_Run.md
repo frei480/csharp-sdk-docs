@@ -11,13 +11,8 @@
 ```csharp
 public abstract bool Run()
 ```
-```vb
-Public MustOverride Function Run As Boolean
-```
-```cpp
-public:
-virtual bool Run() abstract
-```
+
+
 
 
 #### Возвращаемое значение

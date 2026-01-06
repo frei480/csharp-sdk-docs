@@ -11,13 +11,8 @@
 ```csharp
 public ContainerResultNode()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ContainerResultNode()
-```
+
+
 
 
 #### Ссылки

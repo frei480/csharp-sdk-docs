@@ -11,13 +11,8 @@
 ```csharp
 public bool DefaultColor
 ```
-```vb
-Public DefaultColor As Boolean
-```
-```cpp
-public:
-bool DefaultColor
-```
+
+
 
 
 #### Значение поля

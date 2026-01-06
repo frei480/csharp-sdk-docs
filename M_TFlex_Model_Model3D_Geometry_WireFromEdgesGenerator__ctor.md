@@ -14,19 +14,8 @@ public WireFromEdgesGenerator(
 	BaseEdge[] edges
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	edges As BaseEdge()
-)
-```
-```cpp
-public:
-WireFromEdgesGenerator(
-	ProxyObject3D^ object, 
-	array<BaseEdge^>^ edges
-)
-```
+
+
 
 
 #### Параметры

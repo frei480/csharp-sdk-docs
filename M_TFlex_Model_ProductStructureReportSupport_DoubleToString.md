@@ -10,17 +10,8 @@ public static string DoubleToString(
 	double value
 )
 ```
-```vb
-Public Shared Function DoubleToString ( 
-	value As Double
-) As String
-```
-```cpp
-public:
-static String^ DoubleToString(
-	double value
-)
-```
+
+
 
 
 #### Параметры

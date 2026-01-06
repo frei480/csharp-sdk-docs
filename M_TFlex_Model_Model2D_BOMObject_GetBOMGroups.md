@@ -11,13 +11,8 @@
 ```csharp
 public BomGroup[] GetBOMGroups()
 ```
-```vb
-Public Function GetBOMGroups As BomGroup()
-```
-```cpp
-public:
-array<BomGroup>^ GetBOMGroups()
-```
+
+
 
 
 #### Возвращаемое значение

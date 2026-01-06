@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToPOV : ExportToFacet
 ```
-```vb
-Public NotInheritable Class ExportToPOV
-	Inherits ExportToFacet
-```
-```cpp
-public ref class ExportToPOV sealed : public ExportToFacet
-```
+
+
 
 
 Тип ExportToPOV предоставляет следующие члены.

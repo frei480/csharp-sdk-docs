@@ -15,21 +15,8 @@ public int Add(
 	PropertyArrayType TypeID
 )
 ```
-```vb
-Public Function Add ( 
-	Name As String,
-	Description As String,
-	TypeID As PropertyArrayType
-) As Integer
-```
-```cpp
-public:
-int Add(
-	String^ Name, 
-	String^ Description, 
-	PropertyArrayType TypeID
-)
-```
+
+
 
 
 #### Параметры

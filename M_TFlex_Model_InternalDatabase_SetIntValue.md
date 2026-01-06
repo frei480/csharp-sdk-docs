@@ -15,21 +15,8 @@ public bool SetIntValue(
 	int value
 )
 ```
-```vb
-Public Function SetIntValue ( 
-	column As Integer,
-	row As Integer,
-	value As Integer
-) As Boolean
-```
-```cpp
-public:
-bool SetIntValue(
-	int column, 
-	int row, 
-	int value
-)
-```
+
+
 
 
 #### Параметры

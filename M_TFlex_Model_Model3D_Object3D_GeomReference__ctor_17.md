@@ -14,19 +14,8 @@ public GeomReference(
 	uint states
 )
 ```
-```vb
-Public Sub New ( 
-	topol As ModelTopol,
-	states As UInteger
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelTopol^ topol, 
-	unsigned int states
-)
-```
+
+
 
 
 #### Параметры

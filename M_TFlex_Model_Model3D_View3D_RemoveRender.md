@@ -10,17 +10,8 @@ public void RemoveRender(
 	IntPtr Handle
 )
 ```
-```vb
-Public Sub RemoveRender ( 
-	Handle As IntPtr
-)
-```
-```cpp
-public:
-void RemoveRender(
-	IntPtr Handle
-)
-```
+
+
 
 
 #### Параметры

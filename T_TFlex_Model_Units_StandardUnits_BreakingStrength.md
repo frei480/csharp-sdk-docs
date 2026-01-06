@@ -13,12 +13,8 @@
 ```csharp
 public sealed class BreakingStrength
 ```
-```vb
-Public NotInheritable Class BreakingStrength
-```
-```cpp
-public ref class BreakingStrength sealed
-```
+
+
 
 
 Тип StandardUnitsBreakingStrength предоставляет следующие члены.

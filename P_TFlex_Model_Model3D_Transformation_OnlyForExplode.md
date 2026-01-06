@@ -11,18 +11,8 @@
 ```csharp
 public bool OnlyForExplode { get; set; }
 ```
-```vb
-Public Property OnlyForExplode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OnlyForExplode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

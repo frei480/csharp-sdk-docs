@@ -8,18 +8,8 @@
 ```csharp
 public StereoModeType StereoMode { get; set; }
 ```
-```vb
-Public Property StereoMode As StereoModeType
-	Get
-	Set
-```
-```cpp
-public:
-property StereoModeType StereoMode {
-	StereoModeType get ();
-	void set (StereoModeType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public ModelFace Face { get; set; }
 ```
-```vb
-Public Property Face As ModelFace
-	Get
-	Set
-```
-```cpp
-public:
-property ModelFace^ Face {
-	ModelFace^ get ();
-	void set (ModelFace^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool Suppress { get; set; }
 ```
-```vb
-Public Property Suppress As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Suppress {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

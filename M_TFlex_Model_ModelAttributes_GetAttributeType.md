@@ -13,17 +13,8 @@ public AttributeType GetAttributeType(
 	string attribName
 )
 ```
-```vb
-Public Function GetAttributeType ( 
-	attribName As String
-) As AttributeType
-```
-```cpp
-public:
-AttributeType GetAttributeType(
-	String^ attribName
-)
-```
+
+
 
 
 #### Параметры

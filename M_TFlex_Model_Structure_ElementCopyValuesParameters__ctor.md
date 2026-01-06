@@ -11,13 +11,8 @@
 ```csharp
 public ElementCopyValuesParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ElementCopyValuesParameters()
-```
+
+
 
 
 #### Ссылки

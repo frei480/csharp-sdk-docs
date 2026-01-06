@@ -11,13 +11,8 @@
 ```csharp
 public DocEditIniFileManager()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-DocEditIniFileManager()
-```
+
+
 
 
 #### Ссылки

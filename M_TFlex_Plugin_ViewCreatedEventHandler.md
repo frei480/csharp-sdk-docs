@@ -13,17 +13,8 @@ protected virtual void ViewCreatedEventHandler(
 	ViewEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub ViewCreatedEventHandler ( 
-	args As ViewEventArgs
-)
-```
-```cpp
-protected:
-virtual void ViewCreatedEventHandler(
-	ViewEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

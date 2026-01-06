@@ -13,13 +13,8 @@
 ```csharp
 public class ListControlIconClickedEventArgs : BaseEventArgs
 ```
-```vb
-Public Class ListControlIconClickedEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class ListControlIconClickedEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип ListControlIconClickedEventArgs предоставляет следующие члены.

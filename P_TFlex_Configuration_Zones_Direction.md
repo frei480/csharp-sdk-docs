@@ -8,16 +8,8 @@
 ```csharp
 public ZoneDirection Direction { get; }
 ```
-```vb
-Public ReadOnly Property Direction As ZoneDirection
-	Get
-```
-```cpp
-public:
-property ZoneDirection^ Direction {
-	ZoneDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,16 +8,8 @@
 ```csharp
 protected IntPtr Rep { get; }
 ```
-```vb
-Protected ReadOnly Property Rep As IntPtr
-	Get
-```
-```cpp
-protected:
-property IntPtr Rep {
-	IntPtr get ();
-}
-```
+
+
 
 
 #### Значение свойства

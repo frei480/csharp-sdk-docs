@@ -14,19 +14,8 @@ public CellInfo(
 	int column
 )
 ```
-```vb
-Public Sub New ( 
-	row As Integer,
-	column As Integer
-)
-```
-```cpp
-public:
-CellInfo(
-	int row, 
-	int column
-)
-```
+
+
 
 
 #### Параметры

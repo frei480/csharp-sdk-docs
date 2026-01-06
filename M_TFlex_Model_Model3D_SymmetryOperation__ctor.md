@@ -16,19 +16,8 @@ public SymmetryOperation(
 	Document document
 )
 ```
-```vb
-<ObsoleteAttribute("You should not create SymmetryOperation objects in new code. Please, use class SymmetryOperation2 instead.")>
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-[ObsoleteAttribute(L"You should not create SymmetryOperation objects in new code. Please, use class SymmetryOperation2 instead.")]
-SymmetryOperation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

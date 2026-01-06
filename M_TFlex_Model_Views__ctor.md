@@ -13,17 +13,8 @@ public Views(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Views(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

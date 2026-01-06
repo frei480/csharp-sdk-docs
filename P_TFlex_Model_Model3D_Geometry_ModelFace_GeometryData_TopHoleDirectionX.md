@@ -8,16 +8,8 @@
 ```csharp
 public ModelDirection TopHoleDirectionX { get; }
 ```
-```vb
-Public ReadOnly Property TopHoleDirectionX As ModelDirection
-	Get
-```
-```cpp
-public:
-property ModelDirection^ TopHoleDirectionX {
-	ModelDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

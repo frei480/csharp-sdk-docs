@@ -13,17 +13,8 @@ public RunResultEntry(
 	ModelObject obj
 )
 ```
-```vb
-Public Sub New ( 
-	obj As ModelObject
-)
-```
-```cpp
-public:
-RunResultEntry(
-	ModelObject^ obj
-)
-```
+
+
 
 
 #### Параметры

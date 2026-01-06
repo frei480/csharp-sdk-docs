@@ -15,21 +15,8 @@ public void SetTextAttribute(
 	bool change
 )
 ```
-```vb
-Public Sub SetTextAttribute ( 
-	attribName As String,
-	value As String,
-	change As Boolean
-)
-```
-```cpp
-public:
-void SetTextAttribute(
-	String^ attribName, 
-	String^ value, 
-	bool change
-)
-```
+
+
 
 
 #### Параметры

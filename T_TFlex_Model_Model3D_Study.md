@@ -13,13 +13,8 @@
 ```csharp
 public class Study : ModelObject
 ```
-```vb
-Public Class Study
-	Inherits ModelObject
-```
-```cpp
-public ref class Study : public ModelObject
-```
+
+
 
 
 Тип Study предоставляет следующие члены.

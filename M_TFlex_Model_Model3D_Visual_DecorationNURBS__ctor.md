@@ -15,21 +15,8 @@ public DecorationNURBS(
 	float[] knots
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	controlPoints As FloatVector(),
-	knots As Single()
-)
-```
-```cpp
-public:
-DecorationNURBS(
-	String^ name, 
-	array<FloatVector>^ controlPoints, 
-	array<float>^ knots
-)
-```
+
+
 
 
 #### Параметры

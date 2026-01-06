@@ -14,19 +14,8 @@ public UriHyperlinkProperties(
 	string text
 )
 ```
-```vb
-Public Sub New ( 
-	uri As Uri,
-	text As String
-)
-```
-```cpp
-public:
-UriHyperlinkProperties(
-	Uri^ uri, 
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

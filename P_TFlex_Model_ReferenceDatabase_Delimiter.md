@@ -11,18 +11,8 @@
 ```csharp
 public DelimiterType Delimiter { get; set; }
 ```
-```vb
-Public Property Delimiter As DelimiterType
-	Get
-	Set
-```
-```cpp
-public:
-property DelimiterType Delimiter {
-	DelimiterType get ();
-	void set (DelimiterType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public string NewFragmentDocumentFilePath { get; set; }
 ```
-```vb
-Public Property NewFragmentDocumentFilePath As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ NewFragmentDocumentFilePath {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

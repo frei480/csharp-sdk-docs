@@ -14,14 +14,8 @@
 public class ThreadFacesArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ThreadFacesArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ThreadFacesArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип ThreadFacesArray предоставляет следующие члены.

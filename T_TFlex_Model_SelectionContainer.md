@@ -13,12 +13,8 @@
 ```csharp
 public sealed class SelectionContainer
 ```
-```vb
-Public NotInheritable Class SelectionContainer
-```
-```cpp
-public ref class SelectionContainer sealed
-```
+
+
 
 
 Тип SelectionContainer предоставляет следующие члены.

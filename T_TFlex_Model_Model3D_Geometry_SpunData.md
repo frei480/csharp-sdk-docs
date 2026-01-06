@@ -13,13 +13,8 @@
 ```csharp
 public sealed class SpunData : IDisposable
 ```
-```vb
-Public NotInheritable Class SpunData
-	Implements IDisposable
-```
-```cpp
-public ref class SpunData sealed : IDisposable
-```
+
+
 
 
 Тип SpunData предоставляет следующие члены.

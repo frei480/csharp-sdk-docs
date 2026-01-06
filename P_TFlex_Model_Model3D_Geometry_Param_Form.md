@@ -11,16 +11,8 @@
 ```csharp
 public ParamFormType Form { get; }
 ```
-```vb
-Public ReadOnly Property Form As ParamFormType
-	Get
-```
-```cpp
-public:
-property ParamFormType Form {
-	ParamFormType get ();
-}
-```
+
+
 
 
 #### Значение свойства

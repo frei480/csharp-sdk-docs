@@ -11,13 +11,8 @@
 ```csharp
 public OffsetCommitedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-OffsetCommitedEventArgs()
-```
+
+
 
 
 #### Ссылки

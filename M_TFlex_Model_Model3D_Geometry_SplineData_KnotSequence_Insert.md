@@ -14,19 +14,8 @@ public void Insert(
 	SplineDataKnotSequenceKnot knot
 )
 ```
-```vb
-Public Sub Insert ( 
-	Index As UInteger,
-	knot As SplineDataKnotSequenceKnot
-)
-```
-```cpp
-public:
-void Insert(
-	unsigned int Index, 
-	SplineDataKnotSequenceKnot^ knot
-)
-```
+
+
 
 
 #### Параметры

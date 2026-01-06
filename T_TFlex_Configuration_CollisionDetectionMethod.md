@@ -8,12 +8,8 @@
 ```csharp
 public enum CollisionDetectionMethod
 ```
-```vb
-Public Enumeration CollisionDetectionMethod
-```
-```cpp
-public enum class CollisionDetectionMethod
-```
+
+
 
 
 | Имя члена | Значение | Описание |

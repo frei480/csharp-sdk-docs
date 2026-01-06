@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool MinimalValueEnabled { get; set; }
 ```
-```vb
-Public Overridable Property MinimalValueEnabled As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool MinimalValueEnabled {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

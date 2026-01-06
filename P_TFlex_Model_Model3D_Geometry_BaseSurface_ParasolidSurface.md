@@ -8,18 +8,8 @@
 ```csharp
 public int ParasolidSurface { get; set; }
 ```
-```vb
-Public Property ParasolidSurface As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ParasolidSurface {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

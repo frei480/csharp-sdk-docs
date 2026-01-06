@@ -11,13 +11,8 @@
 ```csharp
 public class LengthDiameterManipulator : Manipulator
 ```
-```vb
-Public Class LengthDiameterManipulator
-	Inherits Manipulator
-```
-```cpp
-public ref class LengthDiameterManipulator : public Manipulator
-```
+
+
 
 
 Тип LengthDiameterManipulator предоставляет следующие члены.

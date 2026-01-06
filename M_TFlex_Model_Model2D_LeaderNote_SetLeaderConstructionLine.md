@@ -15,21 +15,8 @@ public void SetLeaderConstructionLine(
 	Parameter offset
 )
 ```
-```vb
-Public Sub SetLeaderConstructionLine ( 
-	line As Construction,
-	nod As Node,
-	offset As Parameter
-)
-```
-```cpp
-public:
-void SetLeaderConstructionLine(
-	Construction^ line, 
-	Node^ nod, 
-	Parameter^ offset
-)
-```
+
+
 
 
 #### Параметры

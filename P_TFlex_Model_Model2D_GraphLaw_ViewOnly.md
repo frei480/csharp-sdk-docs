@@ -11,18 +11,8 @@
 ```csharp
 public bool ViewOnly { get; set; }
 ```
-```vb
-Public Property ViewOnly As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ViewOnly {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

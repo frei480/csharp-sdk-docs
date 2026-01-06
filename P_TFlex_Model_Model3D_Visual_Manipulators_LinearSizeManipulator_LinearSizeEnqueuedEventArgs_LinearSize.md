@@ -8,18 +8,8 @@
 ```csharp
 public double LinearSize { get; set; }
 ```
-```vb
-Public Property LinearSize As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double LinearSize {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

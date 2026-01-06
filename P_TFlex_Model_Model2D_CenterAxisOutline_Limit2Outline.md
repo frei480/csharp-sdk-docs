@@ -11,18 +11,8 @@
 ```csharp
 public Outline Limit2Outline { get; set; }
 ```
-```vb
-Public Property Limit2Outline As Outline
-	Get
-	Set
-```
-```cpp
-public:
-property Outline^ Limit2Outline {
-	Outline^ get ();
-	void set (Outline^ value);
-}
-```
+
+
 
 
 #### Значение свойства

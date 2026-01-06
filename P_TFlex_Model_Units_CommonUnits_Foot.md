@@ -8,16 +8,8 @@
 ```csharp
 public Unit Foot { get; }
 ```
-```vb
-Public ReadOnly Property Foot As Unit
-	Get
-```
-```cpp
-public:
-property Unit^ Foot {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

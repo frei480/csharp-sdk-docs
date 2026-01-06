@@ -14,19 +14,8 @@ public bool InsertValueListString(
 	int index
 )
 ```
-```vb
-Public Function InsertValueListString ( 
-	str As String,
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool InsertValueListString(
-	String^ str, 
-	int index
-)
-```
+
+
 
 
 #### Параметры

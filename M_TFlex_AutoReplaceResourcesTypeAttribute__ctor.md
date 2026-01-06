@@ -13,17 +13,8 @@ public AutoReplaceResourcesTypeAttribute(
 	string fullName
 )
 ```
-```vb
-Public Sub New ( 
-	fullName As String
-)
-```
-```cpp
-public:
-AutoReplaceResourcesTypeAttribute(
-	String^ fullName
-)
-```
+
+
 
 
 #### Параметры

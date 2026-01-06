@@ -15,21 +15,8 @@ public static void RunSystemCommand(
 	[OptionalAttribute] SystemCommandFinishedCallback commandFinished
 )
 ```
-```vb
-Public Shared Sub RunSystemCommand ( 
-	commandName As String,
-	<OptionalAttribute> selectObjects As ModelObject(),
-	<OptionalAttribute> commandFinished As SystemCommandFinishedCallback
-)
-```
-```cpp
-public:
-static void RunSystemCommand(
-	String^ commandName, 
-	[OptionalAttribute] array<ModelObject^>^ selectObjects, 
-	[OptionalAttribute] SystemCommandFinishedCallback^ commandFinished
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public CopyPath(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-CopyPath(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

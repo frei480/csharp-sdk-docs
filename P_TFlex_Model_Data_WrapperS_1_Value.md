@@ -8,18 +8,8 @@
 ```csharp
 public TObj Value { get; set; }
 ```
-```vb
-Public Property Value As TObj
-	Get
-	Set
-```
-```cpp
-public:
-property TObj Value {
-	TObj get ();
-	void set (TObj value);
-}
-```
+
+
 
 
 #### Значение свойства

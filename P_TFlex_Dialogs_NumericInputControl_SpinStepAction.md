@@ -11,18 +11,8 @@
 ```csharp
 public SpinStepAction SpinStepAction { get; set; }
 ```
-```vb
-Public Property SpinStepAction As SpinStepAction
-	Get
-	Set
-```
-```cpp
-public:
-property SpinStepAction SpinStepAction {
-	SpinStepAction get ();
-	void set (SpinStepAction value);
-}
-```
+
+
 
 
 #### Значение свойства

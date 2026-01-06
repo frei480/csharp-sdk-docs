@@ -13,16 +13,8 @@ public static implicit operator Parameter (
 	Variable var
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	var As Variable
-) As Parameter
-```
-```cpp
-static implicit operator Parameter^ (
-	Variable^ var
-)
-```
+
+
 
 
 #### Параметры

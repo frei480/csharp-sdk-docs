@@ -11,16 +11,8 @@
 ```csharp
 public ModelPoint3D ToreCenter { get; }
 ```
-```vb
-Public ReadOnly Property ToreCenter As ModelPoint3D
-	Get
-```
-```cpp
-public:
-property ModelPoint3D^ ToreCenter {
-	ModelPoint3D^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

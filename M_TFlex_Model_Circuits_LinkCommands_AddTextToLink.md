@@ -13,23 +13,8 @@ public static void AddTextToLink(
 	DesignationType type
 )
 ```
-```vb
-Public Shared Sub AddTextToLink ( 
-	__unnamed000 As Link,
-	__unnamed001 As String,
-	bDesignation As Boolean,
-	type As DesignationType
-)
-```
-```cpp
-public:
-static void AddTextToLink(
-	Link^ __unnamed000, 
-	String^ __unnamed001, 
-	bool bDesignation, 
-	DesignationType type
-)
-```
+
+
 
 
 #### Параметры

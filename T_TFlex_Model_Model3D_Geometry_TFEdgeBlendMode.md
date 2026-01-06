@@ -8,12 +8,8 @@
 ```csharp
 public enum TFEdgeBlendMode
 ```
-```vb
-Public Enumeration TFEdgeBlendMode
-```
-```cpp
-public enum class TFEdgeBlendMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

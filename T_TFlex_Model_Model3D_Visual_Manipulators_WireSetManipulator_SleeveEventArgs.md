@@ -11,13 +11,8 @@
 ```csharp
 public class SleeveEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class SleeveEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class SleeveEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип WireSetManipulatorSleeveEventArgs предоставляет следующие члены.

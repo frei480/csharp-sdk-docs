@@ -11,18 +11,8 @@
 ```csharp
 public bool VerticalFaces { get; set; }
 ```
-```vb
-Public Property VerticalFaces As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool VerticalFaces {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

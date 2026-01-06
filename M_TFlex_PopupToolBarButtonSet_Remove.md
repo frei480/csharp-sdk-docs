@@ -13,17 +13,8 @@ public void Remove(
 	int id
 )
 ```
-```vb
-Public Sub Remove ( 
-	id As Integer
-)
-```
-```cpp
-public:
-void Remove(
-	int id
-)
-```
+
+
 
 
 #### Параметры

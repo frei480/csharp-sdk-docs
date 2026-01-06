@@ -8,16 +8,8 @@
 ```csharp
 public Options2D Options2D { get; }
 ```
-```vb
-Public ReadOnly Property Options2D As Options2D
-	Get
-```
-```cpp
-public:
-property Options2D^ Options2D {
-	Options2D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

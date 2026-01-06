@@ -11,13 +11,8 @@
 ```csharp
 public bool MoveToFrontRecord()
 ```
-```vb
-Public Function MoveToFrontRecord As Boolean
-```
-```cpp
-public:
-bool MoveToFrontRecord()
-```
+
+
 
 
 #### Возвращаемое значение

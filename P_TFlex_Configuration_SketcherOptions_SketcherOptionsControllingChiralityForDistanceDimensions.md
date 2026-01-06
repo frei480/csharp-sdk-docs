@@ -8,18 +8,8 @@
 ```csharp
 public bool SketcherOptionsControllingChiralityForDistanceDimensions { get; set; }
 ```
-```vb
-Public Property SketcherOptionsControllingChiralityForDistanceDimensions As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SketcherOptionsControllingChiralityForDistanceDimensions {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

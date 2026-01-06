@@ -15,21 +15,8 @@ public Data(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	id As ULong,
-	name As String,
-	page As Page
-)
-```
-```cpp
-public:
-Data(
-	unsigned long long id, 
-	String^ name, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

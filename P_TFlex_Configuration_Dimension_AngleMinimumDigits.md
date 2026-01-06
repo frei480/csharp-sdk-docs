@@ -8,18 +8,8 @@
 ```csharp
 public IntParameter AngleMinimumDigits { get; set; }
 ```
-```vb
-Public Property AngleMinimumDigits As IntParameter
-	Get
-	Set
-```
-```cpp
-public:
-property IntParameter^ AngleMinimumDigits {
-	IntParameter^ get ();
-	void set (IntParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

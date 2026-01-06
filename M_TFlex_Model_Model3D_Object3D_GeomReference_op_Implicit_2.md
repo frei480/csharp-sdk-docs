@@ -10,16 +10,8 @@ public static implicit operator Object3DGeomReference (
 	ModelBox box
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	box As ModelBox
-) As Object3DGeomReference
-```
-```cpp
-static implicit operator Object3DGeomReference^ (
-	ModelBox^ box
-)
-```
+
+
 
 
 #### Параметры

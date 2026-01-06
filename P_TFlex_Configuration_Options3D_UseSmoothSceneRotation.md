@@ -8,18 +8,8 @@
 ```csharp
 public bool UseSmoothSceneRotation { get; set; }
 ```
-```vb
-Public Property UseSmoothSceneRotation As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseSmoothSceneRotation {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

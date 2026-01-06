@@ -11,13 +11,8 @@
 ```csharp
 public class Bound : IDisposable
 ```
-```vb
-Public Class Bound
-	Implements IDisposable
-```
-```cpp
-public ref class Bound : IDisposable
-```
+
+
 
 
 Тип BoundedExtrusionBound предоставляет следующие члены.

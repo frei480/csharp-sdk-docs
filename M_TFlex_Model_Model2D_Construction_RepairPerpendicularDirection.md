@@ -8,13 +8,8 @@
 ```csharp
 public void RepairPerpendicularDirection()
 ```
-```vb
-Public Sub RepairPerpendicularDirection
-```
-```cpp
-public:
-void RepairPerpendicularDirection()
-```
+
+
 
 
 #### Ссылки

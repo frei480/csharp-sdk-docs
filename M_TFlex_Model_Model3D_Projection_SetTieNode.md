@@ -13,17 +13,8 @@ public void SetTieNode(
 	Node nfix
 )
 ```
-```vb
-Public Sub SetTieNode ( 
-	nfix As Node
-)
-```
-```cpp
-public:
-void SetTieNode(
-	Node^ nfix
-)
-```
+
+
 
 
 #### Параметры

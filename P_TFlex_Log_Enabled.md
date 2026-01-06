@@ -8,16 +8,8 @@
 ```csharp
 public static bool Enabled { get; }
 ```
-```vb
-Public Shared ReadOnly Property Enabled As Boolean
-	Get
-```
-```cpp
-public:
-static property bool Enabled {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

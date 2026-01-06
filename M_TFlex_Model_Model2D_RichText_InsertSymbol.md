@@ -14,19 +14,8 @@ public void InsertSymbol(
 	bool fIgnoreFontAngularity
 )
 ```
-```vb
-Public Sub InsertSymbol ( 
-	code As UInteger,
-	fIgnoreFontAngularity As Boolean
-)
-```
-```cpp
-public:
-void InsertSymbol(
-	unsigned int code, 
-	bool fIgnoreFontAngularity
-)
-```
+
+
 
 
 #### Параметры

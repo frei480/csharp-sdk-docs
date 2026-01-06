@@ -11,12 +11,8 @@
 ```csharp
 public enum SectionViewStandard
 ```
-```vb
-Public Enumeration SectionViewStandard
-```
-```cpp
-public enum class SectionViewStandard
-```
+
+
 
 
 | Имя члена | Значение | Описание |

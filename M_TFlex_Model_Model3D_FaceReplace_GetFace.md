@@ -16,23 +16,8 @@ public bool GetFace(
 	ref bool reverse
 )
 ```
-```vb
-Public Function GetFace ( 
-	nFace As Integer,
-	ByRef face As ModelFace,
-	ByRef surface As ModelSurface,
-	ByRef reverse As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool GetFace(
-	int nFace, 
-	ModelFace^% face, 
-	ModelSurface^% surface, 
-	bool% reverse
-)
-```
+
+
 
 
 #### Параметры

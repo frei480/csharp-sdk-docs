@@ -14,19 +14,8 @@ public void SetPositionOnSurface(
 	Parameter pParam
 )
 ```
-```vb
-Public Sub SetPositionOnSurface ( 
-	indCoord As Coordinate,
-	pParam As Parameter
-)
-```
-```cpp
-public:
-void SetPositionOnSurface(
-	Coordinate indCoord, 
-	Parameter^ pParam
-)
-```
+
+
 
 
 #### Параметры

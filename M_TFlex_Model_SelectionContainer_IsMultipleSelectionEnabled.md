@@ -8,13 +8,8 @@
 ```csharp
 public bool IsMultipleSelectionEnabled()
 ```
-```vb
-Public Function IsMultipleSelectionEnabled As Boolean
-```
-```cpp
-public:
-bool IsMultipleSelectionEnabled()
-```
+
+
 
 
 #### Возвращаемое значение

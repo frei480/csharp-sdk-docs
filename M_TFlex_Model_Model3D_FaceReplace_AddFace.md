@@ -15,21 +15,8 @@ public void AddFace(
 	bool reverse
 )
 ```
-```vb
-Public Sub AddFace ( 
-	face As ModelFace,
-	surface As ModelSurface,
-	reverse As Boolean
-)
-```
-```cpp
-public:
-void AddFace(
-	ModelFace^ face, 
-	ModelSurface^ surface, 
-	bool reverse
-)
-```
+
+
 
 
 #### Параметры

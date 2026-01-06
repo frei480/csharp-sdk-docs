@@ -14,19 +14,8 @@ public void Add(
 	double y
 )
 ```
-```vb
-Public Sub Add ( 
-	x As Double,
-	y As Double
-)
-```
-```cpp
-public:
-void Add(
-	double x, 
-	double y
-)
-```
+
+
 
 
 #### Параметры

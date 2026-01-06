@@ -11,12 +11,8 @@
 ```csharp
 public enum WrapPanelControlOrientation
 ```
-```vb
-Public Enumeration WrapPanelControlOrientation
-```
-```cpp
-public enum class WrapPanelControlOrientation
-```
+
+
 
 
 | Имя члена | Значение | Описание |

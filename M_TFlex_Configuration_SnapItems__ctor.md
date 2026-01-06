@@ -11,13 +11,8 @@
 ```csharp
 public SnapItems()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SnapItems()
-```
+
+
 
 
 #### Ссылки

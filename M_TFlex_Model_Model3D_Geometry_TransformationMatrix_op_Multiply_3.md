@@ -11,19 +11,8 @@ public static Point3D operator *(
 	TransformationMatrix tr
 )
 ```
-```vb
-Public Shared Operator * ( 
-	point As BasePoint3D,
-	tr As TransformationMatrix
-) As Point3D
-```
-```cpp
-public:
-static Point3D^ operator *(
-	BasePoint3D^ point, 
-	TransformationMatrix^ tr
-)
-```
+
+
 
 
 #### Параметры

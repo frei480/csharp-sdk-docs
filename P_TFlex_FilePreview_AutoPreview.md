@@ -11,18 +11,8 @@
 ```csharp
 public bool AutoPreview { get; set; }
 ```
-```vb
-Public Property AutoPreview As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoPreview {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

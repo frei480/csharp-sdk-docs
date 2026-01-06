@@ -13,12 +13,8 @@
 ```csharp
 public struct OutlineDashStyleItem
 ```
-```vb
-Public Structure OutlineDashStyleItem
-```
-```cpp
-public value class OutlineDashStyleItem
-```
+
+
 
 
 Тип OutlineDashStyleItem предоставляет следующие члены.

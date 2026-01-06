@@ -13,12 +13,8 @@
 ```csharp
 public struct CharFormat
 ```
-```vb
-Public Structure CharFormat
-```
-```cpp
-public value class CharFormat
-```
+
+
 
 
 Тип CharFormat предоставляет следующие члены.

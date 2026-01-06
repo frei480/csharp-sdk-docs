@@ -8,18 +8,8 @@
 ```csharp
 public List<ModelObject> Parents { get; set; }
 ```
-```vb
-Public Property Parents As List(Of ModelObject)
-	Get
-	Set
-```
-```cpp
-public:
-property List<ModelObject^>^ Parents {
-	List<ModelObject^>^ get ();
-	void set (List<ModelObject^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

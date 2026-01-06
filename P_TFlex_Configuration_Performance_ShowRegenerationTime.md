@@ -8,18 +8,8 @@
 ```csharp
 public bool ShowRegenerationTime { get; set; }
 ```
-```vb
-Public Property ShowRegenerationTime As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowRegenerationTime {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

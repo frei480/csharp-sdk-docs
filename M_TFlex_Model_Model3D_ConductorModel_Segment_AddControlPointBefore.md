@@ -11,19 +11,8 @@ public Point AddControlPointBefore(
 	BasePoint3D position
 )
 ```
-```vb
-Public Function AddControlPointBefore ( 
-	point As BasePoint,
-	position As BasePoint3D
-) As Point
-```
-```cpp
-public:
-Point^ AddControlPointBefore(
-	BasePoint^ point, 
-	BasePoint3D^ position
-)
-```
+
+
 
 
 #### Параметры

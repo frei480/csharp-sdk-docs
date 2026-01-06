@@ -11,13 +11,8 @@
 ```csharp
 public void DeleteAllSegments()
 ```
-```vb
-Public Sub DeleteAllSegments
-```
-```cpp
-public:
-void DeleteAllSegments()
-```
+
+
 
 
 #### Ссылки

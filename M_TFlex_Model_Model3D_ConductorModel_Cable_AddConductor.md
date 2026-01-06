@@ -10,17 +10,8 @@ public bool AddConductor(
 	Conductor conductor
 )
 ```
-```vb
-Public Function AddConductor ( 
-	conductor As Conductor
-) As Boolean
-```
-```cpp
-public:
-bool AddConductor(
-	Conductor^ conductor
-)
-```
+
+
 
 
 #### Параметры

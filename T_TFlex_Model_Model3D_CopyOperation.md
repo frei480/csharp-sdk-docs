@@ -13,13 +13,8 @@
 ```csharp
 public class CopyOperation : CopyBaseOperation
 ```
-```vb
-Public Class CopyOperation
-	Inherits CopyBaseOperation
-```
-```cpp
-public ref class CopyOperation : public CopyBaseOperation
-```
+
+
 
 
 Тип CopyOperation предоставляет следующие члены.

@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Acceleration
 ```
-```vb
-Public NotInheritable Class Acceleration
-```
-```cpp
-public ref class Acceleration sealed
-```
+
+
 
 
 Тип StandardUnitsAcceleration предоставляет следующие члены.

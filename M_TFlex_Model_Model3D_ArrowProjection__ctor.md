@@ -13,17 +13,8 @@ public ArrowProjection(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ArrowProjection(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

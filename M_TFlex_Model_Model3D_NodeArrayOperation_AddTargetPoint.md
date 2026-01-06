@@ -13,17 +13,8 @@ public void AddTargetPoint(
 	ModelPoint3D Point
 )
 ```
-```vb
-Public Sub AddTargetPoint ( 
-	Point As ModelPoint3D
-)
-```
-```cpp
-public:
-void AddTargetPoint(
-	ModelPoint3D^ Point
-)
-```
+
+
 
 
 #### Параметры

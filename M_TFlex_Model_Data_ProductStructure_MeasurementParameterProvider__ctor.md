@@ -11,13 +11,8 @@
 ```csharp
 public MeasurementParameterProvider()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MeasurementParameterProvider()
-```
+
+
 
 
 #### Ссылки

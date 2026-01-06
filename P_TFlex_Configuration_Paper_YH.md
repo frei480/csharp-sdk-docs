@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter YH { get; set; }
 ```
-```vb
-Public Property YH As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ YH {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

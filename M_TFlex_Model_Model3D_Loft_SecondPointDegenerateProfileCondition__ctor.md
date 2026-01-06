@@ -14,19 +14,8 @@ public SecondPointDegenerateProfileCondition(
 	Parameter magnitude
 )
 ```
-```vb
-Public Sub New ( 
-	secondPoint As ModelPoint3D,
-	magnitude As Parameter
-)
-```
-```cpp
-public:
-SecondPointDegenerateProfileCondition(
-	ModelPoint3D^ secondPoint, 
-	Parameter^ magnitude
-)
-```
+
+
 
 
 #### Параметры

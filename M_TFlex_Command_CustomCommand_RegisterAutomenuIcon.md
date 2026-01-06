@@ -11,19 +11,8 @@ public static int RegisterAutomenuIcon(
 	Icon icon
 )
 ```
-```vb
-Public Shared Function RegisterAutomenuIcon ( 
-	iconId As Guid,
-	icon As Icon
-) As Integer
-```
-```cpp
-public:
-static int RegisterAutomenuIcon(
-	Guid iconId, 
-	Icon^ icon
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public class ProductStructureInfo
 ```
-```vb
-Public Class ProductStructureInfo
-```
-```cpp
-public ref class ProductStructureInfo
-```
+
+
 
 
 Тип ProductStructureInfo предоставляет следующие члены.

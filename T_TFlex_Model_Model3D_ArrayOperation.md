@@ -13,13 +13,8 @@
 ```csharp
 public class ArrayOperation : Operation
 ```
-```vb
-Public Class ArrayOperation
-	Inherits Operation
-```
-```cpp
-public ref class ArrayOperation : public Operation
-```
+
+
 
 
 Тип ArrayOperation предоставляет следующие члены.

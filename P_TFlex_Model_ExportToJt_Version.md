@@ -11,18 +11,8 @@
 ```csharp
 public ExportToJtVersion Version { get; set; }
 ```
-```vb
-Public Property Version As ExportToJtVersion
-	Get
-	Set
-```
-```cpp
-public:
-property ExportToJtVersion Version {
-	ExportToJtVersion get ();
-	void set (ExportToJtVersion value);
-}
-```
+
+
 
 
 #### Значение свойства

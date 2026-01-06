@@ -13,15 +13,8 @@
 ```csharp
 public class Body : BaseBody, IDisposable
 ```
-```vb
-Public Class Body
-	Inherits BaseBody
-	Implements IDisposable
-```
-```cpp
-public ref class Body : public BaseBody, 
-	IDisposable
-```
+
+
 
 
 Тип Body предоставляет следующие члены.

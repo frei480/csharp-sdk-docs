@@ -13,13 +13,8 @@
 ```csharp
 public class MultilineText : RichText
 ```
-```vb
-Public Class MultilineText
-	Inherits RichText
-```
-```cpp
-public ref class MultilineText : public RichText
-```
+
+
 
 
 Тип MultilineText предоставляет следующие члены.

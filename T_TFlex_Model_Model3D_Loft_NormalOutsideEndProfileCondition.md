@@ -13,13 +13,8 @@
 ```csharp
 public class NormalOutsideEndProfileCondition : LoftEndProfileCondition
 ```
-```vb
-Public Class NormalOutsideEndProfileCondition
-	Inherits LoftEndProfileCondition
-```
-```cpp
-public ref class NormalOutsideEndProfileCondition : public LoftEndProfileCondition
-```
+
+
 
 
 Тип LoftNormalOutsideEndProfileCondition предоставляет следующие члены.

@@ -13,23 +13,8 @@ public Conductor CreateConductor(
 	Guid key
 )
 ```
-```vb
-Public Function CreateConductor ( 
-	material As MaterialParameter,
-	coatingMaterial As MaterialParameter,
-	color As Parameter,
-	key As Guid
-) As Conductor
-```
-```cpp
-public:
-Conductor^ CreateConductor(
-	MaterialParameter^ material, 
-	MaterialParameter^ coatingMaterial, 
-	Parameter^ color, 
-	Guid key
-)
-```
+
+
 
 
 #### Параметры

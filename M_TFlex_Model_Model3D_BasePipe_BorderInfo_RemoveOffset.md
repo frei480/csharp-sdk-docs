@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveOffset()
 ```
-```vb
-Public Sub RemoveOffset
-```
-```cpp
-public:
-void RemoveOffset()
-```
+
+
 
 
 #### Ссылки

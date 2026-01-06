@@ -13,17 +13,8 @@ public ProjectionNode(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ProjectionNode(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

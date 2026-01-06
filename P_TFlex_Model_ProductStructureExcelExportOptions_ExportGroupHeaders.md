@@ -8,18 +8,8 @@
 ```csharp
 public bool ExportGroupHeaders { get; set; }
 ```
-```vb
-Public Property ExportGroupHeaders As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ExportGroupHeaders {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

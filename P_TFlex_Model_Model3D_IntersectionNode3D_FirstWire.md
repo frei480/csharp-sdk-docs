@@ -11,18 +11,8 @@
 ```csharp
 public Wire FirstWire { get; set; }
 ```
-```vb
-Public Property FirstWire As Wire
-	Get
-	Set
-```
-```cpp
-public:
-property Wire^ FirstWire {
-	Wire^ get ();
-	void set (Wire^ value);
-}
-```
+
+
 
 
 #### Значение свойства

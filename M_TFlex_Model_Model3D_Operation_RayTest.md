@@ -12,21 +12,8 @@ public static List<int> RayTest(
 	ValueType rayDir
 )
 ```
-```vb
-Public Shared Function RayTest ( 
-	operation As Operation,
-	rayOrigin As ValueType,
-	rayDir As ValueType
-) As List(Of Integer)
-```
-```cpp
-public:
-static List<int>^ RayTest(
-	Operation^ operation, 
-	ValueType^ rayOrigin, 
-	ValueType^ rayDir
-)
-```
+
+
 
 
 #### Параметры

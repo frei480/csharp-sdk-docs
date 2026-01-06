@@ -14,19 +14,8 @@ public bool InsertChild(
 	SceneNode node
 )
 ```
-```vb
-Public Function InsertChild ( 
-	index As Integer,
-	node As SceneNode
-) As Boolean
-```
-```cpp
-public:
-bool InsertChild(
-	int index, 
-	SceneNode^ node
-)
-```
+
+
 
 
 #### Параметры

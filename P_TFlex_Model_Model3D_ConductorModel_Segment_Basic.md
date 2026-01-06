@@ -8,18 +8,8 @@
 ```csharp
 public bool Basic { get; set; }
 ```
-```vb
-Public Property Basic As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Basic {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

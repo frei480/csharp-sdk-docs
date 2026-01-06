@@ -15,21 +15,8 @@ public ChangesResult EndChanges(
 	bool Merge
 )
 ```
-```vb
-Public Function EndChanges ( 
-	Unconditionally As Boolean,
-	Regenerate As Boolean,
-	Merge As Boolean
-) As ChangesResult
-```
-```cpp
-public:
-ChangesResult EndChanges(
-	bool Unconditionally, 
-	bool Regenerate, 
-	bool Merge
-)
-```
+
+
 
 
 #### Параметры

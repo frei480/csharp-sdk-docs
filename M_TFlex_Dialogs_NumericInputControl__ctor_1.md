@@ -13,17 +13,8 @@ public NumericInputControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-NumericInputControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

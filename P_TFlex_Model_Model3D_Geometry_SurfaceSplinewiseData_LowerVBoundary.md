@@ -11,16 +11,8 @@
 ```csharp
 public SurfaceSplinewiseDataBoundaryCondition LowerVBoundary { get; }
 ```
-```vb
-Public ReadOnly Property LowerVBoundary As SurfaceSplinewiseDataBoundaryCondition
-	Get
-```
-```cpp
-public:
-property SurfaceSplinewiseDataBoundaryCondition^ LowerVBoundary {
-	SurfaceSplinewiseDataBoundaryCondition^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class Element : ModelObject
 ```
-```vb
-Public Class Element
-	Inherits ModelObject
-```
-```cpp
-public ref class Element : public ModelObject
-```
+
+
 
 
 Тип Element предоставляет следующие члены.

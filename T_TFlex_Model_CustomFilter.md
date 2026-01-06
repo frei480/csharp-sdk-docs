@@ -13,13 +13,8 @@
 ```csharp
 public class CustomFilter : SelectionFilter
 ```
-```vb
-Public Class CustomFilter
-	Inherits SelectionFilter
-```
-```cpp
-public ref class CustomFilter : public SelectionFilter
-```
+
+
 
 
 Тип CustomFilter предоставляет следующие члены.

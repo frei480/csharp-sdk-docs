@@ -14,19 +14,8 @@ public ObjectSelectControlItem(
 	Icon icon
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	icon As Icon
-)
-```
-```cpp
-public:
-ObjectSelectControlItem(
-	String^ name, 
-	Icon^ icon
-)
-```
+
+
 
 
 #### Параметры

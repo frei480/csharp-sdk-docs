@@ -11,16 +11,8 @@
 ```csharp
 public static bool IsDOCsEnabled { get; }
 ```
-```vb
-Public Shared ReadOnly Property IsDOCsEnabled As Boolean
-	Get
-```
-```cpp
-public:
-static property bool IsDOCsEnabled {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

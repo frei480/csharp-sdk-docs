@@ -11,16 +11,8 @@
 ```csharp
 public string BodyName { get; }
 ```
-```vb
-Public ReadOnly Property BodyName As String
-	Get
-```
-```cpp
-public:
-property String^ BodyName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

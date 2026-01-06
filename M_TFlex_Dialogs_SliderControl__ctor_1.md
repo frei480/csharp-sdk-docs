@@ -13,17 +13,8 @@ public SliderControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-SliderControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

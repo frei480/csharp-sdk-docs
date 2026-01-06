@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ParentObject
 ```
-```vb
-Public NotInheritable Class ParentObject
-```
-```cpp
-public ref class ParentObject sealed
-```
+
+
 
 
 Тип ParentObject предоставляет следующие члены.

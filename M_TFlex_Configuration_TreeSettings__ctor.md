@@ -11,13 +11,8 @@
 ```csharp
 public TreeSettings()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-TreeSettings()
-```
+
+
 
 
 #### Ссылки

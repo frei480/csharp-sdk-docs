@@ -13,13 +13,8 @@
 ```csharp
 public abstract class UiObject : IDisposable
 ```
-```vb
-Public MustInherit Class UiObject
-	Implements IDisposable
-```
-```cpp
-public ref class UiObject abstract : IDisposable
-```
+
+
 
 
 Тип UiObject предоставляет следующие члены.

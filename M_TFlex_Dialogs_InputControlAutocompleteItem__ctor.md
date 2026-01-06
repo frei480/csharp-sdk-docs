@@ -11,13 +11,8 @@
 ```csharp
 public InputControlAutocompleteItem()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-InputControlAutocompleteItem()
-```
+
+
 
 
 #### Ссылки

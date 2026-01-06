@@ -11,18 +11,8 @@
 ```csharp
 public Point PaperPoint { get; set; }
 ```
-```vb
-Public Property PaperPoint As Point
-	Get
-	Set
-```
-```cpp
-public:
-property Point PaperPoint {
-	Point get ();
-	void set (Point value);
-}
-```
+
+
 
 
 #### Значение свойства

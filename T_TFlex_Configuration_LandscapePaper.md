@@ -8,12 +8,8 @@
 ```csharp
 public enum LandscapePaper
 ```
-```vb
-Public Enumeration LandscapePaper
-```
-```cpp
-public enum class LandscapePaper
-```
+
+
 
 
 | Имя члена | Значение | Описание |

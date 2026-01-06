@@ -14,19 +14,8 @@ public static Document NewDocument(
 	bool visible
 )
 ```
-```vb
-Public Shared Function NewDocument ( 
-	b3D As Boolean,
-	visible As Boolean
-) As Document
-```
-```cpp
-public:
-static Document^ NewDocument(
-	bool b3D, 
-	bool visible
-)
-```
+
+
 
 
 #### Параметры

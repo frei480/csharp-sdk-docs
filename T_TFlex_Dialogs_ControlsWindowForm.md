@@ -14,15 +14,8 @@
 public sealed class ControlsWindowForm : PropertiesWindowFormBase, 
 	IDisposable
 ```
-```vb
-Public NotInheritable Class ControlsWindowForm
-	Inherits PropertiesWindowFormBase
-	Implements IDisposable
-```
-```cpp
-public ref class ControlsWindowForm sealed : public PropertiesWindowFormBase, 
-	IDisposable
-```
+
+
 
 
 Тип ControlsWindowForm предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public class CustomFilePathAttribute : Attribute
 ```
-```vb
-Public Class CustomFilePathAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomFilePathAttribute : public Attribute
-```
+
+
 
 
 Тип CustomFilePathAttribute предоставляет следующие члены.

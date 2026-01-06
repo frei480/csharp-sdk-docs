@@ -8,16 +8,8 @@
 ```csharp
 public IEnumerable<ModelPoint3D> Points { get; }
 ```
-```vb
-Public ReadOnly Property Points As IEnumerable(Of ModelPoint3D)
-	Get
-```
-```cpp
-public:
-property IEnumerable<ModelPoint3D^>^ Points {
-	IEnumerable<ModelPoint3D^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

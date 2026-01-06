@@ -11,18 +11,8 @@
 ```csharp
 public CircleToCircleAxisOutlineCircleToCircleAxisType AxisType { get; set; }
 ```
-```vb
-Public Property AxisType As CircleToCircleAxisOutlineCircleToCircleAxisType
-	Get
-	Set
-```
-```cpp
-public:
-property CircleToCircleAxisOutlineCircleToCircleAxisType AxisType {
-	CircleToCircleAxisOutlineCircleToCircleAxisType get ();
-	void set (CircleToCircleAxisOutlineCircleToCircleAxisType value);
-}
-```
+
+
 
 
 #### Значение свойства

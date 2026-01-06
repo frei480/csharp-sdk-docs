@@ -13,17 +13,8 @@ public RunResult(
 	IEnumerable<RunResultEntry> entries
 )
 ```
-```vb
-Public Sub New ( 
-	entries As IEnumerable(Of RunResultEntry)
-)
-```
-```cpp
-public:
-RunResult(
-	IEnumerable<RunResultEntry^>^ entries
-)
-```
+
+
 
 
 #### Параметры

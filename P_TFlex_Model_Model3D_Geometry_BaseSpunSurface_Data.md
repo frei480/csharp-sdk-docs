@@ -11,15 +11,8 @@
 ```csharp
 SpunData Data { get; }
 ```
-```vb
-ReadOnly Property Data As SpunData
-	Get
-```
-```cpp
-property SpunData^ Data {
-	SpunData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

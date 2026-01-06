@@ -11,16 +11,8 @@
 ```csharp
 public CircularDimensionType CircularDimType { get; }
 ```
-```vb
-Public ReadOnly Property CircularDimType As CircularDimensionType
-	Get
-```
-```cpp
-public:
-property CircularDimensionType CircularDimType {
-	CircularDimensionType get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,16 +10,8 @@ public static implicit operator SplinewiseDataPositionsPosition (
 	BasePoint3D point
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	point As BasePoint3D
-) As SplinewiseDataPositionsPosition
-```
-```cpp
-static implicit operator SplinewiseDataPositionsPosition^ (
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

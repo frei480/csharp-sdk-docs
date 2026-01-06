@@ -8,12 +8,8 @@
 ```csharp
 public enum IconSaveType
 ```
-```vb
-Public Enumeration IconSaveType
-```
-```cpp
-public enum class IconSaveType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

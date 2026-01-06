@@ -8,18 +8,8 @@
 ```csharp
 public bool Dual { get; set; }
 ```
-```vb
-Public Property Dual As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Dual {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public int CountGuides()
 ```
-```vb
-Public Function CountGuides As Integer
-```
-```cpp
-public:
-int CountGuides()
-```
+
+
 
 
 #### Возвращаемое значение

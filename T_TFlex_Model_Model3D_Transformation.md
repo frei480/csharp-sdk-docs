@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Transformation : ModelObject
 ```
-```vb
-Public MustInherit Class Transformation
-	Inherits ModelObject
-```
-```cpp
-public ref class Transformation abstract : public ModelObject
-```
+
+
 
 
 Тип Transformation предоставляет следующие члены.

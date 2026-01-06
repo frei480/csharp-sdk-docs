@@ -11,13 +11,8 @@
 ```csharp
 public static void TerminateAllCommands()
 ```
-```vb
-Public Shared Sub TerminateAllCommands
-```
-```cpp
-public:
-static void TerminateAllCommands()
-```
+
+
 
 
 #### Ссылки

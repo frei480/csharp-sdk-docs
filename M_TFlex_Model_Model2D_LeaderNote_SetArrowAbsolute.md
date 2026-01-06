@@ -14,19 +14,8 @@ public void SetArrowAbsolute(
 	Parameter y
 )
 ```
-```vb
-Public Sub SetArrowAbsolute ( 
-	x As Parameter,
-	y As Parameter
-)
-```
-```cpp
-public:
-void SetArrowAbsolute(
-	Parameter^ x, 
-	Parameter^ y
-)
-```
+
+
 
 
 #### Параметры

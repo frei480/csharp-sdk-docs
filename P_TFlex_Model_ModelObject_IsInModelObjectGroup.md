@@ -11,16 +11,8 @@
 ```csharp
 public bool IsInModelObjectGroup { get; }
 ```
-```vb
-Public ReadOnly Property IsInModelObjectGroup As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsInModelObjectGroup {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public bool ExcludeInvisibleElems { get; set; }
 ```
-```vb
-Public Property ExcludeInvisibleElems As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ExcludeInvisibleElems {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

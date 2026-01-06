@@ -8,12 +8,8 @@
 ```csharp
 public enum MenuType
 ```
-```vb
-Public Enumeration MenuType
-```
-```cpp
-public enum class MenuType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

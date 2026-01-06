@@ -8,16 +8,8 @@
 ```csharp
 public IEnumerable<CurveTrimmedData> Curves { get; }
 ```
-```vb
-Public ReadOnly Property Curves As IEnumerable(Of CurveTrimmedData)
-	Get
-```
-```cpp
-public:
-property IEnumerable<CurveTrimmedData^>^ Curves {
-	IEnumerable<CurveTrimmedData^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

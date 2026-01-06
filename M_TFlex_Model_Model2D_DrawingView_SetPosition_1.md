@@ -14,19 +14,8 @@ public void SetPosition(
 	Parameter angle
 )
 ```
-```vb
-Public Sub SetPosition ( 
-	node As Node,
-	angle As Parameter
-)
-```
-```cpp
-public:
-void SetPosition(
-	Node^ node, 
-	Parameter^ angle
-)
-```
+
+
 
 
 #### Параметры

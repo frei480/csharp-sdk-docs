@@ -13,17 +13,8 @@ public CutOperation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-CutOperation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public ThreadSpecification Spec { get; }
 ```
-```vb
-Public ReadOnly Property Spec As ThreadSpecification
-	Get
-```
-```cpp
-public:
-property ThreadSpecification^ Spec {
-	ThreadSpecification^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

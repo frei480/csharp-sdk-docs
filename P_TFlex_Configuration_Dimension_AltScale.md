@@ -8,18 +8,8 @@
 ```csharp
 public DimensionScale AltScale { get; set; }
 ```
-```vb
-Public Property AltScale As DimensionScale
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionScale AltScale {
-	DimensionScale get ();
-	void set (DimensionScale value);
-}
-```
+
+
 
 
 #### Значение свойства

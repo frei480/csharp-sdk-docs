@@ -8,16 +8,8 @@
 ```csharp
 public List<uint> Elements { get; }
 ```
-```vb
-Public ReadOnly Property Elements As List(Of UInteger)
-	Get
-```
-```cpp
-public:
-property List<unsigned int>^ Elements {
-	List<unsigned int>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

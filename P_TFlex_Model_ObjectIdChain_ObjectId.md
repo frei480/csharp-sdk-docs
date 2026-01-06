@@ -8,16 +8,8 @@
 ```csharp
 public ObjectId ObjectId { get; }
 ```
-```vb
-Public ReadOnly Property ObjectId As ObjectId
-	Get
-```
-```cpp
-public:
-property ObjectId^ ObjectId {
-	ObjectId^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

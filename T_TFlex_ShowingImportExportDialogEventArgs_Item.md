@@ -11,12 +11,8 @@
 ```csharp
 public class Item
 ```
-```vb
-Public Class Item
-```
-```cpp
-public ref class Item
-```
+
+
 
 
 Тип ShowingImportExportDialogEventArgsItem предоставляет следующие члены.

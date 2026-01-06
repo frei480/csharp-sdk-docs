@@ -11,16 +11,8 @@
 ```csharp
 public OnFaceOffsetPointAdjacent FirstAdjacent { get; }
 ```
-```vb
-Public ReadOnly Property FirstAdjacent As OnFaceOffsetPointAdjacent
-	Get
-```
-```cpp
-public:
-property OnFaceOffsetPointAdjacent^ FirstAdjacent {
-	OnFaceOffsetPointAdjacent^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

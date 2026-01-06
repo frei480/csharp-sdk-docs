@@ -11,13 +11,8 @@
 ```csharp
 public Annotation()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Annotation()
-```
+
+
 
 
 #### Ссылки

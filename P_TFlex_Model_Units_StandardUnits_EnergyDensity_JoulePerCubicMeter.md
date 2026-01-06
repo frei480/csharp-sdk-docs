@@ -13,16 +13,8 @@
 ```csharp
 public static Unit JoulePerCubicMeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property JoulePerCubicMeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ JoulePerCubicMeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

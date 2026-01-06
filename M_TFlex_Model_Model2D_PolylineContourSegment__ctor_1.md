@@ -14,19 +14,8 @@ public PolylineContourSegment(
 	int index
 )
 ```
-```vb
-Public Sub New ( 
-	source As Contour,
-	index As Integer
-)
-```
-```cpp
-public:
-PolylineContourSegment(
-	Contour^ source, 
-	int index
-)
-```
+
+
 
 
 #### Параметры

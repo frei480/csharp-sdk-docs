@@ -11,13 +11,8 @@
 ```csharp
 public class VarParameter : BaseParameter
 ```
-```vb
-Public Class VarParameter
-	Inherits BaseParameter
-```
-```cpp
-public ref class VarParameter : public BaseParameter
-```
+
+
 
 
 Тип VarParameter предоставляет следующие члены.

@@ -11,12 +11,8 @@
 ```csharp
 public enum FormType
 ```
-```vb
-Public Enumeration FormType
-```
-```cpp
-public enum class FormType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

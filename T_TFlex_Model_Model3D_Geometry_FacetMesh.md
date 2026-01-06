@@ -14,14 +14,8 @@
 public class FacetMesh : IEnumerator, IEnumerable, 
 	IDisposable
 ```
-```vb
-Public Class FacetMesh
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class FacetMesh : IEnumerator, 
-	IEnumerable, IDisposable
-```
+
+
 
 
 Тип FacetMesh предоставляет следующие члены.

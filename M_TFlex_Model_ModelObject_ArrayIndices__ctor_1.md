@@ -14,19 +14,8 @@ public ArrayIndices(
 	uint index2
 )
 ```
-```vb
-Public Sub New ( 
-	index1 As UInteger,
-	index2 As UInteger
-)
-```
-```cpp
-public:
-ArrayIndices(
-	unsigned int index1, 
-	unsigned int index2
-)
-```
+
+
 
 
 #### Параметры

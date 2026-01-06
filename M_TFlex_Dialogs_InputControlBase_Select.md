@@ -14,19 +14,8 @@ public void Select(
 	int length
 )
 ```
-```vb
-Public Sub Select ( 
-	start As Integer,
-	length As Integer
-)
-```
-```cpp
-public:
-void Select(
-	int start, 
-	int length
-)
-```
+
+
 
 
 #### Параметры

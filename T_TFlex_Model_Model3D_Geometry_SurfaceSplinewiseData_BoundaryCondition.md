@@ -14,14 +14,8 @@
 public class BoundaryCondition : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class BoundaryCondition
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class BoundaryCondition : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип SurfaceSplinewiseDataBoundaryCondition предоставляет следующие члены.

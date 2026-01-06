@@ -13,12 +13,8 @@
 ```csharp
 public class Path
 ```
-```vb
-Public Class Path
-```
-```cpp
-public ref class Path
-```
+
+
 
 
 Тип LoftOperationPath предоставляет следующие члены.

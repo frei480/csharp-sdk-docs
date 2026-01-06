@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToInventor : ExportToFacet
 ```
-```vb
-Public NotInheritable Class ExportToInventor
-	Inherits ExportToFacet
-```
-```cpp
-public ref class ExportToInventor sealed : public ExportToFacet
-```
+
+
 
 
 Тип ExportToInventor предоставляет следующие члены.

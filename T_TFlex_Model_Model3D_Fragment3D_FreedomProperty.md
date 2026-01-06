@@ -13,12 +13,8 @@
 ```csharp
 public class FreedomProperty
 ```
-```vb
-Public Class FreedomProperty
-```
-```cpp
-public ref class FreedomProperty
-```
+
+
 
 
 Тип Fragment3DFreedomProperty предоставляет следующие члены.

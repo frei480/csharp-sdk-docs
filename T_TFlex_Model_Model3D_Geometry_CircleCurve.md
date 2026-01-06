@@ -14,15 +14,8 @@
 public class CircleCurve : Curve, 
 	BaseCircleCurve
 ```
-```vb
-Public Class CircleCurve
-	Inherits Curve
-	Implements BaseCircleCurve
-```
-```cpp
-public ref class CircleCurve : public Curve, 
-	BaseCircleCurve
-```
+
+
 
 
 Тип CircleCurve предоставляет следующие члены.

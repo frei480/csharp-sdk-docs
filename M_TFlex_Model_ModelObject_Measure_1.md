@@ -14,19 +14,8 @@ public static List<Value> Measure(
 	ModelObject lcs
 )
 ```
-```vb
-Public Shared Function Measure ( 
-	objects As ObjectArray,
-	lcs As ModelObject
-) As List(Of Value)
-```
-```cpp
-public:
-static List<Value^>^ Measure(
-	ObjectArray^ objects, 
-	ModelObject^ lcs
-)
-```
+
+
 
 
 #### Параметры

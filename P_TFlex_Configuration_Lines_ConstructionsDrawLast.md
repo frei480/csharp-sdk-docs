@@ -8,18 +8,8 @@
 ```csharp
 public bool ConstructionsDrawLast { get; set; }
 ```
-```vb
-Public Property ConstructionsDrawLast As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ConstructionsDrawLast {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public LinearSizeEnqueuedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LinearSizeEnqueuedEventArgs()
-```
+
+
 
 
 #### Ссылки

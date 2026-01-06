@@ -13,17 +13,8 @@ public void AddFace(
 	ModelFace Face
 )
 ```
-```vb
-Public Sub AddFace ( 
-	Face As ModelFace
-)
-```
-```cpp
-public:
-void AddFace(
-	ModelFace^ Face
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public static bool operator !=(
 	SceneNode second
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	first As SceneNode,
-	second As SceneNode
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	SceneNode^ first, 
-	SceneNode^ second
-)
-```
+
+
 
 
 #### Параметры

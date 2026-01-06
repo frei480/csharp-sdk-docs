@@ -13,17 +13,8 @@ public NodeSection(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-NodeSection(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

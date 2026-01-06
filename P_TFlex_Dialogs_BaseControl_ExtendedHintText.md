@@ -11,18 +11,8 @@
 ```csharp
 public string ExtendedHintText { get; set; }
 ```
-```vb
-Public Property ExtendedHintText As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ExtendedHintText {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

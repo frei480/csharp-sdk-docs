@@ -13,13 +13,8 @@
 ```csharp
 public class DirectionalLight : Light
 ```
-```vb
-Public Class DirectionalLight
-	Inherits Light
-```
-```cpp
-public ref class DirectionalLight : public Light
-```
+
+
 
 
 Тип DirectionalLight предоставляет следующие члены.

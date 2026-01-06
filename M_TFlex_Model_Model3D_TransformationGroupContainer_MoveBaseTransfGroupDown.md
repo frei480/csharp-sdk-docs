@@ -13,17 +13,8 @@ public TransformationGroup MoveBaseTransfGroupDown(
 	TransformationGroup transfGroup
 )
 ```
-```vb
-Public Function MoveBaseTransfGroupDown ( 
-	transfGroup As TransformationGroup
-) As TransformationGroup
-```
-```cpp
-public:
-TransformationGroup^ MoveBaseTransfGroupDown(
-	TransformationGroup^ transfGroup
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public ThreadClass this[
 	int index
 ] { get; }
 ```
-```vb
-Public ReadOnly Property Class ( 
-	side As ThreadSide,
-	index As Integer
-) As ThreadClass
-	Get
-```
-```cpp
-public:
-property ThreadClass Class[ThreadSide side, int index] {
-	ThreadClass get (ThreadSide side, int index);
-}
-```
+
+
 
 
 #### Параметры

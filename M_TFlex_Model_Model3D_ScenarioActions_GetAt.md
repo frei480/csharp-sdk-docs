@@ -10,17 +10,8 @@ public ScenarioAction GetAt(
 	uint index
 )
 ```
-```vb
-Public Function GetAt ( 
-	index As UInteger
-) As ScenarioAction
-```
-```cpp
-public:
-ScenarioAction^ GetAt(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

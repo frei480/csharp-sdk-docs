@@ -13,19 +13,8 @@ public static ICollection<Thread> GetThreads(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetThreads ( 
-	document As Document
-) As ICollection(Of Thread)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Thread^>^ GetThreads(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public List<TermGroup> RemoveEmptyGroups(
 	bool recursive = true
 )
 ```
-```vb
-Public Function RemoveEmptyGroups ( 
-	Optional recursive As Boolean = true
-) As List(Of TermGroup)
-```
-```cpp
-public:
-List<TermGroup^>^ RemoveEmptyGroups(
-	bool recursive = true
-)
-```
+
+
 
 
 #### Параметры

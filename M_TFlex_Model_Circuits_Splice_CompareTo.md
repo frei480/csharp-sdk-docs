@@ -10,17 +10,8 @@ public virtual int CompareTo(
 	Splice obj
 )
 ```
-```vb
-Public Overridable Function CompareTo ( 
-	obj As Splice
-) As Integer
-```
-```cpp
-public:
-virtual int CompareTo(
-	Splice^ obj
-)
-```
+
+
 
 
 #### Параметры

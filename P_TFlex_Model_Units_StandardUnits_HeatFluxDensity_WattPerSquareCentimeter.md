@@ -13,16 +13,8 @@
 ```csharp
 public static Unit WattPerSquareCentimeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property WattPerSquareCentimeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ WattPerSquareCentimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

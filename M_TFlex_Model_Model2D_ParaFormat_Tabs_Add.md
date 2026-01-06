@@ -13,17 +13,8 @@ public void Add(
 	double value
 )
 ```
-```vb
-Public Sub Add ( 
-	value As Double
-)
-```
-```cpp
-public:
-void Add(
-	double value
-)
-```
+
+
 
 
 #### Параметры

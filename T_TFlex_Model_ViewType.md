@@ -8,12 +8,8 @@
 ```csharp
 public enum ViewType
 ```
-```vb
-Public Enumeration ViewType
-```
-```cpp
-public enum class ViewType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -8,16 +8,8 @@
 ```csharp
 public bool IsDoubleClick { get; }
 ```
-```vb
-Public ReadOnly Property IsDoubleClick As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsDoubleClick {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

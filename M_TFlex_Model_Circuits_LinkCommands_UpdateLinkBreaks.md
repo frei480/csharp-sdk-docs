@@ -11,19 +11,8 @@ public static void UpdateLinkBreaks(
 	IEnumerable<MultiLink> mlinks
 )
 ```
-```vb
-Public Shared Sub UpdateLinkBreaks ( 
-	doc As Document,
-	mlinks As IEnumerable(Of MultiLink)
-)
-```
-```cpp
-public:
-static void UpdateLinkBreaks(
-	Document^ doc, 
-	IEnumerable<MultiLink^>^ mlinks
-)
-```
+
+
 
 
 #### Параметры

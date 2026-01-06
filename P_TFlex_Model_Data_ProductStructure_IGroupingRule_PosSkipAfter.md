@@ -8,18 +8,8 @@
 ```csharp
 public uint PosSkipAfter { get; set; }
 ```
-```vb
-Public Property PosSkipAfter As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int PosSkipAfter {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

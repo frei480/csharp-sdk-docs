@@ -8,16 +8,8 @@
 ```csharp
 public Performance Performance { get; }
 ```
-```vb
-Public ReadOnly Property Performance As Performance
-	Get
-```
-```cpp
-public:
-property Performance^ Performance {
-	Performance^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

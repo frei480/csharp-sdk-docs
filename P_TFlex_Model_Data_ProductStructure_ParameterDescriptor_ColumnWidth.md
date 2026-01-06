@@ -8,18 +8,8 @@
 ```csharp
 public int ColumnWidth { get; set; }
 ```
-```vb
-Public Property ColumnWidth As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ColumnWidth {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

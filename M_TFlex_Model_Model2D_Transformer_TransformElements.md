@@ -11,16 +11,8 @@ protected static bool TransformElements(
 	TransformData* td
 )
 ```
-```vb
-Visual Basic не поддерживает интерфейсы API, которые принимают или возвращают небезопасные типы.
-```
-```cpp
-protected:
-static bool TransformElements(
-	List<Object2D^>^ Objects, 
-	TransformData* td
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public Dictionary<Guid, string> MergedCells { get; }
 ```
-```vb
-Public ReadOnly Property MergedCells As Dictionary(Of Guid, String)
-	Get
-```
-```cpp
-public:
-property Dictionary<Guid, String^>^ MergedCells {
-	Dictionary<Guid, String^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

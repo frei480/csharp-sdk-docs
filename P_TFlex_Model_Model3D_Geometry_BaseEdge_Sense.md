@@ -11,15 +11,8 @@
 ```csharp
 bool Sense { get; }
 ```
-```vb
-ReadOnly Property Sense As Boolean
-	Get
-```
-```cpp
-property bool Sense {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public void DeleteAttribute(
 	bool change
 )
 ```
-```vb
-Public Sub DeleteAttribute ( 
-	attribName As String,
-	change As Boolean
-)
-```
-```cpp
-public:
-void DeleteAttribute(
-	String^ attribName, 
-	bool change
-)
-```
+
+
 
 
 #### Параметры

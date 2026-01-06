@@ -10,17 +10,8 @@ public static IParameterProvider Create(
 	ParameterProviderType type
 )
 ```
-```vb
-Public Shared Function Create ( 
-	type As ParameterProviderType
-) As IParameterProvider
-```
-```cpp
-public:
-static IParameterProvider^ Create(
-	ParameterProviderType type
-)
-```
+
+
 
 
 #### Параметры

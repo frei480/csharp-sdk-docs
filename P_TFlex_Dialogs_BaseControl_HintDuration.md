@@ -11,18 +11,8 @@
 ```csharp
 public int HintDuration { get; set; }
 ```
-```vb
-Public Property HintDuration As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int HintDuration {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

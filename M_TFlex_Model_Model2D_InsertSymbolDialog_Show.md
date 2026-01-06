@@ -11,19 +11,8 @@ public bool Show(
 	int Type
 )
 ```
-```vb
-Public Function Show ( 
-	Font As String,
-	Type As Integer
-) As Boolean
-```
-```cpp
-public:
-bool Show(
-	String^ Font, 
-	int Type
-)
-```
+
+
 
 
 #### Параметры

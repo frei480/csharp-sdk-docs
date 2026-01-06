@@ -11,18 +11,8 @@
 ```csharp
 public ModelSheet PartingSheet { get; set; }
 ```
-```vb
-Public Property PartingSheet As ModelSheet
-	Get
-	Set
-```
-```cpp
-public:
-property ModelSheet^ PartingSheet {
-	ModelSheet^ get ();
-	void set (ModelSheet^ value);
-}
-```
+
+
 
 
 #### Значение свойства

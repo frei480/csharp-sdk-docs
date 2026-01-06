@@ -13,12 +13,8 @@
 ```csharp
 public abstract class BlendAttribute
 ```
-```vb
-Public MustInherit Class BlendAttribute
-```
-```cpp
-public ref class BlendAttribute abstract
-```
+
+
 
 
 Тип FaceBlendingBlendAttribute предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public class Object2D : ModelObject
 ```
-```vb
-Public Class Object2D
-	Inherits ModelObject
-```
-```cpp
-public ref class Object2D : public ModelObject
-```
+
+
 
 
 Тип Object2D предоставляет следующие члены.

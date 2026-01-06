@@ -10,17 +10,8 @@ public CreateElementsResult CreateElementsByPrototypes(
 	CreateElementsFromSerializedParameters parameters
 )
 ```
-```vb
-Public Function CreateElementsByPrototypes ( 
-	parameters As CreateElementsFromSerializedParameters
-) As CreateElementsResult
-```
-```cpp
-public:
-CreateElementsResult^ CreateElementsByPrototypes(
-	CreateElementsFromSerializedParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

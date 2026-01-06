@@ -13,17 +13,8 @@ public VariableRadiusAttribute(
 	FaceBlendingPositionData data
 )
 ```
-```vb
-Public Sub New ( 
-	data As FaceBlendingPositionData
-)
-```
-```cpp
-public:
-VariableRadiusAttribute(
-	FaceBlendingPositionData^ data
-)
-```
+
+
 
 
 #### Параметры

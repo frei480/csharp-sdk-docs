@@ -14,19 +14,8 @@ public void AddProfileVectorCondition(
 	LoftVectorCondition condition
 )
 ```
-```vb
-Public Sub AddProfileVectorCondition ( 
-	profileIndex As Integer,
-	condition As LoftVectorCondition
-)
-```
-```cpp
-public:
-void AddProfileVectorCondition(
-	int profileIndex, 
-	LoftVectorCondition^ condition
-)
-```
+
+
 
 
 #### Параметры

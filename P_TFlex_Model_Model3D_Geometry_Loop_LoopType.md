@@ -11,16 +11,8 @@
 ```csharp
 public virtual LoopType LoopType { get; }
 ```
-```vb
-Public Overridable ReadOnly Property LoopType As LoopType
-	Get
-```
-```cpp
-public:
-virtual property LoopType LoopType {
-	LoopType get ();
-}
-```
+
+
 
 
 #### Значение свойства

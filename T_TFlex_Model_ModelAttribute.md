@@ -13,12 +13,8 @@
 ```csharp
 public class ModelAttribute
 ```
-```vb
-Public Class ModelAttribute
-```
-```cpp
-public ref class ModelAttribute
-```
+
+
 
 
 Тип ModelAttribute предоставляет следующие члены.

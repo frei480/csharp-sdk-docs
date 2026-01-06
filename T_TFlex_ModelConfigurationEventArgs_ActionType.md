@@ -8,12 +8,8 @@
 ```csharp
 public enum ActionType
 ```
-```vb
-Public Enumeration ActionType
-```
-```cpp
-public enum class ActionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

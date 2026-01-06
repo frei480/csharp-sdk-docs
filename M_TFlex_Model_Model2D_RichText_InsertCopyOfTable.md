@@ -14,19 +14,8 @@ public Table InsertCopyOfTable(
 	Table table
 )
 ```
-```vb
-Public Function InsertCopyOfTable ( 
-	position As UInteger,
-	table As Table
-) As Table
-```
-```cpp
-public:
-Table InsertCopyOfTable(
-	unsigned int position, 
-	Table table
-)
-```
+
+
 
 
 #### Параметры

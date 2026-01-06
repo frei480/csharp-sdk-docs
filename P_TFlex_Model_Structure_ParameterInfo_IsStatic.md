@@ -8,18 +8,8 @@
 ```csharp
 public bool IsStatic { get; set; }
 ```
-```vb
-Public Property IsStatic As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsStatic {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

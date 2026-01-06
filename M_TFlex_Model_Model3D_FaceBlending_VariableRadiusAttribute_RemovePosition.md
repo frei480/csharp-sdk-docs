@@ -13,17 +13,8 @@ public void RemovePosition(
 	int positionIndex
 )
 ```
-```vb
-Public Sub RemovePosition ( 
-	positionIndex As Integer
-)
-```
-```cpp
-public:
-void RemovePosition(
-	int positionIndex
-)
-```
+
+
 
 
 #### Параметры

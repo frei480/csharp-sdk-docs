@@ -8,13 +8,8 @@
 ```csharp
 public abstract bool GetIsFromStatus()
 ```
-```vb
-Public MustOverride Function GetIsFromStatus As Boolean
-```
-```cpp
-public:
-virtual bool GetIsFromStatus() abstract
-```
+
+
 
 
 #### Возвращаемое значение

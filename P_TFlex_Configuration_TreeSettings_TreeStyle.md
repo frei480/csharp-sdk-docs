@@ -8,18 +8,8 @@
 ```csharp
 public ReportControlTreeStyle TreeStyle { get; set; }
 ```
-```vb
-Public Property TreeStyle As ReportControlTreeStyle
-	Get
-	Set
-```
-```cpp
-public:
-property ReportControlTreeStyle TreeStyle {
-	ReportControlTreeStyle get ();
-	void set (ReportControlTreeStyle value);
-}
-```
+
+
 
 
 #### Значение свойства

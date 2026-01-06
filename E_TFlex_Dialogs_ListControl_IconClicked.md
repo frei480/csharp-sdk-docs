@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<ListControlIconClickedEventArgs> IconClicked
 ```
-```vb
-Public Event IconClicked As EventHandler(Of ListControlIconClickedEventArgs)
-```
-```cpp
-public:
- event EventHandler<ListControlIconClickedEventArgs^>^ IconClicked {
-	void add (EventHandler<ListControlIconClickedEventArgs^>^ value);
-	void remove (EventHandler<ListControlIconClickedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

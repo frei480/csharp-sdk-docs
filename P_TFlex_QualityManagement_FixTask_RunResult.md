@@ -11,16 +11,8 @@
 ```csharp
 public RunResult RunResult { get; }
 ```
-```vb
-Public ReadOnly Property RunResult As RunResult
-	Get
-```
-```cpp
-public:
-property RunResult^ RunResult {
-	RunResult^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

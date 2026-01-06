@@ -11,13 +11,8 @@
 ```csharp
 public class OffsetEnqueuedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class OffsetEnqueuedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class OffsetEnqueuedEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип PointOnPathManipulatorOffsetEnqueuedEventArgs предоставляет следующие члены.

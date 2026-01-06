@@ -13,12 +13,8 @@
 ```csharp
 public class Adjacent
 ```
-```vb
-Public Class Adjacent
-```
-```cpp
-public ref class Adjacent
-```
+
+
 
 
 Тип OnFaceOffsetPointAdjacent предоставляет следующие члены.

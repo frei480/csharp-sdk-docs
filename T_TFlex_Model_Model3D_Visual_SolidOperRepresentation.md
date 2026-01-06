@@ -11,13 +11,8 @@
 ```csharp
 public class SolidOperRepresentation : ObjectRepresentation
 ```
-```vb
-Public Class SolidOperRepresentation
-	Inherits ObjectRepresentation
-```
-```cpp
-public ref class SolidOperRepresentation : public ObjectRepresentation
-```
+
+
 
 
 Тип SolidOperRepresentation предоставляет следующие члены.

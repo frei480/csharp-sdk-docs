@@ -11,16 +11,8 @@
 ```csharp
 public static Color WorkplaneMark { get; }
 ```
-```vb
-Public Shared ReadOnly Property WorkplaneMark As Color
-	Get
-```
-```cpp
-public:
-static property Color WorkplaneMark {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

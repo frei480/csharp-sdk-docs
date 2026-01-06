@@ -11,16 +11,8 @@
 ```csharp
 public static int ActiveNodeMarkIndex { get; }
 ```
-```vb
-Public Shared ReadOnly Property ActiveNodeMarkIndex As Integer
-	Get
-```
-```cpp
-public:
-static property int ActiveNodeMarkIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

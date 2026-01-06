@@ -13,13 +13,8 @@
 ```csharp
 public class UVBox : BaseUVBox
 ```
-```vb
-Public Class UVBox
-	Inherits BaseUVBox
-```
-```cpp
-public ref class UVBox : public BaseUVBox
-```
+
+
 
 
 Тип UVBox предоставляет следующие члены.

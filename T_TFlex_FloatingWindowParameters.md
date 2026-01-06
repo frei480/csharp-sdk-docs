@@ -12,14 +12,8 @@
 [FlagsAttribute]
 public enum FloatingWindowParameters
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration FloatingWindowParameters
-```
-```cpp
-[FlagsAttribute]
-public enum class FloatingWindowParameters
-```
+
+
 
 
 | Имя члена | Значение | Описание |

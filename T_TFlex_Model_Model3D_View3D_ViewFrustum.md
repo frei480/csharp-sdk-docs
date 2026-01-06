@@ -11,12 +11,8 @@
 ```csharp
 public struct ViewFrustum
 ```
-```vb
-Public Structure ViewFrustum
-```
-```cpp
-public value class ViewFrustum
-```
+
+
 
 
 Тип View3DViewFrustum предоставляет следующие члены.

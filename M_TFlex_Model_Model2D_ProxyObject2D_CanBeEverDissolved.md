@@ -10,17 +10,8 @@ protected virtual bool CanBeEverDissolved(
 	bool CrossDocuments
 )
 ```
-```vb
-Protected Overridable Function CanBeEverDissolved ( 
-	CrossDocuments As Boolean
-) As Boolean
-```
-```cpp
-protected:
-virtual bool CanBeEverDissolved(
-	bool CrossDocuments
-)
-```
+
+
 
 
 #### Параметры

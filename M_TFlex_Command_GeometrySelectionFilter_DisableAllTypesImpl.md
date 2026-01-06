@@ -8,13 +8,8 @@
 ```csharp
 protected override void DisableAllTypesImpl()
 ```
-```vb
-Protected Overrides Sub DisableAllTypesImpl
-```
-```cpp
-protected:
-virtual void DisableAllTypesImpl() override
-```
+
+
 
 
 #### Ссылки

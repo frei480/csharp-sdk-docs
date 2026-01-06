@@ -8,18 +8,8 @@
 ```csharp
 public bool IsFemale { get; set; }
 ```
-```vb
-Public Property IsFemale As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsFemale {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

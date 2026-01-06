@@ -8,18 +8,8 @@
 ```csharp
 public bool IsAggregated { get; set; }
 ```
-```vb
-Public Property IsAggregated As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsAggregated {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

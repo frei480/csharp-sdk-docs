@@ -11,12 +11,8 @@
 ```csharp
 public enum DegenerateProfileConditionType
 ```
-```vb
-Public Enumeration DegenerateProfileConditionType
-```
-```cpp
-public enum class DegenerateProfileConditionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

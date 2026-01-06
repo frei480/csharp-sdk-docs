@@ -14,19 +14,8 @@ public virtual bool OnSelectionFilterButtonClick(
 	IntPtr key
 )
 ```
-```vb
-Public Overridable Function OnSelectionFilterButtonClick ( 
-	action As Integer,
-	key As IntPtr
-) As Boolean
-```
-```cpp
-public:
-virtual bool OnSelectionFilterButtonClick(
-	int action, 
-	IntPtr key
-)
-```
+
+
 
 
 #### Параметры

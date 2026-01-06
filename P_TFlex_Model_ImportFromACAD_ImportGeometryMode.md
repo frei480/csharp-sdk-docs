@@ -11,18 +11,8 @@
 ```csharp
 public ImportACADGeometryMode ImportGeometryMode { get; set; }
 ```
-```vb
-Public Property ImportGeometryMode As ImportACADGeometryMode
-	Get
-	Set
-```
-```cpp
-public:
-property ImportACADGeometryMode ImportGeometryMode {
-	ImportACADGeometryMode get ();
-	void set (ImportACADGeometryMode value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,14 +13,8 @@
 ```csharp
 public class EdgesArray : IEnumerator, IEnumerable
 ```
-```vb
-Public Class EdgesArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class EdgesArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип FillHoleEdgesArray предоставляет следующие члены.

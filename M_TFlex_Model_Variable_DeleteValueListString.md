@@ -13,17 +13,8 @@ public bool DeleteValueListString(
 	int index
 )
 ```
-```vb
-Public Function DeleteValueListString ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool DeleteValueListString(
-	int index
-)
-```
+
+
 
 
 #### Параметры

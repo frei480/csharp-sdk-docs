@@ -11,13 +11,8 @@
 ```csharp
 protected virtual bool CanAddDiagnosticsMessage()
 ```
-```vb
-Protected Overridable Function CanAddDiagnosticsMessage As Boolean
-```
-```cpp
-protected:
-virtual bool CanAddDiagnosticsMessage()
-```
+
+
 
 
 #### Возвращаемое значение

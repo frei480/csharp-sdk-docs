@@ -8,18 +8,8 @@
 ```csharp
 public SceneNode Wireframe { get; set; }
 ```
-```vb
-Public Property Wireframe As SceneNode
-	Get
-	Set
-```
-```cpp
-public:
-property SceneNode^ Wireframe {
-	SceneNode^ get ();
-	void set (SceneNode^ value);
-}
-```
+
+
 
 
 #### Значение свойства

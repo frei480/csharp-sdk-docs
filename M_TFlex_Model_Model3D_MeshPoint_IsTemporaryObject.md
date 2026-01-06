@@ -8,13 +8,8 @@
 ```csharp
 protected override bool IsTemporaryObject()
 ```
-```vb
-Protected Overrides Function IsTemporaryObject As Boolean
-```
-```cpp
-protected:
-virtual bool IsTemporaryObject() override
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,16 +8,8 @@
 ```csharp
 public ObservableCollection<ReportGeneratorWrapper> ReportGenerators { get; }
 ```
-```vb
-Public ReadOnly Property ReportGenerators As ObservableCollection(Of ReportGeneratorWrapper)
-	Get
-```
-```cpp
-public:
-property ObservableCollection<ReportGeneratorWrapper^>^ ReportGenerators {
-	ObservableCollection<ReportGeneratorWrapper^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

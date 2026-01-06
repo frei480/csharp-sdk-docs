@@ -13,13 +13,8 @@
 ```csharp
 public class Rebend : Operation
 ```
-```vb
-Public Class Rebend
-	Inherits Operation
-```
-```cpp
-public ref class Rebend : public Operation
-```
+
+
 
 
 Тип Rebend предоставляет следующие члены.

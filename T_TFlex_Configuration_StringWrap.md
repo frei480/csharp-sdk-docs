@@ -11,13 +11,8 @@
 ```csharp
 public class StringWrap : SettingsGroup
 ```
-```vb
-Public Class StringWrap
-	Inherits SettingsGroup
-```
-```cpp
-public ref class StringWrap : public SettingsGroup
-```
+
+
 
 
 Тип StringWrap предоставляет следующие члены.

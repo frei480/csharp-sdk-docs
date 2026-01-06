@@ -13,12 +13,8 @@
 ```csharp
 public struct HiddenOptions
 ```
-```vb
-Public Structure HiddenOptions
-```
-```cpp
-public value class HiddenOptions
-```
+
+
 
 
 Тип View3DDrawStyleHiddenOptions предоставляет следующие члены.

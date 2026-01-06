@@ -11,12 +11,8 @@
 ```csharp
 public enum TFPlaneOrientation
 ```
-```vb
-Public Enumeration TFPlaneOrientation
-```
-```cpp
-public enum class TFPlaneOrientation
-```
+
+
 
 
 | Имя члена | Значение | Описание |

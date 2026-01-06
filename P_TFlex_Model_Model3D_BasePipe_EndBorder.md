@@ -11,16 +11,8 @@
 ```csharp
 public BasePipeBorderInfo EndBorder { get; }
 ```
-```vb
-Public ReadOnly Property EndBorder As BasePipeBorderInfo
-	Get
-```
-```cpp
-public:
-property BasePipeBorderInfo^ EndBorder {
-	BasePipeBorderInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

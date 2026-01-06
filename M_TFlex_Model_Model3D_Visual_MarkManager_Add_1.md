@@ -12,21 +12,8 @@ public void Add(
 	int conductorOrCableIndex
 )
 ```
-```vb
-Public Sub Add ( 
-	__unnamed000 As ConductorSet,
-	__unnamed001 As MarkManagerStyle,
-	conductorOrCableIndex As Integer
-)
-```
-```cpp
-public:
-void Add(
-	ConductorSet^ __unnamed000, 
-	MarkManagerStyle __unnamed001, 
-	int conductorOrCableIndex
-)
-```
+
+
 
 
 #### Параметры

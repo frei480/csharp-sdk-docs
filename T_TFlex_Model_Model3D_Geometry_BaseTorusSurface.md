@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseTorusSurface
 ```
-```vb
-Public Interface BaseTorusSurface
-```
-```cpp
-public interface class BaseTorusSurface
-```
+
+
 
 
 Тип BaseTorusSurface предоставляет следующие члены.

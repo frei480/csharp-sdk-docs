@@ -13,17 +13,8 @@ public SphereWorkSurface(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-SphereWorkSurface(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

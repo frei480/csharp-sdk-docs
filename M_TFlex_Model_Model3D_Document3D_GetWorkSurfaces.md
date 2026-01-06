@@ -13,19 +13,8 @@ public static ICollection<WorkSurface> GetWorkSurfaces(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetWorkSurfaces ( 
-	document As Document
-) As ICollection(Of WorkSurface)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<WorkSurface^>^ GetWorkSurfaces(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

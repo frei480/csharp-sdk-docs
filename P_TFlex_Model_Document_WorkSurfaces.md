@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetWorkSurfaces' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer WorkSurfaces { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetWorkSurfaces' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property WorkSurfaces As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetWorkSurfaces' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ WorkSurfaces {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

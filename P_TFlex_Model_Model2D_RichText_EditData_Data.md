@@ -11,18 +11,8 @@
 ```csharp
 public byte[] Data { get; set; }
 ```
-```vb
-Public Property Data As Byte()
-	Get
-	Set
-```
-```cpp
-public:
-property array<unsigned char>^ Data {
-	array<unsigned char>^ get ();
-	void set (array<unsigned char>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public Guid ParameterForPosition { get; set; }
 ```
-```vb
-Public Property ParameterForPosition As Guid
-	Get
-	Set
-```
-```cpp
-public:
-property Guid ParameterForPosition {
-	Guid get ();
-	void set (Guid value);
-}
-```
+
+
 
 
 #### Значение свойства

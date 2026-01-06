@@ -13,17 +13,8 @@ public string GetColumnComment(
 	int index
 )
 ```
-```vb
-Public Function GetColumnComment ( 
-	index As Integer
-) As String
-```
-```cpp
-public:
-String^ GetColumnComment(
-	int index
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public string Deviation
 ```
-```vb
-Public Deviation As String
-```
-```cpp
-public:
-String^ Deviation
-```
+
+
 
 
 #### Значение поля

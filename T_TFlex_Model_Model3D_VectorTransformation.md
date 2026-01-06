@@ -13,13 +13,8 @@
 ```csharp
 public class VectorTransformation : Transformation
 ```
-```vb
-Public Class VectorTransformation
-	Inherits Transformation
-```
-```cpp
-public ref class VectorTransformation : public Transformation
-```
+
+
 
 
 Тип VectorTransformation предоставляет следующие члены.

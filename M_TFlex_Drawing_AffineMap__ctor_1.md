@@ -15,21 +15,8 @@ public AffineMap(
 	double angle
 )
 ```
-```vb
-Public Sub New ( 
-	offsetX As Double,
-	offsetY As Double,
-	angle As Double
-)
-```
-```cpp
-public:
-AffineMap(
-	double offsetX, 
-	double offsetY, 
-	double angle
-)
-```
+
+
 
 
 #### Параметры

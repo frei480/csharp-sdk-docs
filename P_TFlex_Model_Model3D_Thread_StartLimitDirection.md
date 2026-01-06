@@ -11,18 +11,8 @@
 ```csharp
 public ModelDirection StartLimitDirection { get; set; }
 ```
-```vb
-Public Property StartLimitDirection As ModelDirection
-	Get
-	Set
-```
-```cpp
-public:
-property ModelDirection^ StartLimitDirection {
-	ModelDirection^ get ();
-	void set (ModelDirection^ value);
-}
-```
+
+
 
 
 #### Значение свойства

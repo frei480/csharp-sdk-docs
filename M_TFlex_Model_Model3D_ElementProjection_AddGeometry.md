@@ -13,17 +13,8 @@ public bool AddGeometry(
 	ModelTopol g
 )
 ```
-```vb
-Public Function AddGeometry ( 
-	g As ModelTopol
-) As Boolean
-```
-```cpp
-public:
-bool AddGeometry(
-	ModelTopol^ g
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public FaceBlending(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-FaceBlending(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

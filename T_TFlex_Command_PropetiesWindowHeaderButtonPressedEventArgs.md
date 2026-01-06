@@ -13,13 +13,8 @@
 ```csharp
 public sealed class PropetiesWindowHeaderButtonPressedEventArgs : CommandEventArgs
 ```
-```vb
-Public NotInheritable Class PropetiesWindowHeaderButtonPressedEventArgs
-	Inherits CommandEventArgs
-```
-```cpp
-public ref class PropetiesWindowHeaderButtonPressedEventArgs sealed : public CommandEventArgs
-```
+
+
 
 
 Тип PropetiesWindowHeaderButtonPressedEventArgs предоставляет следующие члены.

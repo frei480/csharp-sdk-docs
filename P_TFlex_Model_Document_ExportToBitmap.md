@@ -11,16 +11,8 @@
 ```csharp
 public ExportToBitmap ExportToBitmap { get; }
 ```
-```vb
-Public ReadOnly Property ExportToBitmap As ExportToBitmap
-	Get
-```
-```cpp
-public:
-property ExportToBitmap^ ExportToBitmap {
-	ExportToBitmap^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

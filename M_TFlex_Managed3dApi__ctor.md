@@ -11,13 +11,8 @@
 ```csharp
 public Managed3dApi()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Managed3dApi()
-```
+
+
 
 
 #### Ссылки

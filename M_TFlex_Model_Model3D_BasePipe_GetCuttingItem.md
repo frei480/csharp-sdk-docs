@@ -13,17 +13,8 @@ public Operation GetCuttingItem(
 	int index
 )
 ```
-```vb
-Public Function GetCuttingItem ( 
-	index As Integer
-) As Operation
-```
-```cpp
-public:
-Operation^ GetCuttingItem(
-	int index
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public bool ParasolidSMP { get; set; }
 ```
-```vb
-Public Property ParasolidSMP As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ParasolidSMP {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

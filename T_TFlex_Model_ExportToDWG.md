@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToDWG : ExportToACAD
 ```
-```vb
-Public NotInheritable Class ExportToDWG
-	Inherits ExportToACAD
-```
-```cpp
-public ref class ExportToDWG sealed : public ExportToACAD
-```
+
+
 
 
 Тип ExportToDWG предоставляет следующие члены.

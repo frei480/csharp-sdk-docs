@@ -11,18 +11,8 @@
 ```csharp
 public double Radius { get; set; }
 ```
-```vb
-Public Property Radius As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Radius {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

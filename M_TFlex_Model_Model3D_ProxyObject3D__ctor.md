@@ -11,13 +11,8 @@
 ```csharp
 public ProxyObject3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ProxyObject3D()
-```
+
+
 
 
 #### Ссылки

@@ -13,17 +13,8 @@ public GeomReference(
 	ModelPoint3D point
 )
 ```
-```vb
-Public Sub New ( 
-	point As ModelPoint3D
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelPoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

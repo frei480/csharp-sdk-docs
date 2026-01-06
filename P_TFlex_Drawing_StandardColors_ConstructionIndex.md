@@ -11,16 +11,8 @@
 ```csharp
 public static int ConstructionIndex { get; }
 ```
-```vb
-Public Shared ReadOnly Property ConstructionIndex As Integer
-	Get
-```
-```cpp
-public:
-static property int ConstructionIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class Interval : BaseInterval
 ```
-```vb
-Public Class Interval
-	Inherits BaseInterval
-```
-```cpp
-public ref class Interval : public BaseInterval
-```
+
+
 
 
 Тип Interval предоставляет следующие члены.

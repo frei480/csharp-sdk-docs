@@ -15,21 +15,8 @@ public int InsertColumn(
 	string name
 )
 ```
-```vb
-Public Function InsertColumn ( 
-	index As Integer,
-	type As DatabaseColumnType,
-	name As String
-) As Integer
-```
-```cpp
-public:
-int InsertColumn(
-	int index, 
-	DatabaseColumnType type, 
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

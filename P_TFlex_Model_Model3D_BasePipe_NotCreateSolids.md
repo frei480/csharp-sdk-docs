@@ -11,18 +11,8 @@
 ```csharp
 public bool NotCreateSolids { get; set; }
 ```
-```vb
-Public Property NotCreateSolids As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool NotCreateSolids {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

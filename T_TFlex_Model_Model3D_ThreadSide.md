@@ -11,12 +11,8 @@
 ```csharp
 public enum ThreadSide
 ```
-```vb
-Public Enumeration ThreadSide
-```
-```cpp
-public enum class ThreadSide
-```
+
+
 
 
 | Имя члена | Значение | Описание |

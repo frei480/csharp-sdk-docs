@@ -11,18 +11,8 @@
 ```csharp
 public ControlLockBehavior LockBehavior { get; set; }
 ```
-```vb
-Public Property LockBehavior As ControlLockBehavior
-	Get
-	Set
-```
-```cpp
-public:
-property ControlLockBehavior LockBehavior {
-	ControlLockBehavior get ();
-	void set (ControlLockBehavior value);
-}
-```
+
+
 
 
 #### Значение свойства

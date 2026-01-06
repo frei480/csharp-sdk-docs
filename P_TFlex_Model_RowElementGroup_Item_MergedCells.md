@@ -11,16 +11,8 @@
 ```csharp
 public Dictionary<Guid, RowElementGroupMergedCellValue> MergedCells { get; }
 ```
-```vb
-Public ReadOnly Property MergedCells As Dictionary(Of Guid, RowElementGroupMergedCellValue)
-	Get
-```
-```cpp
-public:
-property Dictionary<Guid, RowElementGroupMergedCellValue^>^ MergedCells {
-	Dictionary<Guid, RowElementGroupMergedCellValue^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public Point3D Eval(
 	double t
 )
 ```
-```vb
-Public Function Eval ( 
-	t As Double
-) As Point3D
-```
-```cpp
-public:
-Point3D^ Eval(
-	double t
-)
-```
+
+
 
 
 #### Параметры

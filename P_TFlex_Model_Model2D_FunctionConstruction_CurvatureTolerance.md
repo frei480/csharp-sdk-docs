@@ -11,18 +11,8 @@
 ```csharp
 public Parameter CurvatureTolerance { get; set; }
 ```
-```vb
-Public Property CurvatureTolerance As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ CurvatureTolerance {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

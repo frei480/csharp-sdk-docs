@@ -11,16 +11,8 @@ X-координата начала дуги
 ```csharp
 public double StartX { get; }
 ```
-```vb
-Public ReadOnly Property StartX As Double
-	Get
-```
-```cpp
-public:
-property double StartX {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public void Set(
 	string letters
 )
 ```
-```vb
-Public Sub Set ( 
-	letters As String
-)
-```
-```cpp
-public:
-void Set(
-	String^ letters
-)
-```
+
+
 
 
 #### Параметры

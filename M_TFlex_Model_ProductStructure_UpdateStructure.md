@@ -11,13 +11,8 @@
 ```csharp
 public void UpdateStructure()
 ```
-```vb
-Public Sub UpdateStructure
-```
-```cpp
-public:
-void UpdateStructure()
-```
+
+
 
 
 #### Ссылки

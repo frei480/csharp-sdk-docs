@@ -11,13 +11,8 @@
 ```csharp
 public class Save : SettingsGroup
 ```
-```vb
-Public Class Save
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Save : public SettingsGroup
-```
+
+
 
 
 Тип Save предоставляет следующие члены.

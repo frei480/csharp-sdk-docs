@@ -11,13 +11,8 @@
 ```csharp
 public EuclideanWorkplaneManager()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-EuclideanWorkplaneManager()
-```
+
+
 
 
 #### Ссылки

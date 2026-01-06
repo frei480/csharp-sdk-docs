@@ -13,17 +13,8 @@ public ExportToDXF(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToDXF(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

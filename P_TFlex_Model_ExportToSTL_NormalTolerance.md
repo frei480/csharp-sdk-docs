@@ -14,20 +14,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed")]
 public double NormalTolerance { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed")>
-Public Property NormalTolerance As Double
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed")]
-property double NormalTolerance {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

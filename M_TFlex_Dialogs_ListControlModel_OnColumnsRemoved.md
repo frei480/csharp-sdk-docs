@@ -14,19 +14,8 @@ protected virtual void OnColumnsRemoved(
 	int count
 )
 ```
-```vb
-Protected Overridable Sub OnColumnsRemoved ( 
-	pos As Integer,
-	count As Integer
-)
-```
-```cpp
-protected:
-virtual void OnColumnsRemoved(
-	int pos, 
-	int count
-)
-```
+
+
 
 
 #### Параметры

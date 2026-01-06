@@ -10,17 +10,8 @@ public void Remove(
 	ScenarioStage stage
 )
 ```
-```vb
-Public Sub Remove ( 
-	stage As ScenarioStage
-)
-```
-```cpp
-public:
-void Remove(
-	ScenarioStage^ stage
-)
-```
+
+
 
 
 #### Параметры

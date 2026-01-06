@@ -11,19 +11,8 @@ public virtual void Select(
 	SelectionFilter filter
 )
 ```
-```vb
-Public Overridable Sub Select ( 
-	rect As Rectangle,
-	filter As SelectionFilter
-)
-```
-```cpp
-public:
-virtual void Select(
-	Rectangle rect, 
-	SelectionFilter^ filter
-)
-```
+
+
 
 
 #### Параметры

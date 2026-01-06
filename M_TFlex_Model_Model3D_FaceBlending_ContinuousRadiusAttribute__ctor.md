@@ -13,17 +13,8 @@ public ContinuousRadiusAttribute(
 	Parameter radius
 )
 ```
-```vb
-Public Sub New ( 
-	radius As Parameter
-)
-```
-```cpp
-public:
-ContinuousRadiusAttribute(
-	Parameter^ radius
-)
-```
+
+
 
 
 #### Параметры

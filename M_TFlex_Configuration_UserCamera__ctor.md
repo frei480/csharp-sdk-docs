@@ -11,13 +11,8 @@
 ```csharp
 public UserCamera()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-UserCamera()
-```
+
+
 
 
 #### Ссылки

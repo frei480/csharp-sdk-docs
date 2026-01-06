@@ -8,16 +8,8 @@
 ```csharp
 public double Threads { get; }
 ```
-```vb
-Public ReadOnly Property Threads As Double
-	Get
-```
-```cpp
-public:
-property double Threads {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

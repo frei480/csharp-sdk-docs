@@ -14,14 +14,8 @@
 public class SeparateFacesArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class SeparateFacesArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class SeparateFacesArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип FaceSeparateSeparateFacesArray предоставляет следующие члены.

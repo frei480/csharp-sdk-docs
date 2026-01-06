@@ -11,18 +11,8 @@
 ```csharp
 public bool BiarcInterpolationForSplines { get; set; }
 ```
-```vb
-Public Property BiarcInterpolationForSplines As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool BiarcInterpolationForSplines {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

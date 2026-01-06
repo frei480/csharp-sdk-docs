@@ -8,12 +8,8 @@
 ```csharp
 public enum PrevieFormatType
 ```
-```vb
-Public Enumeration PrevieFormatType
-```
-```cpp
-public enum class PrevieFormatType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

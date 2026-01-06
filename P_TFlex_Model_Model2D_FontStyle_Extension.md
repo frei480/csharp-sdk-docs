@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Extension { get; set; }
 ```
-```vb
-Public Property Extension As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Extension {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

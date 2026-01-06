@@ -11,12 +11,8 @@
 ```csharp
 public enum UnloadType
 ```
-```vb
-Public Enumeration UnloadType
-```
-```cpp
-public enum class UnloadType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

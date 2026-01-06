@@ -13,12 +13,8 @@
 ```csharp
 public class MergedCellValue
 ```
-```vb
-Public Class MergedCellValue
-```
-```cpp
-public ref class MergedCellValue
-```
+
+
 
 
 Тип RowElementGroupMergedCellValue предоставляет следующие члены.

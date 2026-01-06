@@ -11,18 +11,8 @@
 ```csharp
 public bool IsAutoFormat { get; set; }
 ```
-```vb
-Public Property IsAutoFormat As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsAutoFormat {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public bool GetProfileReverse(
 	int profileIndex
 )
 ```
-```vb
-Public Function GetProfileReverse ( 
-	profileIndex As Integer
-) As Boolean
-```
-```cpp
-public:
-bool GetProfileReverse(
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

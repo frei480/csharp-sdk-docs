@@ -11,16 +11,8 @@
 ```csharp
 public LineGeometry LineConstructionGeometry { get; }
 ```
-```vb
-Public ReadOnly Property LineConstructionGeometry As LineGeometry
-	Get
-```
-```cpp
-public:
-property LineGeometry^ LineConstructionGeometry {
-	LineGeometry^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public ModelVertexGeometryData Geometry { get; }
 ```
-```vb
-Public ReadOnly Property Geometry As ModelVertexGeometryData
-	Get
-```
-```cpp
-public:
-property ModelVertexGeometryData^ Geometry {
-	ModelVertexGeometryData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

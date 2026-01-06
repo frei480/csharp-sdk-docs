@@ -17,25 +17,8 @@ public LabelEventArgs(
 	VisualEventArgsActionType action
 )
 ```
-```vb
-Public Sub New ( 
-	label As Label,
-	view As View3D,
-	x As Integer,
-	y As Integer,
-	action As VisualEventArgsActionType
-)
-```
-```cpp
-public:
-LabelEventArgs(
-	Label^ label, 
-	View3D^ view, 
-	int x, 
-	int y, 
-	VisualEventArgsActionType action
-)
-```
+
+
 
 
 #### Параметры

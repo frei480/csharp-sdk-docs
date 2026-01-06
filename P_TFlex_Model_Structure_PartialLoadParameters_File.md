@@ -8,18 +8,8 @@
 ```csharp
 public FileLink File { get; set; }
 ```
-```vb
-Public Property File As FileLink
-	Get
-	Set
-```
-```cpp
-public:
-property FileLink^ File {
-	FileLink^ get ();
-	void set (FileLink^ value);
-}
-```
+
+
 
 
 #### Значение свойства

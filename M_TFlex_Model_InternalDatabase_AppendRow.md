@@ -11,13 +11,8 @@
 ```csharp
 public int AppendRow()
 ```
-```vb
-Public Function AppendRow As Integer
-```
-```cpp
-public:
-int AppendRow()
-```
+
+
 
 
 #### Возвращаемое значение

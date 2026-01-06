@@ -8,18 +8,8 @@
 ```csharp
 public double OffsetX { get; set; }
 ```
-```vb
-Public Property OffsetX As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double OffsetX {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

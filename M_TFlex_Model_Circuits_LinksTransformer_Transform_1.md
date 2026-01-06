@@ -12,21 +12,8 @@ public static void Transform(
 	Document doc
 )
 ```
-```vb
-Public Shared Sub Transform ( 
-	links As List(Of Link),
-	offset As ValueType,
-	doc As Document
-)
-```
-```cpp
-public:
-static void Transform(
-	List<Link^>^ links, 
-	ValueType^ offset, 
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

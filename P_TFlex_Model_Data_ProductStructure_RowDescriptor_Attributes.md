@@ -8,18 +8,8 @@
 ```csharp
 public CommonAttributes Attributes { get; set; }
 ```
-```vb
-Public Property Attributes As CommonAttributes
-	Get
-	Set
-```
-```cpp
-public:
-property CommonAttributes^ Attributes {
-	CommonAttributes^ get ();
-	void set (CommonAttributes^ value);
-}
-```
+
+
 
 
 #### Значение свойства

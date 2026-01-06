@@ -13,12 +13,8 @@
 ```csharp
 public sealed class RunResult
 ```
-```vb
-Public NotInheritable Class RunResult
-```
-```cpp
-public ref class RunResult sealed
-```
+
+
 
 
 Тип RunResult предоставляет следующие члены.

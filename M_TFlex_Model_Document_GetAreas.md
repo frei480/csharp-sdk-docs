@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Area> GetAreas()
 ```
-```vb
-Public Function GetAreas As ICollection(Of Area)
-```
-```cpp
-public:
-ICollection<Area^>^ GetAreas()
-```
+
+
 
 
 #### Возвращаемое значение

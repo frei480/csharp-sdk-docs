@@ -8,13 +8,8 @@
 ```csharp
 public bool CanChangeType()
 ```
-```vb
-Public Function CanChangeType As Boolean
-```
-```cpp
-public:
-bool CanChangeType()
-```
+
+
 
 
 #### Возвращаемое значение

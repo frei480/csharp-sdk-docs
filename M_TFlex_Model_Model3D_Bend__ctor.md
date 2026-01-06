@@ -13,17 +13,8 @@ public Bend(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Bend(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

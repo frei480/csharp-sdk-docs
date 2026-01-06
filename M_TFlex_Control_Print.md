@@ -11,13 +11,8 @@
 ```csharp
 public virtual void Print()
 ```
-```vb
-Public Overridable Sub Print
-```
-```cpp
-public:
-virtual void Print()
-```
+
+
 
 
 #### Ссылки

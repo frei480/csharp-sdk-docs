@@ -11,16 +11,8 @@
 ```csharp
 public LoopsArray Loops { get; }
 ```
-```vb
-Public ReadOnly Property Loops As LoopsArray
-	Get
-```
-```cpp
-public:
-property LoopsArray^ Loops {
-	LoopsArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

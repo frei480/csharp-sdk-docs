@@ -13,17 +13,8 @@ public Direction PrincipalNormal(
 	double t
 )
 ```
-```vb
-Public Function PrincipalNormal ( 
-	t As Double
-) As Direction
-```
-```cpp
-public:
-Direction^ PrincipalNormal(
-	double t
-)
-```
+
+
 
 
 #### Параметры

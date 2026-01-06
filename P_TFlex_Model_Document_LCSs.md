@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetLCSs' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer LCSs { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetLCSs' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property LCSs As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetLCSs' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ LCSs {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

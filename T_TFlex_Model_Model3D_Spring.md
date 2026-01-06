@@ -13,13 +13,8 @@
 ```csharp
 public class Spring : Operation
 ```
-```vb
-Public Class Spring
-	Inherits Operation
-```
-```cpp
-public ref class Spring : public Operation
-```
+
+
 
 
 Тип Spring предоставляет следующие члены.

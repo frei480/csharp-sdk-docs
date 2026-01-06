@@ -15,21 +15,8 @@ public void SetOffsets(
 	double Offset3
 )
 ```
-```vb
-Public Sub SetOffsets ( 
-	Offset1 As Double,
-	Offset2 As Double,
-	Offset3 As Double
-)
-```
-```cpp
-public:
-void SetOffsets(
-	double Offset1, 
-	double Offset2, 
-	double Offset3
-)
-```
+
+
 
 
 #### Параметры

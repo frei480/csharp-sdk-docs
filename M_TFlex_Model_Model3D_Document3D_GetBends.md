@@ -13,19 +13,8 @@ public static ICollection<Bend> GetBends(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetBends ( 
-	document As Document
-) As ICollection(Of Bend)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Bend^>^ GetBends(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

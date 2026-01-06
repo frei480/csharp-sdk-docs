@@ -11,16 +11,8 @@ Y-координата центра эллипса
 ```csharp
 public double CenterY { get; }
 ```
-```vb
-Public ReadOnly Property CenterY As Double
-	Get
-```
-```cpp
-public:
-property double CenterY {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

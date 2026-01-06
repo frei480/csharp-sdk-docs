@@ -10,17 +10,8 @@ public Cable GetCableByIndex(
 	int conductorIndex
 )
 ```
-```vb
-Public Function GetCableByIndex ( 
-	conductorIndex As Integer
-) As Cable
-```
-```cpp
-public:
-Cable^ GetCableByIndex(
-	int conductorIndex
-)
-```
+
+
 
 
 #### Параметры

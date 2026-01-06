@@ -14,19 +14,8 @@ public ListItemAlignment GetAlignment(
 	int column
 )
 ```
-```vb
-Public Function GetAlignment ( 
-	row As Integer,
-	column As Integer
-) As ListItemAlignment
-```
-```cpp
-public:
-ListItemAlignment GetAlignment(
-	int row, 
-	int column
-)
-```
+
+
 
 
 #### Параметры

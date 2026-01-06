@@ -13,17 +13,8 @@ public RunResultEntry(
 	IEnumerable<ModelObject> objects
 )
 ```
-```vb
-Public Sub New ( 
-	objects As IEnumerable(Of ModelObject)
-)
-```
-```cpp
-public:
-RunResultEntry(
-	IEnumerable<ModelObject^>^ objects
-)
-```
+
+
 
 
 #### Параметры

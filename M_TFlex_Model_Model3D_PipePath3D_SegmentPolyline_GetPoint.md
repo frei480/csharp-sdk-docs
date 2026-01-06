@@ -13,17 +13,8 @@ public PipePath3DPointPolyline GetPoint(
 	int indexPoint
 )
 ```
-```vb
-Public Function GetPoint ( 
-	indexPoint As Integer
-) As PipePath3DPointPolyline
-```
-```cpp
-public:
-PipePath3DPointPolyline^ GetPoint(
-	int indexPoint
-)
-```
+
+
 
 
 #### Параметры

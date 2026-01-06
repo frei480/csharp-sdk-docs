@@ -11,16 +11,8 @@
 ```csharp
 public Document Owner { get; }
 ```
-```vb
-Public ReadOnly Property Owner As Document
-	Get
-```
-```cpp
-public:
-property Document^ Owner {
-	Document^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public DeleteUnusedOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-DeleteUnusedOptions()
-```
+
+
 
 
 #### Ссылки

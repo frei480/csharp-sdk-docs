@@ -11,13 +11,8 @@
 ```csharp
 public sealed class CreatePrototypesInSourceParameters : BaseCreatePrototypesParameters
 ```
-```vb
-Public NotInheritable Class CreatePrototypesInSourceParameters
-	Inherits BaseCreatePrototypesParameters
-```
-```cpp
-public ref class CreatePrototypesInSourceParameters sealed : public BaseCreatePrototypesParameters
-```
+
+
 
 
 Тип CreatePrototypesInSourceParameters предоставляет следующие члены.

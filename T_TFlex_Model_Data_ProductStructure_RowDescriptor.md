@@ -11,13 +11,8 @@
 ```csharp
 public class RowDescriptor : ICloneable
 ```
-```vb
-Public Class RowDescriptor
-	Implements ICloneable
-```
-```cpp
-public ref class RowDescriptor : ICloneable
-```
+
+
 
 
 Тип RowDescriptor предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public override string ToString()
 ```
-```vb
-Public Overrides Function ToString As String
-```
-```cpp
-public:
-virtual String^ ToString() override
-```
+
+
 
 
 #### Возвращаемое значение

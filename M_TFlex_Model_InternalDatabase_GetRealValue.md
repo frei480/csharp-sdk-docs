@@ -14,19 +14,8 @@ public double GetRealValue(
 	int row
 )
 ```
-```vb
-Public Function GetRealValue ( 
-	column As Integer,
-	row As Integer
-) As Double
-```
-```cpp
-public:
-double GetRealValue(
-	int column, 
-	int row
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public FileLink(
 	FileLink link
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	link As FileLink
-)
-```
-```cpp
-public:
-FileLink(
-	Document^ document, 
-	FileLink^ link
-)
-```
+
+
 
 
 #### Параметры

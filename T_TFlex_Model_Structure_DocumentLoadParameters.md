@@ -11,13 +11,8 @@
 ```csharp
 public sealed class DocumentLoadParameters : BaseLoadParameters
 ```
-```vb
-Public NotInheritable Class DocumentLoadParameters
-	Inherits BaseLoadParameters
-```
-```cpp
-public ref class DocumentLoadParameters sealed : public BaseLoadParameters
-```
+
+
 
 
 Тип DocumentLoadParameters предоставляет следующие члены.

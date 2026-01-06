@@ -11,13 +11,8 @@
 ```csharp
 public bool ShowSilhouettes
 ```
-```vb
-Public ShowSilhouettes As Boolean
-```
-```cpp
-public:
-bool ShowSilhouettes
-```
+
+
 
 
 #### Значение поля

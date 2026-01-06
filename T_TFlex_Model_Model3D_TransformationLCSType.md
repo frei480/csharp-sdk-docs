@@ -11,12 +11,8 @@
 ```csharp
 public enum TransformationLCSType
 ```
-```vb
-Public Enumeration TransformationLCSType
-```
-```cpp
-public enum class TransformationLCSType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

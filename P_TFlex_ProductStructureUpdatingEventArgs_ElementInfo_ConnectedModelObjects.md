@@ -8,18 +8,8 @@
 ```csharp
 public ISet<ObjectId> ConnectedModelObjects { get; set; }
 ```
-```vb
-Public Property ConnectedModelObjects As ISet(Of ObjectId)
-	Get
-	Set
-```
-```cpp
-public:
-property ISet<ObjectId^>^ ConnectedModelObjects {
-	ISet<ObjectId^>^ get ();
-	void set (ISet<ObjectId^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

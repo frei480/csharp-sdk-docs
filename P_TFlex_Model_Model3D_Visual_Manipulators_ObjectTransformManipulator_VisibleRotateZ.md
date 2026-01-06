@@ -8,18 +8,8 @@
 ```csharp
 public bool VisibleRotateZ { get; set; }
 ```
-```vb
-Public Property VisibleRotateZ As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool VisibleRotateZ {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

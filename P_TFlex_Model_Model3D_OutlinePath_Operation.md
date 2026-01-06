@@ -11,18 +11,8 @@
 ```csharp
 public Bodies Operation { get; set; }
 ```
-```vb
-Public Property Operation As Bodies
-	Get
-	Set
-```
-```cpp
-public:
-property Bodies^ Operation {
-	Bodies^ get ();
-	void set (Bodies^ value);
-}
-```
+
+
 
 
 #### Значение свойства

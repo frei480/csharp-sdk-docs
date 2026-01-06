@@ -13,13 +13,8 @@
 ```csharp
 public abstract class BaseDirection : Geometry
 ```
-```vb
-Public MustInherit Class BaseDirection
-	Inherits Geometry
-```
-```cpp
-public ref class BaseDirection abstract : public Geometry
-```
+
+
 
 
 Тип BaseDirection предоставляет следующие члены.

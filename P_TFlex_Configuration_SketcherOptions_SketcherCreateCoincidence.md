@@ -8,18 +8,8 @@
 ```csharp
 public bool SketcherCreateCoincidence { get; set; }
 ```
-```vb
-Public Property SketcherCreateCoincidence As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SketcherCreateCoincidence {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

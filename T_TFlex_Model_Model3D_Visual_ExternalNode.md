@@ -13,13 +13,8 @@
 ```csharp
 public class ExternalNode : SceneNode
 ```
-```vb
-Public Class ExternalNode
-	Inherits SceneNode
-```
-```cpp
-public ref class ExternalNode : public SceneNode
-```
+
+
 
 
 Тип ExternalNode предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public Rectangle BoundRect { get; }
 ```
-```vb
-Public ReadOnly Property BoundRect As Rectangle
-	Get
-```
-```cpp
-public:
-property Rectangle BoundRect {
-	Rectangle get ();
-}
-```
+
+
 
 
 #### Значение свойства

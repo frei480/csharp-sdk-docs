@@ -11,18 +11,8 @@
 ```csharp
 public bool DrawPlus { get; set; }
 ```
-```vb
-Public Property DrawPlus As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DrawPlus {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public NodesArray(
 	NodeSection pObject
 )
 ```
-```vb
-Public Sub New ( 
-	pObject As NodeSection
-)
-```
-```cpp
-public:
-NodesArray(
-	NodeSection^ pObject
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool IcludeAxisElement { get; set; }
 ```
-```vb
-Public Property IcludeAxisElement As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IcludeAxisElement {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

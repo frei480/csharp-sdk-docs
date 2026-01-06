@@ -11,16 +11,8 @@
 ```csharp
 public Fragment SourceFragmentFirstLevel { get; }
 ```
-```vb
-Public ReadOnly Property SourceFragmentFirstLevel As Fragment
-	Get
-```
-```cpp
-public:
-property Fragment^ SourceFragmentFirstLevel {
-	Fragment^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

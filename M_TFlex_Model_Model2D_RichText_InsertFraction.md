@@ -14,19 +14,8 @@ public void InsertFraction(
 	string lower
 )
 ```
-```vb
-Public Sub InsertFraction ( 
-	upper As String,
-	lower As String
-)
-```
-```cpp
-public:
-void InsertFraction(
-	String^ upper, 
-	String^ lower
-)
-```
+
+
 
 
 #### Параметры

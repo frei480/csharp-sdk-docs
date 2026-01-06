@@ -11,18 +11,8 @@
 ```csharp
 public ApplicationFileLinksRefreshMode? FileLinksRefreshMode { get; set; }
 ```
-```vb
-Public Property FileLinksRefreshMode As ApplicationFileLinksRefreshMode?
-	Get
-	Set
-```
-```cpp
-public:
-property Nullable<ApplicationFileLinksRefreshMode> FileLinksRefreshMode {
-	Nullable<ApplicationFileLinksRefreshMode> get ();
-	void set (Nullable<ApplicationFileLinksRefreshMode> value);
-}
-```
+
+
 
 
 #### Значение свойства

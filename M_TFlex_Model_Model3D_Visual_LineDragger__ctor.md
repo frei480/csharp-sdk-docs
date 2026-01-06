@@ -11,13 +11,8 @@
 ```csharp
 public LineDragger()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LineDragger()
-```
+
+
 
 
 #### Ссылки

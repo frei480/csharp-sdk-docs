@@ -11,16 +11,8 @@
 ```csharp
 public EllipseTypes EllipseType { get; }
 ```
-```vb
-Public ReadOnly Property EllipseType As EllipseTypes
-	Get
-```
-```cpp
-public:
-property EllipseTypes EllipseType {
-	EllipseTypes get ();
-}
-```
+
+
 
 
 #### Значение свойства

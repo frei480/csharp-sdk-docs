@@ -13,17 +13,8 @@ public NodePoint(
 	Node3D node
 )
 ```
-```vb
-Public Sub New ( 
-	node As Node3D
-)
-```
-```cpp
-public:
-NodePoint(
-	Node3D^ node
-)
-```
+
+
 
 
 #### Параметры

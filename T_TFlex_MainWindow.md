@@ -13,13 +13,8 @@
 ```csharp
 public sealed class MainWindow : IWin32Window
 ```
-```vb
-Public NotInheritable Class MainWindow
-	Implements IWin32Window
-```
-```cpp
-public ref class MainWindow sealed : IWin32Window
-```
+
+
 
 
 Тип MainWindow предоставляет следующие члены.

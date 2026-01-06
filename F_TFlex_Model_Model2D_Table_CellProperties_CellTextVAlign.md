@@ -11,13 +11,8 @@
 ```csharp
 public TableTextVAlign CellTextVAlign
 ```
-```vb
-Public CellTextVAlign As TableTextVAlign
-```
-```cpp
-public:
-TableTextVAlign CellTextVAlign
-```
+
+
 
 
 #### Значение поля

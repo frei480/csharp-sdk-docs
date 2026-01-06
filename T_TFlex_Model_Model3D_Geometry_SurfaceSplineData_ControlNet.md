@@ -13,14 +13,8 @@
 ```csharp
 public class ControlNet : IEnumerator, IEnumerable
 ```
-```vb
-Public Class ControlNet
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ControlNet : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип SurfaceSplineDataControlNet предоставляет следующие члены.

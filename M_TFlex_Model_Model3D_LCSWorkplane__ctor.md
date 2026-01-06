@@ -13,17 +13,8 @@ public LCSWorkplane(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-LCSWorkplane(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

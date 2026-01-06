@@ -13,17 +13,8 @@ public bool IsColumnTree(
 	int column
 )
 ```
-```vb
-Public Function IsColumnTree ( 
-	column As Integer
-) As Boolean
-```
-```cpp
-public:
-bool IsColumnTree(
-	int column
-)
-```
+
+
 
 
 #### Параметры

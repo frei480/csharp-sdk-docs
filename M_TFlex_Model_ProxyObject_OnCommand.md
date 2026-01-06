@@ -14,19 +14,8 @@ protected virtual bool OnCommand(
 	View view
 )
 ```
-```vb
-Protected Overridable Function OnCommand ( 
-	commandID As Integer,
-	view As View
-) As Boolean
-```
-```cpp
-protected:
-virtual bool OnCommand(
-	int commandID, 
-	View^ view
-)
-```
+
+
 
 
 #### Параметры

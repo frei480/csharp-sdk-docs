@@ -15,21 +15,8 @@ public DialogResult ShowDialog(
 	Rect popupMenuExclusionRect
 )
 ```
-```vb
-<ObsoleteAttribute("Use ShowDialog(System.IntPtr, System.Windows.Point, System.Windows.Rect)")>
-Public Function ShowDialog ( 
-	popupMenuPosition As Point,
-	popupMenuExclusionRect As Rect
-) As DialogResult
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Use ShowDialog(System.IntPtr, System.Windows.Point, System.Windows.Rect)")]
-DialogResult ShowDialog(
-	Point popupMenuPosition, 
-	Rect popupMenuExclusionRect
-)
-```
+
+
 
 
 #### Параметры

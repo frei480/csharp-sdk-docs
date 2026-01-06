@@ -11,12 +11,8 @@
 ```csharp
 public enum LeaderNoteSymbolType
 ```
-```vb
-Public Enumeration LeaderNoteSymbolType
-```
-```cpp
-public enum class LeaderNoteSymbolType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

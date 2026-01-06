@@ -11,12 +11,8 @@
 ```csharp
 public class SleeveInfo
 ```
-```vb
-Public Class SleeveInfo
-```
-```cpp
-public ref class SleeveInfo
-```
+
+
 
 
 Тип SleeveInfo предоставляет следующие члены.

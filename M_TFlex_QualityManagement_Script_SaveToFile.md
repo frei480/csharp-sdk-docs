@@ -13,17 +13,8 @@ public void SaveToFile(
 	string filePath
 )
 ```
-```vb
-Public Sub SaveToFile ( 
-	filePath As String
-)
-```
-```cpp
-public:
-void SaveToFile(
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

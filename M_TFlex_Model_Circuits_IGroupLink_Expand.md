@@ -11,18 +11,8 @@ void Expand(
 	IEnumerable<FixingVector> points
 )
 ```
-```vb
-Sub Expand ( 
-	point As FixingVector,
-	points As IEnumerable(Of FixingVector)
-)
-```
-```cpp
-void Expand(
-	FixingVector^ point, 
-	IEnumerable<FixingVector^>^ points
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<BaseEventArgs> Indeterminate
 ```
-```vb
-Public Event Indeterminate As EventHandler(Of BaseEventArgs)
-```
-```cpp
-public:
- event EventHandler<BaseEventArgs^>^ Indeterminate {
-	void add (EventHandler<BaseEventArgs^>^ value);
-	void remove (EventHandler<BaseEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

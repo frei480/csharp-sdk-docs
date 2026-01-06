@@ -8,16 +8,8 @@
 ```csharp
 public SnapInfo ParallelLine { get; }
 ```
-```vb
-Public ReadOnly Property ParallelLine As SnapInfo
-	Get
-```
-```cpp
-public:
-property SnapInfo^ ParallelLine {
-	SnapInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToIFC : ExportTo
 ```
-```vb
-Public NotInheritable Class ExportToIFC
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportToIFC sealed : public ExportTo
-```
+
+
 
 
 Тип ExportToIFC предоставляет следующие члены.

@@ -13,17 +13,8 @@ public void RemoveAllGuideVectorConditions(
 	int guideIndex
 )
 ```
-```vb
-Public Sub RemoveAllGuideVectorConditions ( 
-	guideIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveAllGuideVectorConditions(
-	int guideIndex
-)
-```
+
+
 
 
 #### Параметры

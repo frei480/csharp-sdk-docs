@@ -13,17 +13,8 @@ public void RemoveFace(
 	ModelFace Face
 )
 ```
-```vb
-Public Sub RemoveFace ( 
-	Face As ModelFace
-)
-```
-```cpp
-public:
-void RemoveFace(
-	ModelFace^ Face
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public Harness3D(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-Harness3D(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

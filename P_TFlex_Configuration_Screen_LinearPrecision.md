@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter LinearPrecision { get; set; }
 ```
-```vb
-Public Property LinearPrecision As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ LinearPrecision {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

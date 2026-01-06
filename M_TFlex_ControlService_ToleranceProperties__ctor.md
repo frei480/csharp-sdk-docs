@@ -11,13 +11,8 @@
 ```csharp
 public ToleranceProperties()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ToleranceProperties()
-```
+
+
 
 
 #### Ссылки

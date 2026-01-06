@@ -8,16 +8,8 @@
 ```csharp
 public Collection TextureBrowser { get; }
 ```
-```vb
-Public ReadOnly Property TextureBrowser As Collection
-	Get
-```
-```cpp
-public:
-property Collection^ TextureBrowser {
-	Collection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

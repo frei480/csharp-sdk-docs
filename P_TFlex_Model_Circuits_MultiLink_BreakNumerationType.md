@@ -8,18 +8,8 @@
 ```csharp
 public LinkBreakNumerationTypes BreakNumerationType { get; set; }
 ```
-```vb
-Public Property BreakNumerationType As LinkBreakNumerationTypes
-	Get
-	Set
-```
-```cpp
-public:
-property LinkBreakNumerationTypes BreakNumerationType {
-	LinkBreakNumerationTypes get ();
-	void set (LinkBreakNumerationTypes value);
-}
-```
+
+
 
 
 #### Значение свойства

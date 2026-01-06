@@ -10,17 +10,8 @@ public override bool IsEqualRule(
 	IFilteringRule other
 )
 ```
-```vb
-Public Overrides Function IsEqualRule ( 
-	other As IFilteringRule
-) As Boolean
-```
-```cpp
-public:
-virtual bool IsEqualRule(
-	IFilteringRule^ other
-) override
-```
+
+
 
 
 #### Параметры

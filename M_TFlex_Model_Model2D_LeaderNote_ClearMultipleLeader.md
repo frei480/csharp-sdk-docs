@@ -11,13 +11,8 @@
 ```csharp
 public void ClearMultipleLeader()
 ```
-```vb
-Public Sub ClearMultipleLeader
-```
-```cpp
-public:
-void ClearMultipleLeader()
-```
+
+
 
 
 #### Ссылки

@@ -10,17 +10,8 @@ public override bool Equals(
 	Object other
 )
 ```
-```vb
-Public Overrides Function Equals ( 
-	other As Object
-) As Boolean
-```
-```cpp
-public:
-virtual bool Equals(
-	Object^ other
-) override
-```
+
+
 
 
 #### Параметры

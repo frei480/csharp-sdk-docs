@@ -11,16 +11,8 @@ Y-координата начала дуги
 ```csharp
 public double StartY { get; }
 ```
-```vb
-Public ReadOnly Property StartY As Double
-	Get
-```
-```cpp
-public:
-property double StartY {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void AddOperation(
 	Operation oper
 )
 ```
-```vb
-Public Sub AddOperation ( 
-	oper As Operation
-)
-```
-```cpp
-public:
-void AddOperation(
-	Operation^ oper
-)
-```
+
+
 
 
 #### Параметры

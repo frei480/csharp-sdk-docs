@@ -11,13 +11,8 @@
 ```csharp
 public static void DoEvents()
 ```
-```vb
-Public Shared Sub DoEvents
-```
-```cpp
-public:
-static void DoEvents()
-```
+
+
 
 
 Метод позволяет приложению обрабатывать другие события, которые могут возникнуть при выполнии кода

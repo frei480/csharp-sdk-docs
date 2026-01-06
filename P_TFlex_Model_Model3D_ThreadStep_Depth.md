@@ -11,16 +11,8 @@
 ```csharp
 public double Depth { get; }
 ```
-```vb
-Public ReadOnly Property Depth As Double
-	Get
-```
-```cpp
-public:
-property double Depth {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

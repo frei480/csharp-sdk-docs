@@ -11,12 +11,8 @@
 ```csharp
 public interface Contour
 ```
-```vb
-Public Interface Contour
-```
-```cpp
-public interface class Contour
-```
+
+
 
 
 #### Ссылки

@@ -13,13 +13,8 @@
 ```csharp
 public class TwoPathesIntersectionPoint : Node3D
 ```
-```vb
-Public Class TwoPathesIntersectionPoint
-	Inherits Node3D
-```
-```cpp
-public ref class TwoPathesIntersectionPoint : public Node3D
-```
+
+
 
 
 Тип TwoPathesIntersectionPoint предоставляет следующие члены.

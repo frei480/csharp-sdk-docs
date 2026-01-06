@@ -10,17 +10,8 @@ protected override void RemoveItem(
 	int index
 )
 ```
-```vb
-Protected Overrides Sub RemoveItem ( 
-	index As Integer
-)
-```
-```cpp
-protected:
-virtual void RemoveItem(
-	int index
-) override
-```
+
+
 
 
 #### Параметры

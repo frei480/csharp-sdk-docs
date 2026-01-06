@@ -13,13 +13,8 @@
 ```csharp
 public class SheetFromTrimmedSurface : BodyGenerator
 ```
-```vb
-Public Class SheetFromTrimmedSurface
-	Inherits BodyGenerator
-```
-```cpp
-public ref class SheetFromTrimmedSurface : public BodyGenerator
-```
+
+
 
 
 Тип SheetFromTrimmedSurface предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class RunScriptResult : IEnumerable<RunResult>
 ```
-```vb
-Public NotInheritable Class RunScriptResult
-	Implements IEnumerable(Of RunResult)
-```
-```cpp
-public ref class RunScriptResult sealed : IEnumerable<RunResult^>
-```
+
+
 
 
 Тип RunScriptResult предоставляет следующие члены.

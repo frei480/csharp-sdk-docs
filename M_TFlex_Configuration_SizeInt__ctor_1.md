@@ -14,19 +14,8 @@ public SizeInt(
 	bool isOwned
 )
 ```
-```vb
-Public Sub New ( 
-	nativeOptionsPointer As IntPtr,
-	isOwned As Boolean
-)
-```
-```cpp
-public:
-SizeInt(
-	IntPtr nativeOptionsPointer, 
-	bool isOwned
-)
-```
+
+
 
 
 #### Параметры

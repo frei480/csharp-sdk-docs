@@ -8,12 +8,8 @@
 ```csharp
 public enum ThicknessType
 ```
-```vb
-Public Enumeration ThicknessType
-```
-```cpp
-public enum class ThicknessType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,13 +11,8 @@
 ```csharp
 public SheetList()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SheetList()
-```
+
+
 
 
 #### Ссылки

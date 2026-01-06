@@ -11,16 +11,8 @@
 ```csharp
 public bool Unrecommended { get; }
 ```
-```vb
-Public ReadOnly Property Unrecommended As Boolean
-	Get
-```
-```cpp
-public:
-property bool Unrecommended {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

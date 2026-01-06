@@ -13,17 +13,8 @@ public MoveRotateTransformation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-MoveRotateTransformation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

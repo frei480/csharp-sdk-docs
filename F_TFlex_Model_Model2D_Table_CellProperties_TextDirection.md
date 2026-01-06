@@ -11,13 +11,8 @@
 ```csharp
 public TableTextDirection TextDirection
 ```
-```vb
-Public TextDirection As TableTextDirection
-```
-```cpp
-public:
-TableTextDirection TextDirection
-```
+
+
 
 
 #### Значение поля

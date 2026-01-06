@@ -11,16 +11,8 @@
 ```csharp
 public static Color ActiveDragger { get; }
 ```
-```vb
-Public Shared ReadOnly Property ActiveDragger As Color
-	Get
-```
-```cpp
-public:
-static property Color ActiveDragger {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

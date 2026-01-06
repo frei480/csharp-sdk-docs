@@ -15,21 +15,8 @@ public void SetLeftRightTangent(
 	Parameter pRightParam
 )
 ```
-```vb
-Public Sub SetLeftRightTangent ( 
-	pDirection As Point3D,
-	pLeftParam As Parameter,
-	pRightParam As Parameter
-)
-```
-```cpp
-public:
-void SetLeftRightTangent(
-	Point3D^ pDirection, 
-	Parameter^ pLeftParam, 
-	Parameter^ pRightParam
-)
-```
+
+
 
 
 #### Параметры

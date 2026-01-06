@@ -8,16 +8,8 @@
 ```csharp
 public VersionSummaryInfo VersionInfo { get; }
 ```
-```vb
-Public ReadOnly Property VersionInfo As VersionSummaryInfo
-	Get
-```
-```cpp
-public:
-property VersionSummaryInfo^ VersionInfo {
-	VersionSummaryInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

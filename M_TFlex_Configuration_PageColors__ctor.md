@@ -11,13 +11,8 @@
 ```csharp
 public PageColors()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PageColors()
-```
+
+
 
 
 #### Ссылки

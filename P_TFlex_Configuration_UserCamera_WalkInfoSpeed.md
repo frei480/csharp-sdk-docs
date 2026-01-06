@@ -8,18 +8,8 @@
 ```csharp
 public double WalkInfoSpeed { get; set; }
 ```
-```vb
-Public Property WalkInfoSpeed As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double WalkInfoSpeed {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

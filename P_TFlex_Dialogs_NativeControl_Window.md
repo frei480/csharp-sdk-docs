@@ -11,18 +11,8 @@
 ```csharp
 public NativeWindow Window { get; set; }
 ```
-```vb
-Public Property Window As NativeWindow
-	Get
-	Set
-```
-```cpp
-public:
-property NativeWindow^ Window {
-	NativeWindow^ get ();
-	void set (NativeWindow^ value);
-}
-```
+
+
 
 
 #### Значение свойства

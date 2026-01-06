@@ -11,12 +11,8 @@
 ```csharp
 public enum SizeMode
 ```
-```vb
-Public Enumeration SizeMode
-```
-```cpp
-public enum class SizeMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

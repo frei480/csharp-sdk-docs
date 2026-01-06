@@ -13,17 +13,8 @@ public void Add(
 	TableFunctionDependence pair
 )
 ```
-```vb
-Public Sub Add ( 
-	pair As TableFunctionDependence
-)
-```
-```cpp
-public:
-void Add(
-	TableFunctionDependence^ pair
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public void AddConstraintEdge(
 	FaceBlendingConstraintEdgeType type
 )
 ```
-```vb
-Public Sub AddConstraintEdge ( 
-	edge As ModelEdge,
-	type As FaceBlendingConstraintEdgeType
-)
-```
-```cpp
-public:
-void AddConstraintEdge(
-	ModelEdge^ edge, 
-	FaceBlendingConstraintEdgeType type
-)
-```
+
+
 
 
 #### Параметры

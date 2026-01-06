@@ -13,17 +13,8 @@ protected virtual void MeasureResultsUpdatingEventHandler(
 	MeasureResultsUpdatingEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub MeasureResultsUpdatingEventHandler ( 
-	args As MeasureResultsUpdatingEventArgs
-)
-```
-```cpp
-protected:
-virtual void MeasureResultsUpdatingEventHandler(
-	MeasureResultsUpdatingEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

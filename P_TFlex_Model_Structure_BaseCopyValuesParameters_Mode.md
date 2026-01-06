@@ -8,18 +8,8 @@
 ```csharp
 public CopyValuesMode Mode { get; set; }
 ```
-```vb
-Public Property Mode As CopyValuesMode
-	Get
-	Set
-```
-```cpp
-public:
-property CopyValuesMode Mode {
-	CopyValuesMode get ();
-	void set (CopyValuesMode value);
-}
-```
+
+
 
 
 #### Значение свойства

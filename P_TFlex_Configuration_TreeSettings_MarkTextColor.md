@@ -8,18 +8,8 @@
 ```csharp
 public int MarkTextColor { get; set; }
 ```
-```vb
-Public Property MarkTextColor As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int MarkTextColor {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

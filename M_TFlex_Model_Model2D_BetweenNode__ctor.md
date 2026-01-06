@@ -13,17 +13,8 @@ public BetweenNode(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-BetweenNode(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public bool IsEnum { get; }
 ```
-```vb
-Public ReadOnly Property IsEnum As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsEnum {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

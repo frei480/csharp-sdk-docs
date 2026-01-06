@@ -8,12 +8,8 @@
 ```csharp
 public enum HorizontalDirection
 ```
-```vb
-Public Enumeration HorizontalDirection
-```
-```cpp
-public enum class HorizontalDirection
-```
+
+
 
 
 | Имя члена | Значение | Описание |

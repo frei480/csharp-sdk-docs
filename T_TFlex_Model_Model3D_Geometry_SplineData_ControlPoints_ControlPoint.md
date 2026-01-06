@@ -13,13 +13,8 @@
 ```csharp
 public class ControlPoint : ICloneable
 ```
-```vb
-Public Class ControlPoint
-	Implements ICloneable
-```
-```cpp
-public ref class ControlPoint : ICloneable
-```
+
+
 
 
 Тип SplineDataControlPointsControlPoint предоставляет следующие члены.

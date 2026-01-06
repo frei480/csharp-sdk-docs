@@ -13,13 +13,8 @@
 ```csharp
 public class OnSurfacePoint : Node3D
 ```
-```vb
-Public Class OnSurfacePoint
-	Inherits Node3D
-```
-```cpp
-public ref class OnSurfacePoint : public Node3D
-```
+
+
 
 
 Тип OnSurfacePoint предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public Variable HiddenVariable { get; set; }
 ```
-```vb
-Public Property HiddenVariable As Variable
-	Get
-	Set
-```
-```cpp
-public:
-property Variable^ HiddenVariable {
-	Variable^ get ();
-	void set (Variable^ value);
-}
-```
+
+
 
 
 #### Значение свойства

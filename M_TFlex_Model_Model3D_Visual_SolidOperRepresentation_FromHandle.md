@@ -10,17 +10,8 @@ public static SolidOperRepresentation FromHandle(
 	IntPtr handle
 )
 ```
-```vb
-Public Shared Function FromHandle ( 
-	handle As IntPtr
-) As SolidOperRepresentation
-```
-```cpp
-public:
-static SolidOperRepresentation^ FromHandle(
-	IntPtr handle
-)
-```
+
+
 
 
 #### Параметры

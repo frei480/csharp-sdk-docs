@@ -11,12 +11,8 @@
 ```csharp
 public abstract class Data2D
 ```
-```vb
-Public MustInherit Class Data2D
-```
-```cpp
-public ref class Data2D abstract
-```
+
+
 
 
 Тип Data2D предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public double ArrowSize { get; set; }
 ```
-```vb
-Public Property ArrowSize As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double ArrowSize {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

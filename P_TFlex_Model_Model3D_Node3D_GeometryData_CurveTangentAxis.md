@@ -11,16 +11,8 @@
 ```csharp
 public ModelAxis CurveTangentAxis { get; }
 ```
-```vb
-Public ReadOnly Property CurveTangentAxis As ModelAxis
-	Get
-```
-```cpp
-public:
-property ModelAxis^ CurveTangentAxis {
-	ModelAxis^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,13 +8,8 @@
 ```csharp
 public CreationRules Copy()
 ```
-```vb
-Public Function Copy As CreationRules
-```
-```cpp
-public:
-CreationRules^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

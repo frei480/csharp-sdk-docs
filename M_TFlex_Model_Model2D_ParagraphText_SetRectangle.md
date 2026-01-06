@@ -14,19 +14,8 @@ public void SetRectangle(
 	ParagraphTextTextRectangle rect
 )
 ```
-```vb
-Public Sub SetRectangle ( 
-	index As UInteger,
-	rect As ParagraphTextTextRectangle
-)
-```
-```cpp
-public:
-void SetRectangle(
-	unsigned int index, 
-	ParagraphTextTextRectangle rect
-)
-```
+
+
 
 
 #### Параметры

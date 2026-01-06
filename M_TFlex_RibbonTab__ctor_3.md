@@ -17,25 +17,8 @@ public RibbonTab(
 	bool nextToNeighbor
 )
 ```
-```vb
-Public Sub New ( 
-	caption As String,
-	guid As Guid,
-	plugin As Plugin,
-	neighborGuid As Guid,
-	nextToNeighbor As Boolean
-)
-```
-```cpp
-public:
-RibbonTab(
-	String^ caption, 
-	Guid guid, 
-	Plugin^ plugin, 
-	Guid neighborGuid, 
-	bool nextToNeighbor
-)
-```
+
+
 
 
 #### Параметры

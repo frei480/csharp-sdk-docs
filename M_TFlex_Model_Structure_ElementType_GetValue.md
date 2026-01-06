@@ -10,17 +10,8 @@ public TypeValue GetValue(
 	Guid parameterID
 )
 ```
-```vb
-Public Function GetValue ( 
-	parameterID As Guid
-) As TypeValue
-```
-```cpp
-public:
-TypeValue^ GetValue(
-	Guid parameterID
-)
-```
+
+
 
 
 #### Параметры

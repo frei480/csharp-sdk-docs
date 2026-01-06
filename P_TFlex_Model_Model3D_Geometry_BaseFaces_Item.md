@@ -10,18 +10,8 @@ public abstract BaseFace this[
 	int Index
 ] { get; }
 ```
-```vb
-Public MustOverride ReadOnly Default Property Item ( 
-	Index As Integer
-) As BaseFace
-	Get
-```
-```cpp
-public:
-virtual property BaseFace^ default[int Index] {
-	BaseFace^ get (int Index) abstract;
-}
-```
+
+
 
 
 #### Параметры

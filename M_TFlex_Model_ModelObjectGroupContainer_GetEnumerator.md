@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerator<ModelObjectGroup> GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As IEnumerator(Of ModelObjectGroup)
-```
-```cpp
-public:
-virtual IEnumerator<ModelObjectGroup^>^ GetEnumerator() sealed
-```
+
+
 
 
 #### Возвращаемое значение

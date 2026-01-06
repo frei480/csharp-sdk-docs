@@ -11,13 +11,8 @@
 ```csharp
 public class RowElementLinkedObjects : IEnumerable<ModelObject>
 ```
-```vb
-Public Class RowElementLinkedObjects
-	Implements IEnumerable(Of ModelObject)
-```
-```cpp
-public ref class RowElementLinkedObjects : IEnumerable<ModelObject^>
-```
+
+
 
 
 Тип RowElementLinkedObjects предоставляет следующие члены.

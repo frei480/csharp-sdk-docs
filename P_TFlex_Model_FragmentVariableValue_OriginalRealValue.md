@@ -11,16 +11,8 @@
 ```csharp
 public Parameter OriginalRealValue { get; }
 ```
-```vb
-Public ReadOnly Property OriginalRealValue As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ OriginalRealValue {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

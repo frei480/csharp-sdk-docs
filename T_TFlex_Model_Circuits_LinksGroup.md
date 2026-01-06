@@ -13,15 +13,8 @@
 ```csharp
 public class LinksGroup : Link, IGroupLink
 ```
-```vb
-Public Class LinksGroup
-	Inherits Link
-	Implements IGroupLink
-```
-```cpp
-public ref class LinksGroup : public Link, 
-	IGroupLink
-```
+
+
 
 
 Тип LinksGroup предоставляет следующие члены.

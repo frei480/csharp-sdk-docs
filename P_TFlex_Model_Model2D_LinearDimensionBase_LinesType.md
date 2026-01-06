@@ -11,18 +11,8 @@
 ```csharp
 public DimensionLines LinesType { get; set; }
 ```
-```vb
-Public Property LinesType As DimensionLines
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionLines LinesType {
-	DimensionLines get ();
-	void set (DimensionLines value);
-}
-```
+
+
 
 
 #### Значение свойства

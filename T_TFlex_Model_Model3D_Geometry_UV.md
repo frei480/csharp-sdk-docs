@@ -13,12 +13,8 @@
 ```csharp
 public struct UV
 ```
-```vb
-Public Structure UV
-```
-```cpp
-public value class UV
-```
+
+
 
 
 Тип UV предоставляет следующие члены.

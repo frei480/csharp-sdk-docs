@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToSTL : ExportToFacet
 ```
-```vb
-Public NotInheritable Class ExportToSTL
-	Inherits ExportToFacet
-```
-```cpp
-public ref class ExportToSTL sealed : public ExportToFacet
-```
+
+
 
 
 Тип ExportToSTL предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public double SurfacePlaneTol { get; set; }
 ```
-```vb
-Public Property SurfacePlaneTol As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double SurfacePlaneTol {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

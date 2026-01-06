@@ -11,16 +11,8 @@
 ```csharp
 public PlaneSurface PlaneIfWire { get; }
 ```
-```vb
-Public ReadOnly Property PlaneIfWire As PlaneSurface
-	Get
-```
-```cpp
-public:
-property PlaneSurface^ PlaneIfWire {
-	PlaneSurface^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

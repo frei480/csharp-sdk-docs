@@ -14,19 +14,8 @@ public PipePath3DPointOnSurface InsertPoint_after(
 	PipePath3DPointOnSurface pPoint
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. Please use 'InsertAfterPoint' method.")>
-Public Function InsertPoint_after ( 
-	pPoint As PipePath3DPointOnSurface
-) As PipePath3DPointOnSurface
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. Please use 'InsertAfterPoint' method.")]
-PipePath3DPointOnSurface^ InsertPoint_after(
-	PipePath3DPointOnSurface^ pPoint
-)
-```
+
+
 
 
 #### Параметры

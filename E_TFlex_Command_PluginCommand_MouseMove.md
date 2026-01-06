@@ -11,16 +11,8 @@
 ```csharp
 public event MouseEventHandler MouseMove
 ```
-```vb
-Public Event MouseMove As MouseEventHandler
-```
-```cpp
-public:
- event MouseEventHandler^ MouseMove {
-	void add (MouseEventHandler^ value);
-	void remove (MouseEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

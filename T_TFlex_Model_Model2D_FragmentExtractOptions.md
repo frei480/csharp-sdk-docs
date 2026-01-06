@@ -13,12 +13,8 @@
 ```csharp
 public sealed class FragmentExtractOptions
 ```
-```vb
-Public NotInheritable Class FragmentExtractOptions
-```
-```cpp
-public ref class FragmentExtractOptions sealed
-```
+
+
 
 
 Тип FragmentExtractOptions предоставляет следующие члены.

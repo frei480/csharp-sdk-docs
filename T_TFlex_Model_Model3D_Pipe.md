@@ -13,13 +13,8 @@
 ```csharp
 public class Pipe : BasePipe
 ```
-```vb
-Public Class Pipe
-	Inherits BasePipe
-```
-```cpp
-public ref class Pipe : public BasePipe
-```
+
+
 
 
 Тип Pipe предоставляет следующие члены.

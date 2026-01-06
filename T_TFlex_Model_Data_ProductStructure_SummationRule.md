@@ -11,13 +11,8 @@
 ```csharp
 public class SummationRule : ICloneable
 ```
-```vb
-Public Class SummationRule
-	Implements ICloneable
-```
-```cpp
-public ref class SummationRule : ICloneable
-```
+
+
 
 
 Тип SummationRule предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public bool AutoApplyByTimeout { get; set; }
 ```
-```vb
-Public Property AutoApplyByTimeout As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoApplyByTimeout {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

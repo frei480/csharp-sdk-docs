@@ -14,19 +14,8 @@ public void SetCustomLocalizationId(
 	bool inherited
 )
 ```
-```vb
-Public Sub SetCustomLocalizationId ( 
-	completeLocalizationId As String,
-	inherited As Boolean
-)
-```
-```cpp
-public:
-void SetCustomLocalizationId(
-	String^ completeLocalizationId, 
-	bool inherited
-)
-```
+
+
 
 
 #### Параметры

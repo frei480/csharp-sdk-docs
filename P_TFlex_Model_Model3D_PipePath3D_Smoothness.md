@@ -11,18 +11,8 @@
 ```csharp
 public bool Smoothness { get; set; }
 ```
-```vb
-Public Property Smoothness As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Smoothness {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

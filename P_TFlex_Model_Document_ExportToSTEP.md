@@ -11,16 +11,8 @@
 ```csharp
 public ExportToSTEP ExportToSTEP { get; }
 ```
-```vb
-Public ReadOnly Property ExportToSTEP As ExportToSTEP
-	Get
-```
-```cpp
-public:
-property ExportToSTEP^ ExportToSTEP {
-	ExportToSTEP^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

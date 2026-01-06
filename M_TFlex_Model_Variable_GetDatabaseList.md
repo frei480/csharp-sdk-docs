@@ -16,23 +16,8 @@ public void GetDatabaseList(
 	out string filter
 )
 ```
-```vb
-Public Sub GetDatabaseList ( 
-	<OutAttribute> ByRef databaseName As String,
-	<OutAttribute> ByRef fromFieldName As String,
-	<OutAttribute> ByRef showFieldName As String,
-	<OutAttribute> ByRef filter As String
-)
-```
-```cpp
-public:
-void GetDatabaseList(
-	[OutAttribute] String^% databaseName, 
-	[OutAttribute] String^% fromFieldName, 
-	[OutAttribute] String^% showFieldName, 
-	[OutAttribute] String^% filter
-)
-```
+
+
 
 
 #### Параметры

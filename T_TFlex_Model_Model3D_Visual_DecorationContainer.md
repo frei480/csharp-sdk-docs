@@ -14,15 +14,8 @@
 public sealed class DecorationContainer : Decoration, 
 	IEnumerable
 ```
-```vb
-Public NotInheritable Class DecorationContainer
-	Inherits Decoration
-	Implements IEnumerable
-```
-```cpp
-public ref class DecorationContainer sealed : public Decoration, 
-	IEnumerable
-```
+
+
 
 
 Тип DecorationContainer предоставляет следующие члены.

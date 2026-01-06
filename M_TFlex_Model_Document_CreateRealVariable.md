@@ -14,19 +14,8 @@ public Variable CreateRealVariable(
 	double defaultValue
 )
 ```
-```vb
-Public Function CreateRealVariable ( 
-	expression As String,
-	defaultValue As Double
-) As Variable
-```
-```cpp
-public:
-Variable^ CreateRealVariable(
-	String^ expression, 
-	double defaultValue
-)
-```
+
+
 
 
 #### Параметры

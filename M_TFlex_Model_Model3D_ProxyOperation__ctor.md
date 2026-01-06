@@ -11,13 +11,8 @@
 ```csharp
 public ProxyOperation()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ProxyOperation()
-```
+
+
 
 
 #### Ссылки

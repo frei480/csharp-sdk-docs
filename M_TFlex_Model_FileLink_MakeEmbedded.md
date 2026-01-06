@@ -11,13 +11,8 @@
 ```csharp
 public void MakeEmbedded()
 ```
-```vb
-Public Sub MakeEmbedded
-```
-```cpp
-public:
-void MakeEmbedded()
-```
+
+
 
 
 #### Ссылки

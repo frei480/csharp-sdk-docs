@@ -11,13 +11,8 @@
 ```csharp
 public static string[] GetLinePatternNames()
 ```
-```vb
-Public Shared Function GetLinePatternNames As String()
-```
-```cpp
-public:
-static array<String^>^ GetLinePatternNames()
-```
+
+
 
 
 #### Возвращаемое значение

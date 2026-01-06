@@ -10,17 +10,8 @@ public static bool IsSeverityEnabled(
 	LogSeverity severity
 )
 ```
-```vb
-Public Shared Function IsSeverityEnabled ( 
-	severity As LogSeverity
-) As Boolean
-```
-```cpp
-public:
-static bool IsSeverityEnabled(
-	LogSeverity severity
-)
-```
+
+
 
 
 #### Параметры

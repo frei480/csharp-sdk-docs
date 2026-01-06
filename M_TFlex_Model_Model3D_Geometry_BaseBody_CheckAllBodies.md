@@ -13,17 +13,8 @@ public static ICollection<BaseBodyCheckBodyResults> CheckAllBodies(
 	Document document
 )
 ```
-```vb
-Public Shared Function CheckAllBodies ( 
-	document As Document
-) As ICollection(Of BaseBodyCheckBodyResults)
-```
-```cpp
-public:
-static ICollection<BaseBodyCheckBodyResults^>^ CheckAllBodies(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

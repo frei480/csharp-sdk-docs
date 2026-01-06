@@ -13,13 +13,8 @@
 ```csharp
 public abstract class TermGroupItem : ICloneable
 ```
-```vb
-Public MustInherit Class TermGroupItem
-	Implements ICloneable
-```
-```cpp
-public ref class TermGroupItem abstract : ICloneable
-```
+
+
 
 
 Тип TermGroupItem предоставляет следующие члены.

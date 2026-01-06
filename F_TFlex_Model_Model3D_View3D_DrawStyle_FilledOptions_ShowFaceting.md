@@ -11,13 +11,8 @@
 ```csharp
 public bool ShowFaceting
 ```
-```vb
-Public ShowFaceting As Boolean
-```
-```cpp
-public:
-bool ShowFaceting
-```
+
+
 
 
 #### Значение поля

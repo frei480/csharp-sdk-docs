@@ -11,16 +11,8 @@
 ```csharp
 public bool IsCounterclockwise { get; }
 ```
-```vb
-Public ReadOnly Property IsCounterclockwise As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsCounterclockwise {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

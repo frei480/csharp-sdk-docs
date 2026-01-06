@@ -13,17 +13,8 @@ public bool CanSetProfileFacesG2Condition(
 	int profileIndex
 )
 ```
-```vb
-Public Function CanSetProfileFacesG2Condition ( 
-	profileIndex As Integer
-) As Boolean
-```
-```cpp
-public:
-bool CanSetProfileFacesG2Condition(
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

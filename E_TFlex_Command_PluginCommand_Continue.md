@@ -11,16 +11,8 @@
 ```csharp
 public event ContinueEventHandler Continue
 ```
-```vb
-Public Event Continue As ContinueEventHandler
-```
-```cpp
-public:
- event ContinueEventHandler^ Continue {
-	void add (ContinueEventHandler^ value);
-	void remove (ContinueEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

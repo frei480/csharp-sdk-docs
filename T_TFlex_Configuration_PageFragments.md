@@ -11,13 +11,8 @@
 ```csharp
 public class PageFragments : SettingsGroup
 ```
-```vb
-Public Class PageFragments
-	Inherits SettingsGroup
-```
-```cpp
-public ref class PageFragments : public SettingsGroup
-```
+
+
 
 
 Тип PageFragments предоставляет следующие члены.

@@ -14,19 +14,8 @@ protected virtual void OnSystemCommand(
 	int id
 )
 ```
-```vb
-Protected Overridable Sub OnSystemCommand ( 
-	pDocument As Document,
-	id As Integer
-)
-```
-```cpp
-protected:
-virtual void OnSystemCommand(
-	Document^ pDocument, 
-	int id
-)
-```
+
+
 
 
 #### Параметры

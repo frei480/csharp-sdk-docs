@@ -13,17 +13,8 @@ public void RemoveDragger(
 	Dragger dragger
 )
 ```
-```vb
-Public Sub RemoveDragger ( 
-	dragger As Dragger
-)
-```
-```cpp
-public:
-void RemoveDragger(
-	Dragger^ dragger
-)
-```
+
+
 
 
 #### Параметры

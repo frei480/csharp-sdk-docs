@@ -11,13 +11,8 @@
 ```csharp
 public CompositeParameterDataGenerator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CompositeParameterDataGenerator()
-```
+
+
 
 
 #### Ссылки

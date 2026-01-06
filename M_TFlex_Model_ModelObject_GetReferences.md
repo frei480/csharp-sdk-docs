@@ -11,19 +11,8 @@ public virtual IEnumerable<ModelObject> GetReferences(
 	uint firstIndex
 )
 ```
-```vb
-Public Overridable Function GetReferences ( 
-	id As Integer,
-	firstIndex As UInteger
-) As IEnumerable(Of ModelObject)
-```
-```cpp
-public:
-virtual IEnumerable<ModelObject^>^ GetReferences(
-	int id, 
-	unsigned int firstIndex
-)
-```
+
+
 
 
 #### Параметры

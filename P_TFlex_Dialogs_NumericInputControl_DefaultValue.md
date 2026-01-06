@@ -11,18 +11,8 @@
 ```csharp
 public double DefaultValue { get; set; }
 ```
-```vb
-Public Property DefaultValue As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double DefaultValue {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

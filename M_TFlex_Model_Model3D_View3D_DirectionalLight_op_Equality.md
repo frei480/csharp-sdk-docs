@@ -11,19 +11,8 @@ public static bool operator ==(
 	View3DDirectionalLight second
 )
 ```
-```vb
-Public Shared Operator = ( 
-	first As View3DDirectionalLight,
-	second As View3DDirectionalLight
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	View3DDirectionalLight first, 
-	View3DDirectionalLight second
-)
-```
+
+
 
 
 #### Параметры

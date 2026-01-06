@@ -11,13 +11,8 @@
 ```csharp
 public class Assembly : SettingsGroup
 ```
-```vb
-Public Class Assembly
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Assembly : public SettingsGroup
-```
+
+
 
 
 Тип Assembly предоставляет следующие члены.

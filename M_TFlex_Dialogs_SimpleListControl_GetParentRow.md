@@ -13,17 +13,8 @@ public int GetParentRow(
 	int row
 )
 ```
-```vb
-Public Function GetParentRow ( 
-	row As Integer
-) As Integer
-```
-```cpp
-public:
-int GetParentRow(
-	int row
-)
-```
+
+
 
 
 #### Параметры

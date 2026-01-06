@@ -11,16 +11,8 @@
 ```csharp
 public RectanglePipeRectangleProfileProperties ProfileProps { get; }
 ```
-```vb
-Public ReadOnly Property ProfileProps As RectanglePipeRectangleProfileProperties
-	Get
-```
-```cpp
-public:
-property RectanglePipeRectangleProfileProperties^ ProfileProps {
-	RectanglePipeRectangleProfileProperties^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

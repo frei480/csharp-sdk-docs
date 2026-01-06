@@ -11,18 +11,8 @@
 ```csharp
 public FormlimitsSymbolToleranceTypes ToleranceType { get; set; }
 ```
-```vb
-Public Property ToleranceType As FormlimitsSymbolToleranceTypes
-	Get
-	Set
-```
-```cpp
-public:
-property FormlimitsSymbolToleranceTypes ToleranceType {
-	FormlimitsSymbolToleranceTypes get ();
-	void set (FormlimitsSymbolToleranceTypes value);
-}
-```
+
+
 
 
 #### Значение свойства

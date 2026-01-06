@@ -13,19 +13,8 @@ public static ulong GetTopologyReferenceCount(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetTopologyReferenceCount ( 
-	document As Document
-) As ULong
-```
-```cpp
-public:
-[ExtensionAttribute]
-static unsigned long long GetTopologyReferenceCount(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

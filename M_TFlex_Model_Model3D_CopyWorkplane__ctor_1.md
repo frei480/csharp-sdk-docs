@@ -14,19 +14,8 @@ public CopyWorkplane(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-public:
-CopyWorkplane(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

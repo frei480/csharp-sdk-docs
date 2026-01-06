@@ -10,17 +10,8 @@ public void Assign(
 	DynamicToolbar source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As DynamicToolbar
-)
-```
-```cpp
-public:
-void Assign(
-	DynamicToolbar^ source
-)
-```
+
+
 
 
 #### Параметры

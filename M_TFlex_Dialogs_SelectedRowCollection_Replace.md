@@ -10,17 +10,8 @@ public void Replace(
 	IList<int> newSelectedRows
 )
 ```
-```vb
-Public Sub Replace ( 
-	newSelectedRows As IList(Of Integer)
-)
-```
-```cpp
-public:
-void Replace(
-	IList<int>^ newSelectedRows
-)
-```
+
+
 
 
 #### Параметры

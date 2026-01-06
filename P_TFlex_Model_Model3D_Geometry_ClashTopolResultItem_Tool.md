@@ -14,18 +14,8 @@
 [ObsoleteAttribute("This method is obsolete, value will not be returned and will be removed. Please use 'ToolTopol' method.")]
 public Topol Tool { get; }
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete, value will not be returned and will be removed. Please use 'ToolTopol' method.")>
-Public ReadOnly Property Tool As Topol
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete, value will not be returned and will be removed. Please use 'ToolTopol' method.")]
-property Topol^ Tool {
-	Topol^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

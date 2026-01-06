@@ -14,19 +14,8 @@ public int AddPoint(
 	bool tolerant
 )
 ```
-```vb
-Public Function AddPoint ( 
-	node As Node,
-	tolerant As Boolean
-) As Integer
-```
-```cpp
-public:
-int AddPoint(
-	Node^ node, 
-	bool tolerant
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ObjectCollectionHyperlinkProperties : HyperlinkPropertiesWithUserText
 ```
-```vb
-Public NotInheritable Class ObjectCollectionHyperlinkProperties
-	Inherits HyperlinkPropertiesWithUserText
-```
-```cpp
-public ref class ObjectCollectionHyperlinkProperties sealed : public HyperlinkPropertiesWithUserText
-```
+
+
 
 
 Тип ObjectCollectionHyperlinkProperties предоставляет следующие члены.

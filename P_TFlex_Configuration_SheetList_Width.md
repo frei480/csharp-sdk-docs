@@ -8,18 +8,8 @@
 ```csharp
 public double Width { get; set; }
 ```
-```vb
-Public Property Width As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Width {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

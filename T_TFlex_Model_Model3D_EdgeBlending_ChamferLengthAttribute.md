@@ -13,13 +13,8 @@
 ```csharp
 public class ChamferLengthAttribute : EdgeBlendingAttribute
 ```
-```vb
-Public Class ChamferLengthAttribute
-	Inherits EdgeBlendingAttribute
-```
-```cpp
-public ref class ChamferLengthAttribute : public EdgeBlendingAttribute
-```
+
+
 
 
 Тип EdgeBlendingChamferLengthAttribute предоставляет следующие члены.

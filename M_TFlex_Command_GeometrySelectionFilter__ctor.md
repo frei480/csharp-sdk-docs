@@ -11,13 +11,8 @@
 ```csharp
 public GeometrySelectionFilter()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-GeometrySelectionFilter()
-```
+
+
 
 
 #### Ссылки

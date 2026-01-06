@@ -11,18 +11,8 @@
 ```csharp
 public ParaFormat DefaultParagraphFormat { get; set; }
 ```
-```vb
-Public Property DefaultParagraphFormat As ParaFormat
-	Get
-	Set
-```
-```cpp
-public:
-property ParaFormat DefaultParagraphFormat {
-	ParaFormat get ();
-	void set (ParaFormat value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Microvolt { get; }
 ```
-```vb
-Public Shared ReadOnly Property Microvolt As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Microvolt {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

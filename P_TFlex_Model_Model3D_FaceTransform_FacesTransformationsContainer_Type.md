@@ -11,18 +11,8 @@
 ```csharp
 public FaceTransformFacesTransformationsContainerCoordinatSystemType Type { get; set; }
 ```
-```vb
-Public Property Type As FaceTransformFacesTransformationsContainerCoordinatSystemType
-	Get
-	Set
-```
-```cpp
-public:
-property FaceTransformFacesTransformationsContainerCoordinatSystemType Type {
-	FaceTransformFacesTransformationsContainerCoordinatSystemType get ();
-	void set (FaceTransformFacesTransformationsContainerCoordinatSystemType value);
-}
-```
+
+
 
 
 #### Значение свойства

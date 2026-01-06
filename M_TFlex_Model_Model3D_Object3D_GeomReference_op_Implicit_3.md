@@ -10,16 +10,8 @@ public static implicit operator Object3DGeomReference (
 	ModelCurve curve
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	curve As ModelCurve
-) As Object3DGeomReference
-```
-```cpp
-static implicit operator Object3DGeomReference^ (
-	ModelCurve^ curve
-)
-```
+
+
 
 
 #### Параметры

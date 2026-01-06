@@ -10,17 +10,8 @@ public Unit FindUnit(
 	Guid unitID
 )
 ```
-```vb
-Public Function FindUnit ( 
-	unitID As Guid
-) As Unit
-```
-```cpp
-public:
-Unit^ FindUnit(
-	Guid unitID
-)
-```
+
+
 
 
 #### Параметры

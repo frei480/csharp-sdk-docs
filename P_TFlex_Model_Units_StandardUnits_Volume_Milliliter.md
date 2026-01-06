@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Milliliter { get; }
 ```
-```vb
-Public Shared ReadOnly Property Milliliter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Milliliter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

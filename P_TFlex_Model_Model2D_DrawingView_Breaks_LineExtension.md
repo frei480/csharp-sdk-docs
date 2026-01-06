@@ -11,18 +11,8 @@
 ```csharp
 public Parameter LineExtension { get; set; }
 ```
-```vb
-Public Property LineExtension As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ LineExtension {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

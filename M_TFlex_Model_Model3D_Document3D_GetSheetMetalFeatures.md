@@ -13,19 +13,8 @@ public static ICollection<SheetMetalFeature> GetSheetMetalFeatures(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetSheetMetalFeatures ( 
-	document As Document
-) As ICollection(Of SheetMetalFeature)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<SheetMetalFeature^>^ GetSheetMetalFeatures(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

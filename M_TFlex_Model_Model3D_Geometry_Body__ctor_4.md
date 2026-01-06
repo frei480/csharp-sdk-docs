@@ -16,23 +16,8 @@ public Body(
 	BasePoint3D p3
 )
 ```
-```vb
-Public Sub New ( 
-	p0 As BasePoint3D,
-	p1 As BasePoint3D,
-	p2 As BasePoint3D,
-	p3 As BasePoint3D
-)
-```
-```cpp
-public:
-Body(
-	BasePoint3D^ p0, 
-	BasePoint3D^ p1, 
-	BasePoint3D^ p2, 
-	BasePoint3D^ p3
-)
-```
+
+
 
 
 #### Параметры

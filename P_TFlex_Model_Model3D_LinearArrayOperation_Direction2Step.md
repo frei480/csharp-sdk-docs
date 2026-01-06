@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Direction2Step { get; set; }
 ```
-```vb
-Public Property Direction2Step As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Direction2Step {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

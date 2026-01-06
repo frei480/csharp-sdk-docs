@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ForwardLength { get; set; }
 ```
-```vb
-Public Property ForwardLength As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ForwardLength {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

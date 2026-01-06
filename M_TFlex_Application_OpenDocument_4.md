@@ -13,17 +13,8 @@ public static Document OpenDocument(
 	FileLink link
 )
 ```
-```vb
-Public Shared Function OpenDocument ( 
-	link As FileLink
-) As Document
-```
-```cpp
-public:
-static Document^ OpenDocument(
-	FileLink^ link
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public static void RegenerateTextFrameFragments(
 	RichText text
 )
 ```
-```vb
-Public Shared Sub RegenerateTextFrameFragments ( 
-	text As RichText
-)
-```
-```cpp
-public:
-static void RegenerateTextFrameFragments(
-	RichText^ text
-)
-```
+
+
 
 
 #### Параметры

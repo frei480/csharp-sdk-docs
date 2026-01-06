@@ -14,19 +14,8 @@ public bool Export(
 	ImageExport options
 )
 ```
-```vb
-Public Function Export ( 
-	fileName As String,
-	options As ImageExport
-) As Boolean
-```
-```cpp
-public:
-bool Export(
-	String^ fileName, 
-	ImageExport options
-)
-```
+
+
 
 
 #### Параметры

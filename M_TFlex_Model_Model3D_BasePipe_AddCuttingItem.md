@@ -13,17 +13,8 @@ public bool AddCuttingItem(
 	Operation pOperation
 )
 ```
-```vb
-Public Function AddCuttingItem ( 
-	pOperation As Operation
-) As Boolean
-```
-```cpp
-public:
-bool AddCuttingItem(
-	Operation^ pOperation
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public LinkLineStandart LinkStandart { get; set; }
 ```
-```vb
-Public Property LinkStandart As LinkLineStandart
-	Get
-	Set
-```
-```cpp
-public:
-property LinkLineStandart LinkStandart {
-	LinkLineStandart get ();
-	void set (LinkLineStandart value);
-}
-```
+
+
 
 
 #### Значение свойства

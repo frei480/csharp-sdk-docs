@@ -11,12 +11,8 @@
 ```csharp
 public enum OffsetType
 ```
-```vb
-Public Enumeration OffsetType
-```
-```cpp
-public enum class OffsetType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

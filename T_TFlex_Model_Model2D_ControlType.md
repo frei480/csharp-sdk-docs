@@ -11,12 +11,8 @@
 ```csharp
 public enum ControlType
 ```
-```vb
-Public Enumeration ControlType
-```
-```cpp
-public enum class ControlType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

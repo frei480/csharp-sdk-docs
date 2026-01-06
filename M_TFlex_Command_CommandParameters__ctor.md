@@ -11,13 +11,8 @@
 ```csharp
 public CommandParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CommandParameters()
-```
+
+
 
 
 #### Ссылки

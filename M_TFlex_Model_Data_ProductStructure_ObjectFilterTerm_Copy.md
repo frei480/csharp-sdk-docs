@@ -8,13 +8,8 @@
 ```csharp
 public ObjectFilterTerm Copy()
 ```
-```vb
-Public Function Copy As ObjectFilterTerm
-```
-```cpp
-public:
-ObjectFilterTerm^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Model3DObjectGroup : Object3D
 ```
-```vb
-Public NotInheritable Class Model3DObjectGroup
-	Inherits Object3D
-```
-```cpp
-public ref class Model3DObjectGroup sealed : public Object3D
-```
+
+
 
 
 Тип Model3DObjectGroup предоставляет следующие члены.

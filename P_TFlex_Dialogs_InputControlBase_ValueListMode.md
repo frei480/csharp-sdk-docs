@@ -11,18 +11,8 @@
 ```csharp
 public ValueListMode ValueListMode { get; set; }
 ```
-```vb
-Public Property ValueListMode As ValueListMode
-	Get
-	Set
-```
-```cpp
-public:
-property ValueListMode ValueListMode {
-	ValueListMode get ();
-	void set (ValueListMode value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public bool RemoveSource(
 	int index
 )
 ```
-```vb
-Public Function RemoveSource ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool RemoveSource(
-	int index
-)
-```
+
+
 
 
 #### Параметры

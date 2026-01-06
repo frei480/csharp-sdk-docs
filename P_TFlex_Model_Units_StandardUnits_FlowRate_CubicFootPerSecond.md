@@ -13,16 +13,8 @@
 ```csharp
 public static Unit CubicFootPerSecond { get; }
 ```
-```vb
-Public Shared ReadOnly Property CubicFootPerSecond As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ CubicFootPerSecond {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

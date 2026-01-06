@@ -13,13 +13,8 @@
 ```csharp
 public sealed class View3D : View
 ```
-```vb
-Public NotInheritable Class View3D
-	Inherits View
-```
-```cpp
-public ref class View3D sealed : public View
-```
+
+
 
 
 Тип View3D предоставляет следующие члены.

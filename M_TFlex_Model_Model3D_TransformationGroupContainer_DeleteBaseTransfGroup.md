@@ -13,17 +13,8 @@ public void DeleteBaseTransfGroup(
 	int index
 )
 ```
-```vb
-Public Sub DeleteBaseTransfGroup ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void DeleteBaseTransfGroup(
-	int index
-)
-```
+
+
 
 
 #### Параметры

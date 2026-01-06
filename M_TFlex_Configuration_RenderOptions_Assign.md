@@ -10,17 +10,8 @@ public void Assign(
 	RenderOptions source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As RenderOptions
-)
-```
-```cpp
-public:
-void Assign(
-	RenderOptions^ source
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public void SetNodeAndAngle(
 	Parameter angle
 )
 ```
-```vb
-Public Sub SetNodeAndAngle ( 
-	node As Node,
-	angle As Parameter
-)
-```
-```cpp
-public:
-void SetNodeAndAngle(
-	Node^ node, 
-	Parameter^ angle
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public Color ActiveColor { get; set; }
 ```
-```vb
-Public Property ActiveColor As Color
-	Get
-	Set
-```
-```cpp
-public:
-property Color ActiveColor {
-	Color get ();
-	void set (Color value);
-}
-```
+
+
 
 
 #### Значение свойства

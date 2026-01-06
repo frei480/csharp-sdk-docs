@@ -10,17 +10,8 @@ public static MenuItem ShowEditListPopup(
 	EditListPopupProperties properties
 )
 ```
-```vb
-Public Shared Function ShowEditListPopup ( 
-	properties As EditListPopupProperties
-) As MenuItem
-```
-```cpp
-public:
-static MenuItem^ ShowEditListPopup(
-	EditListPopupProperties^ properties
-)
-```
+
+
 
 
 #### Параметры

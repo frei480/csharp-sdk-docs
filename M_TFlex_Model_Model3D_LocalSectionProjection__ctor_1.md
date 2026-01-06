@@ -14,19 +14,8 @@ public LocalSectionProjection(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-public:
-LocalSectionProjection(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

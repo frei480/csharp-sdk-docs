@@ -13,13 +13,8 @@
 ```csharp
 public class ModelSurface : BaseSurface
 ```
-```vb
-Public Class ModelSurface
-	Inherits BaseSurface
-```
-```cpp
-public ref class ModelSurface : public BaseSurface
-```
+
+
 
 
 Тип ModelSurface предоставляет следующие члены.

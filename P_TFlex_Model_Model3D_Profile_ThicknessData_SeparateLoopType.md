@@ -11,18 +11,8 @@
 ```csharp
 public ProfileThicknessDataSeparateLoop SeparateLoopType { get; set; }
 ```
-```vb
-Public Property SeparateLoopType As ProfileThicknessDataSeparateLoop
-	Get
-	Set
-```
-```cpp
-public:
-property ProfileThicknessDataSeparateLoop SeparateLoopType {
-	ProfileThicknessDataSeparateLoop get ();
-	void set (ProfileThicknessDataSeparateLoop value);
-}
-```
+
+
 
 
 #### Значение свойства

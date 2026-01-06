@@ -11,18 +11,8 @@
 ```csharp
 public DimensionAltTolerType AltTolerType { get; set; }
 ```
-```vb
-Public Property AltTolerType As DimensionAltTolerType
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionAltTolerType AltTolerType {
-	DimensionAltTolerType get ();
-	void set (DimensionAltTolerType value);
-}
-```
+
+
 
 
 #### Значение свойства

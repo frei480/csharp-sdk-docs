@@ -13,16 +13,8 @@
 ```csharp
 public static Unit FahrenheitDegreePerInch { get; }
 ```
-```vb
-Public Shared ReadOnly Property FahrenheitDegreePerInch As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ FahrenheitDegreePerInch {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

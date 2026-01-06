@@ -11,13 +11,8 @@
 ```csharp
 public BoolOverrideCollection()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-BoolOverrideCollection()
-```
+
+
 
 
 #### Ссылки

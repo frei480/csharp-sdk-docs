@@ -8,16 +8,8 @@
 ```csharp
 public Collection SheetListArray { get; }
 ```
-```vb
-Public ReadOnly Property SheetListArray As Collection
-	Get
-```
-```cpp
-public:
-property Collection^ SheetListArray {
-	Collection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

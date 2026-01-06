@@ -8,13 +8,8 @@
 ```csharp
 public string GetFolder()
 ```
-```vb
-Public Function GetFolder As String
-```
-```cpp
-public:
-String^ GetFolder()
-```
+
+
 
 
 #### Возвращаемое значение

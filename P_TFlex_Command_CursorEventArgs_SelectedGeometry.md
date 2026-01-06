@@ -11,16 +11,8 @@
 ```csharp
 public IObjectGeometry SelectedGeometry { get; }
 ```
-```vb
-Public ReadOnly Property SelectedGeometry As IObjectGeometry
-	Get
-```
-```cpp
-public:
-property IObjectGeometry^ SelectedGeometry {
-	IObjectGeometry^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,12 +8,8 @@
 ```csharp
 public enum ValueListSource
 ```
-```vb
-Public Enumeration ValueListSource
-```
-```cpp
-public enum class ValueListSource
-```
+
+
 
 
 | Имя члена | Значение | Описание |

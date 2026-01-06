@@ -14,18 +14,8 @@ public delegate void MouseEventHandler(
 	MouseEventArgs e
 )
 ```
-```vb
-Public Delegate Sub MouseEventHandler ( 
-	sender As Object,
-	e As MouseEventArgs
-)
-```
-```cpp
-public delegate void MouseEventHandler(
-	Object^ sender, 
-	MouseEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

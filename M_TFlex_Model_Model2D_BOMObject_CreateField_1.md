@@ -15,21 +15,8 @@ public void CreateField(
 	BOMObjectFiledType type
 )
 ```
-```vb
-<ObsoleteAttribute("Erratum, use FieldType")>
-Public Sub CreateField ( 
-	name As String,
-	type As BOMObjectFiledType
-)
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Erratum, use FieldType")]
-void CreateField(
-	String^ name, 
-	BOMObjectFiledType type
-)
-```
+
+
 
 
 #### Параметры

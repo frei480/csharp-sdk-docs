@@ -13,13 +13,8 @@
 ```csharp
 public class ImportedLCS : LCS
 ```
-```vb
-Public Class ImportedLCS
-	Inherits LCS
-```
-```cpp
-public ref class ImportedLCS : public LCS
-```
+
+
 
 
 Тип ImportedLCS предоставляет следующие члены.

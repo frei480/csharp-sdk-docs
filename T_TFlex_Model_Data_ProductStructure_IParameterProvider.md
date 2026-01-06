@@ -11,13 +11,8 @@
 ```csharp
 public abstract class IParameterProvider : ICloneable
 ```
-```vb
-Public MustInherit Class IParameterProvider
-	Implements ICloneable
-```
-```cpp
-public ref class IParameterProvider abstract : ICloneable
-```
+
+
 
 
 Тип IParameterProvider предоставляет следующие члены.

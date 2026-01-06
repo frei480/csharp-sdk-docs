@@ -13,16 +13,8 @@
 ```csharp
 public static Unit AmperesPerSquareCentimeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property AmperesPerSquareCentimeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ AmperesPerSquareCentimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

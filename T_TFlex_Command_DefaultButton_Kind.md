@@ -11,12 +11,8 @@
 ```csharp
 public enum Kind
 ```
-```vb
-Public Enumeration Kind
-```
-```cpp
-public enum class Kind
-```
+
+
 
 
 | Имя члена | Значение | Описание |

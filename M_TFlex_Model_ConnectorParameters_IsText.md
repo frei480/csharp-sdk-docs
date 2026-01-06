@@ -13,17 +13,8 @@ public bool IsText(
 	int index
 )
 ```
-```vb
-Public Function IsText ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool IsText(
-	int index
-)
-```
+
+
 
 
 #### Параметры

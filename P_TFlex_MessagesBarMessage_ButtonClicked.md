@@ -11,18 +11,8 @@
 ```csharp
 public EventHandler<MessagesBarClickEventArgs> ButtonClicked { get; set; }
 ```
-```vb
-Public Property ButtonClicked As EventHandler(Of MessagesBarClickEventArgs)
-	Get
-	Set
-```
-```cpp
-public:
-property EventHandler<MessagesBarClickEventArgs^>^ ButtonClicked {
-	EventHandler<MessagesBarClickEventArgs^>^ get ();
-	void set (EventHandler<MessagesBarClickEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

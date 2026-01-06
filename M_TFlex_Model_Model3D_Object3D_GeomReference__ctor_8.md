@@ -13,17 +13,8 @@ public GeomReference(
 	ModelDirection direction
 )
 ```
-```vb
-Public Sub New ( 
-	direction As ModelDirection
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelDirection^ direction
-)
-```
+
+
 
 
 #### Параметры

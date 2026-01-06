@@ -8,18 +8,8 @@
 ```csharp
 public bool IgnoreEmptyFragment { get; set; }
 ```
-```vb
-Public Property IgnoreEmptyFragment As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IgnoreEmptyFragment {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

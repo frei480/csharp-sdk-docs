@@ -13,17 +13,8 @@ public bool SetEraseMode(
 	bool value
 )
 ```
-```vb
-Public Function SetEraseMode ( 
-	value As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool SetEraseMode(
-	bool value
-)
-```
+
+
 
 
 #### Параметры

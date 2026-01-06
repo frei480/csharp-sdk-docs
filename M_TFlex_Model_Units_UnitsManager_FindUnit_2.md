@@ -11,19 +11,8 @@ public Unit FindUnit(
 	FindUnitMode mode
 )
 ```
-```vb
-Public Function FindUnit ( 
-	unitName As String,
-	mode As FindUnitMode
-) As Unit
-```
-```cpp
-public:
-Unit^ FindUnit(
-	String^ unitName, 
-	FindUnitMode mode
-)
-```
+
+
 
 
 #### Параметры

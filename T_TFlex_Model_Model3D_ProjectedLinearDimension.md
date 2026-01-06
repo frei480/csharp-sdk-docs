@@ -13,13 +13,8 @@
 ```csharp
 public class ProjectedLinearDimension : LinearDimensionBase
 ```
-```vb
-Public Class ProjectedLinearDimension
-	Inherits LinearDimensionBase
-```
-```cpp
-public ref class ProjectedLinearDimension : public LinearDimensionBase
-```
+
+
 
 
 Тип ProjectedLinearDimension предоставляет следующие члены.

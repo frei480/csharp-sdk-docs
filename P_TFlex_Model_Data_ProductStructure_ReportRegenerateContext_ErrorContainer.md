@@ -8,16 +8,8 @@
 ```csharp
 public List<GenerationError> ErrorContainer { get; }
 ```
-```vb
-Public ReadOnly Property ErrorContainer As List(Of GenerationError)
-	Get
-```
-```cpp
-public:
-property List<GenerationError^>^ ErrorContainer {
-	List<GenerationError^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

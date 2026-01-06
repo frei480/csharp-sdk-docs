@@ -11,13 +11,8 @@
 ```csharp
 public class GeomReference : ModelObjectReference
 ```
-```vb
-Public Class GeomReference
-	Inherits ModelObjectReference
-```
-```cpp
-public ref class GeomReference : public ModelObjectReference
-```
+
+
 
 
 Тип Object3DGeomReference предоставляет следующие члены.

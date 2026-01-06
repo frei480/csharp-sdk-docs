@@ -14,19 +14,8 @@ public Lump(
 	uint id
 )
 ```
-```vb
-Public Sub New ( 
-	loops As SheetFromTrimmedSurfaceLumpLoop(),
-	id As UInteger
-)
-```
-```cpp
-public:
-Lump(
-	array<SheetFromTrimmedSurfaceLumpLoop^>^ loops, 
-	unsigned int id
-)
-```
+
+
 
 
 #### Параметры

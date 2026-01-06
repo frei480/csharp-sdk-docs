@@ -14,19 +14,8 @@ public bool DeletePage(
 	DeleteOptions options
 )
 ```
-```vb
-Public Function DeletePage ( 
-	page As Page,
-	options As DeleteOptions
-) As Boolean
-```
-```cpp
-public:
-bool DeletePage(
-	Page^ page, 
-	DeleteOptions^ options
-)
-```
+
+
 
 
 #### Параметры

@@ -13,19 +13,8 @@ public static ICollection<Fragment3D> GetFragments3D(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetFragments3D ( 
-	document As Document
-) As ICollection(Of Fragment3D)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Fragment3D^>^ GetFragments3D(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

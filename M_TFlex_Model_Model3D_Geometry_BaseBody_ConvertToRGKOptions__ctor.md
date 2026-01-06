@@ -11,13 +11,8 @@
 ```csharp
 public ConvertToRGKOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ConvertToRGKOptions()
-```
+
+
 
 
 #### Ссылки

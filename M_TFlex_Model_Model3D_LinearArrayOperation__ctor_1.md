@@ -14,19 +14,8 @@ public LinearArrayOperation(
 	ArrayOperationType type
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	type As ArrayOperationType
-)
-```
-```cpp
-public:
-LinearArrayOperation(
-	Document^ Doc, 
-	ArrayOperationType type
-)
-```
+
+
 
 
 #### Параметры

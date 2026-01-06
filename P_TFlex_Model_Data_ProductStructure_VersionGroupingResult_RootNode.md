@@ -8,16 +8,8 @@
 ```csharp
 public IGroupingResultNode RootNode { get; }
 ```
-```vb
-Public ReadOnly Property RootNode As IGroupingResultNode
-	Get
-```
-```cpp
-public:
-property IGroupingResultNode^ RootNode {
-	IGroupingResultNode^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

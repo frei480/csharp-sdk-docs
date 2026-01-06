@@ -13,12 +13,8 @@
 ```csharp
 public struct UnloadBodyOptions
 ```
-```vb
-Public Structure UnloadBodyOptions
-```
-```cpp
-public value class UnloadBodyOptions
-```
+
+
 
 
 Тип BodyPartUnloadBodyOptions предоставляет следующие члены.

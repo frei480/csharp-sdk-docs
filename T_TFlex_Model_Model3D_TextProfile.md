@@ -13,13 +13,8 @@
 ```csharp
 public class TextProfile : Profile
 ```
-```vb
-Public Class TextProfile
-	Inherits Profile
-```
-```cpp
-public ref class TextProfile : public Profile
-```
+
+
 
 
 Тип TextProfile предоставляет следующие члены.

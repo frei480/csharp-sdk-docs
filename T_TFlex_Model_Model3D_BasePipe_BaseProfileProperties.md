@@ -13,12 +13,8 @@
 ```csharp
 public class BaseProfileProperties
 ```
-```vb
-Public Class BaseProfileProperties
-```
-```cpp
-public ref class BaseProfileProperties
-```
+
+
 
 
 Тип BasePipeBaseProfileProperties предоставляет следующие члены.

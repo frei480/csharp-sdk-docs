@@ -11,18 +11,8 @@
 ```csharp
 public ImprintImprintExtendType ImprintExtend { get; set; }
 ```
-```vb
-Public Property ImprintExtend As ImprintImprintExtendType
-	Get
-	Set
-```
-```cpp
-public:
-property ImprintImprintExtendType ImprintExtend {
-	ImprintImprintExtendType get ();
-	void set (ImprintImprintExtendType value);
-}
-```
+
+
 
 
 #### Значение свойства

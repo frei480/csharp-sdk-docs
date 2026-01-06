@@ -11,16 +11,8 @@
 ```csharp
 public bool UsePattern { set; }
 ```
-```vb
-Public WriteOnly Property UsePattern As Boolean
-	Set
-```
-```cpp
-public:
-property bool UsePattern {
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

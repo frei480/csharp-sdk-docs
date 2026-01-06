@@ -13,13 +13,8 @@
 ```csharp
 public class EdgePoint : LoftOperationPointOnContour
 ```
-```vb
-Public Class EdgePoint
-	Inherits LoftOperationPointOnContour
-```
-```cpp
-public ref class EdgePoint : public LoftOperationPointOnContour
-```
+
+
 
 
 Тип LoftOperationEdgePoint предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public ProductStructureExportOptionsDecimalDelimiterType DecimalDelimiter { get; set; }
 ```
-```vb
-Public Property DecimalDelimiter As ProductStructureExportOptionsDecimalDelimiterType
-	Get
-	Set
-```
-```cpp
-public:
-property ProductStructureExportOptionsDecimalDelimiterType DecimalDelimiter {
-	ProductStructureExportOptionsDecimalDelimiterType get ();
-	void set (ProductStructureExportOptionsDecimalDelimiterType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool Interpolating { get; set; }
 ```
-```vb
-Public Property Interpolating As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Interpolating {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

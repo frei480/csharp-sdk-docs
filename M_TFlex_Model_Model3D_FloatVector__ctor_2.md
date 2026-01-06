@@ -13,17 +13,8 @@ public FloatVector(
 	BasePoint3D point
 )
 ```
-```vb
-Public Sub New ( 
-	point As BasePoint3D
-)
-```
-```cpp
-public:
-FloatVector(
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

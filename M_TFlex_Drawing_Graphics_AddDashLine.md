@@ -13,17 +13,8 @@ public void AddDashLine(
 	double length
 )
 ```
-```vb
-Public Sub AddDashLine ( 
-	length As Double
-)
-```
-```cpp
-public:
-void AddDashLine(
-	double length
-)
-```
+
+
 
 
 #### Параметры

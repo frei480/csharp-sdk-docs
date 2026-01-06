@@ -13,17 +13,8 @@ public bool SaveCopy(
 	string fileName
 )
 ```
-```vb
-Public Function SaveCopy ( 
-	fileName As String
-) As Boolean
-```
-```cpp
-public:
-bool SaveCopy(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

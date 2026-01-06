@@ -11,18 +11,8 @@
 ```csharp
 public bool IncludeDefaultItems { get; set; }
 ```
-```vb
-Public Property IncludeDefaultItems As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IncludeDefaultItems {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

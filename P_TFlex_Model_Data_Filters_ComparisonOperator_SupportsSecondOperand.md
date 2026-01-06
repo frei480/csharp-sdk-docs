@@ -11,16 +11,8 @@
 ```csharp
 public virtual bool SupportsSecondOperand { get; }
 ```
-```vb
-Public Overridable ReadOnly Property SupportsSecondOperand As Boolean
-	Get
-```
-```cpp
-public:
-virtual property bool SupportsSecondOperand {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

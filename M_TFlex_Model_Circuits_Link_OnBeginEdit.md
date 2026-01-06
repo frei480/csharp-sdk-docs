@@ -11,13 +11,8 @@
 ```csharp
 public virtual void OnBeginEdit()
 ```
-```vb
-Public Overridable Sub OnBeginEdit
-```
-```cpp
-public:
-virtual void OnBeginEdit()
-```
+
+
 
 
 #### Ссылки

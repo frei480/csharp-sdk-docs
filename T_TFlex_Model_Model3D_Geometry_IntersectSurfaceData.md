@@ -13,12 +13,8 @@
 ```csharp
 public sealed class IntersectSurfaceData
 ```
-```vb
-Public NotInheritable Class IntersectSurfaceData
-```
-```cpp
-public ref class IntersectSurfaceData sealed
-```
+
+
 
 
 Тип IntersectSurfaceData предоставляет следующие члены.

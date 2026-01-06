@@ -8,13 +8,8 @@
 ```csharp
 public void ClearParameters()
 ```
-```vb
-Public Sub ClearParameters
-```
-```cpp
-public:
-void ClearParameters()
-```
+
+
 
 
 #### Ссылки

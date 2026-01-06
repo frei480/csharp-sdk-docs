@@ -13,17 +13,8 @@ public bool IsReal(
 	int index
 )
 ```
-```vb
-Public Function IsReal ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool IsReal(
-	int index
-)
-```
+
+
 
 
 #### Параметры

@@ -10,20 +10,8 @@ public SplinewiseDataPositionsPosition this[
 	uint index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As UInteger
-) As SplinewiseDataPositionsPosition
-	Get
-	Set
-```
-```cpp
-public:
-property SplinewiseDataPositionsPosition^ default[unsigned int index] {
-	SplinewiseDataPositionsPosition^ get (unsigned int index);
-	void set (unsigned int index, SplinewiseDataPositionsPosition^ value);
-}
-```
+
+
 
 
 #### Параметры

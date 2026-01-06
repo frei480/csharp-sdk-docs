@@ -14,15 +14,8 @@
 public abstract class ViewSymbol : Object2D, 
 	IModelObjectWithLayer
 ```
-```vb
-Public MustInherit Class ViewSymbol
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class ViewSymbol abstract : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип ViewSymbol предоставляет следующие члены.

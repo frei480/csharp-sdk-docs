@@ -11,12 +11,8 @@
 ```csharp
 public enum CenterAxisType
 ```
-```vb
-Public Enumeration CenterAxisType
-```
-```cpp
-public enum class CenterAxisType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

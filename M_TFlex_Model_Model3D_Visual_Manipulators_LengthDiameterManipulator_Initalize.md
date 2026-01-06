@@ -13,23 +13,8 @@ public void Initalize(
 	double length
 )
 ```
-```vb
-Public Sub Initalize ( 
-	axis As BaseAxis,
-	ref_dir As BaseDirection,
-	diameter As Double,
-	length As Double
-)
-```
-```cpp
-public:
-void Initalize(
-	BaseAxis^ axis, 
-	BaseDirection^ ref_dir, 
-	double diameter, 
-	double length
-)
-```
+
+
 
 
 #### Параметры

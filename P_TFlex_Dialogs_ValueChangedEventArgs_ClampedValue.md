@@ -11,16 +11,8 @@
 ```csharp
 public double ClampedValue { get; }
 ```
-```vb
-Public ReadOnly Property ClampedValue As Double
-	Get
-```
-```cpp
-public:
-property double ClampedValue {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

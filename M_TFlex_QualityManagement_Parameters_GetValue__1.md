@@ -15,20 +15,8 @@ public T GetValue<T>(
 )
 
 ```
-```vb
-Public Function GetValue(Of T) ( 
-	key As String,
-	defaultValue As T
-) As T
-```
-```cpp
-public:
-generic<typename T>
-T GetValue(
-	String^ key, 
-	T defaultValue
-)
-```
+
+
 
 
 #### Параметры

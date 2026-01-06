@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ObjectArray : IEnumerable<ModelObject>
 ```
-```vb
-Public NotInheritable Class ObjectArray
-	Implements IEnumerable(Of ModelObject)
-```
-```cpp
-public ref class ObjectArray sealed : IEnumerable<ModelObject^>
-```
+
+
 
 
 Тип ObjectArray предоставляет следующие члены.

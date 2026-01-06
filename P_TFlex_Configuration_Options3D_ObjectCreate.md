@@ -8,18 +8,8 @@
 ```csharp
 public ObjectCreateAction ObjectCreate { get; set; }
 ```
-```vb
-Public Property ObjectCreate As ObjectCreateAction
-	Get
-	Set
-```
-```cpp
-public:
-property ObjectCreateAction ObjectCreate {
-	ObjectCreateAction get ();
-	void set (ObjectCreateAction value);
-}
-```
+
+
 
 
 #### Значение свойства

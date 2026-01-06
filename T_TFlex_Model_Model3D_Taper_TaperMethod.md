@@ -11,12 +11,8 @@
 ```csharp
 public enum TaperMethod
 ```
-```vb
-Public Enumeration TaperMethod
-```
-```cpp
-public enum class TaperMethod
-```
+
+
 
 
 | Имя члена | Значение | Описание |

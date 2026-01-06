@@ -11,13 +11,8 @@
 ```csharp
 public ParameterInfo()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ParameterInfo()
-```
+
+
 
 
 #### Ссылки

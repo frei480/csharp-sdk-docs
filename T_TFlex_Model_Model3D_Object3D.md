@@ -13,15 +13,8 @@
 ```csharp
 public class Object3D : ModelObject, IModelObjectWithLayer
 ```
-```vb
-Public Class Object3D
-	Inherits ModelObject
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class Object3D : public ModelObject, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип Object3D предоставляет следующие члены.

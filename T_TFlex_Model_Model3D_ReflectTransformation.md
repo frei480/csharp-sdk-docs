@@ -13,13 +13,8 @@
 ```csharp
 public class ReflectTransformation : Transformation
 ```
-```vb
-Public Class ReflectTransformation
-	Inherits Transformation
-```
-```cpp
-public ref class ReflectTransformation : public Transformation
-```
+
+
 
 
 Тип ReflectTransformation предоставляет следующие члены.

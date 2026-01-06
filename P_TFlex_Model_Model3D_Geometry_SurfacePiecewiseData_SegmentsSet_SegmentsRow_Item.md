@@ -10,18 +10,8 @@ public SurfacePiecewiseDataSegmentsSetSegmentsRowSegment this[
 	uint index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As UInteger
-) As SurfacePiecewiseDataSegmentsSetSegmentsRowSegment
-	Get
-```
-```cpp
-public:
-property SurfacePiecewiseDataSegmentsSetSegmentsRowSegment^ default[unsigned int index] {
-	SurfacePiecewiseDataSegmentsSetSegmentsRowSegment^ get (unsigned int index);
-}
-```
+
+
 
 
 #### Параметры

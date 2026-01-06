@@ -11,13 +11,8 @@
 ```csharp
 public int Rows
 ```
-```vb
-Public Rows As Integer
-```
-```cpp
-public:
-int Rows
-```
+
+
 
 
 #### Значение поля

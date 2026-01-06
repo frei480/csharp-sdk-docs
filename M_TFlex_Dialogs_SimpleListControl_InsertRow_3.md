@@ -14,19 +14,8 @@ public void InsertRow(
 	params Object[] data
 )
 ```
-```vb
-Public Sub InsertRow ( 
-	pos As Integer,
-	ParamArray data As Object()
-)
-```
-```cpp
-public:
-void InsertRow(
-	int pos, 
-	... array<Object^>^ data
-)
-```
+
+
 
 
 #### Параметры

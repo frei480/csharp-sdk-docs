@@ -8,15 +8,8 @@
 ```csharp
 protected FFBlendOper* FFBlendOperSet { get; }
 ```
-```vb
-Visual Basic не поддерживает интерфейсы API, которые принимают или возвращают небезопасные типы.
-```
-```cpp
-protected:
-property FFBlendOper* FFBlendOperSet {
-	FFBlendOper* get ();
-}
-```
+
+
 
 
 #### Значение свойства

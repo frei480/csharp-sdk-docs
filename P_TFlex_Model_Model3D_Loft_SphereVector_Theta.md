@@ -11,16 +11,8 @@
 ```csharp
 public Parameter Theta { get; }
 ```
-```vb
-Public ReadOnly Property Theta As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ Theta {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

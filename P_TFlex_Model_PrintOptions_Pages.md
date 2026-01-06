@@ -11,18 +11,8 @@
 ```csharp
 public List<Page> Pages { get; set; }
 ```
-```vb
-Public Property Pages As List(Of Page)
-	Get
-	Set
-```
-```cpp
-public:
-property List<Page^>^ Pages {
-	List<Page^>^ get ();
-	void set (List<Page^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

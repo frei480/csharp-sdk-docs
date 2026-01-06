@@ -13,17 +13,8 @@ protected virtual Response OnCallRestCallback(
 	Request request
 )
 ```
-```vb
-Protected Overridable Function OnCallRestCallback ( 
-	request As Request
-) As Response
-```
-```cpp
-protected:
-virtual Response^ OnCallRestCallback(
-	Request^ request
-)
-```
+
+
 
 
 #### Параметры

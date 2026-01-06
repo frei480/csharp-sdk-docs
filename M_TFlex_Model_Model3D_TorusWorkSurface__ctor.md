@@ -13,17 +13,8 @@ public TorusWorkSurface(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-TorusWorkSurface(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

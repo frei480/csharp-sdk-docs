@@ -11,13 +11,8 @@
 ```csharp
 public VectorDirection()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-VectorDirection()
-```
+
+
 
 
 #### Ссылки

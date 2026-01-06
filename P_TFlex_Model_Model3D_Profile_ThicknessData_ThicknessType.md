@@ -11,18 +11,8 @@
 ```csharp
 public ProfileThicknessDataThickness ThicknessType { get; set; }
 ```
-```vb
-Public Property ThicknessType As ProfileThicknessDataThickness
-	Get
-	Set
-```
-```cpp
-public:
-property ProfileThicknessDataThickness ThicknessType {
-	ProfileThicknessDataThickness get ();
-	void set (ProfileThicknessDataThickness value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public ModelTopol Value { get; set; }
 ```
-```vb
-Public Property Value As ModelTopol
-	Get
-	Set
-```
-```cpp
-public:
-property ModelTopol^ Value {
-	ModelTopol^ get ();
-	void set (ModelTopol^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<WireSetManipulatorConnectConductorsEventArgs> OnConnectConductors
 ```
-```vb
-Public Event OnConnectConductors As EventHandler(Of WireSetManipulatorConnectConductorsEventArgs)
-```
-```cpp
-public:
- event EventHandler<WireSetManipulatorConnectConductorsEventArgs^>^ OnConnectConductors {
-	void add (EventHandler<WireSetManipulatorConnectConductorsEventArgs^>^ value);
-	void remove (EventHandler<WireSetManipulatorConnectConductorsEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

@@ -8,18 +8,8 @@
 ```csharp
 public StringParameter SpecialFontName { get; set; }
 ```
-```vb
-Public Property SpecialFontName As StringParameter
-	Get
-	Set
-```
-```cpp
-public:
-property StringParameter^ SpecialFontName {
-	StringParameter^ get ();
-	void set (StringParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

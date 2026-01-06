@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<WeldType> GetWeldTypes()
 ```
-```vb
-Public Function GetWeldTypes As ICollection(Of WeldType)
-```
-```cpp
-public:
-ICollection<WeldType^>^ GetWeldTypes()
-```
+
+
 
 
 #### Возвращаемое значение

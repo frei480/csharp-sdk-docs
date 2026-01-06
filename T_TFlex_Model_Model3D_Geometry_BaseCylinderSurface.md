@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseCylinderSurface
 ```
-```vb
-Public Interface BaseCylinderSurface
-```
-```cpp
-public interface class BaseCylinderSurface
-```
+
+
 
 
 Тип BaseCylinderSurface предоставляет следующие члены.

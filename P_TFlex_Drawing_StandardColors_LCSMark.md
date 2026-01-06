@@ -11,16 +11,8 @@
 ```csharp
 public static Color LCSMark { get; }
 ```
-```vb
-Public Shared ReadOnly Property LCSMark As Color
-	Get
-```
-```cpp
-public:
-static property Color LCSMark {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

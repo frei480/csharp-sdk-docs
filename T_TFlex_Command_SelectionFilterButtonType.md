@@ -8,12 +8,8 @@
 ```csharp
 public enum SelectionFilterButtonType
 ```
-```vb
-Public Enumeration SelectionFilterButtonType
-```
-```cpp
-public enum class SelectionFilterButtonType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

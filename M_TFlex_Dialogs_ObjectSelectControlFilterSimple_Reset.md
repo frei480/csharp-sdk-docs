@@ -11,19 +11,8 @@ public override sealed void Reset(
 	bool flushCache
 )
 ```
-```vb
-Public Overrides NotOverridable Sub Reset ( 
-	userText As String,
-	flushCache As Boolean
-)
-```
-```cpp
-public:
-virtual void Reset(
-	String^ userText, 
-	bool flushCache
-) override sealed
-```
+
+
 
 
 #### Параметры

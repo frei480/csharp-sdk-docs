@@ -8,18 +8,8 @@
 ```csharp
 public LinkCardinality Cardinality { get; set; }
 ```
-```vb
-Public Property Cardinality As LinkCardinality
-	Get
-	Set
-```
-```cpp
-public:
-property LinkCardinality Cardinality {
-	LinkCardinality get ();
-	void set (LinkCardinality value);
-}
-```
+
+
 
 
 #### Значение свойства

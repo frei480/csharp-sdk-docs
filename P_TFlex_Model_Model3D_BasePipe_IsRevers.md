@@ -11,16 +11,8 @@
 ```csharp
 public bool IsRevers { get; }
 ```
-```vb
-Public ReadOnly Property IsRevers As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsRevers {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

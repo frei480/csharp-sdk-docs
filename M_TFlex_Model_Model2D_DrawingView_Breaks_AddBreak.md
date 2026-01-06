@@ -11,13 +11,8 @@
 ```csharp
 public DrawingViewBreak AddBreak()
 ```
-```vb
-Public Function AddBreak As DrawingViewBreak
-```
-```cpp
-public:
-DrawingViewBreak^ AddBreak()
-```
+
+
 
 
 #### Возвращаемое значение

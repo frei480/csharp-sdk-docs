@@ -8,12 +8,8 @@
 ```csharp
 public enum VisibleZoneType
 ```
-```vb
-Public Enumeration VisibleZoneType
-```
-```cpp
-public enum class VisibleZoneType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -8,18 +8,8 @@
 ```csharp
 public bool IsGlobal { get; set; }
 ```
-```vb
-Public Property IsGlobal As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsGlobal {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

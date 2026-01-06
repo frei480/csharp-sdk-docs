@@ -8,12 +8,8 @@
 ```csharp
 public enum SolverType
 ```
-```vb
-Public Enumeration SolverType
-```
-```cpp
-public enum class SolverType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

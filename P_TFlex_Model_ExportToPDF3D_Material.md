@@ -11,18 +11,8 @@
 ```csharp
 public bool Material { get; set; }
 ```
-```vb
-Public Property Material As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Material {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

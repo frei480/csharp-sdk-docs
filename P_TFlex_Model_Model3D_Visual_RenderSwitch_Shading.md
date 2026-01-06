@@ -8,18 +8,8 @@
 ```csharp
 public SceneNode Shading { get; set; }
 ```
-```vb
-Public Property Shading As SceneNode
-	Get
-	Set
-```
-```cpp
-public:
-property SceneNode^ Shading {
-	SceneNode^ get ();
-	void set (SceneNode^ value);
-}
-```
+
+
 
 
 #### Значение свойства

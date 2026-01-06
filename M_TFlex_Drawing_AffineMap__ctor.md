@@ -11,13 +11,8 @@
 ```csharp
 public AffineMap()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-AffineMap()
-```
+
+
 
 
 #### Ссылки

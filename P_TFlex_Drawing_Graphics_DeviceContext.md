@@ -11,18 +11,8 @@
 ```csharp
 public IntPtr DeviceContext { get; set; }
 ```
-```vb
-Public Property DeviceContext As IntPtr
-	Get
-	Set
-```
-```cpp
-public:
-property IntPtr DeviceContext {
-	IntPtr get ();
-	void set (IntPtr value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public Element FindElement(
 	Guid elementID
 )
 ```
-```vb
-Public Function FindElement ( 
-	elementID As Guid
-) As Element
-```
-```cpp
-public:
-Element^ FindElement(
-	Guid elementID
-)
-```
+
+
 
 
 #### Параметры

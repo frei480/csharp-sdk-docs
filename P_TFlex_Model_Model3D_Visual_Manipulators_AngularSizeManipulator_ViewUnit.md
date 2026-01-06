@@ -11,18 +11,8 @@
 ```csharp
 public ViewUnits ViewUnit { get; set; }
 ```
-```vb
-Public Property ViewUnit As ViewUnits
-	Get
-	Set
-```
-```cpp
-public:
-property ViewUnits ViewUnit {
-	ViewUnits get ();
-	void set (ViewUnits value);
-}
-```
+
+
 
 
 #### Значение свойства

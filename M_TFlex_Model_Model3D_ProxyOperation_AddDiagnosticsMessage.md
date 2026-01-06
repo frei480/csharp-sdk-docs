@@ -13,17 +13,8 @@ public override void AddDiagnosticsMessage(
 	DiagnosticsMessage message
 )
 ```
-```vb
-Public Overrides Sub AddDiagnosticsMessage ( 
-	message As DiagnosticsMessage
-)
-```
-```cpp
-public:
-virtual void AddDiagnosticsMessage(
-	DiagnosticsMessage^ message
-) override
-```
+
+
 
 
 #### Параметры

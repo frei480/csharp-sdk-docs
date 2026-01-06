@@ -11,18 +11,8 @@
 ```csharp
 public string Template { get; set; }
 ```
-```vb
-Public Property Template As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Template {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

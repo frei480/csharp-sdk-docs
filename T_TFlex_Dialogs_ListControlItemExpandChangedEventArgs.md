@@ -13,13 +13,8 @@
 ```csharp
 public class ListControlItemExpandChangedEventArgs : BaseEventArgs
 ```
-```vb
-Public Class ListControlItemExpandChangedEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class ListControlItemExpandChangedEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип ListControlItemExpandChangedEventArgs предоставляет следующие члены.

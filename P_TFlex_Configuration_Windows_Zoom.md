@@ -8,18 +8,8 @@
 ```csharp
 public double Zoom { get; set; }
 ```
-```vb
-Public Property Zoom As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Zoom {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

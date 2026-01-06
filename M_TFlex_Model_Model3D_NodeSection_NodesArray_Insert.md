@@ -14,19 +14,8 @@ public void Insert(
 	Node node
 )
 ```
-```vb
-Public Sub Insert ( 
-	Index As Integer,
-	node As Node
-)
-```
-```cpp
-public:
-void Insert(
-	int Index, 
-	Node^ node
-)
-```
+
+
 
 
 #### Параметры

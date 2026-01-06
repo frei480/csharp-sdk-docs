@@ -13,19 +13,8 @@ public static ICollection<SymmetryOperation> GetSymmetryOperations(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetSymmetryOperations ( 
-	document As Document
-) As ICollection(Of SymmetryOperation)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<SymmetryOperation^>^ GetSymmetryOperations(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

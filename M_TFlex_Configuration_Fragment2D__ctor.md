@@ -11,13 +11,8 @@
 ```csharp
 public Fragment2D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Fragment2D()
-```
+
+
 
 
 #### Ссылки

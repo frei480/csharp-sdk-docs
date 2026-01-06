@@ -11,18 +11,8 @@
 ```csharp
 public Geometry ProjectionSurface { get; set; }
 ```
-```vb
-Public Property ProjectionSurface As Geometry
-	Get
-	Set
-```
-```cpp
-public:
-property Geometry^ ProjectionSurface {
-	Geometry^ get ();
-	void set (Geometry^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public int GetFieldIntValueIndirect(
 	uint fieldIndex
 )
 ```
-```vb
-Public Function GetFieldIntValueIndirect ( 
-	fieldIndex As UInteger
-) As Integer
-```
-```cpp
-public:
-int GetFieldIntValueIndirect(
-	unsigned int fieldIndex
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public bool TransparentDimEdit { get; set; }
 ```
-```vb
-Public Property TransparentDimEdit As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool TransparentDimEdit {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

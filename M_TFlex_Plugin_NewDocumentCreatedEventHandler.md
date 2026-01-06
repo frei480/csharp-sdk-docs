@@ -13,17 +13,8 @@ protected virtual void NewDocumentCreatedEventHandler(
 	DocumentEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub NewDocumentCreatedEventHandler ( 
-	args As DocumentEventArgs
-)
-```
-```cpp
-protected:
-virtual void NewDocumentCreatedEventHandler(
-	DocumentEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

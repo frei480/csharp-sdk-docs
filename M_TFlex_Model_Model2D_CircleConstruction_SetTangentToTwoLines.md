@@ -16,23 +16,8 @@ public void SetTangentToTwoLines(
 	int variant
 )
 ```
-```vb
-Public Sub SetTangentToTwoLines ( 
-	srcLine1 As Construction,
-	srcLine2 As Construction,
-	radius As Parameter,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetTangentToTwoLines(
-	Construction^ srcLine1, 
-	Construction^ srcLine2, 
-	Parameter^ radius, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

@@ -15,21 +15,8 @@ public void GetOffsetFace(
 	ref Parameter offset
 )
 ```
-```vb
-Public Sub GetOffsetFace ( 
-	faceIndex As Integer,
-	ByRef face As ModelFace,
-	ByRef offset As Parameter
-)
-```
-```cpp
-public:
-void GetOffsetFace(
-	int faceIndex, 
-	ModelFace^% face, 
-	Parameter^% offset
-)
-```
+
+
 
 
 #### Параметры

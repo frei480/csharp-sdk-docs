@@ -15,21 +15,8 @@ public Icon(
 	bool cache
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	path As String,
-	cache As Boolean
-)
-```
-```cpp
-public:
-Icon(
-	String^ id, 
-	String^ path, 
-	bool cache
-)
-```
+
+
 
 
 #### Параметры

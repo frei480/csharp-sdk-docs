@@ -13,13 +13,8 @@
 ```csharp
 public class LocalSectionProjection : SimpleDrawingProjection
 ```
-```vb
-Public Class LocalSectionProjection
-	Inherits SimpleDrawingProjection
-```
-```cpp
-public ref class LocalSectionProjection : public SimpleDrawingProjection
-```
+
+
 
 
 Тип LocalSectionProjection предоставляет следующие члены.

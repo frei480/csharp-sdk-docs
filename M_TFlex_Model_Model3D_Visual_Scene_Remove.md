@@ -13,17 +13,8 @@ public bool Remove(
 	ObjectRepresentation representation
 )
 ```
-```vb
-Public Function Remove ( 
-	representation As ObjectRepresentation
-) As Boolean
-```
-```cpp
-public:
-bool Remove(
-	ObjectRepresentation^ representation
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public LinkBase Link { get; }
 ```
-```vb
-Public ReadOnly Property Link As LinkBase
-	Get
-```
-```cpp
-public:
-property LinkBase^ Link {
-	LinkBase^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

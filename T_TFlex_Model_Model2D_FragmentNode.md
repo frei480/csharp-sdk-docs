@@ -13,13 +13,8 @@
 ```csharp
 public class FragmentNode : Node
 ```
-```vb
-Public Class FragmentNode
-	Inherits Node
-```
-```cpp
-public ref class FragmentNode : public Node
-```
+
+
 
 
 Тип FragmentNode предоставляет следующие члены.

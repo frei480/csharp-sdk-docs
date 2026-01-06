@@ -13,13 +13,8 @@
 ```csharp
 public sealed class GroupItem : IDisposable
 ```
-```vb
-Public NotInheritable Class GroupItem
-	Implements IDisposable
-```
-```cpp
-public ref class GroupItem sealed : IDisposable
-```
+
+
 
 
 Тип ModelObjectGroupGroupItem предоставляет следующие члены.

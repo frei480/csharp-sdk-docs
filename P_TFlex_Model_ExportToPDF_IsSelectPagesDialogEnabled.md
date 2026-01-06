@@ -11,18 +11,8 @@
 ```csharp
 public bool IsSelectPagesDialogEnabled { get; set; }
 ```
-```vb
-Public Property IsSelectPagesDialogEnabled As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsSelectPagesDialogEnabled {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

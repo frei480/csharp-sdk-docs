@@ -13,13 +13,8 @@
 ```csharp
 public sealed class RunResultEntry : IDisposable
 ```
-```vb
-Public NotInheritable Class RunResultEntry
-	Implements IDisposable
-```
-```cpp
-public ref class RunResultEntry sealed : IDisposable
-```
+
+
 
 
 Тип RunResultEntry предоставляет следующие члены.

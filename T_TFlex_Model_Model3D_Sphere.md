@@ -13,13 +13,8 @@
 ```csharp
 public class Sphere : Primitive
 ```
-```vb
-Public Class Sphere
-	Inherits Primitive
-```
-```cpp
-public ref class Sphere : public Primitive
-```
+
+
 
 
 Тип Sphere предоставляет следующие члены.

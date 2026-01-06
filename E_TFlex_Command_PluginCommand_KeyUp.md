@@ -8,16 +8,8 @@
 ```csharp
 public event KeyEventHandler KeyUp
 ```
-```vb
-Public Event KeyUp As KeyEventHandler
-```
-```cpp
-public:
- event KeyEventHandler^ KeyUp {
-	void add (KeyEventHandler^ value);
-	void remove (KeyEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

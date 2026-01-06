@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<ModificationCommitedEventArgs> ModificationCommited
 ```
-```vb
-Public Event ModificationCommited As EventHandler(Of ModificationCommitedEventArgs)
-```
-```cpp
-public:
- event EventHandler<ModificationCommitedEventArgs^>^ ModificationCommited {
-	void add (EventHandler<ModificationCommitedEventArgs^>^ value);
-	void remove (EventHandler<ModificationCommitedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

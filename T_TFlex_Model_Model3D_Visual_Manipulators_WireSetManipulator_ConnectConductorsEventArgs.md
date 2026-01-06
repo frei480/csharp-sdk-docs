@@ -11,13 +11,8 @@
 ```csharp
 public class ConnectConductorsEventArgs : WireSetManipulatorTerminalPointEventArgs
 ```
-```vb
-Public Class ConnectConductorsEventArgs
-	Inherits WireSetManipulatorTerminalPointEventArgs
-```
-```cpp
-public ref class ConnectConductorsEventArgs : public WireSetManipulatorTerminalPointEventArgs
-```
+
+
 
 
 Тип WireSetManipulatorConnectConductorsEventArgs предоставляет следующие члены.

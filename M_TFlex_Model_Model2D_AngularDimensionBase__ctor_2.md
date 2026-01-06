@@ -13,17 +13,8 @@ protected AngularDimensionBase(
 	Document Doc
 )
 ```
-```vb
-Protected Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-protected:
-AngularDimensionBase(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

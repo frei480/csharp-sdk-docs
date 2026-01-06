@@ -8,16 +8,8 @@
 ```csharp
 public bool IsOnSegment { get; }
 ```
-```vb
-Public ReadOnly Property IsOnSegment As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsOnSegment {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

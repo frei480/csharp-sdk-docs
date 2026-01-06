@@ -11,18 +11,8 @@ public delegate void GeometricArrayBeforeInsert(
 	Geometry geometry
 )
 ```
-```vb
-Public Delegate Sub GeometricArrayBeforeInsert ( 
-	to As Integer,
-	geometry As Geometry
-)
-```
-```cpp
-public delegate void GeometricArrayBeforeInsert(
-	int to, 
-	Geometry^ geometry
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class ChangedEventArgs : EventArgs
 ```
-```vb
-Public Class ChangedEventArgs
-	Inherits EventArgs
-```
-```cpp
-public ref class ChangedEventArgs : public EventArgs
-```
+
+
 
 
 Тип Object3dTransformationFormChangedEventArgs предоставляет следующие члены.

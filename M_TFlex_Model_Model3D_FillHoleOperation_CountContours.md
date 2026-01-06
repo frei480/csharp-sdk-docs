@@ -11,13 +11,8 @@
 ```csharp
 public int CountContours()
 ```
-```vb
-Public Function CountContours As Integer
-```
-```cpp
-public:
-int CountContours()
-```
+
+
 
 
 #### Возвращаемое значение

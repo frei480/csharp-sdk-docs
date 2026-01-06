@@ -11,18 +11,8 @@
 ```csharp
 public Parameter SmoothLineWidth { get; set; }
 ```
-```vb
-Public Property SmoothLineWidth As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ SmoothLineWidth {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

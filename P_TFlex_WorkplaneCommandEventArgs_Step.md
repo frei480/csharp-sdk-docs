@@ -11,16 +11,8 @@
 ```csharp
 public double Step { get; }
 ```
-```vb
-Public ReadOnly Property Step As Double
-	Get
-```
-```cpp
-public:
-property double Step {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

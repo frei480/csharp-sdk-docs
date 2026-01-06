@@ -8,18 +8,8 @@
 ```csharp
 public int ShadingForActiveView { get; set; }
 ```
-```vb
-Public Property ShadingForActiveView As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ShadingForActiveView {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

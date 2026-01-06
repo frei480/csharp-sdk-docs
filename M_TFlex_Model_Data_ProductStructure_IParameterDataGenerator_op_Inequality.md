@@ -11,19 +11,8 @@ public static bool operator !=(
 	IParameterDataGenerator right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As IParameterDataGenerator,
-	right As IParameterDataGenerator
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	IParameterDataGenerator^ left, 
-	IParameterDataGenerator^ right
-)
-```
+
+
 
 
 #### Параметры

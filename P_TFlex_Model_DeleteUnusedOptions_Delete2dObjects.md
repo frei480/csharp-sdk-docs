@@ -11,18 +11,8 @@
 ```csharp
 public bool Delete2dObjects { get; set; }
 ```
-```vb
-Public Property Delete2dObjects As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Delete2dObjects {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

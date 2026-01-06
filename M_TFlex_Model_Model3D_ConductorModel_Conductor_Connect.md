@@ -15,27 +15,8 @@ public Conductor Connect(
 	bool firstOrLastPoint
 )
 ```
-```vb
-Public Function Connect ( 
-	segment As Segment,
-	paramByLength As Double,
-	last As TerminalPoint,
-	type As SegmentCurveType,
-	sleeveFileName As String,
-	firstOrLastPoint As Boolean
-) As Conductor
-```
-```cpp
-public:
-Conductor^ Connect(
-	Segment^ segment, 
-	double paramByLength, 
-	TerminalPoint^ last, 
-	SegmentCurveType type, 
-	String^ sleeveFileName, 
-	bool firstOrLastPoint
-)
-```
+
+
 
 
 #### Параметры

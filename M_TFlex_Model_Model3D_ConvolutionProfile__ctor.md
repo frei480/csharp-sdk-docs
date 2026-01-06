@@ -13,17 +13,8 @@ public ConvolutionProfile(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-ConvolutionProfile(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

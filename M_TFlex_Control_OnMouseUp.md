@@ -13,17 +13,8 @@ protected override void OnMouseUp(
 	MouseEventArgs e
 )
 ```
-```vb
-Protected Overrides Sub OnMouseUp ( 
-	e As MouseEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnMouseUp(
-	MouseEventArgs^ e
-) override
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class RenderSwitch : SceneNode
 ```
-```vb
-Public Class RenderSwitch
-	Inherits SceneNode
-```
-```cpp
-public ref class RenderSwitch : public SceneNode
-```
+
+
 
 
 Тип RenderSwitch предоставляет следующие члены.

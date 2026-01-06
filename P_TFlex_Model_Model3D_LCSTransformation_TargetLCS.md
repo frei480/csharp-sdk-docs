@@ -11,18 +11,8 @@
 ```csharp
 public LCS TargetLCS { get; set; }
 ```
-```vb
-Public Property TargetLCS As LCS
-	Get
-	Set
-```
-```cpp
-public:
-property LCS^ TargetLCS {
-	LCS^ get ();
-	void set (LCS^ value);
-}
-```
+
+
 
 
 #### Значение свойства

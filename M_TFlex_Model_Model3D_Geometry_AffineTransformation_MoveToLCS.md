@@ -15,21 +15,8 @@ public static AffineTransformation MoveToLCS(
 	BaseDirection xaxis
 )
 ```
-```vb
-Public Shared Function MoveToLCS ( 
-	origin As BasePoint3D,
-	zaxis As BaseDirection,
-	xaxis As BaseDirection
-) As AffineTransformation
-```
-```cpp
-public:
-static AffineTransformation^ MoveToLCS(
-	BasePoint3D^ origin, 
-	BaseDirection^ zaxis, 
-	BaseDirection^ xaxis
-)
-```
+
+
 
 
 #### Параметры

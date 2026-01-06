@@ -11,18 +11,8 @@
 ```csharp
 public bool IsValueFromConnector { get; set; }
 ```
-```vb
-Public Property IsValueFromConnector As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsValueFromConnector {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

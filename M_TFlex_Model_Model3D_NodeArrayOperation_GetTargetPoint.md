@@ -13,17 +13,8 @@ public ModelPoint3D GetTargetPoint(
 	int Index
 )
 ```
-```vb
-Public Function GetTargetPoint ( 
-	Index As Integer
-) As ModelPoint3D
-```
-```cpp
-public:
-ModelPoint3D^ GetTargetPoint(
-	int Index
-)
-```
+
+
 
 
 #### Параметры

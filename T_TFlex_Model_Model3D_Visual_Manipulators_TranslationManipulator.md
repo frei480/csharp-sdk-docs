@@ -11,13 +11,8 @@
 ```csharp
 public class TranslationManipulator : Manipulator
 ```
-```vb
-Public Class TranslationManipulator
-	Inherits Manipulator
-```
-```cpp
-public ref class TranslationManipulator : public Manipulator
-```
+
+
 
 
 Тип TranslationManipulator предоставляет следующие члены.

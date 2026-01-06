@@ -11,18 +11,8 @@
 ```csharp
 public double Elasticity { get; set; }
 ```
-```vb
-Public Property Elasticity As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Elasticity {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

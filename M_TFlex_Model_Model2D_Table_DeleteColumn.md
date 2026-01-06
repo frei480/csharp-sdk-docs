@@ -13,17 +13,8 @@ public void DeleteColumn(
 	uint cell
 )
 ```
-```vb
-Public Sub DeleteColumn ( 
-	cell As UInteger
-)
-```
-```cpp
-public:
-void DeleteColumn(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

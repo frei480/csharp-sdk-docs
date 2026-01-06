@@ -11,13 +11,8 @@
 ```csharp
 public void BeginEdit()
 ```
-```vb
-Public Sub BeginEdit
-```
-```cpp
-public:
-void BeginEdit()
-```
+
+
 
 
 #### Ссылки

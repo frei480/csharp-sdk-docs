@@ -11,13 +11,8 @@
 ```csharp
 public SelectControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SelectControl()
-```
+
+
 
 
 #### Ссылки

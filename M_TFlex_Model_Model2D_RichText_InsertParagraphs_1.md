@@ -14,19 +14,8 @@ public void InsertParagraphs(
 	CharFormat format
 )
 ```
-```vb
-Public Sub InsertParagraphs ( 
-	count As UInteger,
-	format As CharFormat
-)
-```
-```cpp
-public:
-void InsertParagraphs(
-	unsigned int count, 
-	CharFormat format
-)
-```
+
+
 
 
 #### Параметры

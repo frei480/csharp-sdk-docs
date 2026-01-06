@@ -11,16 +11,8 @@
 ```csharp
 public string ErrorString { get; }
 ```
-```vb
-Public ReadOnly Property ErrorString As String
-	Get
-```
-```cpp
-public:
-property String^ ErrorString {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

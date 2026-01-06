@@ -13,17 +13,8 @@ public LoftOperationMatch GetMatch(
 	int matchIndex
 )
 ```
-```vb
-Public Function GetMatch ( 
-	matchIndex As Integer
-) As LoftOperationMatch
-```
-```cpp
-public:
-LoftOperationMatch^ GetMatch(
-	int matchIndex
-)
-```
+
+
 
 
 #### Параметры

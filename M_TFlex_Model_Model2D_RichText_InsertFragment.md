@@ -11,13 +11,8 @@
 ```csharp
 public Fragment InsertFragment()
 ```
-```vb
-Public Function InsertFragment As Fragment
-```
-```cpp
-public:
-Fragment^ InsertFragment()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,12 +11,8 @@
 ```csharp
 public enum FixResultState
 ```
-```vb
-Public Enumeration FixResultState
-```
-```cpp
-public enum class FixResultState
-```
+
+
 
 
 | Имя члена | Значение | Описание |

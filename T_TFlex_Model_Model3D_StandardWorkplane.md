@@ -13,13 +13,8 @@
 ```csharp
 public class StandardWorkplane : Model2DWorkplane
 ```
-```vb
-Public Class StandardWorkplane
-	Inherits Model2DWorkplane
-```
-```cpp
-public ref class StandardWorkplane : public Model2DWorkplane
-```
+
+
 
 
 Тип StandardWorkplane предоставляет следующие члены.

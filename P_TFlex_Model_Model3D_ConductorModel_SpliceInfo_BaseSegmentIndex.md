@@ -8,16 +8,8 @@
 ```csharp
 public int BaseSegmentIndex { get; }
 ```
-```vb
-Public ReadOnly Property BaseSegmentIndex As Integer
-	Get
-```
-```cpp
-public:
-property int BaseSegmentIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

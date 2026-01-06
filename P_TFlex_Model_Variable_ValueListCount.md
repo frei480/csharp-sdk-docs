@@ -11,16 +11,8 @@
 ```csharp
 public int ValueListCount { get; }
 ```
-```vb
-Public ReadOnly Property ValueListCount As Integer
-	Get
-```
-```cpp
-public:
-property int ValueListCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

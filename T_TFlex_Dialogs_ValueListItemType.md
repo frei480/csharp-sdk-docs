@@ -11,12 +11,8 @@
 ```csharp
 public enum ValueListItemType
 ```
-```vb
-Public Enumeration ValueListItemType
-```
-```cpp
-public enum class ValueListItemType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

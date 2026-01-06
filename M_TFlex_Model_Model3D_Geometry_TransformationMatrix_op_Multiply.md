@@ -11,19 +11,8 @@ public static Body operator *(
 	TransformationMatrix tr
 )
 ```
-```vb
-Public Shared Operator * ( 
-	body As BaseBody,
-	tr As TransformationMatrix
-) As Body
-```
-```cpp
-public:
-static Body^ operator *(
-	BaseBody^ body, 
-	TransformationMatrix^ tr
-)
-```
+
+
 
 
 #### Параметры

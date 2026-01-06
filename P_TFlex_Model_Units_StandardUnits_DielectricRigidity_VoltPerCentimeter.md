@@ -13,16 +13,8 @@
 ```csharp
 public static Unit VoltPerCentimeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property VoltPerCentimeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ VoltPerCentimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

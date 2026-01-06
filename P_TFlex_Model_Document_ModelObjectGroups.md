@@ -11,16 +11,8 @@
 ```csharp
 public ModelObjectGroupContainer ModelObjectGroups { get; }
 ```
-```vb
-Public ReadOnly Property ModelObjectGroups As ModelObjectGroupContainer
-	Get
-```
-```cpp
-public:
-property ModelObjectGroupContainer^ ModelObjectGroups {
-	ModelObjectGroupContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

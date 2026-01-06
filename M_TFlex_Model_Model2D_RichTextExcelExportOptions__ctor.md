@@ -11,13 +11,8 @@
 ```csharp
 public RichTextExcelExportOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RichTextExcelExportOptions()
-```
+
+
 
 
 #### Ссылки

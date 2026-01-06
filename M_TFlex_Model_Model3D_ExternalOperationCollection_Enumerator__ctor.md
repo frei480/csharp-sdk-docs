@@ -14,19 +14,8 @@ public Enumerator(
 	int typeId
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	typeId As Integer
-)
-```
-```cpp
-public:
-Enumerator(
-	Document^ document, 
-	int typeId
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ protected bool AddDirection(
 	BaseDirection dir
 )
 ```
-```vb
-Protected Function AddDirection ( 
-	index As Integer,
-	dir As BaseDirection
-) As Boolean
-```
-```cpp
-protected:
-bool AddDirection(
-	int index, 
-	BaseDirection^ dir
-)
-```
+
+
 
 
 #### Параметры

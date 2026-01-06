@@ -14,15 +14,8 @@
 public class EllipseCurve : Curve, 
 	BaseEllipseCurve
 ```
-```vb
-Public Class EllipseCurve
-	Inherits Curve
-	Implements BaseEllipseCurve
-```
-```cpp
-public ref class EllipseCurve : public Curve, 
-	BaseEllipseCurve
-```
+
+
 
 
 Тип EllipseCurve предоставляет следующие члены.

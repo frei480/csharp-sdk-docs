@@ -8,18 +8,8 @@
 ```csharp
 public ConductorSetBaseSpliceDiameterMode SubEdgesDiameterMode { get; set; }
 ```
-```vb
-Public Property SubEdgesDiameterMode As ConductorSetBaseSpliceDiameterMode
-	Get
-	Set
-```
-```cpp
-public:
-property ConductorSetBaseSpliceDiameterMode SubEdgesDiameterMode {
-	ConductorSetBaseSpliceDiameterMode get ();
-	void set (ConductorSetBaseSpliceDiameterMode value);
-}
-```
+
+
 
 
 #### Значение свойства

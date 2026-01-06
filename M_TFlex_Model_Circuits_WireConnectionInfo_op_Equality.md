@@ -11,19 +11,8 @@ public static bool operator ==(
 	WireConnectionInfo right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As WireConnectionInfo,
-	right As WireConnectionInfo
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	WireConnectionInfo^ left, 
-	WireConnectionInfo^ right
-)
-```
+
+
 
 
 #### Параметры

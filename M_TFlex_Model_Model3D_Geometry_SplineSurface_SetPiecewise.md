@@ -13,17 +13,8 @@ public void SetPiecewise(
 	SurfacePiecewiseData data
 )
 ```
-```vb
-Public Sub SetPiecewise ( 
-	data As SurfacePiecewiseData
-)
-```
-```cpp
-public:
-void SetPiecewise(
-	SurfacePiecewiseData^ data
-)
-```
+
+
 
 
 #### Параметры

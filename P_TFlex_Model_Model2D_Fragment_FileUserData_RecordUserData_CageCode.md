@@ -11,16 +11,8 @@
 ```csharp
 public string CageCode { get; }
 ```
-```vb
-Public ReadOnly Property CageCode As String
-	Get
-```
-```cpp
-public:
-property String^ CageCode {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

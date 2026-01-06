@@ -13,12 +13,8 @@
 ```csharp
 public sealed class CurrentIntensity
 ```
-```vb
-Public NotInheritable Class CurrentIntensity
-```
-```cpp
-public ref class CurrentIntensity sealed
-```
+
+
 
 
 Тип StandardUnitsCurrentIntensity предоставляет следующие члены.

@@ -8,16 +8,8 @@
 ```csharp
 public BoolOverrideCollection MultiplySumWithParent { get; }
 ```
-```vb
-Public ReadOnly Property MultiplySumWithParent As BoolOverrideCollection
-	Get
-```
-```cpp
-public:
-property BoolOverrideCollection^ MultiplySumWithParent {
-	BoolOverrideCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

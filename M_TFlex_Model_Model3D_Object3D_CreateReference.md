@@ -11,13 +11,8 @@
 ```csharp
 public Object3D CreateReference()
 ```
-```vb
-Public Function CreateReference As Object3D
-```
-```cpp
-public:
-Object3D^ CreateReference()
-```
+
+
 
 
 #### Возвращаемое значение

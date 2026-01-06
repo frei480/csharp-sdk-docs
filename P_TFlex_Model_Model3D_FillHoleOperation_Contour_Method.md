@@ -11,18 +11,8 @@
 ```csharp
 public FillHoleOperationMethodType Method { get; set; }
 ```
-```vb
-Public Property Method As FillHoleOperationMethodType
-	Get
-	Set
-```
-```cpp
-public:
-property FillHoleOperationMethodType Method {
-	FillHoleOperationMethodType get ();
-	void set (FillHoleOperationMethodType value);
-}
-```
+
+
 
 
 #### Значение свойства

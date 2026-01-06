@@ -13,19 +13,8 @@ public static ICollection<Material> GetMaterials(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetMaterials ( 
-	document As Document
-) As ICollection(Of Material)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Material^>^ GetMaterials(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

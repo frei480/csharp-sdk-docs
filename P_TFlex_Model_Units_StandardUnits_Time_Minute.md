@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Minute { get; }
 ```
-```vb
-Public Shared ReadOnly Property Minute As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Minute {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

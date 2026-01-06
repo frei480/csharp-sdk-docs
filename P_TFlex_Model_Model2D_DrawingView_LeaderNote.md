@@ -11,18 +11,8 @@
 ```csharp
 public LeaderNote LeaderNote { get; set; }
 ```
-```vb
-Public Property LeaderNote As LeaderNote
-	Get
-	Set
-```
-```cpp
-public:
-property LeaderNote^ LeaderNote {
-	LeaderNote^ get ();
-	void set (LeaderNote^ value);
-}
-```
+
+
 
 
 #### Значение свойства

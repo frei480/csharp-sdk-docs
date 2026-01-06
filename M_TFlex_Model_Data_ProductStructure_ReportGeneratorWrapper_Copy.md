@@ -8,13 +8,8 @@
 ```csharp
 public ReportGeneratorWrapper Copy()
 ```
-```vb
-Public Function Copy As ReportGeneratorWrapper
-```
-```cpp
-public:
-ReportGeneratorWrapper^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

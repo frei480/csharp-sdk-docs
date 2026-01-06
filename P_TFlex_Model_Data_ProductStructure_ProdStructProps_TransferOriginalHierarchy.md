@@ -8,18 +8,8 @@
 ```csharp
 public bool TransferOriginalHierarchy { get; set; }
 ```
-```vb
-Public Property TransferOriginalHierarchy As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool TransferOriginalHierarchy {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class ProjectionOutline : Outline
 ```
-```vb
-Public Class ProjectionOutline
-	Inherits Outline
-```
-```cpp
-public ref class ProjectionOutline : public Outline
-```
+
+
 
 
 Тип ProjectionOutline предоставляет следующие члены.

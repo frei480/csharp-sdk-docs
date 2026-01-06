@@ -8,18 +8,8 @@
 ```csharp
 public IEnumerable<Guid> SkippedParametersIDs { get; set; }
 ```
-```vb
-Public Property SkippedParametersIDs As IEnumerable(Of Guid)
-	Get
-	Set
-```
-```cpp
-public:
-property IEnumerable<Guid>^ SkippedParametersIDs {
-	IEnumerable<Guid>^ get ();
-	void set (IEnumerable<Guid>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

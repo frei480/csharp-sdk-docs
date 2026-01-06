@@ -11,13 +11,8 @@
 ```csharp
 public Zones()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Zones()
-```
+
+
 
 
 #### Ссылки

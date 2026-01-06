@@ -11,16 +11,8 @@
 ```csharp
 public abstract RestraintType Type { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property Type As RestraintType
-	Get
-```
-```cpp
-public:
-virtual property RestraintType Type {
-	RestraintType get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public Win32Window(
 	IntPtr handle
 )
 ```
-```vb
-Public Sub New ( 
-	handle As IntPtr
-)
-```
-```cpp
-public:
-Win32Window(
-	IntPtr handle
-)
-```
+
+
 
 
 #### Параметры

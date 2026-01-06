@@ -8,12 +8,8 @@
 ```csharp
 public enum StartupSource
 ```
-```vb
-Public Enumeration StartupSource
-```
-```cpp
-public enum class StartupSource
-```
+
+
 
 
 | Имя члена | Значение | Описание |

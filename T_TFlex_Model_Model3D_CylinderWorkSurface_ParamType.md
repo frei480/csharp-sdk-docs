@@ -11,12 +11,8 @@
 ```csharp
 public enum ParamType
 ```
-```vb
-Public Enumeration ParamType
-```
-```cpp
-public enum class ParamType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

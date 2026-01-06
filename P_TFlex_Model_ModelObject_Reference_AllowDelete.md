@@ -11,18 +11,8 @@
 ```csharp
 public bool AllowDelete { get; set; }
 ```
-```vb
-Public Property AllowDelete As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AllowDelete {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

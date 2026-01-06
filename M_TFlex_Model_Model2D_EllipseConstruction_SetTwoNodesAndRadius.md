@@ -15,21 +15,8 @@ public void SetTwoNodesAndRadius(
 	Parameter radius
 )
 ```
-```vb
-Public Sub SetTwoNodesAndRadius ( 
-	srcNode1 As Node,
-	srcNode2 As Node,
-	radius As Parameter
-)
-```
-```cpp
-public:
-void SetTwoNodesAndRadius(
-	Node^ srcNode1, 
-	Node^ srcNode2, 
-	Parameter^ radius
-)
-```
+
+
 
 
 #### Параметры

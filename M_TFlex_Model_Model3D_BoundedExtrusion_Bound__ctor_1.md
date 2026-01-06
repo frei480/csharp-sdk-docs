@@ -13,17 +13,8 @@ public Bound(
 	Geometry pBound
 )
 ```
-```vb
-Public Sub New ( 
-	pBound As Geometry
-)
-```
-```cpp
-public:
-Bound(
-	Geometry^ pBound
-)
-```
+
+
 
 
 #### Параметры

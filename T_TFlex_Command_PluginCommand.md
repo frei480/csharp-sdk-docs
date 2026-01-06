@@ -14,15 +14,8 @@
 public abstract class PluginCommand : FilterOwner, 
 	IDisposable
 ```
-```vb
-Public MustInherit Class PluginCommand
-	Inherits FilterOwner
-	Implements IDisposable
-```
-```cpp
-public ref class PluginCommand abstract : public FilterOwner, 
-	IDisposable
-```
+
+
 
 
 Тип PluginCommand предоставляет следующие члены.

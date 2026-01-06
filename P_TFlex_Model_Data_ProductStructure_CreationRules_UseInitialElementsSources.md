@@ -8,18 +8,8 @@
 ```csharp
 public bool UseInitialElementsSources { get; set; }
 ```
-```vb
-Public Property UseInitialElementsSources As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseInitialElementsSources {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

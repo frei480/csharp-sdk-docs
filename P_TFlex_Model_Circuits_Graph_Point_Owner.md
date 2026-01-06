@@ -8,16 +8,8 @@
 ```csharp
 public Link Owner { get; }
 ```
-```vb
-Public ReadOnly Property Owner As Link
-	Get
-```
-```cpp
-public:
-property Link^ Owner {
-	Link^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

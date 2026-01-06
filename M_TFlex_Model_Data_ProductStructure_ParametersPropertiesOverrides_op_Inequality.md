@@ -11,19 +11,8 @@ public static bool operator !=(
 	ParametersPropertiesOverrides right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As ParametersPropertiesOverrides,
-	right As ParametersPropertiesOverrides
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	ParametersPropertiesOverrides^ left, 
-	ParametersPropertiesOverrides^ right
-)
-```
+
+
 
 
 #### Параметры

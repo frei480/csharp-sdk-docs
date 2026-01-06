@@ -11,13 +11,8 @@
 ```csharp
 public FragmentExtractOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FragmentExtractOptions()
-```
+
+
 
 
 #### Ссылки

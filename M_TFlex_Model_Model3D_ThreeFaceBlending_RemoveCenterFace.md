@@ -13,17 +13,8 @@ public void RemoveCenterFace(
 	int faceIndex
 )
 ```
-```vb
-Public Sub RemoveCenterFace ( 
-	faceIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveCenterFace(
-	int faceIndex
-)
-```
+
+
 
 
 #### Параметры

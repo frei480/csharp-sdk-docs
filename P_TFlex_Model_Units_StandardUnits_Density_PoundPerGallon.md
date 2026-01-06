@@ -13,16 +13,8 @@
 ```csharp
 public static Unit PoundPerGallon { get; }
 ```
-```vb
-Public Shared ReadOnly Property PoundPerGallon As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ PoundPerGallon {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

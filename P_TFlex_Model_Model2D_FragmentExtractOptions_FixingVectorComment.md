@@ -11,18 +11,8 @@
 ```csharp
 public string FixingVectorComment { get; set; }
 ```
-```vb
-Public Property FixingVectorComment As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ FixingVectorComment {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

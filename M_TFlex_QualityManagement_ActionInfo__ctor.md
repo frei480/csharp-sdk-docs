@@ -11,13 +11,8 @@
 ```csharp
 public ActionInfo()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ActionInfo()
-```
+
+
 
 
 #### Ссылки

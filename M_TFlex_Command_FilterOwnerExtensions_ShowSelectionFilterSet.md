@@ -14,21 +14,8 @@ public static void ShowSelectionFilterSet(
 	SelectorSetType setType
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub ShowSelectionFilterSet ( 
-	owner As IFilterOwner,
-	setType As SelectorSetType
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void ShowSelectionFilterSet(
-	IFilterOwner^ owner, 
-	SelectorSetType setType
-)
-```
+
+
 
 
 #### Параметры

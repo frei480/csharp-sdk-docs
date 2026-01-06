@@ -11,12 +11,8 @@
 ```csharp
 public enum ColumnSizeMode
 ```
-```vb
-Public Enumeration ColumnSizeMode
-```
-```cpp
-public enum class ColumnSizeMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

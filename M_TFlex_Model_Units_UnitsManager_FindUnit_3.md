@@ -10,17 +10,8 @@ public Unit FindUnit(
 	ForceUnitType unit
 )
 ```
-```vb
-Public Function FindUnit ( 
-	unit As ForceUnitType
-) As Unit
-```
-```cpp
-public:
-Unit^ FindUnit(
-	ForceUnitType unit
-)
-```
+
+
 
 
 #### Параметры

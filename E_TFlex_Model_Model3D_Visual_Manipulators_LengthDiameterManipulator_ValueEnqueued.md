@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<LengthDiameterManipulatorValueEnqueuedEventArgs> ValueEnqueued
 ```
-```vb
-Public Event ValueEnqueued As EventHandler(Of LengthDiameterManipulatorValueEnqueuedEventArgs)
-```
-```cpp
-public:
- event EventHandler<LengthDiameterManipulatorValueEnqueuedEventArgs^>^ ValueEnqueued {
-	void add (EventHandler<LengthDiameterManipulatorValueEnqueuedEventArgs^>^ value);
-	void remove (EventHandler<LengthDiameterManipulatorValueEnqueuedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

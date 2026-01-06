@@ -8,18 +8,8 @@
 ```csharp
 public bool UseLegacyVersionTableGeneration { get; set; }
 ```
-```vb
-Public Property UseLegacyVersionTableGeneration As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseLegacyVersionTableGeneration {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

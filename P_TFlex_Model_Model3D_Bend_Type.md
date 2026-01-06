@@ -11,18 +11,8 @@
 ```csharp
 public BendOperationType Type { get; set; }
 ```
-```vb
-Public Property Type As BendOperationType
-	Get
-	Set
-```
-```cpp
-public:
-property BendOperationType Type {
-	BendOperationType get ();
-	void set (BendOperationType value);
-}
-```
+
+
 
 
 #### Значение свойства

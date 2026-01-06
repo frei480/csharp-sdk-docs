@@ -8,13 +8,8 @@
 ```csharp
 protected ulong m_marker
 ```
-```vb
-Protected m_marker As ULong
-```
-```cpp
-protected:
-unsigned long long m_marker
-```
+
+
 
 
 #### Значение поля

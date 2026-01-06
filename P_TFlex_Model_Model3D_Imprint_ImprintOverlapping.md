@@ -11,18 +11,8 @@
 ```csharp
 public bool ImprintOverlapping { get; set; }
 ```
-```vb
-Public Property ImprintOverlapping As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ImprintOverlapping {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

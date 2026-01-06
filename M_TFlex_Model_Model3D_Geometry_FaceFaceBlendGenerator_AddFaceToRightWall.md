@@ -13,17 +13,8 @@ public void AddFaceToRightWall(
 	BaseTopol face
 )
 ```
-```vb
-Public Sub AddFaceToRightWall ( 
-	face As BaseTopol
-)
-```
-```cpp
-public:
-void AddFaceToRightWall(
-	BaseTopol^ face
-)
-```
+
+
 
 
 #### Параметры

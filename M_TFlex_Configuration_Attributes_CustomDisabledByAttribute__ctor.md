@@ -13,17 +13,8 @@ public CustomDisabledByAttribute(
 	string propertyName
 )
 ```
-```vb
-Public Sub New ( 
-	propertyName As String
-)
-```
-```cpp
-public:
-CustomDisabledByAttribute(
-	String^ propertyName
-)
-```
+
+
 
 
 #### Параметры

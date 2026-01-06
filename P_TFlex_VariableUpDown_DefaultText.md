@@ -11,18 +11,8 @@
 ```csharp
 public string DefaultText { get; set; }
 ```
-```vb
-Public Property DefaultText As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ DefaultText {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

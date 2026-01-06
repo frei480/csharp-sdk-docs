@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool ShowPageTabs { get; set; }
 ```
-```vb
-Public Overridable Property ShowPageTabs As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool ShowPageTabs {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

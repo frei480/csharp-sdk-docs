@@ -13,13 +13,8 @@
 ```csharp
 public sealed class SeparatorButton : Button
 ```
-```vb
-Public NotInheritable Class SeparatorButton
-	Inherits Button
-```
-```cpp
-public ref class SeparatorButton sealed : public Button
-```
+
+
 
 
 Тип SeparatorButton предоставляет следующие члены.

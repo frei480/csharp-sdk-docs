@@ -11,13 +11,8 @@
 ```csharp
 public float CameraDistance
 ```
-```vb
-Public CameraDistance As Single
-```
-```cpp
-public:
-float CameraDistance
-```
+
+
 
 
 #### Значение поля

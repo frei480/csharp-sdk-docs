@@ -8,16 +8,8 @@
 ```csharp
 public static LogSeverity Level { get; }
 ```
-```vb
-Public Shared ReadOnly Property Level As LogSeverity
-	Get
-```
-```cpp
-public:
-static property LogSeverity Level {
-	LogSeverity get ();
-}
-```
+
+
 
 
 #### Значение свойства

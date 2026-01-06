@@ -10,17 +10,8 @@ public static TextExtensionHorizontalAlignment convert(
 	TextHorizontalAlignment A_0
 )
 ```
-```vb
-Public Shared Function convert ( 
-	A_0 As TextHorizontalAlignment
-) As TextExtensionHorizontalAlignment
-```
-```cpp
-public:
-static TextExtensionHorizontalAlignment convert(
-	TextHorizontalAlignment A_0
-)
-```
+
+
 
 
 #### Параметры

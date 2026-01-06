@@ -14,19 +14,8 @@ public Operand(
 	bool keepVisible
 )
 ```
-```vb
-Public Sub New ( 
-	operation As Operation,
-	keepVisible As Boolean
-)
-```
-```cpp
-public:
-Operand(
-	Operation^ operation, 
-	bool keepVisible
-)
-```
+
+
 
 
 #### Параметры

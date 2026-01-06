@@ -11,18 +11,8 @@
 ```csharp
 public string InsertMethodString { get; set; }
 ```
-```vb
-Public Property InsertMethodString As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ InsertMethodString {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

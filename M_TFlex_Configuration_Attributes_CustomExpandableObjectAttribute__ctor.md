@@ -11,13 +11,8 @@
 ```csharp
 public CustomExpandableObjectAttribute()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CustomExpandableObjectAttribute()
-```
+
+
 
 
 #### Ссылки

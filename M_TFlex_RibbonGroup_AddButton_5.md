@@ -14,19 +14,8 @@ public RibbonButton AddButton(
 	Plugin plugin
 )
 ```
-```vb
-Public Function AddButton ( 
-	commandId As Integer,
-	plugin As Plugin
-) As RibbonButton
-```
-```cpp
-public:
-RibbonButton^ AddButton(
-	int commandId, 
-	Plugin^ plugin
-)
-```
+
+
 
 
 #### Параметры

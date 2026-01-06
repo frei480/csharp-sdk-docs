@@ -11,13 +11,8 @@
 ```csharp
 public ProductStructureInfo()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ProductStructureInfo()
-```
+
+
 
 
 #### Ссылки

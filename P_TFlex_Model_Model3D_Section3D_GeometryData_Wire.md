@@ -11,16 +11,8 @@
 ```csharp
 public ModelWire Wire { get; }
 ```
-```vb
-Public ReadOnly Property Wire As ModelWire
-	Get
-```
-```cpp
-public:
-property ModelWire^ Wire {
-	ModelWire^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

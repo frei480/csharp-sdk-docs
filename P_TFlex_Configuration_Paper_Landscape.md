@@ -8,18 +8,8 @@
 ```csharp
 public LandscapePaper Landscape { get; set; }
 ```
-```vb
-Public Property Landscape As LandscapePaper
-	Get
-	Set
-```
-```cpp
-public:
-property LandscapePaper Landscape {
-	LandscapePaper get ();
-	void set (LandscapePaper value);
-}
-```
+
+
 
 
 #### Значение свойства

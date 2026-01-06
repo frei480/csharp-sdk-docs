@@ -13,16 +13,8 @@
 ```csharp
 public static Unit SquareFootFahrenheitDegreeSecondPerBTU { get; }
 ```
-```vb
-Public Shared ReadOnly Property SquareFootFahrenheitDegreeSecondPerBTU As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ SquareFootFahrenheitDegreeSecondPerBTU {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

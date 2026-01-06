@@ -13,12 +13,8 @@ Aбстрактный класс используемый для задан�
 ```csharp
 public abstract class Attribute
 ```
-```vb
-Public MustInherit Class Attribute
-```
-```cpp
-public ref class Attribute abstract
-```
+
+
 
 
 Тип EdgeBlendingAttribute предоставляет следующие члены.

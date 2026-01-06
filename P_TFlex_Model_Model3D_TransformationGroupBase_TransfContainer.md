@@ -11,16 +11,8 @@
 ```csharp
 public TransformationGroupContainer TransfContainer { get; }
 ```
-```vb
-Public ReadOnly Property TransfContainer As TransformationGroupContainer
-	Get
-```
-```cpp
-public:
-property TransformationGroupContainer^ TransfContainer {
-	TransformationGroupContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

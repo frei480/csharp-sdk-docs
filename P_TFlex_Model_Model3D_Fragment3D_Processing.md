@@ -11,16 +11,8 @@
 ```csharp
 public FragmentProcessing Processing { get; }
 ```
-```vb
-Public ReadOnly Property Processing As FragmentProcessing
-	Get
-```
-```cpp
-public:
-property FragmentProcessing^ Processing {
-	FragmentProcessing^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

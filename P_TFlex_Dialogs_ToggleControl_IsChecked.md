@@ -11,18 +11,8 @@
 ```csharp
 public bool? IsChecked { get; set; }
 ```
-```vb
-Public Property IsChecked As Boolean?
-	Get
-	Set
-```
-```cpp
-public:
-property Nullable<bool> IsChecked {
-	Nullable<bool> get ();
-	void set (Nullable<bool> value);
-}
-```
+
+
 
 
 #### Значение свойства

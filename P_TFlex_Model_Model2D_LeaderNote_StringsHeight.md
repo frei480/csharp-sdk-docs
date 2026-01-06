@@ -11,18 +11,8 @@
 ```csharp
 public Parameter StringsHeight { get; set; }
 ```
-```vb
-Public Property StringsHeight As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ StringsHeight {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

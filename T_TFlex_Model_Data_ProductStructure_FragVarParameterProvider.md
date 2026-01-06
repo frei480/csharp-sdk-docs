@@ -11,13 +11,8 @@
 ```csharp
 public class FragVarParameterProvider : IParameterProvider
 ```
-```vb
-Public Class FragVarParameterProvider
-	Inherits IParameterProvider
-```
-```cpp
-public ref class FragVarParameterProvider : public IParameterProvider
-```
+
+
 
 
 Тип FragVarParameterProvider предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public int ShownPageIndex { get; set; }
 ```
-```vb
-Public Property ShownPageIndex As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ShownPageIndex {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

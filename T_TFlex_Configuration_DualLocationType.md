@@ -8,12 +8,8 @@
 ```csharp
 public enum DualLocationType
 ```
-```vb
-Public Enumeration DualLocationType
-```
-```cpp
-public enum class DualLocationType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

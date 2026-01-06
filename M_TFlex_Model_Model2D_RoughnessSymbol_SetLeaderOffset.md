@@ -14,19 +14,8 @@ public void SetLeaderOffset(
 	double dY
 )
 ```
-```vb
-Public Sub SetLeaderOffset ( 
-	dX As Double,
-	dY As Double
-)
-```
-```cpp
-public:
-void SetLeaderOffset(
-	double dX, 
-	double dY
-)
-```
+
+
 
 
 #### Параметры

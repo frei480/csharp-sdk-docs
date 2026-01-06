@@ -11,13 +11,8 @@
 ```csharp
 public string BasicLength
 ```
-```vb
-Public BasicLength As String
-```
-```cpp
-public:
-String^ BasicLength
-```
+
+
 
 
 #### Значение поля

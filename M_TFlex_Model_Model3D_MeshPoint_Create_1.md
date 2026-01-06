@@ -10,17 +10,8 @@ public Node3D Create(
 	Dictionary<Workplane, Workplane> convert
 )
 ```
-```vb
-Public Function Create ( 
-	convert As Dictionary(Of Workplane, Workplane)
-) As Node3D
-```
-```cpp
-public:
-Node3D^ Create(
-	Dictionary<Workplane^, Workplane^>^ convert
-)
-```
+
+
 
 
 #### Параметры

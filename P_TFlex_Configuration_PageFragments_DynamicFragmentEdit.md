@@ -8,18 +8,8 @@
 ```csharp
 public bool DynamicFragmentEdit { get; set; }
 ```
-```vb
-Public Property DynamicFragmentEdit As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DynamicFragmentEdit {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

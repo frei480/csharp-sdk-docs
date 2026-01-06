@@ -13,17 +13,8 @@ public bool IsDocumentExcluded(
 	string documentName
 )
 ```
-```vb
-Public Function IsDocumentExcluded ( 
-	documentName As String
-) As Boolean
-```
-```cpp
-public:
-bool IsDocumentExcluded(
-	String^ documentName
-)
-```
+
+
 
 
 #### Параметры

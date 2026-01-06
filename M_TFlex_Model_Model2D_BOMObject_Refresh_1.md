@@ -13,17 +13,8 @@ public void Refresh(
 	bool refreshData
 )
 ```
-```vb
-Public Sub Refresh ( 
-	refreshData As Boolean
-)
-```
-```cpp
-public:
-void Refresh(
-	bool refreshData
-)
-```
+
+
 
 
 #### Параметры

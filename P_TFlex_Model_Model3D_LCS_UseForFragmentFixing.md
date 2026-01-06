@@ -11,18 +11,8 @@
 ```csharp
 public bool UseForFragmentFixing { get; set; }
 ```
-```vb
-Public Property UseForFragmentFixing As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseForFragmentFixing {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

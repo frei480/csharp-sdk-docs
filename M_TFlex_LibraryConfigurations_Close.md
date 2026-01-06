@@ -13,17 +13,8 @@ public bool Close(
 	int index
 )
 ```
-```vb
-Public Function Close ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool Close(
-	int index
-)
-```
+
+
 
 
 #### Параметры

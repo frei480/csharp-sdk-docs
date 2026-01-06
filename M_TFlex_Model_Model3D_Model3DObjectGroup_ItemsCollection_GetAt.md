@@ -13,17 +13,8 @@ public Object3D GetAt(
 	uint index
 )
 ```
-```vb
-Public Function GetAt ( 
-	index As UInteger
-) As Object3D
-```
-```cpp
-public:
-Object3D^ GetAt(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

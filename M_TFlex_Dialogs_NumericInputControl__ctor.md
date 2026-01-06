@@ -11,13 +11,8 @@
 ```csharp
 public NumericInputControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-NumericInputControl()
-```
+
+
 
 
 #### Ссылки

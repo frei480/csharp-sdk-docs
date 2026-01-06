@@ -11,13 +11,8 @@
 ```csharp
 public virtual void MarkChanged()
 ```
-```vb
-Public Overridable Sub MarkChanged
-```
-```cpp
-public:
-virtual void MarkChanged()
-```
+
+
 
 
 #### Ссылки

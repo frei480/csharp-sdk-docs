@@ -15,21 +15,8 @@ public StandardWorkplane(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	type As StandardWorkplaneStandardType,
-	page As Page
-)
-```
-```cpp
-public:
-StandardWorkplane(
-	Document^ document, 
-	StandardWorkplaneStandardType type, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

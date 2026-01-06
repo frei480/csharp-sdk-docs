@@ -13,17 +13,8 @@ public void SetType(
 	LoftType t
 )
 ```
-```vb
-Public Sub SetType ( 
-	t As LoftType
-)
-```
-```cpp
-public:
-void SetType(
-	LoftType t
-)
-```
+
+
 
 
 #### Параметры

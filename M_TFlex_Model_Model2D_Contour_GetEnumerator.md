@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerator<ContourSegment> GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As IEnumerator(Of ContourSegment)
-```
-```cpp
-public:
-virtual IEnumerator<ContourSegment^>^ GetEnumerator() sealed
-```
+
+
 
 
 #### Возвращаемое значение

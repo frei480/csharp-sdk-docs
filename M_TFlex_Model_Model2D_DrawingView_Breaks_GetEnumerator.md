@@ -11,13 +11,8 @@
 ```csharp
 public DrawingViewBreaksEnumerator GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As DrawingViewBreaksEnumerator
-```
-```cpp
-public:
-DrawingViewBreaksEnumerator^ GetEnumerator()
-```
+
+
 
 
 #### Возвращаемое значение

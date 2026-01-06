@@ -11,18 +11,8 @@
 ```csharp
 public double Softness { get; set; }
 ```
-```vb
-Public Property Softness As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Softness {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

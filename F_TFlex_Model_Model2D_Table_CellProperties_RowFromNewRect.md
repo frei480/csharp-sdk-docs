@@ -11,13 +11,8 @@
 ```csharp
 public bool RowFromNewRect
 ```
-```vb
-Public RowFromNewRect As Boolean
-```
-```cpp
-public:
-bool RowFromNewRect
-```
+
+
 
 
 #### Значение поля

@@ -12,14 +12,8 @@
 [ObsoleteAttribute]
 public enum LogicOper
 ```
-```vb
-<ObsoleteAttribute>
-Public Enumeration LogicOper
-```
-```cpp
-[ObsoleteAttribute]
-public enum class LogicOper
-```
+
+
 
 
 | Имя члена | Значение | Описание |

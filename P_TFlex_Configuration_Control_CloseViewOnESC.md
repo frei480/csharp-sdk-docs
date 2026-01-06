@@ -8,18 +8,8 @@
 ```csharp
 public bool CloseViewOnESC { get; set; }
 ```
-```vb
-Public Property CloseViewOnESC As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CloseViewOnESC {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

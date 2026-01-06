@@ -11,12 +11,8 @@
 ```csharp
 public enum LabelPosition
 ```
-```vb
-Public Enumeration LabelPosition
-```
-```cpp
-public enum class LabelPosition
-```
+
+
 
 
 | Имя члена | Значение | Описание |

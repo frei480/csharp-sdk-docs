@@ -13,17 +13,8 @@ public void FixByWorkplane(
 	Workplane Workplane
 )
 ```
-```vb
-Public Sub FixByWorkplane ( 
-	Workplane As Workplane
-)
-```
-```cpp
-public:
-void FixByWorkplane(
-	Workplane^ Workplane
-)
-```
+
+
 
 
 #### Параметры

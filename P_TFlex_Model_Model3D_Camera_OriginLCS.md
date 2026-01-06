@@ -19,24 +19,8 @@ public LCS OriginLCS {
 	set;
  }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed.")>
-Public Property OriginLCS As LCS
-	<ObsoleteAttribute("Do not call this method.")>
-	Get
-	<ObsoleteAttribute("Do not call this method.")>
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed.")]
-property LCS^ OriginLCS {
-	[ObsoleteAttribute(L"Do not call this method.")]
-	LCS^ get ();
-	[ObsoleteAttribute(L"Do not call this method.")]
-	void set (LCS^ value);
-}
-```
+
+
 
 
 #### Значение свойства

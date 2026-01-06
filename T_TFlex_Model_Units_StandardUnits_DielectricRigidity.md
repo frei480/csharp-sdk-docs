@@ -13,12 +13,8 @@
 ```csharp
 public sealed class DielectricRigidity
 ```
-```vb
-Public NotInheritable Class DielectricRigidity
-```
-```cpp
-public ref class DielectricRigidity sealed
-```
+
+
 
 
 Тип StandardUnitsDielectricRigidity предоставляет следующие члены.

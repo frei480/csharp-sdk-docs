@@ -13,13 +13,8 @@
 ```csharp
 public class Dependence : ICloneable
 ```
-```vb
-Public Class Dependence
-	Implements ICloneable
-```
-```cpp
-public ref class Dependence : ICloneable
-```
+
+
 
 
 Тип TableFunctionDependence предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public void ZoomAll()
 ```
-```vb
-Public Sub ZoomAll
-```
-```cpp
-public:
-void ZoomAll()
-```
+
+
 
 
 #### Ссылки

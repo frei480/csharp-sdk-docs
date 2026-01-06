@@ -11,18 +11,8 @@
 ```csharp
 public int SelectedIndex { get; set; }
 ```
-```vb
-Public Property SelectedIndex As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SelectedIndex {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

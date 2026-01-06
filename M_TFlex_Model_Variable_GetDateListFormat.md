@@ -11,13 +11,8 @@
 ```csharp
 public string GetDateListFormat()
 ```
-```vb
-Public Function GetDateListFormat As String
-```
-```cpp
-public:
-String^ GetDateListFormat()
-```
+
+
 
 
 #### Возвращаемое значение

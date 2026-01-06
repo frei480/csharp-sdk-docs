@@ -13,17 +13,8 @@ public string GetString(
 	string key
 )
 ```
-```vb
-Public Function GetString ( 
-	key As String
-) As String
-```
-```cpp
-public:
-String^ GetString(
-	String^ key
-)
-```
+
+
 
 
 #### Параметры

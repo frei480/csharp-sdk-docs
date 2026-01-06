@@ -15,21 +15,8 @@ public static bool TryParse(
 	out Filter filter
 )
 ```
-```vb
-Public Shared Function TryParse ( 
-	str As String,
-	termTemplate As Term,
-	<OutAttribute> ByRef filter As Filter
-) As Boolean
-```
-```cpp
-public:
-static bool TryParse(
-	String^ str, 
-	Term^ termTemplate, 
-	[OutAttribute] Filter^% filter
-)
-```
+
+
 
 
 #### Параметры

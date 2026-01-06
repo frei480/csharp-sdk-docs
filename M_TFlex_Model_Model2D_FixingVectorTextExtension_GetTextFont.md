@@ -11,21 +11,8 @@ public static FontOptions GetTextFont(
 	int iText
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetTextFont ( 
-	__unnamed000 As FixingVector,
-	iText As Integer
-) As FontOptions
-```
-```cpp
-public:
-[ExtensionAttribute]
-static FontOptions^ GetTextFont(
-	FixingVector^ __unnamed000, 
-	int iText
-)
-```
+
+
 
 
 #### Параметры

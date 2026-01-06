@@ -13,17 +13,8 @@ public EdgePath(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-EdgePath(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

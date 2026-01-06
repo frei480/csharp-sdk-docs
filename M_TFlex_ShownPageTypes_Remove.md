@@ -10,17 +10,8 @@ public bool Remove(
 	PageType type
 )
 ```
-```vb
-Public Function Remove ( 
-	type As PageType
-) As Boolean
-```
-```cpp
-public:
-virtual bool Remove(
-	PageType type
-) sealed
-```
+
+
 
 
 #### Параметры

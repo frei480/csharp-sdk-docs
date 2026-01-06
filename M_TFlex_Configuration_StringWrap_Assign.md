@@ -10,17 +10,8 @@ public void Assign(
 	StringWrap source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As StringWrap
-)
-```
-```cpp
-public:
-void Assign(
-	StringWrap^ source
-)
-```
+
+
 
 
 #### Параметры

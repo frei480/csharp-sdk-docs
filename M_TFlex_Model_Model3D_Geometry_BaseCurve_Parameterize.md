@@ -13,17 +13,8 @@ public double Parameterize(
 	BasePoint3D point
 )
 ```
-```vb
-Public Function Parameterize ( 
-	point As BasePoint3D
-) As Double
-```
-```cpp
-public:
-double Parameterize(
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

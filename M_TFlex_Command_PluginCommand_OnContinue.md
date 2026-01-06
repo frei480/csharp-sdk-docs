@@ -13,17 +13,8 @@ public virtual void OnContinue(
 	ContinueEventArgs e
 )
 ```
-```vb
-Public Overridable Sub OnContinue ( 
-	e As ContinueEventArgs
-)
-```
-```cpp
-public:
-virtual void OnContinue(
-	ContinueEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

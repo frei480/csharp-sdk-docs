@@ -14,19 +14,8 @@ public void SaveInNomenclature(
 	bool autoCheckIn
 )
 ```
-```vb
-Public Sub SaveInNomenclature ( 
-	recursive As Boolean,
-	autoCheckIn As Boolean
-)
-```
-```cpp
-public:
-void SaveInNomenclature(
-	bool recursive, 
-	bool autoCheckIn
-)
-```
+
+
 
 
 #### Параметры

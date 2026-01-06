@@ -11,18 +11,8 @@
 ```csharp
 public bool Projections { get; set; }
 ```
-```vb
-Public Property Projections As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Projections {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

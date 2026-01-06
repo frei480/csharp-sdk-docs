@@ -11,18 +11,8 @@
 ```csharp
 public Parameter EdgeRadius { get; set; }
 ```
-```vb
-Public Property EdgeRadius As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ EdgeRadius {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

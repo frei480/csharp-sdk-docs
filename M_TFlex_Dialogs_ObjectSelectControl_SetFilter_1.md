@@ -13,17 +13,8 @@ public void SetFilter(
 	ObjectSelectControlFilter filter
 )
 ```
-```vb
-Public Sub SetFilter ( 
-	filter As ObjectSelectControlFilter
-)
-```
-```cpp
-public:
-void SetFilter(
-	ObjectSelectControlFilter^ filter
-)
-```
+
+
 
 
 #### Параметры

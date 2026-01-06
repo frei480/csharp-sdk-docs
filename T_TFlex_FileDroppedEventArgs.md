@@ -13,13 +13,8 @@
 ```csharp
 public class FileDroppedEventArgs : ViewEventArgs
 ```
-```vb
-Public Class FileDroppedEventArgs
-	Inherits ViewEventArgs
-```
-```cpp
-public ref class FileDroppedEventArgs : public ViewEventArgs
-```
+
+
 
 
 Тип FileDroppedEventArgs предоставляет следующие члены.

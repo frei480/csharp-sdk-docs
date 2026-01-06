@@ -14,19 +14,8 @@ public DecorationPolyline(
 	BasePoint3D[] points
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	points As BasePoint3D()
-)
-```
-```cpp
-public:
-DecorationPolyline(
-	String^ name, 
-	array<BasePoint3D^>^ points
-)
-```
+
+
 
 
 #### Параметры

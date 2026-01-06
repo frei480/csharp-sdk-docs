@@ -11,19 +11,8 @@ public static SimpleDrawingProjection CreateLegacy(
 	Page page
 )
 ```
-```vb
-Public Shared Function CreateLegacy ( 
-	document As Document,
-	page As Page
-) As SimpleDrawingProjection
-```
-```cpp
-public:
-static SimpleDrawingProjection^ CreateLegacy(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

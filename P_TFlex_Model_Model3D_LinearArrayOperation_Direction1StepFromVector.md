@@ -11,18 +11,8 @@ Cвойство "получать шаг по первому направле�
 ```csharp
 public bool Direction1StepFromVector { get; set; }
 ```
-```vb
-Public Property Direction1StepFromVector As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Direction1StepFromVector {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

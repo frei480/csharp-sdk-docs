@@ -13,12 +13,8 @@
 ```csharp
 public struct Size
 ```
-```vb
-Public Structure Size
-```
-```cpp
-public value class Size
-```
+
+
 
 
 Тип Size предоставляет следующие члены.

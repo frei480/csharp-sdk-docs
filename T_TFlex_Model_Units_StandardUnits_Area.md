@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Area
 ```
-```vb
-Public NotInheritable Class Area
-```
-```cpp
-public ref class Area sealed
-```
+
+
 
 
 Тип StandardUnitsArea предоставляет следующие члены.

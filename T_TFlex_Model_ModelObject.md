@@ -12,14 +12,8 @@
 public abstract class ModelObject : ICloneable, 
 	IComparable
 ```
-```vb
-Public MustInherit Class ModelObject
-	Implements ICloneable, IComparable
-```
-```cpp
-public ref class ModelObject abstract : ICloneable, 
-	IComparable
-```
+
+
 
 
 Тип ModelObject предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToIGES : ExportTo
 ```
-```vb
-Public NotInheritable Class ExportToIGES
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportToIGES sealed : public ExportTo
-```
+
+
 
 
 Тип ExportToIGES предоставляет следующие члены.

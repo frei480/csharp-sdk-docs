@@ -15,21 +15,8 @@ public Exclusion(
 	Parameter column
 )
 ```
-```vb
-Public Sub New ( 
-	pObject As ArrayOperation,
-	row As Parameter,
-	column As Parameter
-)
-```
-```cpp
-public:
-Exclusion(
-	ArrayOperation^ pObject, 
-	Parameter^ row, 
-	Parameter^ column
-)
-```
+
+
 
 
 #### Параметры

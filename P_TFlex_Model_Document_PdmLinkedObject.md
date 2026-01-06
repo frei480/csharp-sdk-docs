@@ -11,16 +11,8 @@
 ```csharp
 public Object PdmLinkedObject { get; }
 ```
-```vb
-Public ReadOnly Property PdmLinkedObject As Object
-	Get
-```
-```cpp
-public:
-property Object^ PdmLinkedObject {
-	Object^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

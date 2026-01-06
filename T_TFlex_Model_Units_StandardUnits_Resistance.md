@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Resistance
 ```
-```vb
-Public NotInheritable Class Resistance
-```
-```cpp
-public ref class Resistance sealed
-```
+
+
 
 
 Тип StandardUnitsResistance предоставляет следующие члены.

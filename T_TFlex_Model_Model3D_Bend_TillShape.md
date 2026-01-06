@@ -11,12 +11,8 @@
 ```csharp
 public enum TillShape
 ```
-```vb
-Public Enumeration TillShape
-```
-```cpp
-public enum class TillShape
-```
+
+
 
 
 | Имя члена | Значение | Описание |

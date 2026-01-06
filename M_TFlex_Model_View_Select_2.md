@@ -15,21 +15,8 @@ public ModelObject Select(
 	SelectionFilter filter
 )
 ```
-```vb
-Public Function Select ( 
-	x As Integer,
-	y As Integer,
-	filter As SelectionFilter
-) As ModelObject
-```
-```cpp
-public:
-ModelObject^ Select(
-	int x, 
-	int y, 
-	SelectionFilter^ filter
-)
-```
+
+
 
 
 #### Параметры

@@ -8,13 +8,8 @@
 ```csharp
 public bool Optimise
 ```
-```vb
-Public Optimise As Boolean
-```
-```cpp
-public:
-bool Optimise
-```
+
+
 
 
 #### Значение поля

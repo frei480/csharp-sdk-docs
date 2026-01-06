@@ -13,13 +13,8 @@
 ```csharp
 public class RotateVectorTransformation : VectorTransformation
 ```
-```vb
-Public Class RotateVectorTransformation
-	Inherits VectorTransformation
-```
-```cpp
-public ref class RotateVectorTransformation : public VectorTransformation
-```
+
+
 
 
 Тип RotateVectorTransformation предоставляет следующие члены.

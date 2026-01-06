@@ -11,13 +11,8 @@
 ```csharp
 public Request()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Request()
-```
+
+
 
 
 #### Ссылки

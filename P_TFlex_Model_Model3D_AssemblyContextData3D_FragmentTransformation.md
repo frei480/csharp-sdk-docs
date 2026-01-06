@@ -11,16 +11,8 @@
 ```csharp
 public AffineTransformation FragmentTransformation { get; }
 ```
-```vb
-Public ReadOnly Property FragmentTransformation As AffineTransformation
-	Get
-```
-```cpp
-public:
-property AffineTransformation^ FragmentTransformation {
-	AffineTransformation^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

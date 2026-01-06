@@ -13,13 +13,8 @@
 ```csharp
 public class DOCsReferenceDatabase : Database
 ```
-```vb
-Public Class DOCsReferenceDatabase
-	Inherits Database
-```
-```cpp
-public ref class DOCsReferenceDatabase : public Database
-```
+
+
 
 
 Тип DOCsReferenceDatabase предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public ScenarioPlaybackType PlaybackType { get; set; }
 ```
-```vb
-Public Property PlaybackType As ScenarioPlaybackType
-	Get
-	Set
-```
-```cpp
-public:
-property ScenarioPlaybackType PlaybackType {
-	ScenarioPlaybackType get ();
-	void set (ScenarioPlaybackType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,21 +15,8 @@ public NativeControl(
 	int minHeight
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	window As NativeWindow,
-	minHeight As Integer
-)
-```
-```cpp
-public:
-NativeControl(
-	String^ id, 
-	NativeWindow^ window, 
-	int minHeight
-)
-```
+
+
 
 
 #### Параметры

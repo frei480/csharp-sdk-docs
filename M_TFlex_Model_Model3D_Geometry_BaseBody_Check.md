@@ -11,13 +11,8 @@
 ```csharp
 public ICollection<BaseBodyCheckResult> Check()
 ```
-```vb
-Public Function Check As ICollection(Of BaseBodyCheckResult)
-```
-```cpp
-public:
-ICollection<BaseBodyCheckResult^>^ Check()
-```
+
+
 
 
 #### Возвращаемое значение

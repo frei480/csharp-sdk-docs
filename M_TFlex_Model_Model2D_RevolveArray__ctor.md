@@ -13,17 +13,8 @@ public RevolveArray(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-RevolveArray(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

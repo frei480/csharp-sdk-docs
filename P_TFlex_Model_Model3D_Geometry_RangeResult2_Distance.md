@@ -11,16 +11,8 @@
 ```csharp
 public double Distance { get; }
 ```
-```vb
-Public ReadOnly Property Distance As Double
-	Get
-```
-```cpp
-public:
-property double Distance {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

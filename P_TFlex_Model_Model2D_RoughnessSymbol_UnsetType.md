@@ -11,18 +11,8 @@
 ```csharp
 public RoughnessUnsetViewType UnsetType { get; set; }
 ```
-```vb
-Public Property UnsetType As RoughnessUnsetViewType
-	Get
-	Set
-```
-```cpp
-public:
-property RoughnessUnsetViewType UnsetType {
-	RoughnessUnsetViewType get ();
-	void set (RoughnessUnsetViewType value);
-}
-```
+
+
 
 
 #### Значение свойства

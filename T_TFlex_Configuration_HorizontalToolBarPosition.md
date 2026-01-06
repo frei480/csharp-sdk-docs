@@ -8,12 +8,8 @@
 ```csharp
 public enum HorizontalToolBarPosition
 ```
-```vb
-Public Enumeration HorizontalToolBarPosition
-```
-```cpp
-public enum class HorizontalToolBarPosition
-```
+
+
 
 
 | Имя члена | Значение | Описание |

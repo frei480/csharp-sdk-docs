@@ -14,19 +14,8 @@ public LinksTransformer(
 	List<Link> links
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document,
-	links As List(Of Link)
-)
-```
-```cpp
-public:
-LinksTransformer(
-	Document^ doc, 
-	List<Link^>^ links
-)
-```
+
+
 
 
 #### Параметры

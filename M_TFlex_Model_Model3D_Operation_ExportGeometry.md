@@ -17,25 +17,8 @@ public bool ExportGeometry(
 	bool binary
 )
 ```
-```vb
-Public Function ExportGeometry ( 
-	file As String,
-	redundant As Boolean,
-	materials As Boolean,
-	assembly As Boolean,
-	binary As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool ExportGeometry(
-	String^ file, 
-	bool redundant, 
-	bool materials, 
-	bool assembly, 
-	bool binary
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class AngularSizeManipulator : Manipulator
 ```
-```vb
-Public Class AngularSizeManipulator
-	Inherits Manipulator
-```
-```cpp
-public ref class AngularSizeManipulator : public Manipulator
-```
+
+
 
 
 Тип AngularSizeManipulator предоставляет следующие члены.

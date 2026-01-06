@@ -14,19 +14,8 @@ public void Mark(
 	SelectionContainerMarkType style
 )
 ```
-```vb
-Public Sub Mark ( 
-	obj As ModelObject,
-	style As SelectionContainerMarkType
-)
-```
-```cpp
-public:
-void Mark(
-	ModelObject^ obj, 
-	SelectionContainerMarkType style
-)
-```
+
+
 
 
 #### Параметры

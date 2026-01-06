@@ -15,21 +15,8 @@ public SegmentOutline(
 	Node endNode
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	startNode As Node,
-	endNode As Node
-)
-```
-```cpp
-public:
-SegmentOutline(
-	Document^ document, 
-	Node^ startNode, 
-	Node^ endNode
-)
-```
+
+
 
 
 #### Параметры

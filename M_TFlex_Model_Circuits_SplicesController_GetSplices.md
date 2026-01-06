@@ -8,13 +8,8 @@
 ```csharp
 public virtual IEnumerable<Splice> GetSplices()
 ```
-```vb
-Public Overridable Function GetSplices As IEnumerable(Of Splice)
-```
-```cpp
-public:
-virtual IEnumerable<Splice^>^ GetSplices()
-```
+
+
 
 
 #### Возвращаемое значение

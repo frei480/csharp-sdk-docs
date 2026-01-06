@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Parameter : IDisposable
 ```
-```vb
-Public MustInherit Class Parameter
-	Implements IDisposable
-```
-```cpp
-public ref class Parameter abstract : IDisposable
-```
+
+
 
 
 Тип UDFParameter предоставляет следующие члены.

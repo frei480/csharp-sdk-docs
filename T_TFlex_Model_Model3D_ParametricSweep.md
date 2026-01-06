@@ -13,13 +13,8 @@
 ```csharp
 public class ParametricSweep : Sweep
 ```
-```vb
-Public Class ParametricSweep
-	Inherits Sweep
-```
-```cpp
-public ref class ParametricSweep : public Sweep
-```
+
+
 
 
 Тип ParametricSweep предоставляет следующие члены.

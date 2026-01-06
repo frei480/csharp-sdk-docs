@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ObjectsQuantity
 ```
-```vb
-Public NotInheritable Class ObjectsQuantity
-```
-```cpp
-public ref class ObjectsQuantity sealed
-```
+
+
 
 
 Тип StandardUnitsObjectsQuantity предоставляет следующие члены.

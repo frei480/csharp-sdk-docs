@@ -14,19 +14,8 @@ public Model2DSection(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	page As Page
-)
-```
-```cpp
-public:
-Model2DSection(
-	Document^ Doc, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

@@ -8,12 +8,8 @@
 ```csharp
 public enum DimensionScale
 ```
-```vb
-Public Enumeration DimensionScale
-```
-```cpp
-public enum class DimensionScale
-```
+
+
 
 
 | Имя члена | Значение | Описание |

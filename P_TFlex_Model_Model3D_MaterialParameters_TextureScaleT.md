@@ -11,18 +11,8 @@
 ```csharp
 public double TextureScaleT { get; set; }
 ```
-```vb
-Public Property TextureScaleT As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double TextureScaleT {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

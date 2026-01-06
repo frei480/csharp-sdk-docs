@@ -11,18 +11,8 @@
 ```csharp
 public bool ShowLeader { get; set; }
 ```
-```vb
-Public Property ShowLeader As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowLeader {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

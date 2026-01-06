@@ -8,18 +8,8 @@
 ```csharp
 public VariableEditorType Editor { get; set; }
 ```
-```vb
-Public Property Editor As VariableEditorType
-	Get
-	Set
-```
-```cpp
-public:
-property VariableEditorType Editor {
-	VariableEditorType get ();
-	void set (VariableEditorType value);
-}
-```
+
+
 
 
 #### Значение свойства

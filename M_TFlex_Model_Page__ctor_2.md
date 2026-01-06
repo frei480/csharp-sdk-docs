@@ -13,17 +13,8 @@ public Page(
 	Page source
 )
 ```
-```vb
-Public Sub New ( 
-	source As Page
-)
-```
-```cpp
-public:
-Page(
-	Page^ source
-)
-```
+
+
 
 
 #### Параметры

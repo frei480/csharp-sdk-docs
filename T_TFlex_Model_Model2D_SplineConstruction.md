@@ -13,13 +13,8 @@
 ```csharp
 public class SplineConstruction : Construction
 ```
-```vb
-Public Class SplineConstruction
-	Inherits Construction
-```
-```cpp
-public ref class SplineConstruction : public Construction
-```
+
+
 
 
 Тип SplineConstruction предоставляет следующие члены.

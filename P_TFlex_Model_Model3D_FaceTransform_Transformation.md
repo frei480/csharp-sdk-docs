@@ -14,18 +14,8 @@
 [ObsoleteAttribute]
 public TransformationContainer Transformation { get; }
 ```
-```vb
-<ObsoleteAttribute>
-Public ReadOnly Property Transformation As TransformationContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute]
-property TransformationContainer^ Transformation {
-	TransformationContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

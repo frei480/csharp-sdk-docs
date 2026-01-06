@@ -11,18 +11,8 @@
 ```csharp
 public string OpenDialogCustomFilter { get; set; }
 ```
-```vb
-Public Property OpenDialogCustomFilter As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ OpenDialogCustomFilter {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

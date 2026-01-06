@@ -13,17 +13,8 @@ public void MoveTo(
 	Point point
 )
 ```
-```vb
-Public Sub MoveTo ( 
-	point As Point
-)
-```
-```cpp
-public:
-void MoveTo(
-	Point point
-)
-```
+
+
 
 
 #### Параметры

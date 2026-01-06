@@ -13,17 +13,8 @@ public ExportToAcis(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToAcis(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

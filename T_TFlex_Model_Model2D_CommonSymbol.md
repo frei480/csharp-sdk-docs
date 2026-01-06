@@ -11,12 +11,8 @@
 ```csharp
 public enum CommonSymbol
 ```
-```vb
-Public Enumeration CommonSymbol
-```
-```cpp
-public enum class CommonSymbol
-```
+
+
 
 
 | Имя члена | Значение | Описание |

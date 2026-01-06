@@ -14,14 +14,8 @@
 [ObsoleteAttribute("This enum is obsolete and will be removed. Please use 'DOCsProductName' property.")]
 public enum DOCsVersion
 ```
-```vb
-<ObsoleteAttribute("This enum is obsolete and will be removed. Please use 'DOCsProductName' property.")>
-Public Enumeration DOCsVersion
-```
-```cpp
-[ObsoleteAttribute(L"This enum is obsolete and will be removed. Please use 'DOCsProductName' property.")]
-public enum class DOCsVersion
-```
+
+
 
 
 | Имя члена | Значение | Описание |

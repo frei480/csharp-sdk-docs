@@ -13,17 +13,8 @@ public ExportTo3mf(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportTo3mf(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

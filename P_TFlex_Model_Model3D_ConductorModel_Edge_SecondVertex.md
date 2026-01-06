@@ -8,16 +8,8 @@
 ```csharp
 public int SecondVertex { get; }
 ```
-```vb
-Public ReadOnly Property SecondVertex As Integer
-	Get
-```
-```cpp
-public:
-property int SecondVertex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

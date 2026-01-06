@@ -15,21 +15,8 @@ public CustomFilePathAttribute(
 	string title
 )
 ```
-```vb
-Public Sub New ( 
-	initialDirectory As String,
-	filter As String,
-	title As String
-)
-```
-```cpp
-public:
-CustomFilePathAttribute(
-	String^ initialDirectory, 
-	String^ filter, 
-	String^ title
-)
-```
+
+
 
 
 #### Параметры

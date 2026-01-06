@@ -8,18 +8,8 @@
 ```csharp
 public bool Internal { get; set; }
 ```
-```vb
-Public Property Internal As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Internal {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

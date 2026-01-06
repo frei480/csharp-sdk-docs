@@ -14,19 +14,8 @@ public Object RunMacro(
 	params Object[] parameters
 )
 ```
-```vb
-Public Function RunMacro ( 
-	macro As String,
-	ParamArray parameters As Object()
-) As Object
-```
-```cpp
-public:
-Object^ RunMacro(
-	String^ macro, 
-	... array<Object^>^ parameters
-)
-```
+
+
 
 
 #### Параметры

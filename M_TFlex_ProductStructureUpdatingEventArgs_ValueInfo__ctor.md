@@ -13,17 +13,8 @@ public ValueInfo(
 	Object value
 )
 ```
-```vb
-Public Sub New ( 
-	value As Object
-)
-```
-```cpp
-public:
-ValueInfo(
-	Object^ value
-)
-```
+
+
 
 
 #### Параметры

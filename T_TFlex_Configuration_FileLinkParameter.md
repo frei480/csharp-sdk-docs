@@ -11,13 +11,8 @@
 ```csharp
 public class FileLinkParameter : BaseParameter
 ```
-```vb
-Public Class FileLinkParameter
-	Inherits BaseParameter
-```
-```cpp
-public ref class FileLinkParameter : public BaseParameter
-```
+
+
 
 
 Тип FileLinkParameter предоставляет следующие члены.

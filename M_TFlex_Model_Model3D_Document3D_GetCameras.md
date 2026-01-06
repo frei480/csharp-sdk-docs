@@ -13,19 +13,8 @@ public static ICollection<Camera> GetCameras(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetCameras ( 
-	document As Document
-) As ICollection(Of Camera)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Camera^>^ GetCameras(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

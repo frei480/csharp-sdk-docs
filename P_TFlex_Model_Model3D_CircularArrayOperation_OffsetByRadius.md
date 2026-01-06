@@ -11,18 +11,8 @@
 ```csharp
 public bool OffsetByRadius { get; set; }
 ```
-```vb
-Public Property OffsetByRadius As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OffsetByRadius {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

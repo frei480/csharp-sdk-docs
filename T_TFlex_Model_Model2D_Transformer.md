@@ -11,12 +11,8 @@
 ```csharp
 public class Transformer
 ```
-```vb
-Public Class Transformer
-```
-```cpp
-public ref class Transformer
-```
+
+
 
 
 Тип Transformer предоставляет следующие члены.

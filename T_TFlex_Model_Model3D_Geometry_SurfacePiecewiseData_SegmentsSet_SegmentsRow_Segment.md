@@ -13,14 +13,8 @@
 ```csharp
 public class Segment : IEnumerator, IEnumerable
 ```
-```vb
-Public Class Segment
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class Segment : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип SurfacePiecewiseDataSegmentsSetSegmentsRowSegment предоставляет следующие члены.

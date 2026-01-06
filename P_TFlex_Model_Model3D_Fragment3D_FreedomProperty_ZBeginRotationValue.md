@@ -11,18 +11,8 @@
 ```csharp
 public double ZBeginRotationValue { get; set; }
 ```
-```vb
-Public Property ZBeginRotationValue As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double ZBeginRotationValue {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public virtual Operation Operation { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Operation As Operation
-	Get
-```
-```cpp
-public:
-virtual property Operation^ Operation {
-	Operation^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

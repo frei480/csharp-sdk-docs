@@ -14,19 +14,8 @@ public bool Import(
 	string fileNameTo
 )
 ```
-```vb
-Public Function Import ( 
-	fileNameFrom As String,
-	fileNameTo As String
-) As Boolean
-```
-```cpp
-public:
-bool Import(
-	String^ fileNameFrom, 
-	String^ fileNameTo
-)
-```
+
+
 
 
 #### Параметры

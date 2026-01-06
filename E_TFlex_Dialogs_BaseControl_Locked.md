@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<BaseEventArgs> Locked
 ```
-```vb
-Public Event Locked As EventHandler(Of BaseEventArgs)
-```
-```cpp
-public:
- event EventHandler<BaseEventArgs^>^ Locked {
-	void add (EventHandler<BaseEventArgs^>^ value);
-	void remove (EventHandler<BaseEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

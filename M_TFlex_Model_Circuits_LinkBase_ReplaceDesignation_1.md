@@ -13,23 +13,8 @@ public abstract void ReplaceDesignation(
 	string annotation
 )
 ```
-```vb
-Public MustOverride Sub ReplaceDesignation ( 
-	oldExpression As String,
-	newExpression As String,
-	delimiter As String,
-	annotation As String
-)
-```
-```cpp
-public:
-virtual void ReplaceDesignation(
-	String^ oldExpression, 
-	String^ newExpression, 
-	String^ delimiter, 
-	String^ annotation
-) abstract
-```
+
+
 
 
 #### Параметры

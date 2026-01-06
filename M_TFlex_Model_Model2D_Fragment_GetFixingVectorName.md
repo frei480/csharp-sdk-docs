@@ -11,13 +11,8 @@
 ```csharp
 public string GetFixingVectorName()
 ```
-```vb
-Public Function GetFixingVectorName As String
-```
-```cpp
-public:
-String^ GetFixingVectorName()
-```
+
+
 
 
 #### Возвращаемое значение

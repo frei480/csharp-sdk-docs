@@ -14,19 +14,8 @@ public void SetProfileReverse(
 	bool reverse
 )
 ```
-```vb
-Public Sub SetProfileReverse ( 
-	profileIndex As Integer,
-	reverse As Boolean
-)
-```
-```cpp
-public:
-void SetProfileReverse(
-	int profileIndex, 
-	bool reverse
-)
-```
+
+
 
 
 #### Параметры

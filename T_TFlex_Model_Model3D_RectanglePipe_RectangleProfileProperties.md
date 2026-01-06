@@ -13,13 +13,8 @@
 ```csharp
 public class RectangleProfileProperties : BasePipeBaseProfileProperties
 ```
-```vb
-Public Class RectangleProfileProperties
-	Inherits BasePipeBaseProfileProperties
-```
-```cpp
-public ref class RectangleProfileProperties : public BasePipeBaseProfileProperties
-```
+
+
 
 
 Тип RectanglePipeRectangleProfileProperties предоставляет следующие члены.

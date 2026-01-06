@@ -8,18 +8,8 @@
 ```csharp
 public string PSDefaultName { get; set; }
 ```
-```vb
-Public Property PSDefaultName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ PSDefaultName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

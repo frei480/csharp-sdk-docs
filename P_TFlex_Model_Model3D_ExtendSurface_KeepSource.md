@@ -11,18 +11,8 @@
 ```csharp
 public bool KeepSource { get; set; }
 ```
-```vb
-Public Property KeepSource As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool KeepSource {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

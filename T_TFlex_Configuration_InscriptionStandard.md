@@ -8,12 +8,8 @@
 ```csharp
 public enum InscriptionStandard
 ```
-```vb
-Public Enumeration InscriptionStandard
-```
-```cpp
-public enum class InscriptionStandard
-```
+
+
 
 
 | Имя члена | Значение | Описание |

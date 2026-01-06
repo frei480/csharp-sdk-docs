@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToPLY : ExportToFacet
 ```
-```vb
-Public NotInheritable Class ExportToPLY
-	Inherits ExportToFacet
-```
-```cpp
-public ref class ExportToPLY sealed : public ExportToFacet
-```
+
+
 
 
 Тип ExportToPLY предоставляет следующие члены.

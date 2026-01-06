@@ -11,13 +11,8 @@
 ```csharp
 public void ConvertAutomaticCouplingPoints()
 ```
-```vb
-Public Sub ConvertAutomaticCouplingPoints
-```
-```cpp
-public:
-void ConvertAutomaticCouplingPoints()
-```
+
+
 
 
 После конвертации автоматических точек соответствия параметр установки автоматических точек соответствия сбрасывается

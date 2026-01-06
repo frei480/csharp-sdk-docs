@@ -13,17 +13,8 @@ public ExportToX3D(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToX3D(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

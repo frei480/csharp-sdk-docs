@@ -15,21 +15,8 @@ public static Value Measure(
 	ModelObject lcs
 )
 ```
-```vb
-Public Shared Function Measure ( 
-	objects As ObjectArray,
-	valueName As String,
-	lcs As ModelObject
-) As Value
-```
-```cpp
-public:
-static Value^ Measure(
-	ObjectArray^ objects, 
-	String^ valueName, 
-	ModelObject^ lcs
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public double GetDistance(
 	Point point
 )
 ```
-```vb
-Public Function GetDistance ( 
-	point As Point
-) As Double
-```
-```cpp
-public:
-double GetDistance(
-	Point point
-)
-```
+
+
 
 
 #### Параметры

@@ -13,19 +13,8 @@ public static ICollection<FaceBlending> GetFaceBlendings(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetFaceBlendings ( 
-	document As Document
-) As ICollection(Of FaceBlending)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<FaceBlending^>^ GetFaceBlendings(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

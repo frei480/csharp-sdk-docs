@@ -11,12 +11,8 @@
 ```csharp
 public class CreateElementsResult
 ```
-```vb
-Public Class CreateElementsResult
-```
-```cpp
-public ref class CreateElementsResult
-```
+
+
 
 
 Тип CreateElementsResult предоставляет следующие члены.

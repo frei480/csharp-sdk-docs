@@ -11,12 +11,8 @@
 ```csharp
 public enum TypeOfClash
 ```
-```vb
-Public Enumeration TypeOfClash
-```
-```cpp
-public enum class TypeOfClash
-```
+
+
 
 
 | Имя члена | Значение | Описание |

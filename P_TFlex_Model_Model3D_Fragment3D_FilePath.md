@@ -11,18 +11,8 @@
 ```csharp
 public string FilePath { get; set; }
 ```
-```vb
-Public Property FilePath As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ FilePath {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,16 +8,8 @@
 ```csharp
 public ObservableCollection<string> SupportedPlugins { get; }
 ```
-```vb
-Public ReadOnly Property SupportedPlugins As ObservableCollection(Of String)
-	Get
-```
-```cpp
-public:
-property ObservableCollection<String^>^ SupportedPlugins {
-	ObservableCollection<String^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

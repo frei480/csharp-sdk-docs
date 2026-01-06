@@ -11,12 +11,8 @@
 ```csharp
 public enum ThreadDirection
 ```
-```vb
-Public Enumeration ThreadDirection
-```
-```cpp
-public enum class ThreadDirection
-```
+
+
 
 
 | Имя члена | Значение | Описание |

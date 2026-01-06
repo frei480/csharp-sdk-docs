@@ -14,14 +14,8 @@
 public sealed class ObjectId : IComparable, 
 	ICloneable, IFormattable
 ```
-```vb
-Public NotInheritable Class ObjectId
-	Implements IComparable, ICloneable, IFormattable
-```
-```cpp
-public ref class ObjectId sealed : IComparable, 
-	ICloneable, IFormattable
-```
+
+
 
 
 Тип ObjectId предоставляет следующие члены.

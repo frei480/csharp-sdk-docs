@@ -16,23 +16,8 @@ public void SetRowParameters(
 	Parameter arrNumber
 )
 ```
-```vb
-Public Sub SetRowParameters ( 
-	paramsSet As RevolveArrayParameters,
-	arrFullAngle As Parameter,
-	arrStepAngle As Parameter,
-	arrNumber As Parameter
-)
-```
-```cpp
-public:
-void SetRowParameters(
-	RevolveArrayParameters paramsSet, 
-	Parameter^ arrFullAngle, 
-	Parameter^ arrStepAngle, 
-	Parameter^ arrNumber
-)
-```
+
+
 
 
 #### Параметры

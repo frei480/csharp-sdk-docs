@@ -11,12 +11,8 @@
 ```csharp
 public class EditListPopupProperties
 ```
-```vb
-Public Class EditListPopupProperties
-```
-```cpp
-public ref class EditListPopupProperties
-```
+
+
 
 
 Тип EditListPopupProperties предоставляет следующие члены.

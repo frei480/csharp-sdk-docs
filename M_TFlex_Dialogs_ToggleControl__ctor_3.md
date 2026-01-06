@@ -16,23 +16,8 @@ public ToggleControl(
 	ToggleControlType type
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	text As String,
-	icon As Icon,
-	type As ToggleControlType
-)
-```
-```cpp
-public:
-ToggleControl(
-	String^ id, 
-	String^ text, 
-	Icon^ icon, 
-	ToggleControlType type
-)
-```
+
+
 
 
 #### Параметры

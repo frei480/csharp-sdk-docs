@@ -10,17 +10,8 @@ public void AddLink(
 	Link link
 )
 ```
-```vb
-Public Sub AddLink ( 
-	link As Link
-)
-```
-```cpp
-public:
-void AddLink(
-	Link^ link
-)
-```
+
+
 
 
 #### Параметры

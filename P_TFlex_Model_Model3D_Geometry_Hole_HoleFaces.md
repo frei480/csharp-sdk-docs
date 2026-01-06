@@ -8,16 +8,8 @@
 ```csharp
 public List<ModelFace> HoleFaces { get; }
 ```
-```vb
-Public ReadOnly Property HoleFaces As List(Of ModelFace)
-	Get
-```
-```cpp
-public:
-property List<ModelFace^>^ HoleFaces {
-	List<ModelFace^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

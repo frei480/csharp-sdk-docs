@@ -13,17 +13,8 @@ public Library GetLibrary(
 	int index
 )
 ```
-```vb
-Public Function GetLibrary ( 
-	index As Integer
-) As Library
-```
-```cpp
-public:
-Library^ GetLibrary(
-	int index
-)
-```
+
+
 
 
 #### Параметры

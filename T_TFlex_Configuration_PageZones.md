@@ -11,13 +11,8 @@
 ```csharp
 public class PageZones : SettingsGroup
 ```
-```vb
-Public Class PageZones
-	Inherits SettingsGroup
-```
-```cpp
-public ref class PageZones : public SettingsGroup
-```
+
+
 
 
 Тип PageZones предоставляет следующие члены.

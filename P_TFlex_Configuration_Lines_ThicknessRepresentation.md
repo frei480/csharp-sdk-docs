@@ -8,18 +8,8 @@
 ```csharp
 public LineThicknessRepresentation ThicknessRepresentation { get; set; }
 ```
-```vb
-Public Property ThicknessRepresentation As LineThicknessRepresentation
-	Get
-	Set
-```
-```cpp
-public:
-property LineThicknessRepresentation ThicknessRepresentation {
-	LineThicknessRepresentation get ();
-	void set (LineThicknessRepresentation value);
-}
-```
+
+
 
 
 #### Значение свойства

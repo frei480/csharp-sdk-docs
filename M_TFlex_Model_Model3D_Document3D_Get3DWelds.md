@@ -13,19 +13,8 @@ public static ICollection<Weld3D> Get3DWelds(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function Get3DWelds ( 
-	document As Document
-) As ICollection(Of Weld3D)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Weld3D^>^ Get3DWelds(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

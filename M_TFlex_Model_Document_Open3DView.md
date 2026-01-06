@@ -11,13 +11,8 @@
 ```csharp
 public View Open3DView()
 ```
-```vb
-Public Function Open3DView As View
-```
-```cpp
-public:
-View^ Open3DView()
-```
+
+
 
 
 #### Возвращаемое значение

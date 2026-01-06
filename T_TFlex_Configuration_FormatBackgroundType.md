@@ -8,12 +8,8 @@
 ```csharp
 public enum FormatBackgroundType
 ```
-```vb
-Public Enumeration FormatBackgroundType
-```
-```cpp
-public enum class FormatBackgroundType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

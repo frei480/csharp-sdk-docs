@@ -13,17 +13,8 @@ public RibbonTab GetTab(
 	int i
 )
 ```
-```vb
-Public Function GetTab ( 
-	i As Integer
-) As RibbonTab
-```
-```cpp
-public:
-RibbonTab^ GetTab(
-	int i
-)
-```
+
+
 
 
 #### Параметры

@@ -10,20 +10,8 @@ public ModelLoop this[
 	int Index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	Index As Integer
-) As ModelLoop
-	Get
-	Set
-```
-```cpp
-public:
-property ModelLoop^ default[int Index] {
-	ModelLoop^ get (int Index);
-	void set (int Index, ModelLoop^ value);
-}
-```
+
+
 
 
 #### Параметры

@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Fragment> GetFragments()
 ```
-```vb
-Public Function GetFragments As ICollection(Of Fragment)
-```
-```cpp
-public:
-ICollection<Fragment^>^ GetFragments()
-```
+
+
 
 
 #### Возвращаемое значение

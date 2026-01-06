@@ -11,16 +11,8 @@
 ```csharp
 public ProfileConvertToSplineData ConvertToSpline { get; }
 ```
-```vb
-Public ReadOnly Property ConvertToSpline As ProfileConvertToSplineData
-	Get
-```
-```cpp
-public:
-property ProfileConvertToSplineData^ ConvertToSpline {
-	ProfileConvertToSplineData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

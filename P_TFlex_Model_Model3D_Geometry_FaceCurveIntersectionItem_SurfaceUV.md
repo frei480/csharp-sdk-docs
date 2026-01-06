@@ -11,16 +11,8 @@
 ```csharp
 public UV SurfaceUV { get; }
 ```
-```vb
-Public ReadOnly Property SurfaceUV As UV
-	Get
-```
-```cpp
-public:
-property UV SurfaceUV {
-	UV get ();
-}
-```
+
+
 
 
 #### Значение свойства

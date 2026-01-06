@@ -14,18 +14,8 @@ public delegate void ChangingFloatingWindowDocumentEventHandler(
 	DocumentEventArgs e
 )
 ```
-```vb
-Public Delegate Sub ChangingFloatingWindowDocumentEventHandler ( 
-	sender As Object,
-	e As DocumentEventArgs
-)
-```
-```cpp
-public delegate void ChangingFloatingWindowDocumentEventHandler(
-	Object^ sender, 
-	DocumentEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

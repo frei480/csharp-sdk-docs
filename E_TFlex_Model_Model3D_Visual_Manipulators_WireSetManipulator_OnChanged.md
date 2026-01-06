@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<ManipulatorEventArgs> OnChanged
 ```
-```vb
-Public Event OnChanged As EventHandler(Of ManipulatorEventArgs)
-```
-```cpp
-public:
- event EventHandler<ManipulatorEventArgs^>^ OnChanged {
-	void add (EventHandler<ManipulatorEventArgs^>^ value);
-	void remove (EventHandler<ManipulatorEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

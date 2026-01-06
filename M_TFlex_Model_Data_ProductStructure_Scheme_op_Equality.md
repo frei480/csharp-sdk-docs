@@ -11,19 +11,8 @@ public static bool operator ==(
 	Scheme right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As Scheme,
-	right As Scheme
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	Scheme^ left, 
-	Scheme^ right
-)
-```
+
+
 
 
 #### Параметры

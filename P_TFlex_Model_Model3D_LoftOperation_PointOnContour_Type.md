@@ -11,16 +11,8 @@
 ```csharp
 public abstract LoftOperationPointType Type { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property Type As LoftOperationPointType
-	Get
-```
-```cpp
-public:
-virtual property LoftOperationPointType Type {
-	LoftOperationPointType get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,16 +8,8 @@
 ```csharp
 public MeasureResultsUpdatingEventArgsActionType Action { get; }
 ```
-```vb
-Public ReadOnly Property Action As MeasureResultsUpdatingEventArgsActionType
-	Get
-```
-```cpp
-public:
-property MeasureResultsUpdatingEventArgsActionType Action {
-	MeasureResultsUpdatingEventArgsActionType get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public View3DEnvironmentLight EnvironmentLight { get; set; }
 ```
-```vb
-Public Property EnvironmentLight As View3DEnvironmentLight
-	Get
-	Set
-```
-```cpp
-public:
-property View3DEnvironmentLight EnvironmentLight {
-	View3DEnvironmentLight get ();
-	void set (View3DEnvironmentLight value);
-}
-```
+
+
 
 
 #### Значение свойства

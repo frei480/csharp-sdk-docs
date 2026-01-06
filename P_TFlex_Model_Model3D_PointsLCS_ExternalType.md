@@ -11,18 +11,8 @@
 ```csharp
 public LcsExternalType ExternalType { get; set; }
 ```
-```vb
-Public Property ExternalType As LcsExternalType
-	Get
-	Set
-```
-```cpp
-public:
-property LcsExternalType ExternalType {
-	LcsExternalType get ();
-	void set (LcsExternalType value);
-}
-```
+
+
 
 
 #### Значение свойства

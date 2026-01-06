@@ -13,17 +13,8 @@ public void BeginUserInsert(
 	int pos
 )
 ```
-```vb
-Public Sub BeginUserInsert ( 
-	pos As Integer
-)
-```
-```cpp
-public:
-void BeginUserInsert(
-	int pos
-)
-```
+
+
 
 
 #### Параметры

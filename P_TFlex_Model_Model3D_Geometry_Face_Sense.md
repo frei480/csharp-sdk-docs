@@ -11,16 +11,8 @@
 ```csharp
 public virtual bool Sense { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Sense As Boolean
-	Get
-```
-```cpp
-public:
-virtual property bool Sense {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,16 +13,8 @@
 ```csharp
 public static Unit SquareKilometer { get; }
 ```
-```vb
-Public Shared ReadOnly Property SquareKilometer As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ SquareKilometer {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

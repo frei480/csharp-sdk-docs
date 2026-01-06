@@ -11,16 +11,8 @@
 ```csharp
 public ThreadStepCollection Steps { get; }
 ```
-```vb
-Public ReadOnly Property Steps As ThreadStepCollection
-	Get
-```
-```cpp
-public:
-property ThreadStepCollection^ Steps {
-	ThreadStepCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

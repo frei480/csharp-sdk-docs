@@ -11,15 +11,8 @@
 ```csharp
 BaseSurface Surface { get; }
 ```
-```vb
-ReadOnly Property Surface As BaseSurface
-	Get
-```
-```cpp
-property BaseSurface^ Surface {
-	BaseSurface^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

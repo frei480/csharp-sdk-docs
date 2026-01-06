@@ -14,19 +14,8 @@ public void SetFontName(
 	FontStyle style
 )
 ```
-```vb
-Public Sub SetFontName ( 
-	fontname As String,
-	style As FontStyle
-)
-```
-```cpp
-public:
-void SetFontName(
-	String^ fontname, 
-	FontStyle style
-)
-```
+
+
 
 
 #### Параметры

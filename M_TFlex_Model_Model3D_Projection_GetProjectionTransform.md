@@ -11,13 +11,8 @@
 ```csharp
 public TransformationMatrix GetProjectionTransform()
 ```
-```vb
-Public Function GetProjectionTransform As TransformationMatrix
-```
-```cpp
-public:
-TransformationMatrix^ GetProjectionTransform()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,18 +11,8 @@
 ```csharp
 public int SelectionStart { get; set; }
 ```
-```vb
-Public Property SelectionStart As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SelectionStart {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

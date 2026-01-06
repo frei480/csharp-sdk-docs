@@ -11,13 +11,8 @@
 ```csharp
 public CommitedGeometryChangedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CommitedGeometryChangedEventArgs()
-```
+
+
 
 
 #### Ссылки

@@ -14,19 +14,8 @@ public EdgePoint(
 	Parameter value
 )
 ```
-```vb
-Public Sub New ( 
-	edge As ModelEdge,
-	value As Parameter
-)
-```
-```cpp
-public:
-EdgePoint(
-	ModelEdge^ edge, 
-	Parameter^ value
-)
-```
+
+
 
 
 #### Параметры

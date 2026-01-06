@@ -14,20 +14,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed")]
 public double MaxCellSize { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed")>
-Public Property MaxCellSize As Double
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed")]
-property double MaxCellSize {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

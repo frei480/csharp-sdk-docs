@@ -11,13 +11,8 @@
 ```csharp
 public class Zones : SettingsGroup
 ```
-```vb
-Public Class Zones
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Zones : public SettingsGroup
-```
+
+
 
 
 Тип Zones предоставляет следующие члены.

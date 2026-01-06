@@ -14,19 +14,8 @@ public void SetTangents(
 	double endTangent
 )
 ```
-```vb
-Public Sub SetTangents ( 
-	beginTangent As Double,
-	endTangent As Double
-)
-```
-```cpp
-public:
-void SetTangents(
-	double beginTangent, 
-	double endTangent
-)
-```
+
+
 
 
 #### Параметры

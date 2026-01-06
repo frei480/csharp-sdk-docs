@@ -8,12 +8,8 @@
 ```csharp
 public enum IncludeInBOMType
 ```
-```vb
-Public Enumeration IncludeInBOMType
-```
-```cpp
-public enum class IncludeInBOMType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

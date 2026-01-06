@@ -11,12 +11,8 @@
 ```csharp
 public class MaterialPopupProperties
 ```
-```vb
-Public Class MaterialPopupProperties
-```
-```cpp
-public ref class MaterialPopupProperties
-```
+
+
 
 
 Тип MaterialPopupProperties предоставляет следующие члены.

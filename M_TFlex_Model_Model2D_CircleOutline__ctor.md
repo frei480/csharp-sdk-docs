@@ -15,21 +15,8 @@ public CircleOutline(
 	double radius
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	center As Node,
-	radius As Double
-)
-```
-```cpp
-public:
-CircleOutline(
-	Document^ document, 
-	Node^ center, 
-	double radius
-)
-```
+
+
 
 
 #### Параметры

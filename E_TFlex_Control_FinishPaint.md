@@ -11,16 +11,8 @@ Cобытие, происходящеe при завершении отрисо�
 ```csharp
 public event ControlFinishPaint FinishPaint
 ```
-```vb
-Public Event FinishPaint As ControlFinishPaint
-```
-```cpp
-public:
- event ControlFinishPaint^ FinishPaint {
-	void add (ControlFinishPaint^ value);
-	void remove (ControlFinishPaint^ value);
-}
-```
+
+
 
 
 #### Значение

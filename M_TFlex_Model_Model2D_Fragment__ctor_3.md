@@ -13,17 +13,8 @@ public Fragment(
 	FileLink link
 )
 ```
-```vb
-Public Sub New ( 
-	link As FileLink
-)
-```
-```cpp
-public:
-Fragment(
-	FileLink^ link
-)
-```
+
+
 
 
 #### Параметры

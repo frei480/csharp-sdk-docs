@@ -14,14 +14,8 @@
 public class ViewPointsArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ViewPointsArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ViewPointsArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип ViewSectionViewPointsArray предоставляет следующие члены.

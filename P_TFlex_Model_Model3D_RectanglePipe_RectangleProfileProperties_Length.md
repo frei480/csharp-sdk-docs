@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Length { get; set; }
 ```
-```vb
-Public Property Length As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Length {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool ThrowOnError { get; set; }
 ```
-```vb
-Public Property ThrowOnError As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ThrowOnError {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

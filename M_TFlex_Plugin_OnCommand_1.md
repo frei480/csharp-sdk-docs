@@ -14,19 +14,8 @@ protected virtual void OnCommand(
 	int id
 )
 ```
-```vb
-Protected Overridable Sub OnCommand ( 
-	pDocument As Document,
-	id As Integer
-)
-```
-```cpp
-protected:
-virtual void OnCommand(
-	Document^ pDocument, 
-	int id
-)
-```
+
+
 
 
 #### Параметры

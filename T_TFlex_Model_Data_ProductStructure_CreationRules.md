@@ -11,13 +11,8 @@
 ```csharp
 public class CreationRules : ICloneable
 ```
-```vb
-Public Class CreationRules
-	Implements ICloneable
-```
-```cpp
-public ref class CreationRules : ICloneable
-```
+
+
 
 
 Тип CreationRules предоставляет следующие члены.

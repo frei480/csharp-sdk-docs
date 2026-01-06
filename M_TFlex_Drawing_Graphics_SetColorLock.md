@@ -13,17 +13,8 @@ public bool SetColorLock(
 	bool lock
 )
 ```
-```vb
-Public Function SetColorLock ( 
-	lock As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool SetColorLock(
-	bool lock
-)
-```
+
+
 
 
 #### Параметры

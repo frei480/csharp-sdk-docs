@@ -11,18 +11,8 @@
 ```csharp
 public PdmConnectionDirection PdmConnectionDirection { get; set; }
 ```
-```vb
-Public Property PdmConnectionDirection As PdmConnectionDirection
-	Get
-	Set
-```
-```cpp
-public:
-property PdmConnectionDirection PdmConnectionDirection {
-	PdmConnectionDirection get ();
-	void set (PdmConnectionDirection value);
-}
-```
+
+
 
 
 #### Значение свойства

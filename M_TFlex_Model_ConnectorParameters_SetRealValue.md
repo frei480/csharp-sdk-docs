@@ -14,19 +14,8 @@ public int SetRealValue(
 	double value
 )
 ```
-```vb
-Public Function SetRealValue ( 
-	name As String,
-	value As Double
-) As Integer
-```
-```cpp
-public:
-int SetRealValue(
-	String^ name, 
-	double value
-)
-```
+
+
 
 
 #### Параметры

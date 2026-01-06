@@ -11,12 +11,8 @@
 ```csharp
 public enum Measure
 ```
-```vb
-Public Enumeration Measure
-```
-```cpp
-public enum class Measure
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ModelBox : BaseBox
 ```
-```vb
-Public NotInheritable Class ModelBox
-	Inherits BaseBox
-```
-```cpp
-public ref class ModelBox sealed : public BaseBox
-```
+
+
 
 
 Тип ModelBox предоставляет следующие члены.

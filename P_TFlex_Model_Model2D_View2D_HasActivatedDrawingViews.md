@@ -11,16 +11,8 @@
 ```csharp
 public bool HasActivatedDrawingViews { get; }
 ```
-```vb
-Public ReadOnly Property HasActivatedDrawingViews As Boolean
-	Get
-```
-```cpp
-public:
-property bool HasActivatedDrawingViews {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

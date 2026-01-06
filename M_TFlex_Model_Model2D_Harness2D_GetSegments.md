@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerable<Segment> GetSegments()
 ```
-```vb
-Public Function GetSegments As IEnumerable(Of Segment)
-```
-```cpp
-public:
-IEnumerable<Segment^>^ GetSegments()
-```
+
+
 
 
 #### Возвращаемое значение

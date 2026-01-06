@@ -11,21 +11,8 @@ public static List<Element> GetElementsLoadedFromFragment(
 	Fragment3D fragment
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetElementsLoadedFromFragment ( 
-	manager As StructureElementsManager,
-	fragment As Fragment3D
-) As List(Of Element)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static List<Element^>^ GetElementsLoadedFromFragment(
-	StructureElementsManager^ manager, 
-	Fragment3D^ fragment
-)
-```
+
+
 
 
 #### Параметры

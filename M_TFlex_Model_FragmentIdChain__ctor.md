@@ -13,17 +13,8 @@ public FragmentIdChain(
 	IEnumerable<ObjectId> ids
 )
 ```
-```vb
-Public Sub New ( 
-	ids As IEnumerable(Of ObjectId)
-)
-```
-```cpp
-public:
-FragmentIdChain(
-	IEnumerable<ObjectId^>^ ids
-)
-```
+
+
 
 
 #### Параметры

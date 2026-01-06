@@ -11,12 +11,8 @@
 ```csharp
 public class BasePoint
 ```
-```vb
-Public Class BasePoint
-```
-```cpp
-public ref class BasePoint
-```
+
+
 
 
 Тип BasePoint предоставляет следующие члены.

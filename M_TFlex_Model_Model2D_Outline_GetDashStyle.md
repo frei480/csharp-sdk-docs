@@ -11,13 +11,8 @@
 ```csharp
 public List<OutlineDashStyleItem> GetDashStyle()
 ```
-```vb
-Public Function GetDashStyle As List(Of OutlineDashStyleItem)
-```
-```cpp
-public:
-List<OutlineDashStyleItem>^ GetDashStyle()
-```
+
+
 
 
 #### Возвращаемое значение

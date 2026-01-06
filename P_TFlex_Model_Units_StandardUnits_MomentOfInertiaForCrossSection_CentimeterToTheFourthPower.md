@@ -13,16 +13,8 @@
 ```csharp
 public static Unit CentimeterToTheFourthPower { get; }
 ```
-```vb
-Public Shared ReadOnly Property CentimeterToTheFourthPower As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ CentimeterToTheFourthPower {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

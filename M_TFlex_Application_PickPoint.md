@@ -14,19 +14,8 @@ public static PickPointResult PickPoint(
 	PickPointParameters parameters
 )
 ```
-```vb
-Public Shared Function PickPoint ( 
-	document As Document,
-	parameters As PickPointParameters
-) As PickPointResult
-```
-```cpp
-public:
-static PickPointResult^ PickPoint(
-	Document^ document, 
-	PickPointParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

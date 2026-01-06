@@ -8,13 +8,8 @@
 ```csharp
 public SortRuleItem Copy()
 ```
-```vb
-Public Function Copy As SortRuleItem
-```
-```cpp
-public:
-SortRuleItem^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

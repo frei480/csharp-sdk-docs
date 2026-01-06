@@ -13,17 +13,8 @@ protected override void OnMouseMove(
 	MouseEventArgs e
 )
 ```
-```vb
-Protected Overrides Sub OnMouseMove ( 
-	e As MouseEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnMouseMove(
-	MouseEventArgs^ e
-) override
-```
+
+
 
 
 #### Параметры

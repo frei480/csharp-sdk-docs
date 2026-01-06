@@ -14,19 +14,8 @@ public void SetCursor(
 	PositionTablePosition table
 )
 ```
-```vb
-Public Sub SetCursor ( 
-	position As PositionProperties,
-	table As PositionTablePosition
-)
-```
-```cpp
-public:
-void SetCursor(
-	PositionProperties position, 
-	PositionTablePosition table
-)
-```
+
+
 
 
 #### Параметры

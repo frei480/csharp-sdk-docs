@@ -11,13 +11,8 @@
 ```csharp
 public BOMObjectFieldType DataType
 ```
-```vb
-Public DataType As BOMObjectFieldType
-```
-```cpp
-public:
-BOMObjectFieldType DataType
-```
+
+
 
 
 #### Значение поля

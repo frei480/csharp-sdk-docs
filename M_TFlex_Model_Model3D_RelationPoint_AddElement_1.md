@@ -13,17 +13,8 @@ public void AddElement(
 	Object3D A_0
 )
 ```
-```vb
-Public Sub AddElement ( 
-	A_0 As Object3D
-)
-```
-```cpp
-public:
-void AddElement(
-	Object3D^ A_0
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@ true если была произведена полная регенераци�
 ```csharp
 public bool IsFullRegeneration { get; }
 ```
-```vb
-Public ReadOnly Property IsFullRegeneration As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsFullRegeneration {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

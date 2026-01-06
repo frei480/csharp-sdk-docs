@@ -11,13 +11,8 @@
 ```csharp
 public class RowFilterTerm : Term
 ```
-```vb
-Public Class RowFilterTerm
-	Inherits Term
-```
-```cpp
-public ref class RowFilterTerm : public Term
-```
+
+
 
 
 Тип RowFilterTerm предоставляет следующие члены.

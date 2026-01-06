@@ -11,18 +11,8 @@
 ```csharp
 public bool ReverseFlag { get; set; }
 ```
-```vb
-Public Property ReverseFlag As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ReverseFlag {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

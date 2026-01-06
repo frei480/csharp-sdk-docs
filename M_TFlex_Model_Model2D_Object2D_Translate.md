@@ -14,19 +14,8 @@ public void Translate(
 	double dy
 )
 ```
-```vb
-Public Sub Translate ( 
-	dx As Double,
-	dy As Double
-)
-```
-```cpp
-public:
-void Translate(
-	double dx, 
-	double dy
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class RotationManipulator : Manipulator
 ```
-```vb
-Public Class RotationManipulator
-	Inherits Manipulator
-```
-```cpp
-public ref class RotationManipulator : public Manipulator
-```
+
+
 
 
 Тип RotationManipulator предоставляет следующие члены.

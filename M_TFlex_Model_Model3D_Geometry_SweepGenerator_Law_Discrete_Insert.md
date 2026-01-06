@@ -14,19 +14,8 @@ public void Insert(
 	SweepGeneratorLawDiscreteAssociation pair
 )
 ```
-```vb
-Public Sub Insert ( 
-	index As UInteger,
-	pair As SweepGeneratorLawDiscreteAssociation
-)
-```
-```cpp
-public:
-void Insert(
-	unsigned int index, 
-	SweepGeneratorLawDiscreteAssociation^ pair
-)
-```
+
+
 
 
 #### Параметры

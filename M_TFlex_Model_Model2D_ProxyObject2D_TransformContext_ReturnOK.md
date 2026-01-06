@@ -11,13 +11,8 @@
 ```csharp
 public void ReturnOK()
 ```
-```vb
-Public Sub ReturnOK
-```
-```cpp
-public:
-void ReturnOK()
-```
+
+
 
 
 #### Ссылки

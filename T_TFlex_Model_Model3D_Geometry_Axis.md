@@ -13,13 +13,8 @@
 ```csharp
 public class Axis : BaseAxis
 ```
-```vb
-Public Class Axis
-	Inherits BaseAxis
-```
-```cpp
-public ref class Axis : public BaseAxis
-```
+
+
 
 
 Тип Axis предоставляет следующие члены.

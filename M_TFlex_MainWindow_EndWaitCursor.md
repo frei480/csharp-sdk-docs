@@ -11,13 +11,8 @@
 ```csharp
 public void EndWaitCursor()
 ```
-```vb
-Public Sub EndWaitCursor
-```
-```cpp
-public:
-void EndWaitCursor()
-```
+
+
 
 
 #### Ссылки

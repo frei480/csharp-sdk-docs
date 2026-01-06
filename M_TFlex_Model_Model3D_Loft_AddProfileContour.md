@@ -14,19 +14,8 @@ public void AddProfileContour(
 	ModelContour contour
 )
 ```
-```vb
-Public Sub AddProfileContour ( 
-	profileIndex As Integer,
-	contour As ModelContour
-)
-```
-```cpp
-public:
-void AddProfileContour(
-	int profileIndex, 
-	ModelContour^ contour
-)
-```
+
+
 
 
 #### Параметры

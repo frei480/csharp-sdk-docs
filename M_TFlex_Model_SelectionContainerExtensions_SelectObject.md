@@ -11,21 +11,8 @@ public static void SelectObject(
 	ObjectIdChain A_1
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SelectObject ( 
-	A_0 As SelectionContainer,
-	A_1 As ObjectIdChain
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SelectObject(
-	SelectionContainer^ A_0, 
-	ObjectIdChain^ A_1
-)
-```
+
+
 
 
 #### Параметры

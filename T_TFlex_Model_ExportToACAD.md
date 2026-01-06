@@ -13,13 +13,8 @@
 ```csharp
 public abstract class ExportToACAD : ExportTo
 ```
-```vb
-Public MustInherit Class ExportToACAD
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportToACAD abstract : public ExportTo
-```
+
+
 
 
 Тип ExportToACAD предоставляет следующие члены.

@@ -8,12 +8,8 @@
 ```csharp
 public enum FirstVisibleSymbol
 ```
-```vb
-Public Enumeration FirstVisibleSymbol
-```
-```cpp
-public enum class FirstVisibleSymbol
-```
+
+
 
 
 | Имя члена | Значение | Описание |

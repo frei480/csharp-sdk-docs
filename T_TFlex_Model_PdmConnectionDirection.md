@@ -11,12 +11,8 @@
 ```csharp
 public enum PdmConnectionDirection
 ```
-```vb
-Public Enumeration PdmConnectionDirection
-```
-```cpp
-public enum class PdmConnectionDirection
-```
+
+
 
 
 | Имя члена | Значение | Описание |

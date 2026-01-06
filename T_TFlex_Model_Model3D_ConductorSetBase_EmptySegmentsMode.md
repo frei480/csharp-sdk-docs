@@ -8,12 +8,8 @@
 ```csharp
 public enum EmptySegmentsMode
 ```
-```vb
-Public Enumeration EmptySegmentsMode
-```
-```cpp
-public enum class EmptySegmentsMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

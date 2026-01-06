@@ -13,15 +13,8 @@ public void RegisterLogic<TLogic>()
 where TLogic : new(), LogicBase
 
 ```
-```vb
-Public Sub RegisterLogic(Of TLogic As {New, LogicBase})
-```
-```cpp
-public:
-generic<typename TLogic>
-where TLogic : gcnew(), LogicBase
-void RegisterLogic()
-```
+
+
 
 
 #### Параметры типа

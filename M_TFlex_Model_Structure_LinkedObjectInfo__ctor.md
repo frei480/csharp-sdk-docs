@@ -14,19 +14,8 @@ public LinkedObjectInfo(
 	LinkDescriptor linkDescriptor
 )
 ```
-```vb
-Public Sub New ( 
-	linkedObject As ModelObject,
-	linkDescriptor As LinkDescriptor
-)
-```
-```cpp
-public:
-LinkedObjectInfo(
-	ModelObject^ linkedObject, 
-	LinkDescriptor^ linkDescriptor
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public QualityManagement QualityManagement { get; }
 ```
-```vb
-Public ReadOnly Property QualityManagement As QualityManagement
-	Get
-```
-```cpp
-public:
-property QualityManagement^ QualityManagement {
-	QualityManagement^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

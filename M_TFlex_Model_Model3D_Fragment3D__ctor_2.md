@@ -13,17 +13,8 @@ public Fragment3D(
 	FileLink link
 )
 ```
-```vb
-Public Sub New ( 
-	link As FileLink
-)
-```
-```cpp
-public:
-Fragment3D(
-	FileLink^ link
-)
-```
+
+
 
 
 #### Параметры

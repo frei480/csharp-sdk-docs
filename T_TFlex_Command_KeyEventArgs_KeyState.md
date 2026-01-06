@@ -8,12 +8,8 @@
 ```csharp
 public enum KeyState
 ```
-```vb
-Public Enumeration KeyState
-```
-```cpp
-public enum class KeyState
-```
+
+
 
 
 | Имя члена | Значение | Описание |

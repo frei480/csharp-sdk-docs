@@ -13,17 +13,8 @@ public Parameter GetKnot(
 	int index
 )
 ```
-```vb
-Public Function GetKnot ( 
-	index As Integer
-) As Parameter
-```
-```cpp
-public:
-Parameter^ GetKnot(
-	int index
-)
-```
+
+
 
 
 #### Параметры

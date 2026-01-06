@@ -13,13 +13,8 @@
 ```csharp
 public class InterpolatingSplinePath3D : SplinePath3D
 ```
-```vb
-Public Class InterpolatingSplinePath3D
-	Inherits SplinePath3D
-```
-```cpp
-public ref class InterpolatingSplinePath3D : public SplinePath3D
-```
+
+
 
 
 Тип InterpolatingSplinePath3D предоставляет следующие члены.

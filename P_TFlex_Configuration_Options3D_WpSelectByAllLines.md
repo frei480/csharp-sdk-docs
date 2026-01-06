@@ -8,18 +8,8 @@
 ```csharp
 public bool WpSelectByAllLines { get; set; }
 ```
-```vb
-Public Property WpSelectByAllLines As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool WpSelectByAllLines {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

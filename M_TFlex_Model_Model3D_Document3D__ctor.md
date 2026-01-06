@@ -11,13 +11,8 @@
 ```csharp
 public Document3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Document3D()
-```
+
+
 
 
 #### Ссылки

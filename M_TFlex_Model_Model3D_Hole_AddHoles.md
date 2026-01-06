@@ -13,17 +13,8 @@ public bool AddHoles(
 	ArrayOperation arrayOperation
 )
 ```
-```vb
-Public Function AddHoles ( 
-	arrayOperation As ArrayOperation
-) As Boolean
-```
-```cpp
-public:
-bool AddHoles(
-	ArrayOperation^ arrayOperation
-)
-```
+
+
 
 
 #### Параметры

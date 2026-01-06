@@ -13,13 +13,8 @@
 ```csharp
 public class FixingVector : Object2D
 ```
-```vb
-Public Class FixingVector
-	Inherits Object2D
-```
-```cpp
-public ref class FixingVector : public Object2D
-```
+
+
 
 
 Тип FixingVector предоставляет следующие члены.

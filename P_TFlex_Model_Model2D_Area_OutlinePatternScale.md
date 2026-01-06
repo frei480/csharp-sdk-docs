@@ -11,18 +11,8 @@
 ```csharp
 public Parameter OutlinePatternScale { get; set; }
 ```
-```vb
-Public Property OutlinePatternScale As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ OutlinePatternScale {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

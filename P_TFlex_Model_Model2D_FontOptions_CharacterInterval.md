@@ -8,18 +8,8 @@
 ```csharp
 public virtual Parameter CharacterInterval { get; set; }
 ```
-```vb
-Public Overridable Property CharacterInterval As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Parameter^ CharacterInterval {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

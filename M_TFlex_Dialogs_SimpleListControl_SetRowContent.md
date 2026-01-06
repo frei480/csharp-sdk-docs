@@ -14,19 +14,8 @@ public void SetRowContent(
 	IList data
 )
 ```
-```vb
-Public Sub SetRowContent ( 
-	row As Integer,
-	data As IList
-)
-```
-```cpp
-public:
-void SetRowContent(
-	int row, 
-	IList^ data
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class BoundedExtrusion : Extrusion
 ```
-```vb
-Public Class BoundedExtrusion
-	Inherits Extrusion
-```
-```cpp
-public ref class BoundedExtrusion : public Extrusion
-```
+
+
 
 
 Тип BoundedExtrusion предоставляет следующие члены.

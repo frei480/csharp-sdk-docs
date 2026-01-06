@@ -14,19 +14,8 @@ public string GetCellText(
 	bool useBraces
 )
 ```
-```vb
-Public Function GetCellText ( 
-	cell As UInteger,
-	useBraces As Boolean
-) As String
-```
-```cpp
-public:
-String^ GetCellText(
-	unsigned int cell, 
-	bool useBraces
-)
-```
+
+
 
 
 #### Параметры

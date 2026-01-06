@@ -10,16 +10,8 @@ public static implicit operator Object3DGeomReference (
 	ModelSurface surface
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	surface As ModelSurface
-) As Object3DGeomReference
-```
-```cpp
-static implicit operator Object3DGeomReference^ (
-	ModelSurface^ surface
-)
-```
+
+
 
 
 #### Параметры

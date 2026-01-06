@@ -8,18 +8,8 @@
 ```csharp
 public VisibleGridType Visible { get; set; }
 ```
-```vb
-Public Property Visible As VisibleGridType
-	Get
-	Set
-```
-```cpp
-public:
-property VisibleGridType Visible {
-	VisibleGridType get ();
-	void set (VisibleGridType value);
-}
-```
+
+
 
 
 #### Значение свойства

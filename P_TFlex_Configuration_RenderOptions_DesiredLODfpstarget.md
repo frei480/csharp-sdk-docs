@@ -8,18 +8,8 @@
 ```csharp
 public int DesiredLODfpstarget { get; set; }
 ```
-```vb
-Public Property DesiredLODfpstarget As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int DesiredLODfpstarget {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

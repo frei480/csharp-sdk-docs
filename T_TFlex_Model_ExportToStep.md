@@ -16,15 +16,8 @@
 [ObsoleteAttribute("This class is obsolete and will be removed. Please use 'ExportToStep' class.")]
 public sealed class ExportToSTEP : ExportTo
 ```
-```vb
-<ObsoleteAttribute("This class is obsolete and will be removed. Please use 'ExportToStep' class.")>
-Public NotInheritable Class ExportToSTEP
-	Inherits ExportTo
-```
-```cpp
-[ObsoleteAttribute(L"This class is obsolete and will be removed. Please use 'ExportToStep' class.")]
-public ref class ExportToSTEP sealed : public ExportTo
-```
+
+
 
 
 Тип ExportToSTEP предоставляет следующие члены.

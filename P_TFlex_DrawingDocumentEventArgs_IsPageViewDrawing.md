@@ -11,16 +11,8 @@
 ```csharp
 public bool IsPageViewDrawing { get; }
 ```
-```vb
-Public ReadOnly Property IsPageViewDrawing As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsPageViewDrawing {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

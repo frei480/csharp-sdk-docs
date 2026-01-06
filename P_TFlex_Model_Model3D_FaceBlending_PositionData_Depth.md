@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Depth { get; set; }
 ```
-```vb
-Public Property Depth As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Depth {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

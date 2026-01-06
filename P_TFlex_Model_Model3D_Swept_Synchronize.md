@@ -11,18 +11,8 @@
 ```csharp
 public bool Synchronize { get; set; }
 ```
-```vb
-Public Property Synchronize As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Synchronize {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

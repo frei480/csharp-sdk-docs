@@ -11,16 +11,8 @@
 ```csharp
 public int BottomEdgeCount { get; }
 ```
-```vb
-Public ReadOnly Property BottomEdgeCount As Integer
-	Get
-```
-```cpp
-public:
-property int BottomEdgeCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

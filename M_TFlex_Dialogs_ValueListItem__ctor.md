@@ -13,17 +13,8 @@ public ValueListItem(
 	string text
 )
 ```
-```vb
-Public Sub New ( 
-	text As String
-)
-```
-```cpp
-public:
-ValueListItem(
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

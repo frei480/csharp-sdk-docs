@@ -11,13 +11,8 @@
 ```csharp
 public class CustomOrderPropertyAttribute : Attribute
 ```
-```vb
-Public Class CustomOrderPropertyAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomOrderPropertyAttribute : public Attribute
-```
+
+
 
 
 Тип CustomOrderPropertyAttribute предоставляет следующие члены.

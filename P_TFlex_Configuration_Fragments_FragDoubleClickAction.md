@@ -8,18 +8,8 @@
 ```csharp
 public DoubleClickFragAction FragDoubleClickAction { get; set; }
 ```
-```vb
-Public Property FragDoubleClickAction As DoubleClickFragAction
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleClickFragAction FragDoubleClickAction {
-	DoubleClickFragAction get ();
-	void set (DoubleClickFragAction value);
-}
-```
+
+
 
 
 #### Значение свойства

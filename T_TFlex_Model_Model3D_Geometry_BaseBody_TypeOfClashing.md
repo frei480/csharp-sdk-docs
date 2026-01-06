@@ -8,12 +8,8 @@
 ```csharp
 public enum TypeOfClashing
 ```
-```vb
-Public Enumeration TypeOfClashing
-```
-```cpp
-public enum class TypeOfClashing
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -19,29 +19,8 @@ public void ArrowArc(
 	double endSize
 )
 ```
-```vb
-Public Sub ArrowArc ( 
-	center As Point,
-	point1 As Point,
-	point2 As Point,
-	startType As Integer,
-	startSize As Double,
-	endType As Integer,
-	endSize As Double
-)
-```
-```cpp
-public:
-void ArrowArc(
-	Point center, 
-	Point point1, 
-	Point point2, 
-	int startType, 
-	double startSize, 
-	int endType, 
-	double endSize
-)
-```
+
+
 
 
 #### Параметры

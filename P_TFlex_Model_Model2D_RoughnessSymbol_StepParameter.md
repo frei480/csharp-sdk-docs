@@ -11,18 +11,8 @@
 ```csharp
 public RoughnessSymbolStepParameters StepParameter { get; set; }
 ```
-```vb
-Public Property StepParameter As RoughnessSymbolStepParameters
-	Get
-	Set
-```
-```cpp
-public:
-property RoughnessSymbolStepParameters StepParameter {
-	RoughnessSymbolStepParameters get ();
-	void set (RoughnessSymbolStepParameters value);
-}
-```
+
+
 
 
 #### Значение свойства

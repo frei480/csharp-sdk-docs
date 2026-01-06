@@ -13,17 +13,8 @@ public int Add(
 	T item
 )
 ```
-```vb
-Public Function Add ( 
-	item As T
-) As Integer
-```
-```cpp
-public:
-int Add(
-	T item
-)
-```
+
+
 
 
 #### Параметры

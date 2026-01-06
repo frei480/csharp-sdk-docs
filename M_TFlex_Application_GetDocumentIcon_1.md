@@ -14,19 +14,8 @@ public static Icon GetDocumentIcon(
 	int iconSize
 )
 ```
-```vb
-Public Shared Function GetDocumentIcon ( 
-	fileName As String,
-	iconSize As Integer
-) As Icon
-```
-```cpp
-public:
-static Icon^ GetDocumentIcon(
-	String^ fileName, 
-	int iconSize
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class SketchProfile : Profile
 ```
-```vb
-Public Class SketchProfile
-	Inherits Profile
-```
-```cpp
-public ref class SketchProfile : public Profile
-```
+
+
 
 
 Тип SketchProfile предоставляет следующие члены.

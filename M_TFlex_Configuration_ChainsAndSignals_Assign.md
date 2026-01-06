@@ -10,17 +10,8 @@ public void Assign(
 	ChainsAndSignals source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As ChainsAndSignals
-)
-```
-```cpp
-public:
-void Assign(
-	ChainsAndSignals^ source
-)
-```
+
+
 
 
 #### Параметры

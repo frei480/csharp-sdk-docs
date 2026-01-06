@@ -11,13 +11,8 @@
 ```csharp
 public SurfaceSplinewiseData()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SurfaceSplinewiseData()
-```
+
+
 
 
 #### Ссылки

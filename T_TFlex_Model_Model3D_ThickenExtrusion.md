@@ -13,13 +13,8 @@
 ```csharp
 public class ThickenExtrusion : Extrusion
 ```
-```vb
-Public Class ThickenExtrusion
-	Inherits Extrusion
-```
-```cpp
-public ref class ThickenExtrusion : public Extrusion
-```
+
+
 
 
 Тип ThickenExtrusion предоставляет следующие члены.

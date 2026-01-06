@@ -13,13 +13,8 @@
 ```csharp
 public class Path2DPath : Path3D
 ```
-```vb
-Public Class Path2DPath
-	Inherits Path3D
-```
-```cpp
-public ref class Path2DPath : public Path3D
-```
+
+
 
 
 Тип Path2DPath предоставляет следующие члены.

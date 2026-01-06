@@ -13,17 +13,8 @@ public double GetRealValue(
 	int index
 )
 ```
-```vb
-Public Function GetRealValue ( 
-	index As Integer
-) As Double
-```
-```cpp
-public:
-double GetRealValue(
-	int index
-)
-```
+
+
 
 
 #### Параметры

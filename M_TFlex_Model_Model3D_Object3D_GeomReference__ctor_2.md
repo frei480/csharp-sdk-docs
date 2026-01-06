@@ -13,17 +13,8 @@ public GeomReference(
 	ModelBodies bodies
 )
 ```
-```vb
-Public Sub New ( 
-	bodies As ModelBodies
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelBodies^ bodies
-)
-```
+
+
 
 
 #### Параметры

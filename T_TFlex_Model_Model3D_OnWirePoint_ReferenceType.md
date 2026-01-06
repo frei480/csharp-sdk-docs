@@ -11,12 +11,8 @@
 ```csharp
 public enum ReferenceType
 ```
-```vb
-Public Enumeration ReferenceType
-```
-```cpp
-public enum class ReferenceType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

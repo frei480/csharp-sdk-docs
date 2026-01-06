@@ -8,12 +8,8 @@
 ```csharp
 public enum FilteringRuleType
 ```
-```vb
-Public Enumeration FilteringRuleType
-```
-```cpp
-public enum class FilteringRuleType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

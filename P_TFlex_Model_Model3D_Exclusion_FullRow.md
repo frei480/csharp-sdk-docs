@@ -11,18 +11,8 @@
 ```csharp
 public bool FullRow { get; set; }
 ```
-```vb
-Public Property FullRow As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool FullRow {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

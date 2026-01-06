@@ -13,13 +13,8 @@
 ```csharp
 public sealed class PluginFloatingWindow : IDisposable
 ```
-```vb
-Public NotInheritable Class PluginFloatingWindow
-	Implements IDisposable
-```
-```cpp
-public ref class PluginFloatingWindow sealed : IDisposable
-```
+
+
 
 
 Тип PluginFloatingWindow предоставляет следующие члены.

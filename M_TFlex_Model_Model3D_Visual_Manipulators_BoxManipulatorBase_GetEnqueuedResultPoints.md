@@ -10,17 +10,8 @@ public bool GetEnqueuedResultPoints(
 	ref BasePoint3D[] points
 )
 ```
-```vb
-Public Function GetEnqueuedResultPoints ( 
-	ByRef points As BasePoint3D()
-) As Boolean
-```
-```cpp
-public:
-bool GetEnqueuedResultPoints(
-	array<BasePoint3D^>^% points
-)
-```
+
+
 
 
 #### Параметры

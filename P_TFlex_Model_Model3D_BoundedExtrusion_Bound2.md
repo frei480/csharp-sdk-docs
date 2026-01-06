@@ -11,18 +11,8 @@
 ```csharp
 public BoundedExtrusionBound Bound2 { get; set; }
 ```
-```vb
-Public Property Bound2 As BoundedExtrusionBound
-	Get
-	Set
-```
-```cpp
-public:
-property BoundedExtrusionBound^ Bound2 {
-	BoundedExtrusionBound^ get ();
-	void set (BoundedExtrusionBound^ value);
-}
-```
+
+
 
 
 #### Значение свойства

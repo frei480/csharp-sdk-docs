@@ -11,18 +11,8 @@
 ```csharp
 public ObjectType GroupType { get; set; }
 ```
-```vb
-Public Property GroupType As ObjectType
-	Get
-	Set
-```
-```cpp
-public:
-property ObjectType GroupType {
-	ObjectType get ();
-	void set (ObjectType value);
-}
-```
+
+
 
 
 #### Значение свойства

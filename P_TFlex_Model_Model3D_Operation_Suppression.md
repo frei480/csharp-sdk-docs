@@ -11,18 +11,8 @@
 ```csharp
 public Suppression Suppression { get; set; }
 ```
-```vb
-Public Property Suppression As Suppression
-	Get
-	Set
-```
-```cpp
-public:
-property Suppression^ Suppression {
-	Suppression^ get ();
-	void set (Suppression^ value);
-}
-```
+
+
 
 
 #### Значение свойства

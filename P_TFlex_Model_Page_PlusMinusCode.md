@@ -11,18 +11,8 @@
 ```csharp
 public int PlusMinusCode { get; set; }
 ```
-```vb
-Public Property PlusMinusCode As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int PlusMinusCode {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

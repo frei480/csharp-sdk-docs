@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionPrefixSymbol
 ```
-```vb
-Public Enumeration DimensionPrefixSymbol
-```
-```cpp
-public enum class DimensionPrefixSymbol
-```
+
+
 
 
 | Имя члена | Значение | Описание |

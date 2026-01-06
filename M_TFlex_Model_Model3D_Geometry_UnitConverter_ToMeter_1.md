@@ -13,17 +13,8 @@ public Axis ToMeter(
 	BaseAxis axis
 )
 ```
-```vb
-Public Function ToMeter ( 
-	axis As BaseAxis
-) As Axis
-```
-```cpp
-public:
-Axis^ ToMeter(
-	BaseAxis^ axis
-)
-```
+
+
 
 
 #### Параметры

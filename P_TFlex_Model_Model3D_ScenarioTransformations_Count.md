@@ -8,16 +8,8 @@
 ```csharp
 public uint Count { get; }
 ```
-```vb
-Public ReadOnly Property Count As UInteger
-	Get
-```
-```cpp
-public:
-property unsigned int Count {
-	unsigned int get ();
-}
-```
+
+
 
 
 #### Значение свойства

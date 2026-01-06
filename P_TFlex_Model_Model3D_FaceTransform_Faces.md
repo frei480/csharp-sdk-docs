@@ -11,16 +11,8 @@
 ```csharp
 public FaceTransformTransformFacesArray Faces { get; }
 ```
-```vb
-Public ReadOnly Property Faces As FaceTransformTransformFacesArray
-	Get
-```
-```cpp
-public:
-property FaceTransformTransformFacesArray^ Faces {
-	FaceTransformTransformFacesArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

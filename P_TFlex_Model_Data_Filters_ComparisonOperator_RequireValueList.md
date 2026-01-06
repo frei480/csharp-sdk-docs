@@ -11,16 +11,8 @@
 ```csharp
 public virtual bool RequireValueList { get; }
 ```
-```vb
-Public Overridable ReadOnly Property RequireValueList As Boolean
-	Get
-```
-```cpp
-public:
-virtual property bool RequireValueList {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

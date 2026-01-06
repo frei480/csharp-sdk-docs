@@ -8,16 +8,8 @@
 ```csharp
 public ReadOnlyCollection<RowElement> MergedElements { get; }
 ```
-```vb
-Public ReadOnly Property MergedElements As ReadOnlyCollection(Of RowElement)
-	Get
-```
-```cpp
-public:
-property ReadOnlyCollection<RowElement^>^ MergedElements {
-	ReadOnlyCollection<RowElement^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public void ClearBackground()
 ```
-```vb
-Public Sub ClearBackground
-```
-```cpp
-public:
-void ClearBackground()
-```
+
+
 
 
 Очистка производится цветом фона, установленного при помощи метода [SetBkColor(Int32)](M_TFlex_Drawing_Graphics_SetBkColor.md) или свойства [BkColor](P_TFlex_Drawing_Graphics_BkColor.md). По умолчанию установлен белый цвет фона

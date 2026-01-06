@@ -13,16 +13,8 @@
 ```csharp
 public static Unit InchOfWater { get; }
 ```
-```vb
-Public Shared ReadOnly Property InchOfWater As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ InchOfWater {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

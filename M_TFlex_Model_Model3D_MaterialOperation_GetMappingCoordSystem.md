@@ -17,25 +17,8 @@ public void GetMappingCoordSystem(
 	ref Direction zAxis
 )
 ```
-```vb
-Public Sub GetMappingCoordSystem ( 
-	Group As Integer,
-	ByRef origin As Point3D,
-	ByRef xAxis As Direction,
-	ByRef yAxis As Direction,
-	ByRef zAxis As Direction
-)
-```
-```cpp
-public:
-void GetMappingCoordSystem(
-	int Group, 
-	Point3D^% origin, 
-	Direction^% xAxis, 
-	Direction^% yAxis, 
-	Direction^% zAxis
-)
-```
+
+
 
 
 #### Параметры

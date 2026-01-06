@@ -11,19 +11,8 @@ public static bool operator !=(
 	BaseAxis axis2
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	axis1 As BaseAxis,
-	axis2 As BaseAxis
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	BaseAxis^ axis1, 
-	BaseAxis^ axis2
-)
-```
+
+
 
 
 #### Параметры

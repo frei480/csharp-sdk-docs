@@ -13,17 +13,8 @@ public ReflectTransformation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ReflectTransformation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

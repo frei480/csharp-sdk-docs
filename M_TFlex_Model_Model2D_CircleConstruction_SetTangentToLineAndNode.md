@@ -16,23 +16,8 @@ public void SetTangentToLineAndNode(
 	int variant
 )
 ```
-```vb
-Public Sub SetTangentToLineAndNode ( 
-	srcLine As Construction,
-	srcNode As Node,
-	radius As Parameter,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetTangentToLineAndNode(
-	Construction^ srcLine, 
-	Node^ srcNode, 
-	Parameter^ radius, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

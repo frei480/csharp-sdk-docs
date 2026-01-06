@@ -16,23 +16,8 @@ public Rectangle(
 	double Top
 )
 ```
-```vb
-Public Sub New ( 
-	Left As Double,
-	Bottom As Double,
-	Right As Double,
-	Top As Double
-)
-```
-```cpp
-public:
-Rectangle(
-	double Left, 
-	double Bottom, 
-	double Right, 
-	double Top
-)
-```
+
+
 
 
 #### Параметры

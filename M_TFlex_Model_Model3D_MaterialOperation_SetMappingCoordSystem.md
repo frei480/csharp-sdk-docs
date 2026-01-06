@@ -17,25 +17,8 @@ public void SetMappingCoordSystem(
 	Direction zAxis
 )
 ```
-```vb
-Public Sub SetMappingCoordSystem ( 
-	Group As Integer,
-	origin As Point3D,
-	xAxis As Direction,
-	yAxis As Direction,
-	zAxis As Direction
-)
-```
-```cpp
-public:
-void SetMappingCoordSystem(
-	int Group, 
-	Point3D^ origin, 
-	Direction^ xAxis, 
-	Direction^ yAxis, 
-	Direction^ zAxis
-)
-```
+
+
 
 
 #### Параметры

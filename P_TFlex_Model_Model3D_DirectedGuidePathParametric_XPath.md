@@ -11,16 +11,8 @@
 ```csharp
 public WiresArray XPath { get; }
 ```
-```vb
-Public ReadOnly Property XPath As WiresArray
-	Get
-```
-```cpp
-public:
-property WiresArray^ XPath {
-	WiresArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class FacesArray : TopolArray
 ```
-```vb
-Public NotInheritable Class FacesArray
-	Inherits TopolArray
-```
-```cpp
-public ref class FacesArray sealed : public TopolArray
-```
+
+
 
 
 Тип FacesArray предоставляет следующие члены.

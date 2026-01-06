@@ -11,19 +11,8 @@ public static void Debug(
 	params Object[] args
 )
 ```
-```vb
-Public Shared Sub Debug ( 
-	format As String,
-	ParamArray args As Object()
-)
-```
-```cpp
-public:
-static void Debug(
-	String^ format, 
-	... array<Object^>^ args
-)
-```
+
+
 
 
 #### Параметры

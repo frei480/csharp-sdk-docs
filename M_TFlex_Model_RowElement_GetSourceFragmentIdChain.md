@@ -13,17 +13,8 @@ public IEnumerable<ObjectId> GetSourceFragmentIdChain(
 	bool fragment3d
 )
 ```
-```vb
-Public Function GetSourceFragmentIdChain ( 
-	fragment3d As Boolean
-) As IEnumerable(Of ObjectId)
-```
-```cpp
-public:
-IEnumerable<ObjectId^>^ GetSourceFragmentIdChain(
-	bool fragment3d
-)
-```
+
+
 
 
 #### Параметры

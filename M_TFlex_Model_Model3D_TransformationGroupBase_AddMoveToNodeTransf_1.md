@@ -14,19 +14,8 @@ public void AddMoveToNodeTransf(
 	ModelPoint3D point
 )
 ```
-```vb
-Public Sub AddMoveToNodeTransf ( 
-	axis As TransformationCoordinate,
-	point As ModelPoint3D
-)
-```
-```cpp
-public:
-void AddMoveToNodeTransf(
-	TransformationCoordinate axis, 
-	ModelPoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

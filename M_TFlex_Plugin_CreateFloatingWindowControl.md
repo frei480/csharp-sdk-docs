@@ -13,17 +13,8 @@ protected virtual Control CreateFloatingWindowControl(
 	uint id
 )
 ```
-```vb
-Protected Overridable Function CreateFloatingWindowControl ( 
-	id As UInteger
-) As Control
-```
-```cpp
-protected:
-virtual Control^ CreateFloatingWindowControl(
-	unsigned int id
-)
-```
+
+
 
 
 #### Параметры

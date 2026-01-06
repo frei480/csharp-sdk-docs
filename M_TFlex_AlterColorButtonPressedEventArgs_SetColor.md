@@ -10,17 +10,8 @@ public void SetColor(
 	uint color
 )
 ```
-```vb
-Public Sub SetColor ( 
-	color As UInteger
-)
-```
-```cpp
-public:
-void SetColor(
-	unsigned int color
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public Rectangle ClippingRectangle { get; set; }
 ```
-```vb
-Public Property ClippingRectangle As Rectangle
-	Get
-	Set
-```
-```cpp
-public:
-property Rectangle ClippingRectangle {
-	Rectangle get ();
-	void set (Rectangle value);
-}
-```
+
+
 
 
 #### Значение свойства

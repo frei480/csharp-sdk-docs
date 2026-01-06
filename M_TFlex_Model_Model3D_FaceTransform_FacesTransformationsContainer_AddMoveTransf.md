@@ -14,19 +14,8 @@ public void AddMoveTransf(
 	Parameter offset
 )
 ```
-```vb
-Public Sub AddMoveTransf ( 
-	direction As TransformationCoordinate,
-	offset As Parameter
-)
-```
-```cpp
-public:
-void AddMoveTransf(
-	TransformationCoordinate direction, 
-	Parameter^ offset
-)
-```
+
+
 
 
 #### Параметры

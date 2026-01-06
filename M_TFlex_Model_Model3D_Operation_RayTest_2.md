@@ -13,23 +13,8 @@ public static bool RayTest(
 	List<double> distances
 )
 ```
-```vb
-Public Shared Function RayTest ( 
-	operation As Operation,
-	rayOrigin As BasePoint3D,
-	rayDir As BaseDirection,
-	distances As List(Of Double)
-) As Boolean
-```
-```cpp
-public:
-static bool RayTest(
-	Operation^ operation, 
-	BasePoint3D^ rayOrigin, 
-	BaseDirection^ rayDir, 
-	List<double>^ distances
-)
-```
+
+
 
 
 #### Параметры

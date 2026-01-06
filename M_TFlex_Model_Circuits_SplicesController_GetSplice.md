@@ -10,17 +10,8 @@ public virtual Splice GetSplice(
 	int index
 )
 ```
-```vb
-Public Overridable Function GetSplice ( 
-	index As Integer
-) As Splice
-```
-```cpp
-public:
-virtual Splice^ GetSplice(
-	int index
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public abstract bool Export(
 	string fileName
 )
 ```
-```vb
-Public MustOverride Function Export ( 
-	fileName As String
-) As Boolean
-```
-```cpp
-public:
-virtual bool Export(
-	String^ fileName
-) abstract
-```
+
+
 
 
 #### Параметры

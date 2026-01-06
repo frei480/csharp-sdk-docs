@@ -8,18 +8,8 @@
 ```csharp
 public int XorMark { get; set; }
 ```
-```vb
-Public Property XorMark As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int XorMark {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

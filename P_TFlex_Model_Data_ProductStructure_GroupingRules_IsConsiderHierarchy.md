@@ -8,18 +8,8 @@
 ```csharp
 public bool IsConsiderHierarchy { get; set; }
 ```
-```vb
-Public Property IsConsiderHierarchy As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsConsiderHierarchy {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

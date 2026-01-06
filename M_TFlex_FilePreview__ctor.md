@@ -11,13 +11,8 @@
 ```csharp
 public FilePreview()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FilePreview()
-```
+
+
 
 
 #### Ссылки

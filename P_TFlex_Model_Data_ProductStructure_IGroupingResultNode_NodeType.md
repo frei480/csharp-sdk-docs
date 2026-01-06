@@ -8,15 +8,8 @@
 ```csharp
 GroupingResNodeType NodeType { get; }
 ```
-```vb
-ReadOnly Property NodeType As GroupingResNodeType
-	Get
-```
-```cpp
-property GroupingResNodeType NodeType {
-	GroupingResNodeType get ();
-}
-```
+
+
 
 
 #### Значение свойства

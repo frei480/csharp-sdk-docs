@@ -8,18 +8,8 @@
 ```csharp
 public bool PrecisionForStringOn { get; set; }
 ```
-```vb
-Public Property PrecisionForStringOn As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool PrecisionForStringOn {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

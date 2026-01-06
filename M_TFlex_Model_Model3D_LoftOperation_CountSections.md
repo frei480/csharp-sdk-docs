@@ -11,13 +11,8 @@
 ```csharp
 public int CountSections()
 ```
-```vb
-Public Function CountSections As Integer
-```
-```cpp
-public:
-int CountSections()
-```
+
+
 
 
 #### Возвращаемое значение

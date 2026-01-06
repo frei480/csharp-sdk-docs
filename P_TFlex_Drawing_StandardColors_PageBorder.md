@@ -11,16 +11,8 @@
 ```csharp
 public static Color PageBorder { get; }
 ```
-```vb
-Public Shared ReadOnly Property PageBorder As Color
-	Get
-```
-```cpp
-public:
-static property Color PageBorder {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

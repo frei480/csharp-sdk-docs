@@ -11,16 +11,8 @@
 ```csharp
 public int PositionCount { get; }
 ```
-```vb
-Public ReadOnly Property PositionCount As Integer
-	Get
-```
-```cpp
-public:
-property int PositionCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

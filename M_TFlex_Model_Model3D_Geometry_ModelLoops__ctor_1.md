@@ -13,17 +13,8 @@ public ModelLoops(
 	ModelLoops loops
 )
 ```
-```vb
-Public Sub New ( 
-	loops As ModelLoops
-)
-```
-```cpp
-public:
-ModelLoops(
-	ModelLoops^ loops
-)
-```
+
+
 
 
 #### Параметры

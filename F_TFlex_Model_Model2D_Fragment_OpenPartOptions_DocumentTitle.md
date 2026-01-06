@@ -11,13 +11,8 @@
 ```csharp
 public string DocumentTitle
 ```
-```vb
-Public DocumentTitle As String
-```
-```cpp
-public:
-String^ DocumentTitle
-```
+
+
 
 
 #### Значение поля

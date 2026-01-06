@@ -13,13 +13,8 @@
 ```csharp
 public class CircularDimension3D : CircularDimensionBase
 ```
-```vb
-Public Class CircularDimension3D
-	Inherits CircularDimensionBase
-```
-```cpp
-public ref class CircularDimension3D : public CircularDimensionBase
-```
+
+
 
 
 Тип CircularDimension3D предоставляет следующие члены.

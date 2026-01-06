@@ -8,18 +8,8 @@
 ```csharp
 public TerminalPoint LastPoint { get; set; }
 ```
-```vb
-Public Property LastPoint As TerminalPoint
-	Get
-	Set
-```
-```cpp
-public:
-property TerminalPoint^ LastPoint {
-	TerminalPoint^ get ();
-	void set (TerminalPoint^ value);
-}
-```
+
+
 
 
 #### Значение свойства

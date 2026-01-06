@@ -13,17 +13,8 @@ public bool InsertFragment(
 	FileLink link
 )
 ```
-```vb
-Public Function InsertFragment ( 
-	link As FileLink
-) As Boolean
-```
-```cpp
-public:
-bool InsertFragment(
-	FileLink^ link
-)
-```
+
+
 
 
 #### Параметры

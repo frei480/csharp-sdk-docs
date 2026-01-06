@@ -11,18 +11,8 @@
 ```csharp
 public bool Regenerate { get; set; }
 ```
-```vb
-Public Property Regenerate As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Regenerate {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

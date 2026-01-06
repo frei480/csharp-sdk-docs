@@ -13,17 +13,8 @@ public LinearDimension3D(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-LinearDimension3D(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

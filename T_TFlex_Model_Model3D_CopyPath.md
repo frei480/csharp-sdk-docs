@@ -13,13 +13,8 @@
 ```csharp
 public class CopyPath : Path3D
 ```
-```vb
-Public Class CopyPath
-	Inherits Path3D
-```
-```cpp
-public ref class CopyPath : public Path3D
-```
+
+
 
 
 Тип CopyPath предоставляет следующие члены.

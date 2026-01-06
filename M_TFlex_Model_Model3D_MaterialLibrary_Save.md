@@ -13,17 +13,8 @@ public void Save(
 	string FileName
 )
 ```
-```vb
-Public Sub Save ( 
-	FileName As String
-)
-```
-```cpp
-public:
-void Save(
-	String^ FileName
-)
-```
+
+
 
 
 #### Параметры

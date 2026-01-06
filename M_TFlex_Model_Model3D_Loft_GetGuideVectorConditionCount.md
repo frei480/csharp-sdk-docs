@@ -13,17 +13,8 @@ public int GetGuideVectorConditionCount(
 	int guideIndex
 )
 ```
-```vb
-Public Function GetGuideVectorConditionCount ( 
-	guideIndex As Integer
-) As Integer
-```
-```cpp
-public:
-int GetGuideVectorConditionCount(
-	int guideIndex
-)
-```
+
+
 
 
 #### Параметры

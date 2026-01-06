@@ -13,17 +13,8 @@ public Variable CreateVariable(
 	string expression
 )
 ```
-```vb
-Public Function CreateVariable ( 
-	expression As String
-) As Variable
-```
-```cpp
-public:
-Variable^ CreateVariable(
-	String^ expression
-)
-```
+
+
 
 
 #### Параметры

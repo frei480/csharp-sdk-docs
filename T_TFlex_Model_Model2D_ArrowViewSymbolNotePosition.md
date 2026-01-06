@@ -11,12 +11,8 @@
 ```csharp
 public enum ArrowViewSymbolNotePosition
 ```
-```vb
-Public Enumeration ArrowViewSymbolNotePosition
-```
-```cpp
-public enum class ArrowViewSymbolNotePosition
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -8,13 +8,8 @@
 ```csharp
 public void Clear()
 ```
-```vb
-Public Sub Clear
-```
-```cpp
-public:
-virtual void Clear() sealed
-```
+
+
 
 
 #### Реализации

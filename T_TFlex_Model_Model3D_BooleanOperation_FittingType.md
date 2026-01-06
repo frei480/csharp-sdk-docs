@@ -11,12 +11,8 @@
 ```csharp
 public enum FittingType
 ```
-```vb
-Public Enumeration FittingType
-```
-```cpp
-public enum class FittingType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

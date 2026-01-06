@@ -11,19 +11,8 @@ public void CopyDataFromElement(
 	Guid prototypeId
 )
 ```
-```vb
-Public Sub CopyDataFromElement ( 
-	sourceFile As SourceFile,
-	prototypeId As Guid
-)
-```
-```cpp
-public:
-void CopyDataFromElement(
-	SourceFile^ sourceFile, 
-	Guid prototypeId
-)
-```
+
+
 
 
 #### Параметры

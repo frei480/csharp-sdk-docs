@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllObjects()
 ```
-```vb
-Public Sub RemoveAllObjects
-```
-```cpp
-public:
-void RemoveAllObjects()
-```
+
+
 
 
 #### Ссылки

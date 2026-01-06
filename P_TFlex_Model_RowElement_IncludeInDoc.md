@@ -11,16 +11,8 @@
 ```csharp
 public RowElementCell IncludeInDoc { get; }
 ```
-```vb
-Public ReadOnly Property IncludeInDoc As RowElementCell
-	Get
-```
-```cpp
-public:
-property RowElementCell^ IncludeInDoc {
-	RowElementCell^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

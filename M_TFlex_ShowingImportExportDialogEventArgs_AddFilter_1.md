@@ -14,19 +14,8 @@ public void AddFilter(
 	int filterID
 )
 ```
-```vb
-Public Sub AddFilter ( 
-	filter As String,
-	filterID As Integer
-)
-```
-```cpp
-public:
-void AddFilter(
-	String^ filter, 
-	int filterID
-)
-```
+
+
 
 
 #### Параметры

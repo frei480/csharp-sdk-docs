@@ -11,14 +11,8 @@
 ```csharp
 public class FixingVectorTextExtension
 ```
-```vb
-<ExtensionAttribute>
-Public Class FixingVectorTextExtension
-```
-```cpp
-[ExtensionAttribute]
-public ref class FixingVectorTextExtension
-```
+
+
 
 
 Тип FixingVectorTextExtension предоставляет следующие члены.

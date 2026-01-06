@@ -13,12 +13,8 @@
 ```csharp
 public class Item
 ```
-```vb
-Public Class Item
-```
-```cpp
-public ref class Item
-```
+
+
 
 
 Тип RowElementGroupItem предоставляет следующие члены.

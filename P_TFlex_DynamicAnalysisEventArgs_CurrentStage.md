@@ -11,16 +11,8 @@
 ```csharp
 public DynamicAnalysisEventArgsStage CurrentStage { get; }
 ```
-```vb
-Public ReadOnly Property CurrentStage As DynamicAnalysisEventArgsStage
-	Get
-```
-```cpp
-public:
-property DynamicAnalysisEventArgsStage CurrentStage {
-	DynamicAnalysisEventArgsStage get ();
-}
-```
+
+
 
 
 #### Значение свойства

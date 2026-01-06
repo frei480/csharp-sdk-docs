@@ -11,18 +11,8 @@
 ```csharp
 public bool TolerAutomatic { get; set; }
 ```
-```vb
-Public Property TolerAutomatic As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool TolerAutomatic {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

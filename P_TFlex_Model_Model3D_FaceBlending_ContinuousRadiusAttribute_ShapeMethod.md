@@ -11,18 +11,8 @@
 ```csharp
 public FaceBlendingShapeType ShapeMethod { get; set; }
 ```
-```vb
-Public Property ShapeMethod As FaceBlendingShapeType
-	Get
-	Set
-```
-```cpp
-public:
-property FaceBlendingShapeType ShapeMethod {
-	FaceBlendingShapeType get ();
-	void set (FaceBlendingShapeType value);
-}
-```
+
+
 
 
 #### Значение свойства

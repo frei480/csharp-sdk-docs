@@ -12,20 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'ValueType' property.")]
 public bool ManualValue { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'ValueType' property.")>
-Public Property ManualValue As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'ValueType' property.")]
-property bool ManualValue {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

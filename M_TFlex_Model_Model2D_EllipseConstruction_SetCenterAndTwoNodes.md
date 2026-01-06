@@ -15,21 +15,8 @@ public void SetCenterAndTwoNodes(
 	Node srcNode2
 )
 ```
-```vb
-Public Sub SetCenterAndTwoNodes ( 
-	centerNode As Node,
-	srcNode1 As Node,
-	srcNode2 As Node
-)
-```
-```cpp
-public:
-void SetCenterAndTwoNodes(
-	Node^ centerNode, 
-	Node^ srcNode1, 
-	Node^ srcNode2
-)
-```
+
+
 
 
 #### Параметры

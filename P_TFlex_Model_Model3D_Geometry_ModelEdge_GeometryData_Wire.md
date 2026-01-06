@@ -11,16 +11,8 @@
 ```csharp
 public TopolWire Wire { get; }
 ```
-```vb
-Public ReadOnly Property Wire As TopolWire
-	Get
-```
-```cpp
-public:
-property TopolWire^ Wire {
-	TopolWire^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

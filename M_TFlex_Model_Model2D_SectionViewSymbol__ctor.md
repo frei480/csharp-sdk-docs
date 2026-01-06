@@ -13,17 +13,8 @@ public SectionViewSymbol(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-SectionViewSymbol(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

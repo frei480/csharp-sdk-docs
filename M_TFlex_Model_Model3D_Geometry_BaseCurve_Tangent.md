@@ -13,17 +13,8 @@ public Direction Tangent(
 	double t
 )
 ```
-```vb
-Public Function Tangent ( 
-	t As Double
-) As Direction
-```
-```cpp
-public:
-Direction^ Tangent(
-	double t
-)
-```
+
+
 
 
 #### Параметры

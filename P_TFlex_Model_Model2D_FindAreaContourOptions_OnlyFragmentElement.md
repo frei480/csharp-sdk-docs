@@ -11,18 +11,8 @@
 ```csharp
 public bool OnlyFragmentElement { get; set; }
 ```
-```vb
-Public Property OnlyFragmentElement As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OnlyFragmentElement {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

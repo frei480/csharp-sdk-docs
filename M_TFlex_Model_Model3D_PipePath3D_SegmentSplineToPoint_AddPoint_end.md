@@ -14,15 +14,8 @@
 [ObsoleteAttribute("This method is obsolete and will be removed. Please use 'AddEndPoint' method.")]
 public PipePath3DPointSplineToPoint AddPoint_end()
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. Please use 'AddEndPoint' method.")>
-Public Function AddPoint_end As PipePath3DPointSplineToPoint
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. Please use 'AddEndPoint' method.")]
-PipePath3DPointSplineToPoint^ AddPoint_end()
-```
+
+
 
 
 #### Возвращаемое значение

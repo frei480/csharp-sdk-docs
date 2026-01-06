@@ -10,17 +10,8 @@ protected virtual bool XMLDeSerializeSpecific(
 	XmlElement rElement
 )
 ```
-```vb
-Protected Overridable Function XMLDeSerializeSpecific ( 
-	rElement As XmlElement
-) As Boolean
-```
-```cpp
-protected:
-virtual bool XMLDeSerializeSpecific(
-	XmlElement^ rElement
-)
-```
+
+
 
 
 #### Параметры

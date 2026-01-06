@@ -13,17 +13,8 @@ public BaseGenerator(
 	ProxyObject3D object
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D
-)
-```
-```cpp
-public:
-BaseGenerator(
-	ProxyObject3D^ object
-)
-```
+
+
 
 
 #### Параметры

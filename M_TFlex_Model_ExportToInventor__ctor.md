@@ -13,17 +13,8 @@ public ExportToInventor(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToInventor(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

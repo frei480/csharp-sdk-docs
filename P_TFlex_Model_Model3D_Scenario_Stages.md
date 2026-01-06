@@ -8,16 +8,8 @@
 ```csharp
 public ScenarioStages Stages { get; }
 ```
-```vb
-Public ReadOnly Property Stages As ScenarioStages
-	Get
-```
-```cpp
-public:
-property ScenarioStages^ Stages {
-	ScenarioStages^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

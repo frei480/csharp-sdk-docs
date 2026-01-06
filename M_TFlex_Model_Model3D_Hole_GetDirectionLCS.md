@@ -13,17 +13,8 @@ public LCS GetDirectionLCS(
 	int hole
 )
 ```
-```vb
-Public Function GetDirectionLCS ( 
-	hole As Integer
-) As LCS
-```
-```cpp
-public:
-LCS^ GetDirectionLCS(
-	int hole
-)
-```
+
+
 
 
 #### Параметры

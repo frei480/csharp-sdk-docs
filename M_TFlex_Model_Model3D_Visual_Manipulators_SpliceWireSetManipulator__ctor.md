@@ -11,13 +11,8 @@
 ```csharp
 public SpliceWireSetManipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SpliceWireSetManipulator()
-```
+
+
 
 
 #### Ссылки

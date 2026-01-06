@@ -11,21 +11,8 @@ public static TextExtensionVerticalAlignment GetTextVerticalAlignment(
 	int iText
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetTextVerticalAlignment ( 
-	__unnamed000 As FixingVector,
-	iText As Integer
-) As TextExtensionVerticalAlignment
-```
-```cpp
-public:
-[ExtensionAttribute]
-static TextExtensionVerticalAlignment GetTextVerticalAlignment(
-	FixingVector^ __unnamed000, 
-	int iText
-)
-```
+
+
 
 
 #### Параметры

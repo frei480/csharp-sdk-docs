@@ -13,17 +13,8 @@ protected virtual void ClosingDocumentEventHandler(
 	DocumentEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub ClosingDocumentEventHandler ( 
-	args As DocumentEventArgs
-)
-```
-```cpp
-protected:
-virtual void ClosingDocumentEventHandler(
-	DocumentEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

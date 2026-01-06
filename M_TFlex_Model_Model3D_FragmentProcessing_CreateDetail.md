@@ -10,17 +10,8 @@ public bool CreateDetail(
 	string filename
 )
 ```
-```vb
-Public Function CreateDetail ( 
-	filename As String
-) As Boolean
-```
-```cpp
-public:
-bool CreateDetail(
-	String^ filename
-)
-```
+
+
 
 
 #### Параметры

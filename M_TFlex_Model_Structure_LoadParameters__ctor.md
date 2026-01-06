@@ -11,13 +11,8 @@
 ```csharp
 public LoadParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LoadParameters()
-```
+
+
 
 
 #### Ссылки

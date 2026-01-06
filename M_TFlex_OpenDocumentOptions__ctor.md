@@ -11,13 +11,8 @@
 ```csharp
 public OpenDocumentOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-OpenDocumentOptions()
-```
+
+
 
 
 #### Ссылки

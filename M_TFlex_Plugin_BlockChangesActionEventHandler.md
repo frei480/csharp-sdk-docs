@@ -13,17 +13,8 @@ protected virtual void BlockChangesActionEventHandler(
 	BlockChangesEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub BlockChangesActionEventHandler ( 
-	args As BlockChangesEventArgs
-)
-```
-```cpp
-protected:
-virtual void BlockChangesActionEventHandler(
-	BlockChangesEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

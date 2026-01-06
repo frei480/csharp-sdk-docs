@@ -11,18 +11,8 @@
 ```csharp
 public LeaderNoteStandard Standard { get; set; }
 ```
-```vb
-Public Property Standard As LeaderNoteStandard
-	Get
-	Set
-```
-```cpp
-public:
-property LeaderNoteStandard Standard {
-	LeaderNoteStandard get ();
-	void set (LeaderNoteStandard value);
-}
-```
+
+
 
 
 #### Значение свойства

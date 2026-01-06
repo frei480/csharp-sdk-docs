@@ -14,15 +14,8 @@
 public sealed class ModelEllipseCurve : ModelCurve, 
 	BaseEllipseCurve
 ```
-```vb
-Public NotInheritable Class ModelEllipseCurve
-	Inherits ModelCurve
-	Implements BaseEllipseCurve
-```
-```cpp
-public ref class ModelEllipseCurve sealed : public ModelCurve, 
-	BaseEllipseCurve
-```
+
+
 
 
 Тип ModelEllipseCurve предоставляет следующие члены.

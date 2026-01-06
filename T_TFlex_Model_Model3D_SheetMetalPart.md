@@ -13,13 +13,8 @@
 ```csharp
 public class SheetMetalPart : Operation
 ```
-```vb
-Public Class SheetMetalPart
-	Inherits Operation
-```
-```cpp
-public ref class SheetMetalPart : public Operation
-```
+
+
 
 
 Тип SheetMetalPart предоставляет следующие члены.

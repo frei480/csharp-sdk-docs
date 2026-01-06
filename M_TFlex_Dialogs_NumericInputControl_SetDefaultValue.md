@@ -13,17 +13,8 @@ public void SetDefaultValue(
 	double defaultValue
 )
 ```
-```vb
-Public Sub SetDefaultValue ( 
-	defaultValue As Double
-)
-```
-```cpp
-public:
-void SetDefaultValue(
-	double defaultValue
-)
-```
+
+
 
 
 #### Параметры

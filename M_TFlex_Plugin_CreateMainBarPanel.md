@@ -16,23 +16,8 @@ protected void CreateMainBarPanel(
 	bool showDefaultSet
 )
 ```
-```vb
-Protected Sub CreateMainBarPanel ( 
-	caption As String,
-	cmdIDs As Integer(),
-	panelGuid As Guid,
-	showDefaultSet As Boolean
-)
-```
-```cpp
-protected:
-void CreateMainBarPanel(
-	String^ caption, 
-	array<int>^ cmdIDs, 
-	Guid panelGuid, 
-	bool showDefaultSet
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public ModelAxis AxisOnWorkplane { get; set; }
 ```
-```vb
-Public Property AxisOnWorkplane As ModelAxis
-	Get
-	Set
-```
-```cpp
-public:
-property ModelAxis^ AxisOnWorkplane {
-	ModelAxis^ get ();
-	void set (ModelAxis^ value);
-}
-```
+
+
 
 
 #### Значение свойства

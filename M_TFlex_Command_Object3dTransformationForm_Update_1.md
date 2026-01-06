@@ -10,17 +10,8 @@ public void Update(
 	Object3D object3d
 )
 ```
-```vb
-Public Sub Update ( 
-	object3d As Object3D
-)
-```
-```cpp
-public:
-void Update(
-	Object3D^ object3d
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public Parameter Radius1 { get; }
 ```
-```vb
-Public ReadOnly Property Radius1 As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ Radius1 {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ModelVertices : BaseVertices
 ```
-```vb
-Public NotInheritable Class ModelVertices
-	Inherits BaseVertices
-```
-```cpp
-public ref class ModelVertices sealed : public BaseVertices
-```
+
+
 
 
 Тип ModelVertices предоставляет следующие члены.

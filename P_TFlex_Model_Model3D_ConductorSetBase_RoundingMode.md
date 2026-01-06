@@ -8,18 +8,8 @@
 ```csharp
 public ConductorSetBaseRoundingModeType RoundingMode { get; set; }
 ```
-```vb
-Public Property RoundingMode As ConductorSetBaseRoundingModeType
-	Get
-	Set
-```
-```cpp
-public:
-property ConductorSetBaseRoundingModeType RoundingMode {
-	ConductorSetBaseRoundingModeType get ();
-	void set (ConductorSetBaseRoundingModeType value);
-}
-```
+
+
 
 
 #### Значение свойства

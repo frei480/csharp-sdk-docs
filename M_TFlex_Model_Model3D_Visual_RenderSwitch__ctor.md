@@ -11,13 +11,8 @@
 ```csharp
 public RenderSwitch()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RenderSwitch()
-```
+
+
 
 
 #### Ссылки

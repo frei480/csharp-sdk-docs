@@ -10,17 +10,8 @@ public void CopyProperties(
 	Groupings groupings
 )
 ```
-```vb
-Public Sub CopyProperties ( 
-	groupings As Groupings
-)
-```
-```cpp
-public:
-void CopyProperties(
-	Groupings^ groupings
-)
-```
+
+
 
 
 #### Параметры

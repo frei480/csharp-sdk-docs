@@ -11,16 +11,8 @@
 ```csharp
 public static bool IsMacrosEnabled { get; }
 ```
-```vb
-Public Shared ReadOnly Property IsMacrosEnabled As Boolean
-	Get
-```
-```cpp
-public:
-static property bool IsMacrosEnabled {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

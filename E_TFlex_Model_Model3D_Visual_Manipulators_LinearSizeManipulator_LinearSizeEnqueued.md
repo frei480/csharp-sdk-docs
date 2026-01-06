@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<LinearSizeManipulatorLinearSizeEnqueuedEventArgs> LinearSizeEnqueued
 ```
-```vb
-Public Event LinearSizeEnqueued As EventHandler(Of LinearSizeManipulatorLinearSizeEnqueuedEventArgs)
-```
-```cpp
-public:
- event EventHandler<LinearSizeManipulatorLinearSizeEnqueuedEventArgs^>^ LinearSizeEnqueued {
-	void add (EventHandler<LinearSizeManipulatorLinearSizeEnqueuedEventArgs^>^ value);
-	void remove (EventHandler<LinearSizeManipulatorLinearSizeEnqueuedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

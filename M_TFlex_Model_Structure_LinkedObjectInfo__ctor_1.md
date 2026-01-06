@@ -15,21 +15,8 @@ public LinkedObjectInfo(
 	int? order
 )
 ```
-```vb
-Public Sub New ( 
-	linkedObject As ModelObject,
-	linkDescriptor As LinkDescriptor,
-	order As Integer?
-)
-```
-```cpp
-public:
-LinkedObjectInfo(
-	ModelObject^ linkedObject, 
-	LinkDescriptor^ linkDescriptor, 
-	Nullable<int> order
-)
-```
+
+
 
 
 #### Параметры

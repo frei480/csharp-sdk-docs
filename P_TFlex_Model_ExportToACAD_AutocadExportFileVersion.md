@@ -11,18 +11,8 @@
 ```csharp
 public AutocadExportFileVersionType AutocadExportFileVersion { get; set; }
 ```
-```vb
-Public Property AutocadExportFileVersion As AutocadExportFileVersionType
-	Get
-	Set
-```
-```cpp
-public:
-property AutocadExportFileVersionType AutocadExportFileVersion {
-	AutocadExportFileVersionType get ();
-	void set (AutocadExportFileVersionType value);
-}
-```
+
+
 
 
 #### Значение свойства

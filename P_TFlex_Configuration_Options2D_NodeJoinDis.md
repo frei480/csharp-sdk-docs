@@ -8,18 +8,8 @@
 ```csharp
 public int NodeJoinDis { get; set; }
 ```
-```vb
-Public Property NodeJoinDis As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int NodeJoinDis {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

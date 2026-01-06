@@ -10,17 +10,8 @@ public void Assign(
 	FirstCharacter source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As FirstCharacter
-)
-```
-```cpp
-public:
-void Assign(
-	FirstCharacter^ source
-)
-```
+
+
 
 
 #### Параметры

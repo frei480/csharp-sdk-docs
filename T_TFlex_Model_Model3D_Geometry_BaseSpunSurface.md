@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseSpunSurface
 ```
-```vb
-Public Interface BaseSpunSurface
-```
-```cpp
-public interface class BaseSpunSurface
-```
+
+
 
 
 Тип BaseSpunSurface предоставляет следующие члены.

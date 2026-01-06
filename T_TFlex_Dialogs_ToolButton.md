@@ -13,12 +13,8 @@
 ```csharp
 public abstract class ToolButton
 ```
-```vb
-Public MustInherit Class ToolButton
-```
-```cpp
-public ref class ToolButton abstract
-```
+
+
 
 
 Тип ToolButton предоставляет следующие члены.

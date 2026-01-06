@@ -19,24 +19,8 @@ public Parameter OffsetZ {
 	set;
  }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed.")>
-Public Property OffsetZ As Parameter
-	<ObsoleteAttribute("Do not call this method.")>
-	Get
-	<ObsoleteAttribute("Do not call this method.")>
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed.")]
-property Parameter^ OffsetZ {
-	[ObsoleteAttribute(L"Do not call this method.")]
-	Parameter^ get ();
-	[ObsoleteAttribute(L"Do not call this method.")]
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

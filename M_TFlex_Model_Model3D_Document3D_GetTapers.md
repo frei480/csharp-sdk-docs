@@ -13,19 +13,8 @@ public static ICollection<Taper> GetTapers(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetTapers ( 
-	document As Document
-) As ICollection(Of Taper)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Taper^>^ GetTapers(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

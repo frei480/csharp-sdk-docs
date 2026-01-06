@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ZSize { get; set; }
 ```
-```vb
-Public Property ZSize As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ZSize {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

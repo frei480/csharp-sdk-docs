@@ -11,16 +11,8 @@
 ```csharp
 public PropertiesWindowFormBase PropertiesForm { get; }
 ```
-```vb
-Public ReadOnly Property PropertiesForm As PropertiesWindowFormBase
-	Get
-```
-```cpp
-public:
-property PropertiesWindowFormBase^ PropertiesForm {
-	PropertiesWindowFormBase^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

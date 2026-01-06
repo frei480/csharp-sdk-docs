@@ -13,16 +13,8 @@ public static implicit operator Position (
 	int value
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	value As Integer
-) As Position
-```
-```cpp
-static implicit operator Position (
-	int value
-)
-```
+
+
 
 
 #### Параметры

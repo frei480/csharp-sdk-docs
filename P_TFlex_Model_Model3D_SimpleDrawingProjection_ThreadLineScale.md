@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ThreadLineScale { get; set; }
 ```
-```vb
-Public Property ThreadLineScale As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ThreadLineScale {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

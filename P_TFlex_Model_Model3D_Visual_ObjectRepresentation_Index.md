@@ -8,16 +8,8 @@
 ```csharp
 public virtual int Index { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Index As Integer
-	Get
-```
-```cpp
-public:
-virtual property int Index {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

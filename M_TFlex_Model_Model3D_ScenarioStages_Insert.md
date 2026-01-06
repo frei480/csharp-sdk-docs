@@ -13,17 +13,8 @@ public ScenarioStage Insert(
 	uint index
 )
 ```
-```vb
-Public Function Insert ( 
-	index As UInteger
-) As ScenarioStage
-```
-```cpp
-public:
-ScenarioStage^ Insert(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

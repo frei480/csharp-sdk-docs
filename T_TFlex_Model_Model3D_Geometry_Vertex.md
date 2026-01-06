@@ -14,15 +14,8 @@
 public sealed class Vertex : Topol, 
 	BaseVertex
 ```
-```vb
-Public NotInheritable Class Vertex
-	Inherits Topol
-	Implements BaseVertex
-```
-```cpp
-public ref class Vertex sealed : public Topol, 
-	BaseVertex
-```
+
+
 
 
 Тип Vertex предоставляет следующие члены.

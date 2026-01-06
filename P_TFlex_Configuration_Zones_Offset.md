@@ -8,16 +8,8 @@
 ```csharp
 public SizeDoubleOffset Offset { get; }
 ```
-```vb
-Public ReadOnly Property Offset As SizeDoubleOffset
-	Get
-```
-```cpp
-public:
-property SizeDoubleOffset^ Offset {
-	SizeDoubleOffset^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

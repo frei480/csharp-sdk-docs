@@ -11,19 +11,8 @@ public static void Warn(
 	params Object[] args
 )
 ```
-```vb
-Public Shared Sub Warn ( 
-	format As String,
-	ParamArray args As Object()
-)
-```
-```cpp
-public:
-static void Warn(
-	String^ format, 
-	... array<Object^>^ args
-)
-```
+
+
 
 
 #### Параметры

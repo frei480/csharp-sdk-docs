@@ -13,16 +13,8 @@
 ```csharp
 public static Unit KilogramForcePerCentimeterPerCentimeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property KilogramForcePerCentimeterPerCentimeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ KilogramForcePerCentimeterPerCentimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

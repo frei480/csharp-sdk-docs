@@ -11,12 +11,8 @@
 ```csharp
 public enum CreateVariableMode
 ```
-```vb
-Public Enumeration CreateVariableMode
-```
-```cpp
-public enum class CreateVariableMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,13 +11,8 @@
 ```csharp
 public DeleteOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-DeleteOptions()
-```
+
+
 
 
 #### Ссылки

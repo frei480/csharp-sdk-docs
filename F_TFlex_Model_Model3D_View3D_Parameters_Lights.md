@@ -11,13 +11,8 @@
 ```csharp
 public View3DLightParameters Lights
 ```
-```vb
-Public Lights As View3DLightParameters
-```
-```cpp
-public:
-View3DLightParameters^ Lights
-```
+
+
 
 
 #### Значение поля

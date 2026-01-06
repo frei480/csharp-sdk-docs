@@ -11,13 +11,8 @@
 ```csharp
 public ParamConditionTerm()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ParamConditionTerm()
-```
+
+
 
 
 #### Ссылки

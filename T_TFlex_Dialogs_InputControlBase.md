@@ -13,13 +13,8 @@
 ```csharp
 public abstract class InputControlBase : BaseControl
 ```
-```vb
-Public MustInherit Class InputControlBase
-	Inherits BaseControl
-```
-```cpp
-public ref class InputControlBase abstract : public BaseControl
-```
+
+
 
 
 Тип InputControlBase предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool ViewType { get; set; }
 ```
-```vb
-Public Overridable Property ViewType As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool ViewType {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

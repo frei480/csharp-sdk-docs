@@ -14,19 +14,8 @@ public void SetProfileFacesG2Condition(
 	bool g2
 )
 ```
-```vb
-Public Sub SetProfileFacesG2Condition ( 
-	profileIndex As Integer,
-	g2 As Boolean
-)
-```
-```cpp
-public:
-void SetProfileFacesG2Condition(
-	int profileIndex, 
-	bool g2
-)
-```
+
+
 
 
 #### Параметры

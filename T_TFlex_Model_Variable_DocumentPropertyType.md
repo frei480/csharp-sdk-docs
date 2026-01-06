@@ -11,12 +11,8 @@
 ```csharp
 public enum DocumentPropertyType
 ```
-```vb
-Public Enumeration DocumentPropertyType
-```
-```cpp
-public enum class DocumentPropertyType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

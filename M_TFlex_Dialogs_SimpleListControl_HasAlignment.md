@@ -14,19 +14,8 @@ public bool HasAlignment(
 	int column
 )
 ```
-```vb
-Public Function HasAlignment ( 
-	row As Integer,
-	column As Integer
-) As Boolean
-```
-```cpp
-public:
-bool HasAlignment(
-	int row, 
-	int column
-)
-```
+
+
 
 
 #### Параметры

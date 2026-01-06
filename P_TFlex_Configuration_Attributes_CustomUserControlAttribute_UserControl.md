@@ -8,18 +8,8 @@
 ```csharp
 public string UserControl { get; set; }
 ```
-```vb
-Public Property UserControl As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ UserControl {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

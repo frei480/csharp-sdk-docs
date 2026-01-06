@@ -16,23 +16,8 @@ public void SetTangentToCircleAndEllipse(
 	int variant
 )
 ```
-```vb
-Public Sub SetTangentToCircleAndEllipse ( 
-	srcCircle As Construction,
-	srcEllipse As Construction,
-	radius As Parameter,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetTangentToCircleAndEllipse(
-	Construction^ srcCircle, 
-	Construction^ srcEllipse, 
-	Parameter^ radius, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

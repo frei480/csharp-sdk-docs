@@ -13,17 +13,8 @@ public Parameter(
 	UDF udf
 )
 ```
-```vb
-Public Sub New ( 
-	udf As UDF
-)
-```
-```cpp
-public:
-Parameter(
-	UDF^ udf
-)
-```
+
+
 
 
 #### Параметры

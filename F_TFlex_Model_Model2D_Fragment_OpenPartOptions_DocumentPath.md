@@ -11,13 +11,8 @@
 ```csharp
 public string DocumentPath
 ```
-```vb
-Public DocumentPath As String
-```
-```cpp
-public:
-String^ DocumentPath
-```
+
+
 
 
 #### Значение поля

@@ -11,12 +11,8 @@
 ```csharp
 public class ToleranceProperties
 ```
-```vb
-Public Class ToleranceProperties
-```
-```cpp
-public ref class ToleranceProperties
-```
+
+
 
 
 Тип ToleranceProperties предоставляет следующие члены.

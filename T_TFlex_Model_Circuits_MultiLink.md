@@ -11,13 +11,8 @@
 ```csharp
 public class MultiLink : LinkBase
 ```
-```vb
-Public Class MultiLink
-	Inherits LinkBase
-```
-```cpp
-public ref class MultiLink : public LinkBase
-```
+
+
 
 
 Тип MultiLink предоставляет следующие члены.

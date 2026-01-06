@@ -13,17 +13,8 @@ public double GetTextLength(
 	string text
 )
 ```
-```vb
-Public Function GetTextLength ( 
-	text As String
-) As Double
-```
-```cpp
-public:
-double GetTextLength(
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

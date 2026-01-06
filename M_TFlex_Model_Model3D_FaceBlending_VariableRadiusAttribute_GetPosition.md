@@ -13,17 +13,8 @@ public FaceBlendingPositionData GetPosition(
 	int positionIndex
 )
 ```
-```vb
-Public Function GetPosition ( 
-	positionIndex As Integer
-) As FaceBlendingPositionData
-```
-```cpp
-public:
-FaceBlendingPositionData^ GetPosition(
-	int positionIndex
-)
-```
+
+
 
 
 #### Параметры

@@ -8,12 +8,8 @@
 ```csharp
 public enum SaveConfigurationsType
 ```
-```vb
-Public Enumeration SaveConfigurationsType
-```
-```cpp
-public enum class SaveConfigurationsType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

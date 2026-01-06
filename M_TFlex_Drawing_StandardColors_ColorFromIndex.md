@@ -13,17 +13,8 @@ public static Color ColorFromIndex(
 	int index
 )
 ```
-```vb
-Public Shared Function ColorFromIndex ( 
-	index As Integer
-) As Color
-```
-```cpp
-public:
-static Color ColorFromIndex(
-	int index
-)
-```
+
+
 
 
 #### Параметры

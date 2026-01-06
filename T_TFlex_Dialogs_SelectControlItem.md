@@ -13,12 +13,8 @@
 ```csharp
 public class SelectControlItem
 ```
-```vb
-Public Class SelectControlItem
-```
-```cpp
-public ref class SelectControlItem
-```
+
+
 
 
 Тип SelectControlItem предоставляет следующие члены.

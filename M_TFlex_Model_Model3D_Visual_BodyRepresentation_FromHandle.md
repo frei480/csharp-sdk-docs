@@ -10,17 +10,8 @@ public static BodyRepresentation FromHandle(
 	IntPtr handle
 )
 ```
-```vb
-Public Shared Function FromHandle ( 
-	handle As IntPtr
-) As BodyRepresentation
-```
-```cpp
-public:
-static BodyRepresentation^ FromHandle(
-	IntPtr handle
-)
-```
+
+
 
 
 #### Параметры

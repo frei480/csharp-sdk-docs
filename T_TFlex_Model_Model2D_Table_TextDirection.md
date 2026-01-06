@@ -11,12 +11,8 @@
 ```csharp
 public enum TextDirection
 ```
-```vb
-Public Enumeration TextDirection
-```
-```cpp
-public enum class TextDirection
-```
+
+
 
 
 | Имя члена | Значение | Описание |

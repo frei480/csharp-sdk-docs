@@ -8,16 +8,8 @@
 ```csharp
 public string FragmentChainPathName { get; }
 ```
-```vb
-Public ReadOnly Property FragmentChainPathName As String
-	Get
-```
-```cpp
-public:
-property String^ FragmentChainPathName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

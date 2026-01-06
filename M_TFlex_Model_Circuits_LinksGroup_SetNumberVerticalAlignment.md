@@ -10,17 +10,8 @@ public void SetNumberVerticalAlignment(
 	TextVerticalAlignment A_0
 )
 ```
-```vb
-Public Sub SetNumberVerticalAlignment ( 
-	A_0 As TextVerticalAlignment
-)
-```
-```cpp
-public:
-void SetNumberVerticalAlignment(
-	TextVerticalAlignment A_0
-)
-```
+
+
 
 
 #### Параметры

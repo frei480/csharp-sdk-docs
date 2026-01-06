@@ -13,17 +13,8 @@ public void AddRow(
 	params Object[] data
 )
 ```
-```vb
-Public Sub AddRow ( 
-	ParamArray data As Object()
-)
-```
-```cpp
-public:
-void AddRow(
-	... array<Object^>^ data
-)
-```
+
+
 
 
 #### Параметры

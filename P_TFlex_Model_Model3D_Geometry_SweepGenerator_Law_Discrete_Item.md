@@ -10,20 +10,8 @@ public SweepGeneratorLawDiscreteAssociation this[
 	uint index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As UInteger
-) As SweepGeneratorLawDiscreteAssociation
-	Get
-	Set
-```
-```cpp
-public:
-property SweepGeneratorLawDiscreteAssociation^ default[unsigned int index] {
-	SweepGeneratorLawDiscreteAssociation^ get (unsigned int index);
-	void set (unsigned int index, SweepGeneratorLawDiscreteAssociation^ value);
-}
-```
+
+
 
 
 #### Параметры

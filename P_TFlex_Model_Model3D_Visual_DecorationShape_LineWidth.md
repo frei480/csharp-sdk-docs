@@ -11,16 +11,8 @@
 ```csharp
 public float LineWidth { set; }
 ```
-```vb
-Public WriteOnly Property LineWidth As Single
-	Set
-```
-```cpp
-public:
-property float LineWidth {
-	void set (float value);
-}
-```
+
+
 
 
 #### Значение свойства

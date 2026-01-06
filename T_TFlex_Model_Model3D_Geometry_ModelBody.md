@@ -13,15 +13,8 @@
 ```csharp
 public class ModelBody : BaseBody, IDisposable
 ```
-```vb
-Public Class ModelBody
-	Inherits BaseBody
-	Implements IDisposable
-```
-```cpp
-public ref class ModelBody : public BaseBody, 
-	IDisposable
-```
+
+
 
 
 Тип ModelBody предоставляет следующие члены.

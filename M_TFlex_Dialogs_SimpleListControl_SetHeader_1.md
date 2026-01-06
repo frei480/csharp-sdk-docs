@@ -13,17 +13,8 @@ public void SetHeader(
 	Object content
 )
 ```
-```vb
-Public Sub SetHeader ( 
-	content As Object
-)
-```
-```cpp
-public:
-void SetHeader(
-	Object^ content
-)
-```
+
+
 
 
 #### Параметры

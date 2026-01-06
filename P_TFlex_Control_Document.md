@@ -11,18 +11,8 @@
 ```csharp
 public virtual Document Document { get; set; }
 ```
-```vb
-Public Overridable Property Document As Document
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Document^ Document {
-	Document^ get ();
-	void set (Document^ value);
-}
-```
+
+
 
 
 #### Значение свойства

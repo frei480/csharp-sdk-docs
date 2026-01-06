@@ -10,17 +10,8 @@ public static IGroupingRule XMLCreateAndDeserialize(
 	XmlElement rElement
 )
 ```
-```vb
-Public Shared Function XMLCreateAndDeserialize ( 
-	rElement As XmlElement
-) As IGroupingRule
-```
-```cpp
-public:
-static IGroupingRule^ XMLCreateAndDeserialize(
-	XmlElement^ rElement
-)
-```
+
+
 
 
 #### Параметры

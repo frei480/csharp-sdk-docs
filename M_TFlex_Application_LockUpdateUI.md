@@ -13,17 +13,8 @@ public static IDisposable LockUpdateUI(
 	Document document
 )
 ```
-```vb
-Public Shared Function LockUpdateUI ( 
-	document As Document
-) As IDisposable
-```
-```cpp
-public:
-static IDisposable^ LockUpdateUI(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

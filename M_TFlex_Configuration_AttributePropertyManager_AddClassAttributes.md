@@ -11,19 +11,8 @@ public static void AddClassAttributes(
 	params Attribute[] attributes
 )
 ```
-```vb
-Public Shared Sub AddClassAttributes ( 
-	type As Type,
-	ParamArray attributes As Attribute()
-)
-```
-```cpp
-public:
-static void AddClassAttributes(
-	Type^ type, 
-	... array<Attribute^>^ attributes
-)
-```
+
+
 
 
 #### Параметры

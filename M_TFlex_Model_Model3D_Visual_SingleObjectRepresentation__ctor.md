@@ -14,19 +14,8 @@ protected SingleObjectRepresentation(
 	Object3D owner
 )
 ```
-```vb
-Protected Sub New ( 
-	scene As Scene,
-	owner As Object3D
-)
-```
-```cpp
-protected:
-SingleObjectRepresentation(
-	Scene^ scene, 
-	Object3D^ owner
-)
-```
+
+
 
 
 #### Параметры

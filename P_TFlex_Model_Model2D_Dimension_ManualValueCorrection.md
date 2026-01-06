@@ -11,18 +11,8 @@
 ```csharp
 public bool ManualValueCorrection { get; set; }
 ```
-```vb
-Public Property ManualValueCorrection As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ManualValueCorrection {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

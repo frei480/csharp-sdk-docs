@@ -13,17 +13,8 @@ public void AddFaceToCenterWall(
 	BaseTopol face
 )
 ```
-```vb
-Public Sub AddFaceToCenterWall ( 
-	face As BaseTopol
-)
-```
-```cpp
-public:
-void AddFaceToCenterWall(
-	BaseTopol^ face
-)
-```
+
+
 
 
 #### Параметры

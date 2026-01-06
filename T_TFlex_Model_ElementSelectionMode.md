@@ -11,12 +11,8 @@
 ```csharp
 public enum ElementSelectionMode
 ```
-```vb
-Public Enumeration ElementSelectionMode
-```
-```cpp
-public enum class ElementSelectionMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

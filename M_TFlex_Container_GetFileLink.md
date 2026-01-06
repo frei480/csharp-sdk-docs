@@ -13,17 +13,8 @@ public FileLink GetFileLink(
 	IntPtr linkHandle
 )
 ```
-```vb
-Public Function GetFileLink ( 
-	linkHandle As IntPtr
-) As FileLink
-```
-```cpp
-public:
-FileLink^ GetFileLink(
-	IntPtr linkHandle
-)
-```
+
+
 
 
 #### Параметры

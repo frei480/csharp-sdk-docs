@@ -8,12 +8,8 @@
 ```csharp
 public enum TypeGeometry
 ```
-```vb
-Public Enumeration TypeGeometry
-```
-```cpp
-public enum class TypeGeometry
-```
+
+
 
 
 | Имя члена | Значение | Описание |

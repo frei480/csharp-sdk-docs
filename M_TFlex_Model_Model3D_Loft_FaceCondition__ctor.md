@@ -14,19 +14,8 @@ public FaceCondition(
 	Parameter magnitude
 )
 ```
-```vb
-Public Sub New ( 
-	face As ModelFace,
-	magnitude As Parameter
-)
-```
-```cpp
-public:
-FaceCondition(
-	ModelFace^ face, 
-	Parameter^ magnitude
-)
-```
+
+
 
 
 #### Параметры

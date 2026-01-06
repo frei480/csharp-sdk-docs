@@ -11,16 +11,8 @@
 ```csharp
 public bool CanIncrement { get; }
 ```
-```vb
-Public ReadOnly Property CanIncrement As Boolean
-	Get
-```
-```cpp
-public:
-property bool CanIncrement {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

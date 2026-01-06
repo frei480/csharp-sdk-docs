@@ -11,16 +11,8 @@ true, если переменная используется (есть ссыл�
 ```csharp
 public bool IsUsed { get; }
 ```
-```vb
-Public ReadOnly Property IsUsed As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsUsed {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

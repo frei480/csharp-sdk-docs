@@ -11,16 +11,8 @@
 ```csharp
 public static string SystemPath { get; }
 ```
-```vb
-Public Shared ReadOnly Property SystemPath As String
-	Get
-```
-```cpp
-public:
-static property String^ SystemPath {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public DimensionPrefixSymbol PrefixSymbol { get; set; }
 ```
-```vb
-Public Property PrefixSymbol As DimensionPrefixSymbol
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionPrefixSymbol PrefixSymbol {
-	DimensionPrefixSymbol get ();
-	void set (DimensionPrefixSymbol value);
-}
-```
+
+
 
 
 #### Значение свойства

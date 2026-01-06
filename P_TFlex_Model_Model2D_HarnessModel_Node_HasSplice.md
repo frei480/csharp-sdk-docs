@@ -8,16 +8,8 @@
 ```csharp
 public bool HasSplice { get; }
 ```
-```vb
-Public ReadOnly Property HasSplice As Boolean
-	Get
-```
-```cpp
-public:
-property bool HasSplice {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public virtual CommandBehavior SupportedBehavior { get; }
 ```
-```vb
-Public Overridable ReadOnly Property SupportedBehavior As CommandBehavior
-	Get
-```
-```cpp
-public:
-virtual property CommandBehavior SupportedBehavior {
-	CommandBehavior get ();
-}
-```
+
+
 
 
 #### Значение свойства

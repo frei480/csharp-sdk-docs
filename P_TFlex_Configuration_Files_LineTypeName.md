@@ -8,18 +8,8 @@
 ```csharp
 public string LineTypeName { get; set; }
 ```
-```vb
-Public Property LineTypeName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ LineTypeName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class PointLight : Light
 ```
-```vb
-Public Class PointLight
-	Inherits Light
-```
-```cpp
-public ref class PointLight : public Light
-```
+
+
 
 
 Тип PointLight предоставляет следующие члены.

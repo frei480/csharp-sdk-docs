@@ -13,17 +13,8 @@ protected virtual void GetPropList(
 	PropertyArray Array
 )
 ```
-```vb
-Protected Overridable Sub GetPropList ( 
-	Array As PropertyArray
-)
-```
-```cpp
-protected:
-virtual void GetPropList(
-	PropertyArray^ Array
-)
-```
+
+
 
 
 #### Параметры

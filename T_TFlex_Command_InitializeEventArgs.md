@@ -13,13 +13,8 @@
 ```csharp
 public sealed class InitializeEventArgs : CommandEventArgs
 ```
-```vb
-Public NotInheritable Class InitializeEventArgs
-	Inherits CommandEventArgs
-```
-```cpp
-public ref class InitializeEventArgs sealed : public CommandEventArgs
-```
+
+
 
 
 Тип InitializeEventArgs предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public bool IncludeBase { get; set; }
 ```
-```vb
-Public Property IncludeBase As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IncludeBase {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

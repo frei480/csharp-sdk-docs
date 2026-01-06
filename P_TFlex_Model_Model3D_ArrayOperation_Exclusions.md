@@ -11,16 +11,8 @@
 ```csharp
 public ExclusionCollection Exclusions { get; }
 ```
-```vb
-Public ReadOnly Property Exclusions As ExclusionCollection
-	Get
-```
-```cpp
-public:
-property ExclusionCollection^ Exclusions {
-	ExclusionCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

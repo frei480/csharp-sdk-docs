@@ -11,13 +11,8 @@
 ```csharp
 public Page Page
 ```
-```vb
-Public Page As Page
-```
-```cpp
-public:
-Page^ Page
-```
+
+
 
 
 #### Значение поля

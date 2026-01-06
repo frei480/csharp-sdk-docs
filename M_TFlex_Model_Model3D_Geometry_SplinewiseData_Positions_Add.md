@@ -13,17 +13,8 @@ public void Add(
 	SplinewiseDataPositionsPosition point
 )
 ```
-```vb
-Public Sub Add ( 
-	point As SplinewiseDataPositionsPosition
-)
-```
-```cpp
-public:
-void Add(
-	SplinewiseDataPositionsPosition^ point
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public MergedCellValue(
 	Unit unit
 )
 ```
-```vb
-Public Sub New ( 
-	value As String,
-	unit As Unit
-)
-```
-```cpp
-public:
-MergedCellValue(
-	String^ value, 
-	Unit^ unit
-)
-```
+
+
 
 
 #### Параметры

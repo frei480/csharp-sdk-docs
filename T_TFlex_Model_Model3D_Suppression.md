@@ -13,12 +13,8 @@
 ```csharp
 public class Suppression
 ```
-```vb
-Public Class Suppression
-```
-```cpp
-public ref class Suppression
-```
+
+
 
 
 Тип Suppression предоставляет следующие члены.

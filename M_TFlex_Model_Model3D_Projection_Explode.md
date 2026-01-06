@@ -11,13 +11,8 @@
 ```csharp
 public bool Explode()
 ```
-```vb
-Public Function Explode As Boolean
-```
-```cpp
-public:
-bool Explode()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,16 +8,8 @@
 ```csharp
 public VisualEventArgsActionType Action { get; }
 ```
-```vb
-Public ReadOnly Property Action As VisualEventArgsActionType
-	Get
-```
-```cpp
-public:
-property VisualEventArgsActionType Action {
-	VisualEventArgsActionType get ();
-}
-```
+
+
 
 
 #### Значение свойства

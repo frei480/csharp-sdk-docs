@@ -13,17 +13,8 @@ public ObjectRepresentation Find(
 	Object3D object
 )
 ```
-```vb
-Public Function Find ( 
-	object As Object3D
-) As ObjectRepresentation
-```
-```cpp
-public:
-ObjectRepresentation^ Find(
-	Object3D^ object
-)
-```
+
+
 
 
 #### Параметры

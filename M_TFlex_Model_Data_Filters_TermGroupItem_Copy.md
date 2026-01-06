@@ -11,13 +11,8 @@
 ```csharp
 public abstract TermGroupItem Copy()
 ```
-```vb
-Public MustOverride Function Copy As TermGroupItem
-```
-```cpp
-public:
-virtual TermGroupItem^ Copy() abstract
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,16 +11,8 @@
 ```csharp
 public uint RecordPosition { get; }
 ```
-```vb
-Public ReadOnly Property RecordPosition As UInteger
-	Get
-```
-```cpp
-public:
-property unsigned int RecordPosition {
-	unsigned int get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class Database : ModelObject
 ```
-```vb
-Public Class Database
-	Inherits ModelObject
-```
-```cpp
-public ref class Database : public ModelObject
-```
+
+
 
 
 Тип Database предоставляет следующие члены.

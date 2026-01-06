@@ -11,18 +11,8 @@
 ```csharp
 public ResponseStatus Status { get; set; }
 ```
-```vb
-Public Property Status As ResponseStatus
-	Get
-	Set
-```
-```cpp
-public:
-property ResponseStatus Status {
-	ResponseStatus get ();
-	void set (ResponseStatus value);
-}
-```
+
+
 
 
 #### Значение свойства

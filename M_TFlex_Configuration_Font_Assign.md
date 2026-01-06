@@ -10,17 +10,8 @@ public void Assign(
 	Font source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Font
-)
-```
-```cpp
-public:
-void Assign(
-	Font^ source
-)
-```
+
+
 
 
 #### Параметры

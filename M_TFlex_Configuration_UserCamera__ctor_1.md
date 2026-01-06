@@ -14,19 +14,8 @@ public UserCamera(
 	bool isOwned
 )
 ```
-```vb
-Public Sub New ( 
-	nativeOptionsPointer As IntPtr,
-	isOwned As Boolean
-)
-```
-```cpp
-public:
-UserCamera(
-	IntPtr nativeOptionsPointer, 
-	bool isOwned
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class LCS : Construction3D
 ```
-```vb
-Public Class LCS
-	Inherits Construction3D
-```
-```cpp
-public ref class LCS : public Construction3D
-```
+
+
 
 
 Тип LCS предоставляет следующие члены.

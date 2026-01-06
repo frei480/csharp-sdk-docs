@@ -13,17 +13,8 @@ public UnitConverter(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-UnitConverter(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

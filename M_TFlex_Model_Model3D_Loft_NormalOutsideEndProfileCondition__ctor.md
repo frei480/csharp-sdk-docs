@@ -13,17 +13,8 @@ public NormalOutsideEndProfileCondition(
 	Parameter magnitude
 )
 ```
-```vb
-Public Sub New ( 
-	magnitude As Parameter
-)
-```
-```cpp
-public:
-NormalOutsideEndProfileCondition(
-	Parameter^ magnitude
-)
-```
+
+
 
 
 #### Параметры

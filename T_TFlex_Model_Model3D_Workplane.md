@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Workplane : WorkSurface
 ```
-```vb
-Public MustInherit Class Workplane
-	Inherits WorkSurface
-```
-```cpp
-public ref class Workplane abstract : public WorkSurface
-```
+
+
 
 
 Тип Workplane предоставляет следующие члены.

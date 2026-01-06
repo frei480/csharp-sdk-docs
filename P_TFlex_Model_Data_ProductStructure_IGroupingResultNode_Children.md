@@ -8,15 +8,8 @@
 ```csharp
 ReadOnlyCollection<IGroupingResultNode> Children { get; }
 ```
-```vb
-ReadOnly Property Children As ReadOnlyCollection(Of IGroupingResultNode)
-	Get
-```
-```cpp
-property ReadOnlyCollection<IGroupingResultNode^>^ Children {
-	ReadOnlyCollection<IGroupingResultNode^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public bool SketcherCreateBaseDimensions { get; set; }
 ```
-```vb
-Public Property SketcherCreateBaseDimensions As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SketcherCreateBaseDimensions {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

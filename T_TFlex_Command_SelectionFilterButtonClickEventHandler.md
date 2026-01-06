@@ -11,18 +11,8 @@ public delegate void SelectionFilterButtonClickEventHandler(
 	SelectionFilterButtonClickEventArgs args
 )
 ```
-```vb
-Public Delegate Sub SelectionFilterButtonClickEventHandler ( 
-	sender As Object,
-	args As SelectionFilterButtonClickEventArgs
-)
-```
-```cpp
-public delegate void SelectionFilterButtonClickEventHandler(
-	Object^ sender, 
-	SelectionFilterButtonClickEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

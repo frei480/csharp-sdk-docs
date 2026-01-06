@@ -8,16 +8,8 @@
 ```csharp
 public double BendRadius { get; }
 ```
-```vb
-Public ReadOnly Property BendRadius As Double
-	Get
-```
-```cpp
-public:
-property double BendRadius {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

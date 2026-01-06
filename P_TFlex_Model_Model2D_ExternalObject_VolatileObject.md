@@ -8,16 +8,8 @@
 ```csharp
 public ProxyObject2D VolatileObject { get; }
 ```
-```vb
-Public ReadOnly Property VolatileObject As ProxyObject2D
-	Get
-```
-```cpp
-public:
-property ProxyObject2D^ VolatileObject {
-	ProxyObject2D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public GeomReference(
 	ModelTopol topol
 )
 ```
-```vb
-Public Sub New ( 
-	topol As ModelTopol
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelTopol^ topol
-)
-```
+
+
 
 
 #### Параметры

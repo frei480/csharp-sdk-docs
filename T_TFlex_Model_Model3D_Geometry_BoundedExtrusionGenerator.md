@@ -13,13 +13,8 @@
 ```csharp
 public class BoundedExtrusionGenerator : BodyGenerator
 ```
-```vb
-Public Class BoundedExtrusionGenerator
-	Inherits BodyGenerator
-```
-```cpp
-public ref class BoundedExtrusionGenerator : public BodyGenerator
-```
+
+
 
 
 Тип BoundedExtrusionGenerator предоставляет следующие члены.

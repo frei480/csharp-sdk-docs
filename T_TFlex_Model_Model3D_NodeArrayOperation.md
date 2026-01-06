@@ -13,13 +13,8 @@
 ```csharp
 public class NodeArrayOperation : ArrayOperation
 ```
-```vb
-Public Class NodeArrayOperation
-	Inherits ArrayOperation
-```
-```cpp
-public ref class NodeArrayOperation : public ArrayOperation
-```
+
+
 
 
 Тип NodeArrayOperation предоставляет следующие члены.

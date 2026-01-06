@@ -11,16 +11,8 @@
 ```csharp
 public virtual FormlimitsType SubType { get; }
 ```
-```vb
-Public Overridable ReadOnly Property SubType As FormlimitsType
-	Get
-```
-```cpp
-public:
-virtual property FormlimitsType SubType {
-	FormlimitsType get ();
-}
-```
+
+
 
 
 #### Значение свойства

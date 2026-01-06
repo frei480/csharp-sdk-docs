@@ -11,18 +11,8 @@
 ```csharp
 public bool CreateThreads { get; set; }
 ```
-```vb
-Public Property CreateThreads As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CreateThreads {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

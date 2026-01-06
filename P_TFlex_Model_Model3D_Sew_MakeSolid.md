@@ -11,18 +11,8 @@
 ```csharp
 public bool MakeSolid { get; set; }
 ```
-```vb
-Public Property MakeSolid As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool MakeSolid {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

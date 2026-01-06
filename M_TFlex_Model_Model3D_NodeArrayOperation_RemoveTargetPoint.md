@@ -13,17 +13,8 @@ public void RemoveTargetPoint(
 	int Index
 )
 ```
-```vb
-Public Sub RemoveTargetPoint ( 
-	Index As Integer
-)
-```
-```cpp
-public:
-void RemoveTargetPoint(
-	int Index
-)
-```
+
+
 
 
 #### Параметры

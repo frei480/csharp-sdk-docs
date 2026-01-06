@@ -13,17 +13,8 @@ public void AddBottomFace(
 	ModelFace face
 )
 ```
-```vb
-Public Sub AddBottomFace ( 
-	face As ModelFace
-)
-```
-```cpp
-public:
-void AddBottomFace(
-	ModelFace^ face
-)
-```
+
+
 
 
 #### Параметры

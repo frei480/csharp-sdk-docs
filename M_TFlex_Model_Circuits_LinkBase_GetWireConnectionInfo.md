@@ -11,19 +11,8 @@ public abstract WireConnectionInfo GetWireConnectionInfo(
 	bool edit
 )
 ```
-```vb
-Public MustOverride Function GetWireConnectionInfo ( 
-	index As Integer,
-	edit As Boolean
-) As WireConnectionInfo
-```
-```cpp
-public:
-virtual WireConnectionInfo^ GetWireConnectionInfo(
-	int index, 
-	bool edit
-) abstract
-```
+
+
 
 
 #### Параметры

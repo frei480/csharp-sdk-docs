@@ -8,18 +8,8 @@
 ```csharp
 public IntPtr HelpTopic { get; set; }
 ```
-```vb
-Public Property HelpTopic As IntPtr
-	Get
-	Set
-```
-```cpp
-public:
-property IntPtr HelpTopic {
-	IntPtr get ();
-	void set (IntPtr value);
-}
-```
+
+
 
 
 #### Значение свойства

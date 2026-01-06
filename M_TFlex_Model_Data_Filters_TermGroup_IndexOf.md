@@ -13,17 +13,8 @@ public int IndexOf(
 	TermGroupItem item
 )
 ```
-```vb
-Public Function IndexOf ( 
-	item As TermGroupItem
-) As Integer
-```
-```cpp
-public:
-virtual int IndexOf(
-	TermGroupItem^ item
-) sealed
-```
+
+
 
 
 #### Параметры

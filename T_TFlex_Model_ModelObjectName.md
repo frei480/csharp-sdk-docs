@@ -11,12 +11,8 @@
 ```csharp
 public enum ModelObjectName
 ```
-```vb
-Public Enumeration ModelObjectName
-```
-```cpp
-public enum class ModelObjectName
-```
+
+
 
 
 | Имя члена | Значение | Описание |

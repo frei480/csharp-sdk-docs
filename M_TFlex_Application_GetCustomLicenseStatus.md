@@ -13,17 +13,8 @@ public static bool GetCustomLicenseStatus(
 	uint license
 )
 ```
-```vb
-Public Shared Function GetCustomLicenseStatus ( 
-	license As UInteger
-) As Boolean
-```
-```cpp
-public:
-static bool GetCustomLicenseStatus(
-	unsigned int license
-)
-```
+
+
 
 
 #### Параметры

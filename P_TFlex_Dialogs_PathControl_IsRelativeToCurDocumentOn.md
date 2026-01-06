@@ -11,18 +11,8 @@
 ```csharp
 public bool IsRelativeToCurDocumentOn { get; set; }
 ```
-```vb
-Public Property IsRelativeToCurDocumentOn As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsRelativeToCurDocumentOn {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

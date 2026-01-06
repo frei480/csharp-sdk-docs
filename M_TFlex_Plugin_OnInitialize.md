@@ -11,13 +11,8 @@
 ```csharp
 protected virtual void OnInitialize()
 ```
-```vb
-Protected Overridable Sub OnInitialize
-```
-```cpp
-protected:
-virtual void OnInitialize()
-```
+
+
 
 
 #### Ссылки

@@ -11,13 +11,8 @@
 ```csharp
 public class VersionNameParameterDataGenerator : IParameterDataGenerator
 ```
-```vb
-Public Class VersionNameParameterDataGenerator
-	Inherits IParameterDataGenerator
-```
-```cpp
-public ref class VersionNameParameterDataGenerator : public IParameterDataGenerator
-```
+
+
 
 
 Тип VersionNameParameterDataGenerator предоставляет следующие члены.

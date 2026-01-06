@@ -11,18 +11,8 @@
 ```csharp
 public bool AutoAddLabelColon { get; set; }
 ```
-```vb
-Public Property AutoAddLabelColon As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoAddLabelColon {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

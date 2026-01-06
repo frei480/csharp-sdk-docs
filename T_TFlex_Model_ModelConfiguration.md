@@ -13,12 +13,8 @@
 ```csharp
 public class ModelConfiguration
 ```
-```vb
-Public Class ModelConfiguration
-```
-```cpp
-public ref class ModelConfiguration
-```
+
+
 
 
 Тип ModelConfiguration предоставляет следующие члены.

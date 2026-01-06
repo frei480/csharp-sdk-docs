@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Force
 ```
-```vb
-Public NotInheritable Class Force
-```
-```cpp
-public ref class Force sealed
-```
+
+
 
 
 Тип StandardUnitsForce предоставляет следующие члены.

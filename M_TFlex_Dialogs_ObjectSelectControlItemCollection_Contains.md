@@ -13,17 +13,8 @@ public bool Contains(
 	ModelObject modelObject
 )
 ```
-```vb
-Public Function Contains ( 
-	modelObject As ModelObject
-) As Boolean
-```
-```cpp
-public:
-bool Contains(
-	ModelObject^ modelObject
-)
-```
+
+
 
 
 #### Параметры

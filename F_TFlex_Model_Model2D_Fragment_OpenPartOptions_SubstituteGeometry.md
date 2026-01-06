@@ -11,13 +11,8 @@
 ```csharp
 public bool SubstituteGeometry
 ```
-```vb
-Public SubstituteGeometry As Boolean
-```
-```cpp
-public:
-bool SubstituteGeometry
-```
+
+
 
 
 #### Значение поля

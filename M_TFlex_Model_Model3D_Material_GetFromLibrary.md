@@ -14,19 +14,8 @@ public static Material GetFromLibrary(
 	string name
 )
 ```
-```vb
-Public Shared Function GetFromLibrary ( 
-	document As Document,
-	name As String
-) As Material
-```
-```cpp
-public:
-static Material^ GetFromLibrary(
-	Document^ document, 
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

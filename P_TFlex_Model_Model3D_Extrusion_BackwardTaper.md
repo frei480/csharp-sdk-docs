@@ -11,18 +11,8 @@
 ```csharp
 public bool BackwardTaper { get; set; }
 ```
-```vb
-Public Property BackwardTaper As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool BackwardTaper {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

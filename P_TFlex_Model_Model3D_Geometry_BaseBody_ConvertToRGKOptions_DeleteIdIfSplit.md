@@ -11,18 +11,8 @@
 ```csharp
 public bool DeleteIdIfSplit { get; set; }
 ```
-```vb
-Public Property DeleteIdIfSplit As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DeleteIdIfSplit {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

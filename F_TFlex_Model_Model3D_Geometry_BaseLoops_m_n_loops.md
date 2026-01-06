@@ -8,13 +8,8 @@
 ```csharp
 public int m_n_loops
 ```
-```vb
-Public m_n_loops As Integer
-```
-```cpp
-public:
-int m_n_loops
-```
+
+
 
 
 #### Значение поля

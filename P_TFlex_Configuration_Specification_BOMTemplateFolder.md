@@ -8,18 +8,8 @@
 ```csharp
 public string BOMTemplateFolder { get; set; }
 ```
-```vb
-Public Property BOMTemplateFolder As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ BOMTemplateFolder {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

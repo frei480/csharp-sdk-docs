@@ -12,20 +12,8 @@
 [ObsoleteAttribute("Do not call this method.")]
 public int AmbientColor { get; set; }
 ```
-```vb
-<ObsoleteAttribute("Do not call this method.")>
-Public Property AmbientColor As Integer
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Do not call this method.")]
-property int AmbientColor {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

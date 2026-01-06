@@ -11,13 +11,8 @@
 ```csharp
 public class SmartPositionParameterDataGenerator : IParameterDataGenerator
 ```
-```vb
-Public Class SmartPositionParameterDataGenerator
-	Inherits IParameterDataGenerator
-```
-```cpp
-public ref class SmartPositionParameterDataGenerator : public IParameterDataGenerator
-```
+
+
 
 
 Тип SmartPositionParameterDataGenerator предоставляет следующие члены.

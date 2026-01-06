@@ -12,21 +12,8 @@ public Segment ConnectToShieldOutput(
 	SegmentCurveType type
 )
 ```
-```vb
-Public Function ConnectToShieldOutput ( 
-	firstOrShieldOutput As TerminalPoint,
-	lastOrShieldOutput As TerminalPoint,
-	type As SegmentCurveType
-) As Segment
-```
-```cpp
-public:
-Segment^ ConnectToShieldOutput(
-	TerminalPoint^ firstOrShieldOutput, 
-	TerminalPoint^ lastOrShieldOutput, 
-	SegmentCurveType type
-)
-```
+
+
 
 
 #### Параметры

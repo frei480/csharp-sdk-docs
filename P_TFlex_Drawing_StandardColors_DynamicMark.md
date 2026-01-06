@@ -11,16 +11,8 @@
 ```csharp
 public static Color DynamicMark { get; }
 ```
-```vb
-Public Shared ReadOnly Property DynamicMark As Color
-	Get
-```
-```cpp
-public:
-static property Color DynamicMark {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

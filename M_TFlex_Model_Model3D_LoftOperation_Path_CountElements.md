@@ -11,13 +11,8 @@
 ```csharp
 public int CountElements()
 ```
-```vb
-Public Function CountElements As Integer
-```
-```cpp
-public:
-int CountElements()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,16 +13,8 @@
 ```csharp
 public static Unit FahrenheitDegree { get; }
 ```
-```vb
-Public Shared ReadOnly Property FahrenheitDegree As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ FahrenheitDegree {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public void PrintPages(
 	ObjectArray pages
 )
 ```
-```vb
-Public Sub PrintPages ( 
-	window As IntPtr,
-	pages As ObjectArray
-)
-```
-```cpp
-public:
-void PrintPages(
-	IntPtr window, 
-	ObjectArray^ pages
-)
-```
+
+
 
 
 #### Параметры

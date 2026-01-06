@@ -13,13 +13,8 @@
 ```csharp
 public class EntriesCollection : IEnumerable<RunResultEntry>
 ```
-```vb
-Public Class EntriesCollection
-	Implements IEnumerable(Of RunResultEntry)
-```
-```cpp
-public ref class EntriesCollection : IEnumerable<RunResultEntry^>
-```
+
+
 
 
 Тип RunResultEntriesCollection предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public FormlimitsSymbolExpressionType Expression { get; set; }
 ```
-```vb
-Public Property Expression As FormlimitsSymbolExpressionType
-	Get
-	Set
-```
-```cpp
-public:
-property FormlimitsSymbolExpressionType Expression {
-	FormlimitsSymbolExpressionType get ();
-	void set (FormlimitsSymbolExpressionType value);
-}
-```
+
+
 
 
 #### Значение свойства

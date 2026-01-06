@@ -11,13 +11,8 @@
 ```csharp
 public class Dimension : SettingsGroup
 ```
-```vb
-Public Class Dimension
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Dimension : public SettingsGroup
-```
+
+
 
 
 Тип Dimension предоставляет следующие члены.

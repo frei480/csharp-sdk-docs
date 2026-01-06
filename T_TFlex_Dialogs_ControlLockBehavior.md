@@ -11,12 +11,8 @@
 ```csharp
 public enum ControlLockBehavior
 ```
-```vb
-Public Enumeration ControlLockBehavior
-```
-```cpp
-public enum class ControlLockBehavior
-```
+
+
 
 
 | Имя члена | Значение | Описание |

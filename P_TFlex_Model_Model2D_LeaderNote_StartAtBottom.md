@@ -11,18 +11,8 @@
 ```csharp
 public bool StartAtBottom { get; set; }
 ```
-```vb
-Public Property StartAtBottom As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool StartAtBottom {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

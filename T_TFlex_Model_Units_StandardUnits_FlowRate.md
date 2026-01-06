@@ -13,12 +13,8 @@
 ```csharp
 public sealed class FlowRate
 ```
-```vb
-Public NotInheritable Class FlowRate
-```
-```cpp
-public ref class FlowRate sealed
-```
+
+
 
 
 Тип StandardUnitsFlowRate предоставляет следующие члены.

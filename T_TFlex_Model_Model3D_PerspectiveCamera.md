@@ -13,13 +13,8 @@
 ```csharp
 public class PerspectiveCamera : Camera
 ```
-```vb
-Public Class PerspectiveCamera
-	Inherits Camera
-```
-```cpp
-public ref class PerspectiveCamera : public Camera
-```
+
+
 
 
 Тип PerspectiveCamera предоставляет следующие члены.

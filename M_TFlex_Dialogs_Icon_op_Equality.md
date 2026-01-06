@@ -14,19 +14,8 @@ public static bool operator ==(
 	Icon rhs
 )
 ```
-```vb
-Public Shared Operator = ( 
-	lhs As Icon,
-	rhs As Icon
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	Icon^ lhs, 
-	Icon^ rhs
-)
-```
+
+
 
 
 #### Параметры

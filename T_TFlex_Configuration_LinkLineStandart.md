@@ -8,12 +8,8 @@
 ```csharp
 public enum LinkLineStandart
 ```
-```vb
-Public Enumeration LinkLineStandart
-```
-```cpp
-public enum class LinkLineStandart
-```
+
+
 
 
 | Имя члена | Значение | Описание |

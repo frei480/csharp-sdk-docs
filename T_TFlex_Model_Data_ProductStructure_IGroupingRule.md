@@ -11,13 +11,8 @@
 ```csharp
 public abstract class IGroupingRule : ICloneable
 ```
-```vb
-Public MustInherit Class IGroupingRule
-	Implements ICloneable
-```
-```cpp
-public ref class IGroupingRule abstract : ICloneable
-```
+
+
 
 
 Тип IGroupingRule предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public bool LoadDefaultScriptOnStart { get; set; }
 ```
-```vb
-Public Property LoadDefaultScriptOnStart As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool LoadDefaultScriptOnStart {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

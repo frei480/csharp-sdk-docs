@@ -12,14 +12,8 @@
 [FlagsAttribute]
 public enum ProjectionsElements
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration ProjectionsElements
-```
-```cpp
-[FlagsAttribute]
-public enum class ProjectionsElements
-```
+
+
 
 
 | Имя члена | Значение | Описание |

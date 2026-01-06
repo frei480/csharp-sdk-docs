@@ -11,19 +11,8 @@ public static Surface Create(
 	bool canCopy
 )
 ```
-```vb
-Public Shared Function Create ( 
-	surface As Integer,
-	canCopy As Boolean
-) As Surface
-```
-```cpp
-public:
-static Surface^ Create(
-	int surface, 
-	bool canCopy
-)
-```
+
+
 
 
 #### Параметры

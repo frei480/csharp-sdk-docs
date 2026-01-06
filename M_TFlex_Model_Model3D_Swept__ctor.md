@@ -13,17 +13,8 @@ public Swept(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-Swept(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

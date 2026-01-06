@@ -14,16 +14,8 @@ public void GetRepeatCount(
 	uint* nNegative
 )
 ```
-```vb
-Visual Basic не поддерживает интерфейсы API, которые принимают или возвращают небезопасные типы.
-```
-```cpp
-public:
-void GetRepeatCount(
-	unsigned int* nPositive, 
-	unsigned int* nNegative
-)
-```
+
+
 
 
 #### Параметры

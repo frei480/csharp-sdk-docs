@@ -11,12 +11,8 @@
 ```csharp
 public enum ViewPoint
 ```
-```vb
-Public Enumeration ViewPoint
-```
-```cpp
-public enum class ViewPoint
-```
+
+
 
 
 | Имя члена | Значение | Описание |

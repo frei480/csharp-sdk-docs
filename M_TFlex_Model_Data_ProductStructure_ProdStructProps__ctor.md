@@ -11,13 +11,8 @@
 ```csharp
 public ProdStructProps()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ProdStructProps()
-```
+
+
 
 
 #### Ссылки

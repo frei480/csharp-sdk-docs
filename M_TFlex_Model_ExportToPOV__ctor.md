@@ -13,17 +13,8 @@ public ExportToPOV(
 	Control control
 )
 ```
-```vb
-Public Sub New ( 
-	control As Control
-)
-```
-```cpp
-public:
-ExportToPOV(
-	Control^ control
-)
-```
+
+
 
 
 #### Параметры

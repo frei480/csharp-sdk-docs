@@ -13,16 +13,8 @@
 ```csharp
 public static Unit AmperePerSquareMillimeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property AmperePerSquareMillimeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ AmperePerSquareMillimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

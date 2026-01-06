@@ -8,18 +8,8 @@
 ```csharp
 public bool SaveGeometry { get; set; }
 ```
-```vb
-Public Property SaveGeometry As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SaveGeometry {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

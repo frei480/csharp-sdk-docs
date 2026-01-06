@@ -8,13 +8,8 @@
 ```csharp
 public void UpdateBoundBox()
 ```
-```vb
-Public Sub UpdateBoundBox
-```
-```cpp
-public:
-void UpdateBoundBox()
-```
+
+
 
 
 #### Ссылки

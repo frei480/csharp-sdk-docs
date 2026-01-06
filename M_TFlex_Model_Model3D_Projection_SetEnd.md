@@ -14,19 +14,8 @@ public void SetEnd(
 	Parameter end
 )
 ```
-```vb
-Public Sub SetEnd ( 
-	i As Integer,
-	end As Parameter
-)
-```
-```cpp
-public:
-void SetEnd(
-	int i, 
-	Parameter^ end
-)
-```
+
+
 
 
 #### Параметры

@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetFixingVectors' method.")]
 public ObjectContainer FixingVectors { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetFixingVectors' method.")>
-Public ReadOnly Property FixingVectors As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetFixingVectors' method.")]
-property ObjectContainer^ FixingVectors {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

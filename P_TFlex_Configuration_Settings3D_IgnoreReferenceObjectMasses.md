@@ -8,18 +8,8 @@
 ```csharp
 public bool IgnoreReferenceObjectMasses { get; set; }
 ```
-```vb
-Public Property IgnoreReferenceObjectMasses As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IgnoreReferenceObjectMasses {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

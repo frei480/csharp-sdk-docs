@@ -13,12 +13,8 @@
 ```csharp
 public class Reference
 ```
-```vb
-Public Class Reference
-```
-```cpp
-public ref class Reference
-```
+
+
 
 
 Тип ModelObjectReference предоставляет следующие члены.

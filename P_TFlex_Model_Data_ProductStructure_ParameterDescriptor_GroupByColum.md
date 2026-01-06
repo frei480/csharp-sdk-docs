@@ -8,18 +8,8 @@
 ```csharp
 public bool GroupByColum { get; set; }
 ```
-```vb
-Public Property GroupByColum As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool GroupByColum {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

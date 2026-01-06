@@ -11,12 +11,8 @@
 ```csharp
 public enum ImageExportFormat
 ```
-```vb
-Public Enumeration ImageExportFormat
-```
-```cpp
-public enum class ImageExportFormat
-```
+
+
 
 
 | Имя члена | Значение | Описание |

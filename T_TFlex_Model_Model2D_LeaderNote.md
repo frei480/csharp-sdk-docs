@@ -13,15 +13,8 @@
 ```csharp
 public class LeaderNote : Object2D, IModelObjectWithLayer
 ```
-```vb
-Public Class LeaderNote
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class LeaderNote : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип LeaderNote предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public Weld()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Weld()
-```
+
+
 
 
 #### Ссылки

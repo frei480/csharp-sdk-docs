@@ -11,13 +11,8 @@
 ```csharp
 public class Performance : SettingsGroup
 ```
-```vb
-Public Class Performance
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Performance : public SettingsGroup
-```
+
+
 
 
 Тип Performance предоставляет следующие члены.

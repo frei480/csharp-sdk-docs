@@ -10,17 +10,8 @@ public void SetFlag(
 	ParameterDescriptorParamDescFlags flag
 )
 ```
-```vb
-Public Sub SetFlag ( 
-	flag As ParameterDescriptorParamDescFlags
-)
-```
-```cpp
-public:
-void SetFlag(
-	ParameterDescriptorParamDescFlags flag
-)
-```
+
+
 
 
 #### Параметры

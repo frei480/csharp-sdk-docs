@@ -11,13 +11,8 @@
 ```csharp
 public Transformer()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Transformer()
-```
+
+
 
 
 #### Ссылки

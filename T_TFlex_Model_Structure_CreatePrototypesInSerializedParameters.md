@@ -11,13 +11,8 @@
 ```csharp
 public sealed class CreatePrototypesInSerializedParameters : BaseCreatePrototypesParameters
 ```
-```vb
-Public NotInheritable Class CreatePrototypesInSerializedParameters
-	Inherits BaseCreatePrototypesParameters
-```
-```cpp
-public ref class CreatePrototypesInSerializedParameters sealed : public BaseCreatePrototypesParameters
-```
+
+
 
 
 Тип CreatePrototypesInSerializedParameters предоставляет следующие члены.

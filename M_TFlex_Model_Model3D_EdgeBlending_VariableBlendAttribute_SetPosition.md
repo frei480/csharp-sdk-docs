@@ -14,19 +14,8 @@ public void SetPosition(
 	EdgeBlendingPositionData data
 )
 ```
-```vb
-Public Sub SetPosition ( 
-	positionIndex As Integer,
-	data As EdgeBlendingPositionData
-)
-```
-```cpp
-public:
-void SetPosition(
-	int positionIndex, 
-	EdgeBlendingPositionData^ data
-)
-```
+
+
 
 
 #### Параметры

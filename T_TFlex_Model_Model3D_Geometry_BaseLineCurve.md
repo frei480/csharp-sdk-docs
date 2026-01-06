@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseLineCurve
 ```
-```vb
-Public Interface BaseLineCurve
-```
-```cpp
-public interface class BaseLineCurve
-```
+
+
 
 
 Тип BaseLineCurve предоставляет следующие члены.

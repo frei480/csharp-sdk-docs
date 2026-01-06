@@ -8,18 +8,8 @@
 ```csharp
 public string TechnicalSupportFormPath { get; set; }
 ```
-```vb
-Public Property TechnicalSupportFormPath As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TechnicalSupportFormPath {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

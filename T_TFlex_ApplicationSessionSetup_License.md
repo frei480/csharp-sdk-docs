@@ -11,12 +11,8 @@
 ```csharp
 public enum License
 ```
-```vb
-Public Enumeration License
-```
-```cpp
-public enum class License
-```
+
+
 
 
 | Имя члена | Значение | Описание |

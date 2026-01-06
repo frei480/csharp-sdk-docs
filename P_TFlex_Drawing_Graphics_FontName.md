@@ -11,16 +11,8 @@
 ```csharp
 public string FontName { set; }
 ```
-```vb
-Public WriteOnly Property FontName As String
-	Set
-```
-```cpp
-public:
-property String^ FontName {
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

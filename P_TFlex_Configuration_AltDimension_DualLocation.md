@@ -8,18 +8,8 @@
 ```csharp
 public DualLocationType DualLocation { get; set; }
 ```
-```vb
-Public Property DualLocation As DualLocationType
-	Get
-	Set
-```
-```cpp
-public:
-property DualLocationType DualLocation {
-	DualLocationType get ();
-	void set (DualLocationType value);
-}
-```
+
+
 
 
 #### Значение свойства

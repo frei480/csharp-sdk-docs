@@ -11,18 +11,8 @@
 ```csharp
 public RoughnessSymbolLeaderType LeaderDirection { get; set; }
 ```
-```vb
-Public Property LeaderDirection As RoughnessSymbolLeaderType
-	Get
-	Set
-```
-```cpp
-public:
-property RoughnessSymbolLeaderType LeaderDirection {
-	RoughnessSymbolLeaderType get ();
-	void set (RoughnessSymbolLeaderType value);
-}
-```
+
+
 
 
 #### Значение свойства

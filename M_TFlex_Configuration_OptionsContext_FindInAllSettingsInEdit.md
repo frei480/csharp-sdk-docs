@@ -10,17 +10,8 @@ public SettingsGroup FindInAllSettingsInEdit(
 	ModelObject object
 )
 ```
-```vb
-Public Function FindInAllSettingsInEdit ( 
-	object As ModelObject
-) As SettingsGroup
-```
-```cpp
-public:
-SettingsGroup^ FindInAllSettingsInEdit(
-	ModelObject^ object
-)
-```
+
+
 
 
 #### Параметры

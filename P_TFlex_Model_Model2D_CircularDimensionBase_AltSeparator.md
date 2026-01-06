@@ -11,18 +11,8 @@
 ```csharp
 public DimensionAltDimSeparatorType AltSeparator { get; set; }
 ```
-```vb
-Public Property AltSeparator As DimensionAltDimSeparatorType
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionAltDimSeparatorType AltSeparator {
-	DimensionAltDimSeparatorType get ();
-	void set (DimensionAltDimSeparatorType value);
-}
-```
+
+
 
 
 #### Значение свойства

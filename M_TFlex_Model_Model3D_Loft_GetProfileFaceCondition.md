@@ -14,19 +14,8 @@ public LoftFaceCondition GetProfileFaceCondition(
 	int profileFaceConditionIndex
 )
 ```
-```vb
-Public Function GetProfileFaceCondition ( 
-	profileIndex As Integer,
-	profileFaceConditionIndex As Integer
-) As LoftFaceCondition
-```
-```cpp
-public:
-LoftFaceCondition^ GetProfileFaceCondition(
-	int profileIndex, 
-	int profileFaceConditionIndex
-)
-```
+
+
 
 
 #### Параметры

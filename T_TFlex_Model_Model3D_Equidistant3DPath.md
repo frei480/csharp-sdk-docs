@@ -13,13 +13,8 @@
 ```csharp
 public class Equidistant3DPath : Path3D
 ```
-```vb
-Public Class Equidistant3DPath
-	Inherits Path3D
-```
-```cpp
-public ref class Equidistant3DPath : public Path3D
-```
+
+
 
 
 Тип Equidistant3DPath предоставляет следующие члены.

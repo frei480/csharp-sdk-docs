@@ -11,16 +11,8 @@
 ```csharp
 public ExportVariables ExportVariables { get; }
 ```
-```vb
-Public ReadOnly Property ExportVariables As ExportVariables
-	Get
-```
-```cpp
-public:
-property ExportVariables^ ExportVariables {
-	ExportVariables^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

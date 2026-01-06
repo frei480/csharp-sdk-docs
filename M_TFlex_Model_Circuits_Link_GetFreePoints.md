@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerable<Point> GetFreePoints()
 ```
-```vb
-Public Function GetFreePoints As IEnumerable(Of Point)
-```
-```cpp
-public:
-IEnumerable<Point>^ GetFreePoints()
-```
+
+
 
 
 #### Возвращаемое значение

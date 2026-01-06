@@ -11,16 +11,8 @@
 ```csharp
 public View ActiveView { get; }
 ```
-```vb
-Public ReadOnly Property ActiveView As View
-	Get
-```
-```cpp
-public:
-property View^ ActiveView {
-	View^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

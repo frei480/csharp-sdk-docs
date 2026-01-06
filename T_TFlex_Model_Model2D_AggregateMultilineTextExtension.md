@@ -11,14 +11,8 @@
 ```csharp
 public class AggregateMultilineTextExtension
 ```
-```vb
-<ExtensionAttribute>
-Public Class AggregateMultilineTextExtension
-```
-```cpp
-[ExtensionAttribute]
-public ref class AggregateMultilineTextExtension
-```
+
+
 
 
 Тип AggregateMultilineTextExtension предоставляет следующие члены.

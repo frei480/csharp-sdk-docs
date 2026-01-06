@@ -14,15 +14,8 @@
 public class SphereSurface : Surface, 
 	BaseSphereSurface
 ```
-```vb
-Public Class SphereSurface
-	Inherits Surface
-	Implements BaseSphereSurface
-```
-```cpp
-public ref class SphereSurface : public Surface, 
-	BaseSphereSurface
-```
+
+
 
 
 Тип SphereSurface предоставляет следующие члены.

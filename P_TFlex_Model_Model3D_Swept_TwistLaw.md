@@ -11,16 +11,8 @@
 ```csharp
 public TableFunction TwistLaw { get; }
 ```
-```vb
-Public ReadOnly Property TwistLaw As TableFunction
-	Get
-```
-```cpp
-public:
-property TableFunction^ TwistLaw {
-	TableFunction^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

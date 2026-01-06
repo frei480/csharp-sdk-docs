@@ -11,18 +11,8 @@
 ```csharp
 public CylinderWorkSurfaceParamType Param { get; set; }
 ```
-```vb
-Public Property Param As CylinderWorkSurfaceParamType
-	Get
-	Set
-```
-```cpp
-public:
-property CylinderWorkSurfaceParamType Param {
-	CylinderWorkSurfaceParamType get ();
-	void set (CylinderWorkSurfaceParamType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -16,23 +16,8 @@ public void SetNodeTangentToTwoLines(
 	int variant
 )
 ```
-```vb
-Public Sub SetNodeTangentToTwoLines ( 
-	srcNode As Node,
-	srcLine1 As Construction,
-	srcLine2 As Construction,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetNodeTangentToTwoLines(
-	Node^ srcNode, 
-	Construction^ srcLine1, 
-	Construction^ srcLine2, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

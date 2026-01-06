@@ -11,18 +11,8 @@
 ```csharp
 public Node3D HelpPoint { get; set; }
 ```
-```vb
-Public Property HelpPoint As Node3D
-	Get
-	Set
-```
-```cpp
-public:
-property Node3D^ HelpPoint {
-	Node3D^ get ();
-	void set (Node3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

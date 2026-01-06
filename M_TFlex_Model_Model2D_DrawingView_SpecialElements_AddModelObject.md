@@ -13,17 +13,8 @@ public DrawingViewSpecialElement AddModelObject(
 	Object2D object2D
 )
 ```
-```vb
-Public Function AddModelObject ( 
-	object2D As Object2D
-) As DrawingViewSpecialElement
-```
-```cpp
-public:
-DrawingViewSpecialElement^ AddModelObject(
-	Object2D^ object2D
-)
-```
+
+
 
 
 #### Параметры

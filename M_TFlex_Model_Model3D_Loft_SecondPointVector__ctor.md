@@ -14,19 +14,8 @@ public SecondPointVector(
 	Parameter magnitude
 )
 ```
-```vb
-Public Sub New ( 
-	secondPoint As ModelPoint3D,
-	magnitude As Parameter
-)
-```
-```cpp
-public:
-SecondPointVector(
-	ModelPoint3D^ secondPoint, 
-	Parameter^ magnitude
-)
-```
+
+
 
 
 #### Параметры

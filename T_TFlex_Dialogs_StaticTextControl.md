@@ -13,13 +13,8 @@
 ```csharp
 public class StaticTextControl : BaseControl
 ```
-```vb
-Public Class StaticTextControl
-	Inherits BaseControl
-```
-```cpp
-public ref class StaticTextControl : public BaseControl
-```
+
+
 
 
 Тип StaticTextControl предоставляет следующие члены.

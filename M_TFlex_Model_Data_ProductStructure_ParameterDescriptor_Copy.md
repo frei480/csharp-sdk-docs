@@ -8,13 +8,8 @@
 ```csharp
 public ParameterDescriptor Copy()
 ```
-```vb
-Public Function Copy As ParameterDescriptor
-```
-```cpp
-public:
-ParameterDescriptor^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

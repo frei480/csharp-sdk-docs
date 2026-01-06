@@ -11,16 +11,8 @@
 ```csharp
 public ModelAxis SurfaceNormalAxis { get; }
 ```
-```vb
-Public ReadOnly Property SurfaceNormalAxis As ModelAxis
-	Get
-```
-```cpp
-public:
-property ModelAxis^ SurfaceNormalAxis {
-	ModelAxis^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

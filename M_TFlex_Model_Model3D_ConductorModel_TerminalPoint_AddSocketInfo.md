@@ -11,19 +11,8 @@ public SocketInfo AddSocketInfo(
 	bool isInternal
 )
 ```
-```vb
-Public Function AddSocketInfo ( 
-	element As Element,
-	isInternal As Boolean
-) As SocketInfo
-```
-```cpp
-public:
-SocketInfo^ AddSocketInfo(
-	Element^ element, 
-	bool isInternal
-)
-```
+
+
 
 
 #### Параметры

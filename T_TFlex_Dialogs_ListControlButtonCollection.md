@@ -13,13 +13,8 @@
 ```csharp
 public class ListControlButtonCollection : Collection<ListControlButton>
 ```
-```vb
-Public Class ListControlButtonCollection
-	Inherits Collection(Of ListControlButton)
-```
-```cpp
-public ref class ListControlButtonCollection : public Collection<ListControlButton^>
-```
+
+
 
 
 Тип ListControlButtonCollection предоставляет следующие члены.

@@ -17,25 +17,8 @@ public AxisOutline(
 	Outline limit2
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	source1 As Outline,
-	source2 As Outline,
-	limit1 As Outline,
-	limit2 As Outline
-)
-```
-```cpp
-public:
-AxisOutline(
-	Document^ document, 
-	Outline^ source1, 
-	Outline^ source2, 
-	Outline^ limit1, 
-	Outline^ limit2
-)
-```
+
+
 
 
 #### Параметры

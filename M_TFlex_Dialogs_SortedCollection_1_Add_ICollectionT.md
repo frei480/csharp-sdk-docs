@@ -10,17 +10,8 @@ internal virtual void Add_ICollectionT(
 	T item
 )
 ```
-```vb
-Friend Overridable Sub Add_ICollectionT ( 
-	item As T
-)
-```
-```cpp
-internal:
-virtual void Add_ICollectionT(
-	T item
-)
-```
+
+
 
 
 #### Параметры

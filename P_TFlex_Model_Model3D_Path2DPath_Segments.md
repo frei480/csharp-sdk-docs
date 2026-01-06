@@ -11,16 +11,8 @@
 ```csharp
 public Path2DPathSegmentsSet Segments { get; }
 ```
-```vb
-Public ReadOnly Property Segments As Path2DPathSegmentsSet
-	Get
-```
-```cpp
-public:
-property Path2DPathSegmentsSet^ Segments {
-	Path2DPathSegmentsSet^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

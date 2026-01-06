@@ -11,18 +11,8 @@
 ```csharp
 public bool UseLineExtension { get; set; }
 ```
-```vb
-Public Property UseLineExtension As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseLineExtension {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

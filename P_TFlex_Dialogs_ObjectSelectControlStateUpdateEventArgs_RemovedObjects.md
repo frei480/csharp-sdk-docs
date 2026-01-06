@@ -11,16 +11,8 @@
 ```csharp
 public Collection<ObjectSelectControlRemovedObject> RemovedObjects { get; }
 ```
-```vb
-Public ReadOnly Property RemovedObjects As Collection(Of ObjectSelectControlRemovedObject)
-	Get
-```
-```cpp
-public:
-property Collection<ObjectSelectControlRemovedObject>^ RemovedObjects {
-	Collection<ObjectSelectControlRemovedObject>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

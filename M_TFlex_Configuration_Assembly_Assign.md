@@ -10,17 +10,8 @@ public void Assign(
 	Assembly source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Assembly
-)
-```
-```cpp
-public:
-void Assign(
-	Assembly^ source
-)
-```
+
+
 
 
 #### Параметры

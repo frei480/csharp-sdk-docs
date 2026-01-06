@@ -14,15 +14,8 @@
 public sealed class ModelSheet : ModelContour, 
 	Sheet
 ```
-```vb
-Public NotInheritable Class ModelSheet
-	Inherits ModelContour
-	Implements Sheet
-```
-```cpp
-public ref class ModelSheet sealed : public ModelContour, 
-	Sheet
-```
+
+
 
 
 Тип ModelSheet предоставляет следующие члены.

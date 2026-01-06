@@ -8,18 +8,8 @@
 ```csharp
 public int SelectedLastPoint { get; set; }
 ```
-```vb
-Public Property SelectedLastPoint As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SelectedLastPoint {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

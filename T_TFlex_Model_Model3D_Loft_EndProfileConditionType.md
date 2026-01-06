@@ -11,12 +11,8 @@
 ```csharp
 public enum EndProfileConditionType
 ```
-```vb
-Public Enumeration EndProfileConditionType
-```
-```cpp
-public enum class EndProfileConditionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

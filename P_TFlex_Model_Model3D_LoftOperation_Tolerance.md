@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Tolerance { get; set; }
 ```
-```vb
-Public Property Tolerance As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Tolerance {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

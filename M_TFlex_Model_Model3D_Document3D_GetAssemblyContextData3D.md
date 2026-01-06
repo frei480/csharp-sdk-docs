@@ -11,19 +11,8 @@ public static AssemblyContextData3D GetAssemblyContextData3D(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetAssemblyContextData3D ( 
-	document As Document
-) As AssemblyContextData3D
-```
-```cpp
-public:
-[ExtensionAttribute]
-static AssemblyContextData3D^ GetAssemblyContextData3D(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter AxisLineColor { get; set; }
 ```
-```vb
-Public Property AxisLineColor As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ AxisLineColor {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

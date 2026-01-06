@@ -13,12 +13,8 @@
 ```csharp
 public sealed class EndChangesOptions
 ```
-```vb
-Public NotInheritable Class EndChangesOptions
-```
-```cpp
-public ref class EndChangesOptions sealed
-```
+
+
 
 
 Тип EndChangesOptions предоставляет следующие члены.

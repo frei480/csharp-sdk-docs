@@ -11,18 +11,8 @@
 ```csharp
 public Rectangle? PageRectangle { get; set; }
 ```
-```vb
-Public Property PageRectangle As Rectangle?
-	Get
-	Set
-```
-```cpp
-public:
-property Nullable<Rectangle> PageRectangle {
-	Nullable<Rectangle> get ();
-	void set (Nullable<Rectangle> value);
-}
-```
+
+
 
 
 #### Значение свойства

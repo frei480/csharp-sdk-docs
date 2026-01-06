@@ -11,12 +11,8 @@
 ```csharp
 public enum LoftCutType
 ```
-```vb
-Public Enumeration LoftCutType
-```
-```cpp
-public enum class LoftCutType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

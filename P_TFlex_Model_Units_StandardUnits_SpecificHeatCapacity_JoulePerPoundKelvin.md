@@ -13,16 +13,8 @@
 ```csharp
 public static Unit JoulePerPoundKelvin { get; }
 ```
-```vb
-Public Shared ReadOnly Property JoulePerPoundKelvin As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ JoulePerPoundKelvin {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

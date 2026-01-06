@@ -11,19 +11,8 @@ public static bool operator ==(
 	UnitType rightUnitType
 )
 ```
-```vb
-Public Shared Operator = ( 
-	leftUnitType As UnitType,
-	rightUnitType As UnitType
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	UnitType^ leftUnitType, 
-	UnitType^ rightUnitType
-)
-```
+
+
 
 
 #### Параметры

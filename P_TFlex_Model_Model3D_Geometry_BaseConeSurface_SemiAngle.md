@@ -11,15 +11,8 @@
 ```csharp
 double SemiAngle { get; }
 ```
-```vb
-ReadOnly Property SemiAngle As Double
-	Get
-```
-```cpp
-property double SemiAngle {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

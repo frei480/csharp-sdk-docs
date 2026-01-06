@@ -11,13 +11,8 @@
 ```csharp
 public void EndGroup()
 ```
-```vb
-Public Sub EndGroup
-```
-```cpp
-public:
-void EndGroup()
-```
+
+
 
 
 Этот метод закрывает группу сообщений, открытых с помощью метода [StartGroup](M_TFlex_Model_Diagnostics_StartGroup.md).

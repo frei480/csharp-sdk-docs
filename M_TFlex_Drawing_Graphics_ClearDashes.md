@@ -11,13 +11,8 @@
 ```csharp
 public void ClearDashes()
 ```
-```vb
-Public Sub ClearDashes
-```
-```cpp
-public:
-void ClearDashes()
-```
+
+
 
 
 Последующее добавление штрихов и пробелов осуществляется при помощи методов [AddDashLine(Double)](M_TFlex_Drawing_Graphics_AddDashLine.md) и [AddDashSpace(Double)](M_TFlex_Drawing_Graphics_AddDashSpace.md)

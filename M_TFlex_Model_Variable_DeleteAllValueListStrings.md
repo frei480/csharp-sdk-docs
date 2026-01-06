@@ -11,13 +11,8 @@
 ```csharp
 public bool DeleteAllValueListStrings()
 ```
-```vb
-Public Function DeleteAllValueListStrings As Boolean
-```
-```cpp
-public:
-bool DeleteAllValueListStrings()
-```
+
+
 
 
 #### Возвращаемое значение

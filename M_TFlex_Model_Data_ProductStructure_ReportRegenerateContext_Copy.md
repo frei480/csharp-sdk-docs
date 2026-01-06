@@ -8,13 +8,8 @@
 ```csharp
 public ReportRegenerateContext Copy()
 ```
-```vb
-Public Function Copy As ReportRegenerateContext
-```
-```cpp
-public:
-ReportRegenerateContext^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

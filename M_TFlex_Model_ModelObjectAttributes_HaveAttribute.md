@@ -13,17 +13,8 @@ public bool HaveAttribute(
 	string attribName
 )
 ```
-```vb
-Public Function HaveAttribute ( 
-	attribName As String
-) As Boolean
-```
-```cpp
-public:
-bool HaveAttribute(
-	String^ attribName
-)
-```
+
+
 
 
 #### Параметры

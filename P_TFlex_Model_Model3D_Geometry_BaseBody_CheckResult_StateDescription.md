@@ -11,16 +11,8 @@
 ```csharp
 public string StateDescription { get; }
 ```
-```vb
-Public ReadOnly Property StateDescription As String
-	Get
-```
-```cpp
-public:
-property String^ StateDescription {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

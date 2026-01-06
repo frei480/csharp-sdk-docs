@@ -13,17 +13,8 @@ public void SetHorizontal(
 	Parameter distance
 )
 ```
-```vb
-Public Sub SetHorizontal ( 
-	distance As Parameter
-)
-```
-```cpp
-public:
-void SetHorizontal(
-	Parameter^ distance
-)
-```
+
+
 
 
 #### Параметры

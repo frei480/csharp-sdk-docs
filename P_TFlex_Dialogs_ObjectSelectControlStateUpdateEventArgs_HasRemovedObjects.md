@@ -11,16 +11,8 @@
 ```csharp
 public bool HasRemovedObjects { get; }
 ```
-```vb
-Public ReadOnly Property HasRemovedObjects As Boolean
-	Get
-```
-```cpp
-public:
-property bool HasRemovedObjects {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

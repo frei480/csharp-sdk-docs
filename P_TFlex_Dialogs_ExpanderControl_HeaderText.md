@@ -11,18 +11,8 @@
 ```csharp
 public string HeaderText { get; set; }
 ```
-```vb
-Public Property HeaderText As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ HeaderText {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

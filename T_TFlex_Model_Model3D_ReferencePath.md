@@ -13,13 +13,8 @@
 ```csharp
 public class ReferencePath : Path3D
 ```
-```vb
-Public Class ReferencePath
-	Inherits Path3D
-```
-```cpp
-public ref class ReferencePath : public Path3D
-```
+
+
 
 
 Тип ReferencePath предоставляет следующие члены.

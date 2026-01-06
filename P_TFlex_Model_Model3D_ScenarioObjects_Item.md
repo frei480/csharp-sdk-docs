@@ -10,18 +10,8 @@ public ObjectId this[
 	uint index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As UInteger
-) As ObjectId
-	Get
-```
-```cpp
-public:
-property ObjectId^ default[unsigned int index] {
-	ObjectId^ get (unsigned int index);
-}
-```
+
+
 
 
 #### Параметры

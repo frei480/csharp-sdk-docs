@@ -15,21 +15,8 @@ public ReferenceDatabase(
 	string tableName
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	fileLink As FileLink,
-	tableName As String
-)
-```
-```cpp
-public:
-ReferenceDatabase(
-	Document^ document, 
-	FileLink^ fileLink, 
-	String^ tableName
-)
-```
+
+
 
 
 #### Параметры

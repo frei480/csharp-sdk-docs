@@ -14,19 +14,8 @@ public void SetPoint(
 	Parameter y
 )
 ```
-```vb
-Public Sub SetPoint ( 
-	x As Parameter,
-	y As Parameter
-)
-```
-```cpp
-public:
-void SetPoint(
-	Parameter^ x, 
-	Parameter^ y
-)
-```
+
+
 
 
 #### Параметры

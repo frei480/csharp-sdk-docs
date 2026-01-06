@@ -14,14 +14,8 @@
 public class PositionsRow : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class PositionsRow
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class PositionsRow : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип SurfaceSplinewiseDataPositionsPositionsRow предоставляет следующие члены.

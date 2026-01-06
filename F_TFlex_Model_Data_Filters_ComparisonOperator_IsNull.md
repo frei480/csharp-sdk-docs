@@ -11,13 +11,8 @@
 ```csharp
 public static readonly ComparisonOperator IsNull
 ```
-```vb
-Public Shared ReadOnly IsNull As ComparisonOperator
-```
-```cpp
-public:
-static initonly ComparisonOperator^ IsNull
-```
+
+
 
 
 #### Значение поля

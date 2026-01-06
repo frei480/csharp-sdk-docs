@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter LineThickness { get; set; }
 ```
-```vb
-Public Property LineThickness As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ LineThickness {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

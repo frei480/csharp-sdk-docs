@@ -13,23 +13,8 @@ public bool AddSleeve(
 	bool firstOrLastPoint
 )
 ```
-```vb
-Public Function AddSleeve ( 
-	segment As Segment,
-	paramByLength As Double,
-	sleeveFileName As String,
-	firstOrLastPoint As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool AddSleeve(
-	Segment^ segment, 
-	double paramByLength, 
-	String^ sleeveFileName, 
-	bool firstOrLastPoint
-)
-```
+
+
 
 
 #### Параметры

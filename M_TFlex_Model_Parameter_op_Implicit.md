@@ -13,16 +13,8 @@ public static implicit operator Parameter (
 	double value
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	value As Double
-) As Parameter
-```
-```cpp
-static implicit operator Parameter^ (
-	double value
-)
-```
+
+
 
 
 #### Параметры

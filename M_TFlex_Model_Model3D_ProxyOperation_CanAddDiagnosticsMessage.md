@@ -11,13 +11,8 @@
 ```csharp
 public override bool CanAddDiagnosticsMessage()
 ```
-```vb
-Public Overrides Function CanAddDiagnosticsMessage As Boolean
-```
-```cpp
-public:
-virtual bool CanAddDiagnosticsMessage() override
-```
+
+
 
 
 #### Возвращаемое значение

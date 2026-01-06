@@ -11,18 +11,8 @@
 ```csharp
 public bool MergeAdjacent { get; set; }
 ```
-```vb
-Public Property MergeAdjacent As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool MergeAdjacent {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

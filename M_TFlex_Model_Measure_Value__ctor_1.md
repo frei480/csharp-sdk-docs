@@ -15,21 +15,8 @@ public Value(
 	string value
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	description As String,
-	value As String
-)
-```
-```cpp
-public:
-Value(
-	String^ name, 
-	String^ description, 
-	String^ value
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public bool UpdateDetail()
 ```
-```vb
-Public Function UpdateDetail As Boolean
-```
-```cpp
-public:
-bool UpdateDetail()
-```
+
+
 
 
 #### Возвращаемое значение

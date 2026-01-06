@@ -11,18 +11,8 @@
 ```csharp
 public Construction CenterConstruction { get; set; }
 ```
-```vb
-Public Property CenterConstruction As Construction
-	Get
-	Set
-```
-```cpp
-public:
-property Construction^ CenterConstruction {
-	Construction^ get ();
-	void set (Construction^ value);
-}
-```
+
+
 
 
 #### Значение свойства

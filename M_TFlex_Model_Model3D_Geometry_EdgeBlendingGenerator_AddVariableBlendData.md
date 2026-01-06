@@ -21,33 +21,8 @@ public void AddVariableBlendData(
 	double[] vradDataRHO
 )
 ```
-```vb
-Public Sub AddVariableBlendData ( 
-	entity As BaseTopol,
-	startsetback As Double,
-	endsetback As Double,
-	BlndStatus As Integer,
-	szvardata As Integer,
-	varBlndParam As Double(),
-	vradDataL As Double(),
-	vradDataR As Double(),
-	vradDataRHO As Double()
-)
-```
-```cpp
-public:
-void AddVariableBlendData(
-	BaseTopol^ entity, 
-	double startsetback, 
-	double endsetback, 
-	int BlndStatus, 
-	int szvardata, 
-	array<double>^ varBlndParam, 
-	array<double>^ vradDataL, 
-	array<double>^ vradDataR, 
-	array<double>^ vradDataRHO
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter AltMinDigits { get; set; }
 ```
-```vb
-Public Property AltMinDigits As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ AltMinDigits {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

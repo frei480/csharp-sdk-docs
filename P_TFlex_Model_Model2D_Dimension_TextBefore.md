@@ -11,18 +11,8 @@
 ```csharp
 public string TextBefore { get; set; }
 ```
-```vb
-Public Property TextBefore As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TextBefore {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

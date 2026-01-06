@@ -11,12 +11,8 @@
 ```csharp
 public enum IntersectionType
 ```
-```vb
-Public Enumeration IntersectionType
-```
-```cpp
-public enum class IntersectionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

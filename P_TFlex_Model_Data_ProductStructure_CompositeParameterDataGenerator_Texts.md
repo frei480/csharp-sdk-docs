@@ -8,18 +8,8 @@
 ```csharp
 public List<string> Texts { get; set; }
 ```
-```vb
-Public Property Texts As List(Of String)
-	Get
-	Set
-```
-```cpp
-public:
-property List<String^>^ Texts {
-	List<String^>^ get ();
-	void set (List<String^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public sealed class FragmentIdChain : IEnumerable<ObjectId>
 ```
-```vb
-Public NotInheritable Class FragmentIdChain
-	Implements IEnumerable(Of ObjectId)
-```
-```cpp
-public ref class FragmentIdChain sealed : IEnumerable<ObjectId^>
-```
+
+
 
 
 Тип FragmentIdChain предоставляет следующие члены.

@@ -10,17 +10,8 @@ public string GetAttributeValue(
 	string attributeName
 )
 ```
-```vb
-Public Function GetAttributeValue ( 
-	attributeName As String
-) As String
-```
-```cpp
-public:
-String^ GetAttributeValue(
-	String^ attributeName
-)
-```
+
+
 
 
 #### Параметры

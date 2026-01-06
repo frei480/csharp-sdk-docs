@@ -11,12 +11,8 @@
 ```csharp
 public class OptionsContext
 ```
-```vb
-Public Class OptionsContext
-```
-```cpp
-public ref class OptionsContext
-```
+
+
 
 
 Тип OptionsContext предоставляет следующие члены.

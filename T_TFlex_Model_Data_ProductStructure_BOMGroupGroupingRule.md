@@ -11,13 +11,8 @@
 ```csharp
 public class BOMGroupGroupingRule : IGroupingRule
 ```
-```vb
-Public Class BOMGroupGroupingRule
-	Inherits IGroupingRule
-```
-```cpp
-public ref class BOMGroupGroupingRule : public IGroupingRule
-```
+
+
 
 
 Тип BOMGroupGroupingRule предоставляет следующие члены.

@@ -13,17 +13,8 @@ public static Script LoadFromFile(
 	string filePath
 )
 ```
-```vb
-Public Shared Function LoadFromFile ( 
-	filePath As String
-) As Script
-```
-```cpp
-public:
-static Script^ LoadFromFile(
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

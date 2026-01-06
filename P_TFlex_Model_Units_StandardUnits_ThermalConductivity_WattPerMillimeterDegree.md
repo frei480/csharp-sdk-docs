@@ -13,16 +13,8 @@
 ```csharp
 public static Unit WattPerMillimeterDegree { get; }
 ```
-```vb
-Public Shared ReadOnly Property WattPerMillimeterDegree As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ WattPerMillimeterDegree {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

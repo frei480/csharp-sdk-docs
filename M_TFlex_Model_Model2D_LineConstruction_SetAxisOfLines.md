@@ -15,21 +15,8 @@ public void SetAxisOfLines(
 	int variant
 )
 ```
-```vb
-Public Sub SetAxisOfLines ( 
-	srcLine1 As Construction,
-	srcLine2 As Construction,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetAxisOfLines(
-	Construction^ srcLine1, 
-	Construction^ srcLine2, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

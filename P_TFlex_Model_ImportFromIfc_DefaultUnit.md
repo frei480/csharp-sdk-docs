@@ -11,18 +11,8 @@
 ```csharp
 public ImportIfcDefaultUnit DefaultUnit { get; set; }
 ```
-```vb
-Public Property DefaultUnit As ImportIfcDefaultUnit
-	Get
-	Set
-```
-```cpp
-public:
-property ImportIfcDefaultUnit DefaultUnit {
-	ImportIfcDefaultUnit get ();
-	void set (ImportIfcDefaultUnit value);
-}
-```
+
+
 
 
 #### Значение свойства

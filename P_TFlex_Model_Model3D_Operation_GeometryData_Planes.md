@@ -8,16 +8,8 @@
 ```csharp
 public IEnumerable<ModelPlane> Planes { get; }
 ```
-```vb
-Public ReadOnly Property Planes As IEnumerable(Of ModelPlane)
-	Get
-```
-```cpp
-public:
-property IEnumerable<ModelPlane^>^ Planes {
-	IEnumerable<ModelPlane^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

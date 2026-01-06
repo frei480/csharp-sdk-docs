@@ -11,18 +11,8 @@
 ```csharp
 public bool IsService { get; set; }
 ```
-```vb
-Public Property IsService As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsService {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

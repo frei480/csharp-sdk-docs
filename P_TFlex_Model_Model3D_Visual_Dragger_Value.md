@@ -11,18 +11,8 @@
 ```csharp
 public virtual double Value { get; set; }
 ```
-```vb
-Public Overridable Property Value As Double
-	Get
-	Set
-```
-```cpp
-public:
-virtual property double Value {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

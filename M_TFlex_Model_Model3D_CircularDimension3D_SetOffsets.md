@@ -14,19 +14,8 @@ public void SetOffsets(
 	double offset
 )
 ```
-```vb
-Public Sub SetOffsets ( 
-	angle As Double,
-	offset As Double
-)
-```
-```cpp
-public:
-void SetOffsets(
-	double angle, 
-	double offset
-)
-```
+
+
 
 
 #### Параметры

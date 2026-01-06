@@ -11,18 +11,8 @@
 ```csharp
 public bool IsPolyline { get; set; }
 ```
-```vb
-Public Property IsPolyline As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsPolyline {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

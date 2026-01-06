@@ -13,12 +13,8 @@
 ```csharp
 public class ObjectKnotList
 ```
-```vb
-Public Class ObjectKnotList
-```
-```cpp
-public ref class ObjectKnotList
-```
+
+
 
 
 Тип ObjectKnotList предоставляет следующие члены.

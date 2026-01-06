@@ -10,17 +10,8 @@ public void AddRange(
 	IEnumerable<RunResultEntry> entries
 )
 ```
-```vb
-Public Sub AddRange ( 
-	entries As IEnumerable(Of RunResultEntry)
-)
-```
-```cpp
-public:
-void AddRange(
-	IEnumerable<RunResultEntry^>^ entries
-)
-```
+
+
 
 
 #### Параметры

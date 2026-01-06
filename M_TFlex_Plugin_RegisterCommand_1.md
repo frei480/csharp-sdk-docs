@@ -16,23 +16,8 @@ protected void RegisterCommand(
 	Icon largeIcon
 )
 ```
-```vb
-Protected Sub RegisterCommand ( 
-	id As Integer,
-	prompt As String,
-	smallIcon As Icon,
-	largeIcon As Icon
-)
-```
-```cpp
-protected:
-void RegisterCommand(
-	int id, 
-	String^ prompt, 
-	Icon^ smallIcon, 
-	Icon^ largeIcon
-)
-```
+
+
 
 
 #### Параметры

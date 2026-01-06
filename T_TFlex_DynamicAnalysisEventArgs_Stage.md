@@ -11,12 +11,8 @@
 ```csharp
 public enum Stage
 ```
-```vb
-Public Enumeration Stage
-```
-```cpp
-public enum class Stage
-```
+
+
 
 
 | Имя члена | Значение | Описание |

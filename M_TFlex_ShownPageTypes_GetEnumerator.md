@@ -8,13 +8,8 @@
 ```csharp
 public IEnumerator<PageType> GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As IEnumerator(Of PageType)
-```
-```cpp
-public:
-virtual IEnumerator<PageType>^ GetEnumerator() sealed
-```
+
+
 
 
 #### Возвращаемое значение

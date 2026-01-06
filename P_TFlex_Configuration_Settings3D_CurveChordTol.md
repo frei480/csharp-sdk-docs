@@ -8,18 +8,8 @@
 ```csharp
 public double CurveChordTol { get; set; }
 ```
-```vb
-Public Property CurveChordTol As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double CurveChordTol {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public int Min { get; set; }
 ```
-```vb
-Public Property Min As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int Min {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

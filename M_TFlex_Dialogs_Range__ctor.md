@@ -14,19 +14,8 @@ public Range(
 	double maxValue
 )
 ```
-```vb
-Public Sub New ( 
-	minValue As Double,
-	maxValue As Double
-)
-```
-```cpp
-public:
-Range(
-	double minValue, 
-	double maxValue
-)
-```
+
+
 
 
 #### Параметры

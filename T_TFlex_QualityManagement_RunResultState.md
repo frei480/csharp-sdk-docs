@@ -11,12 +11,8 @@
 ```csharp
 public enum RunResultState
 ```
-```vb
-Public Enumeration RunResultState
-```
-```cpp
-public enum class RunResultState
-```
+
+
 
 
 | Имя члена | Значение | Описание |

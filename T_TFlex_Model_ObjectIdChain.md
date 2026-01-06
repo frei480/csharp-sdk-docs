@@ -11,12 +11,8 @@
 ```csharp
 public sealed class ObjectIdChain
 ```
-```vb
-Public NotInheritable Class ObjectIdChain
-```
-```cpp
-public ref class ObjectIdChain sealed
-```
+
+
 
 
 Тип ObjectIdChain предоставляет следующие члены.

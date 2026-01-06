@@ -13,17 +13,8 @@ public Document CreatePart(
 	BodyPartCreatePartOptions options
 )
 ```
-```vb
-Public Function CreatePart ( 
-	options As BodyPartCreatePartOptions
-) As Document
-```
-```cpp
-public:
-Document^ CreatePart(
-	BodyPartCreatePartOptions options
-)
-```
+
+
 
 
 #### Параметры

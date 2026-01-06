@@ -15,21 +15,8 @@ public ModelObject GetClosestObject(
 	SelectionFilter filter
 )
 ```
-```vb
-Public Function GetClosestObject ( 
-	point As Point,
-	page As Page,
-	filter As SelectionFilter
-) As ModelObject
-```
-```cpp
-public:
-ModelObject^ GetClosestObject(
-	Point point, 
-	Page^ page, 
-	SelectionFilter^ filter
-)
-```
+
+
 
 
 #### Параметры

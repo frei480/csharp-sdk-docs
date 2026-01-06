@@ -11,13 +11,8 @@
 ```csharp
 public class Performance3D : SettingsGroup
 ```
-```vb
-Public Class Performance3D
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Performance3D : public SettingsGroup
-```
+
+
 
 
 Тип Performance3D предоставляет следующие члены.

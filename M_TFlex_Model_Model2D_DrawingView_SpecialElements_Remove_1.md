@@ -13,17 +13,8 @@ public void Remove(
 	ObjectId objectId
 )
 ```
-```vb
-Public Sub Remove ( 
-	objectId As ObjectId
-)
-```
-```cpp
-public:
-void Remove(
-	ObjectId^ objectId
-)
-```
+
+
 
 
 #### Параметры

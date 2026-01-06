@@ -11,18 +11,8 @@
 ```csharp
 public SurfaceSplinewiseDataBoundaryConditionEndType Bound { get; set; }
 ```
-```vb
-Public Property Bound As SurfaceSplinewiseDataBoundaryConditionEndType
-	Get
-	Set
-```
-```cpp
-public:
-property SurfaceSplinewiseDataBoundaryConditionEndType Bound {
-	SurfaceSplinewiseDataBoundaryConditionEndType get ();
-	void set (SurfaceSplinewiseDataBoundaryConditionEndType value);
-}
-```
+
+
 
 
 #### Значение свойства

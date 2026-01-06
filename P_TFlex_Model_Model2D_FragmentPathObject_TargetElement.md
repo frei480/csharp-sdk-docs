@@ -11,16 +11,8 @@
 ```csharp
 public Object2D TargetElement { get; }
 ```
-```vb
-Public ReadOnly Property TargetElement As Object2D
-	Get
-```
-```cpp
-public:
-property Object2D^ TargetElement {
-	Object2D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

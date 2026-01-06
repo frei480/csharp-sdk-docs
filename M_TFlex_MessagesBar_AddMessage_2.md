@@ -13,17 +13,8 @@ public IntPtr AddMessage(
 	MessagesBarMessage message
 )
 ```
-```vb
-Public Function AddMessage ( 
-	message As MessagesBarMessage
-) As IntPtr
-```
-```cpp
-public:
-IntPtr AddMessage(
-	MessagesBarMessage^ message
-)
-```
+
+
 
 
 #### Параметры

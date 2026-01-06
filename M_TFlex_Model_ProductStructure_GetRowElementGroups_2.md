@@ -13,17 +13,8 @@ public ICollection<RowElementGroup> GetRowElementGroups(
 	int groupingIndex
 )
 ```
-```vb
-Public Function GetRowElementGroups ( 
-	groupingIndex As Integer
-) As ICollection(Of RowElementGroup)
-```
-```cpp
-public:
-ICollection<RowElementGroup^>^ GetRowElementGroups(
-	int groupingIndex
-)
-```
+
+
 
 
 #### Параметры

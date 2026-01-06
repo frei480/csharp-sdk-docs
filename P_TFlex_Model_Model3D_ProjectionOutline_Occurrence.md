@@ -8,16 +8,8 @@
 ```csharp
 public int Occurrence { get; }
 ```
-```vb
-Public ReadOnly Property Occurrence As Integer
-	Get
-```
-```cpp
-public:
-property int Occurrence {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

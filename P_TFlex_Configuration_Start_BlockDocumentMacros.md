@@ -8,18 +8,8 @@
 ```csharp
 public bool BlockDocumentMacros { get; set; }
 ```
-```vb
-Public Property BlockDocumentMacros As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool BlockDocumentMacros {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

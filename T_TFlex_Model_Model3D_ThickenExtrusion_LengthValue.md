@@ -11,12 +11,8 @@
 ```csharp
 public enum LengthValue
 ```
-```vb
-Public Enumeration LengthValue
-```
-```cpp
-public enum class LengthValue
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -8,12 +8,8 @@
 ```csharp
 public enum OrientationCoordinatesType
 ```
-```vb
-Public Enumeration OrientationCoordinatesType
-```
-```cpp
-public enum class OrientationCoordinatesType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

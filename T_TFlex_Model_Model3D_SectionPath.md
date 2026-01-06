@@ -13,13 +13,8 @@
 ```csharp
 public class SectionPath : Path3D
 ```
-```vb
-Public Class SectionPath
-	Inherits Path3D
-```
-```cpp
-public ref class SectionPath : public Path3D
-```
+
+
 
 
 Тип SectionPath предоставляет следующие члены.

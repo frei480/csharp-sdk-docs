@@ -11,13 +11,8 @@
 ```csharp
 public PropertyParameterProvider()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PropertyParameterProvider()
-```
+
+
 
 
 #### Ссылки

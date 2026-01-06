@@ -15,21 +15,8 @@ public void InsertText(
 	ParaFormat paraFormat
 )
 ```
-```vb
-Public Sub InsertText ( 
-	text As String,
-	charFormat As CharFormat,
-	paraFormat As ParaFormat
-)
-```
-```cpp
-public:
-void InsertText(
-	String^ text, 
-	CharFormat charFormat, 
-	ParaFormat paraFormat
-)
-```
+
+
 
 
 #### Параметры

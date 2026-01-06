@@ -11,16 +11,8 @@
 ```csharp
 public ImportFromParasolid ImportFromParasolid { get; }
 ```
-```vb
-Public ReadOnly Property ImportFromParasolid As ImportFromParasolid
-	Get
-```
-```cpp
-public:
-property ImportFromParasolid^ ImportFromParasolid {
-	ImportFromParasolid^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

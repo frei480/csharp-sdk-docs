@@ -11,13 +11,8 @@
 ```csharp
 public FilterOwnerExtensions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FilterOwnerExtensions()
-```
+
+
 
 
 #### Ссылки

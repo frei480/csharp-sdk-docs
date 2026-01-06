@@ -13,17 +13,8 @@ public virtual void Disable(
 	SelectableGeometryType type
 )
 ```
-```vb
-Public Overridable Sub Disable ( 
-	type As SelectableGeometryType
-)
-```
-```cpp
-public:
-virtual void Disable(
-	SelectableGeometryType type
-)
-```
+
+
 
 
 #### Параметры

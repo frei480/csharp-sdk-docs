@@ -14,19 +14,8 @@ public virtual Geometry GetGeomReference(
 	ModelObjectArrayIndices indices
 )
 ```
-```vb
-Public Overridable Function GetGeomReference ( 
-	id As Integer,
-	indices As ModelObjectArrayIndices
-) As Geometry
-```
-```cpp
-public:
-virtual Geometry^ GetGeomReference(
-	int id, 
-	ModelObjectArrayIndices^ indices
-)
-```
+
+
 
 
 #### Параметры

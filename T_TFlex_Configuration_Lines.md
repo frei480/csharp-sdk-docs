@@ -11,13 +11,8 @@
 ```csharp
 public class Lines : SettingsGroup
 ```
-```vb
-Public Class Lines
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Lines : public SettingsGroup
-```
+
+
 
 
 Тип Lines предоставляет следующие члены.

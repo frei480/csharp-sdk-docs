@@ -13,15 +13,8 @@
 ```csharp
 public sealed class Face : Topol, BaseFace
 ```
-```vb
-Public NotInheritable Class Face
-	Inherits Topol
-	Implements BaseFace
-```
-```cpp
-public ref class Face sealed : public Topol, 
-	BaseFace
-```
+
+
 
 
 Тип Face предоставляет следующие члены.

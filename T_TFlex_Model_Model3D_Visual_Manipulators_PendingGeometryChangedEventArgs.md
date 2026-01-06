@@ -11,13 +11,8 @@
 ```csharp
 public class PendingGeometryChangedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class PendingGeometryChangedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class PendingGeometryChangedEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип PendingGeometryChangedEventArgs предоставляет следующие члены.

@@ -11,19 +11,8 @@ public static NonStandardProjection CreateLegacy(
 	Workplane plane
 )
 ```
-```vb
-Public Shared Function CreateLegacy ( 
-	__unnamed000 As Document,
-	plane As Workplane
-) As NonStandardProjection
-```
-```cpp
-public:
-static NonStandardProjection^ CreateLegacy(
-	Document^ __unnamed000, 
-	Workplane^ plane
-)
-```
+
+
 
 
 #### Параметры

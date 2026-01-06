@@ -11,21 +11,8 @@ public static void SetUnit(
 	Unit unit
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SetUnit ( 
-	parameter As ParameterDescriptor,
-	unit As Unit
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SetUnit(
-	ParameterDescriptor^ parameter, 
-	Unit^ unit
-)
-```
+
+
 
 
 #### Параметры

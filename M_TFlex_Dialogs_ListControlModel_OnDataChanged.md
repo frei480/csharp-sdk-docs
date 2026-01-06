@@ -14,25 +14,8 @@ protected virtual void OnDataChanged(
 	IList<ListItemRole> roles
 )
 ```
-```vb
-Protected Overridable Sub OnDataChanged ( 
-	row As Integer,
-	rowCount As Integer,
-	column As Integer,
-	columnCount As Integer,
-	roles As IList(Of ListItemRole)
-)
-```
-```cpp
-protected:
-virtual void OnDataChanged(
-	int row, 
-	int rowCount, 
-	int column, 
-	int columnCount, 
-	IList<ListItemRole>^ roles
-)
-```
+
+
 
 
 #### Параметры

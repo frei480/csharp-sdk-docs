@@ -8,18 +8,8 @@
 ```csharp
 public bool RewriteExistingDoc { get; set; }
 ```
-```vb
-Public Property RewriteExistingDoc As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RewriteExistingDoc {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

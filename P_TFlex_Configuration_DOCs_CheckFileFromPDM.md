@@ -8,18 +8,8 @@
 ```csharp
 public CheckFileAction CheckFileFromPDM { get; set; }
 ```
-```vb
-Public Property CheckFileFromPDM As CheckFileAction
-	Get
-	Set
-```
-```cpp
-public:
-property CheckFileAction CheckFileFromPDM {
-	CheckFileAction get ();
-	void set (CheckFileAction value);
-}
-```
+
+
 
 
 #### Значение свойства

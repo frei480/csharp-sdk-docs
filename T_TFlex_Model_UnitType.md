@@ -11,12 +11,8 @@
 ```csharp
 public enum UnitType
 ```
-```vb
-Public Enumeration UnitType
-```
-```cpp
-public enum class UnitType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

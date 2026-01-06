@@ -11,15 +11,8 @@
 ```csharp
 SplineData Data { get; }
 ```
-```vb
-ReadOnly Property Data As SplineData
-	Get
-```
-```cpp
-property SplineData^ Data {
-	SplineData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

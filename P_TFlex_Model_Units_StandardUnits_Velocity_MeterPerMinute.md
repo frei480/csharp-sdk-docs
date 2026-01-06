@@ -13,16 +13,8 @@
 ```csharp
 public static Unit MeterPerMinute { get; }
 ```
-```vb
-Public Shared ReadOnly Property MeterPerMinute As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ MeterPerMinute {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

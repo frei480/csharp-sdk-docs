@@ -14,19 +14,8 @@ public void SetCircleAndNode(
 	Node srcNode
 )
 ```
-```vb
-Public Sub SetCircleAndNode ( 
-	srcCircle As Construction,
-	srcNode As Node
-)
-```
-```cpp
-public:
-void SetCircleAndNode(
-	Construction^ srcCircle, 
-	Node^ srcNode
-)
-```
+
+
 
 
 #### Параметры

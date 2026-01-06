@@ -11,18 +11,8 @@
 ```csharp
 public double Weight { get; set; }
 ```
-```vb
-Public Property Weight As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Weight {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

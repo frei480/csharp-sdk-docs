@@ -13,13 +13,8 @@
 ```csharp
 public class LineContourSegment : ContourSegment
 ```
-```vb
-Public Class LineContourSegment
-	Inherits ContourSegment
-```
-```cpp
-public ref class LineContourSegment : public ContourSegment
-```
+
+
 
 
 Тип LineContourSegment предоставляет следующие члены.

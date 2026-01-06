@@ -13,13 +13,8 @@
 ```csharp
 public class ObjectSelectControlReplaceObjectEventArgs : BaseEventArgs
 ```
-```vb
-Public Class ObjectSelectControlReplaceObjectEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class ObjectSelectControlReplaceObjectEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип ObjectSelectControlReplaceObjectEventArgs предоставляет следующие члены.

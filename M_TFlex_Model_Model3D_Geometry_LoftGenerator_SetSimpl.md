@@ -13,17 +13,8 @@ public void SetSimpl(
 	bool toset
 )
 ```
-```vb
-Public Sub SetSimpl ( 
-	toset As Boolean
-)
-```
-```cpp
-public:
-void SetSimpl(
-	bool toset
-)
-```
+
+
 
 
 #### Параметры

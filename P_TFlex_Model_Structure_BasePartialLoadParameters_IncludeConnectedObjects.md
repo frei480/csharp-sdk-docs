@@ -8,18 +8,8 @@
 ```csharp
 public bool IncludeConnectedObjects { get; set; }
 ```
-```vb
-Public Property IncludeConnectedObjects As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IncludeConnectedObjects {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

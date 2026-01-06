@@ -11,18 +11,8 @@
 ```csharp
 public bool IcludeArrowElement { get; set; }
 ```
-```vb
-Public Property IcludeArrowElement As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IcludeArrowElement {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

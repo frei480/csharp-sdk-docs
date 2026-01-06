@@ -13,17 +13,8 @@ public bool Equal(
 	BasePlane other
 )
 ```
-```vb
-Public Function Equal ( 
-	other As BasePlane
-) As Boolean
-```
-```cpp
-public:
-bool Equal(
-	BasePlane^ other
-)
-```
+
+
 
 
 #### Параметры

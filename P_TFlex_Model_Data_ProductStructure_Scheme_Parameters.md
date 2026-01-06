@@ -8,16 +8,8 @@
 ```csharp
 public ObservableCollection<ParameterDescriptor> Parameters { get; }
 ```
-```vb
-Public ReadOnly Property Parameters As ObservableCollection(Of ParameterDescriptor)
-	Get
-```
-```cpp
-public:
-property ObservableCollection<ParameterDescriptor^>^ Parameters {
-	ObservableCollection<ParameterDescriptor^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

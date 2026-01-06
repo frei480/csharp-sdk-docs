@@ -11,16 +11,8 @@
 ```csharp
 public int CustomItemCount { get; }
 ```
-```vb
-Public ReadOnly Property CustomItemCount As Integer
-	Get
-```
-```cpp
-public:
-property int CustomItemCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

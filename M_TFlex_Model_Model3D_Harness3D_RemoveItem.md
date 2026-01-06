@@ -13,17 +13,8 @@ public void RemoveItem(
 	uint nItem
 )
 ```
-```vb
-Public Sub RemoveItem ( 
-	nItem As UInteger
-)
-```
-```cpp
-public:
-void RemoveItem(
-	unsigned int nItem
-)
-```
+
+
 
 
 #### Параметры

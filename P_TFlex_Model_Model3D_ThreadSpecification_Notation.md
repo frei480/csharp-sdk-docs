@@ -11,16 +11,8 @@
 ```csharp
 public string Notation { get; }
 ```
-```vb
-Public ReadOnly Property Notation As String
-	Get
-```
-```cpp
-public:
-property String^ Notation {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

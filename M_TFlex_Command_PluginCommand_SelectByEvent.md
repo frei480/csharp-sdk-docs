@@ -14,19 +14,8 @@ protected ModelObject SelectByEvent(
 	bool mark
 )
 ```
-```vb
-Protected Function SelectByEvent ( 
-	ev As CursorEventArgs,
-	mark As Boolean
-) As ModelObject
-```
-```cpp
-protected:
-ModelObject^ SelectByEvent(
-	CursorEventArgs^ ev, 
-	bool mark
-)
-```
+
+
 
 
 #### Параметры

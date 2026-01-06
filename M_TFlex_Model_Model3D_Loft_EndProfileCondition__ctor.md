@@ -11,13 +11,8 @@
 ```csharp
 public EndProfileCondition()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-EndProfileCondition()
-```
+
+
 
 
 #### Ссылки

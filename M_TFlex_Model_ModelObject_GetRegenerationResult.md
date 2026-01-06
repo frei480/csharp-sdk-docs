@@ -13,17 +13,8 @@ public virtual bool GetRegenerationResult(
 	bool partialRegenAsSuccess
 )
 ```
-```vb
-Public Overridable Function GetRegenerationResult ( 
-	partialRegenAsSuccess As Boolean
-) As Boolean
-```
-```cpp
-public:
-virtual bool GetRegenerationResult(
-	bool partialRegenAsSuccess
-)
-```
+
+
 
 
 #### Параметры

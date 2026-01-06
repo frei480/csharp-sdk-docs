@@ -11,16 +11,8 @@
 ```csharp
 public SurfaceSplineDataKnotSequence VKnots { get; }
 ```
-```vb
-Public ReadOnly Property VKnots As SurfaceSplineDataKnotSequence
-	Get
-```
-```cpp
-public:
-property SurfaceSplineDataKnotSequence^ VKnots {
-	SurfaceSplineDataKnotSequence^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public double GetWidthCoefficient(
 	int column
 )
 ```
-```vb
-Public Function GetWidthCoefficient ( 
-	column As Integer
-) As Double
-```
-```cpp
-public:
-double GetWidthCoefficient(
-	int column
-)
-```
+
+
 
 
 #### Параметры

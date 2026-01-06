@@ -13,17 +13,8 @@ protected virtual void ShowingFullRegenerationWindowEventHandler(
 	ShowingFullRegenerationDialogEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub ShowingFullRegenerationWindowEventHandler ( 
-	args As ShowingFullRegenerationDialogEventArgs
-)
-```
-```cpp
-protected:
-virtual void ShowingFullRegenerationWindowEventHandler(
-	ShowingFullRegenerationDialogEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

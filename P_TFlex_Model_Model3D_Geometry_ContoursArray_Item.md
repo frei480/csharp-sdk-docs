@@ -10,20 +10,8 @@ public Contour this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As Integer
-) As Contour
-	Get
-	Set
-```
-```cpp
-public:
-property Contour^ default[int index] {
-	Contour^ get (int index);
-	void set (int index, Contour^ value);
-}
-```
+
+
 
 
 #### Параметры

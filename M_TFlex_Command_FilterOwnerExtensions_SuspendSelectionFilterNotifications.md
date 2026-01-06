@@ -13,19 +13,8 @@ public static void SuspendSelectionFilterNotifications(
 	this IFilterOwner owner
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SuspendSelectionFilterNotifications ( 
-	owner As IFilterOwner
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SuspendSelectionFilterNotifications(
-	IFilterOwner^ owner
-)
-```
+
+
 
 
 #### Параметры

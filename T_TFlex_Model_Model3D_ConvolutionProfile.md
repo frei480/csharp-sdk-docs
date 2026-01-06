@@ -13,13 +13,8 @@
 ```csharp
 public class ConvolutionProfile : Profile
 ```
-```vb
-Public Class ConvolutionProfile
-	Inherits Profile
-```
-```cpp
-public ref class ConvolutionProfile : public Profile
-```
+
+
 
 
 Тип ConvolutionProfile предоставляет следующие члены.

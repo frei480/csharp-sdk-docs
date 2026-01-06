@@ -17,25 +17,8 @@ public bool GetBottomEdge(
 	ref BodyTaperMethodType method
 )
 ```
-```vb
-Public Function GetBottomEdge ( 
-	nEdge As Integer,
-	ByRef edge As ModelEdge,
-	ByRef miter As Boolean,
-	ByRef replace As Boolean,
-	ByRef method As BodyTaperMethodType
-) As Boolean
-```
-```cpp
-public:
-bool GetBottomEdge(
-	int nEdge, 
-	ModelEdge^% edge, 
-	bool% miter, 
-	bool% replace, 
-	BodyTaperMethodType% method
-)
-```
+
+
 
 
 #### Параметры

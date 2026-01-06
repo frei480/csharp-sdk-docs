@@ -10,20 +10,8 @@ public ModelFace this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As Integer
-) As ModelFace
-	Get
-	Set
-```
-```cpp
-public:
-property ModelFace^ default[int index] {
-	ModelFace^ get (int index);
-	void set (int index, ModelFace^ value);
-}
-```
+
+
 
 
 #### Параметры

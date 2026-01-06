@@ -14,19 +14,8 @@ public Bound(
 	double distance
 )
 ```
-```vb
-Public Sub New ( 
-	forward As Boolean,
-	distance As Double
-)
-```
-```cpp
-public:
-Bound(
-	bool forward, 
-	double distance
-)
-```
+
+
 
 
 #### Параметры

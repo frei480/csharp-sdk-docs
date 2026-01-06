@@ -11,16 +11,8 @@
 ```csharp
 public double LengthIfWire { get; }
 ```
-```vb
-Public ReadOnly Property LengthIfWire As Double
-	Get
-```
-```cpp
-public:
-property double LengthIfWire {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

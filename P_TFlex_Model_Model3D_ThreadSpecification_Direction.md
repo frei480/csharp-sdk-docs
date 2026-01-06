@@ -11,18 +11,8 @@
 ```csharp
 public ThreadDirection Direction { get; set; }
 ```
-```vb
-Public Property Direction As ThreadDirection
-	Get
-	Set
-```
-```cpp
-public:
-property ThreadDirection Direction {
-	ThreadDirection get ();
-	void set (ThreadDirection value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 protected virtual string TypeName { get; }
 ```
-```vb
-Protected Overridable ReadOnly Property TypeName As String
-	Get
-```
-```cpp
-protected:
-virtual property String^ TypeName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

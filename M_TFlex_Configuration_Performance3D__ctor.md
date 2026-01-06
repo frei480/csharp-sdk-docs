@@ -11,13 +11,8 @@
 ```csharp
 public Performance3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Performance3D()
-```
+
+
 
 
 #### Ссылки

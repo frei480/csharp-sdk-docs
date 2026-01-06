@@ -11,13 +11,8 @@
 ```csharp
 public sealed class ScenarioObjects : IEnumerable<ObjectId>
 ```
-```vb
-Public NotInheritable Class ScenarioObjects
-	Implements IEnumerable(Of ObjectId)
-```
-```cpp
-public ref class ScenarioObjects sealed : IEnumerable<ObjectId^>
-```
+
+
 
 
 Тип ScenarioObjects предоставляет следующие члены.

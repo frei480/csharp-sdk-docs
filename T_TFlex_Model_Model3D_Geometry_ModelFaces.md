@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ModelFaces : BaseFaces
 ```
-```vb
-Public NotInheritable Class ModelFaces
-	Inherits BaseFaces
-```
-```cpp
-public ref class ModelFaces sealed : public BaseFaces
-```
+
+
 
 
 Тип ModelFaces предоставляет следующие члены.

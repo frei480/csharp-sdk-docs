@@ -11,13 +11,8 @@
 ```csharp
 public RegenerateOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RegenerateOptions()
-```
+
+
 
 
 #### Ссылки

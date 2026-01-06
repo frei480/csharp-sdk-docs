@@ -11,13 +11,8 @@
 ```csharp
 public bool IgnoreCase
 ```
-```vb
-Public IgnoreCase As Boolean
-```
-```cpp
-public:
-bool IgnoreCase
-```
+
+
 
 
 #### Значение поля

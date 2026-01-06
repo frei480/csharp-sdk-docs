@@ -15,20 +15,8 @@
 	true)]
 public static bool EvaluationVersion { get; }
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. Evaluation version no longer exists.", 
-	true)>
-Public Shared ReadOnly Property EvaluationVersion As Boolean
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. Evaluation version no longer exists.", 
-	true)]
-static property bool EvaluationVersion {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

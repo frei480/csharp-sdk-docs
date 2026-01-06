@@ -11,16 +11,8 @@ Y-координата второй точки прямой или конц�
 ```csharp
 public double Y2 { get; }
 ```
-```vb
-Public ReadOnly Property Y2 As Double
-	Get
-```
-```cpp
-public:
-property double Y2 {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

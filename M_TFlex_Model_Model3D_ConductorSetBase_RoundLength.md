@@ -10,17 +10,8 @@ public double RoundLength(
 	double length
 )
 ```
-```vb
-Public Function RoundLength ( 
-	length As Double
-) As Double
-```
-```cpp
-public:
-double RoundLength(
-	double length
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum DirectionType
 ```
-```vb
-Public Enumeration DirectionType
-```
-```cpp
-public enum class DirectionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

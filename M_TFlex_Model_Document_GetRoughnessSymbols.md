@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<RoughnessSymbol> GetRoughnessSymbols()
 ```
-```vb
-Public Function GetRoughnessSymbols As ICollection(Of RoughnessSymbol)
-```
-```cpp
-public:
-ICollection<RoughnessSymbol^>^ GetRoughnessSymbols()
-```
+
+
 
 
 #### Возвращаемое значение

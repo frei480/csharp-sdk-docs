@@ -13,17 +13,8 @@ public ExportToOBJ(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToOBJ(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

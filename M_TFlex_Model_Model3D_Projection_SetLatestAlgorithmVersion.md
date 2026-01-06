@@ -8,13 +8,8 @@
 ```csharp
 public bool SetLatestAlgorithmVersion()
 ```
-```vb
-Public Function SetLatestAlgorithmVersion As Boolean
-```
-```cpp
-public:
-bool SetLatestAlgorithmVersion()
-```
+
+
 
 
 #### Возвращаемое значение

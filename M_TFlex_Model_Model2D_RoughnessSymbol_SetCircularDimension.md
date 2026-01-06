@@ -14,19 +14,8 @@ public void SetCircularDimension(
 	Parameter offset
 )
 ```
-```vb
-Public Sub SetCircularDimension ( 
-	dim As CircularDimension,
-	offset As Parameter
-)
-```
-```cpp
-public:
-void SetCircularDimension(
-	CircularDimension^ dim, 
-	Parameter^ offset
-)
-```
+
+
 
 
 #### Параметры

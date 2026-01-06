@@ -13,17 +13,8 @@ protected virtual void SelectionChangedEventHandler(
 	DocumentEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub SelectionChangedEventHandler ( 
-	args As DocumentEventArgs
-)
-```
-```cpp
-protected:
-virtual void SelectionChangedEventHandler(
-	DocumentEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

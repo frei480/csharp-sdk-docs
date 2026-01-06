@@ -14,14 +14,8 @@
 public class ControlPoints : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ControlPoints
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ControlPoints : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип SplineDataControlPoints предоставляет следующие члены.

@@ -14,19 +14,8 @@ public void ReplaceFontName(
 	string newName
 )
 ```
-```vb
-Public Sub ReplaceFontName ( 
-	oldName As String,
-	newName As String
-)
-```
-```cpp
-public:
-void ReplaceFontName(
-	String^ oldName, 
-	String^ newName
-)
-```
+
+
 
 
 #### Параметры

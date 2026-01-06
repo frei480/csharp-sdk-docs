@@ -8,12 +8,8 @@
 ```csharp
 public enum MessageType
 ```
-```vb
-Public Enumeration MessageType
-```
-```cpp
-public enum class MessageType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

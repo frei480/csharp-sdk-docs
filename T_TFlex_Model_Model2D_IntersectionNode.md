@@ -13,13 +13,8 @@
 ```csharp
 public class IntersectionNode : Node
 ```
-```vb
-Public Class IntersectionNode
-	Inherits Node
-```
-```cpp
-public ref class IntersectionNode : public Node
-```
+
+
 
 
 Тип IntersectionNode предоставляет следующие члены.

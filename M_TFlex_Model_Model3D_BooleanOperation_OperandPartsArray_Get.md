@@ -10,17 +10,8 @@ public Geometry Get(
 	int index
 )
 ```
-```vb
-Public Function Get ( 
-	index As Integer
-) As Geometry
-```
-```cpp
-public:
-Geometry^ Get(
-	int index
-)
-```
+
+
 
 
 #### Параметры

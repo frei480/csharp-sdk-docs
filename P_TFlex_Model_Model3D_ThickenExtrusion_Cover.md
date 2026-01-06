@@ -11,18 +11,8 @@
 ```csharp
 public bool Cover { get; set; }
 ```
-```vb
-Public Property Cover As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Cover {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

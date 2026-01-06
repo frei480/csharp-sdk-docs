@@ -11,13 +11,8 @@
 ```csharp
 public void EndEdit()
 ```
-```vb
-Public Sub EndEdit
-```
-```cpp
-public:
-void EndEdit()
-```
+
+
 
 
 #### Ссылки

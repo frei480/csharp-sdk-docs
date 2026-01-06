@@ -12,21 +12,8 @@ public ScenarioStage Insert(
 	string actionName
 )
 ```
-```vb
-Public Function Insert ( 
-	index As UInteger,
-	stageName As String,
-	actionName As String
-) As ScenarioStage
-```
-```cpp
-public:
-ScenarioStage^ Insert(
-	unsigned int index, 
-	String^ stageName, 
-	String^ actionName
-)
-```
+
+
 
 
 #### Параметры

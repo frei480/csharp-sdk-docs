@@ -14,15 +14,8 @@
 public class Construction : Object2D, 
 	IModelObjectWithLayer
 ```
-```vb
-Public Class Construction
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class Construction : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип Construction предоставляет следующие члены.

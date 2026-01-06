@@ -12,21 +12,8 @@ public void SetAlignment(
 	ListItemAlignment? alignment
 )
 ```
-```vb
-Public Sub SetAlignment ( 
-	row As Integer,
-	column As Integer,
-	alignment As ListItemAlignment?
-)
-```
-```cpp
-public:
-void SetAlignment(
-	int row, 
-	int column, 
-	Nullable<ListItemAlignment> alignment
-)
-```
+
+
 
 
 #### Параметры

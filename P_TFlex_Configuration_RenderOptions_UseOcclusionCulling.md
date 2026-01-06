@@ -8,18 +8,8 @@
 ```csharp
 public bool UseOcclusionCulling { get; set; }
 ```
-```vb
-Public Property UseOcclusionCulling As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseOcclusionCulling {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

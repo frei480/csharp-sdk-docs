@@ -8,16 +8,8 @@
 ```csharp
 public StringMap ProfilesNames { get; }
 ```
-```vb
-Public ReadOnly Property ProfilesNames As StringMap
-	Get
-```
-```cpp
-public:
-property StringMap^ ProfilesNames {
-	StringMap^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

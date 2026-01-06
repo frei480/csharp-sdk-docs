@@ -16,23 +16,8 @@ public CurveRepresentation(
 	string name
 )
 ```
-```vb
-Public Sub New ( 
-	scene As Scene,
-	owner As Object3D,
-	body As ModelBody,
-	name As String
-)
-```
-```cpp
-public:
-CurveRepresentation(
-	Scene^ scene, 
-	Object3D^ owner, 
-	ModelBody^ body, 
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

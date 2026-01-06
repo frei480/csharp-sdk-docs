@@ -11,13 +11,8 @@
 ```csharp
 public class RenderOptions2D : SettingsGroup
 ```
-```vb
-Public Class RenderOptions2D
-	Inherits SettingsGroup
-```
-```cpp
-public ref class RenderOptions2D : public SettingsGroup
-```
+
+
 
 
 Тип RenderOptions2D предоставляет следующие члены.

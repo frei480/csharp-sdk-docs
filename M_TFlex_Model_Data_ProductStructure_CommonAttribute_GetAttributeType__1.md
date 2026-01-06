@@ -9,14 +9,8 @@
 public static CommonAttributeType GetAttributeType<T>()
 
 ```
-```vb
-Public Shared Function GetAttributeType(Of T) As CommonAttributeType
-```
-```cpp
-public:
-generic<typename T>
-static CommonAttributeType GetAttributeType()
-```
+
+
 
 
 #### Параметры типа

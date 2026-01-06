@@ -11,13 +11,8 @@
 ```csharp
 public Operation GetSourceOper()
 ```
-```vb
-Public Function GetSourceOper As Operation
-```
-```cpp
-public:
-Operation^ GetSourceOper()
-```
+
+
 
 
 #### Возвращаемое значение

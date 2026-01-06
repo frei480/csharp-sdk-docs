@@ -14,19 +14,8 @@ public Icon GetIcon(
 	int column
 )
 ```
-```vb
-Public Function GetIcon ( 
-	row As Integer,
-	column As Integer
-) As Icon
-```
-```cpp
-public:
-Icon^ GetIcon(
-	int row, 
-	int column
-)
-```
+
+
 
 
 #### Параметры

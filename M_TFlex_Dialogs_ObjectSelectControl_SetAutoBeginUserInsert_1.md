@@ -14,19 +14,8 @@ public void SetAutoBeginUserInsert(
 	bool stopEdit
 )
 ```
-```vb
-Public Sub SetAutoBeginUserInsert ( 
-	autoBeginUserInsert As Boolean,
-	stopEdit As Boolean
-)
-```
-```cpp
-public:
-void SetAutoBeginUserInsert(
-	bool autoBeginUserInsert, 
-	bool stopEdit
-)
-```
+
+
 
 
 #### Параметры

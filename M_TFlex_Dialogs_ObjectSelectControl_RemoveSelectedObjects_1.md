@@ -13,17 +13,8 @@ public void RemoveSelectedObjects(
 	bool keepDotsObject
 )
 ```
-```vb
-Public Sub RemoveSelectedObjects ( 
-	keepDotsObject As Boolean
-)
-```
-```cpp
-public:
-void RemoveSelectedObjects(
-	bool keepDotsObject
-)
-```
+
+
 
 
 #### Параметры

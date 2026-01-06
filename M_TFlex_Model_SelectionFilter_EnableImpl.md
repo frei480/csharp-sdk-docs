@@ -10,17 +10,8 @@ protected virtual void EnableImpl(
 	ObjectType type
 )
 ```
-```vb
-Protected Overridable Sub EnableImpl ( 
-	type As ObjectType
-)
-```
-```cpp
-protected:
-virtual void EnableImpl(
-	ObjectType type
-)
-```
+
+
 
 
 #### Параметры

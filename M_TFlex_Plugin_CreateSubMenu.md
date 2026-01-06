@@ -15,21 +15,8 @@ protected void CreateSubMenu(
 	int position
 )
 ```
-```vb
-Protected Sub CreateSubMenu ( 
-	menu As Menu,
-	caption As String,
-	position As Integer
-)
-```
-```cpp
-protected:
-void CreateSubMenu(
-	Menu^ menu, 
-	String^ caption, 
-	int position
-)
-```
+
+
 
 
 #### Параметры

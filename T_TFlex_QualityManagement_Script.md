@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Script : IDisposable
 ```
-```vb
-Public NotInheritable Class Script
-	Implements IDisposable
-```
-```cpp
-public ref class Script sealed : IDisposable
-```
+
+
 
 
 Тип Script предоставляет следующие члены.

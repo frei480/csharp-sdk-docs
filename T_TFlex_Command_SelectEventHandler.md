@@ -14,18 +14,8 @@ public delegate void SelectEventHandler(
 	SelectEventArgs e
 )
 ```
-```vb
-Public Delegate Sub SelectEventHandler ( 
-	sender As Object,
-	e As SelectEventArgs
-)
-```
-```cpp
-public delegate void SelectEventHandler(
-	Object^ sender, 
-	SelectEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

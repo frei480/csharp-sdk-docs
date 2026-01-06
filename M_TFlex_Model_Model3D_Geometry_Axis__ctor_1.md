@@ -14,19 +14,8 @@ public Axis(
 	BaseDirection direction
 )
 ```
-```vb
-Public Sub New ( 
-	origin As BasePoint3D,
-	direction As BaseDirection
-)
-```
-```cpp
-public:
-Axis(
-	BasePoint3D^ origin, 
-	BaseDirection^ direction
-)
-```
+
+
 
 
 #### Параметры

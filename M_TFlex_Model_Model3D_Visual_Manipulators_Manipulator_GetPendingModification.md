@@ -8,13 +8,8 @@
 ```csharp
 public GeometryModification GetPendingModification()
 ```
-```vb
-Public Function GetPendingModification As GeometryModification
-```
-```cpp
-public:
-GeometryModification^ GetPendingModification()
-```
+
+
 
 
 #### Возвращаемое значение

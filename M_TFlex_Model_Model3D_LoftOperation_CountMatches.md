@@ -11,13 +11,8 @@
 ```csharp
 public int CountMatches()
 ```
-```vb
-Public Function CountMatches As Integer
-```
-```cpp
-public:
-int CountMatches()
-```
+
+
 
 
 #### Возвращаемое значение

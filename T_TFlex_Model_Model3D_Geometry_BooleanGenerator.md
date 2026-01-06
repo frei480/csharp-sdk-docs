@@ -13,13 +13,8 @@
 ```csharp
 public class BooleanGenerator : BodyGenerator
 ```
-```vb
-Public Class BooleanGenerator
-	Inherits BodyGenerator
-```
-```cpp
-public ref class BooleanGenerator : public BodyGenerator
-```
+
+
 
 
 Тип BooleanGenerator предоставляет следующие члены.

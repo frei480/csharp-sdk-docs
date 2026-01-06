@@ -15,19 +15,8 @@ public IEnumerable<TObject> GetModelObjects<TObject>(
 where TObject : ModelObject
 
 ```
-```vb
-Public Function GetModelObjects(Of TObject As ModelObject) ( 
-	document As Document
-) As IEnumerable(Of TObject)
-```
-```cpp
-public:
-generic<typename TObject>
-where TObject : ModelObject
-IEnumerable<TObject>^ GetModelObjects(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

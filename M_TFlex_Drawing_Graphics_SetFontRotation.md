@@ -14,19 +14,8 @@ public void SetFontRotation(
 	double dy
 )
 ```
-```vb
-Public Sub SetFontRotation ( 
-	dx As Double,
-	dy As Double
-)
-```
-```cpp
-public:
-void SetFontRotation(
-	double dx, 
-	double dy
-)
-```
+
+
 
 
 #### Параметры

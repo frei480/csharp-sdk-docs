@@ -11,18 +11,8 @@
 ```csharp
 public bool VisibleInScene { get; set; }
 ```
-```vb
-Public Property VisibleInScene As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool VisibleInScene {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

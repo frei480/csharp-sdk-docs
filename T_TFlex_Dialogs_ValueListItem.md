@@ -13,12 +13,8 @@
 ```csharp
 public struct ValueListItem
 ```
-```vb
-Public Structure ValueListItem
-```
-```cpp
-public value class ValueListItem
-```
+
+
 
 
 Тип ValueListItem предоставляет следующие члены.

@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Control> GetControls()
 ```
-```vb
-Public Function GetControls As ICollection(Of Control)
-```
-```cpp
-public:
-ICollection<Control^>^ GetControls()
-```
+
+
 
 
 #### Возвращаемое значение

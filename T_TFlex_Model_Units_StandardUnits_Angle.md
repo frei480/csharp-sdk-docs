@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Angle
 ```
-```vb
-Public NotInheritable Class Angle
-```
-```cpp
-public ref class Angle sealed
-```
+
+
 
 
 Тип StandardUnitsAngle предоставляет следующие члены.

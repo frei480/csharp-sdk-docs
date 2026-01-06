@@ -8,16 +8,8 @@
 ```csharp
 public string ShortName { get; }
 ```
-```vb
-Public ReadOnly Property ShortName As String
-	Get
-```
-```cpp
-public:
-property String^ ShortName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

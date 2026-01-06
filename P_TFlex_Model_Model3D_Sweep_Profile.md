@@ -11,16 +11,8 @@
 ```csharp
 public ContoursArray Profile { get; }
 ```
-```vb
-Public ReadOnly Property Profile As ContoursArray
-	Get
-```
-```cpp
-public:
-property ContoursArray^ Profile {
-	ContoursArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

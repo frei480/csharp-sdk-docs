@@ -15,21 +15,8 @@ protected void RegisterAutomenuCommand(
 	Icon icon
 )
 ```
-```vb
-Protected Sub RegisterAutomenuCommand ( 
-	id As Integer,
-	hint As String,
-	icon As Icon
-)
-```
-```cpp
-protected:
-void RegisterAutomenuCommand(
-	int id, 
-	String^ hint, 
-	Icon^ icon
-)
-```
+
+
 
 
 #### Параметры

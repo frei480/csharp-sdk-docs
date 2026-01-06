@@ -13,19 +13,8 @@ public static ICollection<Spring> GetSprings(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetSprings ( 
-	document As Document
-) As ICollection(Of Spring)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Spring^>^ GetSprings(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

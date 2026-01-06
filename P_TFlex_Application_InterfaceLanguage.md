@@ -11,16 +11,8 @@
 ```csharp
 public static ApplicationLanguage InterfaceLanguage { get; }
 ```
-```vb
-Public Shared ReadOnly Property InterfaceLanguage As ApplicationLanguage
-	Get
-```
-```cpp
-public:
-static property ApplicationLanguage InterfaceLanguage {
-	ApplicationLanguage get ();
-}
-```
+
+
 
 
 #### Значение свойства

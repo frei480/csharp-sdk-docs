@@ -13,17 +13,8 @@ public RasterOperation SetRop(
 	RasterOperation rop
 )
 ```
-```vb
-Public Function SetRop ( 
-	rop As RasterOperation
-) As RasterOperation
-```
-```cpp
-public:
-RasterOperation SetRop(
-	RasterOperation rop
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter LinePatternScale { get; set; }
 ```
-```vb
-Public Property LinePatternScale As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ LinePatternScale {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

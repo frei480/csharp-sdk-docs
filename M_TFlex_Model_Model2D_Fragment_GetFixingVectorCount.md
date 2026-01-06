@@ -11,13 +11,8 @@
 ```csharp
 public int GetFixingVectorCount()
 ```
-```vb
-Public Function GetFixingVectorCount As Integer
-```
-```cpp
-public:
-int GetFixingVectorCount()
-```
+
+
 
 
 #### Возвращаемое значение

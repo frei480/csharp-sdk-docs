@@ -10,17 +10,8 @@ public void Assign(
 	PageProperties source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As PageProperties
-)
-```
-```cpp
-public:
-void Assign(
-	PageProperties^ source
-)
-```
+
+
 
 
 #### Параметры

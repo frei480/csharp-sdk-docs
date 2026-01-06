@@ -11,18 +11,8 @@
 ```csharp
 public DimensionAltDimLocationType AltLocation { get; set; }
 ```
-```vb
-Public Property AltLocation As DimensionAltDimLocationType
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionAltDimLocationType AltLocation {
-	DimensionAltDimLocationType get ();
-	void set (DimensionAltDimLocationType value);
-}
-```
+
+
 
 
 #### Значение свойства

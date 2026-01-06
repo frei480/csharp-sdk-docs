@@ -13,17 +13,8 @@ public Plugin(
 	PluginFactory Factory
 )
 ```
-```vb
-Public Sub New ( 
-	Factory As PluginFactory
-)
-```
-```cpp
-public:
-Plugin(
-	PluginFactory^ Factory
-)
-```
+
+
 
 
 #### Параметры

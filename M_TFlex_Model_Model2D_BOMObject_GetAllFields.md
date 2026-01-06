@@ -11,13 +11,8 @@
 ```csharp
 public string[] GetAllFields()
 ```
-```vb
-Public Function GetAllFields As String()
-```
-```cpp
-public:
-array<String^>^ GetAllFields()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,12 +11,8 @@
 ```csharp
 public enum RoughnessSymbolAttachmentType
 ```
-```vb
-Public Enumeration RoughnessSymbolAttachmentType
-```
-```cpp
-public enum class RoughnessSymbolAttachmentType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -15,21 +15,8 @@ public CylinderSurface(
 	BaseDirection referencedirection
 )
 ```
-```vb
-Public Sub New ( 
-	radius As Double,
-	axis As BaseAxis,
-	referencedirection As BaseDirection
-)
-```
-```cpp
-public:
-CylinderSurface(
-	double radius, 
-	BaseAxis^ axis, 
-	BaseDirection^ referencedirection
-)
-```
+
+
 
 
 #### Параметры

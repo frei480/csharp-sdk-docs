@@ -13,17 +13,8 @@ public bool Close(
 	LibraryConfiguration configuration
 )
 ```
-```vb
-Public Function Close ( 
-	configuration As LibraryConfiguration
-) As Boolean
-```
-```cpp
-public:
-bool Close(
-	LibraryConfiguration^ configuration
-)
-```
+
+
 
 
 #### Параметры

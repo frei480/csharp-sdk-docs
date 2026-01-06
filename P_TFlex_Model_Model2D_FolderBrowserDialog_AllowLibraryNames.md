@@ -8,18 +8,8 @@
 ```csharp
 public bool AllowLibraryNames { get; set; }
 ```
-```vb
-Public Property AllowLibraryNames As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AllowLibraryNames {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

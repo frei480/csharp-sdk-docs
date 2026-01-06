@@ -8,13 +8,8 @@
 ```csharp
 public override GroupingRuleType GetGroupingRuleType()
 ```
-```vb
-Public Overrides Function GetGroupingRuleType As GroupingRuleType
-```
-```cpp
-public:
-virtual GroupingRuleType GetGroupingRuleType() override
-```
+
+
 
 
 #### Возвращаемое значение

@@ -14,18 +14,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'AddElement/GetElement' method.")]
 public RelationPointElement FirstElement { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'AddElement/GetElement' method.")>
-Public ReadOnly Property FirstElement As RelationPointElement
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'AddElement/GetElement' method.")]
-property RelationPointElement^ FirstElement {
-	RelationPointElement^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

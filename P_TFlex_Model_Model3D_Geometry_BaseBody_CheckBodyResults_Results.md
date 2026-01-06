@@ -11,16 +11,8 @@
 ```csharp
 public ICollection<BaseBodyCheckResult> Results { get; }
 ```
-```vb
-Public ReadOnly Property Results As ICollection(Of BaseBodyCheckResult)
-	Get
-```
-```cpp
-public:
-property ICollection<BaseBodyCheckResult^>^ Results {
-	ICollection<BaseBodyCheckResult^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

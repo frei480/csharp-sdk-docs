@@ -15,21 +15,8 @@ public void SetCellWidth(
 	ColumnSizeMode mode
 )
 ```
-```vb
-Public Sub SetCellWidth ( 
-	cell As UInteger,
-	width As Double,
-	mode As ColumnSizeMode
-)
-```
-```cpp
-public:
-void SetCellWidth(
-	unsigned int cell, 
-	double width, 
-	ColumnSizeMode mode
-)
-```
+
+
 
 
 #### Параметры

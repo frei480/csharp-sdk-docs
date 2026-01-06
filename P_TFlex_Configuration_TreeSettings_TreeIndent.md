@@ -8,18 +8,8 @@
 ```csharp
 public int TreeIndent { get; set; }
 ```
-```vb
-Public Property TreeIndent As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int TreeIndent {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

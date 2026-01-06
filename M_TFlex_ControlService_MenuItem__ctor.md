@@ -14,19 +14,8 @@ public MenuItem(
 	MenuItemMenuType type
 )
 ```
-```vb
-Public Sub New ( 
-	header As String,
-	type As MenuItemMenuType
-)
-```
-```cpp
-public:
-MenuItem(
-	String^ header, 
-	MenuItemMenuType type
-)
-```
+
+
 
 
 #### Параметры

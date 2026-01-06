@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToGltf : ExportTo3dCommon
 ```
-```vb
-Public NotInheritable Class ExportToGltf
-	Inherits ExportTo3dCommon
-```
-```cpp
-public ref class ExportToGltf sealed : public ExportTo3dCommon
-```
+
+
 
 
 Тип ExportToGltf предоставляет следующие члены.

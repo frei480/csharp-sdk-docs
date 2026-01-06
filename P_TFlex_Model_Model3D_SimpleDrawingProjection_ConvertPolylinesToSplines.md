@@ -11,18 +11,8 @@
 ```csharp
 public bool ConvertPolylinesToSplines { get; set; }
 ```
-```vb
-Public Property ConvertPolylinesToSplines As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ConvertPolylinesToSplines {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

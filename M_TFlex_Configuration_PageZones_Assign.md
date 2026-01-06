@@ -10,17 +10,8 @@ public void Assign(
 	PageZones source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As PageZones
-)
-```
-```cpp
-public:
-void Assign(
-	PageZones^ source
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public bool IsTangentLastPointEnable { get; }
 ```
-```vb
-Public ReadOnly Property IsTangentLastPointEnable As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsTangentLastPointEnable {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

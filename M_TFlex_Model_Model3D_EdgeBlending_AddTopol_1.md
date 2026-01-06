@@ -14,19 +14,8 @@ public void AddTopol(
 	EdgeBlendingAttribute attrib
 )
 ```
-```vb
-Public Sub AddTopol ( 
-	topol As ModelTopol,
-	attrib As EdgeBlendingAttribute
-)
-```
-```cpp
-public:
-void AddTopol(
-	ModelTopol^ topol, 
-	EdgeBlendingAttribute^ attrib
-)
-```
+
+
 
 
 #### Параметры

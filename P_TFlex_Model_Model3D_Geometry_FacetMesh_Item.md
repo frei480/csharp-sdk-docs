@@ -10,18 +10,8 @@ public virtual FacetTriangle this[
 	int Index
 ] { get; }
 ```
-```vb
-Public Overridable ReadOnly Default Property Item ( 
-	Index As Integer
-) As FacetTriangle
-	Get
-```
-```cpp
-public:
-virtual property FacetTriangle^ default[int Index] {
-	FacetTriangle^ get (int Index);
-}
-```
+
+
 
 
 #### Параметры

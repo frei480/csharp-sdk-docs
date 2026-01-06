@@ -14,19 +14,8 @@ public void SetSize(
 	uint columns
 )
 ```
-```vb
-Public Sub SetSize ( 
-	row As UInteger,
-	columns As UInteger
-)
-```
-```cpp
-public:
-void SetSize(
-	unsigned int row, 
-	unsigned int columns
-)
-```
+
+
 
 
 #### Параметры

@@ -15,21 +15,8 @@ public void SetAxis(
 	Point3D pointPos
 )
 ```
-```vb
-Public Sub SetAxis ( 
-	Dir As Axis,
-	refDir As Axis,
-	pointPos As Point3D
-)
-```
-```cpp
-public:
-void SetAxis(
-	Axis^ Dir, 
-	Axis^ refDir, 
-	Point3D^ pointPos
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public void AppendBaseForm(
 	PropertiesWindowFormBase form
 )
 ```
-```vb
-Public Sub AppendBaseForm ( 
-	form As PropertiesWindowFormBase
-)
-```
-```cpp
-public:
-void AppendBaseForm(
-	PropertiesWindowFormBase^ form
-)
-```
+
+
 
 
 #### Параметры

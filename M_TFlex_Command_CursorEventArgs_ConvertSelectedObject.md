@@ -10,17 +10,8 @@ public ModelObject ConvertSelectedObject(
 	Document targetDoc
 )
 ```
-```vb
-Public Function ConvertSelectedObject ( 
-	targetDoc As Document
-) As ModelObject
-```
-```cpp
-public:
-ModelObject^ ConvertSelectedObject(
-	Document^ targetDoc
-)
-```
+
+
 
 
 #### Параметры

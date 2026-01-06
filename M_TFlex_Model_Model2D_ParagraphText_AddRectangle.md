@@ -13,17 +13,8 @@ public void AddRectangle(
 	ParagraphTextTextRectangle rect
 )
 ```
-```vb
-Public Sub AddRectangle ( 
-	rect As ParagraphTextTextRectangle
-)
-```
-```cpp
-public:
-void AddRectangle(
-	ParagraphTextTextRectangle rect
-)
-```
+
+
 
 
 #### Параметры

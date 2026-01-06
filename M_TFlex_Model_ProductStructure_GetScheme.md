@@ -11,13 +11,8 @@
 ```csharp
 public Scheme GetScheme()
 ```
-```vb
-Public Function GetScheme As Scheme
-```
-```cpp
-public:
-Scheme^ GetScheme()
-```
+
+
 
 
 #### Возвращаемое значение

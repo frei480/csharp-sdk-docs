@@ -11,16 +11,8 @@
 ```csharp
 public SweepGeneratorIgnorableVertices Ignorable { get; }
 ```
-```vb
-Public ReadOnly Property Ignorable As SweepGeneratorIgnorableVertices
-	Get
-```
-```cpp
-public:
-property SweepGeneratorIgnorableVertices^ Ignorable {
-	SweepGeneratorIgnorableVertices^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

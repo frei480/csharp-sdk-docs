@@ -8,16 +8,8 @@
 ```csharp
 public UserCamera UserCamera { get; }
 ```
-```vb
-Public ReadOnly Property UserCamera As UserCamera
-	Get
-```
-```cpp
-public:
-property UserCamera^ UserCamera {
-	UserCamera^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

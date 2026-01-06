@@ -11,12 +11,8 @@
 ```csharp
 public enum LayersType
 ```
-```vb
-Public Enumeration LayersType
-```
-```cpp
-public enum class LayersType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

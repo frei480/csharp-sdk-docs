@@ -11,13 +11,8 @@
 ```csharp
 public class SizeDoubleOffset : SettingsGroup
 ```
-```vb
-Public Class SizeDoubleOffset
-	Inherits SettingsGroup
-```
-```cpp
-public ref class SizeDoubleOffset : public SettingsGroup
-```
+
+
 
 
 Тип SizeDoubleOffset предоставляет следующие члены.

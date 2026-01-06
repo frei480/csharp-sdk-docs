@@ -10,17 +10,8 @@ public void Assign(
 	PageColors source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As PageColors
-)
-```
-```cpp
-public:
-void Assign(
-	PageColors^ source
-)
-```
+
+
 
 
 #### Параметры

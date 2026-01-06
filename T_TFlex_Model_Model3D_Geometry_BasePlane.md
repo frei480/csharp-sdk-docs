@@ -13,13 +13,8 @@
 ```csharp
 public abstract class BasePlane : Geometry
 ```
-```vb
-Public MustInherit Class BasePlane
-	Inherits Geometry
-```
-```cpp
-public ref class BasePlane abstract : public Geometry
-```
+
+
 
 
 Тип BasePlane предоставляет следующие члены.

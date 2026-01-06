@@ -13,17 +13,8 @@ protected virtual void OnExiting(
 	CancelEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub OnExiting ( 
-	args As CancelEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnExiting(
-	CancelEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

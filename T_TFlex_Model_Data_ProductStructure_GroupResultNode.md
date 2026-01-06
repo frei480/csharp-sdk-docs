@@ -11,13 +11,8 @@
 ```csharp
 public class GroupResultNode : ContainerResultNode
 ```
-```vb
-Public Class GroupResultNode
-	Inherits ContainerResultNode
-```
-```cpp
-public ref class GroupResultNode : public ContainerResultNode
-```
+
+
 
 
 Тип GroupResultNode предоставляет следующие члены.

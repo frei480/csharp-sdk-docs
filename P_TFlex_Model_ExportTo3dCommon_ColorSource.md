@@ -11,18 +11,8 @@
 ```csharp
 public ExportTo3dColorSource ColorSource { get; set; }
 ```
-```vb
-Public Property ColorSource As ExportTo3dColorSource
-	Get
-	Set
-```
-```cpp
-public:
-property ExportTo3dColorSource ColorSource {
-	ExportTo3dColorSource get ();
-	void set (ExportTo3dColorSource value);
-}
-```
+
+
 
 
 #### Значение свойства

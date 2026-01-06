@@ -8,18 +8,8 @@
 ```csharp
 public string DocsStartupDlgUid { get; set; }
 ```
-```vb
-Public Property DocsStartupDlgUid As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ DocsStartupDlgUid {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

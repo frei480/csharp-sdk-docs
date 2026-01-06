@@ -13,15 +13,8 @@
 ```csharp
 public class Fragment3D : Operation
 ```
-```vb
-<ExtensionAttribute>
-Public Class Fragment3D
-	Inherits Operation
-```
-```cpp
-[ExtensionAttribute]
-public ref class Fragment3D : public Operation
-```
+
+
 
 
 Тип Fragment3D предоставляет следующие члены.

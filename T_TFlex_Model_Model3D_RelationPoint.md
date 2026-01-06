@@ -13,13 +13,8 @@
 ```csharp
 public class RelationPoint : Node3D
 ```
-```vb
-Public Class RelationPoint
-	Inherits Node3D
-```
-```cpp
-public ref class RelationPoint : public Node3D
-```
+
+
 
 
 Тип RelationPoint предоставляет следующие члены.

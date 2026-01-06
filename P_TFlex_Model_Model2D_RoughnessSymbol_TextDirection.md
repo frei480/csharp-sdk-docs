@@ -11,18 +11,8 @@
 ```csharp
 public string TextDirection { get; set; }
 ```
-```vb
-Public Property TextDirection As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TextDirection {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

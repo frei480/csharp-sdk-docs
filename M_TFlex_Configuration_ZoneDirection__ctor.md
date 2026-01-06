@@ -11,13 +11,8 @@
 ```csharp
 public ZoneDirection()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ZoneDirection()
-```
+
+
 
 
 #### Ссылки

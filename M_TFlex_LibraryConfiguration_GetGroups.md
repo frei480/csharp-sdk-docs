@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerator<LibraryGroup> GetGroups()
 ```
-```vb
-Public Function GetGroups As IEnumerator(Of LibraryGroup)
-```
-```cpp
-public:
-virtual IEnumerator<LibraryGroup^>^ GetGroups() sealed
-```
+
+
 
 
 #### Возвращаемое значение

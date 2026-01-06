@@ -10,17 +10,8 @@ public static bool StartExportApplication(
 	string appName
 )
 ```
-```vb
-Public Shared Function StartExportApplication ( 
-	appName As String
-) As Boolean
-```
-```cpp
-public:
-static bool StartExportApplication(
-	String^ appName
-)
-```
+
+
 
 
 #### Параметры

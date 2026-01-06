@@ -13,17 +13,8 @@ public Contour GetContour(
 	int index
 )
 ```
-```vb
-Public Function GetContour ( 
-	index As Integer
-) As Contour
-```
-```cpp
-public:
-Contour^ GetContour(
-	int index
-)
-```
+
+
 
 
 #### Параметры

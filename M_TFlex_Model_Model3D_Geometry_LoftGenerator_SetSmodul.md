@@ -13,17 +13,8 @@ public void SetSmodul(
 	double m
 )
 ```
-```vb
-Public Sub SetSmodul ( 
-	m As Double
-)
-```
-```cpp
-public:
-void SetSmodul(
-	double m
-)
-```
+
+
 
 
 #### Параметры

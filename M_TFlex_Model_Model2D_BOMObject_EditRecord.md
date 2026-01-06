@@ -11,13 +11,8 @@
 ```csharp
 public void EditRecord()
 ```
-```vb
-Public Sub EditRecord
-```
-```cpp
-public:
-void EditRecord()
-```
+
+
 
 
 #### Ссылки

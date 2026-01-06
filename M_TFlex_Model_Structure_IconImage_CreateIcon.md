@@ -8,13 +8,8 @@
 ```csharp
 public Icon CreateIcon()
 ```
-```vb
-Public Function CreateIcon As Icon
-```
-```cpp
-public:
-Icon^ CreateIcon()
-```
+
+
 
 
 #### Возвращаемое значение

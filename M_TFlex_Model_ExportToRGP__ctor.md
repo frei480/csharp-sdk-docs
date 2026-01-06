@@ -13,17 +13,8 @@ public ExportToRGP(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToRGP(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

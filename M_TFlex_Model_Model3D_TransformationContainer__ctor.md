@@ -14,19 +14,8 @@ public TransformationContainer(
 	bool edit
 )
 ```
-```vb
-Public Sub New ( 
-	object As Object3D,
-	edit As Boolean
-)
-```
-```cpp
-public:
-TransformationContainer(
-	Object3D^ object, 
-	bool edit
-)
-```
+
+
 
 
 #### Параметры

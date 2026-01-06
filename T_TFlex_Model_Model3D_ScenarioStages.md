@@ -11,13 +11,8 @@
 ```csharp
 public sealed class ScenarioStages : IEnumerable<ScenarioStage>
 ```
-```vb
-Public NotInheritable Class ScenarioStages
-	Implements IEnumerable(Of ScenarioStage)
-```
-```cpp
-public ref class ScenarioStages sealed : IEnumerable<ScenarioStage^>
-```
+
+
 
 
 Тип ScenarioStages предоставляет следующие члены.

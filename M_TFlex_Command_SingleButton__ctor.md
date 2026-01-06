@@ -15,21 +15,8 @@ public SingleButton(
 	ButtonStyle style
 )
 ```
-```vb
-Public Sub New ( 
-	CmdID As Integer,
-	keyCode As KeyCode,
-	style As ButtonStyle
-)
-```
-```cpp
-public:
-SingleButton(
-	int CmdID, 
-	KeyCode keyCode, 
-	ButtonStyle style
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool DeleteParentObjects { get; set; }
 ```
-```vb
-Public Property DeleteParentObjects As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DeleteParentObjects {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

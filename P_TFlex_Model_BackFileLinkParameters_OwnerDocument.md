@@ -11,18 +11,8 @@
 ```csharp
 public Document OwnerDocument { get; set; }
 ```
-```vb
-Public Property OwnerDocument As Document
-	Get
-	Set
-```
-```cpp
-public:
-property Document^ OwnerDocument {
-	Document^ get ();
-	void set (Document^ value);
-}
-```
+
+
 
 
 #### Значение свойства

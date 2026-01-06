@@ -11,18 +11,8 @@
 ```csharp
 public LoftOperationLoftAutoAlignmentType AutoAlignment { get; set; }
 ```
-```vb
-Public Property AutoAlignment As LoftOperationLoftAutoAlignmentType
-	Get
-	Set
-```
-```cpp
-public:
-property LoftOperationLoftAutoAlignmentType AutoAlignment {
-	LoftOperationLoftAutoAlignmentType get ();
-	void set (LoftOperationLoftAutoAlignmentType value);
-}
-```
+
+
 
 
 #### Значение свойства

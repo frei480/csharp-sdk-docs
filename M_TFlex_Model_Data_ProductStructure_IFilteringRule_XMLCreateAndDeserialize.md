@@ -10,17 +10,8 @@ public static IFilteringRule XMLCreateAndDeserialize(
 	XmlElement rElement
 )
 ```
-```vb
-Public Shared Function XMLCreateAndDeserialize ( 
-	rElement As XmlElement
-) As IFilteringRule
-```
-```cpp
-public:
-static IFilteringRule^ XMLCreateAndDeserialize(
-	XmlElement^ rElement
-)
-```
+
+
 
 
 #### Параметры

@@ -10,18 +10,8 @@ protected Area this[
 	int index
 ] { get; }
 ```
-```vb
-Protected ReadOnly Property Item ( 
-	index As Integer
-) As Area
-	Get
-```
-```cpp
-protected:
-property Area^ Item[int index] {
-	Area^ get (int index);
-}
-```
+
+
 
 
 #### Параметры

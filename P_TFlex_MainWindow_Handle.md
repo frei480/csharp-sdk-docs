@@ -11,16 +11,8 @@
 ```csharp
 public virtual IntPtr Handle { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Handle As IntPtr
-	Get
-```
-```cpp
-public:
-virtual property IntPtr Handle {
-	IntPtr get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,18 +10,8 @@ public ThreadStep this[
 	int index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As Integer
-) As ThreadStep
-	Get
-```
-```cpp
-public:
-property ThreadStep^ default[int index] {
-	ThreadStep^ get (int index);
-}
-```
+
+
 
 
 #### Параметры

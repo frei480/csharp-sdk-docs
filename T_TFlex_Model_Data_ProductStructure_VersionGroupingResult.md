@@ -11,12 +11,8 @@
 ```csharp
 public class VersionGroupingResult
 ```
-```vb
-Public Class VersionGroupingResult
-```
-```cpp
-public ref class VersionGroupingResult
-```
+
+
 
 
 Тип VersionGroupingResult предоставляет следующие члены.

@@ -10,17 +10,8 @@ public void SetObject(
 	Object3D object
 )
 ```
-```vb
-Public Sub SetObject ( 
-	object As Object3D
-)
-```
-```cpp
-public:
-void SetObject(
-	Object3D^ object
-)
-```
+
+
 
 
 #### Параметры

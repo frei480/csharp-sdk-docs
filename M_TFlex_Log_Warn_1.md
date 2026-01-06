@@ -11,19 +11,8 @@ public static void Warn(
 	Object arg
 )
 ```
-```vb
-Public Shared Sub Warn ( 
-	format As String,
-	arg As Object
-)
-```
-```cpp
-public:
-static void Warn(
-	String^ format, 
-	Object^ arg
-)
-```
+
+
 
 
 #### Параметры

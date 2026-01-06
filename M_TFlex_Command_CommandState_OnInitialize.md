@@ -10,17 +10,8 @@ public virtual void OnInitialize(
 	InitializeEventArgs e
 )
 ```
-```vb
-Public Overridable Sub OnInitialize ( 
-	e As InitializeEventArgs
-)
-```
-```cpp
-public:
-virtual void OnInitialize(
-	InitializeEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

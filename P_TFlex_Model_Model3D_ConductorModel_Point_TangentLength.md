@@ -8,18 +8,8 @@
 ```csharp
 public Parameter TangentLength { get; set; }
 ```
-```vb
-Public Property TangentLength As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ TangentLength {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

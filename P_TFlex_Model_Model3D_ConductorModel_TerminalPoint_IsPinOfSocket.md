@@ -8,16 +8,8 @@
 ```csharp
 public bool IsPinOfSocket { get; }
 ```
-```vb
-Public ReadOnly Property IsPinOfSocket As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsPinOfSocket {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

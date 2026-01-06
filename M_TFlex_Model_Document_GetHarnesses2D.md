@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Harness2D> GetHarnesses2D()
 ```
-```vb
-Public Function GetHarnesses2D As ICollection(Of Harness2D)
-```
-```cpp
-public:
-ICollection<Harness2D^>^ GetHarnesses2D()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,16 +11,8 @@
 ```csharp
 public LCSGeometryData Geometry { get; }
 ```
-```vb
-Public ReadOnly Property Geometry As LCSGeometryData
-	Get
-```
-```cpp
-public:
-property LCSGeometryData^ Geometry {
-	LCSGeometryData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

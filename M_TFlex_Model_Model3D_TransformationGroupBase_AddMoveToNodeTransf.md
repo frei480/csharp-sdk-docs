@@ -13,17 +13,8 @@ public void AddMoveToNodeTransf(
 	ModelPoint3D point
 )
 ```
-```vb
-Public Sub AddMoveToNodeTransf ( 
-	point As ModelPoint3D
-)
-```
-```cpp
-public:
-void AddMoveToNodeTransf(
-	ModelPoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

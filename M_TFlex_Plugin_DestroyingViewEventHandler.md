@@ -13,17 +13,8 @@ protected virtual void DestroyingViewEventHandler(
 	ViewEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub DestroyingViewEventHandler ( 
-	args As ViewEventArgs
-)
-```
-```cpp
-protected:
-virtual void DestroyingViewEventHandler(
-	ViewEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

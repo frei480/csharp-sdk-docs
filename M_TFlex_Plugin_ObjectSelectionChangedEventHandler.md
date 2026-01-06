@@ -13,17 +13,8 @@ protected virtual void ObjectSelectionChangedEventHandler(
 	ObjectEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub ObjectSelectionChangedEventHandler ( 
-	args As ObjectEventArgs
-)
-```
-```cpp
-protected:
-virtual void ObjectSelectionChangedEventHandler(
-	ObjectEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

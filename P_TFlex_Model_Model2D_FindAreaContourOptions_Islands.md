@@ -11,18 +11,8 @@
 ```csharp
 public bool Islands { get; set; }
 ```
-```vb
-Public Property Islands As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Islands {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

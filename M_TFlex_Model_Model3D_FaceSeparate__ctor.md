@@ -13,17 +13,8 @@ public FaceSeparate(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-FaceSeparate(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public bool IgnoreTranslateZ { get; set; }
 ```
-```vb
-Public Property IgnoreTranslateZ As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IgnoreTranslateZ {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

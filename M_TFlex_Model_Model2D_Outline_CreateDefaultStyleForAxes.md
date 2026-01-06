@@ -10,17 +10,8 @@ protected void CreateDefaultStyleForAxes(
 	Document doc
 )
 ```
-```vb
-Protected Sub CreateDefaultStyleForAxes ( 
-	doc As Document
-)
-```
-```cpp
-protected:
-void CreateDefaultStyleForAxes(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

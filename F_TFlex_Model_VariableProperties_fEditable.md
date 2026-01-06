@@ -11,13 +11,8 @@
 ```csharp
 public bool fEditable
 ```
-```vb
-Public fEditable As Boolean
-```
-```cpp
-public:
-bool fEditable
-```
+
+
 
 
 #### Значение поля

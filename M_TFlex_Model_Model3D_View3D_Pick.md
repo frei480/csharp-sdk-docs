@@ -17,25 +17,8 @@ public Decoration Pick(
 	ref FloatVector closestPoint
 )
 ```
-```vb
-Public Function Pick ( 
-	x As Integer,
-	y As Integer,
-	tolerance As Single,
-	decorationRoot As Decoration,
-	ByRef closestPoint As FloatVector
-) As Decoration
-```
-```cpp
-public:
-Decoration^ Pick(
-	int x, 
-	int y, 
-	float tolerance, 
-	Decoration^ decorationRoot, 
-	FloatVector% closestPoint
-)
-```
+
+
 
 
 #### Параметры

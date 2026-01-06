@@ -13,13 +13,8 @@
 ```csharp
 public class CircleGeometry : ObjectGeometry
 ```
-```vb
-Public Class CircleGeometry
-	Inherits ObjectGeometry
-```
-```cpp
-public ref class CircleGeometry : public ObjectGeometry
-```
+
+
 
 
 Тип CircleGeometry предоставляет следующие члены.

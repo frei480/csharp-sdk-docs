@@ -13,13 +13,8 @@
 ```csharp
 public class Bend : Operation
 ```
-```vb
-Public Class Bend
-	Inherits Operation
-```
-```cpp
-public ref class Bend : public Operation
-```
+
+
 
 
 Тип Bend предоставляет следующие члены.

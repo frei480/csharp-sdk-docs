@@ -13,12 +13,8 @@
 ```csharp
 public sealed class DampingCoefficient
 ```
-```vb
-Public NotInheritable Class DampingCoefficient
-```
-```cpp
-public ref class DampingCoefficient sealed
-```
+
+
 
 
 Тип StandardUnitsDampingCoefficient предоставляет следующие члены.

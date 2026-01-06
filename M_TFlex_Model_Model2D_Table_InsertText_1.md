@@ -16,23 +16,8 @@ public void InsertText(
 	CharFormat format
 )
 ```
-```vb
-Public Sub InsertText ( 
-	cell As UInteger,
-	position As UInteger,
-	text As String,
-	format As CharFormat
-)
-```
-```cpp
-public:
-void InsertText(
-	unsigned int cell, 
-	unsigned int position, 
-	String^ text, 
-	CharFormat format
-)
-```
+
+
 
 
 #### Параметры

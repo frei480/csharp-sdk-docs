@@ -13,17 +13,8 @@ protected virtual void ObjectPropertiesDialogCompletedEventHandler(
 	ObjectEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub ObjectPropertiesDialogCompletedEventHandler ( 
-	args As ObjectEventArgs
-)
-```
-```cpp
-protected:
-virtual void ObjectPropertiesDialogCompletedEventHandler(
-	ObjectEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

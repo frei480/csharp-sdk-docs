@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Construction> GetConstructions()
 ```
-```vb
-Public Function GetConstructions As ICollection(Of Construction)
-```
-```cpp
-public:
-ICollection<Construction^>^ GetConstructions()
-```
+
+
 
 
 #### Возвращаемое значение

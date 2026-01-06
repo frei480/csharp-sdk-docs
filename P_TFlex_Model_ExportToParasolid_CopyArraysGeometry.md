@@ -11,18 +11,8 @@
 ```csharp
 public bool CopyArraysGeometry { get; set; }
 ```
-```vb
-Public Property CopyArraysGeometry As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CopyArraysGeometry {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

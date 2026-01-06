@@ -8,18 +8,8 @@
 ```csharp
 public int ActiveProjection { get; set; }
 ```
-```vb
-Public Property ActiveProjection As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ActiveProjection {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

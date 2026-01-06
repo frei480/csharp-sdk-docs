@@ -14,14 +14,8 @@
 public class OperandsArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class OperandsArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class OperandsArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип BooleanOperationOperandsArray предоставляет следующие члены.

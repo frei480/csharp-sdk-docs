@@ -11,18 +11,8 @@
 ```csharp
 public FaceSeparateHealingMethodType SourceHealingMethod { get; set; }
 ```
-```vb
-Public Property SourceHealingMethod As FaceSeparateHealingMethodType
-	Get
-	Set
-```
-```cpp
-public:
-property FaceSeparateHealingMethodType SourceHealingMethod {
-	FaceSeparateHealingMethodType get ();
-	void set (FaceSeparateHealingMethodType value);
-}
-```
+
+
 
 
 #### Значение свойства

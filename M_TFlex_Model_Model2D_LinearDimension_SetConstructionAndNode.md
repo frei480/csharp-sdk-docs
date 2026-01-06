@@ -15,21 +15,8 @@ public void SetConstructionAndNode(
 	Node node2
 )
 ```
-```vb
-Public Sub SetConstructionAndNode ( 
-	line1 As Construction,
-	node1 As Node,
-	node2 As Node
-)
-```
-```cpp
-public:
-void SetConstructionAndNode(
-	Construction^ line1, 
-	Node^ node1, 
-	Node^ node2
-)
-```
+
+
 
 
 #### Параметры

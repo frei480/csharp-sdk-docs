@@ -11,19 +11,8 @@ public static IEnumerable<ModelBody> FindBodies(
 	Document A_1
 )
 ```
-```vb
-Public Shared Function FindBodies ( 
-	A_0 As ObjectIdChain,
-	A_1 As Document
-) As IEnumerable(Of ModelBody)
-```
-```cpp
-public:
-static IEnumerable<ModelBody^>^ FindBodies(
-	ObjectIdChain^ A_0, 
-	Document^ A_1
-)
-```
+
+
 
 
 #### Параметры

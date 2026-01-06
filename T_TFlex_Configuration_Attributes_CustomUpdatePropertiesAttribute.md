@@ -11,13 +11,8 @@
 ```csharp
 public class CustomUpdatePropertiesAttribute : Attribute
 ```
-```vb
-Public Class CustomUpdatePropertiesAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomUpdatePropertiesAttribute : public Attribute
-```
+
+
 
 
 Тип CustomUpdatePropertiesAttribute предоставляет следующие члены.

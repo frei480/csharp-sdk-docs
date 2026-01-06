@@ -13,17 +13,8 @@ public ExportToBitmap3D(
 	Control control
 )
 ```
-```vb
-Public Sub New ( 
-	control As Control
-)
-```
-```cpp
-public:
-ExportToBitmap3D(
-	Control^ control
-)
-```
+
+
 
 
 #### Параметры

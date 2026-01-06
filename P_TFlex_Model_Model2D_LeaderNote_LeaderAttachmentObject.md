@@ -11,16 +11,8 @@
 ```csharp
 public Object2D LeaderAttachmentObject { get; }
 ```
-```vb
-Public ReadOnly Property LeaderAttachmentObject As Object2D
-	Get
-```
-```cpp
-public:
-property Object2D^ LeaderAttachmentObject {
-	Object2D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

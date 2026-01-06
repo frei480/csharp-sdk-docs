@@ -11,13 +11,8 @@
 ```csharp
 public FormatParameterDataGenerator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FormatParameterDataGenerator()
-```
+
+
 
 
 #### Ссылки

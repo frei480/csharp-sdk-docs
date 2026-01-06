@@ -13,17 +13,8 @@ public Sensor GetSensor(
 	int index
 )
 ```
-```vb
-Public Function GetSensor ( 
-	index As Integer
-) As Sensor
-```
-```cpp
-public:
-Sensor^ GetSensor(
-	int index
-)
-```
+
+
 
 
 #### Параметры

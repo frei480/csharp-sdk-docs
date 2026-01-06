@@ -11,13 +11,8 @@
 ```csharp
 public SimpleListControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SimpleListControl()
-```
+
+
 
 
 #### Ссылки

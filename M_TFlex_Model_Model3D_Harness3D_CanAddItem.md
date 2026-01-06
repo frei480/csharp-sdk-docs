@@ -13,17 +13,8 @@ public bool CanAddItem(
 	Construction3D pElement
 )
 ```
-```vb
-Public Function CanAddItem ( 
-	pElement As Construction3D
-) As Boolean
-```
-```cpp
-public:
-bool CanAddItem(
-	Construction3D^ pElement
-)
-```
+
+
 
 
 #### Параметры

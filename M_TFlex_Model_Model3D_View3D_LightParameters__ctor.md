@@ -11,13 +11,8 @@
 ```csharp
 public LightParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LightParameters()
-```
+
+
 
 
 Создаётся один направленный источник света с параметрами по умолчанию

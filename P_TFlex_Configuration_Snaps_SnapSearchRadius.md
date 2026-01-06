@@ -8,18 +8,8 @@
 ```csharp
 public int SnapSearchRadius { get; set; }
 ```
-```vb
-Public Property SnapSearchRadius As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SnapSearchRadius {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public ThreePlanesPoint(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ThreePlanesPoint(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

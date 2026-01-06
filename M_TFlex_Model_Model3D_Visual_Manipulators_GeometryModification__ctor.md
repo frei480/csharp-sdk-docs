@@ -11,13 +11,8 @@
 ```csharp
 public GeometryModification()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-GeometryModification()
-```
+
+
 
 
 #### Ссылки

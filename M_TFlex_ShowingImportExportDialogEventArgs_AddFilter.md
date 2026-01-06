@@ -16,19 +16,8 @@ public void AddFilter(
 	string filter
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete, use 'AddFilter with 4 parameters' instead")>
-Public Sub AddFilter ( 
-	filter As String
-)
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete, use 'AddFilter with 4 parameters' instead")]
-void AddFilter(
-	String^ filter
-)
-```
+
+
 
 
 #### Параметры

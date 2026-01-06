@@ -13,17 +13,8 @@ public void SetVertical(
 	Parameter distance
 )
 ```
-```vb
-Public Sub SetVertical ( 
-	distance As Parameter
-)
-```
-```cpp
-public:
-void SetVertical(
-	Parameter^ distance
-)
-```
+
+
 
 
 #### Параметры

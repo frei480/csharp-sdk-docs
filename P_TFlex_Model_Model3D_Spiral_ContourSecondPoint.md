@@ -11,18 +11,8 @@
 ```csharp
 public ModelPoint3D ContourSecondPoint { get; set; }
 ```
-```vb
-Public Property ContourSecondPoint As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ ContourSecondPoint {
-	ModelPoint3D^ get ();
-	void set (ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

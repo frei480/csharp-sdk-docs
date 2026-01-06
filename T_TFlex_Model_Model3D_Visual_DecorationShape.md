@@ -13,13 +13,8 @@
 ```csharp
 public class DecorationShape : Decoration
 ```
-```vb
-Public Class DecorationShape
-	Inherits Decoration
-```
-```cpp
-public ref class DecorationShape : public Decoration
-```
+
+
 
 
 #### Значение поля

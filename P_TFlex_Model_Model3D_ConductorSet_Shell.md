@@ -8,16 +8,8 @@
 ```csharp
 public Shell Shell { get; }
 ```
-```vb
-Public ReadOnly Property Shell As Shell
-	Get
-```
-```cpp
-public:
-property Shell^ Shell {
-	Shell^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

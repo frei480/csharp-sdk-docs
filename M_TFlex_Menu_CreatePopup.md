@@ -11,13 +11,8 @@
 ```csharp
 public void CreatePopup()
 ```
-```vb
-Public Sub CreatePopup
-```
-```cpp
-public:
-void CreatePopup()
-```
+
+
 
 
 #### Ссылки

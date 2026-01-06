@@ -13,17 +13,8 @@ public bool IsBeginTangentPossible(
 	bool AnalysisReverseFlag
 )
 ```
-```vb
-Public Function IsBeginTangentPossible ( 
-	AnalysisReverseFlag As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool IsBeginTangentPossible(
-	bool AnalysisReverseFlag
-)
-```
+
+
 
 
 #### Параметры

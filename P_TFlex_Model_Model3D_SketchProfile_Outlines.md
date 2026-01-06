@@ -11,18 +11,8 @@
 ```csharp
 public SketchProfileOutlinesArray Outlines { get; set; }
 ```
-```vb
-Public Property Outlines As SketchProfileOutlinesArray
-	Get
-	Set
-```
-```cpp
-public:
-property SketchProfileOutlinesArray^ Outlines {
-	SketchProfileOutlinesArray^ get ();
-	void set (SketchProfileOutlinesArray^ value);
-}
-```
+
+
 
 
 #### Значение свойства

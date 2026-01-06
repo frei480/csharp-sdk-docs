@@ -11,18 +11,8 @@
 ```csharp
 public BodyTaperMiterType Miter { get; set; }
 ```
-```vb
-Public Property Miter As BodyTaperMiterType
-	Get
-	Set
-```
-```cpp
-public:
-property BodyTaperMiterType Miter {
-	BodyTaperMiterType get ();
-	void set (BodyTaperMiterType value);
-}
-```
+
+
 
 
 #### Значение свойства

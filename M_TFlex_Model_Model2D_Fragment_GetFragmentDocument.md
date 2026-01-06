@@ -11,13 +11,8 @@
 ```csharp
 public Document GetFragmentDocument()
 ```
-```vb
-Public Function GetFragmentDocument As Document
-```
-```cpp
-public:
-Document^ GetFragmentDocument()
-```
+
+
 
 
 #### Возвращаемое значение

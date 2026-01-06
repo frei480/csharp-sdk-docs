@@ -13,17 +13,8 @@ public void ResetLinearSize(
 	double linearSize
 )
 ```
-```vb
-Public Sub ResetLinearSize ( 
-	linearSize As Double
-)
-```
-```cpp
-public:
-void ResetLinearSize(
-	double linearSize
-)
-```
+
+
 
 
 #### Параметры

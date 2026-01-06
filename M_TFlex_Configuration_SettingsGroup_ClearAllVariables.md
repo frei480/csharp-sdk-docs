@@ -8,13 +8,8 @@
 ```csharp
 public void ClearAllVariables()
 ```
-```vb
-Public Sub ClearAllVariables
-```
-```cpp
-public:
-void ClearAllVariables()
-```
+
+
 
 
 #### Ссылки

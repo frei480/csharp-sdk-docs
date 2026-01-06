@@ -13,17 +13,8 @@ public Direction(
 	BaseDirection direction
 )
 ```
-```vb
-Public Sub New ( 
-	direction As BaseDirection
-)
-```
-```cpp
-public:
-Direction(
-	BaseDirection^ direction
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 protected virtual bool IsVirtualBody()
 ```
-```vb
-Protected Overridable Function IsVirtualBody As Boolean
-```
-```cpp
-protected:
-virtual bool IsVirtualBody()
-```
+
+
 
 
 #### Возвращаемое значение

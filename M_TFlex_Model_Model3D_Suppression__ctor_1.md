@@ -13,17 +13,8 @@ public Suppression(
 	Variable var
 )
 ```
-```vb
-Public Sub New ( 
-	var As Variable
-)
-```
-```cpp
-public:
-Suppression(
-	Variable^ var
-)
-```
+
+
 
 
 #### Параметры

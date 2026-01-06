@@ -11,13 +11,8 @@
 ```csharp
 public Surface()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Surface()
-```
+
+
 
 
 #### Ссылки

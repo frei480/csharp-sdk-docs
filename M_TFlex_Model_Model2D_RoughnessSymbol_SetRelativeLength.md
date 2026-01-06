@@ -17,25 +17,8 @@ public void SetRelativeLength(
 	string p
 )
 ```
-```vb
-Public Sub SetRelativeLength ( 
-	parameterType As RoughnessRelativeLengthType,
-	minimum As String,
-	maximumOrNominal As String,
-	deviation As String,
-	p As String
-)
-```
-```cpp
-public:
-void SetRelativeLength(
-	RoughnessRelativeLengthType parameterType, 
-	String^ minimum, 
-	String^ maximumOrNominal, 
-	String^ deviation, 
-	String^ p
-)
-```
+
+
 
 
 #### Параметры

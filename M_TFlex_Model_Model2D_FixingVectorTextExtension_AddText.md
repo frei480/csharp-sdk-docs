@@ -11,21 +11,8 @@ public static int AddText(
 	string str
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function AddText ( 
-	__unnamed000 As FixingVector,
-	str As String
-) As Integer
-```
-```cpp
-public:
-[ExtensionAttribute]
-static int AddText(
-	FixingVector^ __unnamed000, 
-	String^ str
-)
-```
+
+
 
 
 #### Параметры

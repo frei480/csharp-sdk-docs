@@ -10,17 +10,8 @@ public void Add(
 	PageType type
 )
 ```
-```vb
-Public Sub Add ( 
-	type As PageType
-)
-```
-```cpp
-public:
-virtual void Add(
-	PageType type
-) sealed
-```
+
+
 
 
 #### Параметры

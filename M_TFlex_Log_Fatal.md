@@ -10,17 +10,8 @@ public static void Fatal(
 	string message
 )
 ```
-```vb
-Public Shared Sub Fatal ( 
-	message As String
-)
-```
-```cpp
-public:
-static void Fatal(
-	String^ message
-)
-```
+
+
 
 
 #### Параметры

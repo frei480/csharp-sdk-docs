@@ -13,17 +13,8 @@ public bool Remove(
 	ListControlStandardButton standardButton
 )
 ```
-```vb
-Public Function Remove ( 
-	standardButton As ListControlStandardButton
-) As Boolean
-```
-```cpp
-public:
-bool Remove(
-	ListControlStandardButton standardButton
-)
-```
+
+
 
 
 #### Параметры

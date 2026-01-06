@@ -8,13 +8,8 @@
 ```csharp
 public ParametersPropertiesOverrides Copy()
 ```
-```vb
-Public Function Copy As ParametersPropertiesOverrides
-```
-```cpp
-public:
-ParametersPropertiesOverrides^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,18 +11,8 @@
 ```csharp
 public bool Direction2StepFromVector { get; set; }
 ```
-```vb
-Public Property Direction2StepFromVector As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Direction2StepFromVector {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

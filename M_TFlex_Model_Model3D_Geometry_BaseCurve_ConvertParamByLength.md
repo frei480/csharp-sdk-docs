@@ -13,17 +13,8 @@ public double ConvertParamByLength(
 	double paramByLength
 )
 ```
-```vb
-Public Function ConvertParamByLength ( 
-	paramByLength As Double
-) As Double
-```
-```cpp
-public:
-double ConvertParamByLength(
-	double paramByLength
-)
-```
+
+
 
 
 #### Параметры

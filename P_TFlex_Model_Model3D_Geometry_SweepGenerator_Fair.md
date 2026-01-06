@@ -11,18 +11,8 @@
 ```csharp
 public bool Fair { get; set; }
 ```
-```vb
-Public Property Fair As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Fair {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

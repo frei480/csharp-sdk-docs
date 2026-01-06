@@ -11,18 +11,8 @@
 ```csharp
 public SpiralLengthType LengthMethod { get; set; }
 ```
-```vb
-Public Property LengthMethod As SpiralLengthType
-	Get
-	Set
-```
-```cpp
-public:
-property SpiralLengthType LengthMethod {
-	SpiralLengthType get ();
-	void set (SpiralLengthType value);
-}
-```
+
+
 
 
 #### Значение свойства

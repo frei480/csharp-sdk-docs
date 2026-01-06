@@ -11,13 +11,8 @@
 ```csharp
 public TableVertHorParams HalfCellSpace
 ```
-```vb
-Public HalfCellSpace As TableVertHorParams
-```
-```cpp
-public:
-TableVertHorParams HalfCellSpace
-```
+
+
 
 
 #### Значение поля

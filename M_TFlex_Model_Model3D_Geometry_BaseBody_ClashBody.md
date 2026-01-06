@@ -16,19 +16,8 @@ public BaseBodyTypeOfClashing ClashBody(
 	BaseBody body
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete, value will not be returned and will be removed. Please use 'Clash' method.")>
-Public Function ClashBody ( 
-	body As BaseBody
-) As BaseBodyTypeOfClashing
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete, value will not be returned and will be removed. Please use 'Clash' method.")]
-BaseBodyTypeOfClashing ClashBody(
-	BaseBody^ body
-)
-```
+
+
 
 
 #### Параметры

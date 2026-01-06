@@ -11,19 +11,8 @@ public static bool operator !=(
 	RowDescriptor right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As RowDescriptor,
-	right As RowDescriptor
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	RowDescriptor^ left, 
-	RowDescriptor^ right
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public void SetWidthCoefficients(
 	IList<double> widthCoefficients
 )
 ```
-```vb
-Public Sub SetWidthCoefficients ( 
-	widthCoefficients As IList(Of Double)
-)
-```
-```cpp
-public:
-void SetWidthCoefficients(
-	IList<double>^ widthCoefficients
-)
-```
+
+
 
 
 #### Параметры

@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Outline> GetOutlines()
 ```
-```vb
-Public Function GetOutlines As ICollection(Of Outline)
-```
-```cpp
-public:
-ICollection<Outline^>^ GetOutlines()
-```
+
+
 
 
 #### Возвращаемое значение

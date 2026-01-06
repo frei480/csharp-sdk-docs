@@ -11,18 +11,8 @@
 ```csharp
 public Parameter CircleRadius { get; set; }
 ```
-```vb
-Public Property CircleRadius As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ CircleRadius {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

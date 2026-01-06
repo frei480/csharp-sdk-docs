@@ -13,17 +13,8 @@ public PerpendicularToPathWorkplane(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-PerpendicularToPathWorkplane(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class BodyTaper : Operation
 ```
-```vb
-Public Class BodyTaper
-	Inherits Operation
-```
-```cpp
-public ref class BodyTaper : public Operation
-```
+
+
 
 
 Тип BodyTaper предоставляет следующие члены.

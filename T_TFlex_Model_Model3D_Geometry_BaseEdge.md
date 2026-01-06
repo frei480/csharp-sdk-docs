@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseEdge
 ```
-```vb
-Public Interface BaseEdge
-```
-```cpp
-public interface class BaseEdge
-```
+
+
 
 
 Тип BaseEdge предоставляет следующие члены.

@@ -13,17 +13,8 @@ public bool MacroExists(
 	string macro
 )
 ```
-```vb
-Public Function MacroExists ( 
-	macro As String
-) As Boolean
-```
-```cpp
-public:
-bool MacroExists(
-	String^ macro
-)
-```
+
+
 
 
 #### Параметры

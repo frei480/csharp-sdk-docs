@@ -8,16 +8,8 @@
 ```csharp
 public Specification Specification { get; }
 ```
-```vb
-Public ReadOnly Property Specification As Specification
-	Get
-```
-```cpp
-public:
-property Specification^ Specification {
-	Specification^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

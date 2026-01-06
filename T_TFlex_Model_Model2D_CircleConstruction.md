@@ -13,13 +13,8 @@
 ```csharp
 public class CircleConstruction : Construction
 ```
-```vb
-Public Class CircleConstruction
-	Inherits Construction
-```
-```cpp
-public ref class CircleConstruction : public Construction
-```
+
+
 
 
 Тип CircleConstruction предоставляет следующие члены.

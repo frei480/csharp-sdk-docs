@@ -13,17 +13,8 @@ public ListItemAlignment GetDefaultAlignment(
 	int column
 )
 ```
-```vb
-Public Function GetDefaultAlignment ( 
-	column As Integer
-) As ListItemAlignment
-```
-```cpp
-public:
-ListItemAlignment GetDefaultAlignment(
-	int column
-)
-```
+
+
 
 
 #### Параметры

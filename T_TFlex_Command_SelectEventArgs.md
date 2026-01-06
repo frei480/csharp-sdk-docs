@@ -13,13 +13,8 @@
 ```csharp
 public sealed class SelectEventArgs : CursorEventArgs
 ```
-```vb
-Public NotInheritable Class SelectEventArgs
-	Inherits CursorEventArgs
-```
-```cpp
-public ref class SelectEventArgs sealed : public CursorEventArgs
-```
+
+
 
 
 Тип SelectEventArgs предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public bool AssemblyRepresentation { get; set; }
 ```
-```vb
-Public Property AssemblyRepresentation As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AssemblyRepresentation {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

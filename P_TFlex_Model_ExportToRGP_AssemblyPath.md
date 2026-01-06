@@ -11,18 +11,8 @@
 ```csharp
 public string AssemblyPath { get; set; }
 ```
-```vb
-Public Property AssemblyPath As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ AssemblyPath {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

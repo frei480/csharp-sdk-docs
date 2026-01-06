@@ -14,19 +14,8 @@ public Dependence(
 	Parameter y
 )
 ```
-```vb
-Public Sub New ( 
-	x As Parameter,
-	y As Parameter
-)
-```
-```cpp
-public:
-Dependence(
-	Parameter^ x, 
-	Parameter^ y
-)
-```
+
+
 
 
 #### Параметры

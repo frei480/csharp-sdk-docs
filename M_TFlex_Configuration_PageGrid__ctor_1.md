@@ -14,19 +14,8 @@ public PageGrid(
 	bool isOwned
 )
 ```
-```vb
-Public Sub New ( 
-	nativeOptionsPointer As IntPtr,
-	isOwned As Boolean
-)
-```
-```cpp
-public:
-PageGrid(
-	IntPtr nativeOptionsPointer, 
-	bool isOwned
-)
-```
+
+
 
 
 #### Параметры

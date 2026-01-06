@@ -13,17 +13,8 @@ public MaterialLibrary(
 	string FileName
 )
 ```
-```vb
-Public Sub New ( 
-	FileName As String
-)
-```
-```cpp
-public:
-MaterialLibrary(
-	String^ FileName
-)
-```
+
+
 
 
 #### Параметры

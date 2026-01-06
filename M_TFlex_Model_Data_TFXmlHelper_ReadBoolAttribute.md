@@ -12,23 +12,8 @@ public static bool ReadBoolAttribute(
 	bool defValue = false
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function ReadBoolAttribute ( 
-	element As XmlElement,
-	attrName As String,
-	Optional defValue As Boolean = false
-) As Boolean
-```
-```cpp
-public:
-[ExtensionAttribute]
-static bool ReadBoolAttribute(
-	XmlElement^ element, 
-	String^ attrName, 
-	bool defValue = false
-)
-```
+
+
 
 
 #### Параметры

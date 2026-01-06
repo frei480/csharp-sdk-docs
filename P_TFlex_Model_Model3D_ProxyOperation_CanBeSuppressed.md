@@ -11,16 +11,8 @@
 ```csharp
 public virtual bool CanBeSuppressed { get; }
 ```
-```vb
-Public Overridable ReadOnly Property CanBeSuppressed As Boolean
-	Get
-```
-```cpp
-public:
-virtual property bool CanBeSuppressed {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

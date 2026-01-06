@@ -10,17 +10,8 @@ public void Add(
 	ObjectId objectId
 )
 ```
-```vb
-Public Sub Add ( 
-	objectId As ObjectId
-)
-```
-```cpp
-public:
-void Add(
-	ObjectId^ objectId
-)
-```
+
+
 
 
 #### Параметры

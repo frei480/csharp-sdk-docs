@@ -21,33 +21,8 @@ public IntersectSurfaceData IntersectSurface(
 	BasePoint3D point
 )
 ```
-```vb
-Public Function IntersectSurface ( 
-	surface As BaseSurface,
-	havebox As Boolean,
-	box As BaseBox,
-	haveuvbox1 As Boolean,
-	uvbox1 As UVBox,
-	haveuvbox2 As Boolean,
-	uvbox2 As UVBox,
-	havepoint As Boolean,
-	point As BasePoint3D
-) As IntersectSurfaceData
-```
-```cpp
-public:
-IntersectSurfaceData^ IntersectSurface(
-	BaseSurface^ surface, 
-	bool havebox, 
-	BaseBox^ box, 
-	bool haveuvbox1, 
-	UVBox^ uvbox1, 
-	bool haveuvbox2, 
-	UVBox^ uvbox2, 
-	bool havepoint, 
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

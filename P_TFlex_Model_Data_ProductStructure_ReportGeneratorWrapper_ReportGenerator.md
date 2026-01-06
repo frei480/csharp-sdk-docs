@@ -8,18 +8,8 @@
 ```csharp
 public IReportGenerator ReportGenerator { get; set; }
 ```
-```vb
-Public Property ReportGenerator As IReportGenerator
-	Get
-	Set
-```
-```cpp
-public:
-property IReportGenerator^ ReportGenerator {
-	IReportGenerator^ get ();
-	void set (IReportGenerator^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public abstract IEnumerable<WireConnectionInfo> GetAllWireConnectionInfos(
 	bool edit
 )
 ```
-```vb
-Public MustOverride Function GetAllWireConnectionInfos ( 
-	edit As Boolean
-) As IEnumerable(Of WireConnectionInfo)
-```
-```cpp
-public:
-virtual IEnumerable<WireConnectionInfo^>^ GetAllWireConnectionInfos(
-	bool edit
-) abstract
-```
+
+
 
 
 #### Параметры

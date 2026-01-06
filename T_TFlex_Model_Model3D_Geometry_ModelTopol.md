@@ -13,13 +13,8 @@
 ```csharp
 public class ModelTopol : BaseTopol
 ```
-```vb
-Public Class ModelTopol
-	Inherits BaseTopol
-```
-```cpp
-public ref class ModelTopol : public BaseTopol
-```
+
+
 
 
 Тип ModelTopol предоставляет следующие члены.

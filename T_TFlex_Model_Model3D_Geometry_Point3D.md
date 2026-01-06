@@ -13,13 +13,8 @@
 ```csharp
 public class Point3D : BasePoint3D
 ```
-```vb
-Public Class Point3D
-	Inherits BasePoint3D
-```
-```cpp
-public ref class Point3D : public BasePoint3D
-```
+
+
 
 
 Тип Point3D предоставляет следующие члены.

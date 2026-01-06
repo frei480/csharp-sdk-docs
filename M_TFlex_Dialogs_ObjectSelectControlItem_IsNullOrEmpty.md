@@ -13,17 +13,8 @@ public static bool IsNullOrEmpty(
 	ObjectSelectControlItem element
 )
 ```
-```vb
-Public Shared Function IsNullOrEmpty ( 
-	element As ObjectSelectControlItem
-) As Boolean
-```
-```cpp
-public:
-static bool IsNullOrEmpty(
-	ObjectSelectControlItem^ element
-)
-```
+
+
 
 
 #### Параметры

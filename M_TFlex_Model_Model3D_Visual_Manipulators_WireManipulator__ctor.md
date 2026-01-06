@@ -11,13 +11,8 @@
 ```csharp
 public WireManipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-WireManipulator()
-```
+
+
 
 
 #### Ссылки

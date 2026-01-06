@@ -11,13 +11,8 @@
 ```csharp
 public int GetSize()
 ```
-```vb
-Public Function GetSize As Integer
-```
-```cpp
-public:
-int GetSize()
-```
+
+
 
 
 #### Возвращаемое значение

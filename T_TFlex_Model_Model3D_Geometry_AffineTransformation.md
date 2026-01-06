@@ -14,15 +14,8 @@
 public class AffineTransformation : TransformationMatrix, 
 	IDisposable
 ```
-```vb
-Public Class AffineTransformation
-	Inherits TransformationMatrix
-	Implements IDisposable
-```
-```cpp
-public ref class AffineTransformation : public TransformationMatrix, 
-	IDisposable
-```
+
+
 
 
 Тип AffineTransformation предоставляет следующие члены.

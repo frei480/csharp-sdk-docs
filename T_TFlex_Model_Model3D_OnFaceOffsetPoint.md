@@ -13,13 +13,8 @@
 ```csharp
 public class OnFaceOffsetPoint : Node3D
 ```
-```vb
-Public Class OnFaceOffsetPoint
-	Inherits Node3D
-```
-```cpp
-public ref class OnFaceOffsetPoint : public Node3D
-```
+
+
 
 
 Тип OnFaceOffsetPoint предоставляет следующие члены.

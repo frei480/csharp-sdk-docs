@@ -13,12 +13,8 @@
 ```csharp
 public abstract class BaseSegment
 ```
-```vb
-Public MustInherit Class BaseSegment
-```
-```cpp
-public ref class BaseSegment abstract
-```
+
+
 
 
 Тип PipePath3DBaseSegment предоставляет следующие члены.

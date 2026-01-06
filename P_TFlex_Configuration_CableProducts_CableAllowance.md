@@ -8,18 +8,8 @@
 ```csharp
 public double CableAllowance { get; set; }
 ```
-```vb
-Public Property CableAllowance As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double CableAllowance {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class ReportEditPropertiesContext : ICloneable
 ```
-```vb
-Public Class ReportEditPropertiesContext
-	Implements ICloneable
-```
-```cpp
-public ref class ReportEditPropertiesContext : ICloneable
-```
+
+
 
 
 Тип ReportEditPropertiesContext предоставляет следующие члены.

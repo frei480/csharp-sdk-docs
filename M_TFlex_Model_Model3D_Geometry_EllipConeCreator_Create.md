@@ -16,29 +16,8 @@ public static BaseSurface Create(
 	Direction referencedirection
 )
 ```
-```vb
-Public Shared Function Create ( 
-	minorRadius As Double,
-	majorRadius As Double,
-	height As Double,
-	semiangle As Double,
-	api_point As Point3D,
-	normal As Direction,
-	referencedirection As Direction
-) As BaseSurface
-```
-```cpp
-public:
-static BaseSurface^ Create(
-	double minorRadius, 
-	double majorRadius, 
-	double height, 
-	double semiangle, 
-	Point3D^ api_point, 
-	Direction^ normal, 
-	Direction^ referencedirection
-)
-```
+
+
 
 
 #### Параметры

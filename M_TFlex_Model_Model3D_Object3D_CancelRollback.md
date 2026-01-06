@@ -11,13 +11,8 @@
 ```csharp
 public bool CancelRollback()
 ```
-```vb
-Public Function CancelRollback As Boolean
-```
-```cpp
-public:
-bool CancelRollback()
-```
+
+
 
 
 #### Возвращаемое значение

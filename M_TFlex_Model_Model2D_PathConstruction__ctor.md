@@ -13,17 +13,8 @@ public PathConstruction(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-PathConstruction(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

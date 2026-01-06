@@ -11,16 +11,8 @@
 ```csharp
 public Point Center { get; }
 ```
-```vb
-Public ReadOnly Property Center As Point
-	Get
-```
-```cpp
-public:
-property Point Center {
-	Point get ();
-}
-```
+
+
 
 
 #### Значение свойства

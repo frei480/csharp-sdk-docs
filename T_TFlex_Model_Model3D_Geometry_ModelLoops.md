@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ModelLoops : BaseLoops
 ```
-```vb
-Public NotInheritable Class ModelLoops
-	Inherits BaseLoops
-```
-```cpp
-public ref class ModelLoops sealed : public BaseLoops
-```
+
+
 
 
 Тип ModelLoops предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public ReportHierarchyType HierarchyType { get; set; }
 ```
-```vb
-Public Property HierarchyType As ReportHierarchyType
-	Get
-	Set
-```
-```cpp
-public:
-property ReportHierarchyType HierarchyType {
-	ReportHierarchyType get ();
-	void set (ReportHierarchyType value);
-}
-```
+
+
 
 
 #### Значение свойства

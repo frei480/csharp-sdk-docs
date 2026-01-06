@@ -10,20 +10,8 @@ public Sheet this[
 	int Index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	Index As Integer
-) As Sheet
-	Get
-	Set
-```
-```cpp
-public:
-property Sheet^ default[int Index] {
-	Sheet^ get (int Index);
-	void set (int Index, Sheet^ value);
-}
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class IntersectionNode3D : Node3D
 ```
-```vb
-Public Class IntersectionNode3D
-	Inherits Node3D
-```
-```cpp
-public ref class IntersectionNode3D : public Node3D
-```
+
+
 
 
 Тип IntersectionNode3D предоставляет следующие члены.

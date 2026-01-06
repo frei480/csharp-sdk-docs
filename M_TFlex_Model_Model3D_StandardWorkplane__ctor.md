@@ -14,19 +14,8 @@ public StandardWorkplane(
 	StandardWorkplaneStandardType type
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	type As StandardWorkplaneStandardType
-)
-```
-```cpp
-public:
-StandardWorkplane(
-	Document^ document, 
-	StandardWorkplaneStandardType type
-)
-```
+
+
 
 
 #### Параметры

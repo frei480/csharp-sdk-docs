@@ -13,17 +13,8 @@ public ApproximatedSplinePath3D(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-ApproximatedSplinePath3D(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

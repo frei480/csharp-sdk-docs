@@ -13,12 +13,8 @@ Auxiliary class for product structure report generation
 ```csharp
 public class ProductStructureReportSupport
 ```
-```vb
-Public Class ProductStructureReportSupport
-```
-```cpp
-public ref class ProductStructureReportSupport
-```
+
+
 
 
 Тип ProductStructureReportSupport предоставляет следующие члены.

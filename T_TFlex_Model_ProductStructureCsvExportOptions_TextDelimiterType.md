@@ -11,12 +11,8 @@
 ```csharp
 public enum TextDelimiterType
 ```
-```vb
-Public Enumeration TextDelimiterType
-```
-```cpp
-public enum class TextDelimiterType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

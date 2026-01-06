@@ -13,17 +13,8 @@ protected override void OnResize(
 	EventArgs e
 )
 ```
-```vb
-Protected Overrides Sub OnResize ( 
-	e As EventArgs
-)
-```
-```cpp
-protected:
-virtual void OnResize(
-	EventArgs^ e
-) override
-```
+
+
 
 
 #### Параметры

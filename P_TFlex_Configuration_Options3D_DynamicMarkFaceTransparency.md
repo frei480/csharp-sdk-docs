@@ -8,18 +8,8 @@
 ```csharp
 public double DynamicMarkFaceTransparency { get; set; }
 ```
-```vb
-Public Property DynamicMarkFaceTransparency As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double DynamicMarkFaceTransparency {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

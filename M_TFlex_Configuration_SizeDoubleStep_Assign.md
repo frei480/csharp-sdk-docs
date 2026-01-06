@@ -10,17 +10,8 @@ public void Assign(
 	SizeDoubleStep source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As SizeDoubleStep
-)
-```
-```cpp
-public:
-void Assign(
-	SizeDoubleStep^ source
-)
-```
+
+
 
 
 #### Параметры

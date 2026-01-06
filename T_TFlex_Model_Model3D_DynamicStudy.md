@@ -13,13 +13,8 @@
 ```csharp
 public class DynamicStudy : Study
 ```
-```vb
-Public Class DynamicStudy
-	Inherits Study
-```
-```cpp
-public ref class DynamicStudy : public Study
-```
+
+
 
 
 Тип DynamicStudy предоставляет следующие члены.

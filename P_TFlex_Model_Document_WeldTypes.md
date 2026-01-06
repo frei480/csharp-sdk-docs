@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetWeldTypes' method.")]
 public ObjectContainer WeldTypes { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetWeldTypes' method.")>
-Public ReadOnly Property WeldTypes As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetWeldTypes' method.")]
-property ObjectContainer^ WeldTypes {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

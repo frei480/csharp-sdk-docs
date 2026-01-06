@@ -11,16 +11,8 @@
 ```csharp
 public abstract Guid ID { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property ID As Guid
-	Get
-```
-```cpp
-public:
-virtual property Guid ID {
-	Guid get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

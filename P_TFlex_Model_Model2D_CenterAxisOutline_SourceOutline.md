@@ -11,18 +11,8 @@
 ```csharp
 public Outline SourceOutline { get; set; }
 ```
-```vb
-Public Property SourceOutline As Outline
-	Get
-	Set
-```
-```cpp
-public:
-property Outline^ SourceOutline {
-	Outline^ get ();
-	void set (Outline^ value);
-}
-```
+
+
 
 
 #### Значение свойства

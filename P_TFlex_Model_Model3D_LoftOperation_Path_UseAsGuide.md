@@ -11,18 +11,8 @@
 ```csharp
 public bool UseAsGuide { get; set; }
 ```
-```vb
-Public Property UseAsGuide As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseAsGuide {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

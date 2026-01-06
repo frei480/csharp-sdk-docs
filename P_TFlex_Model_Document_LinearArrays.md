@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetLinearArrays' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer LinearArrays { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetLinearArrays' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property LinearArrays As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetLinearArrays' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ LinearArrays {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

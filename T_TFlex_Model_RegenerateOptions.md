@@ -13,12 +13,8 @@
 ```csharp
 public sealed class RegenerateOptions
 ```
-```vb
-Public NotInheritable Class RegenerateOptions
-```
-```cpp
-public ref class RegenerateOptions sealed
-```
+
+
 
 
 Тип RegenerateOptions предоставляет следующие члены.

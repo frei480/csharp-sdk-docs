@@ -11,12 +11,8 @@
 ```csharp
 public class AttributePropertyManager
 ```
-```vb
-Public Class AttributePropertyManager
-```
-```cpp
-public ref class AttributePropertyManager
-```
+
+
 
 
 Тип AttributePropertyManager предоставляет следующие члены.

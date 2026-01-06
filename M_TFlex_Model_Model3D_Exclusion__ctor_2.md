@@ -18,27 +18,8 @@ public Exclusion(
 	bool bPeriodical
 )
 ```
-```vb
-Public Sub New ( 
-	pObject As ArrayOperation,
-	row As Parameter,
-	column As Parameter,
-	bFullRow As Boolean,
-	bFullColumn As Boolean,
-	bPeriodical As Boolean
-)
-```
-```cpp
-public:
-Exclusion(
-	ArrayOperation^ pObject, 
-	Parameter^ row, 
-	Parameter^ column, 
-	bool bFullRow, 
-	bool bFullColumn, 
-	bool bPeriodical
-)
-```
+
+
 
 
 #### Параметры

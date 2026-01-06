@@ -13,17 +13,8 @@ public static Fragment ExtractFragment(
 	FragmentExtractOptions fragmentExtractOptions
 )
 ```
-```vb
-Public Shared Function ExtractFragment ( 
-	fragmentExtractOptions As FragmentExtractOptions
-) As Fragment
-```
-```cpp
-public:
-static Fragment^ ExtractFragment(
-	FragmentExtractOptions^ fragmentExtractOptions
-)
-```
+
+
 
 
 #### Параметры

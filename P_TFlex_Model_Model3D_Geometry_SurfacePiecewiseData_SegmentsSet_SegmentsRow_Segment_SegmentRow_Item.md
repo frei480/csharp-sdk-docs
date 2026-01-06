@@ -10,20 +10,8 @@ public SurfacePiecewiseDataSegmentsSetSegmentsRowSegmentSegmentRowControlPoint t
 	uint index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As UInteger
-) As SurfacePiecewiseDataSegmentsSetSegmentsRowSegmentSegmentRowControlPoint
-	Get
-	Set
-```
-```cpp
-public:
-property SurfacePiecewiseDataSegmentsSetSegmentsRowSegmentSegmentRowControlPoint^ default[unsigned int index] {
-	SurfacePiecewiseDataSegmentsSetSegmentsRowSegmentSegmentRowControlPoint^ get (unsigned int index);
-	void set (unsigned int index, SurfacePiecewiseDataSegmentsSetSegmentsRowSegmentSegmentRowControlPoint^ value);
-}
-```
+
+
 
 
 #### Параметры

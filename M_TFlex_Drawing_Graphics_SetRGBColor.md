@@ -13,17 +13,8 @@ public int SetRGBColor(
 	int color
 )
 ```
-```vb
-Public Function SetRGBColor ( 
-	color As Integer
-) As Integer
-```
-```cpp
-public:
-int SetRGBColor(
-	int color
-)
-```
+
+
 
 
 #### Параметры

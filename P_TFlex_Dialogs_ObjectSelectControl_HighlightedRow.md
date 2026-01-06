@@ -11,16 +11,8 @@
 ```csharp
 public int HighlightedRow { get; }
 ```
-```vb
-Public ReadOnly Property HighlightedRow As Integer
-	Get
-```
-```cpp
-public:
-property int HighlightedRow {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

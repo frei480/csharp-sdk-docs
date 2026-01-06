@@ -13,17 +13,8 @@ public FreeNode(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-FreeNode(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

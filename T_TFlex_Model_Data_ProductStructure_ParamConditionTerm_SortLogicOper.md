@@ -8,12 +8,8 @@
 ```csharp
 public enum SortLogicOper
 ```
-```vb
-Public Enumeration SortLogicOper
-```
-```cpp
-public enum class SortLogicOper
-```
+
+
 
 
 | Имя члена | Значение | Описание |

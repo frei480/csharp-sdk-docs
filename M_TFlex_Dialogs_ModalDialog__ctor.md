@@ -11,13 +11,8 @@
 ```csharp
 public ModalDialog()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ModalDialog()
-```
+
+
 
 
 #### Ссылки

@@ -8,16 +8,8 @@
 ```csharp
 public SleevePoint Sleeve { get; }
 ```
-```vb
-Public ReadOnly Property Sleeve As SleevePoint
-	Get
-```
-```cpp
-public:
-property SleevePoint^ Sleeve {
-	SleevePoint^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,19 +13,8 @@ public static ICollection<DynamicStudy> GetDynamicStudies(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetDynamicStudies ( 
-	document As Document
-) As ICollection(Of DynamicStudy)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<DynamicStudy^>^ GetDynamicStudies(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public Box(
 	BaseBox box
 )
 ```
-```vb
-Public Sub New ( 
-	box As BaseBox
-)
-```
-```cpp
-public:
-Box(
-	BaseBox^ box
-)
-```
+
+
 
 
 #### Параметры

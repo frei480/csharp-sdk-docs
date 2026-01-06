@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Enumerator : IEnumerator<T>
 ```
-```vb
-Public NotInheritable Class Enumerator
-	Implements IEnumerator(Of T)
-```
-```cpp
-public ref class Enumerator sealed : IEnumerator<T>
-```
+
+
 
 
 Тип SortedCollectionTEnumerator предоставляет следующие члены.

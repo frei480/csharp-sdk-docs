@@ -13,17 +13,8 @@ public ScaleVectorTransformation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ScaleVectorTransformation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

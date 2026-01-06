@@ -8,18 +8,8 @@
 ```csharp
 public bool PosInGroupByGreatest { get; set; }
 ```
-```vb
-Public Property PosInGroupByGreatest As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool PosInGroupByGreatest {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

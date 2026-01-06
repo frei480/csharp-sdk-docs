@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ExtOffset { get; set; }
 ```
-```vb
-Public Property ExtOffset As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ExtOffset {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

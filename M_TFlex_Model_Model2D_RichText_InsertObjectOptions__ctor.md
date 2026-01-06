@@ -11,13 +11,8 @@
 ```csharp
 public InsertObjectOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-InsertObjectOptions()
-```
+
+
 
 
 #### Ссылки

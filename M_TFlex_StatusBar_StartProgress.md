@@ -13,17 +13,8 @@ public void StartProgress(
 	uint total
 )
 ```
-```vb
-Public Sub StartProgress ( 
-	total As UInteger
-)
-```
-```cpp
-public:
-void StartProgress(
-	unsigned int total
-)
-```
+
+
 
 
 #### Параметры

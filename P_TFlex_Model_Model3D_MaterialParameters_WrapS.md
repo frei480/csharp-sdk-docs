@@ -11,18 +11,8 @@
 ```csharp
 public MaterialParametersWrapTexture WrapS { get; set; }
 ```
-```vb
-Public Property WrapS As MaterialParametersWrapTexture
-	Get
-	Set
-```
-```cpp
-public:
-property MaterialParametersWrapTexture WrapS {
-	MaterialParametersWrapTexture get ();
-	void set (MaterialParametersWrapTexture value);
-}
-```
+
+
 
 
 #### Значение свойства

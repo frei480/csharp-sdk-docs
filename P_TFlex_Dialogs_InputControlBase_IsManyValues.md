@@ -11,18 +11,8 @@
 ```csharp
 public bool IsManyValues { get; set; }
 ```
-```vb
-Public Property IsManyValues As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsManyValues {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

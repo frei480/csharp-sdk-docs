@@ -8,18 +8,8 @@
 ```csharp
 public Parameter Color { get; set; }
 ```
-```vb
-Public Property Color As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Color {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

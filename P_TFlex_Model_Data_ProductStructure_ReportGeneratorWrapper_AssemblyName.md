@@ -11,18 +11,8 @@
 ```csharp
 public string AssemblyName { get; set; }
 ```
-```vb
-Public Property AssemblyName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ AssemblyName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

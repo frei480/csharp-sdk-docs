@@ -14,14 +14,8 @@
 public sealed class OperationCollection : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public NotInheritable Class OperationCollection
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class OperationCollection sealed : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип OperationCollection предоставляет следующие члены.

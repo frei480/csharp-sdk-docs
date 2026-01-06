@@ -11,16 +11,8 @@
 ```csharp
 public RoughnessSymbolAttachmentType AttachmentType { get; }
 ```
-```vb
-Public ReadOnly Property AttachmentType As RoughnessSymbolAttachmentType
-	Get
-```
-```cpp
-public:
-property RoughnessSymbolAttachmentType AttachmentType {
-	RoughnessSymbolAttachmentType get ();
-}
-```
+
+
 
 
 #### Значение свойства

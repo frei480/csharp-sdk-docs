@@ -14,19 +14,8 @@ public void RemoveRows(
 	int count
 )
 ```
-```vb
-Public Sub RemoveRows ( 
-	pos As Integer,
-	count As Integer
-)
-```
-```cpp
-public:
-void RemoveRows(
-	int pos, 
-	int count
-)
-```
+
+
 
 
 #### Параметры

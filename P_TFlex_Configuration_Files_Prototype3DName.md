@@ -8,18 +8,8 @@
 ```csharp
 public string Prototype3DName { get; set; }
 ```
-```vb
-Public Property Prototype3DName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Prototype3DName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

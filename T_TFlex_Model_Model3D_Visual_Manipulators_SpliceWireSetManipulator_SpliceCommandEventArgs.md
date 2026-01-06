@@ -11,13 +11,8 @@
 ```csharp
 public class SpliceCommandEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class SpliceCommandEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class SpliceCommandEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип SpliceWireSetManipulatorSpliceCommandEventArgs предоставляет следующие члены.

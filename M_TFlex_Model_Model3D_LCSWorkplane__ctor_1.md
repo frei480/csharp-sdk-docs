@@ -14,19 +14,8 @@ public LCSWorkplane(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-public:
-LCSWorkplane(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

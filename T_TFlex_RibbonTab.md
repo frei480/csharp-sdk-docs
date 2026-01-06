@@ -13,13 +13,8 @@
 ```csharp
 public sealed class RibbonTab : IDisposable
 ```
-```vb
-Public NotInheritable Class RibbonTab
-	Implements IDisposable
-```
-```cpp
-public ref class RibbonTab sealed : IDisposable
-```
+
+
 
 
 Тип RibbonTab предоставляет следующие члены.

@@ -13,17 +13,8 @@ public Suppression(
 	bool suppress
 )
 ```
-```vb
-Public Sub New ( 
-	suppress As Boolean
-)
-```
-```cpp
-public:
-Suppression(
-	bool suppress
-)
-```
+
+
 
 
 #### Параметры

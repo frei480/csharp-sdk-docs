@@ -11,13 +11,8 @@
 ```csharp
 public class CustomExpandableObjectAttribute : Attribute
 ```
-```vb
-Public Class CustomExpandableObjectAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomExpandableObjectAttribute : public Attribute
-```
+
+
 
 
 Тип CustomExpandableObjectAttribute предоставляет следующие члены.

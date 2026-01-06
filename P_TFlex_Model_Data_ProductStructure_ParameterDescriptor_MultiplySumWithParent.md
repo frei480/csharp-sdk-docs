@@ -8,18 +8,8 @@
 ```csharp
 public bool MultiplySumWithParent { get; set; }
 ```
-```vb
-Public Property MultiplySumWithParent As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool MultiplySumWithParent {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

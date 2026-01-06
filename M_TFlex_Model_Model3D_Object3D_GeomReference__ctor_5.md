@@ -14,19 +14,8 @@ public GeomReference(
 	uint states
 )
 ```
-```vb
-Public Sub New ( 
-	box As ModelBox,
-	states As UInteger
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelBox^ box, 
-	unsigned int states
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public void RedoChanges()
 ```
-```vb
-Public Sub RedoChanges
-```
-```cpp
-public:
-void RedoChanges()
-```
+
+
 
 
 #### Ссылки

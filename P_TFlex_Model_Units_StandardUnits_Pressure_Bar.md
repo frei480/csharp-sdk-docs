@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Bar { get; }
 ```
-```vb
-Public Shared ReadOnly Property Bar As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Bar {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

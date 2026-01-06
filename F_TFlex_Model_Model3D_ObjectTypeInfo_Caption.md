@@ -8,13 +8,8 @@
 ```csharp
 public string Caption
 ```
-```vb
-Public Caption As String
-```
-```cpp
-public:
-String^ Caption
-```
+
+
 
 
 #### Значение поля

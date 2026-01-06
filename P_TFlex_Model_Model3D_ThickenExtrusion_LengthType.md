@@ -11,18 +11,8 @@
 ```csharp
 public ThickenExtrusionLengthValue LengthType { get; set; }
 ```
-```vb
-Public Property LengthType As ThickenExtrusionLengthValue
-	Get
-	Set
-```
-```cpp
-public:
-property ThickenExtrusionLengthValue LengthType {
-	ThickenExtrusionLengthValue get ();
-	void set (ThickenExtrusionLengthValue value);
-}
-```
+
+
 
 
 #### Значение свойства

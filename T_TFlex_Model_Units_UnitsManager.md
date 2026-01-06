@@ -11,12 +11,8 @@
 ```csharp
 public class UnitsManager
 ```
-```vb
-Public Class UnitsManager
-```
-```cpp
-public ref class UnitsManager
-```
+
+
 
 
 Тип UnitsManager предоставляет следующие члены.

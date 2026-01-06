@@ -11,13 +11,8 @@
 ```csharp
 public abstract IEnumerable<ModelObject> GetAllLinkedObjects()
 ```
-```vb
-Public MustOverride Function GetAllLinkedObjects As IEnumerable(Of ModelObject)
-```
-```cpp
-public:
-virtual IEnumerable<ModelObject^>^ GetAllLinkedObjects() abstract
-```
+
+
 
 
 #### Возвращаемое значение

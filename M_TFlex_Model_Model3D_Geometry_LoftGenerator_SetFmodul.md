@@ -13,17 +13,8 @@ public void SetFmodul(
 	double m
 )
 ```
-```vb
-Public Sub SetFmodul ( 
-	m As Double
-)
-```
-```cpp
-public:
-void SetFmodul(
-	double m
-)
-```
+
+
 
 
 #### Параметры

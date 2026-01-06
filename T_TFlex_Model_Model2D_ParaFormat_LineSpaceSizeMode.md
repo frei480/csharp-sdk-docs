@@ -11,12 +11,8 @@
 ```csharp
 public enum LineSpaceSizeMode
 ```
-```vb
-Public Enumeration LineSpaceSizeMode
-```
-```cpp
-public enum class LineSpaceSizeMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

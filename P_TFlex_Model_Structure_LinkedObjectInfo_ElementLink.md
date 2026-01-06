@@ -8,16 +8,8 @@
 ```csharp
 public ElementLink ElementLink { get; }
 ```
-```vb
-Public ReadOnly Property ElementLink As ElementLink
-	Get
-```
-```cpp
-public:
-property ElementLink^ ElementLink {
-	ElementLink^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

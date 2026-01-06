@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Contour : IEnumerable<ContourSegment>
 ```
-```vb
-Public NotInheritable Class Contour
-	Implements IEnumerable(Of ContourSegment)
-```
-```cpp
-public ref class Contour sealed : IEnumerable<ContourSegment^>
-```
+
+
 
 
 Тип Contour предоставляет следующие члены.

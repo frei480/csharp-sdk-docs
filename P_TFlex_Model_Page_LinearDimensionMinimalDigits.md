@@ -11,18 +11,8 @@
 ```csharp
 public Parameter LinearDimensionMinimalDigits { get; set; }
 ```
-```vb
-Public Property LinearDimensionMinimalDigits As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ LinearDimensionMinimalDigits {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

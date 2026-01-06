@@ -11,16 +11,8 @@
 ```csharp
 public bool IsMarkDevice { get; }
 ```
-```vb
-Public ReadOnly Property IsMarkDevice As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsMarkDevice {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

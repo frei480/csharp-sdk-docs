@@ -10,16 +10,8 @@ public static implicit operator MaterialParameter (
 	Material Mat
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	Mat As Material
-) As MaterialParameter
-```
-```cpp
-static implicit operator MaterialParameter^ (
-	Material^ Mat
-)
-```
+
+
 
 
 #### Параметры

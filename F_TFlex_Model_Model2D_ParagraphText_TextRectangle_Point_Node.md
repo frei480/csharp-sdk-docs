@@ -11,13 +11,8 @@
 ```csharp
 public Node Node
 ```
-```vb
-Public Node As Node
-```
-```cpp
-public:
-Node^ Node
-```
+
+
 
 
 #### Значение поля

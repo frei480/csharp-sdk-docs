@@ -13,17 +13,8 @@ public bool IsOrientationSet(
 	int hole
 )
 ```
-```vb
-Public Function IsOrientationSet ( 
-	hole As Integer
-) As Boolean
-```
-```cpp
-public:
-bool IsOrientationSet(
-	int hole
-)
-```
+
+
 
 
 #### Параметры

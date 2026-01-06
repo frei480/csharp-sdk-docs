@@ -12,15 +12,8 @@
 [SerializableAttribute]
 public class ReportGenerationContext : ICloneable
 ```
-```vb
-<SerializableAttribute>
-Public Class ReportGenerationContext
-	Implements ICloneable
-```
-```cpp
-[SerializableAttribute]
-public ref class ReportGenerationContext : ICloneable
-```
+
+
 
 
 Тип ReportGenerationContext предоставляет следующие члены.

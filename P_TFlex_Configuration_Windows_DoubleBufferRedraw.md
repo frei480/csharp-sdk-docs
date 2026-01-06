@@ -8,18 +8,8 @@
 ```csharp
 public bool DoubleBufferRedraw { get; set; }
 ```
-```vb
-Public Property DoubleBufferRedraw As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DoubleBufferRedraw {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

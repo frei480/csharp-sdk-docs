@@ -10,17 +10,8 @@ public void Assign(
 	NamingRules source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As NamingRules
-)
-```
-```cpp
-public:
-void Assign(
-	NamingRules^ source
-)
-```
+
+
 
 
 #### Параметры

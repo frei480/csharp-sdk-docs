@@ -10,16 +10,8 @@ bool XMLDeserializeProperties(
 	XmlElement pParentElement
 )
 ```
-```vb
-Function XMLDeserializeProperties ( 
-	pParentElement As XmlElement
-) As Boolean
-```
-```cpp
-bool XMLDeserializeProperties(
-	XmlElement^ pParentElement
-)
-```
+
+
 
 
 #### Параметры

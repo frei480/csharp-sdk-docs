@@ -11,12 +11,8 @@
 ```csharp
 public enum InsertMenuPosition
 ```
-```vb
-Public Enumeration InsertMenuPosition
-```
-```cpp
-public enum class InsertMenuPosition
-```
+
+
 
 
 | Имя члена | Значение | Описание |

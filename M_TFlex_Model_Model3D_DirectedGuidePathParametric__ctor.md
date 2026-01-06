@@ -13,17 +13,8 @@ public DirectedGuidePathParametric(
 	Object3D object
 )
 ```
-```vb
-Public Sub New ( 
-	object As Object3D
-)
-```
-```cpp
-public:
-DirectedGuidePathParametric(
-	Object3D^ object
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class TwoPointArcOutline : Outline
 ```
-```vb
-Public Class TwoPointArcOutline
-	Inherits Outline
-```
-```cpp
-public ref class TwoPointArcOutline : public Outline
-```
+
+
 
 
 Тип TwoPointArcOutline предоставляет следующие члены.

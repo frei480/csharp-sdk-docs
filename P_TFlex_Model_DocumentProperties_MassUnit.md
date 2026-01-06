@@ -11,16 +11,8 @@
 ```csharp
 public Unit MassUnit { get; }
 ```
-```vb
-Public ReadOnly Property MassUnit As Unit
-	Get
-```
-```cpp
-public:
-property Unit^ MassUnit {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

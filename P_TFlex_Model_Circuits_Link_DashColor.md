@@ -11,18 +11,8 @@
 ```csharp
 public Parameter DashColor { get; set; }
 ```
-```vb
-Public Property DashColor As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ DashColor {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class RowElement : ModelObject
 ```
-```vb
-Public Class RowElement
-	Inherits ModelObject
-```
-```cpp
-public ref class RowElement : public ModelObject
-```
+
+
 
 
 Тип RowElement предоставляет следующие члены.

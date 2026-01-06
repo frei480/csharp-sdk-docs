@@ -13,12 +13,8 @@
 ```csharp
 public struct VariableProperties
 ```
-```vb
-Public Structure VariableProperties
-```
-```cpp
-public value class VariableProperties
-```
+
+
 
 
 Тип VariableProperties предоставляет следующие члены.

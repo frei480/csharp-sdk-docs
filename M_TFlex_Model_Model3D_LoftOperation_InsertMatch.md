@@ -13,17 +13,8 @@ public LoftOperationMatch InsertMatch(
 	int matchIndex
 )
 ```
-```vb
-Public Function InsertMatch ( 
-	matchIndex As Integer
-) As LoftOperationMatch
-```
-```cpp
-public:
-LoftOperationMatch^ InsertMatch(
-	int matchIndex
-)
-```
+
+
 
 
 #### Параметры

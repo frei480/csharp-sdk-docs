@@ -11,13 +11,8 @@
 ```csharp
 public NamingRules()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-NamingRules()
-```
+
+
 
 
 #### Ссылки

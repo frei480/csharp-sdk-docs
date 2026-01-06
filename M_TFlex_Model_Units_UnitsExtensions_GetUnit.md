@@ -10,19 +10,8 @@ public static Unit GetUnit(
 	this ParameterDescriptor parameter
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetUnit ( 
-	parameter As ParameterDescriptor
-) As Unit
-```
-```cpp
-public:
-[ExtensionAttribute]
-static Unit^ GetUnit(
-	ParameterDescriptor^ parameter
-)
-```
+
+
 
 
 #### Параметры

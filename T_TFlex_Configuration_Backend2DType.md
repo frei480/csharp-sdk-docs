@@ -8,12 +8,8 @@
 ```csharp
 public enum Backend2DType
 ```
-```vb
-Public Enumeration Backend2DType
-```
-```cpp
-public enum class Backend2DType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,17 +13,8 @@ public static ProductStructure GetActiveProductStructure(
 	Document doc
 )
 ```
-```vb
-Public Shared Function GetActiveProductStructure ( 
-	doc As Document
-) As ProductStructure
-```
-```cpp
-public:
-static ProductStructure^ GetActiveProductStructure(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

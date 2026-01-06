@@ -13,17 +13,8 @@ public Picture3D(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Picture3D(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

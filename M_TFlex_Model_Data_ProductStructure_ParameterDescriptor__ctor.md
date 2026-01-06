@@ -11,13 +11,8 @@
 ```csharp
 public ParameterDescriptor()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ParameterDescriptor()
-```
+
+
 
 
 #### Ссылки

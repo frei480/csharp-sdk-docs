@@ -14,19 +14,8 @@ public void MoveAt(
 	MoveType direction
 )
 ```
-```vb
-Public Sub MoveAt ( 
-	index As Integer,
-	direction As MoveType
-)
-```
-```cpp
-public:
-void MoveAt(
-	int index, 
-	MoveType direction
-)
-```
+
+
 
 
 #### Параметры

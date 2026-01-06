@@ -11,18 +11,8 @@
 ```csharp
 public Parameter BottomRadius { get; set; }
 ```
-```vb
-Public Property BottomRadius As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ BottomRadius {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

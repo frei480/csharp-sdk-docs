@@ -10,16 +10,8 @@ bool RegisterUndoAction(
 	string undoName
 )
 ```
-```vb
-Function RegisterUndoAction ( 
-	undoName As String
-) As Boolean
-```
-```cpp
-bool RegisterUndoAction(
-	String^ undoName
-)
-```
+
+
 
 
 #### Параметры

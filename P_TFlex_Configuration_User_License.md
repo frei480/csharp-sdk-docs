@@ -8,18 +8,8 @@
 ```csharp
 public string License { get; set; }
 ```
-```vb
-Public Property License As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ License {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

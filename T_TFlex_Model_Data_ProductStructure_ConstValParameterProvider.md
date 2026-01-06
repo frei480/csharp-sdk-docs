@@ -11,13 +11,8 @@
 ```csharp
 public class ConstValParameterProvider : IParameterProvider
 ```
-```vb
-Public Class ConstValParameterProvider
-	Inherits IParameterProvider
-```
-```cpp
-public ref class ConstValParameterProvider : public IParameterProvider
-```
+
+
 
 
 Тип ConstValParameterProvider предоставляет следующие члены.

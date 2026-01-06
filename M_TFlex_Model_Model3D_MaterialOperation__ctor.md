@@ -13,17 +13,8 @@ public MaterialOperation(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-MaterialOperation(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

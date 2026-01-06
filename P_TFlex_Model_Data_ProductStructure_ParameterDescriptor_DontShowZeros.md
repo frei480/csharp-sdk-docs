@@ -8,18 +8,8 @@
 ```csharp
 public bool DontShowZeros { get; set; }
 ```
-```vb
-Public Property DontShowZeros As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DontShowZeros {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

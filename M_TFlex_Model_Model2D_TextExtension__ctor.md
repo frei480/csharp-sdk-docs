@@ -11,13 +11,8 @@
 ```csharp
 public TextExtension()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-TextExtension()
-```
+
+
 
 
 #### Ссылки

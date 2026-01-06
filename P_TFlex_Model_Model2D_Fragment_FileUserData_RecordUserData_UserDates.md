@@ -11,16 +11,8 @@
 ```csharp
 public IEnumerable<FragmentFileUserDataRecordUserDataUserData> UserDates { get; }
 ```
-```vb
-Public ReadOnly Property UserDates As IEnumerable(Of FragmentFileUserDataRecordUserDataUserData)
-	Get
-```
-```cpp
-public:
-property IEnumerable<FragmentFileUserDataRecordUserDataUserData^>^ UserDates {
-	IEnumerable<FragmentFileUserDataRecordUserDataUserData^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

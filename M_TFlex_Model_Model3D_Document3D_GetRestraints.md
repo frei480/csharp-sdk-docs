@@ -13,19 +13,8 @@ public static ICollection<Restraint> GetRestraints(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetRestraints ( 
-	document As Document
-) As ICollection(Of Restraint)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Restraint^>^ GetRestraints(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

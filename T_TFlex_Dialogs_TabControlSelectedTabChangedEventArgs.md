@@ -13,13 +13,8 @@
 ```csharp
 public class TabControlSelectedTabChangedEventArgs : BaseEventArgs
 ```
-```vb
-Public Class TabControlSelectedTabChangedEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class TabControlSelectedTabChangedEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип TabControlSelectedTabChangedEventArgs предоставляет следующие члены.

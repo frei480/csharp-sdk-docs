@@ -13,17 +13,8 @@ public DatabaseColumnType GetColumnType(
 	int index
 )
 ```
-```vb
-Public Function GetColumnType ( 
-	index As Integer
-) As DatabaseColumnType
-```
-```cpp
-public:
-DatabaseColumnType GetColumnType(
-	int index
-)
-```
+
+
 
 
 #### Параметры

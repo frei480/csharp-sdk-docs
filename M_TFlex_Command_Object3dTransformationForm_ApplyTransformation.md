@@ -8,13 +8,8 @@
 ```csharp
 public void ApplyTransformation()
 ```
-```vb
-Public Sub ApplyTransformation
-```
-```cpp
-public:
-void ApplyTransformation()
-```
+
+
 
 
 #### Ссылки

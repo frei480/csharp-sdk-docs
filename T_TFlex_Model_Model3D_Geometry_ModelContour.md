@@ -14,15 +14,8 @@
 public class ModelContour : ModelBodies, 
 	Contour
 ```
-```vb
-Public Class ModelContour
-	Inherits ModelBodies
-	Implements Contour
-```
-```cpp
-public ref class ModelContour : public ModelBodies, 
-	Contour
-```
+
+
 
 
 Тип ModelContour предоставляет следующие члены.

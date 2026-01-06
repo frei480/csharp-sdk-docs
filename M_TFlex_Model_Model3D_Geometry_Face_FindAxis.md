@@ -14,25 +14,8 @@ public static bool FindAxis(
 	byte useChainAlgorithm
 )
 ```
-```vb
-Public Shared Function FindAxis ( 
-	faces As IEnumerable(Of BaseTopol),
-	excludeEdges As IEnumerable(Of BaseTopol),
-	ByRef first As BasePoint3D,
-	ByRef second As BasePoint3D,
-	useChainAlgorithm As Byte
-) As Boolean
-```
-```cpp
-public:
-static bool FindAxis(
-	IEnumerable<BaseTopol^>^ faces, 
-	IEnumerable<BaseTopol^>^ excludeEdges, 
-	BasePoint3D^% first, 
-	BasePoint3D^% second, 
-	unsigned char useChainAlgorithm
-)
-```
+
+
 
 
 #### Параметры

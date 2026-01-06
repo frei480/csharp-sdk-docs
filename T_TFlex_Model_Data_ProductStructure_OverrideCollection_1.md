@@ -13,15 +13,8 @@ public abstract class OverrideCollection<T> : ICloneable
 where T : struct, new(), IComparable<T>
 
 ```
-```vb
-Public MustInherit Class OverrideCollection(Of T As {Structure, New, IComparable(Of T)})
-	Implements ICloneable
-```
-```cpp
-generic<typename T>
-where T : value class, gcnew(), IComparable<T>
-public ref class OverrideCollection abstract : ICloneable
-```
+
+
 
 
 #### Параметры типа

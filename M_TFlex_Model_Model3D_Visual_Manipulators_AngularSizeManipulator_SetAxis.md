@@ -11,19 +11,8 @@ public void SetAxis(
 	Direction referenceDirection
 )
 ```
-```vb
-Public Sub SetAxis ( 
-	axis As Axis,
-	referenceDirection As Direction
-)
-```
-```cpp
-public:
-void SetAxis(
-	Axis^ axis, 
-	Direction^ referenceDirection
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public bool Contains(
 	PageType type
 )
 ```
-```vb
-Public Function Contains ( 
-	type As PageType
-) As Boolean
-```
-```cpp
-public:
-virtual bool Contains(
-	PageType type
-) sealed
-```
+
+
 
 
 #### Параметры

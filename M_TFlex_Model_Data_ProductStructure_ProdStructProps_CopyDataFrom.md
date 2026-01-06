@@ -10,17 +10,8 @@ public void CopyDataFrom(
 	ProdStructProps source
 )
 ```
-```vb
-Public Sub CopyDataFrom ( 
-	source As ProdStructProps
-)
-```
-```cpp
-public:
-void CopyDataFrom(
-	ProdStructProps^ source
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public bool IsAuxiliary { get; set; }
 ```
-```vb
-Public Property IsAuxiliary As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsAuxiliary {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public sealed class MethodCallContext
 ```
-```vb
-Public NotInheritable Class MethodCallContext
-```
-```cpp
-public ref class MethodCallContext sealed
-```
+
+
 
 
 Тип MethodCallContext предоставляет следующие члены.

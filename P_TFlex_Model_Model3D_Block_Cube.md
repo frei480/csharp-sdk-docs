@@ -11,18 +11,8 @@
 ```csharp
 public bool Cube { get; set; }
 ```
-```vb
-Public Property Cube As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Cube {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

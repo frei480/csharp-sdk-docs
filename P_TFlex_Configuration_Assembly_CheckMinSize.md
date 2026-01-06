@@ -8,18 +8,8 @@
 ```csharp
 public bool CheckMinSize { get; set; }
 ```
-```vb
-Public Property CheckMinSize As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CheckMinSize {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

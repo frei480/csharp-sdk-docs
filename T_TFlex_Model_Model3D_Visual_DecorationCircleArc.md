@@ -13,13 +13,8 @@
 ```csharp
 public class DecorationCircleArc : DecorationShape
 ```
-```vb
-Public Class DecorationCircleArc
-	Inherits DecorationShape
-```
-```cpp
-public ref class DecorationCircleArc : public DecorationShape
-```
+
+
 
 
 Тип DecorationCircleArc предоставляет следующие члены.

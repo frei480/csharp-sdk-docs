@@ -10,20 +10,8 @@ public SplineDataControlPointsControlPoint this[
 	uint index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As UInteger
-) As SplineDataControlPointsControlPoint
-	Get
-	Set
-```
-```cpp
-public:
-property SplineDataControlPointsControlPoint^ default[unsigned int index] {
-	SplineDataControlPointsControlPoint^ get (unsigned int index);
-	void set (unsigned int index, SplineDataControlPointsControlPoint^ value);
-}
-```
+
+
 
 
 #### Параметры

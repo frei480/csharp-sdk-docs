@@ -8,18 +8,8 @@
 ```csharp
 public int StereoScreenWidth { get; set; }
 ```
-```vb
-Public Property StereoScreenWidth As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int StereoScreenWidth {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

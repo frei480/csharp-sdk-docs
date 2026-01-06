@@ -11,13 +11,8 @@
 ```csharp
 public void VAdd()
 ```
-```vb
-Public Sub VAdd
-```
-```cpp
-public:
-void VAdd()
-```
+
+
 
 
 #### Ссылки

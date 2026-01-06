@@ -14,18 +14,8 @@ public delegate void ContinueEventHandler(
 	ContinueEventArgs e
 )
 ```
-```vb
-Public Delegate Sub ContinueEventHandler ( 
-	sender As Object,
-	e As ContinueEventArgs
-)
-```
-```cpp
-public delegate void ContinueEventHandler(
-	Object^ sender, 
-	ContinueEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

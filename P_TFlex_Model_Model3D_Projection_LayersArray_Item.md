@@ -10,20 +10,8 @@ protected string this[
 	int index
 ] { get; set; }
 ```
-```vb
-Protected Default Property Item ( 
-	index As Integer
-) As String
-	Get
-	Set
-```
-```cpp
-protected:
-property String^ default[int index] {
-	String^ get (int index);
-	void set (int index, String^ value);
-}
-```
+
+
 
 
 #### Параметры

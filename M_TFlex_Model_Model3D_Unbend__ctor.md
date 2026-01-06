@@ -13,17 +13,8 @@ public Unbend(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Unbend(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

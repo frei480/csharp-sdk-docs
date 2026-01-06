@@ -13,17 +13,8 @@ public void RemoveGuide(
 	int guideIndex
 )
 ```
-```vb
-Public Sub RemoveGuide ( 
-	guideIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveGuide(
-	int guideIndex
-)
-```
+
+
 
 
 #### Параметры

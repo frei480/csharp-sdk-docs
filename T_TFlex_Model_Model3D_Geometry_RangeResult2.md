@@ -13,12 +13,8 @@
 ```csharp
 public class RangeResult2
 ```
-```vb
-Public Class RangeResult2
-```
-```cpp
-public ref class RangeResult2
-```
+
+
 
 
 Тип RangeResult2 предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public List<RowElementGroup> ChildGroups { get; }
 ```
-```vb
-Public ReadOnly Property ChildGroups As List(Of RowElementGroup)
-	Get
-```
-```cpp
-public:
-property List<RowElementGroup^>^ ChildGroups {
-	List<RowElementGroup^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

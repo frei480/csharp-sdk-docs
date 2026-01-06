@@ -8,18 +8,8 @@
 ```csharp
 public string AdditionalAttributes { get; set; }
 ```
-```vb
-Public Property AdditionalAttributes As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ AdditionalAttributes {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

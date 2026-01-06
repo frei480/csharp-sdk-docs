@@ -11,18 +11,8 @@
 ```csharp
 public int StartIntersectionNumber { get; set; }
 ```
-```vb
-Public Property StartIntersectionNumber As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int StartIntersectionNumber {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

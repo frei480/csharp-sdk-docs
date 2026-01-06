@@ -8,16 +8,8 @@
 ```csharp
 public Screen Screen { get; }
 ```
-```vb
-Public ReadOnly Property Screen As Screen
-	Get
-```
-```cpp
-public:
-property Screen^ Screen {
-	Screen^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

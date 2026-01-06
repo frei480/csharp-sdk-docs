@@ -11,13 +11,8 @@
 ```csharp
 public class CopyObjectEventArgs : ObjectEventArgs
 ```
-```vb
-Public Class CopyObjectEventArgs
-	Inherits ObjectEventArgs
-```
-```cpp
-public ref class CopyObjectEventArgs : public ObjectEventArgs
-```
+
+
 
 
 Тип CopyObjectEventArgs предоставляет следующие члены.

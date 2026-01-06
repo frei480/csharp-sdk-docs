@@ -11,16 +11,8 @@
 ```csharp
 public int SegmentCount { get; }
 ```
-```vb
-Public ReadOnly Property SegmentCount As Integer
-	Get
-```
-```cpp
-public:
-property int SegmentCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

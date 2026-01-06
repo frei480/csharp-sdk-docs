@@ -8,13 +8,8 @@
 ```csharp
 public FaceTransform AddFaceTransformOperation()
 ```
-```vb
-Public Function AddFaceTransformOperation As FaceTransform
-```
-```cpp
-public:
-FaceTransform^ AddFaceTransformOperation()
-```
+
+
 
 
 #### Возвращаемое значение

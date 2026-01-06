@@ -13,12 +13,8 @@
 ```csharp
 public struct FilledOptions
 ```
-```vb
-Public Structure FilledOptions
-```
-```cpp
-public value class FilledOptions
-```
+
+
 
 
 Тип View3DDrawStyleFilledOptions предоставляет следующие члены.

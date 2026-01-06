@@ -11,13 +11,8 @@
 ```csharp
 public TableTableHAlign TableHAlign
 ```
-```vb
-Public TableHAlign As TableTableHAlign
-```
-```cpp
-public:
-TableTableHAlign TableHAlign
-```
+
+
 
 
 #### Значение поля

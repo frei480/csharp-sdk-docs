@@ -13,17 +13,8 @@ public void SetPosition(
 	Point3D point
 )
 ```
-```vb
-Public Sub SetPosition ( 
-	point As Point3D
-)
-```
-```cpp
-public:
-void SetPosition(
-	Point3D^ point
-)
-```
+
+
 
 
 #### Параметры

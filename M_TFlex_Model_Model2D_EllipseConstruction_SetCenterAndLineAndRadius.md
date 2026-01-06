@@ -15,21 +15,8 @@ public void SetCenterAndLineAndRadius(
 	Parameter radius
 )
 ```
-```vb
-Public Sub SetCenterAndLineAndRadius ( 
-	centerNode As Node,
-	srcLine As Construction,
-	radius As Parameter
-)
-```
-```cpp
-public:
-void SetCenterAndLineAndRadius(
-	Node^ centerNode, 
-	Construction^ srcLine, 
-	Parameter^ radius
-)
-```
+
+
 
 
 #### Параметры

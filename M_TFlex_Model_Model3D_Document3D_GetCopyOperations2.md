@@ -13,19 +13,8 @@ public static ICollection<CopyOperation2> GetCopyOperations2(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetCopyOperations2 ( 
-	document As Document
-) As ICollection(Of CopyOperation2)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<CopyOperation2^>^ GetCopyOperations2(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public bool Equal(
 	PipePath3DBaseSegment pSegment
 )
 ```
-```vb
-Public Function Equal ( 
-	pSegment As PipePath3DBaseSegment
-) As Boolean
-```
-```cpp
-public:
-bool Equal(
-	PipePath3DBaseSegment^ pSegment
-)
-```
+
+
 
 
 #### Параметры

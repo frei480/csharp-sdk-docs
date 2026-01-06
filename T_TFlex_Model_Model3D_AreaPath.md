@@ -13,13 +13,8 @@
 ```csharp
 public class AreaPath : Path3D
 ```
-```vb
-Public Class AreaPath
-	Inherits Path3D
-```
-```cpp
-public ref class AreaPath : public Path3D
-```
+
+
 
 
 Тип AreaPath предоставляет следующие члены.

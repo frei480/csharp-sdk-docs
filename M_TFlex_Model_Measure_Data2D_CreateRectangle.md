@@ -13,23 +13,8 @@ public static Data CreateRectangle(
 	Rectangle rect
 )
 ```
-```vb
-Public Shared Function CreateRectangle ( 
-	id As ULong,
-	name As String,
-	page As Page,
-	rect As Rectangle
-) As Data
-```
-```cpp
-public:
-static Data^ CreateRectangle(
-	unsigned long long id, 
-	String^ name, 
-	Page^ page, 
-	Rectangle rect
-)
-```
+
+
 
 
 #### Параметры

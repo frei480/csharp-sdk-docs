@@ -8,16 +8,8 @@
 ```csharp
 public Point Start { get; }
 ```
-```vb
-Public ReadOnly Property Start As Point
-	Get
-```
-```cpp
-public:
-property Point Start {
-	Point get ();
-}
-```
+
+
 
 
 #### Значение свойства

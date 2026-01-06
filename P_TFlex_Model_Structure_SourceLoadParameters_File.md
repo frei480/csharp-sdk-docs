@@ -8,18 +8,8 @@
 ```csharp
 public SourceFile File { get; set; }
 ```
-```vb
-Public Property File As SourceFile
-	Get
-	Set
-```
-```cpp
-public:
-property SourceFile^ File {
-	SourceFile^ get ();
-	void set (SourceFile^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public FilterOwner()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FilterOwner()
-```
+
+
 
 
 #### Ссылки

@@ -11,16 +11,8 @@
 ```csharp
 public IntersectSurfaceDataCurveDataIntersectionIntersectionType Type { get; }
 ```
-```vb
-Public ReadOnly Property Type As IntersectSurfaceDataCurveDataIntersectionIntersectionType
-	Get
-```
-```cpp
-public:
-property IntersectSurfaceDataCurveDataIntersectionIntersectionType Type {
-	IntersectSurfaceDataCurveDataIntersectionIntersectionType get ();
-}
-```
+
+
 
 
 #### Значение свойства

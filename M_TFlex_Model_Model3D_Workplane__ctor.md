@@ -13,17 +13,8 @@ public Workplane(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Workplane(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

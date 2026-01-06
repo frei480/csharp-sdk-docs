@@ -10,17 +10,8 @@ public void Assign(
 	NonSectionCondition source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As NonSectionCondition
-)
-```
-```cpp
-public:
-void Assign(
-	NonSectionCondition^ source
-)
-```
+
+
 
 
 #### Параметры

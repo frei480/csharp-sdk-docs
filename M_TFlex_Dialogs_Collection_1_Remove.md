@@ -10,17 +10,8 @@ public void Remove(
 	IList<T> items
 )
 ```
-```vb
-Public Sub Remove ( 
-	items As IList(Of T)
-)
-```
-```cpp
-public:
-void Remove(
-	IList<T>^ items
-)
-```
+
+
 
 
 #### Параметры

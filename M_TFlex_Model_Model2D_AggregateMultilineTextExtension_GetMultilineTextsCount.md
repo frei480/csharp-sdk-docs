@@ -13,19 +13,8 @@ public static int GetMultilineTextsCount(
 	this ModelObject A_0
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetMultilineTextsCount ( 
-	A_0 As ModelObject
-) As Integer
-```
-```cpp
-public:
-[ExtensionAttribute]
-static int GetMultilineTextsCount(
-	ModelObject^ A_0
-)
-```
+
+
 
 
 #### Параметры

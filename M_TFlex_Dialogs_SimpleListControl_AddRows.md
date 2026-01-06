@@ -13,17 +13,8 @@ public void AddRows(
 	int count
 )
 ```
-```vb
-Public Sub AddRows ( 
-	count As Integer
-)
-```
-```cpp
-public:
-void AddRows(
-	int count
-)
-```
+
+
 
 
 #### Параметры

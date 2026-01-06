@@ -14,15 +14,8 @@
 public sealed class ModelEdge : ModelTopol, 
 	BaseEdge
 ```
-```vb
-Public NotInheritable Class ModelEdge
-	Inherits ModelTopol
-	Implements BaseEdge
-```
-```cpp
-public ref class ModelEdge sealed : public ModelTopol, 
-	BaseEdge
-```
+
+
 
 
 Тип ModelEdge предоставляет следующие члены.

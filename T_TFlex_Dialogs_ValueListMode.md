@@ -11,12 +11,8 @@
 ```csharp
 public enum ValueListMode
 ```
-```vb
-Public Enumeration ValueListMode
-```
-```cpp
-public enum class ValueListMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

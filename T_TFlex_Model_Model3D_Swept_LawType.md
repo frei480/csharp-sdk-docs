@@ -11,12 +11,8 @@
 ```csharp
 public enum LawType
 ```
-```vb
-Public Enumeration LawType
-```
-```cpp
-public enum class LawType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

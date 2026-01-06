@@ -8,18 +8,8 @@
 ```csharp
 public int SelectedSplice { get; set; }
 ```
-```vb
-Public Property SelectedSplice As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SelectedSplice {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

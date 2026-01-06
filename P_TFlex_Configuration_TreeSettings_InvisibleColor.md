@@ -8,18 +8,8 @@
 ```csharp
 public int InvisibleColor { get; set; }
 ```
-```vb
-Public Property InvisibleColor As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int InvisibleColor {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

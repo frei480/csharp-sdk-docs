@@ -11,18 +11,8 @@
 ```csharp
 public Point3D PositionOnSurface { get; set; }
 ```
-```vb
-Public Property PositionOnSurface As Point3D
-	Get
-	Set
-```
-```cpp
-public:
-property Point3D^ PositionOnSurface {
-	Point3D^ get ();
-	void set (Point3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

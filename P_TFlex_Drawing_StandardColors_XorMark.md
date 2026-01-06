@@ -11,16 +11,8 @@
 ```csharp
 public static Color XorMark { get; }
 ```
-```vb
-Public Shared ReadOnly Property XorMark As Color
-	Get
-```
-```cpp
-public:
-static property Color XorMark {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

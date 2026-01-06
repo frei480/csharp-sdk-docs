@@ -15,27 +15,8 @@ public static Data CreateABox(
 	Point3D size
 )
 ```
-```vb
-Public Shared Function CreateABox ( 
-	id As ULong,
-	name As String,
-	origin As Point3D,
-	axis As Direction,
-	ref_dir As Direction,
-	size As Point3D
-) As Data
-```
-```cpp
-public:
-static Data^ CreateABox(
-	unsigned long long id, 
-	String^ name, 
-	Point3D^ origin, 
-	Direction^ axis, 
-	Direction^ ref_dir, 
-	Point3D^ size
-)
-```
+
+
 
 
 #### Параметры

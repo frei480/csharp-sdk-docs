@@ -13,13 +13,8 @@
 ```csharp
 public class ListControlEditorCollection : Collection<BaseControl>
 ```
-```vb
-Public Class ListControlEditorCollection
-	Inherits Collection(Of BaseControl)
-```
-```cpp
-public ref class ListControlEditorCollection : public Collection<BaseControl^>
-```
+
+
 
 
 Тип ListControlEditorCollection предоставляет следующие члены.

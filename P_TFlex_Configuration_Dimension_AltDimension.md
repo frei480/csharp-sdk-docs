@@ -8,16 +8,8 @@
 ```csharp
 public AltDimension AltDimension { get; }
 ```
-```vb
-Public ReadOnly Property AltDimension As AltDimension
-	Get
-```
-```cpp
-public:
-property AltDimension^ AltDimension {
-	AltDimension^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,15 +13,8 @@
 ```csharp
 public class Fragment : Object2D, IModelObjectWithLayer
 ```
-```vb
-Public Class Fragment
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class Fragment : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип Fragment предоставляет следующие члены.

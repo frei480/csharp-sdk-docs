@@ -11,18 +11,8 @@
 ```csharp
 public Parameter BackwardTaperAngle { get; set; }
 ```
-```vb
-Public Property BackwardTaperAngle As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ BackwardTaperAngle {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

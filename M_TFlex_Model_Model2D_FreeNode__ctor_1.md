@@ -15,21 +15,8 @@ public FreeNode(
 	Parameter y
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	x As Parameter,
-	y As Parameter
-)
-```
-```cpp
-public:
-FreeNode(
-	Document^ document, 
-	Parameter^ x, 
-	Parameter^ y
-)
-```
+
+
 
 
 #### Параметры

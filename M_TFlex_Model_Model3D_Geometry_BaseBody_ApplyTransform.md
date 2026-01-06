@@ -13,17 +13,8 @@ public Body ApplyTransform(
 	TransformationMatrix transformation
 )
 ```
-```vb
-Public Function ApplyTransform ( 
-	transformation As TransformationMatrix
-) As Body
-```
-```cpp
-public:
-Body^ ApplyTransform(
-	TransformationMatrix^ transformation
-)
-```
+
+
 
 
 #### Параметры

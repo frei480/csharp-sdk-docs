@@ -11,18 +11,8 @@
 ```csharp
 public Workplane ActiveWorkplane { get; set; }
 ```
-```vb
-Public Property ActiveWorkplane As Workplane
-	Get
-	Set
-```
-```cpp
-public:
-property Workplane^ ActiveWorkplane {
-	Workplane^ get ();
-	void set (Workplane^ value);
-}
-```
+
+
 
 
 #### Значение свойства

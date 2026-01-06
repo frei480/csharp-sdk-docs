@@ -13,17 +13,8 @@ public GeomReference(
 	ModelPlane plane
 )
 ```
-```vb
-Public Sub New ( 
-	plane As ModelPlane
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelPlane^ plane
-)
-```
+
+
 
 
 #### Параметры

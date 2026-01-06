@@ -11,16 +11,8 @@
 ```csharp
 public override Parameter Magnitude { get; }
 ```
-```vb
-Public Overrides ReadOnly Property Magnitude As Parameter
-	Get
-```
-```cpp
-public:
-virtual property Parameter^ Magnitude {
-	Parameter^ get () override;
-}
-```
+
+
 
 
 #### Значение свойства

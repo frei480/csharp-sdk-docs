@@ -11,18 +11,8 @@
 ```csharp
 public DimensionHyperlinkTextFlags TextFlags { get; set; }
 ```
-```vb
-Public Property TextFlags As DimensionHyperlinkTextFlags
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionHyperlinkTextFlags TextFlags {
-	DimensionHyperlinkTextFlags get ();
-	void set (DimensionHyperlinkTextFlags value);
-}
-```
+
+
 
 
 #### Значение свойства

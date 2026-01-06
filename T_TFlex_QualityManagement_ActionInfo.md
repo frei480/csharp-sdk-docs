@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ActionInfo : IDisposable
 ```
-```vb
-Public NotInheritable Class ActionInfo
-	Implements IDisposable
-```
-```cpp
-public ref class ActionInfo sealed : IDisposable
-```
+
+
 
 
 Тип ActionInfo предоставляет следующие члены.

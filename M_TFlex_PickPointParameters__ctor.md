@@ -11,13 +11,8 @@
 ```csharp
 public PickPointParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PickPointParameters()
-```
+
+
 
 
 #### Ссылки

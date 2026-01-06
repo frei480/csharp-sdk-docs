@@ -11,13 +11,8 @@
 ```csharp
 public virtual bool RunSolve()
 ```
-```vb
-Public Overridable Function RunSolve As Boolean
-```
-```cpp
-public:
-virtual bool RunSolve()
-```
+
+
 
 
 #### Возвращаемое значение

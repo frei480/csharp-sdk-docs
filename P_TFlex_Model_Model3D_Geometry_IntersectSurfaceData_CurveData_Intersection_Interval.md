@@ -11,16 +11,8 @@
 ```csharp
 public BaseInterval Interval { get; }
 ```
-```vb
-Public ReadOnly Property Interval As BaseInterval
-	Get
-```
-```cpp
-public:
-property BaseInterval^ Interval {
-	BaseInterval^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

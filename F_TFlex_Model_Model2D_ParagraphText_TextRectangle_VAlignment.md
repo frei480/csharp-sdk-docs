@@ -11,13 +11,8 @@
 ```csharp
 public ParagraphTextTextRectangleVerticalAlignment VAlignment
 ```
-```vb
-Public VAlignment As ParagraphTextTextRectangleVerticalAlignment
-```
-```cpp
-public:
-ParagraphTextTextRectangleVerticalAlignment VAlignment
-```
+
+
 
 
 #### Значение поля

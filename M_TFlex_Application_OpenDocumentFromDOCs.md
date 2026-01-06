@@ -11,19 +11,8 @@ public static Document OpenDocumentFromDOCs(
 	OpenDocumentOptions options
 )
 ```
-```vb
-Public Shared Function OpenDocumentFromDOCs ( 
-	guid As Guid,
-	options As OpenDocumentOptions
-) As Document
-```
-```cpp
-public:
-static Document^ OpenDocumentFromDOCs(
-	Guid guid, 
-	OpenDocumentOptions^ options
-)
-```
+
+
 
 
 #### Параметры

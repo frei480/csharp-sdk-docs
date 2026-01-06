@@ -8,18 +8,8 @@
 ```csharp
 public bool BillOfMaterialsVisible { get; set; }
 ```
-```vb
-Public Property BillOfMaterialsVisible As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool BillOfMaterialsVisible {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

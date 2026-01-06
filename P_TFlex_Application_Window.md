@@ -14,18 +14,8 @@
 [ObsoleteAttribute("This property is obsolete, use 'ActiveMainWindow' instead")]
 public static MainWindow Window { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete, use 'ActiveMainWindow' instead")>
-Public Shared ReadOnly Property Window As MainWindow
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete, use 'ActiveMainWindow' instead")]
-static property MainWindow^ Window {
-	MainWindow^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

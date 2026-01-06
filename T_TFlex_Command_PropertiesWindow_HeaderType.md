@@ -11,12 +11,8 @@
 ```csharp
 public enum HeaderType
 ```
-```vb
-Public Enumeration HeaderType
-```
-```cpp
-public enum class HeaderType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

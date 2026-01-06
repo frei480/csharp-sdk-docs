@@ -11,12 +11,8 @@
 ```csharp
 public class SetTrimmedData
 ```
-```vb
-Public Class SetTrimmedData
-```
-```cpp
-public ref class SetTrimmedData
-```
+
+
 
 
 Тип SetTrimmedData предоставляет следующие члены.

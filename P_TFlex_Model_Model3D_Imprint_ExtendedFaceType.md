@@ -11,18 +11,8 @@
 ```csharp
 public ImprintImprintExtendFaceListType ExtendedFaceType { get; set; }
 ```
-```vb
-Public Property ExtendedFaceType As ImprintImprintExtendFaceListType
-	Get
-	Set
-```
-```cpp
-public:
-property ImprintImprintExtendFaceListType ExtendedFaceType {
-	ImprintImprintExtendFaceListType get ();
-	void set (ImprintImprintExtendFaceListType value);
-}
-```
+
+
 
 
 #### Значение свойства

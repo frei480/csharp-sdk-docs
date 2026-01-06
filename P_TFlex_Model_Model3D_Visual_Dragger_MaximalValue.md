@@ -11,18 +11,8 @@
 ```csharp
 public virtual double MaximalValue { get; set; }
 ```
-```vb
-Public Overridable Property MaximalValue As Double
-	Get
-	Set
-```
-```cpp
-public:
-virtual property double MaximalValue {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

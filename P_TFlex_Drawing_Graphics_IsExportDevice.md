@@ -11,16 +11,8 @@
 ```csharp
 public bool IsExportDevice { get; }
 ```
-```vb
-Public ReadOnly Property IsExportDevice As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsExportDevice {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

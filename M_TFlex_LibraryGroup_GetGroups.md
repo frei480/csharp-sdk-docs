@@ -11,13 +11,8 @@
 ```csharp
 public virtual IEnumerator<LibraryGroup> GetGroups()
 ```
-```vb
-Public Overridable Function GetGroups As IEnumerator(Of LibraryGroup)
-```
-```cpp
-public:
-virtual IEnumerator<LibraryGroup^>^ GetGroups()
-```
+
+
 
 
 #### Возвращаемое значение

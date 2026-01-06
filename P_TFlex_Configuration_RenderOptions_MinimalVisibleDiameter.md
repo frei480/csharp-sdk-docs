@@ -8,18 +8,8 @@
 ```csharp
 public int MinimalVisibleDiameter { get; set; }
 ```
-```vb
-Public Property MinimalVisibleDiameter As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int MinimalVisibleDiameter {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,19 +11,8 @@ public static ElementProjection CreateLegacy(
 	Page page
 )
 ```
-```vb
-Public Shared Function CreateLegacy ( 
-	document As Document,
-	page As Page
-) As ElementProjection
-```
-```cpp
-public:
-static ElementProjection^ CreateLegacy(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

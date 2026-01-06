@@ -13,17 +13,8 @@ public SketchProfile(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-SketchProfile(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

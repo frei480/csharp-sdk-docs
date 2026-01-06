@@ -13,17 +13,8 @@ public void SetAutoHeight(
 	int rowIndex
 )
 ```
-```vb
-Public Sub SetAutoHeight ( 
-	rowIndex As Integer
-)
-```
-```cpp
-public:
-void SetAutoHeight(
-	int rowIndex
-)
-```
+
+
 
 
 #### Параметры

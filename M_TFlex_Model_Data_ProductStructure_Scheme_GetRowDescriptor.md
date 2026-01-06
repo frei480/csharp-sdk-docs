@@ -10,17 +10,8 @@ public RowDescriptor GetRowDescriptor(
 	Guid rowID
 )
 ```
-```vb
-Public Function GetRowDescriptor ( 
-	rowID As Guid
-) As RowDescriptor
-```
-```cpp
-public:
-RowDescriptor^ GetRowDescriptor(
-	Guid rowID
-)
-```
+
+
 
 
 #### Параметры

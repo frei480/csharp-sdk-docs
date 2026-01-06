@@ -11,16 +11,8 @@
 ```csharp
 public ParamBoundType EndBound { get; }
 ```
-```vb
-Public ReadOnly Property EndBound As ParamBoundType
-	Get
-```
-```cpp
-public:
-property ParamBoundType EndBound {
-	ParamBoundType get ();
-}
-```
+
+
 
 
 #### Значение свойства

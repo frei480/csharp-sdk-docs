@@ -13,13 +13,8 @@
 ```csharp
 public class ContinuousWidthAttribute : FaceBlendingBlendAttribute
 ```
-```vb
-Public Class ContinuousWidthAttribute
-	Inherits FaceBlendingBlendAttribute
-```
-```cpp
-public ref class ContinuousWidthAttribute : public FaceBlendingBlendAttribute
-```
+
+
 
 
 Тип FaceBlendingContinuousWidthAttribute предоставляет следующие члены.

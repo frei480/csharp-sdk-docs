@@ -13,13 +13,8 @@
 ```csharp
 public class Thread : Operation
 ```
-```vb
-Public Class Thread
-	Inherits Operation
-```
-```cpp
-public ref class Thread : public Operation
-```
+
+
 
 
 Тип Thread предоставляет следующие члены.

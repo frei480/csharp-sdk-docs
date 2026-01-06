@@ -13,17 +13,8 @@ protected virtual void DocumentOpenEventHandler(
 	DocumentEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub DocumentOpenEventHandler ( 
-	args As DocumentEventArgs
-)
-```
-```cpp
-protected:
-virtual void DocumentOpenEventHandler(
-	DocumentEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

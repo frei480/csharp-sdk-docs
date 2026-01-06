@@ -11,18 +11,8 @@
 ```csharp
 public bool Inverse { get; set; }
 ```
-```vb
-Public Property Inverse As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Inverse {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

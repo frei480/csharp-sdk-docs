@@ -11,13 +11,8 @@
 ```csharp
 public virtual IEnumerator<RunResultEntry> GetEnumerator()
 ```
-```vb
-Public Overridable Function GetEnumerator As IEnumerator(Of RunResultEntry)
-```
-```cpp
-public:
-virtual IEnumerator<RunResultEntry^>^ GetEnumerator()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -10,17 +10,8 @@ public void RaiseOnPropertyChanged(
 	string propName
 )
 ```
-```vb
-Public Sub RaiseOnPropertyChanged ( 
-	propName As String
-)
-```
-```cpp
-public:
-void RaiseOnPropertyChanged(
-	String^ propName
-)
-```
+
+
 
 
 #### Параметры

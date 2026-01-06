@@ -11,13 +11,8 @@
 ```csharp
 public override bool Complete()
 ```
-```vb
-Public Overrides Function Complete As Boolean
-```
-```cpp
-public:
-virtual bool Complete() override
-```
+
+
 
 
 #### Возвращаемое значение

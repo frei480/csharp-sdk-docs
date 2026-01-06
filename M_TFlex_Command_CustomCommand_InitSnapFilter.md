@@ -10,17 +10,8 @@ public void InitSnapFilter(
 	bool enable
 )
 ```
-```vb
-Public Sub InitSnapFilter ( 
-	enable As Boolean
-)
-```
-```cpp
-public:
-void InitSnapFilter(
-	bool enable
-)
-```
+
+
 
 
 #### Параметры

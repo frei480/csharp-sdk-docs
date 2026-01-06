@@ -13,17 +13,8 @@ public DocumentProperties(
 	string filename
 )
 ```
-```vb
-Public Sub New ( 
-	filename As String
-)
-```
-```cpp
-public:
-DocumentProperties(
-	String^ filename
-)
-```
+
+
 
 
 #### Параметры

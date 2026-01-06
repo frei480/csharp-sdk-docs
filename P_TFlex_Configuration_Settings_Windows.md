@@ -8,16 +8,8 @@
 ```csharp
 public Windows Windows { get; }
 ```
-```vb
-Public ReadOnly Property Windows As Windows
-	Get
-```
-```cpp
-public:
-property Windows^ Windows {
-	Windows^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

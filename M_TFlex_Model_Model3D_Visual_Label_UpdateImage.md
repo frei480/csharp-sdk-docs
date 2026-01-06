@@ -11,19 +11,8 @@ protected abstract void UpdateImage(
 	Rectangle rectangle
 )
 ```
-```vb
-Protected MustOverride Sub UpdateImage ( 
-	graphics As Graphics,
-	rectangle As Rectangle
-)
-```
-```cpp
-protected:
-virtual void UpdateImage(
-	Graphics^ graphics, 
-	Rectangle rectangle
-) abstract
-```
+
+
 
 
 #### Параметры

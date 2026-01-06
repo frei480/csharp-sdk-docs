@@ -15,21 +15,8 @@ public void Arc3Points(
 	Point point3
 )
 ```
-```vb
-Public Sub Arc3Points ( 
-	point1 As Point,
-	point2 As Point,
-	point3 As Point
-)
-```
-```cpp
-public:
-void Arc3Points(
-	Point point1, 
-	Point point2, 
-	Point point3
-)
-```
+
+
 
 
 #### Параметры

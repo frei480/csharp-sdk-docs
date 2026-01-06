@@ -14,19 +14,8 @@ public virtual void SetGeomReference(
 	Object3DGeomReference reference
 )
 ```
-```vb
-Public Overridable Sub SetGeomReference ( 
-	id As Integer,
-	reference As Object3DGeomReference
-)
-```
-```cpp
-public:
-virtual void SetGeomReference(
-	int id, 
-	Object3DGeomReference^ reference
-)
-```
+
+
 
 
 #### Параметры

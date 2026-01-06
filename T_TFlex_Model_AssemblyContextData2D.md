@@ -13,13 +13,8 @@
 ```csharp
 public class AssemblyContextData2D : AssemblyContextData
 ```
-```vb
-Public Class AssemblyContextData2D
-	Inherits AssemblyContextData
-```
-```cpp
-public ref class AssemblyContextData2D : public AssemblyContextData
-```
+
+
 
 
 Тип AssemblyContextData2D предоставляет следующие члены.

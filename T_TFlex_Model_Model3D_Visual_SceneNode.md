@@ -14,14 +14,8 @@
 public abstract class SceneNode : IDisposable, 
 	IComparable
 ```
-```vb
-Public MustInherit Class SceneNode
-	Implements IDisposable, IComparable
-```
-```cpp
-public ref class SceneNode abstract : IDisposable, 
-	IComparable
-```
+
+
 
 
 Тип SceneNode предоставляет следующие члены.

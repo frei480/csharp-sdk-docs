@@ -8,13 +8,8 @@
 ```csharp
 public ConnectorParameters ChangeConnectorParameters()
 ```
-```vb
-Public Function ChangeConnectorParameters As ConnectorParameters
-```
-```cpp
-public:
-ConnectorParameters^ ChangeConnectorParameters()
-```
+
+
 
 
 #### Возвращаемое значение

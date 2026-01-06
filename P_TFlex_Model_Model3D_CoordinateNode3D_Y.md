@@ -11,18 +11,8 @@ Y - координата узла
 ```csharp
 public Parameter Y { get; set; }
 ```
-```vb
-Public Property Y As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Y {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

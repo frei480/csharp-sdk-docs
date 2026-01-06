@@ -11,19 +11,8 @@ public IEnumerable<LinkDescriptor> GetAddableLinks(
 	bool? thisElementOnLeft
 )
 ```
-```vb
-Public Function GetAddableLinks ( 
-	obj As ModelObject,
-	thisElementOnLeft As Boolean?
-) As IEnumerable(Of LinkDescriptor)
-```
-```cpp
-public:
-IEnumerable<LinkDescriptor^>^ GetAddableLinks(
-	ModelObject^ obj, 
-	Nullable<bool> thisElementOnLeft
-)
-```
+
+
 
 
 #### Параметры

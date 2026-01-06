@@ -8,18 +8,8 @@
 ```csharp
 public Color ColorDiameter { get; set; }
 ```
-```vb
-Public Property ColorDiameter As Color
-	Get
-	Set
-```
-```cpp
-public:
-property Color ColorDiameter {
-	Color get ();
-	void set (Color value);
-}
-```
+
+
 
 
 #### Значение свойства

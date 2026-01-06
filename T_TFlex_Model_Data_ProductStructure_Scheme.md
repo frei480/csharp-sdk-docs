@@ -11,13 +11,8 @@
 ```csharp
 public class Scheme : ICloneable
 ```
-```vb
-Public Class Scheme
-	Implements ICloneable
-```
-```cpp
-public ref class Scheme : ICloneable
-```
+
+
 
 
 Тип Scheme предоставляет следующие члены.

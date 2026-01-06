@@ -11,18 +11,8 @@
 ```csharp
 public bool UseLineColor { get; set; }
 ```
-```vb
-Public Property UseLineColor As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseLineColor {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

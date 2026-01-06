@@ -13,13 +13,8 @@
 ```csharp
 public class FrameControl : GroupControl
 ```
-```vb
-Public Class FrameControl
-	Inherits GroupControl
-```
-```cpp
-public ref class FrameControl : public GroupControl
-```
+
+
 
 
 Тип FrameControl предоставляет следующие члены.

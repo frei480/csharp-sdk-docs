@@ -13,13 +13,8 @@
 ```csharp
 public class BaseUVBox : IDisposable
 ```
-```vb
-Public Class BaseUVBox
-	Implements IDisposable
-```
-```cpp
-public ref class BaseUVBox : IDisposable
-```
+
+
 
 
 Тип BaseUVBox предоставляет следующие члены.

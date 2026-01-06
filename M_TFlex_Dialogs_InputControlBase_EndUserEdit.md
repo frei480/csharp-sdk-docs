@@ -13,17 +13,8 @@ public void EndUserEdit(
 	bool tryApply
 )
 ```
-```vb
-Public Sub EndUserEdit ( 
-	tryApply As Boolean
-)
-```
-```cpp
-public:
-void EndUserEdit(
-	bool tryApply
-)
-```
+
+
 
 
 #### Параметры

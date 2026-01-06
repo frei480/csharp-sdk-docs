@@ -14,19 +14,8 @@ public RibbonButton AddChildButton(
 	string caption
 )
 ```
-```vb
-Public Function AddChildButton ( 
-	id As Integer,
-	caption As String
-) As RibbonButton
-```
-```cpp
-public:
-RibbonButton^ AddChildButton(
-	int id, 
-	String^ caption
-)
-```
+
+
 
 
 #### Параметры

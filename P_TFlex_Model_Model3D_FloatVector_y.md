@@ -11,18 +11,8 @@
 ```csharp
 public float y { get; set; }
 ```
-```vb
-Public Property y As Single
-	Get
-	Set
-```
-```cpp
-public:
-property float y {
-	float get ();
-	void set (float value);
-}
-```
+
+
 
 
 #### Значение свойства

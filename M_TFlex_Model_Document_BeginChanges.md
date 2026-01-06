@@ -13,17 +13,8 @@ public void BeginChanges(
 	string name
 )
 ```
-```vb
-Public Sub BeginChanges ( 
-	name As String
-)
-```
-```cpp
-public:
-void BeginChanges(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

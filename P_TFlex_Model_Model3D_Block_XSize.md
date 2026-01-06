@@ -11,18 +11,8 @@
 ```csharp
 public Parameter XSize { get; set; }
 ```
-```vb
-Public Property XSize As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ XSize {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

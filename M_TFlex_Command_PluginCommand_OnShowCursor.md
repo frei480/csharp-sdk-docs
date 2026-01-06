@@ -13,17 +13,8 @@ public virtual void OnShowCursor(
 	MouseEventArgs e
 )
 ```
-```vb
-Public Overridable Sub OnShowCursor ( 
-	e As MouseEventArgs
-)
-```
-```cpp
-public:
-virtual void OnShowCursor(
-	MouseEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

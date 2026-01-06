@@ -11,18 +11,8 @@
 ```csharp
 public bool AutoUpdateNomenclature { get; set; }
 ```
-```vb
-Public Property AutoUpdateNomenclature As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoUpdateNomenclature {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool IsSelectedForPrinting { get; set; }
 ```
-```vb
-Public Property IsSelectedForPrinting As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsSelectedForPrinting {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

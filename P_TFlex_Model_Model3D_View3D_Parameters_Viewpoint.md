@@ -13,20 +13,8 @@ public float this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Property Viewpoint ( 
-	index As Integer
-) As Single
-	Get
-	Set
-```
-```cpp
-public:
-property float Viewpoint[int index] {
-	float get (int index);
-	void set (int index, float value);
-}
-```
+
+
 
 
 #### Параметры

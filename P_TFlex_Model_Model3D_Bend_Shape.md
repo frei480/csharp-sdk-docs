@@ -11,18 +11,8 @@
 ```csharp
 public BendTillShape Shape { get; set; }
 ```
-```vb
-Public Property Shape As BendTillShape
-	Get
-	Set
-```
-```cpp
-public:
-property BendTillShape Shape {
-	BendTillShape get ();
-	void set (BendTillShape value);
-}
-```
+
+
 
 
 #### Значение свойства

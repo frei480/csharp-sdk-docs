@@ -11,13 +11,8 @@
 ```csharp
 public class CompositeParameterDataGenerator : IParameterDataGenerator
 ```
-```vb
-Public Class CompositeParameterDataGenerator
-	Inherits IParameterDataGenerator
-```
-```cpp
-public ref class CompositeParameterDataGenerator : public IParameterDataGenerator
-```
+
+
 
 
 Тип CompositeParameterDataGenerator предоставляет следующие члены.

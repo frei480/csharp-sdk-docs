@@ -8,18 +8,8 @@
 ```csharp
 public string FormFactorName { get; set; }
 ```
-```vb
-Public Property FormFactorName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ FormFactorName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

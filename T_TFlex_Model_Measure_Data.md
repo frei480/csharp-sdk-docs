@@ -11,12 +11,8 @@
 ```csharp
 public abstract class Data
 ```
-```vb
-Public MustInherit Class Data
-```
-```cpp
-public ref class Data abstract
-```
+
+
 
 
 Тип Data предоставляет следующие члены.

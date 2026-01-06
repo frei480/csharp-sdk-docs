@@ -13,13 +13,8 @@
 ```csharp
 public class Block : Primitive
 ```
-```vb
-Public Class Block
-	Inherits Primitive
-```
-```cpp
-public ref class Block : public Primitive
-```
+
+
 
 
 Тип Block предоставляет следующие члены.

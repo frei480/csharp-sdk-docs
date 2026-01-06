@@ -13,17 +13,8 @@ public static ObjectId Parse(
 	string id
 )
 ```
-```vb
-Public Shared Function Parse ( 
-	id As String
-) As ObjectId
-```
-```cpp
-public:
-static ObjectId^ Parse(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

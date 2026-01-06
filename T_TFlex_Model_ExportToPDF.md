@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToPDF : ExportTo
 ```
-```vb
-Public NotInheritable Class ExportToPDF
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportToPDF sealed : public ExportTo
-```
+
+
 
 
 Тип ExportToPDF предоставляет следующие члены.

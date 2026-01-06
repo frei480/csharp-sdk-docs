@@ -8,18 +8,8 @@
 ```csharp
 public bool Success { get; set; }
 ```
-```vb
-Public Property Success As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Success {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

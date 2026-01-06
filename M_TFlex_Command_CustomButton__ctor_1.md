@@ -16,23 +16,8 @@ public CustomButton(
 	ButtonStyle style
 )
 ```
-```vb
-Public Sub New ( 
-	nIcon As Integer,
-	keyCode As KeyCode,
-	title As String,
-	style As ButtonStyle
-)
-```
-```cpp
-public:
-CustomButton(
-	int nIcon, 
-	KeyCode keyCode, 
-	String^ title, 
-	ButtonStyle style
-)
-```
+
+
 
 
 #### Параметры

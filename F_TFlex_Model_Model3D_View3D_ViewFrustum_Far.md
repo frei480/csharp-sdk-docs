@@ -8,13 +8,8 @@
 ```csharp
 public float Far
 ```
-```vb
-Public Far As Single
-```
-```cpp
-public:
-float Far
-```
+
+
 
 
 #### Значение поля

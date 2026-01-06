@@ -13,17 +13,8 @@ public int GetFaceCount(
 	int Group
 )
 ```
-```vb
-Public Function GetFaceCount ( 
-	Group As Integer
-) As Integer
-```
-```cpp
-public:
-int GetFaceCount(
-	int Group
-)
-```
+
+
 
 
 #### Параметры

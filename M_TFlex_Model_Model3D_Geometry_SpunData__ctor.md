@@ -11,13 +11,8 @@
 ```csharp
 public SpunData()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SpunData()
-```
+
+
 
 
 #### Ссылки

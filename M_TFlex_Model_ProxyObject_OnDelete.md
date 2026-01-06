@@ -11,13 +11,8 @@
 ```csharp
 protected virtual bool OnDelete()
 ```
-```vb
-Protected Overridable Function OnDelete As Boolean
-```
-```cpp
-protected:
-virtual bool OnDelete()
-```
+
+
 
 
 #### Возвращаемое значение

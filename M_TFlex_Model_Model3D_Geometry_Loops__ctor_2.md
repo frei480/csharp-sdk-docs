@@ -13,17 +13,8 @@ public Loops(
 	Topol Topol
 )
 ```
-```vb
-Public Sub New ( 
-	Topol As Topol
-)
-```
-```cpp
-public:
-Loops(
-	Topol^ Topol
-)
-```
+
+
 
 
 #### Параметры

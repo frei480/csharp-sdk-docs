@@ -14,19 +14,8 @@ public bool AddVariable(
 	Parameter value
 )
 ```
-```vb
-Public Function AddVariable ( 
-	name As String,
-	value As Parameter
-) As Boolean
-```
-```cpp
-public:
-bool AddVariable(
-	String^ name, 
-	Parameter^ value
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public abstract LoftDegenerateProfileConditionType Type { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property Type As LoftDegenerateProfileConditionType
-	Get
-```
-```cpp
-public:
-virtual property LoftDegenerateProfileConditionType Type {
-	LoftDegenerateProfileConditionType get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

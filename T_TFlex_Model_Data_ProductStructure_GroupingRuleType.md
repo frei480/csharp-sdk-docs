@@ -8,12 +8,8 @@
 ```csharp
 public enum GroupingRuleType
 ```
-```vb
-Public Enumeration GroupingRuleType
-```
-```cpp
-public enum class GroupingRuleType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

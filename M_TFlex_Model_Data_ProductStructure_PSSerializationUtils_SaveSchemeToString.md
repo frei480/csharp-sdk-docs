@@ -10,17 +10,8 @@ public static string SaveSchemeToString(
 	Scheme scheme
 )
 ```
-```vb
-Public Shared Function SaveSchemeToString ( 
-	scheme As Scheme
-) As String
-```
-```cpp
-public:
-static String^ SaveSchemeToString(
-	Scheme^ scheme
-)
-```
+
+
 
 
 #### Параметры

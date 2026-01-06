@@ -10,18 +10,8 @@ public ElementInfoValue this[
 	Guid parameterId
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	parameterId As Guid
-) As ElementInfoValue
-	Get
-```
-```cpp
-public:
-property ElementInfoValue^ default[Guid parameterId] {
-	ElementInfoValue^ get (Guid parameterId);
-}
-```
+
+
 
 
 #### Параметры

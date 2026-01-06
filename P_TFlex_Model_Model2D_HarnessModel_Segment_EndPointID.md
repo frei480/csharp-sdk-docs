@@ -8,16 +8,8 @@
 ```csharp
 public int EndPointID { get; }
 ```
-```vb
-Public ReadOnly Property EndPointID As Integer
-	Get
-```
-```cpp
-public:
-property int EndPointID {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

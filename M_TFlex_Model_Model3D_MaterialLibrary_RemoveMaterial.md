@@ -13,17 +13,8 @@ public void RemoveMaterial(
 	int Index
 )
 ```
-```vb
-Public Sub RemoveMaterial ( 
-	Index As Integer
-)
-```
-```cpp
-public:
-void RemoveMaterial(
-	int Index
-)
-```
+
+
 
 
 #### Параметры

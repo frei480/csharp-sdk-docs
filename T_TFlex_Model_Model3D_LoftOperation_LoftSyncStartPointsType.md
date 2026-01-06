@@ -11,12 +11,8 @@
 ```csharp
 public enum LoftSyncStartPointsType
 ```
-```vb
-Public Enumeration LoftSyncStartPointsType
-```
-```cpp
-public enum class LoftSyncStartPointsType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

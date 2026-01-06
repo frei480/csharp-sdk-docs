@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter LineInterval { get; set; }
 ```
-```vb
-Public Property LineInterval As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ LineInterval {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public Dimension ParentDimension { get; set; }
 ```
-```vb
-Public Property ParentDimension As Dimension
-	Get
-	Set
-```
-```cpp
-public:
-property Dimension^ ParentDimension {
-	Dimension^ get ();
-	void set (Dimension^ value);
-}
-```
+
+
 
 
 #### Значение свойства

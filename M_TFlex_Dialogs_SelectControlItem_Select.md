@@ -11,13 +11,8 @@
 ```csharp
 public void Select()
 ```
-```vb
-Public Sub Select
-```
-```cpp
-public:
-void Select()
-```
+
+
 
 
 #### Ссылки

@@ -13,17 +13,8 @@ public virtual bool OnSelectionFilterButtonClick(
 	int id
 )
 ```
-```vb
-Public Overridable Function OnSelectionFilterButtonClick ( 
-	id As Integer
-) As Boolean
-```
-```cpp
-public:
-virtual bool OnSelectionFilterButtonClick(
-	int id
-)
-```
+
+
 
 
 #### Параметры

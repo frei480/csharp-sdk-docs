@@ -13,13 +13,8 @@
 ```csharp
 public class ObjectSelectControlFilterFromDoc : ObjectSelectControlFilterSimple
 ```
-```vb
-Public Class ObjectSelectControlFilterFromDoc
-	Inherits ObjectSelectControlFilterSimple
-```
-```cpp
-public ref class ObjectSelectControlFilterFromDoc : public ObjectSelectControlFilterSimple
-```
+
+
 
 
 Тип ObjectSelectControlFilterFromDoc предоставляет следующие члены.

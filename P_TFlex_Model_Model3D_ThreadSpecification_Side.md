@@ -11,18 +11,8 @@
 ```csharp
 public ThreadSide Side { get; set; }
 ```
-```vb
-Public Property Side As ThreadSide
-	Get
-	Set
-```
-```cpp
-public:
-property ThreadSide Side {
-	ThreadSide get ();
-	void set (ThreadSide value);
-}
-```
+
+
 
 
 #### Значение свойства

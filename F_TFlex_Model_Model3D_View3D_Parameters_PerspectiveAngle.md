@@ -11,13 +11,8 @@
 ```csharp
 public float PerspectiveAngle
 ```
-```vb
-Public PerspectiveAngle As Single
-```
-```cpp
-public:
-float PerspectiveAngle
-```
+
+
 
 
 #### Значение поля

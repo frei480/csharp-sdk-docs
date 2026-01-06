@@ -11,13 +11,8 @@
 ```csharp
 public virtual void Clear()
 ```
-```vb
-Public Overridable Sub Clear
-```
-```cpp
-public:
-virtual void Clear()
-```
+
+
 
 
 #### Реализации

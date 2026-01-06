@@ -13,17 +13,8 @@ public LCS GetTargetLCS(
 	int hole
 )
 ```
-```vb
-Public Function GetTargetLCS ( 
-	hole As Integer
-) As LCS
-```
-```cpp
-public:
-LCS^ GetTargetLCS(
-	int hole
-)
-```
+
+
 
 
 #### Параметры

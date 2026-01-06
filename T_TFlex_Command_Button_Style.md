@@ -11,12 +11,8 @@
 ```csharp
 public enum Style
 ```
-```vb
-Public Enumeration Style
-```
-```cpp
-public enum class Style
-```
+
+
 
 
 | Имя члена | Значение | Описание |

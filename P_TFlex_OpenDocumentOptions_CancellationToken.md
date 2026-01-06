@@ -11,18 +11,8 @@
 ```csharp
 public CancellationToken CancellationToken { get; set; }
 ```
-```vb
-Public Property CancellationToken As CancellationToken
-	Get
-	Set
-```
-```cpp
-public:
-property CancellationToken CancellationToken {
-	CancellationToken get ();
-	void set (CancellationToken value);
-}
-```
+
+
 
 
 #### Значение свойства

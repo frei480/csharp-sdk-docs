@@ -11,18 +11,8 @@
 ```csharp
 public WrapPanelControlOrientation Orientation { get; set; }
 ```
-```vb
-Public Property Orientation As WrapPanelControlOrientation
-	Get
-	Set
-```
-```cpp
-public:
-property WrapPanelControlOrientation Orientation {
-	WrapPanelControlOrientation get ();
-	void set (WrapPanelControlOrientation value);
-}
-```
+
+
 
 
 #### Значение свойства

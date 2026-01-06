@@ -8,16 +8,8 @@
 ```csharp
 public ElectricProperties Electric { get; }
 ```
-```vb
-Public ReadOnly Property Electric As ElectricProperties
-	Get
-```
-```cpp
-public:
-property ElectricProperties^ Electric {
-	ElectricProperties^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

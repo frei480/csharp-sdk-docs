@@ -13,13 +13,8 @@
 ```csharp
 public class AxisOutline : Outline
 ```
-```vb
-Public Class AxisOutline
-	Inherits Outline
-```
-```cpp
-public ref class AxisOutline : public Outline
-```
+
+
 
 
 Тип AxisOutline предоставляет следующие члены.

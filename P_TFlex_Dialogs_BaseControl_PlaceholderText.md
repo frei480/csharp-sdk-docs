@@ -11,18 +11,8 @@
 ```csharp
 public string PlaceholderText { get; set; }
 ```
-```vb
-Public Property PlaceholderText As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ PlaceholderText {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

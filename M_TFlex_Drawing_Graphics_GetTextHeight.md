@@ -13,17 +13,8 @@ public double GetTextHeight(
 	string text
 )
 ```
-```vb
-Public Function GetTextHeight ( 
-	text As String
-) As Double
-```
-```cpp
-public:
-double GetTextHeight(
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

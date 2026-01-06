@@ -11,18 +11,8 @@
 ```csharp
 public bool RotateAngleFromVector { get; set; }
 ```
-```vb
-Public Property RotateAngleFromVector As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RotateAngleFromVector {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

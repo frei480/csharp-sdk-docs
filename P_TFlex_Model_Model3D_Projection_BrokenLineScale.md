@@ -11,18 +11,8 @@
 ```csharp
 public Parameter BrokenLineScale { get; set; }
 ```
-```vb
-Public Property BrokenLineScale As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ BrokenLineScale {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

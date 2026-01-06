@@ -11,16 +11,8 @@
 ```csharp
 public override EdgeBlendingBlendType Type { get; }
 ```
-```vb
-Public Overrides ReadOnly Property Type As EdgeBlendingBlendType
-	Get
-```
-```cpp
-public:
-virtual property EdgeBlendingBlendType Type {
-	EdgeBlendingBlendType get () override;
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public RealProperty GetRealPropertyWithUnit(
 	string propertyName
 )
 ```
-```vb
-Public Function GetRealPropertyWithUnit ( 
-	propertyName As String
-) As RealProperty
-```
-```cpp
-public:
-RealProperty^ GetRealPropertyWithUnit(
-	String^ propertyName
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public TerminalPoint GetTerminalPointByKey(
 	Guid key
 )
 ```
-```vb
-Public Function GetTerminalPointByKey ( 
-	key As Guid
-) As TerminalPoint
-```
-```cpp
-public:
-TerminalPoint^ GetTerminalPointByKey(
-	Guid key
-)
-```
+
+
 
 
 #### Параметры

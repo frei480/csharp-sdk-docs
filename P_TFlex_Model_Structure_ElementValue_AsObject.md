@@ -8,18 +8,8 @@
 ```csharp
 public Object AsObject { get; set; }
 ```
-```vb
-Public Property AsObject As Object
-	Get
-	Set
-```
-```cpp
-public:
-property Object^ AsObject {
-	Object^ get ();
-	void set (Object^ value);
-}
-```
+
+
 
 
 #### Значение свойства

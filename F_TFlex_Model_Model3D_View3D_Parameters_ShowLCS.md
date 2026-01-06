@@ -11,13 +11,8 @@
 ```csharp
 public bool ShowLCS
 ```
-```vb
-Public ShowLCS As Boolean
-```
-```cpp
-public:
-bool ShowLCS
-```
+
+
 
 
 #### Значение поля

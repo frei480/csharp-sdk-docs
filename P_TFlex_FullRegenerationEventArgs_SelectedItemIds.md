@@ -11,16 +11,8 @@
 ```csharp
 public List<int> SelectedItemIds { get; }
 ```
-```vb
-Public ReadOnly Property SelectedItemIds As List(Of Integer)
-	Get
-```
-```cpp
-public:
-property List<int>^ SelectedItemIds {
-	List<int>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

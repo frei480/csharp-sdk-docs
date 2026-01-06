@@ -13,17 +13,8 @@ public ExportToRGK(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToRGK(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

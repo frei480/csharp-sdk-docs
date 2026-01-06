@@ -12,14 +12,8 @@
 [FlagsAttribute]
 public enum LimitsType
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration LimitsType
-```
-```cpp
-[FlagsAttribute]
-public enum class LimitsType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

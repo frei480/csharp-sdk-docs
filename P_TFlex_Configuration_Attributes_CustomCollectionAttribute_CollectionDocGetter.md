@@ -8,18 +8,8 @@
 ```csharp
 public Func<Document, Dictionary<string, Object>> CollectionDocGetter { get; set; }
 ```
-```vb
-Public Property CollectionDocGetter As Func(Of Document, Dictionary(Of String, Object))
-	Get
-	Set
-```
-```cpp
-public:
-property Func<Document^, Dictionary<String^, Object^>^>^ CollectionDocGetter {
-	Func<Document^, Dictionary<String^, Object^>^>^ get ();
-	void set (Func<Document^, Dictionary<String^, Object^>^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

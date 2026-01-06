@@ -10,16 +10,8 @@ public static implicit operator SurfaceSplineDataControlNetControlPointsControlP
 	BasePoint3D point
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	point As BasePoint3D
-) As SurfaceSplineDataControlNetControlPointsControlPoint
-```
-```cpp
-static implicit operator SurfaceSplineDataControlNetControlPointsControlPoint^ (
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

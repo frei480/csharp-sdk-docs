@@ -15,21 +15,8 @@ public bool SetTextValue(
 	string value
 )
 ```
-```vb
-Public Function SetTextValue ( 
-	column As Integer,
-	row As Integer,
-	value As String
-) As Boolean
-```
-```cpp
-public:
-bool SetTextValue(
-	int column, 
-	int row, 
-	String^ value
-)
-```
+
+
 
 
 #### Параметры

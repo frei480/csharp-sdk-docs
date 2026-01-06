@@ -10,17 +10,8 @@ public void Add(
 	SettingsGroup pOpts
 )
 ```
-```vb
-Public Sub Add ( 
-	pOpts As SettingsGroup
-)
-```
-```cpp
-public:
-void Add(
-	SettingsGroup^ pOpts
-)
-```
+
+
 
 
 #### Параметры

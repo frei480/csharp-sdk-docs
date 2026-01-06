@@ -8,16 +8,8 @@
 ```csharp
 public static FragmentOpenPartOptions Default { get; }
 ```
-```vb
-Public Shared ReadOnly Property Default As FragmentOpenPartOptions
-	Get
-```
-```cpp
-public:
-static property FragmentOpenPartOptions Default {
-	FragmentOpenPartOptions get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,12 +13,8 @@
 ```csharp
 public class LinePatternType
 ```
-```vb
-Public Class LinePatternType
-```
-```cpp
-public ref class LinePatternType
-```
+
+
 
 
 Тип LinePatternType предоставляет следующие члены.

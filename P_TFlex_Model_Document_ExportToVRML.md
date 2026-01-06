@@ -11,16 +11,8 @@
 ```csharp
 public ExportToVRML ExportToVRML { get; }
 ```
-```vb
-Public ReadOnly Property ExportToVRML As ExportToVRML
-	Get
-```
-```cpp
-public:
-property ExportToVRML^ ExportToVRML {
-	ExportToVRML^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

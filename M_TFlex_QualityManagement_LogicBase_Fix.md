@@ -14,19 +14,8 @@ public virtual FixResult Fix(
 	FixTask task
 )
 ```
-```vb
-Public Overridable Function Fix ( 
-	context As FixContext,
-	task As FixTask
-) As FixResult
-```
-```cpp
-public:
-virtual FixResult^ Fix(
-	FixContext^ context, 
-	FixTask^ task
-)
-```
+
+
 
 
 #### Параметры

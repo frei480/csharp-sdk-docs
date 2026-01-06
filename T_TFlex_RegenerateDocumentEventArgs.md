@@ -13,13 +13,8 @@
 ```csharp
 public class RegenerateDocumentEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class RegenerateDocumentEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class RegenerateDocumentEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип RegenerateDocumentEventArgs предоставляет следующие члены.

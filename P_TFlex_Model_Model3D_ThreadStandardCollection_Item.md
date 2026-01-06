@@ -10,18 +10,8 @@ public ThreadStandard this[
 	int index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As Integer
-) As ThreadStandard
-	Get
-```
-```cpp
-public:
-property ThreadStandard^ default[int index] {
-	ThreadStandard^ get (int index);
-}
-```
+
+
 
 
 #### Параметры

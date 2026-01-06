@@ -11,12 +11,8 @@
 ```csharp
 public enum SectionType
 ```
-```vb
-Public Enumeration SectionType
-```
-```cpp
-public enum class SectionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

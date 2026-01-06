@@ -13,17 +13,8 @@ public void RemovePoint(
 	int indexPoint
 )
 ```
-```vb
-Public Sub RemovePoint ( 
-	indexPoint As Integer
-)
-```
-```cpp
-public:
-void RemovePoint(
-	int indexPoint
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public StatusBar StatusBar { get; }
 ```
-```vb
-Public ReadOnly Property StatusBar As StatusBar
-	Get
-```
-```cpp
-public:
-property StatusBar^ StatusBar {
-	StatusBar^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

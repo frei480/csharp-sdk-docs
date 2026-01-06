@@ -8,12 +8,8 @@
 ```csharp
 public delegate void TopolArrayAfterDeleteAll()
 ```
-```vb
-Public Delegate Sub TopolArrayAfterDeleteAll
-```
-```cpp
-public delegate void TopolArrayAfterDeleteAll()
-```
+
+
 
 
 #### Ссылки

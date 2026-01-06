@@ -13,17 +13,8 @@ public void AddStepEdge(
 	ModelEdge edge
 )
 ```
-```vb
-Public Sub AddStepEdge ( 
-	edge As ModelEdge
-)
-```
-```cpp
-public:
-void AddStepEdge(
-	ModelEdge^ edge
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public void AddItem(
 	FullRegenerationWindowItem item
 )
 ```
-```vb
-Public Sub AddItem ( 
-	item As FullRegenerationWindowItem
-)
-```
-```cpp
-public:
-void AddItem(
-	FullRegenerationWindowItem^ item
-)
-```
+
+
 
 
 #### Параметры

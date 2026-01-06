@@ -13,17 +13,8 @@ public virtual int CompareTo(
 	Object obj
 )
 ```
-```vb
-Public Overridable Function CompareTo ( 
-	obj As Object
-) As Integer
-```
-```cpp
-public:
-virtual int CompareTo(
-	Object^ obj
-)
-```
+
+
 
 
 #### Параметры

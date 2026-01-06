@@ -8,13 +8,8 @@
 ```csharp
 protected virtual void CreateControlButtons()
 ```
-```vb
-Protected Overridable Sub CreateControlButtons
-```
-```cpp
-protected:
-virtual void CreateControlButtons()
-```
+
+
 
 
 #### Ссылки

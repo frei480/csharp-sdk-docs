@@ -13,17 +13,8 @@ public IntersectionPath(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-IntersectionPath(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

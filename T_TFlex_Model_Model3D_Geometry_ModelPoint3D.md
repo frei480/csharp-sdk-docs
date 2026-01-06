@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ModelPoint3D : BasePoint3D
 ```
-```vb
-Public NotInheritable Class ModelPoint3D
-	Inherits BasePoint3D
-```
-```cpp
-public ref class ModelPoint3D sealed : public BasePoint3D
-```
+
+
 
 
 Тип ModelPoint3D предоставляет следующие члены.

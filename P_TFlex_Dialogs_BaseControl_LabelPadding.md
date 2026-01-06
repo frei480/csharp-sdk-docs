@@ -11,18 +11,8 @@
 ```csharp
 public LabelPadding LabelPadding { get; set; }
 ```
-```vb
-Public Property LabelPadding As LabelPadding
-	Get
-	Set
-```
-```cpp
-public:
-property LabelPadding LabelPadding {
-	LabelPadding get ();
-	void set (LabelPadding value);
-}
-```
+
+
 
 
 #### Значение свойства

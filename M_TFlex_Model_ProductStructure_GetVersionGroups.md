@@ -10,17 +10,8 @@ public VersionGroupingResult GetVersionGroups(
 	Guid groupingID
 )
 ```
-```vb
-Public Function GetVersionGroups ( 
-	groupingID As Guid
-) As VersionGroupingResult
-```
-```cpp
-public:
-VersionGroupingResult^ GetVersionGroups(
-	Guid groupingID
-)
-```
+
+
 
 
 #### Параметры

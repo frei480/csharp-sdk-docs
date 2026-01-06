@@ -10,17 +10,8 @@ public override IEnumerable<string> GetDesignations(
 	DesignationType type
 )
 ```
-```vb
-Public Overrides Function GetDesignations ( 
-	type As DesignationType
-) As IEnumerable(Of String)
-```
-```cpp
-public:
-virtual IEnumerable<String^>^ GetDesignations(
-	DesignationType type
-) override
-```
+
+
 
 
 #### Параметры

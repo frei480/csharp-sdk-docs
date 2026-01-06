@@ -13,16 +13,8 @@
 ```csharp
 public static Unit KilovoltPerMillimeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property KilovoltPerMillimeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ KilovoltPerMillimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

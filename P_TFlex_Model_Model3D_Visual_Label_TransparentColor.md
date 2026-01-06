@@ -8,18 +8,8 @@
 ```csharp
 public Color TransparentColor { get; set; }
 ```
-```vb
-Public Property TransparentColor As Color
-	Get
-	Set
-```
-```cpp
-public:
-property Color TransparentColor {
-	Color get ();
-	void set (Color value);
-}
-```
+
+
 
 
 #### Значение свойства

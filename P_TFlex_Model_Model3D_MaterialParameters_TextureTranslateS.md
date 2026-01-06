@@ -11,18 +11,8 @@
 ```csharp
 public double TextureTranslateS { get; set; }
 ```
-```vb
-Public Property TextureTranslateS As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double TextureTranslateS {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

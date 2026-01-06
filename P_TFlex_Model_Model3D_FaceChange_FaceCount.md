@@ -11,16 +11,8 @@
 ```csharp
 public int FaceCount { get; }
 ```
-```vb
-Public ReadOnly Property FaceCount As Integer
-	Get
-```
-```cpp
-public:
-property int FaceCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

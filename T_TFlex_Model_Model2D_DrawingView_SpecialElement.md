@@ -13,12 +13,8 @@
 ```csharp
 public sealed class SpecialElement
 ```
-```vb
-Public NotInheritable Class SpecialElement
-```
-```cpp
-public ref class SpecialElement sealed
-```
+
+
 
 
 Тип DrawingViewSpecialElement предоставляет следующие члены.

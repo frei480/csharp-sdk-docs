@@ -11,16 +11,8 @@
 ```csharp
 public static int PathMark3Index { get; }
 ```
-```vb
-Public Shared ReadOnly Property PathMark3Index As Integer
-	Get
-```
-```cpp
-public:
-static property int PathMark3Index {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

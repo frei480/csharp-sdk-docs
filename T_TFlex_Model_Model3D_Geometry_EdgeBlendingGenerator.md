@@ -13,13 +13,8 @@
 ```csharp
 public class EdgeBlendingGenerator : BodyGenerator
 ```
-```vb
-Public Class EdgeBlendingGenerator
-	Inherits BodyGenerator
-```
-```cpp
-public ref class EdgeBlendingGenerator : public BodyGenerator
-```
+
+
 
 
 Тип EdgeBlendingGenerator предоставляет следующие члены.

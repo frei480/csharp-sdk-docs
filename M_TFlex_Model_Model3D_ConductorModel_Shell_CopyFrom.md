@@ -10,17 +10,8 @@ public bool CopyFrom(
 	Shell shell
 )
 ```
-```vb
-Public Function CopyFrom ( 
-	shell As Shell
-) As Boolean
-```
-```cpp
-public:
-bool CopyFrom(
-	Shell^ shell
-)
-```
+
+
 
 
 #### Параметры

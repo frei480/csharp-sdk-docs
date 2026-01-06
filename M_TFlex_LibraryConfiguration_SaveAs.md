@@ -13,17 +13,8 @@ public bool SaveAs(
 	string path
 )
 ```
-```vb
-Public Function SaveAs ( 
-	path As String
-) As Boolean
-```
-```cpp
-public:
-bool SaveAs(
-	String^ path
-)
-```
+
+
 
 
 #### Параметры

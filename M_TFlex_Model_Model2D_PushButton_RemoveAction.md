@@ -13,17 +13,8 @@ public void RemoveAction(
 	int index
 )
 ```
-```vb
-Public Sub RemoveAction ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void RemoveAction(
-	int index
-)
-```
+
+
 
 
 #### Параметры

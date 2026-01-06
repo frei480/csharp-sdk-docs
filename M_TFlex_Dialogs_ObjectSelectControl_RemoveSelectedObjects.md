@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveSelectedObjects()
 ```
-```vb
-Public Sub RemoveSelectedObjects
-```
-```cpp
-public:
-void RemoveSelectedObjects()
-```
+
+
 
 
 #### Ссылки

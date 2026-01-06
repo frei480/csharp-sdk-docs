@@ -13,17 +13,8 @@ public virtual bool Remove(
 	T item
 )
 ```
-```vb
-Public Overridable Function Remove ( 
-	item As T
-) As Boolean
-```
-```cpp
-public:
-virtual bool Remove(
-	T item
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool InnerDiameter { get; set; }
 ```
-```vb
-Public Property InnerDiameter As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool InnerDiameter {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

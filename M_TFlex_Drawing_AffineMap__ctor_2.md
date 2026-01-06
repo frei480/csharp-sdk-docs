@@ -18,27 +18,8 @@ public AffineMap(
 	double offsetY
 )
 ```
-```vb
-Public Sub New ( 
-	scale As Double,
-	angle As Double,
-	originX As Double,
-	originY As Double,
-	offsetX As Double,
-	offsetY As Double
-)
-```
-```cpp
-public:
-AffineMap(
-	double scale, 
-	double angle, 
-	double originX, 
-	double originY, 
-	double offsetX, 
-	double offsetY
-)
-```
+
+
 
 
 #### Параметры

@@ -8,13 +8,8 @@
 ```csharp
 public double AngularTolerance
 ```
-```vb
-Public AngularTolerance As Double
-```
-```cpp
-public:
-double AngularTolerance
-```
+
+
 
 
 #### Значение поля

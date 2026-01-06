@@ -11,13 +11,8 @@
 ```csharp
 public void EditActions()
 ```
-```vb
-Public Sub EditActions
-```
-```cpp
-public:
-void EditActions()
-```
+
+
 
 
 #### Ссылки

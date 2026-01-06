@@ -11,13 +11,8 @@
 ```csharp
 public void ShowInProductStructureWindow()
 ```
-```vb
-Public Sub ShowInProductStructureWindow
-```
-```cpp
-public:
-void ShowInProductStructureWindow()
-```
+
+
 
 
 #### Ссылки

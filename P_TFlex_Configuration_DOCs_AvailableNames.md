@@ -8,16 +8,8 @@
 ```csharp
 public IEnumerable<string> AvailableNames { get; }
 ```
-```vb
-Public ReadOnly Property AvailableNames As IEnumerable(Of String)
-	Get
-```
-```cpp
-public:
-property IEnumerable<String^>^ AvailableNames {
-	IEnumerable<String^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

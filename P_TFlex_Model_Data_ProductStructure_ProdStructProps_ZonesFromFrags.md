@@ -8,18 +8,8 @@
 ```csharp
 public bool ZonesFromFrags { get; set; }
 ```
-```vb
-Public Property ZonesFromFrags As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ZonesFromFrags {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

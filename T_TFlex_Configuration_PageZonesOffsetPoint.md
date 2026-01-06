@@ -8,12 +8,8 @@
 ```csharp
 public enum PageZonesOffsetPoint
 ```
-```vb
-Public Enumeration PageZonesOffsetPoint
-```
-```cpp
-public enum class PageZonesOffsetPoint
-```
+
+
 
 
 | Имя члена | Значение | Описание |

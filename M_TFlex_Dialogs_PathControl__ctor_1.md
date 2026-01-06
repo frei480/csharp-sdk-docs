@@ -13,17 +13,8 @@ public PathControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-PathControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

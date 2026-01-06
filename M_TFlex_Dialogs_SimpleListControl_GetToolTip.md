@@ -14,19 +14,8 @@ public Object GetToolTip(
 	int column
 )
 ```
-```vb
-Public Function GetToolTip ( 
-	row As Integer,
-	column As Integer
-) As Object
-```
-```cpp
-public:
-Object^ GetToolTip(
-	int row, 
-	int column
-)
-```
+
+
 
 
 #### Параметры

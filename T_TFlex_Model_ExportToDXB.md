@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToDXB : ExportToACAD
 ```
-```vb
-Public NotInheritable Class ExportToDXB
-	Inherits ExportToACAD
-```
-```cpp
-public ref class ExportToDXB sealed : public ExportToACAD
-```
+
+
 
 
 Тип ExportToDXB предоставляет следующие члены.

@@ -8,16 +8,8 @@
 ```csharp
 public SnapInfo OrthogonalPoint { get; }
 ```
-```vb
-Public ReadOnly Property OrthogonalPoint As SnapInfo
-	Get
-```
-```cpp
-public:
-property SnapInfo^ OrthogonalPoint {
-	SnapInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

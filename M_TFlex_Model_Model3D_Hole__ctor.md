@@ -14,19 +14,8 @@ public Hole(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	fileName As String,
-	document As Document
-)
-```
-```cpp
-public:
-Hole(
-	String^ fileName, 
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

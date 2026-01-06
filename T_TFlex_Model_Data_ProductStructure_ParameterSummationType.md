@@ -8,12 +8,8 @@
 ```csharp
 public enum ParameterSummationType
 ```
-```vb
-Public Enumeration ParameterSummationType
-```
-```cpp
-public enum class ParameterSummationType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -10,17 +10,8 @@ public CableProductInfo AddInfo(
 	Element element
 )
 ```
-```vb
-Public Function AddInfo ( 
-	element As Element
-) As CableProductInfo
-```
-```cpp
-public:
-CableProductInfo^ AddInfo(
-	Element^ element
-)
-```
+
+
 
 
 #### Параметры

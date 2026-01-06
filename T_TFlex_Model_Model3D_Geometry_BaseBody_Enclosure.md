@@ -11,12 +11,8 @@
 ```csharp
 public enum Enclosure
 ```
-```vb
-Public Enumeration Enclosure
-```
-```cpp
-public enum class Enclosure
-```
+
+
 
 
 | Имя члена | Значение | Описание |

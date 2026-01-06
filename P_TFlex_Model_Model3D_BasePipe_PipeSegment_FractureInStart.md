@@ -11,16 +11,8 @@
 ```csharp
 public bool FractureInStart { get; }
 ```
-```vb
-Public ReadOnly Property FractureInStart As Boolean
-	Get
-```
-```cpp
-public:
-property bool FractureInStart {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

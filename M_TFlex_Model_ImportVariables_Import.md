@@ -13,17 +13,8 @@ public bool Import(
 	string fileName
 )
 ```
-```vb
-Public Function Import ( 
-	fileName As String
-) As Boolean
-```
-```cpp
-public:
-bool Import(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

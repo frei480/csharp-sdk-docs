@@ -11,16 +11,8 @@
 ```csharp
 public ProfileThicknessData Thickness { get; }
 ```
-```vb
-Public ReadOnly Property Thickness As ProfileThicknessData
-	Get
-```
-```cpp
-public:
-property ProfileThicknessData^ Thickness {
-	ProfileThicknessData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

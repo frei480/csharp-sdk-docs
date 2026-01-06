@@ -11,16 +11,8 @@
 ```csharp
 public IntersectSurfaceDataCurveData Curves { get; }
 ```
-```vb
-Public ReadOnly Property Curves As IntersectSurfaceDataCurveData
-	Get
-```
-```cpp
-public:
-property IntersectSurfaceDataCurveData^ Curves {
-	IntersectSurfaceDataCurveData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

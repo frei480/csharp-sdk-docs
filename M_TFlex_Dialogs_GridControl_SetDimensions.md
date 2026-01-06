@@ -14,19 +14,8 @@ public void SetDimensions(
 	int columnCount
 )
 ```
-```vb
-Public Sub SetDimensions ( 
-	rowCount As Integer,
-	columnCount As Integer
-)
-```
-```cpp
-public:
-void SetDimensions(
-	int rowCount, 
-	int columnCount
-)
-```
+
+
 
 
 #### Параметры

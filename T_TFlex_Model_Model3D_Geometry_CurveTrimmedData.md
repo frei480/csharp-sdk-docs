@@ -11,12 +11,8 @@
 ```csharp
 public class CurveTrimmedData
 ```
-```vb
-Public Class CurveTrimmedData
-```
-```cpp
-public ref class CurveTrimmedData
-```
+
+
 
 
 Тип CurveTrimmedData предоставляет следующие члены.

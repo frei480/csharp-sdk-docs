@@ -11,13 +11,8 @@
 ```csharp
 public PipePath3DPointSplineToPoint AddEndPoint()
 ```
-```vb
-Public Function AddEndPoint As PipePath3DPointSplineToPoint
-```
-```cpp
-public:
-PipePath3DPointSplineToPoint^ AddEndPoint()
-```
+
+
 
 
 #### Возвращаемое значение

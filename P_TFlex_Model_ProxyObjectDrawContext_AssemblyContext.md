@@ -11,16 +11,8 @@
 ```csharp
 public IEnumerable<Document> AssemblyContext { get; }
 ```
-```vb
-Public ReadOnly Property AssemblyContext As IEnumerable(Of Document)
-	Get
-```
-```cpp
-public:
-property IEnumerable<Document^>^ AssemblyContext {
-	IEnumerable<Document^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

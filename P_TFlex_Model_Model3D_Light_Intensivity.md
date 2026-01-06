@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Intensivity { get; set; }
 ```
-```vb
-Public Property Intensivity As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Intensivity {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

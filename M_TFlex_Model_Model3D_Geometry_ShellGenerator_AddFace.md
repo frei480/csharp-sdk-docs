@@ -14,19 +14,8 @@ public void AddFace(
 	double dist
 )
 ```
-```vb
-Public Sub AddFace ( 
-	face As BaseTopol,
-	dist As Double
-)
-```
-```cpp
-public:
-void AddFace(
-	BaseTopol^ face, 
-	double dist
-)
-```
+
+
 
 
 #### Параметры

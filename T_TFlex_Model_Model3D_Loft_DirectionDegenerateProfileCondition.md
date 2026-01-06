@@ -13,13 +13,8 @@
 ```csharp
 public class DirectionDegenerateProfileCondition : LoftDegenerateProfileCondition
 ```
-```vb
-Public Class DirectionDegenerateProfileCondition
-	Inherits LoftDegenerateProfileCondition
-```
-```cpp
-public ref class DirectionDegenerateProfileCondition : public LoftDegenerateProfileCondition
-```
+
+
 
 
 Тип LoftDirectionDegenerateProfileCondition предоставляет следующие члены.

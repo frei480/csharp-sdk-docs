@@ -13,17 +13,8 @@ public int IndexOf(
 	ModelObject modelObject
 )
 ```
-```vb
-Public Function IndexOf ( 
-	modelObject As ModelObject
-) As Integer
-```
-```cpp
-public:
-int IndexOf(
-	ModelObject^ modelObject
-)
-```
+
+
 
 
 #### Параметры

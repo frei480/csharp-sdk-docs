@@ -11,13 +11,8 @@
 ```csharp
 public ICollection<FragmentVariableValue> GetEndPartVariables()
 ```
-```vb
-Public Function GetEndPartVariables As ICollection(Of FragmentVariableValue)
-```
-```cpp
-public:
-ICollection<FragmentVariableValue^>^ GetEndPartVariables()
-```
+
+
 
 
 #### Возвращаемое значение

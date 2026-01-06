@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionState
 ```
-```vb
-Public Enumeration DimensionState
-```
-```cpp
-public enum class DimensionState
-```
+
+
 
 
 | Имя члена | Значение | Описание |

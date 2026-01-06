@@ -11,18 +11,8 @@
 ```csharp
 public Parameter SemiAngle { get; set; }
 ```
-```vb
-Public Property SemiAngle As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ SemiAngle {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

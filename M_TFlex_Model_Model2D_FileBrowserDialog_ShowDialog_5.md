@@ -14,19 +14,8 @@ public DialogResult ShowDialog(
 	FileBrowserDialogMode mode
 )
 ```
-```vb
-<ObsoleteAttribute("Use ShowDialog(System.IntPtr, Mode)")>
-Public Function ShowDialog ( 
-	mode As FileBrowserDialogMode
-) As DialogResult
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Use ShowDialog(System.IntPtr, Mode)")]
-DialogResult ShowDialog(
-	FileBrowserDialogMode mode
-)
-```
+
+
 
 
 #### Параметры

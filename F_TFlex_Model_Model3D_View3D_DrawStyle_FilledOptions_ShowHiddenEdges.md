@@ -11,13 +11,8 @@
 ```csharp
 public bool ShowHiddenEdges
 ```
-```vb
-Public ShowHiddenEdges As Boolean
-```
-```cpp
-public:
-bool ShowHiddenEdges
-```
+
+
 
 
 #### Значение поля

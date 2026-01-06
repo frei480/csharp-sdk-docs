@@ -11,13 +11,8 @@
 ```csharp
 public class DoubleParameter : VarParameter
 ```
-```vb
-Public Class DoubleParameter
-	Inherits VarParameter
-```
-```cpp
-public ref class DoubleParameter : public VarParameter
-```
+
+
 
 
 Тип DoubleParameter предоставляет следующие члены.

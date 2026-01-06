@@ -11,16 +11,8 @@
 ```csharp
 public uint ULength { get; }
 ```
-```vb
-Public ReadOnly Property ULength As UInteger
-	Get
-```
-```cpp
-public:
-property unsigned int ULength {
-	unsigned int get ();
-}
-```
+
+
 
 
 #### Значение свойства

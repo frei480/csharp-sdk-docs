@@ -13,13 +13,8 @@
 ```csharp
 public class PointsLCS : LCS
 ```
-```vb
-Public Class PointsLCS
-	Inherits LCS
-```
-```cpp
-public ref class PointsLCS : public LCS
-```
+
+
 
 
 Тип PointsLCS предоставляет следующие члены.

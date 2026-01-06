@@ -11,13 +11,8 @@
 ```csharp
 public void DeleteAll()
 ```
-```vb
-Public Sub DeleteAll
-```
-```cpp
-public:
-void DeleteAll()
-```
+
+
 
 
 #### Ссылки

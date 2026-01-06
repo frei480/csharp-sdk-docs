@@ -11,13 +11,8 @@
 ```csharp
 public static bool EnableDOCs()
 ```
-```vb
-Public Shared Function EnableDOCs As Boolean
-```
-```cpp
-public:
-static bool EnableDOCs()
-```
+
+
 
 
 #### Возвращаемое значение

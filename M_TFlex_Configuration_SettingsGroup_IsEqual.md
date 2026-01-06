@@ -10,17 +10,8 @@ public bool IsEqual(
 	SettingsGroup otherSettingsGroup
 )
 ```
-```vb
-Public Function IsEqual ( 
-	otherSettingsGroup As SettingsGroup
-) As Boolean
-```
-```cpp
-public:
-bool IsEqual(
-	SettingsGroup^ otherSettingsGroup
-)
-```
+
+
 
 
 #### Параметры

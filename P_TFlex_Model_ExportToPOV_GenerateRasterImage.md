@@ -11,18 +11,8 @@
 ```csharp
 public bool GenerateRasterImage { get; set; }
 ```
-```vb
-Public Property GenerateRasterImage As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool GenerateRasterImage {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

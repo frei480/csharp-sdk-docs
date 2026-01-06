@@ -8,16 +8,8 @@
 ```csharp
 public virtual ReadOnlyCollection<IGroupingResultNode> Children { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Children As ReadOnlyCollection(Of IGroupingResultNode)
-	Get
-```
-```cpp
-public:
-virtual property ReadOnlyCollection<IGroupingResultNode^>^ Children {
-	ReadOnlyCollection<IGroupingResultNode^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

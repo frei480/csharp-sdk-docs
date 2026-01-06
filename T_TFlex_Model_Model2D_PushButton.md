@@ -13,13 +13,8 @@
 ```csharp
 public class PushButton : StaticTextControl
 ```
-```vb
-Public Class PushButton
-	Inherits StaticTextControl
-```
-```cpp
-public ref class PushButton : public StaticTextControl
-```
+
+
 
 
 Тип PushButton предоставляет следующие члены.

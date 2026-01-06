@@ -11,16 +11,8 @@
 ```csharp
 public double Time { get; }
 ```
-```vb
-Public ReadOnly Property Time As Double
-	Get
-```
-```cpp
-public:
-property double Time {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

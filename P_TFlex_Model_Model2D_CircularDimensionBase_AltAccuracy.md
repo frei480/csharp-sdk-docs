@@ -11,18 +11,8 @@
 ```csharp
 public Parameter AltAccuracy { get; set; }
 ```
-```vb
-Public Property AltAccuracy As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ AltAccuracy {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ModelObjectGroupContainer : IEnumerable<ModelObjectGroup>
 ```
-```vb
-Public NotInheritable Class ModelObjectGroupContainer
-	Implements IEnumerable(Of ModelObjectGroup)
-```
-```cpp
-public ref class ModelObjectGroupContainer sealed : IEnumerable<ModelObjectGroup^>
-```
+
+
 
 
 Тип ModelObjectGroupContainer предоставляет следующие члены.

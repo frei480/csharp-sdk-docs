@@ -8,18 +8,8 @@
 ```csharp
 public List<ulong> SelectedObjectsIds { get; set; }
 ```
-```vb
-Public Property SelectedObjectsIds As List(Of ULong)
-	Get
-	Set
-```
-```cpp
-public:
-property List<unsigned long long>^ SelectedObjectsIds {
-	List<unsigned long long>^ get ();
-	void set (List<unsigned long long>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

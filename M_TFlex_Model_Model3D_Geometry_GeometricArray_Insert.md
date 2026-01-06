@@ -14,19 +14,8 @@ public void Insert(
 	Geometry geom
 )
 ```
-```vb
-Public Sub Insert ( 
-	index As Integer,
-	geom As Geometry
-)
-```
-```cpp
-public:
-void Insert(
-	int index, 
-	Geometry^ geom
-)
-```
+
+
 
 
 #### Параметры

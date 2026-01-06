@@ -8,13 +8,8 @@
 ```csharp
 protected int Detach()
 ```
-```vb
-Protected Function Detach As Integer
-```
-```cpp
-protected:
-int Detach()
-```
+
+
 
 
 #### Возвращаемое значение

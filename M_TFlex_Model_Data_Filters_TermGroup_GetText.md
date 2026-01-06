@@ -11,13 +11,8 @@
 ```csharp
 public string GetText()
 ```
-```vb
-Public Function GetText As String
-```
-```cpp
-public:
-String^ GetText()
-```
+
+
 
 
 #### Возвращаемое значение

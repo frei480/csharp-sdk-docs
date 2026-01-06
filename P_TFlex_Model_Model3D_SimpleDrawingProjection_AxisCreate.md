@@ -11,18 +11,8 @@
 ```csharp
 public bool AxisCreate { get; set; }
 ```
-```vb
-Public Property AxisCreate As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AxisCreate {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public bool LoadFromDocument(
 	DocumentPartialLoadParameters parameters
 )
 ```
-```vb
-Public Function LoadFromDocument ( 
-	parameters As DocumentPartialLoadParameters
-) As Boolean
-```
-```cpp
-public:
-bool LoadFromDocument(
-	DocumentPartialLoadParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

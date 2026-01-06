@@ -8,18 +8,8 @@
 ```csharp
 public Page Page { get; set; }
 ```
-```vb
-Public Property Page As Page
-	Get
-	Set
-```
-```cpp
-public:
-property Page^ Page {
-	Page^ get ();
-	void set (Page^ value);
-}
-```
+
+
 
 
 #### Значение свойства

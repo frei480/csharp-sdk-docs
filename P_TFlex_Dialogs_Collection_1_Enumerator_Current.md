@@ -8,16 +8,8 @@
 ```csharp
 public virtual T Current { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Current As T
-	Get
-```
-```cpp
-public:
-virtual property T Current {
-	T get ();
-}
-```
+
+
 
 
 #### Значение свойства

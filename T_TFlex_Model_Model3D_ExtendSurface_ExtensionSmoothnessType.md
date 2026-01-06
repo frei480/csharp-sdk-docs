@@ -11,12 +11,8 @@
 ```csharp
 public enum ExtensionSmoothnessType
 ```
-```vb
-Public Enumeration ExtensionSmoothnessType
-```
-```cpp
-public enum class ExtensionSmoothnessType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

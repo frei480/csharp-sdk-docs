@@ -14,19 +14,8 @@ public void Insert(
 	PiecewiseDataSegmentsSetSegment segment
 )
 ```
-```vb
-Public Sub Insert ( 
-	Index As UInteger,
-	segment As PiecewiseDataSegmentsSetSegment
-)
-```
-```cpp
-public:
-void Insert(
-	unsigned int Index, 
-	PiecewiseDataSegmentsSetSegment^ segment
-)
-```
+
+
 
 
 #### Параметры

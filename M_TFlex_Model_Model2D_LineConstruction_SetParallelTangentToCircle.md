@@ -15,21 +15,8 @@ public void SetParallelTangentToCircle(
 	int variant
 )
 ```
-```vb
-Public Sub SetParallelTangentToCircle ( 
-	srcLine As Construction,
-	srcCircle As Construction,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetParallelTangentToCircle(
-	Construction^ srcLine, 
-	Construction^ srcCircle, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

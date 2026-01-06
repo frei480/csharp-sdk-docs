@@ -11,14 +11,8 @@
 ```csharp
 public class StructureElementsManager3D
 ```
-```vb
-<ExtensionAttribute>
-Public Class StructureElementsManager3D
-```
-```cpp
-[ExtensionAttribute]
-public ref class StructureElementsManager3D
-```
+
+
 
 
 Тип StructureElementsManager3D предоставляет следующие члены.

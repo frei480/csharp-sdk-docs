@@ -11,18 +11,8 @@ Lock position of line
 ```csharp
 public bool IsFixedPosition { get; set; }
 ```
-```vb
-Public Property IsFixedPosition As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsFixedPosition {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

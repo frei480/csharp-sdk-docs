@@ -13,13 +13,8 @@
 ```csharp
 public class CompoundStringControl : InputControlBase
 ```
-```vb
-Public Class CompoundStringControl
-	Inherits InputControlBase
-```
-```cpp
-public ref class CompoundStringControl : public InputControlBase
-```
+
+
 
 
 Тип CompoundStringControl предоставляет следующие члены.

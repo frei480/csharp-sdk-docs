@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionAltDimSeparatorType
 ```
-```vb
-Public Enumeration DimensionAltDimSeparatorType
-```
-```cpp
-public enum class DimensionAltDimSeparatorType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,13 +11,8 @@
 ```csharp
 public FragmentExplodeOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FragmentExplodeOptions()
-```
+
+
 
 
 #### Ссылки

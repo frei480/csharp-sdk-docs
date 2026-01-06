@@ -13,19 +13,8 @@ public static ICollection<Scenario> GetScenarios(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetScenarios ( 
-	document As Document
-) As ICollection(Of Scenario)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Scenario^>^ GetScenarios(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public virtual int CompareTo(
 	WireConnectionInfo obj
 )
 ```
-```vb
-Public Overridable Function CompareTo ( 
-	obj As WireConnectionInfo
-) As Integer
-```
-```cpp
-public:
-virtual int CompareTo(
-	WireConnectionInfo^ obj
-)
-```
+
+
 
 
 #### Параметры

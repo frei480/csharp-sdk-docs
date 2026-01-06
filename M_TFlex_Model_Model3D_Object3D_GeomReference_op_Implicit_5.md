@@ -10,16 +10,8 @@ public static implicit operator Object3DGeomReference (
 	ModelPlane plane
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	plane As ModelPlane
-) As Object3DGeomReference
-```
-```cpp
-static implicit operator Object3DGeomReference^ (
-	ModelPlane^ plane
-)
-```
+
+
 
 
 #### Параметры

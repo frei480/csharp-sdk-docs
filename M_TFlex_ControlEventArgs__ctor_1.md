@@ -16,23 +16,8 @@ public ControlEventArgs(
 	double _ModelY
 )
 ```
-```vb
-Public Sub New ( 
-	_x As Integer,
-	_y As Integer,
-	_ModelX As Double,
-	_ModelY As Double
-)
-```
-```cpp
-public:
-ControlEventArgs(
-	int _x, 
-	int _y, 
-	double _ModelX, 
-	double _ModelY
-)
-```
+
+
 
 
 #### Параметры

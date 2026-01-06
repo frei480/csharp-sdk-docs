@@ -16,23 +16,8 @@ public void AddBottomEdge(
 	BodyTaperMethodType method
 )
 ```
-```vb
-Public Sub AddBottomEdge ( 
-	edge As ModelEdge,
-	miter As Boolean,
-	replace As Boolean,
-	method As BodyTaperMethodType
-)
-```
-```cpp
-public:
-void AddBottomEdge(
-	ModelEdge^ edge, 
-	bool miter, 
-	bool replace, 
-	BodyTaperMethodType method
-)
-```
+
+
 
 
 #### Параметры

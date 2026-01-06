@@ -13,17 +13,8 @@ public string GetConfigurationName(
 	int Index
 )
 ```
-```vb
-Public Function GetConfigurationName ( 
-	Index As Integer
-) As String
-```
-```cpp
-public:
-String^ GetConfigurationName(
-	int Index
-)
-```
+
+
 
 
 #### Параметры

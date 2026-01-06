@@ -11,13 +11,8 @@
 ```csharp
 public abstract class IFilteringRule : ICloneable
 ```
-```vb
-Public MustInherit Class IFilteringRule
-	Implements ICloneable
-```
-```cpp
-public ref class IFilteringRule abstract : ICloneable
-```
+
+
 
 
 Тип IFilteringRule предоставляет следующие члены.

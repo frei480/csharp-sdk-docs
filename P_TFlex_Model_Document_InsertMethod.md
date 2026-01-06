@@ -11,18 +11,8 @@
 ```csharp
 public int InsertMethod { get; set; }
 ```
-```vb
-Public Property InsertMethod As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int InsertMethod {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class IntParameter : VarParameter
 ```
-```vb
-Public Class IntParameter
-	Inherits VarParameter
-```
-```cpp
-public ref class IntParameter : public VarParameter
-```
+
+
 
 
 Тип IntParameter предоставляет следующие члены.

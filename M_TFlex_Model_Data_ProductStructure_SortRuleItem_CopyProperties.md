@@ -10,17 +10,8 @@ public void CopyProperties(
 	SortRuleItem src
 )
 ```
-```vb
-Public Sub CopyProperties ( 
-	src As SortRuleItem
-)
-```
-```cpp
-public:
-void CopyProperties(
-	SortRuleItem^ src
-)
-```
+
+
 
 
 #### Параметры

@@ -13,21 +13,8 @@ public void MoveCameraToContainPoints(
 	bool perspectiveAngleChange
 )
 ```
-```vb
-Public Sub MoveCameraToContainPoints ( 
-	points As FloatVector(),
-	margin As Double,
-	perspectiveAngleChange As Boolean
-)
-```
-```cpp
-public:
-void MoveCameraToContainPoints(
-	array<FloatVector>^ points, 
-	double margin, 
-	bool perspectiveAngleChange
-)
-```
+
+
 
 
 #### Параметры

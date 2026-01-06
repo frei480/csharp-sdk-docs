@@ -13,13 +13,8 @@
 ```csharp
 public class ConeDevelopmentProfile : Profile
 ```
-```vb
-Public Class ConeDevelopmentProfile
-	Inherits Profile
-```
-```cpp
-public ref class ConeDevelopmentProfile : public Profile
-```
+
+
 
 
 Тип ConeDevelopmentProfile предоставляет следующие члены.

@@ -13,17 +13,8 @@ public BaseBodyEnclosure ContainsPoint(
 	BasePoint3D point
 )
 ```
-```vb
-Public Function ContainsPoint ( 
-	point As BasePoint3D
-) As BaseBodyEnclosure
-```
-```cpp
-public:
-BaseBodyEnclosure ContainsPoint(
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

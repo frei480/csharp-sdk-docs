@@ -10,17 +10,8 @@ public void Serialize(
 	string fileName
 )
 ```
-```vb
-Public Sub Serialize ( 
-	fileName As String
-)
-```
-```cpp
-public:
-void Serialize(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

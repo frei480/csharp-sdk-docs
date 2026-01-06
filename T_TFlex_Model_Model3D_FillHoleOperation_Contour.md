@@ -13,12 +13,8 @@
 ```csharp
 public class Contour
 ```
-```vb
-Public Class Contour
-```
-```cpp
-public ref class Contour
-```
+
+
 
 
 Тип FillHoleOperationContour предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public bool IsThreeState { get; set; }
 ```
-```vb
-Public Property IsThreeState As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsThreeState {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

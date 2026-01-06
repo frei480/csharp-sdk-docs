@@ -11,13 +11,8 @@
 ```csharp
 public Performance()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Performance()
-```
+
+
 
 
 #### Ссылки

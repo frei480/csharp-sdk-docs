@@ -11,16 +11,8 @@
 ```csharp
 public ModelBox SheetBox { get; }
 ```
-```vb
-Public ReadOnly Property SheetBox As ModelBox
-	Get
-```
-```cpp
-public:
-property ModelBox^ SheetBox {
-	ModelBox^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

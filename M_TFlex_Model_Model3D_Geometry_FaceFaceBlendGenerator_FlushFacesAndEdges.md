@@ -11,13 +11,8 @@
 ```csharp
 public void FlushFacesAndEdges()
 ```
-```vb
-Public Sub FlushFacesAndEdges
-```
-```cpp
-public:
-void FlushFacesAndEdges()
-```
+
+
 
 
 #### Ссылки

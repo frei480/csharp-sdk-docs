@@ -8,18 +8,8 @@
 ```csharp
 public SummationRules SummationRules { get; set; }
 ```
-```vb
-Public Property SummationRules As SummationRules
-	Get
-	Set
-```
-```cpp
-public:
-property SummationRules^ SummationRules {
-	SummationRules^ get ();
-	void set (SummationRules^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public void SetEndTangent(
 	bool AnalysisReverseFlag
 )
 ```
-```vb
-Public Sub SetEndTangent ( 
-	bEnable As Boolean,
-	AnalysisReverseFlag As Boolean
-)
-```
-```cpp
-public:
-void SetEndTangent(
-	bool bEnable, 
-	bool AnalysisReverseFlag
-)
-```
+
+
 
 
 #### Параметры

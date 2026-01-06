@@ -11,16 +11,8 @@
 ```csharp
 public MaterialParameters Material { get; }
 ```
-```vb
-Public ReadOnly Property Material As MaterialParameters
-	Get
-```
-```cpp
-public:
-property MaterialParameters^ Material {
-	MaterialParameters^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

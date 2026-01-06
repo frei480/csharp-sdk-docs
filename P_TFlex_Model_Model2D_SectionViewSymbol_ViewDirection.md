@@ -11,18 +11,8 @@
 ```csharp
 public bool ViewDirection { get; set; }
 ```
-```vb
-Public Property ViewDirection As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ViewDirection {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

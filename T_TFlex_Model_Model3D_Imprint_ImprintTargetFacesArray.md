@@ -14,14 +14,8 @@
 public class ImprintTargetFacesArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ImprintTargetFacesArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ImprintTargetFacesArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип ImprintImprintTargetFacesArray предоставляет следующие члены.

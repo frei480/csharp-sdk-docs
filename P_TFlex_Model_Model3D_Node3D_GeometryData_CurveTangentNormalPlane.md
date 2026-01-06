@@ -11,16 +11,8 @@
 ```csharp
 public ModelPlane CurveTangentNormalPlane { get; }
 ```
-```vb
-Public ReadOnly Property CurveTangentNormalPlane As ModelPlane
-	Get
-```
-```cpp
-public:
-property ModelPlane^ CurveTangentNormalPlane {
-	ModelPlane^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

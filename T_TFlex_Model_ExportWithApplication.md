@@ -13,13 +13,8 @@
 ```csharp
 public abstract class ExportWithApplication : ExportTo
 ```
-```vb
-Public MustInherit Class ExportWithApplication
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportWithApplication abstract : public ExportTo
-```
+
+
 
 
 Тип ExportWithApplication предоставляет следующие члены.

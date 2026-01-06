@@ -13,17 +13,8 @@ public void ReleaseDeviceContext(
 	IntPtr Handle
 )
 ```
-```vb
-Public Sub ReleaseDeviceContext ( 
-	Handle As IntPtr
-)
-```
-```cpp
-public:
-void ReleaseDeviceContext(
-	IntPtr Handle
-)
-```
+
+
 
 
 #### Параметры

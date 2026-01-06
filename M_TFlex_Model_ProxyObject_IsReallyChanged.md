@@ -11,13 +11,8 @@
 ```csharp
 protected virtual bool IsReallyChanged()
 ```
-```vb
-Protected Overridable Function IsReallyChanged As Boolean
-```
-```cpp
-protected:
-virtual bool IsReallyChanged()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,19 +13,8 @@ public static ICollection<Projection> GetProjections(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetProjections ( 
-	document As Document
-) As ICollection(Of Projection)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Projection^>^ GetProjections(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

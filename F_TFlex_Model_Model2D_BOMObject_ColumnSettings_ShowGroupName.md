@@ -11,13 +11,8 @@
 ```csharp
 public bool ShowGroupName
 ```
-```vb
-Public ShowGroupName As Boolean
-```
-```cpp
-public:
-bool ShowGroupName
-```
+
+
 
 
 #### Значение поля

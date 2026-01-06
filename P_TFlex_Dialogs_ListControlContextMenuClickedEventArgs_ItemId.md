@@ -11,16 +11,8 @@
 ```csharp
 public int ItemId { get; }
 ```
-```vb
-Public ReadOnly Property ItemId As Integer
-	Get
-```
-```cpp
-public:
-property int ItemId {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

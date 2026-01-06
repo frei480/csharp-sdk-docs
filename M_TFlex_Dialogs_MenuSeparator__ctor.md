@@ -11,13 +11,8 @@
 ```csharp
 public MenuSeparator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MenuSeparator()
-```
+
+
 
 
 #### Ссылки

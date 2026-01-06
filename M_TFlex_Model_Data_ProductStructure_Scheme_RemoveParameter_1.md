@@ -10,17 +10,8 @@ public void RemoveParameter(
 	int nIndex
 )
 ```
-```vb
-Public Sub RemoveParameter ( 
-	nIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveParameter(
-	int nIndex
-)
-```
+
+
 
 
 #### Параметры

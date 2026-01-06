@@ -10,17 +10,8 @@ protected override void OnLostFocus(
 	EventArgs e
 )
 ```
-```vb
-Protected Overrides Sub OnLostFocus ( 
-	e As EventArgs
-)
-```
-```cpp
-protected:
-virtual void OnLostFocus(
-	EventArgs^ e
-) override
-```
+
+
 
 
 #### Параметры

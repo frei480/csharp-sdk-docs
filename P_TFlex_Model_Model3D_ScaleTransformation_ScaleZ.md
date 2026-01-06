@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ScaleZ { get; set; }
 ```
-```vb
-Public Property ScaleZ As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ScaleZ {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

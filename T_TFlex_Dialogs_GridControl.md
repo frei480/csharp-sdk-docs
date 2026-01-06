@@ -13,13 +13,8 @@
 ```csharp
 public class GridControl : BaseControl
 ```
-```vb
-Public Class GridControl
-	Inherits BaseControl
-```
-```cpp
-public ref class GridControl : public BaseControl
-```
+
+
 
 
 Тип GridControl предоставляет следующие члены.

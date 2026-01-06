@@ -11,16 +11,8 @@
 ```csharp
 public LoftVectorDirection Vector { get; }
 ```
-```vb
-Public ReadOnly Property Vector As LoftVectorDirection
-	Get
-```
-```cpp
-public:
-property LoftVectorDirection^ Vector {
-	LoftVectorDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,13 +8,8 @@
 ```csharp
 public double GetRotationTime()
 ```
-```vb
-Public Function GetRotationTime As Double
-```
-```cpp
-public:
-double GetRotationTime()
-```
+
+
 
 
 #### Возвращаемое значение

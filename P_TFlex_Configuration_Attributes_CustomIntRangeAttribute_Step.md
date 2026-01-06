@@ -8,18 +8,8 @@
 ```csharp
 public int Step { get; set; }
 ```
-```vb
-Public Property Step As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int Step {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

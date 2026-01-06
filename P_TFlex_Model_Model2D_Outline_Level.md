@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Level { get; set; }
 ```
-```vb
-Public Property Level As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Level {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public enum FillTopologyType
 ```
-```vb
-Public Enumeration FillTopologyType
-```
-```cpp
-public enum class FillTopologyType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

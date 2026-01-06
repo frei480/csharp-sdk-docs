@@ -13,17 +13,8 @@ public Sew(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-Sew(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

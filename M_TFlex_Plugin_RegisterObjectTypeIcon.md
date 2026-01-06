@@ -14,19 +14,8 @@ protected void RegisterObjectTypeIcon(
 	Icon TypeIcon
 )
 ```
-```vb
-Protected Sub RegisterObjectTypeIcon ( 
-	ID As Integer,
-	TypeIcon As Icon
-)
-```
-```cpp
-protected:
-void RegisterObjectTypeIcon(
-	int ID, 
-	Icon^ TypeIcon
-)
-```
+
+
 
 
 #### Параметры

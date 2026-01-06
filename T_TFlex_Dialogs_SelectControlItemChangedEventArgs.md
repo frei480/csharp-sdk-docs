@@ -13,13 +13,8 @@
 ```csharp
 public class SelectControlItemChangedEventArgs : BaseEventArgs
 ```
-```vb
-Public Class SelectControlItemChangedEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class SelectControlItemChangedEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип SelectControlItemChangedEventArgs предоставляет следующие члены.

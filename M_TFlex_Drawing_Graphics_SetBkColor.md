@@ -13,17 +13,8 @@ public int SetBkColor(
 	int color
 )
 ```
-```vb
-Public Function SetBkColor ( 
-	color As Integer
-) As Integer
-```
-```cpp
-public:
-int SetBkColor(
-	int color
-)
-```
+
+
 
 
 #### Параметры

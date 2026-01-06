@@ -13,17 +13,8 @@ public virtual bool Match(
 	Object obj
 )
 ```
-```vb
-Public Overridable Function Match ( 
-	obj As Object
-) As Boolean
-```
-```cpp
-public:
-virtual bool Match(
-	Object^ obj
-)
-```
+
+
 
 
 #### Параметры

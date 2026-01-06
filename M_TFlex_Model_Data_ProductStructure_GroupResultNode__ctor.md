@@ -11,13 +11,8 @@
 ```csharp
 public GroupResultNode()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-GroupResultNode()
-```
+
+
 
 
 #### Ссылки

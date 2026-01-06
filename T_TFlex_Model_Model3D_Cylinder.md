@@ -13,13 +13,8 @@
 ```csharp
 public class Cylinder : Primitive
 ```
-```vb
-Public Class Cylinder
-	Inherits Primitive
-```
-```cpp
-public ref class Cylinder : public Primitive
-```
+
+
 
 
 Тип Cylinder предоставляет следующие члены.

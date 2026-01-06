@@ -8,18 +8,8 @@
 ```csharp
 public bool IsFixable { get; set; }
 ```
-```vb
-Public Property IsFixable As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsFixable {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

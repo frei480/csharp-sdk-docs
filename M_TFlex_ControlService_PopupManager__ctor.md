@@ -11,13 +11,8 @@
 ```csharp
 public PopupManager()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PopupManager()
-```
+
+
 
 
 #### Ссылки

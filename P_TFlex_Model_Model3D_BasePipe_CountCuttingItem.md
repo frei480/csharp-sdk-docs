@@ -11,16 +11,8 @@
 ```csharp
 public int CountCuttingItem { get; }
 ```
-```vb
-Public ReadOnly Property CountCuttingItem As Integer
-	Get
-```
-```cpp
-public:
-property int CountCuttingItem {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

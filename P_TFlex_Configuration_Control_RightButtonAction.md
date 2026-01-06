@@ -8,18 +8,8 @@
 ```csharp
 public CommandRightButtonAction RightButtonAction { get; set; }
 ```
-```vb
-Public Property RightButtonAction As CommandRightButtonAction
-	Get
-	Set
-```
-```cpp
-public:
-property CommandRightButtonAction RightButtonAction {
-	CommandRightButtonAction get ();
-	void set (CommandRightButtonAction value);
-}
-```
+
+
 
 
 #### Значение свойства

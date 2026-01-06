@@ -14,14 +14,8 @@
 public sealed class DiagnosticsMessageId : IComparable, 
 	ICloneable
 ```
-```vb
-Public NotInheritable Class DiagnosticsMessageId
-	Implements IComparable, ICloneable
-```
-```cpp
-public ref class DiagnosticsMessageId sealed : IComparable, 
-	ICloneable
-```
+
+
 
 
 Тип DiagnosticsMessageId предоставляет следующие члены.

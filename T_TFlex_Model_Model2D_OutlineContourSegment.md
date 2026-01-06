@@ -13,13 +13,8 @@
 ```csharp
 public class OutlineContourSegment : ContourSegment
 ```
-```vb
-Public Class OutlineContourSegment
-	Inherits ContourSegment
-```
-```cpp
-public ref class OutlineContourSegment : public ContourSegment
-```
+
+
 
 
 Тип OutlineContourSegment предоставляет следующие члены.

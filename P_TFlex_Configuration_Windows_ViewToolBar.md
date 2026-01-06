@@ -8,18 +8,8 @@
 ```csharp
 public ViewToolBarPosition ViewToolBar { get; set; }
 ```
-```vb
-Public Property ViewToolBar As ViewToolBarPosition
-	Get
-	Set
-```
-```cpp
-public:
-property ViewToolBarPosition ViewToolBar {
-	ViewToolBarPosition get ();
-	void set (ViewToolBarPosition value);
-}
-```
+
+
 
 
 #### Значение свойства

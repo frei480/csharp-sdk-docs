@@ -11,18 +11,8 @@
 ```csharp
 public double XBeginValue { get; set; }
 ```
-```vb
-Public Property XBeginValue As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double XBeginValue {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

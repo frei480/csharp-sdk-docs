@@ -12,14 +12,8 @@
 [FlagsAttribute]
 public enum ListControlEditMode
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration ListControlEditMode
-```
-```cpp
-[FlagsAttribute]
-public enum class ListControlEditMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

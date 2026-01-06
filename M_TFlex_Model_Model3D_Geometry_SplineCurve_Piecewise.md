@@ -13,17 +13,8 @@ public virtual PiecewiseData Piecewise(
 	PiecewiseRepresentation representation
 )
 ```
-```vb
-Public Overridable Function Piecewise ( 
-	representation As PiecewiseRepresentation
-) As PiecewiseData
-```
-```cpp
-public:
-virtual PiecewiseData^ Piecewise(
-	PiecewiseRepresentation representation
-)
-```
+
+
 
 
 #### Параметры

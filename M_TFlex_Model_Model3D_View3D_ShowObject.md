@@ -13,17 +13,8 @@ public void ShowObject(
 	Object3D object
 )
 ```
-```vb
-Public Sub ShowObject ( 
-	object As Object3D
-)
-```
-```cpp
-public:
-void ShowObject(
-	Object3D^ object
-)
-```
+
+
 
 
 #### Параметры

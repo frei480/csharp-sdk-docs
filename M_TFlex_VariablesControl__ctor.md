@@ -11,13 +11,8 @@
 ```csharp
 public VariablesControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-VariablesControl()
-```
+
+
 
 
 #### Ссылки

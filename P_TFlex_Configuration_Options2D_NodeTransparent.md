@@ -8,18 +8,8 @@
 ```csharp
 public bool NodeTransparent { get; set; }
 ```
-```vb
-Public Property NodeTransparent As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool NodeTransparent {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

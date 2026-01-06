@@ -8,13 +8,8 @@
 ```csharp
 public Simplification AddSimplificationOperation()
 ```
-```vb
-Public Function AddSimplificationOperation As Simplification
-```
-```cpp
-public:
-Simplification^ AddSimplificationOperation()
-```
+
+
 
 
 #### Возвращаемое значение

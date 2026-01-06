@@ -11,18 +11,8 @@
 ```csharp
 public bool RelativeParameter { get; set; }
 ```
-```vb
-Public Property RelativeParameter As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RelativeParameter {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

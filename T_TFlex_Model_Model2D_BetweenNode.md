@@ -13,13 +13,8 @@
 ```csharp
 public class BetweenNode : Node
 ```
-```vb
-Public Class BetweenNode
-	Inherits Node
-```
-```cpp
-public ref class BetweenNode : public Node
-```
+
+
 
 
 Тип BetweenNode предоставляет следующие члены.

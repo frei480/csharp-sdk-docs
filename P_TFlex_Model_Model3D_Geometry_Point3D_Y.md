@@ -11,18 +11,8 @@ Y - координата точки
 ```csharp
 public double Y { get; set; }
 ```
-```vb
-Public Property Y As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Y {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

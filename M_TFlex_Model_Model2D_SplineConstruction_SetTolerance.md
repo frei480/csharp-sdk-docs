@@ -13,17 +13,8 @@ public void SetTolerance(
 	Parameter value
 )
 ```
-```vb
-Public Sub SetTolerance ( 
-	value As Parameter
-)
-```
-```cpp
-public:
-void SetTolerance(
-	Parameter^ value
-)
-```
+
+
 
 
 #### Параметры

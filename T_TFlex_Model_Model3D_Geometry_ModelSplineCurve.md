@@ -14,15 +14,8 @@
 public sealed class ModelSplineCurve : ModelCurve, 
 	BaseSplineCurve
 ```
-```vb
-Public NotInheritable Class ModelSplineCurve
-	Inherits ModelCurve
-	Implements BaseSplineCurve
-```
-```cpp
-public ref class ModelSplineCurve sealed : public ModelCurve, 
-	BaseSplineCurve
-```
+
+
 
 
 Тип ModelSplineCurve предоставляет следующие члены.

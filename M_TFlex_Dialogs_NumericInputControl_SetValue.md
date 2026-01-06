@@ -13,17 +13,8 @@ public void SetValue(
 	double value
 )
 ```
-```vb
-Public Sub SetValue ( 
-	value As Double
-)
-```
-```cpp
-public:
-void SetValue(
-	double value
-)
-```
+
+
 
 
 #### Параметры

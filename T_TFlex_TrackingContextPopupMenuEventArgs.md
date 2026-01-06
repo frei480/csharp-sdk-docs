@@ -13,13 +13,8 @@
 ```csharp
 public class TrackingContextPopupMenuEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class TrackingContextPopupMenuEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class TrackingContextPopupMenuEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип TrackingContextPopupMenuEventArgs предоставляет следующие члены.

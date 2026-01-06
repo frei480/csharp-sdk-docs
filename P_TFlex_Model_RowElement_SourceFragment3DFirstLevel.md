@@ -11,16 +11,8 @@
 ```csharp
 public ModelObject SourceFragment3DFirstLevel { get; }
 ```
-```vb
-Public ReadOnly Property SourceFragment3DFirstLevel As ModelObject
-	Get
-```
-```cpp
-public:
-property ModelObject^ SourceFragment3DFirstLevel {
-	ModelObject^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

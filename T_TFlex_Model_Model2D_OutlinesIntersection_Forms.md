@@ -11,12 +11,8 @@
 ```csharp
 public enum Forms
 ```
-```vb
-Public Enumeration Forms
-```
-```cpp
-public enum class Forms
-```
+
+
 
 
 | Имя члена | Значение | Описание |

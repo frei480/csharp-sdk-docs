@@ -11,16 +11,8 @@
 ```csharp
 public SurfaceSplinewiseDataBoundaryCondition UpperUBoundary { get; }
 ```
-```vb
-Public ReadOnly Property UpperUBoundary As SurfaceSplinewiseDataBoundaryCondition
-	Get
-```
-```cpp
-public:
-property SurfaceSplinewiseDataBoundaryCondition^ UpperUBoundary {
-	SurfaceSplinewiseDataBoundaryCondition^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

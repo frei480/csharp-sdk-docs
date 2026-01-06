@@ -11,12 +11,8 @@
 ```csharp
 public sealed class Configuration
 ```
-```vb
-Public NotInheritable Class Configuration
-```
-```cpp
-public ref class Configuration sealed
-```
+
+
 
 
 Тип ImportFrom3dCommonConfiguration предоставляет следующие члены.

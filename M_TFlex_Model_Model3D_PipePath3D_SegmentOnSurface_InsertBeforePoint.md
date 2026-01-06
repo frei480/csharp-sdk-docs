@@ -10,17 +10,8 @@ public PipePath3DPointOnSurface InsertBeforePoint(
 	PipePath3DPointOnSurface pPoint
 )
 ```
-```vb
-Public Function InsertBeforePoint ( 
-	pPoint As PipePath3DPointOnSurface
-) As PipePath3DPointOnSurface
-```
-```cpp
-public:
-PipePath3DPointOnSurface^ InsertBeforePoint(
-	PipePath3DPointOnSurface^ pPoint
-)
-```
+
+
 
 
 #### Параметры

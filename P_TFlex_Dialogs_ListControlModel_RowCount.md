@@ -11,16 +11,8 @@
 ```csharp
 public abstract int RowCount { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property RowCount As Integer
-	Get
-```
-```cpp
-public:
-virtual property int RowCount {
-	int get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

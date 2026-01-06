@@ -11,18 +11,8 @@
 ```csharp
 public bool AsInnerSection { get; set; }
 ```
-```vb
-Public Property AsInnerSection As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AsInnerSection {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

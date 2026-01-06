@@ -8,13 +8,8 @@
 ```csharp
 public override TermGroupItem Copy()
 ```
-```vb
-Public Overrides Function Copy As TermGroupItem
-```
-```cpp
-public:
-virtual TermGroupItem^ Copy() override
-```
+
+
 
 
 #### Возвращаемое значение

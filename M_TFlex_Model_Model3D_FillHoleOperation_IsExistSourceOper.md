@@ -11,13 +11,8 @@
 ```csharp
 public bool IsExistSourceOper()
 ```
-```vb
-Public Function IsExistSourceOper As Boolean
-```
-```cpp
-public:
-bool IsExistSourceOper()
-```
+
+
 
 
 #### Возвращаемое значение

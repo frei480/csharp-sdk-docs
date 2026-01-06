@@ -11,18 +11,8 @@
 ```csharp
 public bool Import { get; set; }
 ```
-```vb
-Public Property Import As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Import {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

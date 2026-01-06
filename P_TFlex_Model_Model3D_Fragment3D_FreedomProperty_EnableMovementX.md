@@ -11,18 +11,8 @@
 ```csharp
 public bool EnableMovementX { get; set; }
 ```
-```vb
-Public Property EnableMovementX As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool EnableMovementX {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,21 +15,8 @@ public DecorationCircle(
 	double radius
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	axis As BaseAxis,
-	radius As Double
-)
-```
-```cpp
-public:
-DecorationCircle(
-	String^ name, 
-	BaseAxis^ axis, 
-	double radius
-)
-```
+
+
 
 
 #### Параметры

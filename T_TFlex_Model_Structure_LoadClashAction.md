@@ -8,12 +8,8 @@
 ```csharp
 public enum LoadClashAction
 ```
-```vb
-Public Enumeration LoadClashAction
-```
-```cpp
-public enum class LoadClashAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

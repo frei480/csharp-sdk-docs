@@ -8,13 +8,8 @@
 ```csharp
 public IEnumerable<ModelObject> GetBusConnectors()
 ```
-```vb
-Public Function GetBusConnectors As IEnumerable(Of ModelObject)
-```
-```cpp
-public:
-IEnumerable<ModelObject^>^ GetBusConnectors()
-```
+
+
 
 
 #### Возвращаемое значение

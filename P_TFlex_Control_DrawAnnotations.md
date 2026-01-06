@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool DrawAnnotations { get; set; }
 ```
-```vb
-Public Overridable Property DrawAnnotations As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool DrawAnnotations {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

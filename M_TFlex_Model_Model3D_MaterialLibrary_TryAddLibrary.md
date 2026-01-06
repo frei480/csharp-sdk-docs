@@ -13,17 +13,8 @@ public static MaterialLibrary TryAddLibrary(
 	string fileName
 )
 ```
-```vb
-Public Shared Function TryAddLibrary ( 
-	fileName As String
-) As MaterialLibrary
-```
-```cpp
-public:
-static MaterialLibrary^ TryAddLibrary(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<LockedChangedEventArgs> LockedChanged
 ```
-```vb
-Public Event LockedChanged As EventHandler(Of LockedChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<LockedChangedEventArgs^>^ LockedChanged {
-	void add (EventHandler<LockedChangedEventArgs^>^ value);
-	void remove (EventHandler<LockedChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

@@ -14,19 +14,8 @@ public void SetFieldIntValueIndirect(
 	int value
 )
 ```
-```vb
-Public Sub SetFieldIntValueIndirect ( 
-	fieldIndex As UInteger,
-	value As Integer
-)
-```
-```cpp
-public:
-void SetFieldIntValueIndirect(
-	unsigned int fieldIndex, 
-	int value
-)
-```
+
+
 
 
 #### Параметры

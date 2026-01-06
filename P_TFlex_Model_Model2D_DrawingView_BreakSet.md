@@ -11,16 +11,8 @@
 ```csharp
 public DrawingViewBreaks BreakSet { get; }
 ```
-```vb
-Public ReadOnly Property BreakSet As DrawingViewBreaks
-	Get
-```
-```cpp
-public:
-property DrawingViewBreaks^ BreakSet {
-	DrawingViewBreaks^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

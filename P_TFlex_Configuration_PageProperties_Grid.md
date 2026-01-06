@@ -8,16 +8,8 @@
 ```csharp
 public PageGrid Grid { get; }
 ```
-```vb
-Public ReadOnly Property Grid As PageGrid
-	Get
-```
-```cpp
-public:
-property PageGrid^ Grid {
-	PageGrid^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

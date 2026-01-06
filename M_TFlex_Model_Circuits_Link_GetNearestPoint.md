@@ -12,21 +12,8 @@ public Point GetNearestPoint(
 	int minNeighbours
 )
 ```
-```vb
-Public Function GetNearestPoint ( 
-	position As Point,
-	maxDistance As Double,
-	minNeighbours As Integer
-) As Point
-```
-```cpp
-public:
-Point^ GetNearestPoint(
-	Point position, 
-	double maxDistance, 
-	int minNeighbours
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public string GetValueListString(
 	int index
 )
 ```
-```vb
-Public Function GetValueListString ( 
-	index As Integer
-) As String
-```
-```cpp
-public:
-String^ GetValueListString(
-	int index
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerator<View> GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As IEnumerator(Of View)
-```
-```cpp
-public:
-virtual IEnumerator<View^>^ GetEnumerator() sealed
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,13 +11,8 @@
 ```csharp
 public bool hasBorder
 ```
-```vb
-Public hasBorder As Boolean
-```
-```cpp
-public:
-bool hasBorder
-```
+
+
 
 
 #### Значение поля

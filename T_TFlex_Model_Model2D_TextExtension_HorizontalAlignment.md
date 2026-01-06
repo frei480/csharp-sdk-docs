@@ -8,12 +8,8 @@
 ```csharp
 public enum HorizontalAlignment
 ```
-```vb
-Public Enumeration HorizontalAlignment
-```
-```cpp
-public enum class HorizontalAlignment
-```
+
+
 
 
 | Имя члена | Значение | Описание |

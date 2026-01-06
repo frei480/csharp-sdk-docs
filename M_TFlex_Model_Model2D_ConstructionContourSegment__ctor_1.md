@@ -14,19 +14,8 @@ public ConstructionContourSegment(
 	int index
 )
 ```
-```vb
-Public Sub New ( 
-	source As Contour,
-	index As Integer
-)
-```
-```cpp
-public:
-ConstructionContourSegment(
-	Contour^ source, 
-	int index
-)
-```
+
+
 
 
 #### Параметры

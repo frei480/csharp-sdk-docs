@@ -11,16 +11,8 @@
 ```csharp
 public ThreadDiameterCollection Diameters { get; }
 ```
-```vb
-Public ReadOnly Property Diameters As ThreadDiameterCollection
-	Get
-```
-```cpp
-public:
-property ThreadDiameterCollection^ Diameters {
-	ThreadDiameterCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

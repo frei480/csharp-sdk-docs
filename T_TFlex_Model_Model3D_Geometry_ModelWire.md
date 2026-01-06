@@ -13,15 +13,8 @@
 ```csharp
 public class ModelWire : ModelContour, Wire
 ```
-```vb
-Public Class ModelWire
-	Inherits ModelContour
-	Implements Wire
-```
-```cpp
-public ref class ModelWire : public ModelContour, 
-	Wire
-```
+
+
 
 
 Тип ModelWire предоставляет следующие члены.

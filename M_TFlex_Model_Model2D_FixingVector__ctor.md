@@ -13,17 +13,8 @@ public FixingVector(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-FixingVector(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

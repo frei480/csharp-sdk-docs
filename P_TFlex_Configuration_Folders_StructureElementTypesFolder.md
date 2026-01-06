@@ -8,18 +8,8 @@
 ```csharp
 public string StructureElementTypesFolder { get; set; }
 ```
-```vb
-Public Property StructureElementTypesFolder As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ StructureElementTypesFolder {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

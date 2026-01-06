@@ -11,12 +11,8 @@
 ```csharp
 public enum StandardAxis
 ```
-```vb
-Public Enumeration StandardAxis
-```
-```cpp
-public enum class StandardAxis
-```
+
+
 
 
 | Имя члена | Значение | Описание |

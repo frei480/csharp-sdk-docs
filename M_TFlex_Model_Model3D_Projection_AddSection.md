@@ -12,21 +12,8 @@ public void AddSection(
 	SectionType type
 )
 ```
-```vb
-Public Sub AddSection ( 
-	__unnamed000 As Workplane,
-	element As ProjectionProjectionsElements,
-	type As SectionType
-)
-```
-```cpp
-public:
-void AddSection(
-	Workplane^ __unnamed000, 
-	ProjectionProjectionsElements element, 
-	SectionType type
-)
-```
+
+
 
 
 #### Параметры

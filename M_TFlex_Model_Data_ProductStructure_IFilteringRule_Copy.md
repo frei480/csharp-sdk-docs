@@ -8,13 +8,8 @@
 ```csharp
 public abstract IFilteringRule Copy()
 ```
-```vb
-Public MustOverride Function Copy As IFilteringRule
-```
-```cpp
-public:
-virtual IFilteringRule^ Copy() abstract
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,13 +8,8 @@
 ```csharp
 public override sealed ObjectSelectControlPlainObject GetNextAnyObject()
 ```
-```vb
-Public Overrides NotOverridable Function GetNextAnyObject As ObjectSelectControlPlainObject
-```
-```cpp
-public:
-virtual ObjectSelectControlPlainObject GetNextAnyObject() override sealed
-```
+
+
 
 
 #### Возвращаемое значение

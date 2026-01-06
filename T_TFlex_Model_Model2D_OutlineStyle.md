@@ -11,12 +11,8 @@
 ```csharp
 public enum OutlineStyle
 ```
-```vb
-Public Enumeration OutlineStyle
-```
-```cpp
-public enum class OutlineStyle
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,17 +13,8 @@ public Parameter GetPointWeight(
 	int index
 )
 ```
-```vb
-Public Function GetPointWeight ( 
-	index As Integer
-) As Parameter
-```
-```cpp
-public:
-Parameter^ GetPointWeight(
-	int index
-)
-```
+
+
 
 
 #### Параметры

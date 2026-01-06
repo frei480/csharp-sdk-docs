@@ -11,13 +11,8 @@
 ```csharp
 public ParaFormatLineSpaceSizeMode LineSpaceMode
 ```
-```vb
-Public LineSpaceMode As ParaFormatLineSpaceSizeMode
-```
-```cpp
-public:
-ParaFormatLineSpaceSizeMode LineSpaceMode
-```
+
+
 
 
 #### Значение поля

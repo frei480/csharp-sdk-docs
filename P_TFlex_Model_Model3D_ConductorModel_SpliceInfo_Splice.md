@@ -8,16 +8,8 @@
 ```csharp
 public Splice Splice { get; }
 ```
-```vb
-Public ReadOnly Property Splice As Splice
-	Get
-```
-```cpp
-public:
-property Splice^ Splice {
-	Splice^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

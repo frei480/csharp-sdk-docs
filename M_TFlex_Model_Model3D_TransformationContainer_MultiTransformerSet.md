@@ -8,13 +8,8 @@
 ```csharp
 public MultiTransformer* MultiTransformerSet()
 ```
-```vb
-Visual Basic не поддерживает интерфейсы API, которые принимают или возвращают небезопасные типы.
-```
-```cpp
-public:
-MultiTransformer* MultiTransformerSet()
-```
+
+
 
 
 #### Возвращаемое значение

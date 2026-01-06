@@ -11,19 +11,8 @@ public void Transform(
 	ValueType offset
 )
 ```
-```vb
-Public Sub Transform ( 
-	links As List(Of Link),
-	offset As ValueType
-)
-```
-```cpp
-public:
-void Transform(
-	List<Link^>^ links, 
-	ValueType^ offset
-)
-```
+
+
 
 
 #### Параметры

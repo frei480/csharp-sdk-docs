@@ -11,13 +11,8 @@
 ```csharp
 public ParamProviderTable()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ParamProviderTable()
-```
+
+
 
 
 #### Ссылки

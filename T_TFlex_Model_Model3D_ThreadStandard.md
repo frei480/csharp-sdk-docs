@@ -13,12 +13,8 @@
 ```csharp
 public class ThreadStandard
 ```
-```vb
-Public Class ThreadStandard
-```
-```cpp
-public ref class ThreadStandard
-```
+
+
 
 
 Тип ThreadStandard предоставляет следующие члены.

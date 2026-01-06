@@ -13,17 +13,8 @@ public Table InsertCopyOfTable(
 	Table table
 )
 ```
-```vb
-Public Function InsertCopyOfTable ( 
-	table As Table
-) As Table
-```
-```cpp
-public:
-Table InsertCopyOfTable(
-	Table table
-)
-```
+
+
 
 
 #### Параметры

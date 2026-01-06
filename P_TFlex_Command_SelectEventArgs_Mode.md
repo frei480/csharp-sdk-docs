@@ -11,16 +11,8 @@
 ```csharp
 public SelectEventArgsSelectMode Mode { get; }
 ```
-```vb
-Public ReadOnly Property Mode As SelectEventArgsSelectMode
-	Get
-```
-```cpp
-public:
-property SelectEventArgsSelectMode Mode {
-	SelectEventArgsSelectMode get ();
-}
-```
+
+
 
 
 #### Значение свойства

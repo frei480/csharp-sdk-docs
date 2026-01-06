@@ -8,16 +8,8 @@
 ```csharp
 public virtual SplicesController Splices { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Splices As SplicesController
-	Get
-```
-```cpp
-public:
-virtual property SplicesController^ Splices {
-	SplicesController^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

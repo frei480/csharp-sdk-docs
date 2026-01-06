@@ -11,18 +11,8 @@
 ```csharp
 public bool IsHierarchyOn { get; set; }
 ```
-```vb
-Public Property IsHierarchyOn As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsHierarchyOn {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

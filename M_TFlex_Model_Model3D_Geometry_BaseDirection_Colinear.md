@@ -13,17 +13,8 @@ public bool Colinear(
 	BaseDirection other
 )
 ```
-```vb
-Public Function Colinear ( 
-	other As BaseDirection
-) As Boolean
-```
-```cpp
-public:
-bool Colinear(
-	BaseDirection^ other
-)
-```
+
+
 
 
 #### Параметры

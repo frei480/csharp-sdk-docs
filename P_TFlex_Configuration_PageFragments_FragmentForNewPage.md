@@ -8,18 +8,8 @@
 ```csharp
 public FileLinkParameter FragmentForNewPage { get; set; }
 ```
-```vb
-Public Property FragmentForNewPage As FileLinkParameter
-	Get
-	Set
-```
-```cpp
-public:
-property FileLinkParameter^ FragmentForNewPage {
-	FileLinkParameter^ get ();
-	void set (FileLinkParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

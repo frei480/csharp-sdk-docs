@@ -13,13 +13,8 @@
 ```csharp
 public class Knots : IEnumerator, IEnumerable
 ```
-```vb
-Public Class Knots
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class Knots : IEnumerator, IEnumerable
-```
+
+
 
 
 Тип SurfaceSplinewiseDataKnots предоставляет следующие члены.

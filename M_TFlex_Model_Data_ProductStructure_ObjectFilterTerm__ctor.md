@@ -11,13 +11,8 @@
 ```csharp
 public ObjectFilterTerm()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ObjectFilterTerm()
-```
+
+
 
 
 #### Ссылки

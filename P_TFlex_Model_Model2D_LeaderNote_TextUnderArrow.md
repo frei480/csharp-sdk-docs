@@ -11,18 +11,8 @@
 ```csharp
 public string TextUnderArrow { get; set; }
 ```
-```vb
-Public Property TextUnderArrow As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TextUnderArrow {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

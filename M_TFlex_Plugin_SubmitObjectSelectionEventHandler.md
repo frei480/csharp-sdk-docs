@@ -10,17 +10,8 @@ protected virtual void SubmitObjectSelectionEventHandler(
 	ObjectEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub SubmitObjectSelectionEventHandler ( 
-	args As ObjectEventArgs
-)
-```
-```cpp
-protected:
-virtual void SubmitObjectSelectionEventHandler(
-	ObjectEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

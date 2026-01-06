@@ -13,15 +13,8 @@
 ```csharp
 public sealed class Edge : Topol, BaseEdge
 ```
-```vb
-Public NotInheritable Class Edge
-	Inherits Topol
-	Implements BaseEdge
-```
-```cpp
-public ref class Edge sealed : public Topol, 
-	BaseEdge
-```
+
+
 
 
 Тип Edge предоставляет следующие члены.

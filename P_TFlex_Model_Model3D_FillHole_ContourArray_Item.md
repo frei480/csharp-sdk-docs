@@ -10,18 +10,8 @@ public FillHoleContour this[
 	int index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As Integer
-) As FillHoleContour
-	Get
-```
-```cpp
-public:
-property FillHoleContour^ default[int index] {
-	FillHoleContour^ get (int index);
-}
-```
+
+
 
 
 #### Параметры

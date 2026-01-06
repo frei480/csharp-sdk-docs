@@ -14,19 +14,8 @@ public LoftOperationGuide InsertGuide(
 	ModelContour contour
 )
 ```
-```vb
-Public Function InsertGuide ( 
-	guideIndex As Integer,
-	contour As ModelContour
-) As LoftOperationGuide
-```
-```cpp
-public:
-LoftOperationGuide^ InsertGuide(
-	int guideIndex, 
-	ModelContour^ contour
-)
-```
+
+
 
 
 #### Параметры

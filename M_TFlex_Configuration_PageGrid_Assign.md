@@ -10,17 +10,8 @@ public void Assign(
 	PageGrid source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As PageGrid
-)
-```
-```cpp
-public:
-void Assign(
-	PageGrid^ source
-)
-```
+
+
 
 
 #### Параметры

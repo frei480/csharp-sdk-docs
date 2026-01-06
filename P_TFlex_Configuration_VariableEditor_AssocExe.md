@@ -8,18 +8,8 @@
 ```csharp
 public string AssocExe { get; set; }
 ```
-```vb
-Public Property AssocExe As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ AssocExe {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

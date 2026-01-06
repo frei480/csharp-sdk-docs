@@ -11,12 +11,8 @@
 ```csharp
 public enum ScaleType
 ```
-```vb
-Public Enumeration ScaleType
-```
-```cpp
-public enum class ScaleType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetUnbends' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer Unbends { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetUnbends' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property Unbends As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetUnbends' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ Unbends {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

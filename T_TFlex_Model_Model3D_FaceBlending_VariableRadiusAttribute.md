@@ -13,13 +13,8 @@
 ```csharp
 public class VariableRadiusAttribute : FaceBlendingBlendAttribute
 ```
-```vb
-Public Class VariableRadiusAttribute
-	Inherits FaceBlendingBlendAttribute
-```
-```cpp
-public ref class VariableRadiusAttribute : public FaceBlendingBlendAttribute
-```
+
+
 
 
 Тип FaceBlendingVariableRadiusAttribute предоставляет следующие члены.

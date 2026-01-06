@@ -11,18 +11,8 @@
 ```csharp
 public ParagraphTextFitWidthAction WidthAction { get; set; }
 ```
-```vb
-Public Property WidthAction As ParagraphTextFitWidthAction
-	Get
-	Set
-```
-```cpp
-public:
-property ParagraphTextFitWidthAction WidthAction {
-	ParagraphTextFitWidthAction get ();
-	void set (ParagraphTextFitWidthAction value);
-}
-```
+
+
 
 
 #### Значение свойства

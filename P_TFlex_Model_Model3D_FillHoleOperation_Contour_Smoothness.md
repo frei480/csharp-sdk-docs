@@ -11,18 +11,8 @@
 ```csharp
 public FillHoleOperationSmoothnessType Smoothness { get; set; }
 ```
-```vb
-Public Property Smoothness As FillHoleOperationSmoothnessType
-	Get
-	Set
-```
-```cpp
-public:
-property FillHoleOperationSmoothnessType Smoothness {
-	FillHoleOperationSmoothnessType get ();
-	void set (FillHoleOperationSmoothnessType value);
-}
-```
+
+
 
 
 #### Значение свойства

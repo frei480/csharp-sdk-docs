@@ -11,16 +11,8 @@
 ```csharp
 public BasePoint3D IntersectionPoint { get; }
 ```
-```vb
-Public ReadOnly Property IntersectionPoint As BasePoint3D
-	Get
-```
-```cpp
-public:
-property BasePoint3D^ IntersectionPoint {
-	BasePoint3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

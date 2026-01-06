@@ -11,13 +11,8 @@
 ```csharp
 public SurfacePiecewiseData()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SurfacePiecewiseData()
-```
+
+
 
 
 #### Ссылки

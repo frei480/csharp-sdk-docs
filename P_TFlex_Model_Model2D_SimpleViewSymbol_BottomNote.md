@@ -11,18 +11,8 @@
 ```csharp
 public string BottomNote { get; set; }
 ```
-```vb
-Public Property BottomNote As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ BottomNote {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,12 +13,8 @@
 ```csharp
 public class GeometryData
 ```
-```vb
-Public Class GeometryData
-```
-```cpp
-public ref class GeometryData
-```
+
+
 
 
 Тип ModelLoopGeometryData предоставляет следующие члены.

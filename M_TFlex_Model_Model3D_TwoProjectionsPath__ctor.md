@@ -13,17 +13,8 @@ public TwoProjectionsPath(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-TwoProjectionsPath(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

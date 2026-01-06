@@ -13,17 +13,8 @@ public double GetValue(
 	double arg
 )
 ```
-```vb
-Public Function GetValue ( 
-	arg As Double
-) As Double
-```
-```cpp
-public:
-double GetValue(
-	double arg
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public CreatePrototypesInSerializedParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CreatePrototypesInSerializedParameters()
-```
+
+
 
 
 #### Ссылки

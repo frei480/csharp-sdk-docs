@@ -11,18 +11,8 @@
 ```csharp
 public int EndArrowType { get; set; }
 ```
-```vb
-Public Property EndArrowType As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int EndArrowType {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

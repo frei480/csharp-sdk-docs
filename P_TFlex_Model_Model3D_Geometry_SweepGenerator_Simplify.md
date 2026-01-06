@@ -11,18 +11,8 @@
 ```csharp
 public bool Simplify { get; set; }
 ```
-```vb
-Public Property Simplify As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Simplify {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public bool EnqueueModification(
 	GeometryModification modification
 )
 ```
-```vb
-Public Function EnqueueModification ( 
-	modification As GeometryModification
-) As Boolean
-```
-```cpp
-public:
-bool EnqueueModification(
-	GeometryModification^ modification
-)
-```
+
+
 
 
 #### Параметры

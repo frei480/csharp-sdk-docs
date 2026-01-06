@@ -14,19 +14,8 @@ public ModelFace GetFace(
 	int Index
 )
 ```
-```vb
-Public Function GetFace ( 
-	Group As Integer,
-	Index As Integer
-) As ModelFace
-```
-```cpp
-public:
-ModelFace^ GetFace(
-	int Group, 
-	int Index
-)
-```
+
+
 
 
 #### Параметры

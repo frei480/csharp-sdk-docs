@@ -11,18 +11,8 @@
 ```csharp
 public Parameter OutlineColor { get; set; }
 ```
-```vb
-Public Property OutlineColor As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ OutlineColor {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

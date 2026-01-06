@@ -8,18 +8,8 @@
 ```csharp
 public Element SourceElement { get; set; }
 ```
-```vb
-Public Property SourceElement As Element
-	Get
-	Set
-```
-```cpp
-public:
-property Element^ SourceElement {
-	Element^ get ();
-	void set (Element^ value);
-}
-```
+
+
 
 
 #### Значение свойства

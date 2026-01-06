@@ -8,16 +8,8 @@
 ```csharp
 public event LabelEventHandler Activated
 ```
-```vb
-Public Event Activated As LabelEventHandler
-```
-```cpp
-public:
- event LabelEventHandler^ Activated {
-	void add (LabelEventHandler^ value);
-	void remove (LabelEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

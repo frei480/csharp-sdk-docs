@@ -11,16 +11,8 @@
 ```csharp
 public Views Views { get; }
 ```
-```vb
-Public ReadOnly Property Views As Views
-	Get
-```
-```cpp
-public:
-property Views^ Views {
-	Views^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

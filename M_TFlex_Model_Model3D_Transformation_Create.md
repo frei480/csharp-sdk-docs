@@ -10,17 +10,8 @@ public static Transformation Create(
 	IntPtr Handle
 )
 ```
-```vb
-Public Shared Function Create ( 
-	Handle As IntPtr
-) As Transformation
-```
-```cpp
-public:
-static Transformation^ Create(
-	IntPtr Handle
-)
-```
+
+
 
 
 #### Параметры

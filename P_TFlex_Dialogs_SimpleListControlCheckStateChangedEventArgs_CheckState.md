@@ -11,16 +11,8 @@
 ```csharp
 public CheckState CheckState { get; }
 ```
-```vb
-Public ReadOnly Property CheckState As CheckState
-	Get
-```
-```cpp
-public:
-property CheckState CheckState {
-	CheckState get ();
-}
-```
+
+
 
 
 #### Значение свойства

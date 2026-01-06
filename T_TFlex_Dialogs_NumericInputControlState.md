@@ -11,12 +11,8 @@
 ```csharp
 public enum NumericInputControlState
 ```
-```vb
-Public Enumeration NumericInputControlState
-```
-```cpp
-public enum class NumericInputControlState
-```
+
+
 
 
 | Имя члена | Значение | Описание |

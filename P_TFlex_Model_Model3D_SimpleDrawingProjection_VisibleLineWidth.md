@@ -11,18 +11,8 @@
 ```csharp
 public Parameter VisibleLineWidth { get; set; }
 ```
-```vb
-Public Property VisibleLineWidth As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ VisibleLineWidth {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

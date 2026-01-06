@@ -11,19 +11,8 @@ public void UpdateData(
 	bool resetIfNotFound
 )
 ```
-```vb
-Public Sub UpdateData ( 
-	document As Document,
-	resetIfNotFound As Boolean
-)
-```
-```cpp
-public:
-void UpdateData(
-	Document^ document, 
-	bool resetIfNotFound
-)
-```
+
+
 
 
 #### Параметры

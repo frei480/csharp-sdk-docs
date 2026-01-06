@@ -14,19 +14,8 @@ public void SetRange(
 	bool rescaleValue
 )
 ```
-```vb
-Public Sub SetRange ( 
-	range As Range,
-	rescaleValue As Boolean
-)
-```
-```cpp
-public:
-void SetRange(
-	Range range, 
-	bool rescaleValue
-)
-```
+
+
 
 
 #### Параметры

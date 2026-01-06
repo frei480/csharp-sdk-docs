@@ -13,17 +13,8 @@ public void Add(
 	ModelEdge item
 )
 ```
-```vb
-Public Sub Add ( 
-	item As ModelEdge
-)
-```
-```cpp
-public:
-void Add(
-	ModelEdge^ item
-)
-```
+
+
 
 
 #### Параметры

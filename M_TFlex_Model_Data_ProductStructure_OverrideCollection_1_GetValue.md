@@ -11,19 +11,8 @@ public T GetValue(
 	T originalValue
 )
 ```
-```vb
-Public Function GetValue ( 
-	key As Guid,
-	originalValue As T
-) As T
-```
-```cpp
-public:
-T GetValue(
-	Guid key, 
-	T originalValue
-)
-```
+
+
 
 
 #### Параметры

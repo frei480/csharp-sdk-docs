@@ -13,13 +13,8 @@
 ```csharp
 public class ImportExportDialogShownEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class ImportExportDialogShownEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class ImportExportDialogShownEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип ImportExportDialogShownEventArgs предоставляет следующие члены.

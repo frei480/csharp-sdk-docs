@@ -13,17 +13,8 @@ protected AngularDimensionBase(
 	IntPtr Handle
 )
 ```
-```vb
-Protected Sub New ( 
-	Handle As IntPtr
-)
-```
-```cpp
-protected:
-AngularDimensionBase(
-	IntPtr Handle
-)
-```
+
+
 
 
 #### Параметры

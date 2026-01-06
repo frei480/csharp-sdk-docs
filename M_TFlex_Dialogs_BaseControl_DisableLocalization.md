@@ -11,13 +11,8 @@
 ```csharp
 public void DisableLocalization()
 ```
-```vb
-Public Sub DisableLocalization
-```
-```cpp
-public:
-void DisableLocalization()
-```
+
+
 
 
 #### Ссылки

@@ -11,13 +11,8 @@
 ```csharp
 public DegenerateProfileCondition()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-DegenerateProfileCondition()
-```
+
+
 
 
 #### Ссылки

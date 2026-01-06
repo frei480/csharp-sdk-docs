@@ -11,12 +11,8 @@
 ```csharp
 public enum LabelType
 ```
-```vb
-Public Enumeration LabelType
-```
-```cpp
-public enum class LabelType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

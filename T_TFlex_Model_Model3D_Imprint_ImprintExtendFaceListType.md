@@ -11,12 +11,8 @@
 ```csharp
 public enum ImprintExtendFaceListType
 ```
-```vb
-Public Enumeration ImprintExtendFaceListType
-```
-```cpp
-public enum class ImprintExtendFaceListType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

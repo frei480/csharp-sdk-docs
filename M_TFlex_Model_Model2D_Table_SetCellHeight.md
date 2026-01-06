@@ -15,21 +15,8 @@ public void SetCellHeight(
 	SizeMode mode
 )
 ```
-```vb
-Public Sub SetCellHeight ( 
-	cell As UInteger,
-	height As Double,
-	mode As SizeMode
-)
-```
-```cpp
-public:
-void SetCellHeight(
-	unsigned int cell, 
-	double height, 
-	SizeMode mode
-)
-```
+
+
 
 
 #### Параметры

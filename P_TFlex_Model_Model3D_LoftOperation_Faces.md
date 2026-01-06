@@ -11,18 +11,8 @@
 ```csharp
 public LoftOperationFacesType Faces { get; set; }
 ```
-```vb
-Public Property Faces As LoftOperationFacesType
-	Get
-	Set
-```
-```cpp
-public:
-property LoftOperationFacesType Faces {
-	LoftOperationFacesType get ();
-	void set (LoftOperationFacesType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public string Materail2 { get; }
 ```
-```vb
-Public ReadOnly Property Materail2 As String
-	Get
-```
-```cpp
-public:
-property String^ Materail2 {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

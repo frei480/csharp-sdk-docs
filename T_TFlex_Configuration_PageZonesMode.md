@@ -8,12 +8,8 @@
 ```csharp
 public enum PageZonesMode
 ```
-```vb
-Public Enumeration PageZonesMode
-```
-```cpp
-public enum class PageZonesMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

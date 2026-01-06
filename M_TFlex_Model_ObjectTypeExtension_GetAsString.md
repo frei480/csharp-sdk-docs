@@ -13,19 +13,8 @@ public static string GetAsString(
 	this ObjectType objectType
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetAsString ( 
-	objectType As ObjectType
-) As String
-```
-```cpp
-public:
-[ExtensionAttribute]
-static String^ GetAsString(
-	ObjectType objectType
-)
-```
+
+
 
 
 #### Параметры

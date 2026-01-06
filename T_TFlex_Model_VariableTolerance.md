@@ -13,12 +13,8 @@
 ```csharp
 public class VariableTolerance
 ```
-```vb
-Public Class VariableTolerance
-```
-```cpp
-public ref class VariableTolerance
-```
+
+
 
 
 Тип VariableTolerance предоставляет следующие члены.

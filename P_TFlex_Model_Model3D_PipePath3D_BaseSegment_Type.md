@@ -11,16 +11,8 @@
 ```csharp
 public SegmentPipePathType Type { get; }
 ```
-```vb
-Public ReadOnly Property Type As SegmentPipePathType
-	Get
-```
-```cpp
-public:
-property SegmentPipePathType Type {
-	SegmentPipePathType get ();
-}
-```
+
+
 
 
 #### Значение свойства

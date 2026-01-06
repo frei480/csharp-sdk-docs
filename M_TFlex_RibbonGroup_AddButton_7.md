@@ -14,19 +14,8 @@ public RibbonButton AddButton(
 	RibbonButtonStyle style
 )
 ```
-```vb
-Public Function AddButton ( 
-	id As Integer,
-	style As RibbonButtonStyle
-) As RibbonButton
-```
-```cpp
-public:
-RibbonButton^ AddButton(
-	int id, 
-	RibbonButtonStyle style
-)
-```
+
+
 
 
 #### Параметры

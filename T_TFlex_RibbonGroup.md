@@ -13,13 +13,8 @@
 ```csharp
 public sealed class RibbonGroup : IDisposable
 ```
-```vb
-Public NotInheritable Class RibbonGroup
-	Implements IDisposable
-```
-```cpp
-public ref class RibbonGroup sealed : IDisposable
-```
+
+
 
 
 Тип RibbonGroup предоставляет следующие члены.

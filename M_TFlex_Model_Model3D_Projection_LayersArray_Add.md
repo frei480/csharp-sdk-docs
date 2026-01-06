@@ -13,17 +13,8 @@ public void Add(
 	string layer
 )
 ```
-```vb
-Public Sub Add ( 
-	layer As String
-)
-```
-```cpp
-public:
-void Add(
-	String^ layer
-)
-```
+
+
 
 
 #### Параметры

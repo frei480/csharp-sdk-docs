@@ -13,17 +13,8 @@ public bool NormalizeIfPlanarClosedWire(
 	BaseDirection direction
 )
 ```
-```vb
-Public Function NormalizeIfPlanarClosedWire ( 
-	direction As BaseDirection
-) As Boolean
-```
-```cpp
-public:
-bool NormalizeIfPlanarClosedWire(
-	BaseDirection^ direction
-)
-```
+
+
 
 
 #### Параметры

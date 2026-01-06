@@ -11,13 +11,8 @@
 ```csharp
 public void BringToForeground()
 ```
-```vb
-Public Sub BringToForeground
-```
-```cpp
-public:
-void BringToForeground()
-```
+
+
 
 
 #### Ссылки

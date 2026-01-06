@@ -11,16 +11,8 @@
 ```csharp
 public FontVerticalAlignment FontVerticalAlignment { set; }
 ```
-```vb
-Public WriteOnly Property FontVerticalAlignment As FontVerticalAlignment
-	Set
-```
-```cpp
-public:
-property FontVerticalAlignment FontVerticalAlignment {
-	void set (FontVerticalAlignment value);
-}
-```
+
+
 
 
 #### Значение свойства

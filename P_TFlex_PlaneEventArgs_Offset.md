@@ -11,16 +11,8 @@
 ```csharp
 public double Offset { get; }
 ```
-```vb
-Public ReadOnly Property Offset As Double
-	Get
-```
-```cpp
-public:
-property double Offset {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

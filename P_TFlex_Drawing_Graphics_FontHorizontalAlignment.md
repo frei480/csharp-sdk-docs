@@ -11,16 +11,8 @@
 ```csharp
 public FontHorizontalAlignment FontHorizontalAlignment { set; }
 ```
-```vb
-Public WriteOnly Property FontHorizontalAlignment As FontHorizontalAlignment
-	Set
-```
-```cpp
-public:
-property FontHorizontalAlignment FontHorizontalAlignment {
-	void set (FontHorizontalAlignment value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter VisibleLineColor { get; set; }
 ```
-```vb
-Public Property VisibleLineColor As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ VisibleLineColor {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

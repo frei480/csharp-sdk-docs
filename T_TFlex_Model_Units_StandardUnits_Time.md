@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Time
 ```
-```vb
-Public NotInheritable Class Time
-```
-```cpp
-public ref class Time sealed
-```
+
+
 
 
 Тип StandardUnitsTime предоставляет следующие члены.

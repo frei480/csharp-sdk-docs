@@ -10,17 +10,8 @@ public static SourceFile CreateByContent(
 	string fileContent
 )
 ```
-```vb
-Public Shared Function CreateByContent ( 
-	fileContent As String
-) As SourceFile
-```
-```cpp
-public:
-static SourceFile^ CreateByContent(
-	String^ fileContent
-)
-```
+
+
 
 
 #### Параметры

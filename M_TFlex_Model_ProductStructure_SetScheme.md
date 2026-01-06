@@ -13,17 +13,8 @@ public void SetScheme(
 	Scheme scheme
 )
 ```
-```vb
-Public Sub SetScheme ( 
-	scheme As Scheme
-)
-```
-```cpp
-public:
-void SetScheme(
-	Scheme^ scheme
-)
-```
+
+
 
 
 #### Параметры

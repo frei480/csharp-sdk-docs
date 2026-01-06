@@ -13,17 +13,8 @@ public SimpleDrawingProjection(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-SimpleDrawingProjection(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

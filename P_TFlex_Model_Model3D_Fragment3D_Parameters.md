@@ -11,16 +11,8 @@
 ```csharp
 public Dictionary<uint, ModelObject> Parameters { get; }
 ```
-```vb
-Public ReadOnly Property Parameters As Dictionary(Of UInteger, ModelObject)
-	Get
-```
-```cpp
-public:
-property Dictionary<unsigned int, ModelObject^>^ Parameters {
-	Dictionary<unsigned int, ModelObject^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

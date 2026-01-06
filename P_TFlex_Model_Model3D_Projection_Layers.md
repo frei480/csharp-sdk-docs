@@ -11,16 +11,8 @@
 ```csharp
 public ProjectionLayersArray Layers { get; }
 ```
-```vb
-Public ReadOnly Property Layers As ProjectionLayersArray
-	Get
-```
-```cpp
-public:
-property ProjectionLayersArray^ Layers {
-	ProjectionLayersArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

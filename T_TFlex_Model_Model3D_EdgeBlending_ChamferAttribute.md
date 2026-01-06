@@ -13,13 +13,8 @@ ChamferAttribute - класс для задания фаски с помощью
 ```csharp
 public class ChamferAttribute : EdgeBlendingAttribute
 ```
-```vb
-Public Class ChamferAttribute
-	Inherits EdgeBlendingAttribute
-```
-```cpp
-public ref class ChamferAttribute : public EdgeBlendingAttribute
-```
+
+
 
 
 Тип EdgeBlendingChamferAttribute предоставляет следующие члены.

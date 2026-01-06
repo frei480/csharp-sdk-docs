@@ -11,18 +11,8 @@
 ```csharp
 public virtual Automenu Automenu { get; set; }
 ```
-```vb
-Public Overridable Property Automenu As Automenu
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Automenu^ Automenu {
-	Automenu^ get ();
-	void set (Automenu^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,12 +8,8 @@
 ```csharp
 public enum SpliceDiameterMode
 ```
-```vb
-Public Enumeration SpliceDiameterMode
-```
-```cpp
-public enum class SpliceDiameterMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

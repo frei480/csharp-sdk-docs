@@ -13,17 +13,8 @@ public Direction Binormal(
 	double t
 )
 ```
-```vb
-Public Function Binormal ( 
-	t As Double
-) As Direction
-```
-```cpp
-public:
-Direction^ Binormal(
-	double t
-)
-```
+
+
 
 
 #### Параметры

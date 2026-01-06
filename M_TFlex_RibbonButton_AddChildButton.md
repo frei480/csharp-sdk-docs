@@ -13,17 +13,8 @@ public RibbonButton AddChildButton(
 	int id
 )
 ```
-```vb
-Public Function AddChildButton ( 
-	id As Integer
-) As RibbonButton
-```
-```cpp
-public:
-RibbonButton^ AddChildButton(
-	int id
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public Settings3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Settings3D()
-```
+
+
 
 
 #### Ссылки

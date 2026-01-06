@@ -13,13 +13,8 @@
 ```csharp
 public class ConstructionOutline : Outline
 ```
-```vb
-Public Class ConstructionOutline
-	Inherits Outline
-```
-```cpp
-public ref class ConstructionOutline : public Outline
-```
+
+
 
 
 Тип ConstructionOutline предоставляет следующие члены.

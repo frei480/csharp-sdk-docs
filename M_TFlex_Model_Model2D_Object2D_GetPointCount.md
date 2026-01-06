@@ -11,13 +11,8 @@
 ```csharp
 public int GetPointCount()
 ```
-```vb
-Public Function GetPointCount As Integer
-```
-```cpp
-public:
-int GetPointCount()
-```
+
+
 
 
 #### Возвращаемое значение

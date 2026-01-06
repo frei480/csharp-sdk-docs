@@ -17,21 +17,8 @@ public int GetIntProp(
 	ref bool exist
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. Please use 'GetIntProperty' method.")>
-Public Function GetIntProp ( 
-	prop As String,
-	ByRef exist As Boolean
-) As Integer
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. Please use 'GetIntProperty' method.")]
-int GetIntProp(
-	String^ prop, 
-	bool% exist
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public void CopyTo(
 	TransformationGroupContainer A_0
 )
 ```
-```vb
-Public Sub CopyTo ( 
-	A_0 As TransformationGroupContainer
-)
-```
-```cpp
-public:
-void CopyTo(
-	TransformationGroupContainer^ A_0
-)
-```
+
+
 
 
 #### Параметры

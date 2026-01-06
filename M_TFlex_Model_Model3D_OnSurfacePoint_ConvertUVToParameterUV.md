@@ -13,17 +13,8 @@ public UV ConvertUVToParameterUV(
 	UV A_0
 )
 ```
-```vb
-Public Function ConvertUVToParameterUV ( 
-	A_0 As UV
-) As UV
-```
-```cpp
-public:
-UV ConvertUVToParameterUV(
-	UV A_0
-)
-```
+
+
 
 
 #### Параметры

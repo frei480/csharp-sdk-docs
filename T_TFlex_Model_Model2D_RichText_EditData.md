@@ -13,12 +13,8 @@
 ```csharp
 public class EditData
 ```
-```vb
-Public Class EditData
-```
-```cpp
-public ref class EditData
-```
+
+
 
 
 Тип RichTextEditData предоставляет следующие члены.

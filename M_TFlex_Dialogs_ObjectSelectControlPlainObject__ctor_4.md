@@ -14,19 +14,8 @@ public ObjectSelectControlPlainObject(
 	string nameOverride
 )
 ```
-```vb
-Public Sub New ( 
-	modelObject As ModelObject,
-	nameOverride As String
-)
-```
-```cpp
-public:
-ObjectSelectControlPlainObject(
-	ModelObject^ modelObject, 
-	String^ nameOverride
-)
-```
+
+
 
 
 #### Параметры

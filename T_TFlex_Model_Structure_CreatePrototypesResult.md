@@ -11,12 +11,8 @@
 ```csharp
 public class CreatePrototypesResult
 ```
-```vb
-Public Class CreatePrototypesResult
-```
-```cpp
-public ref class CreatePrototypesResult
-```
+
+
 
 
 Тип CreatePrototypesResult предоставляет следующие члены.

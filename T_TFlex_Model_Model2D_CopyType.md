@@ -11,12 +11,8 @@
 ```csharp
 public enum CopyType
 ```
-```vb
-Public Enumeration CopyType
-```
-```cpp
-public enum class CopyType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

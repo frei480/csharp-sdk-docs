@@ -13,12 +13,8 @@
 ```csharp
 public sealed class FixContext
 ```
-```vb
-Public NotInheritable Class FixContext
-```
-```cpp
-public ref class FixContext sealed
-```
+
+
 
 
 Тип FixContext предоставляет следующие члены.

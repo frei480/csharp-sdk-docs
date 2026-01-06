@@ -11,13 +11,8 @@
 ```csharp
 public double VertOffset
 ```
-```vb
-Public VertOffset As Double
-```
-```cpp
-public:
-double VertOffset
-```
+
+
 
 
 #### Значение поля

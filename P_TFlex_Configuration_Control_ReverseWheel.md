@@ -8,18 +8,8 @@
 ```csharp
 public bool ReverseWheel { get; set; }
 ```
-```vb
-Public Property ReverseWheel As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ReverseWheel {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

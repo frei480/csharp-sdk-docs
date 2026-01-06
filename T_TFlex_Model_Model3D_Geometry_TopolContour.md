@@ -14,15 +14,8 @@
 public class TopolContour : TopolBodies, 
 	Contour
 ```
-```vb
-Public Class TopolContour
-	Inherits TopolBodies
-	Implements Contour
-```
-```cpp
-public ref class TopolContour : public TopolBodies, 
-	Contour
-```
+
+
 
 
 Тип TopolContour предоставляет следующие члены.

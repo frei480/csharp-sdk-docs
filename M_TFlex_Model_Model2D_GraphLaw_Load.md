@@ -14,19 +14,8 @@ public static GraphLaw Load(
 	Document doc
 )
 ```
-```vb
-Public Shared Function Load ( 
-	file As String,
-	doc As Document
-) As GraphLaw
-```
-```cpp
-public:
-static GraphLaw^ Load(
-	String^ file, 
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

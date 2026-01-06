@@ -13,13 +13,8 @@
 ```csharp
 public class ConstantBlendAttribute : EdgeBlendingAttribute
 ```
-```vb
-Public Class ConstantBlendAttribute
-	Inherits EdgeBlendingAttribute
-```
-```cpp
-public ref class ConstantBlendAttribute : public EdgeBlendingAttribute
-```
+
+
 
 
 Тип EdgeBlendingConstantBlendAttribute предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public class Direction : BaseDirection
 ```
-```vb
-Public Class Direction
-	Inherits BaseDirection
-```
-```cpp
-public ref class Direction : public BaseDirection
-```
+
+
 
 
 Тип Direction предоставляет следующие члены.

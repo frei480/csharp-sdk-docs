@@ -15,21 +15,8 @@ public virtual bool TryChangeRowData(
 	Object data
 )
 ```
-```vb
-Public Overridable Function TryChangeRowData ( 
-	row As Integer,
-	role As ListItemRole,
-	data As Object
-) As Boolean
-```
-```cpp
-public:
-virtual bool TryChangeRowData(
-	int row, 
-	ListItemRole role, 
-	Object^ data
-)
-```
+
+
 
 
 #### Параметры

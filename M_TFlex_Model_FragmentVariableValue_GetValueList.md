@@ -11,13 +11,8 @@
 ```csharp
 public List<string> GetValueList()
 ```
-```vb
-Public Function GetValueList As List(Of String)
-```
-```cpp
-public:
-List<String^>^ GetValueList()
-```
+
+
 
 
 #### Возвращаемое значение

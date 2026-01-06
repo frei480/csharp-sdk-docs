@@ -8,13 +8,8 @@
 ```csharp
 public int GetPKTransform()
 ```
-```vb
-Public Function GetPKTransform As Integer
-```
-```cpp
-public:
-int GetPKTransform()
-```
+
+
 
 
 #### Возвращаемое значение

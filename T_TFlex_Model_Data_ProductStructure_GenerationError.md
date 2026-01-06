@@ -11,12 +11,8 @@
 ```csharp
 public class GenerationError
 ```
-```vb
-Public Class GenerationError
-```
-```cpp
-public ref class GenerationError
-```
+
+
 
 
 Тип GenerationError предоставляет следующие члены.

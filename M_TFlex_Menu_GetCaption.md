@@ -13,17 +13,8 @@ public string GetCaption(
 	int index
 )
 ```
-```vb
-Public Function GetCaption ( 
-	index As Integer
-) As String
-```
-```cpp
-public:
-String^ GetCaption(
-	int index
-)
-```
+
+
 
 
 #### Параметры

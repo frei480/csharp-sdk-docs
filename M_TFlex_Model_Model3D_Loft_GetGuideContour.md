@@ -14,19 +14,8 @@ public Contour GetGuideContour(
 	int contourIndex
 )
 ```
-```vb
-Public Function GetGuideContour ( 
-	guideIndex As Integer,
-	contourIndex As Integer
-) As Contour
-```
-```cpp
-public:
-Contour^ GetGuideContour(
-	int guideIndex, 
-	int contourIndex
-)
-```
+
+
 
 
 #### Параметры

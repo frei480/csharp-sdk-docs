@@ -8,16 +8,8 @@
 ```csharp
 public List<ProductStructureUpdatingEventArgsElementInfo> AppAddedElements { get; }
 ```
-```vb
-Public ReadOnly Property AppAddedElements As List(Of ProductStructureUpdatingEventArgsElementInfo)
-	Get
-```
-```cpp
-public:
-property List<ProductStructureUpdatingEventArgsElementInfo^>^ AppAddedElements {
-	List<ProductStructureUpdatingEventArgsElementInfo^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

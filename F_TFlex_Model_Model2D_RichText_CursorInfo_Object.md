@@ -11,13 +11,8 @@
 ```csharp
 public RichTextCursorInfoObjectType Object
 ```
-```vb
-Public Object As RichTextCursorInfoObjectType
-```
-```cpp
-public:
-RichTextCursorInfoObjectType Object
-```
+
+
 
 
 #### Значение поля

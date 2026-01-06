@@ -13,17 +13,8 @@ protected LCS(
 	Document pDocument
 )
 ```
-```vb
-Protected Sub New ( 
-	pDocument As Document
-)
-```
-```cpp
-protected:
-LCS(
-	Document^ pDocument
-)
-```
+
+
 
 
 #### Параметры

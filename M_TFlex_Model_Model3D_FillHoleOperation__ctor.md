@@ -13,17 +13,8 @@ public FillHoleOperation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-FillHoleOperation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

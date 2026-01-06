@@ -11,13 +11,8 @@
 ```csharp
 public class ObjectsMeasuredEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class ObjectsMeasuredEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class ObjectsMeasuredEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип ObjectsMeasuredEventArgs предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public bool UseParentExplode { get; set; }
 ```
-```vb
-Public Property UseParentExplode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseParentExplode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

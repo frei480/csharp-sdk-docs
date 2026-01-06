@@ -13,13 +13,8 @@
 ```csharp
 public class ObjectSelectControlStateUpdateEventArgs : BaseEventArgs
 ```
-```vb
-Public Class ObjectSelectControlStateUpdateEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class ObjectSelectControlStateUpdateEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип ObjectSelectControlStateUpdateEventArgs предоставляет следующие члены.

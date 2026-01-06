@@ -11,16 +11,8 @@
 ```csharp
 public SurfaceSplinewiseDataPositions Points { get; }
 ```
-```vb
-Public ReadOnly Property Points As SurfaceSplinewiseDataPositions
-	Get
-```
-```cpp
-public:
-property SurfaceSplinewiseDataPositions^ Points {
-	SurfaceSplinewiseDataPositions^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

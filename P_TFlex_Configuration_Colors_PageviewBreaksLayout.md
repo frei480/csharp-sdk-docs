@@ -8,18 +8,8 @@
 ```csharp
 public int PageviewBreaksLayout { get; set; }
 ```
-```vb
-Public Property PageviewBreaksLayout As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int PageviewBreaksLayout {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

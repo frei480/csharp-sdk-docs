@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Candela { get; }
 ```
-```vb
-Public Shared ReadOnly Property Candela As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Candela {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

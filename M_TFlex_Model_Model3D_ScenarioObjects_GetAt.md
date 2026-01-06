@@ -10,17 +10,8 @@ public ObjectId GetAt(
 	uint index
 )
 ```
-```vb
-Public Function GetAt ( 
-	index As UInteger
-) As ObjectId
-```
-```cpp
-public:
-ObjectId^ GetAt(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

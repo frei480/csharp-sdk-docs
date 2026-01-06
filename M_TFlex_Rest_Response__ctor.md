@@ -11,13 +11,8 @@
 ```csharp
 public Response()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Response()
-```
+
+
 
 
 #### Ссылки

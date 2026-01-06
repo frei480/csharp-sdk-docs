@@ -13,13 +13,8 @@
 ```csharp
 public class CylinderDevelopmentProfile : Profile
 ```
-```vb
-Public Class CylinderDevelopmentProfile
-	Inherits Profile
-```
-```cpp
-public ref class CylinderDevelopmentProfile : public Profile
-```
+
+
 
 
 Тип CylinderDevelopmentProfile предоставляет следующие члены.

@@ -13,12 +13,8 @@
 ```csharp
 public sealed class CommandParameters
 ```
-```vb
-Public NotInheritable Class CommandParameters
-```
-```cpp
-public ref class CommandParameters sealed
-```
+
+
 
 
 Тип CommandParameters предоставляет следующие члены.

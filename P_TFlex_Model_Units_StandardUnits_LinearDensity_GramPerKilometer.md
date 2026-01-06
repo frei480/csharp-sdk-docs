@@ -13,16 +13,8 @@
 ```csharp
 public static Unit GramPerKilometer { get; }
 ```
-```vb
-Public Shared ReadOnly Property GramPerKilometer As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ GramPerKilometer {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public Save()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Save()
-```
+
+
 
 
 #### Ссылки

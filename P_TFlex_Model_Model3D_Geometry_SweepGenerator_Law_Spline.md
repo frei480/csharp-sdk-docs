@@ -11,18 +11,8 @@
 ```csharp
 public BaseSplineCurve Spline { get; set; }
 ```
-```vb
-Public Property Spline As BaseSplineCurve
-	Get
-	Set
-```
-```cpp
-public:
-property BaseSplineCurve^ Spline {
-	BaseSplineCurve^ get ();
-	void set (BaseSplineCurve^ value);
-}
-```
+
+
 
 
 #### Значение свойства

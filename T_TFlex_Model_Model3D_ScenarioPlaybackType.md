@@ -11,12 +11,8 @@
 ```csharp
 public enum ScenarioPlaybackType
 ```
-```vb
-Public Enumeration ScenarioPlaybackType
-```
-```cpp
-public enum class ScenarioPlaybackType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

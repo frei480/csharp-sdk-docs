@@ -11,13 +11,8 @@
 ```csharp
 public bool IsEnding
 ```
-```vb
-Public IsEnding As Boolean
-```
-```cpp
-public:
-bool IsEnding
-```
+
+
 
 
 #### Значение поля

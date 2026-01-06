@@ -11,13 +11,8 @@
 ```csharp
 public ParamProviderMap()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ParamProviderMap()
-```
+
+
 
 
 #### Ссылки

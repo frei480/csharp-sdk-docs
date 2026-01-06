@@ -11,18 +11,8 @@ X - координата вектора
 ```csharp
 public double X { get; set; }
 ```
-```vb
-Public Property X As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double X {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

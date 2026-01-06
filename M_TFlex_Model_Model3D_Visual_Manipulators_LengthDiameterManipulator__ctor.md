@@ -11,13 +11,8 @@
 ```csharp
 public LengthDiameterManipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LengthDiameterManipulator()
-```
+
+
 
 
 #### Ссылки

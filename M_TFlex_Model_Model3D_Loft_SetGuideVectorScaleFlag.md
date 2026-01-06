@@ -14,19 +14,8 @@ public void SetGuideVectorScaleFlag(
 	bool scale
 )
 ```
-```vb
-Public Sub SetGuideVectorScaleFlag ( 
-	guideIndex As Integer,
-	scale As Boolean
-)
-```
-```cpp
-public:
-void SetGuideVectorScaleFlag(
-	int guideIndex, 
-	bool scale
-)
-```
+
+
 
 
 #### Параметры

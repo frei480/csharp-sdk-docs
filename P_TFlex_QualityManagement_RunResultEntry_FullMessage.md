@@ -11,18 +11,8 @@
 ```csharp
 public string FullMessage { get; set; }
 ```
-```vb
-Public Property FullMessage As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ FullMessage {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

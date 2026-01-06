@@ -11,18 +11,8 @@
 ```csharp
 public bool EnableRotationY { get; set; }
 ```
-```vb
-Public Property EnableRotationY As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool EnableRotationY {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,15 +11,8 @@
 ```csharp
 SweptData Data { get; }
 ```
-```vb
-ReadOnly Property Data As SweptData
-	Get
-```
-```cpp
-property SweptData^ Data {
-	SweptData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

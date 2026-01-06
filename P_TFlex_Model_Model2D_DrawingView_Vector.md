@@ -11,18 +11,8 @@
 ```csharp
 public FixingVector Vector { get; set; }
 ```
-```vb
-Public Property Vector As FixingVector
-	Get
-	Set
-```
-```cpp
-public:
-property FixingVector^ Vector {
-	FixingVector^ get ();
-	void set (FixingVector^ value);
-}
-```
+
+
 
 
 #### Значение свойства

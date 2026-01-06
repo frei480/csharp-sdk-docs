@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<WireSetManipulatorTerminalPointEventArgs> OnRemoveSocket
 ```
-```vb
-Public Event OnRemoveSocket As EventHandler(Of WireSetManipulatorTerminalPointEventArgs)
-```
-```cpp
-public:
- event EventHandler<WireSetManipulatorTerminalPointEventArgs^>^ OnRemoveSocket {
-	void add (EventHandler<WireSetManipulatorTerminalPointEventArgs^>^ value);
-	void remove (EventHandler<WireSetManipulatorTerminalPointEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

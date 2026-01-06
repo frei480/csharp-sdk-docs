@@ -14,19 +14,8 @@ public void AddGuideContour(
 	ModelContour contour
 )
 ```
-```vb
-Public Sub AddGuideContour ( 
-	guideIndex As Integer,
-	contour As ModelContour
-)
-```
-```cpp
-public:
-void AddGuideContour(
-	int guideIndex, 
-	ModelContour^ contour
-)
-```
+
+
 
 
 #### Параметры

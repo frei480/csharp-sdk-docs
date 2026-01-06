@@ -11,18 +11,8 @@
 ```csharp
 public bool Attributes { get; set; }
 ```
-```vb
-Public Property Attributes As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Attributes {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

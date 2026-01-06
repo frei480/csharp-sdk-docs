@@ -11,16 +11,8 @@
 ```csharp
 public virtual BasePoint3D Minimum { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Minimum As BasePoint3D
-	Get
-```
-```cpp
-public:
-virtual property BasePoint3D^ Minimum {
-	BasePoint3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public StringWrap()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-StringWrap()
-```
+
+
 
 
 #### Ссылки

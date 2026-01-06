@@ -11,12 +11,8 @@
 ```csharp
 public enum FieldDelimiterType
 ```
-```vb
-Public Enumeration FieldDelimiterType
-```
-```cpp
-public enum class FieldDelimiterType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

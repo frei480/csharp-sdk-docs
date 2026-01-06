@@ -13,13 +13,8 @@
 ```csharp
 public abstract class ProxyObject2D : ProxyObject
 ```
-```vb
-Public MustInherit Class ProxyObject2D
-	Inherits ProxyObject
-```
-```cpp
-public ref class ProxyObject2D abstract : public ProxyObject
-```
+
+
 
 
 Тип ProxyObject2D предоставляет следующие члены.

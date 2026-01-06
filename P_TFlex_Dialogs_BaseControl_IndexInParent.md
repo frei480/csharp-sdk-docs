@@ -11,16 +11,8 @@
 ```csharp
 public int IndexInParent { get; }
 ```
-```vb
-Public ReadOnly Property IndexInParent As Integer
-	Get
-```
-```cpp
-public:
-property int IndexInParent {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

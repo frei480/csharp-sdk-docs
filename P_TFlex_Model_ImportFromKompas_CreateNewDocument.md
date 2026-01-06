@@ -11,18 +11,8 @@
 ```csharp
 public bool CreateNewDocument { get; set; }
 ```
-```vb
-Public Property CreateNewDocument As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CreateNewDocument {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public bool LockMateTransformation()
 ```
-```vb
-Public Function LockMateTransformation As Boolean
-```
-```cpp
-public:
-bool LockMateTransformation()
-```
+
+
 
 
 #### Возвращаемое значение

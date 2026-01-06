@@ -11,12 +11,8 @@
 ```csharp
 public enum ProjectionType
 ```
-```vb
-Public Enumeration ProjectionType
-```
-```cpp
-public enum class ProjectionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

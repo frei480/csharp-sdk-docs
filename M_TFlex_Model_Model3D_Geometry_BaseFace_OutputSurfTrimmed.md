@@ -13,16 +13,8 @@ SurfTrimmedData OutputSurfTrimmed(
 	double tolerance
 )
 ```
-```vb
-Function OutputSurfTrimmed ( 
-	tolerance As Double
-) As SurfTrimmedData
-```
-```cpp
-SurfTrimmedData^ OutputSurfTrimmed(
-	double tolerance
-)
-```
+
+
 
 
 #### Параметры

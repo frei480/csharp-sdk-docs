@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseCircleCurve
 ```
-```vb
-Public Interface BaseCircleCurve
-```
-```cpp
-public interface class BaseCircleCurve
-```
+
+
 
 
 Тип BaseCircleCurve предоставляет следующие члены.

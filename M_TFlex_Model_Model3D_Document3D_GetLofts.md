@@ -17,23 +17,8 @@ public static ICollection<Loft> GetLofts(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetLoftOperations' method.", 
-	true)>
-Public Shared Function GetLofts ( 
-	document As Document
-) As ICollection(Of Loft)
-```
-```cpp
-public:
-[ExtensionAttribute]
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetLoftOperations' method.", 
-	true)]
-static ICollection<Loft^>^ GetLofts(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

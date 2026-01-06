@@ -13,17 +13,8 @@ public void SetRadio(
 	bool fSet
 )
 ```
-```vb
-Public Sub SetRadio ( 
-	fSet As Boolean
-)
-```
-```cpp
-public:
-void SetRadio(
-	bool fSet
-)
-```
+
+
 
 
 #### Параметры

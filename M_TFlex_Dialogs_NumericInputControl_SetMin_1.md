@@ -14,19 +14,8 @@ public void SetMin(
 	bool rescaleValue
 )
 ```
-```vb
-Public Sub SetMin ( 
-	minValue As Double,
-	rescaleValue As Boolean
-)
-```
-```cpp
-public:
-void SetMin(
-	double minValue, 
-	bool rescaleValue
-)
-```
+
+
 
 
 #### Параметры

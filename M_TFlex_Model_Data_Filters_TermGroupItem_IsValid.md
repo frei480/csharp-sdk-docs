@@ -8,13 +8,8 @@
 ```csharp
 protected virtual bool IsValid()
 ```
-```vb
-Protected Overridable Function IsValid As Boolean
-```
-```cpp
-protected:
-virtual bool IsValid()
-```
+
+
 
 
 #### Возвращаемое значение

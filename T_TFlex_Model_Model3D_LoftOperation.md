@@ -13,13 +13,8 @@
 ```csharp
 public class LoftOperation : Operation
 ```
-```vb
-Public Class LoftOperation
-	Inherits Operation
-```
-```cpp
-public ref class LoftOperation : public Operation
-```
+
+
 
 
 Тип LoftOperation предоставляет следующие члены.

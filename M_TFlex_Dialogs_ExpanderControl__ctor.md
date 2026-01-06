@@ -11,13 +11,8 @@
 ```csharp
 public ExpanderControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ExpanderControl()
-```
+
+
 
 
 #### Ссылки

@@ -11,13 +11,8 @@
 ```csharp
 public class SizeDoubleStep : SettingsGroup
 ```
-```vb
-Public Class SizeDoubleStep
-	Inherits SettingsGroup
-```
-```cpp
-public ref class SizeDoubleStep : public SettingsGroup
-```
+
+
 
 
 Тип SizeDoubleStep предоставляет следующие члены.

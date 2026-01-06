@@ -13,17 +13,8 @@ public void Zoom(
 	double ratio
 )
 ```
-```vb
-Public Sub Zoom ( 
-	ratio As Double
-)
-```
-```cpp
-public:
-void Zoom(
-	double ratio
-)
-```
+
+
 
 
 #### Параметры

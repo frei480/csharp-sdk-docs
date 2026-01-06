@@ -11,13 +11,8 @@
 ```csharp
 public ParentValueParameterDataGenerator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ParentValueParameterDataGenerator()
-```
+
+
 
 
 #### Ссылки

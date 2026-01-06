@@ -15,21 +15,8 @@ public void CreateStandardColumn(
 	BOMObjectColumnSettings settings
 )
 ```
-```vb
-Public Sub CreateStandardColumn ( 
-	name As String,
-	type As BOMObjectStandardField,
-	settings As BOMObjectColumnSettings
-)
-```
-```cpp
-public:
-void CreateStandardColumn(
-	String^ name, 
-	BOMObjectStandardField type, 
-	BOMObjectColumnSettings^ settings
-)
-```
+
+
 
 
 #### Параметры

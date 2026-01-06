@@ -14,19 +14,8 @@ public void Insert(
 	SurfaceSplineDataKnotSequenceKnot knot
 )
 ```
-```vb
-Public Sub Insert ( 
-	Index As UInteger,
-	knot As SurfaceSplineDataKnotSequenceKnot
-)
-```
-```cpp
-public:
-void Insert(
-	unsigned int Index, 
-	SurfaceSplineDataKnotSequenceKnot^ knot
-)
-```
+
+
 
 
 #### Параметры

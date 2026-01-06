@@ -11,13 +11,8 @@
 ```csharp
 public void RefreshNonActual()
 ```
-```vb
-Public Sub RefreshNonActual
-```
-```cpp
-public:
-void RefreshNonActual()
-```
+
+
 
 
 #### Ссылки

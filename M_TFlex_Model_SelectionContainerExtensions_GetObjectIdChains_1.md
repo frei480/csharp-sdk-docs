@@ -10,19 +10,8 @@ public static IEnumerable<ObjectIdChain> GetObjectIdChains(
 	this SelectionContainer A_0
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetObjectIdChains ( 
-	A_0 As SelectionContainer
-) As IEnumerable(Of ObjectIdChain)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static IEnumerable<ObjectIdChain^>^ GetObjectIdChains(
-	SelectionContainer^ A_0
-)
-```
+
+
 
 
 #### Параметры

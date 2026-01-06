@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseVertex
 ```
-```vb
-Public Interface BaseVertex
-```
-```cpp
-public interface class BaseVertex
-```
+
+
 
 
 Тип BaseVertex предоставляет следующие члены.

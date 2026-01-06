@@ -11,12 +11,8 @@
 ```csharp
 public sealed class RunContext
 ```
-```vb
-Public NotInheritable Class RunContext
-```
-```cpp
-public ref class RunContext sealed
-```
+
+
 
 
 Тип RunContext предоставляет следующие члены.

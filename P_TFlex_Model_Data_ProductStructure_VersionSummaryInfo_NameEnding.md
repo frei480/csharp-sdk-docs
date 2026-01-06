@@ -8,18 +8,8 @@
 ```csharp
 public string NameEnding { get; set; }
 ```
-```vb
-Public Property NameEnding As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ NameEnding {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

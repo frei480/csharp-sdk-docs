@@ -13,17 +13,8 @@ public ModelLoops(
 	ModelBody Solid
 )
 ```
-```vb
-Public Sub New ( 
-	Solid As ModelBody
-)
-```
-```cpp
-public:
-ModelLoops(
-	ModelBody^ Solid
-)
-```
+
+
 
 
 #### Параметры

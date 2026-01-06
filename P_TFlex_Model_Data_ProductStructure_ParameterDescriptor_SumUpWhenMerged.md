@@ -8,18 +8,8 @@
 ```csharp
 public bool SumUpWhenMerged { get; set; }
 ```
-```vb
-Public Property SumUpWhenMerged As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SumUpWhenMerged {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public FaceDeleteHealingMethodType HealingMethod { get; set; }
 ```
-```vb
-Public Property HealingMethod As FaceDeleteHealingMethodType
-	Get
-	Set
-```
-```cpp
-public:
-property FaceDeleteHealingMethodType HealingMethod {
-	FaceDeleteHealingMethodType get ();
-	void set (FaceDeleteHealingMethodType value);
-}
-```
+
+
 
 
 #### Значение свойства

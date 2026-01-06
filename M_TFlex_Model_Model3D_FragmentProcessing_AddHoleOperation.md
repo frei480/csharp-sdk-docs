@@ -8,13 +8,8 @@
 ```csharp
 public Hole AddHoleOperation()
 ```
-```vb
-Public Function AddHoleOperation As Hole
-```
-```cpp
-public:
-Hole^ AddHoleOperation()
-```
+
+
 
 
 #### Возвращаемое значение

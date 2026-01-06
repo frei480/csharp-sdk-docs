@@ -11,19 +11,8 @@ public DeepFragmentVariableValue GetDeepVariable(
 	string name
 )
 ```
-```vb
-Public Function GetDeepVariable ( 
-	fragmnetChainIds As IEnumerable(Of ObjectId),
-	name As String
-) As DeepFragmentVariableValue
-```
-```cpp
-public:
-DeepFragmentVariableValue^ GetDeepVariable(
-	IEnumerable<ObjectId^>^ fragmnetChainIds, 
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

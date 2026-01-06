@@ -13,12 +13,8 @@
 ```csharp
 public class ConnectorParameters
 ```
-```vb
-Public Class ConnectorParameters
-```
-```cpp
-public ref class ConnectorParameters
-```
+
+
 
 
 Тип ConnectorParameters предоставляет следующие члены.

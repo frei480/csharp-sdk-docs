@@ -14,19 +14,8 @@ public void SetCellWidth(
 	double width
 )
 ```
-```vb
-Public Sub SetCellWidth ( 
-	cell As UInteger,
-	width As Double
-)
-```
-```cpp
-public:
-void SetCellWidth(
-	unsigned int cell, 
-	double width
-)
-```
+
+
 
 
 #### Параметры

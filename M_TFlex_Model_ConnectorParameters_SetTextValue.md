@@ -14,19 +14,8 @@ public int SetTextValue(
 	string value
 )
 ```
-```vb
-Public Function SetTextValue ( 
-	name As String,
-	value As String
-) As Integer
-```
-```cpp
-public:
-int SetTextValue(
-	String^ name, 
-	String^ value
-)
-```
+
+
 
 
 #### Параметры

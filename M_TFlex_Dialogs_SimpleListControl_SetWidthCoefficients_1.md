@@ -13,17 +13,8 @@ public void SetWidthCoefficients(
 	params double[] widthCoefficients
 )
 ```
-```vb
-Public Sub SetWidthCoefficients ( 
-	ParamArray widthCoefficients As Double()
-)
-```
-```cpp
-public:
-void SetWidthCoefficients(
-	... array<double>^ widthCoefficients
-)
-```
+
+
 
 
 #### Параметры

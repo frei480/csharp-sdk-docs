@@ -13,17 +13,8 @@ public void LineTo(
 	Point point
 )
 ```
-```vb
-Public Sub LineTo ( 
-	point As Point
-)
-```
-```cpp
-public:
-void LineTo(
-	Point point
-)
-```
+
+
 
 
 #### Параметры

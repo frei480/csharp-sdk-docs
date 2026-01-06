@@ -14,15 +14,8 @@
 public abstract class BaseTopol : Geometry, 
 	IEquatable<BaseTopol>
 ```
-```vb
-Public MustInherit Class BaseTopol
-	Inherits Geometry
-	Implements IEquatable(Of BaseTopol)
-```
-```cpp
-public ref class BaseTopol abstract : public Geometry, 
-	IEquatable<BaseTopol^>
-```
+
+
 
 
 Тип BaseTopol предоставляет следующие члены.

@@ -17,25 +17,8 @@ public void SetElement(
 	double Offset
 )
 ```
-```vb
-Public Sub SetElement ( 
-	CircleElement As Object3D,
-	Coords As DimensionUVCoords,
-	Diameter As Boolean,
-	Angle As Double,
-	Offset As Double
-)
-```
-```cpp
-public:
-void SetElement(
-	Object3D^ CircleElement, 
-	DimensionUVCoords^ Coords, 
-	bool Diameter, 
-	double Angle, 
-	double Offset
-)
-```
+
+
 
 
 #### Параметры

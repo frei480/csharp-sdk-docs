@@ -8,16 +8,8 @@
 ```csharp
 public IntPtr Handle { get; }
 ```
-```vb
-Public ReadOnly Property Handle As IntPtr
-	Get
-```
-```cpp
-public:
-property IntPtr Handle {
-	IntPtr get ();
-}
-```
+
+
 
 
 #### Значение свойства

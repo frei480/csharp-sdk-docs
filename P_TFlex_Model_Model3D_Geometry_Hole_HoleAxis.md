@@ -8,16 +8,8 @@
 ```csharp
 public BaseAxis HoleAxis { get; }
 ```
-```vb
-Public ReadOnly Property HoleAxis As BaseAxis
-	Get
-```
-```cpp
-public:
-property BaseAxis^ HoleAxis {
-	BaseAxis^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

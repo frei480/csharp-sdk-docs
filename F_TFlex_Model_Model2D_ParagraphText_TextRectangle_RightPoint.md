@@ -11,13 +11,8 @@
 ```csharp
 public ParagraphTextTextRectanglePoint RightPoint
 ```
-```vb
-Public RightPoint As ParagraphTextTextRectanglePoint
-```
-```cpp
-public:
-ParagraphTextTextRectanglePoint RightPoint
-```
+
+
 
 
 #### Значение поля

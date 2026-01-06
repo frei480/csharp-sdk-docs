@@ -13,12 +13,8 @@
 ```csharp
 public class ThicknessData
 ```
-```vb
-Public Class ThicknessData
-```
-```cpp
-public ref class ThicknessData
-```
+
+
 
 
 Тип ProfileThicknessData предоставляет следующие члены.

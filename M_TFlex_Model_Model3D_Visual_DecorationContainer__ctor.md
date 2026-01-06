@@ -13,17 +13,8 @@ public DecorationContainer(
 	string name
 )
 ```
-```vb
-Public Sub New ( 
-	name As String
-)
-```
-```cpp
-public:
-DecorationContainer(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

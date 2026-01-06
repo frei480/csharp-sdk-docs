@@ -11,13 +11,8 @@
 ```csharp
 public int[] GetColumnOrder()
 ```
-```vb
-Public Function GetColumnOrder As Integer()
-```
-```cpp
-public:
-array<int>^ GetColumnOrder()
-```
+
+
 
 
 #### Возвращаемое значение

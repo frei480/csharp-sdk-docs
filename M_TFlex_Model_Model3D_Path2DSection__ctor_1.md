@@ -14,19 +14,8 @@ public Path2DSection(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	page As Page
-)
-```
-```cpp
-public:
-Path2DSection(
-	Document^ Doc, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

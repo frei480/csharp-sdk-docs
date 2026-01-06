@@ -15,21 +15,8 @@ public CircleGeometry(
 	double radius
 )
 ```
-```vb
-Public Sub New ( 
-	centerX As Double,
-	centerY As Double,
-	radius As Double
-)
-```
-```cpp
-public:
-CircleGeometry(
-	double centerX, 
-	double centerY, 
-	double radius
-)
-```
+
+
 
 
 #### Параметры

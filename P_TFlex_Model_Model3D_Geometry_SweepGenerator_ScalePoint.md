@@ -11,18 +11,8 @@
 ```csharp
 public BasePoint3D ScalePoint { get; set; }
 ```
-```vb
-Public Property ScalePoint As BasePoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property BasePoint3D^ ScalePoint {
-	BasePoint3D^ get ();
-	void set (BasePoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

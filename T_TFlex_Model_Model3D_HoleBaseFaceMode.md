@@ -11,12 +11,8 @@
 ```csharp
 public enum HoleBaseFaceMode
 ```
-```vb
-Public Enumeration HoleBaseFaceMode
-```
-```cpp
-public enum class HoleBaseFaceMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

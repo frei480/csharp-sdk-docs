@@ -11,16 +11,8 @@
 ```csharp
 public bool IsOriginalFormat { get; }
 ```
-```vb
-Public ReadOnly Property IsOriginalFormat As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsOriginalFormat {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

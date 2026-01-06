@@ -10,17 +10,8 @@ public static CurveRepresentation FromHandle(
 	IntPtr handle
 )
 ```
-```vb
-Public Shared Function FromHandle ( 
-	handle As IntPtr
-) As CurveRepresentation
-```
-```cpp
-public:
-static CurveRepresentation^ FromHandle(
-	IntPtr handle
-)
-```
+
+
 
 
 #### Параметры

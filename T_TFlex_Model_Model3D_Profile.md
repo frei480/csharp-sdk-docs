@@ -13,13 +13,8 @@
 ```csharp
 public class Profile : Construction3D
 ```
-```vb
-Public Class Profile
-	Inherits Construction3D
-```
-```cpp
-public ref class Profile : public Construction3D
-```
+
+
 
 
 Тип Profile предоставляет следующие члены.

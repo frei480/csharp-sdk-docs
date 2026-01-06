@@ -14,19 +14,8 @@ public void SetHeaderIcon(
 	Icon icon
 )
 ```
-```vb
-Public Sub SetHeaderIcon ( 
-	column As Integer,
-	icon As Icon
-)
-```
-```cpp
-public:
-void SetHeaderIcon(
-	int column, 
-	Icon^ icon
-)
-```
+
+
 
 
 #### Параметры

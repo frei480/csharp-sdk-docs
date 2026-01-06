@@ -11,18 +11,8 @@
 ```csharp
 public NumericInputControl LinkedInputControl { get; set; }
 ```
-```vb
-Public Property LinkedInputControl As NumericInputControl
-	Get
-	Set
-```
-```cpp
-public:
-property NumericInputControl^ LinkedInputControl {
-	NumericInputControl^ get ();
-	void set (NumericInputControl^ value);
-}
-```
+
+
 
 
 #### Значение свойства

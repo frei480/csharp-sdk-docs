@@ -13,17 +13,8 @@ public bool InsertRow(
 	int index
 )
 ```
-```vb
-Public Function InsertRow ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool InsertRow(
-	int index
-)
-```
+
+
 
 
 #### Параметры

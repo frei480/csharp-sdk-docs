@@ -8,12 +8,8 @@
 ```csharp
 public enum WorkplaneStandart
 ```
-```vb
-Public Enumeration WorkplaneStandart
-```
-```cpp
-public enum class WorkplaneStandart
-```
+
+
 
 
 | Имя члена | Значение | Описание |

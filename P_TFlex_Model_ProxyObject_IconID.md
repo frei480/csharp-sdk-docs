@@ -11,16 +11,8 @@
 ```csharp
 protected virtual int IconID { get; }
 ```
-```vb
-Protected Overridable ReadOnly Property IconID As Integer
-	Get
-```
-```cpp
-protected:
-virtual property int IconID {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

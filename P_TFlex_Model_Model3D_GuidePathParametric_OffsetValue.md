@@ -11,18 +11,8 @@
 ```csharp
 public Variable OffsetValue { get; set; }
 ```
-```vb
-Public Property OffsetValue As Variable
-	Get
-	Set
-```
-```cpp
-public:
-property Variable^ OffsetValue {
-	Variable^ get ();
-	void set (Variable^ value);
-}
-```
+
+
 
 
 #### Значение свойства

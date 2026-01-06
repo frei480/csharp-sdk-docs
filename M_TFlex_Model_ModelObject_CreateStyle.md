@@ -13,17 +13,8 @@ protected IntPtr CreateStyle(
 	IntPtr styleHandle
 )
 ```
-```vb
-Protected Function CreateStyle ( 
-	styleHandle As IntPtr
-) As IntPtr
-```
-```cpp
-protected:
-IntPtr CreateStyle(
-	IntPtr styleHandle
-)
-```
+
+
 
 
 #### Параметры

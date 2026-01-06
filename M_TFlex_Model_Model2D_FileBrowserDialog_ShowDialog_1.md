@@ -10,17 +10,8 @@ public DialogResult ShowDialog(
 	IntPtr parentWindow
 )
 ```
-```vb
-Public Function ShowDialog ( 
-	parentWindow As IntPtr
-) As DialogResult
-```
-```cpp
-public:
-DialogResult ShowDialog(
-	IntPtr parentWindow
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public int GetCellTextLength(
 	IntPtr cellHandle
 )
 ```
-```vb
-Public Function GetCellTextLength ( 
-	cellHandle As IntPtr
-) As Integer
-```
-```cpp
-public:
-int GetCellTextLength(
-	IntPtr cellHandle
-)
-```
+
+
 
 
 #### Параметры

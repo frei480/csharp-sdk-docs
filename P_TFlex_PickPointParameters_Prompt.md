@@ -11,18 +11,8 @@
 ```csharp
 public string Prompt { get; set; }
 ```
-```vb
-Public Property Prompt As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Prompt {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

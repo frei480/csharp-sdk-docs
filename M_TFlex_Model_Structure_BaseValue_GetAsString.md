@@ -8,13 +8,8 @@
 ```csharp
 public abstract string GetAsString()
 ```
-```vb
-Public MustOverride Function GetAsString As String
-```
-```cpp
-public:
-virtual String^ GetAsString() abstract
-```
+
+
 
 
 #### Возвращаемое значение

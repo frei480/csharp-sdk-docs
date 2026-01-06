@@ -8,18 +8,8 @@
 ```csharp
 public bool UseDynamicEditor { get; set; }
 ```
-```vb
-Public Property UseDynamicEditor As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseDynamicEditor {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public void AddObject(
 	Object3D object
 )
 ```
-```vb
-Public Sub AddObject ( 
-	object As Object3D
-)
-```
-```cpp
-public:
-void AddObject(
-	Object3D^ object
-)
-```
+
+
 
 
 #### Параметры

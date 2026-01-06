@@ -17,25 +17,8 @@ public ExtrudeGenerator(
 	double backLength
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	vector As BaseDirection,
-	profile As Body,
-	length As Double,
-	backLength As Double
-)
-```
-```cpp
-public:
-ExtrudeGenerator(
-	ProxyObject3D^ object, 
-	BaseDirection^ vector, 
-	Body^ profile, 
-	double length, 
-	double backLength
-)
-```
+
+
 
 
 #### Параметры

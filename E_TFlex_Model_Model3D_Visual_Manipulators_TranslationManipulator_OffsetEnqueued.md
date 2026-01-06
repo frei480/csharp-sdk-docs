@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<TranslationManipulatorOffsetEnqueuedEventArgs> OffsetEnqueued
 ```
-```vb
-Public Event OffsetEnqueued As EventHandler(Of TranslationManipulatorOffsetEnqueuedEventArgs)
-```
-```cpp
-public:
- event EventHandler<TranslationManipulatorOffsetEnqueuedEventArgs^>^ OffsetEnqueued {
-	void add (EventHandler<TranslationManipulatorOffsetEnqueuedEventArgs^>^ value);
-	void remove (EventHandler<TranslationManipulatorOffsetEnqueuedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

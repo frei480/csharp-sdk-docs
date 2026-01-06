@@ -11,13 +11,8 @@
 ```csharp
 public class ShowPages : SettingsGroup
 ```
-```vb
-Public Class ShowPages
-	Inherits SettingsGroup
-```
-```cpp
-public ref class ShowPages : public SettingsGroup
-```
+
+
 
 
 Тип ShowPages предоставляет следующие члены.

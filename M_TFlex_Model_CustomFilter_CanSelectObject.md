@@ -13,17 +13,8 @@ public virtual bool CanSelectObject(
 	ModelObject Object
 )
 ```
-```vb
-Public Overridable Function CanSelectObject ( 
-	Object As ModelObject
-) As Boolean
-```
-```cpp
-public:
-virtual bool CanSelectObject(
-	ModelObject^ Object
-)
-```
+
+
 
 
 #### Параметры

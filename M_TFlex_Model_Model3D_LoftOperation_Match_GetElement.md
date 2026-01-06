@@ -13,17 +13,8 @@ public LoftOperationPointOnContour GetElement(
 	int sectionIndex
 )
 ```
-```vb
-Public Function GetElement ( 
-	sectionIndex As Integer
-) As LoftOperationPointOnContour
-```
-```cpp
-public:
-LoftOperationPointOnContour^ GetElement(
-	int sectionIndex
-)
-```
+
+
 
 
 #### Параметры

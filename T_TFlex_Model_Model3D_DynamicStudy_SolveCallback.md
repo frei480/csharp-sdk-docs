@@ -8,12 +8,8 @@
 ```csharp
 public delegate bool SolveCallback()
 ```
-```vb
-Public Delegate Function SolveCallback As Boolean
-```
-```cpp
-public delegate bool SolveCallback()
-```
+
+
 
 
 #### Возвращаемое значение

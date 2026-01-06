@@ -13,13 +13,8 @@
 ```csharp
 public class LightParameters : ICloneable
 ```
-```vb
-Public Class LightParameters
-	Implements ICloneable
-```
-```cpp
-public ref class LightParameters : ICloneable
-```
+
+
 
 
 Тип View3DLightParameters предоставляет следующие члены.

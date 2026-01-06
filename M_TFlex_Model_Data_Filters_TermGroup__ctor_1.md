@@ -13,17 +13,8 @@ public TermGroup(
 	LogicalOperator logicalOperator
 )
 ```
-```vb
-Public Sub New ( 
-	logicalOperator As LogicalOperator
-)
-```
-```cpp
-public:
-TermGroup(
-	LogicalOperator logicalOperator
-)
-```
+
+
 
 
 #### Параметры

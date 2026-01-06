@@ -11,18 +11,8 @@
 ```csharp
 public BrokenBinding BrokenHAlign { get; set; }
 ```
-```vb
-Public Property BrokenHAlign As BrokenBinding
-	Get
-	Set
-```
-```cpp
-public:
-property BrokenBinding BrokenHAlign {
-	BrokenBinding get ();
-	void set (BrokenBinding value);
-}
-```
+
+
 
 
 #### Значение свойства

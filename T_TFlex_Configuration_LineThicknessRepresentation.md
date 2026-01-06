@@ -8,12 +8,8 @@
 ```csharp
 public enum LineThicknessRepresentation
 ```
-```vb
-Public Enumeration LineThicknessRepresentation
-```
-```cpp
-public enum class LineThicknessRepresentation
-```
+
+
 
 
 | Имя члена | Значение | Описание |

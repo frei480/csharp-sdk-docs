@@ -13,17 +13,8 @@ public void InsertImage(
 	FileLink link
 )
 ```
-```vb
-Public Sub InsertImage ( 
-	link As FileLink
-)
-```
-```cpp
-public:
-void InsertImage(
-	FileLink^ link
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum TrimType
 ```
-```vb
-Public Enumeration TrimType
-```
-```cpp
-public enum class TrimType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

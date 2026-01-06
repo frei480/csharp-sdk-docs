@@ -11,13 +11,8 @@
 ```csharp
 public ModificationEnqueuedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ModificationEnqueuedEventArgs()
-```
+
+
 
 
 #### Ссылки

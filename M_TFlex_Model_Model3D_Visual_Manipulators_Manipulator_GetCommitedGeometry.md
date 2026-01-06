@@ -8,13 +8,8 @@
 ```csharp
 public Geometry GetCommitedGeometry()
 ```
-```vb
-Public Function GetCommitedGeometry As Geometry
-```
-```cpp
-public:
-Geometry^ GetCommitedGeometry()
-```
+
+
 
 
 #### Возвращаемое значение

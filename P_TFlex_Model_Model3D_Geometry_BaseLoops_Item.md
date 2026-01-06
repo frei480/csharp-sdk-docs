@@ -10,18 +10,8 @@ public abstract BaseLoop this[
 	int Index
 ] { get; }
 ```
-```vb
-Public MustOverride ReadOnly Default Property Item ( 
-	Index As Integer
-) As BaseLoop
-	Get
-```
-```cpp
-public:
-virtual property BaseLoop^ default[int Index] {
-	BaseLoop^ get (int Index) abstract;
-}
-```
+
+
 
 
 #### Параметры

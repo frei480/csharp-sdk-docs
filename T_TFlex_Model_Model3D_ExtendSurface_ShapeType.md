@@ -11,12 +11,8 @@
 ```csharp
 public enum ShapeType
 ```
-```vb
-Public Enumeration ShapeType
-```
-```cpp
-public enum class ShapeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -8,18 +8,8 @@
 ```csharp
 public ICollection<int> Conductors { get; set; }
 ```
-```vb
-Public Property Conductors As ICollection(Of Integer)
-	Get
-	Set
-```
-```cpp
-public:
-property ICollection<int>^ Conductors {
-	ICollection<int>^ get ();
-	void set (ICollection<int>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

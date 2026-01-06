@@ -11,16 +11,8 @@
 ```csharp
 public PipePath3DSegmentSplineToPoint Segment { get; }
 ```
-```vb
-Public ReadOnly Property Segment As PipePath3DSegmentSplineToPoint
-	Get
-```
-```cpp
-public:
-property PipePath3DSegmentSplineToPoint^ Segment {
-	PipePath3DSegmentSplineToPoint^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public sealed class SelectionFilterButton : IDisposable
 ```
-```vb
-Public NotInheritable Class SelectionFilterButton
-	Implements IDisposable
-```
-```cpp
-public ref class SelectionFilterButton sealed : IDisposable
-```
+
+
 
 
 Тип SelectionFilterButton предоставляет следующие члены.

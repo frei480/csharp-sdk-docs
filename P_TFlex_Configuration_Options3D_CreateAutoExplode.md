@@ -8,18 +8,8 @@
 ```csharp
 public bool CreateAutoExplode { get; set; }
 ```
-```vb
-Public Property CreateAutoExplode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CreateAutoExplode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

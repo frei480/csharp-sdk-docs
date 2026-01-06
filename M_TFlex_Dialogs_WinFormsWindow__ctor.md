@@ -13,17 +13,8 @@ public WinFormsWindow(
 	Control control
 )
 ```
-```vb
-Public Sub New ( 
-	control As Control
-)
-```
-```cpp
-public:
-WinFormsWindow(
-	Control^ control
-)
-```
+
+
 
 
 #### Параметры

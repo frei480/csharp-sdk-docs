@@ -11,16 +11,8 @@
 ```csharp
 public int Id { get; }
 ```
-```vb
-Public ReadOnly Property Id As Integer
-	Get
-```
-```cpp
-public:
-property int Id {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

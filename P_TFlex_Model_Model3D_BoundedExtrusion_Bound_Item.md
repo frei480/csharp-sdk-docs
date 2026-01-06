@@ -11,18 +11,8 @@
 ```csharp
 public Geometry Item { get; set; }
 ```
-```vb
-Public Property Item As Geometry
-	Get
-	Set
-```
-```cpp
-public:
-property Geometry^ Item {
-	Geometry^ get ();
-	void set (Geometry^ value);
-}
-```
+
+
 
 
 #### Значение свойства

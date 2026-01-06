@@ -8,18 +8,8 @@
 ```csharp
 public override Parameter TextOffset { get; set; }
 ```
-```vb
-Public Overrides Property TextOffset As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Parameter^ TextOffset {
-	Parameter^ get () override;
-	void set (Parameter^ value) override;
-}
-```
+
+
 
 
 #### Значение свойства

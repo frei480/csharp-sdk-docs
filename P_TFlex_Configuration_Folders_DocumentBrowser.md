@@ -8,16 +8,8 @@
 ```csharp
 public Collection DocumentBrowser { get; }
 ```
-```vb
-Public ReadOnly Property DocumentBrowser As Collection
-	Get
-```
-```cpp
-public:
-property Collection^ DocumentBrowser {
-	Collection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

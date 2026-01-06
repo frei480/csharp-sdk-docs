@@ -11,13 +11,8 @@
 ```csharp
 public class LinkDescriptor : ModelObject
 ```
-```vb
-Public Class LinkDescriptor
-	Inherits ModelObject
-```
-```cpp
-public ref class LinkDescriptor : public ModelObject
-```
+
+
 
 
 Тип LinkDescriptor предоставляет следующие члены.

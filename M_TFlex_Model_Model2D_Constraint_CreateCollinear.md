@@ -15,21 +15,8 @@ public static Constraint CreateCollinear(
 	Object2D iObject2
 )
 ```
-```vb
-Public Shared Function CreateCollinear ( 
-	iDoc As Document,
-	iObject1 As Object2D,
-	iObject2 As Object2D
-) As Constraint
-```
-```cpp
-public:
-static Constraint^ CreateCollinear(
-	Document^ iDoc, 
-	Object2D^ iObject1, 
-	Object2D^ iObject2
-)
-```
+
+
 
 
 #### Параметры

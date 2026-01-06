@@ -11,18 +11,8 @@
 ```csharp
 public bool IcludeThickElement { get; set; }
 ```
-```vb
-Public Property IcludeThickElement As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IcludeThickElement {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

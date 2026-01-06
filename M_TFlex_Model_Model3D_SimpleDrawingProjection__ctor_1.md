@@ -14,19 +14,8 @@ public SimpleDrawingProjection(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-public:
-SimpleDrawingProjection(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

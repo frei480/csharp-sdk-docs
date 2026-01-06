@@ -14,19 +14,8 @@ public void SetLCS(
 	bool recalculate_position
 )
 ```
-```vb
-Public Sub SetLCS ( 
-	lcs As LCS,
-	recalculate_position As Boolean
-)
-```
-```cpp
-public:
-void SetLCS(
-	LCS^ lcs, 
-	bool recalculate_position
-)
-```
+
+
 
 
 #### Параметры

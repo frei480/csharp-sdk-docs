@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionLeaderDirection
 ```
-```vb
-Public Enumeration DimensionLeaderDirection
-```
-```cpp
-public enum class DimensionLeaderDirection
-```
+
+
 
 
 | Имя члена | Значение | Описание |

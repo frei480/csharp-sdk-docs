@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<BoxManipulatorBaseOffsetCommitedEventArgs> OffsetCommited
 ```
-```vb
-Public Event OffsetCommited As EventHandler(Of BoxManipulatorBaseOffsetCommitedEventArgs)
-```
-```cpp
-public:
- event EventHandler<BoxManipulatorBaseOffsetCommitedEventArgs^>^ OffsetCommited {
-	void add (EventHandler<BoxManipulatorBaseOffsetCommitedEventArgs^>^ value);
-	void remove (EventHandler<BoxManipulatorBaseOffsetCommitedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

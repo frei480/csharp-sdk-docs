@@ -13,12 +13,8 @@
 ```csharp
 public class Point
 ```
-```vb
-Public Class Point
-```
-```cpp
-public ref class Point
-```
+
+
 
 
 Тип Point предоставляет следующие члены.

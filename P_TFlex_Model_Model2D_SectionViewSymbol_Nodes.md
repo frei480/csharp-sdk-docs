@@ -11,18 +11,8 @@
 ```csharp
 public Node[] Nodes { get; set; }
 ```
-```vb
-Public Property Nodes As Node()
-	Get
-	Set
-```
-```cpp
-public:
-property array<Node^>^ Nodes {
-	array<Node^>^ get ();
-	void set (array<Node^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

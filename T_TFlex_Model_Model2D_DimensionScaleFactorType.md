@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionScaleFactorType
 ```
-```vb
-Public Enumeration DimensionScaleFactorType
-```
-```cpp
-public enum class DimensionScaleFactorType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

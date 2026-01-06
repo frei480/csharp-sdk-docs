@@ -11,18 +11,8 @@
 ```csharp
 public CharFormat DefaultCharacterFormat { get; set; }
 ```
-```vb
-Public Property DefaultCharacterFormat As CharFormat
-	Get
-	Set
-```
-```cpp
-public:
-property CharFormat DefaultCharacterFormat {
-	CharFormat get ();
-	void set (CharFormat value);
-}
-```
+
+
 
 
 #### Значение свойства

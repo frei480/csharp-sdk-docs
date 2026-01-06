@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Step { get; set; }
 ```
-```vb
-Public Property Step As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Step {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

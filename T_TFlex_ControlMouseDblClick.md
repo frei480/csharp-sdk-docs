@@ -14,18 +14,8 @@ public delegate void ControlMouseDblClick(
 	ControlEventArgs e
 )
 ```
-```vb
-Public Delegate Sub ControlMouseDblClick ( 
-	sender As Object,
-	e As ControlEventArgs
-)
-```
-```cpp
-public delegate void ControlMouseDblClick(
-	Object^ sender, 
-	ControlEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public static bool CanSelect { get; set; }
 ```
-```vb
-Public Shared Property CanSelect As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-static property bool CanSelect {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

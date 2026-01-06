@@ -11,16 +11,8 @@
 ```csharp
 public Weld ParentWeld { get; }
 ```
-```vb
-Public ReadOnly Property ParentWeld As Weld
-	Get
-```
-```cpp
-public:
-property Weld^ ParentWeld {
-	Weld^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

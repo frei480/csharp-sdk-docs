@@ -10,17 +10,8 @@ public IEnumerable<LinkedObjectInfo> GetLinkedObjects(
 	bool includeInvalid
 )
 ```
-```vb
-Public Function GetLinkedObjects ( 
-	includeInvalid As Boolean
-) As IEnumerable(Of LinkedObjectInfo)
-```
-```cpp
-public:
-IEnumerable<LinkedObjectInfo^>^ GetLinkedObjects(
-	bool includeInvalid
-)
-```
+
+
 
 
 #### Параметры

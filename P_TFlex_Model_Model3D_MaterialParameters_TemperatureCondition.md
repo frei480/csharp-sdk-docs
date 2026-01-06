@@ -11,18 +11,8 @@
 ```csharp
 public double TemperatureCondition { get; set; }
 ```
-```vb
-Public Property TemperatureCondition As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double TemperatureCondition {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

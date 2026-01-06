@@ -11,16 +11,8 @@
 ```csharp
 public double PageScale { get; }
 ```
-```vb
-Public ReadOnly Property PageScale As Double
-	Get
-```
-```cpp
-public:
-property double PageScale {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

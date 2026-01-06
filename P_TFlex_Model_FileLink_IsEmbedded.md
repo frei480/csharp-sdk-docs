@@ -11,16 +11,8 @@
 ```csharp
 public bool IsEmbedded { get; }
 ```
-```vb
-Public ReadOnly Property IsEmbedded As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsEmbedded {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

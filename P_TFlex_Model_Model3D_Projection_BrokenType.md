@@ -11,18 +11,8 @@
 ```csharp
 public BrokenType BrokenType { get; set; }
 ```
-```vb
-Public Property BrokenType As BrokenType
-	Get
-	Set
-```
-```cpp
-public:
-property BrokenType BrokenType {
-	BrokenType get ();
-	void set (BrokenType value);
-}
-```
+
+
 
 
 #### Значение свойства

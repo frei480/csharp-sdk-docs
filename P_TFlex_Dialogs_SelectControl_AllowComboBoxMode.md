@@ -11,18 +11,8 @@
 ```csharp
 public bool AllowComboBoxMode { get; set; }
 ```
-```vb
-Public Property AllowComboBoxMode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AllowComboBoxMode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

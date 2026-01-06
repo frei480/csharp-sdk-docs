@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Text> GetTexts()
 ```
-```vb
-Public Function GetTexts As ICollection(Of Text)
-```
-```cpp
-public:
-ICollection<Text^>^ GetTexts()
-```
+
+
 
 
 #### Возвращаемое значение

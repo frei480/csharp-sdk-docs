@@ -15,23 +15,8 @@ public static void ShowSelectionFilterButton(
 	bool show
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub ShowSelectionFilterButton ( 
-	owner As IFilterOwner,
-	objectType As ObjectType,
-	show As Boolean
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void ShowSelectionFilterButton(
-	IFilterOwner^ owner, 
-	ObjectType objectType, 
-	bool show
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class Point : BasePoint
 ```
-```vb
-Public Class Point
-	Inherits BasePoint
-```
-```cpp
-public ref class Point : public BasePoint
-```
+
+
 
 
 Тип Point предоставляет следующие члены.

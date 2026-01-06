@@ -10,17 +10,8 @@ public string GetCellTextWithHyperlinks(
 	uint cell
 )
 ```
-```vb
-Public Function GetCellTextWithHyperlinks ( 
-	cell As UInteger
-) As String
-```
-```cpp
-public:
-String^ GetCellTextWithHyperlinks(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

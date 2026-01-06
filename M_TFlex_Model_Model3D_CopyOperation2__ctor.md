@@ -13,17 +13,8 @@ public CopyOperation2(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-CopyOperation2(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

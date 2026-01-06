@@ -13,17 +13,8 @@ public bool LoadConfigurationVariables(
 	string Name
 )
 ```
-```vb
-Public Function LoadConfigurationVariables ( 
-	Name As String
-) As Boolean
-```
-```cpp
-public:
-bool LoadConfigurationVariables(
-	String^ Name
-)
-```
+
+
 
 
 #### Параметры

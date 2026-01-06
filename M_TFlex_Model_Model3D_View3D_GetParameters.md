@@ -11,13 +11,8 @@
 ```csharp
 public View3DParameters GetParameters()
 ```
-```vb
-Public Function GetParameters As View3DParameters
-```
-```cpp
-public:
-View3DParameters^ GetParameters()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,17 +13,8 @@ public void MoveCursor(
 	int charactersCount
 )
 ```
-```vb
-Public Sub MoveCursor ( 
-	charactersCount As Integer
-)
-```
-```cpp
-public:
-void MoveCursor(
-	int charactersCount
-)
-```
+
+
 
 
 #### Параметры

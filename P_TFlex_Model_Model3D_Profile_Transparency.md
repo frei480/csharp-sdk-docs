@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Transparency { get; set; }
 ```
-```vb
-Public Property Transparency As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Transparency {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

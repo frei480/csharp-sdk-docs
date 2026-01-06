@@ -8,13 +8,8 @@
 ```csharp
 public MultilineText GetReferenceToSelectedText()
 ```
-```vb
-Public Function GetReferenceToSelectedText As MultilineText
-```
-```cpp
-public:
-MultilineText^ GetReferenceToSelectedText()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,13 +11,8 @@
 ```csharp
 public PropertiesWindow()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PropertiesWindow()
-```
+
+
 
 
 #### Ссылки

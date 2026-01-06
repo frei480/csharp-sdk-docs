@@ -14,19 +14,8 @@ public int GetIntValue(
 	int row
 )
 ```
-```vb
-Public Function GetIntValue ( 
-	column As Integer,
-	row As Integer
-) As Integer
-```
-```cpp
-public:
-int GetIntValue(
-	int column, 
-	int row
-)
-```
+
+
 
 
 #### Параметры

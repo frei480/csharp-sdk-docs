@@ -11,18 +11,8 @@
 ```csharp
 public Parameter TubeRadius { get; set; }
 ```
-```vb
-Public Property TubeRadius As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ TubeRadius {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

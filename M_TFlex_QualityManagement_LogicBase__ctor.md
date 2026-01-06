@@ -11,13 +11,8 @@
 ```csharp
 public LogicBase()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LogicBase()
-```
+
+
 
 
 #### Ссылки

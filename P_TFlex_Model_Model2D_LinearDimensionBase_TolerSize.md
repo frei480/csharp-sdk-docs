@@ -11,18 +11,8 @@
 ```csharp
 public DimensionTolerSizeType TolerSize { get; set; }
 ```
-```vb
-Public Property TolerSize As DimensionTolerSizeType
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionTolerSizeType TolerSize {
-	DimensionTolerSizeType get ();
-	void set (DimensionTolerSizeType value);
-}
-```
+
+
 
 
 #### Значение свойства

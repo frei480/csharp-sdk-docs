@@ -13,17 +13,8 @@ public bool Remove(
 	ModelObject object
 )
 ```
-```vb
-Public Function Remove ( 
-	object As ModelObject
-) As Boolean
-```
-```cpp
-public:
-bool Remove(
-	ModelObject^ object
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public Point StartPoint { get; }
 ```
-```vb
-Public ReadOnly Property StartPoint As Point
-	Get
-```
-```cpp
-public:
-property Point StartPoint {
-	Point get ();
-}
-```
+
+
 
 
 #### Значение свойства

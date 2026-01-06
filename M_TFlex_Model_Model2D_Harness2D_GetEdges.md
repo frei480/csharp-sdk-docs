@@ -11,13 +11,8 @@
 ```csharp
 public IDictionary<int, IEnumerable<Edge>> GetEdges()
 ```
-```vb
-Public Function GetEdges As IDictionary(Of Integer, IEnumerable(Of Edge))
-```
-```cpp
-public:
-IDictionary<int, IEnumerable<Edge^>^>^ GetEdges()
-```
+
+
 
 
 #### Возвращаемое значение

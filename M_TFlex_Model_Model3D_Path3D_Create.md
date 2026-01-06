@@ -12,21 +12,8 @@ public static Path3D Create(
 	List<BaseInterval> intervals
 )
 ```
-```vb
-Public Shared Function Create ( 
-	document As Document,
-	curves As List(Of BaseCurve),
-	intervals As List(Of BaseInterval)
-) As Path3D
-```
-```cpp
-public:
-static Path3D^ Create(
-	Document^ document, 
-	List<BaseCurve^>^ curves, 
-	List<BaseInterval^>^ intervals
-)
-```
+
+
 
 
 #### Параметры

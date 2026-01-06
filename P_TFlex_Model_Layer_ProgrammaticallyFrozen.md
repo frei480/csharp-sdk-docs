@@ -11,18 +11,8 @@
 ```csharp
 public bool ProgrammaticallyFrozen { get; set; }
 ```
-```vb
-Public Property ProgrammaticallyFrozen As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ProgrammaticallyFrozen {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

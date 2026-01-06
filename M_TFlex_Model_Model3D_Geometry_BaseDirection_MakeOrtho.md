@@ -11,13 +11,8 @@
 ```csharp
 public Direction MakeOrtho()
 ```
-```vb
-Public Function MakeOrtho As Direction
-```
-```cpp
-public:
-Direction^ MakeOrtho()
-```
+
+
 
 
 #### Возвращаемое значение

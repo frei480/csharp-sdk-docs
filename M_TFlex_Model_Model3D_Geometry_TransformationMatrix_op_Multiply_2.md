@@ -11,19 +11,8 @@ public static Direction operator *(
 	TransformationMatrix tr
 )
 ```
-```vb
-Public Shared Operator * ( 
-	direction As BaseDirection,
-	tr As TransformationMatrix
-) As Direction
-```
-```cpp
-public:
-static Direction^ operator *(
-	BaseDirection^ direction, 
-	TransformationMatrix^ tr
-)
-```
+
+
 
 
 #### Параметры

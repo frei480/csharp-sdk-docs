@@ -11,18 +11,8 @@
 ```csharp
 public bool Direction1LengthFromVector { get; set; }
 ```
-```vb
-Public Property Direction1LengthFromVector As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Direction1LengthFromVector {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

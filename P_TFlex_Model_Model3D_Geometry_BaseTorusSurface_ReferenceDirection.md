@@ -11,15 +11,8 @@
 ```csharp
 BaseDirection ReferenceDirection { get; }
 ```
-```vb
-ReadOnly Property ReferenceDirection As BaseDirection
-	Get
-```
-```cpp
-property BaseDirection^ ReferenceDirection {
-	BaseDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

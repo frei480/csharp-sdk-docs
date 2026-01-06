@@ -13,17 +13,8 @@ public void Add(
 	Vertex vertex
 )
 ```
-```vb
-Public Sub Add ( 
-	vertex As Vertex
-)
-```
-```cpp
-public:
-void Add(
-	Vertex^ vertex
-)
-```
+
+
 
 
 #### Параметры

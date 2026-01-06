@@ -8,18 +8,8 @@
 ```csharp
 public IntPtr OwnerWindowHandle { get; set; }
 ```
-```vb
-Public Property OwnerWindowHandle As IntPtr
-	Get
-	Set
-```
-```cpp
-public:
-property IntPtr OwnerWindowHandle {
-	IntPtr get ();
-	void set (IntPtr value);
-}
-```
+
+
 
 
 #### Значение свойства

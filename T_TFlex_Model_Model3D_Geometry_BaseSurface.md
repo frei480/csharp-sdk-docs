@@ -14,15 +14,8 @@
 public abstract class BaseSurface : Geometry, 
 	IDisposable
 ```
-```vb
-Public MustInherit Class BaseSurface
-	Inherits Geometry
-	Implements IDisposable
-```
-```cpp
-public ref class BaseSurface abstract : public Geometry, 
-	IDisposable
-```
+
+
 
 
 Тип BaseSurface предоставляет следующие члены.

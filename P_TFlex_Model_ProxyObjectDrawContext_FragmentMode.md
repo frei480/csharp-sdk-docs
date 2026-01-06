@@ -8,16 +8,8 @@
 ```csharp
 public ProxyObjectDrawContextFragmentType FragmentMode { get; }
 ```
-```vb
-Public ReadOnly Property FragmentMode As ProxyObjectDrawContextFragmentType
-	Get
-```
-```cpp
-public:
-property ProxyObjectDrawContextFragmentType FragmentMode {
-	ProxyObjectDrawContextFragmentType get ();
-}
-```
+
+
 
 
 #### Значение свойства

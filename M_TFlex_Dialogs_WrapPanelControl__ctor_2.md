@@ -14,19 +14,8 @@ public WrapPanelControl(
 	WrapPanelControlOrientation orientation
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	orientation As WrapPanelControlOrientation
-)
-```
-```cpp
-public:
-WrapPanelControl(
-	String^ id, 
-	WrapPanelControlOrientation orientation
-)
-```
+
+
 
 
 #### Параметры

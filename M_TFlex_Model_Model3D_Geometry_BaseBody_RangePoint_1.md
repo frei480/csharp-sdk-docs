@@ -15,21 +15,8 @@ public BaseBodyRangePointGeometryParameters RangePoint(
 	ref UV pointParameters
 )
 ```
-```vb
-Public Function RangePoint ( 
-	point As BasePoint3D,
-	ByRef point3D As Point3D,
-	ByRef pointParameters As UV
-) As BaseBodyRangePointGeometryParameters
-```
-```cpp
-public:
-BaseBodyRangePointGeometryParameters RangePoint(
-	BasePoint3D^ point, 
-	Point3D^% point3D, 
-	UV% pointParameters
-)
-```
+
+
 
 
 #### Параметры

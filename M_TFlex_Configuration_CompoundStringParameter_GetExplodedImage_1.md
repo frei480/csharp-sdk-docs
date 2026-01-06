@@ -13,23 +13,8 @@ public static Image GetExplodedImage(
 	Color? backgroundColor
 )
 ```
-```vb
-Public Shared Function GetExplodedImage ( 
-	document As Document,
-	str As String,
-	explodeString As Boolean,
-	backgroundColor As Color?
-) As Image
-```
-```cpp
-public:
-static Image^ GetExplodedImage(
-	Document^ document, 
-	String^ str, 
-	bool explodeString, 
-	Nullable<Color> backgroundColor
-)
-```
+
+
 
 
 #### Параметры

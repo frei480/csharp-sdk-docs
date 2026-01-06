@@ -14,18 +14,8 @@
 [ObsoleteAttribute("BOMData property is obsolete. Content is formed by conversion from Product Structure. Use GetProductStructures() instead.")]
 public BOMData BOMData { get; }
 ```
-```vb
-<ObsoleteAttribute("BOMData property is obsolete. Content is formed by conversion from Product Structure. Use GetProductStructures() instead.")>
-Public ReadOnly Property BOMData As BOMData
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"BOMData property is obsolete. Content is formed by conversion from Product Structure. Use GetProductStructures() instead.")]
-property BOMData^ BOMData {
-	BOMData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

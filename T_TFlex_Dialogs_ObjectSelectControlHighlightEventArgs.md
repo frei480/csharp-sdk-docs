@@ -13,13 +13,8 @@
 ```csharp
 public class ObjectSelectControlHighlightEventArgs : IntEventArgs
 ```
-```vb
-Public Class ObjectSelectControlHighlightEventArgs
-	Inherits IntEventArgs
-```
-```cpp
-public ref class ObjectSelectControlHighlightEventArgs : public IntEventArgs
-```
+
+
 
 
 Тип ObjectSelectControlHighlightEventArgs предоставляет следующие члены.

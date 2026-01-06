@@ -11,13 +11,8 @@
 ```csharp
 public View3DDrawStyleFilledOptions HiresOptions
 ```
-```vb
-Public HiresOptions As View3DDrawStyleFilledOptions
-```
-```cpp
-public:
-View3DDrawStyleFilledOptions HiresOptions
-```
+
+
 
 
 #### Значение поля

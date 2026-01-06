@@ -14,19 +14,8 @@ public ObjectIdChain(
 	FragmentIdChain A_1
 )
 ```
-```vb
-Public Sub New ( 
-	A_0 As ObjectId,
-	A_1 As FragmentIdChain
-)
-```
-```cpp
-public:
-ObjectIdChain(
-	ObjectId^ A_0, 
-	FragmentIdChain^ A_1
-)
-```
+
+
 
 
 #### Параметры

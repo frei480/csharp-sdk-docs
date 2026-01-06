@@ -11,13 +11,8 @@
 ```csharp
 public DynamicToolbar()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-DynamicToolbar()
-```
+
+
 
 
 #### Ссылки

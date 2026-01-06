@@ -12,15 +12,8 @@
 public class Enumerator : IEnumerator<DrawingViewSpecialElement>, 
 	IEnumerator, IDisposable
 ```
-```vb
-Public Class Enumerator
-	Implements IEnumerator(Of DrawingViewSpecialElement), IEnumerator, 
-	IDisposable
-```
-```cpp
-public ref class Enumerator : IEnumerator<DrawingViewSpecialElement^>, 
-	IEnumerator, IDisposable
-```
+
+
 
 
 Тип DrawingViewSpecialElementsEnumerator предоставляет следующие члены.

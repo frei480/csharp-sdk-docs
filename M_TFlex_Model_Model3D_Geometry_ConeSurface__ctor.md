@@ -16,23 +16,8 @@ public ConeSurface(
 	BaseDirection referencedirection
 )
 ```
-```vb
-Public Sub New ( 
-	radius As Double,
-	semiangle As Double,
-	axis As BaseAxis,
-	referencedirection As BaseDirection
-)
-```
-```cpp
-public:
-ConeSurface(
-	double radius, 
-	double semiangle, 
-	BaseAxis^ axis, 
-	BaseDirection^ referencedirection
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public ProjectionWithSection(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ProjectionWithSection(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

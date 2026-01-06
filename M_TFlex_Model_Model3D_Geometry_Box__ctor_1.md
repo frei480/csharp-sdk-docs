@@ -14,19 +14,8 @@ public Box(
 	BasePoint3D maximum
 )
 ```
-```vb
-Public Sub New ( 
-	minimum As BasePoint3D,
-	maximum As BasePoint3D
-)
-```
-```cpp
-public:
-Box(
-	BasePoint3D^ minimum, 
-	BasePoint3D^ maximum
-)
-```
+
+
 
 
 #### Параметры

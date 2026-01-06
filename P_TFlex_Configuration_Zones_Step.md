@@ -8,16 +8,8 @@
 ```csharp
 public SizeDoubleStep Step { get; }
 ```
-```vb
-Public ReadOnly Property Step As SizeDoubleStep
-	Get
-```
-```cpp
-public:
-property SizeDoubleStep^ Step {
-	SizeDoubleStep^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public static Operation Create(
 	IntPtr handle
 )
 ```
-```vb
-Public Shared Function Create ( 
-	handle As IntPtr
-) As Operation
-```
-```cpp
-public:
-static Operation^ Create(
-	IntPtr handle
-)
-```
+
+
 
 
 #### Параметры

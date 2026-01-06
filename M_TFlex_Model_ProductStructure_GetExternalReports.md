@@ -11,13 +11,8 @@
 ```csharp
 public ICollection<FileLink> GetExternalReports()
 ```
-```vb
-Public Function GetExternalReports As ICollection(Of FileLink)
-```
-```cpp
-public:
-ICollection<FileLink^>^ GetExternalReports()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,13 +11,8 @@
 ```csharp
 public class ObjectTerm : Term
 ```
-```vb
-Public Class ObjectTerm
-	Inherits Term
-```
-```cpp
-public ref class ObjectTerm : public Term
-```
+
+
 
 
 Тип ObjectTerm предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public bool DontHide { get; set; }
 ```
-```vb
-Public Property DontHide As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DontHide {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

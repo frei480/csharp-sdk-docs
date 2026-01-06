@@ -11,18 +11,8 @@
 ```csharp
 public int PrecisionClass { get; set; }
 ```
-```vb
-Public Property PrecisionClass As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int PrecisionClass {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public virtual Suppression Suppression { get; set; }
 ```
-```vb
-Public Overridable Property Suppression As Suppression
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Suppression^ Suppression {
-	Suppression^ get ();
-	void set (Suppression^ value);
-}
-```
+
+
 
 
 #### Значение свойства

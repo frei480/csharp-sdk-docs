@@ -8,13 +8,8 @@
 ```csharp
 public List<Hole> FindHoles()
 ```
-```vb
-Public Function FindHoles As List(Of Hole)
-```
-```cpp
-public:
-List<Hole^>^ FindHoles()
-```
+
+
 
 
 #### Возвращаемое значение

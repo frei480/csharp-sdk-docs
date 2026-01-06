@@ -8,18 +8,8 @@
 ```csharp
 public IntParameter IsManualMass { get; set; }
 ```
-```vb
-Public Property IsManualMass As IntParameter
-	Get
-	Set
-```
-```cpp
-public:
-property IntParameter^ IsManualMass {
-	IntParameter^ get ();
-	void set (IntParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

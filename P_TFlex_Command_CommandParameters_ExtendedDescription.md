@@ -11,18 +11,8 @@
 ```csharp
 public string ExtendedDescription { get; set; }
 ```
-```vb
-Public Property ExtendedDescription As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ExtendedDescription {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,16 +10,8 @@ public delegate void TopolArrayBeforeDelete(
 	int to
 )
 ```
-```vb
-Public Delegate Sub TopolArrayBeforeDelete ( 
-	to As Integer
-)
-```
-```cpp
-public delegate void TopolArrayBeforeDelete(
-	int to
-)
-```
+
+
 
 
 #### Параметры

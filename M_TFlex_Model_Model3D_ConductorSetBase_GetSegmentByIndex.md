@@ -10,17 +10,8 @@ public Segment GetSegmentByIndex(
 	int segmentIndex
 )
 ```
-```vb
-Public Function GetSegmentByIndex ( 
-	segmentIndex As Integer
-) As Segment
-```
-```cpp
-public:
-Segment^ GetSegmentByIndex(
-	int segmentIndex
-)
-```
+
+
 
 
 #### Параметры

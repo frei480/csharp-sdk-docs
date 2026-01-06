@@ -8,18 +8,8 @@
 ```csharp
 public bool MergeTypes { get; set; }
 ```
-```vb
-Public Property MergeTypes As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool MergeTypes {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

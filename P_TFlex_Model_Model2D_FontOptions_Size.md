@@ -8,18 +8,8 @@
 ```csharp
 public virtual Parameter Size { get; set; }
 ```
-```vb
-Public Overridable Property Size As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Parameter^ Size {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

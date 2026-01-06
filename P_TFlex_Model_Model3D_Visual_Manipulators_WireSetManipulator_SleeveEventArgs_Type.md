@@ -8,18 +8,8 @@
 ```csharp
 public WireSetManipulatorSleeveEventArgsSleeveType Type { get; set; }
 ```
-```vb
-Public Property Type As WireSetManipulatorSleeveEventArgsSleeveType
-	Get
-	Set
-```
-```cpp
-public:
-property WireSetManipulatorSleeveEventArgsSleeveType Type {
-	WireSetManipulatorSleeveEventArgsSleeveType get ();
-	void set (WireSetManipulatorSleeveEventArgsSleeveType value);
-}
-```
+
+
 
 
 #### Значение свойства

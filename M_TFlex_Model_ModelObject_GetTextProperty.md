@@ -13,17 +13,8 @@ public string GetTextProperty(
 	string propertyName
 )
 ```
-```vb
-Public Function GetTextProperty ( 
-	propertyName As String
-) As String
-```
-```cpp
-public:
-String^ GetTextProperty(
-	String^ propertyName
-)
-```
+
+
 
 
 #### Параметры

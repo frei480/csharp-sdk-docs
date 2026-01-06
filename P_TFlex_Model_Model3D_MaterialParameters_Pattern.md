@@ -11,18 +11,8 @@
 ```csharp
 public string Pattern { get; set; }
 ```
-```vb
-Public Property Pattern As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Pattern {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

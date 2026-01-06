@@ -8,15 +8,8 @@
 ```csharp
 Object WpfPropsControl { get; }
 ```
-```vb
-ReadOnly Property WpfPropsControl As Object
-	Get
-```
-```cpp
-property Object^ WpfPropsControl {
-	Object^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

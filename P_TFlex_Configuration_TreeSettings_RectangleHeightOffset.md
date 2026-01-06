@@ -8,18 +8,8 @@
 ```csharp
 public int RectangleHeightOffset { get; set; }
 ```
-```vb
-Public Property RectangleHeightOffset As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int RectangleHeightOffset {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

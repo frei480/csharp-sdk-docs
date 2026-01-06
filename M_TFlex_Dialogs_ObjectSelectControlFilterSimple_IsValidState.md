@@ -8,13 +8,8 @@
 ```csharp
 public override sealed bool IsValidState()
 ```
-```vb
-Public Overrides NotOverridable Function IsValidState As Boolean
-```
-```cpp
-public:
-virtual bool IsValidState() override sealed
-```
+
+
 
 
 #### Возвращаемое значение

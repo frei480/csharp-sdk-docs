@@ -15,21 +15,8 @@ public StaticTextControl(
 	Icon icon
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	text As String,
-	icon As Icon
-)
-```
-```cpp
-public:
-StaticTextControl(
-	String^ id, 
-	String^ text, 
-	Icon^ icon
-)
-```
+
+
 
 
 #### Параметры

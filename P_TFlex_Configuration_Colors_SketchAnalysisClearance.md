@@ -8,18 +8,8 @@
 ```csharp
 public int SketchAnalysisClearance { get; set; }
 ```
-```vb
-Public Property SketchAnalysisClearance As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SketchAnalysisClearance {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

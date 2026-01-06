@@ -11,19 +11,8 @@ public virtual bool AddMeasure(
 	Data data
 )
 ```
-```vb
-Public Overridable Function AddMeasure ( 
-	ctrl As UIntPtr,
-	data As Data
-) As Boolean
-```
-```cpp
-public:
-virtual bool AddMeasure(
-	UIntPtr ctrl, 
-	Data^ data
-)
-```
+
+
 
 
 #### Параметры

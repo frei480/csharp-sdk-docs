@@ -11,13 +11,8 @@
 ```csharp
 public class FragNameParameterDataGenerator : IParameterDataGenerator
 ```
-```vb
-Public Class FragNameParameterDataGenerator
-	Inherits IParameterDataGenerator
-```
-```cpp
-public ref class FragNameParameterDataGenerator : public IParameterDataGenerator
-```
+
+
 
 
 Тип FragNameParameterDataGenerator предоставляет следующие члены.

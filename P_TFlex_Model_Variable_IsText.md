@@ -11,16 +11,8 @@ true, если переменная является текстовой
 ```csharp
 public bool IsText { get; }
 ```
-```vb
-Public ReadOnly Property IsText As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsText {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

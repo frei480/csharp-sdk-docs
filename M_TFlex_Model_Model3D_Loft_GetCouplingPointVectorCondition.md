@@ -14,19 +14,8 @@ public LoftVectorDirection GetCouplingPointVectorCondition(
 	int profileIndex
 )
 ```
-```vb
-Public Function GetCouplingPointVectorCondition ( 
-	couplingIndex As Integer,
-	profileIndex As Integer
-) As LoftVectorDirection
-```
-```cpp
-public:
-LoftVectorDirection^ GetCouplingPointVectorCondition(
-	int couplingIndex, 
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

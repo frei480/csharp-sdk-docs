@@ -8,18 +8,8 @@
 ```csharp
 public FrustumCullingType FrustumCulling { get; set; }
 ```
-```vb
-Public Property FrustumCulling As FrustumCullingType
-	Get
-	Set
-```
-```cpp
-public:
-property FrustumCullingType FrustumCulling {
-	FrustumCullingType get ();
-	void set (FrustumCullingType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public int CellFillColor
 ```
-```vb
-Public CellFillColor As Integer
-```
-```cpp
-public:
-int CellFillColor
-```
+
+
 
 
 #### Значение поля

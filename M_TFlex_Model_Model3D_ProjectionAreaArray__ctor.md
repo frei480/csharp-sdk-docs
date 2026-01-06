@@ -13,17 +13,8 @@ public ProjectionAreaArray(
 	Projection pObject
 )
 ```
-```vb
-Public Sub New ( 
-	pObject As Projection
-)
-```
-```cpp
-public:
-ProjectionAreaArray(
-	Projection^ pObject
-)
-```
+
+
 
 
 #### Параметры

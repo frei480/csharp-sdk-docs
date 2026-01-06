@@ -11,13 +11,8 @@
 ```csharp
 public EditData()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-EditData()
-```
+
+
 
 
 #### Ссылки

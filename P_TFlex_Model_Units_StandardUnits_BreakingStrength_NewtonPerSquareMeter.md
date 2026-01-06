@@ -13,16 +13,8 @@
 ```csharp
 public static Unit NewtonPerSquareMeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property NewtonPerSquareMeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ NewtonPerSquareMeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

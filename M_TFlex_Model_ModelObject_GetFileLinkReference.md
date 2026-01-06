@@ -13,17 +13,8 @@ public FileLink GetFileLinkReference(
 	int id
 )
 ```
-```vb
-Public Function GetFileLinkReference ( 
-	id As Integer
-) As FileLink
-```
-```cpp
-public:
-FileLink^ GetFileLinkReference(
-	int id
-)
-```
+
+
 
 
 #### Параметры

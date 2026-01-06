@@ -11,13 +11,8 @@
 ```csharp
 public void Redraw()
 ```
-```vb
-Public Sub Redraw
-```
-```cpp
-public:
-void Redraw()
-```
+
+
 
 
 #### Ссылки

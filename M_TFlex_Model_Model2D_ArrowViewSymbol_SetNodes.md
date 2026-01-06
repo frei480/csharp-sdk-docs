@@ -14,19 +14,8 @@ public void SetNodes(
 	Node node2
 )
 ```
-```vb
-Public Sub SetNodes ( 
-	node1 As Node,
-	node2 As Node
-)
-```
-```cpp
-public:
-void SetNodes(
-	Node^ node1, 
-	Node^ node2
-)
-```
+
+
 
 
 #### Параметры

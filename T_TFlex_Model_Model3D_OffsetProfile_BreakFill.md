@@ -11,12 +11,8 @@
 ```csharp
 public enum BreakFill
 ```
-```vb
-Public Enumeration BreakFill
-```
-```cpp
-public enum class BreakFill
-```
+
+
 
 
 | Имя члена | Значение | Описание |

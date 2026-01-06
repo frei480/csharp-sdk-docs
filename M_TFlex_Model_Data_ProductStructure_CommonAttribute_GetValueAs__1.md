@@ -9,14 +9,8 @@
 public T GetValueAs<T>()
 
 ```
-```vb
-Public Function GetValueAs(Of T) As T
-```
-```cpp
-public:
-generic<typename T>
-T GetValueAs()
-```
+
+
 
 
 #### Параметры типа

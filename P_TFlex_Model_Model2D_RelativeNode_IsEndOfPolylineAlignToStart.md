@@ -11,16 +11,8 @@
 ```csharp
 public bool IsEndOfPolylineAlignToStart { get; }
 ```
-```vb
-Public ReadOnly Property IsEndOfPolylineAlignToStart As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsEndOfPolylineAlignToStart {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

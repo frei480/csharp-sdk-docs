@@ -11,18 +11,8 @@
 ```csharp
 public Variable FontNameVariable { get; set; }
 ```
-```vb
-Public Property FontNameVariable As Variable
-	Get
-	Set
-```
-```cpp
-public:
-property Variable^ FontNameVariable {
-	Variable^ get ();
-	void set (Variable^ value);
-}
-```
+
+
 
 
 #### Значение свойства

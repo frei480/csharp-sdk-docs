@@ -11,19 +11,8 @@ public static bool operator !=(
 	View3DLightParameters second
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	first As View3DLightParameters,
-	second As View3DLightParameters
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	View3DLightParameters^ first, 
-	View3DLightParameters^ second
-)
-```
+
+
 
 
 #### Параметры

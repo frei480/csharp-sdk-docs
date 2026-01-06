@@ -8,12 +8,8 @@
 ```csharp
 public enum ColorModelType
 ```
-```vb
-Public Enumeration ColorModelType
-```
-```cpp
-public enum class ColorModelType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -14,19 +14,8 @@ public void FixByFragmentLCS(
 	LCS targetLCS
 )
 ```
-```vb
-Public Sub FixByFragmentLCS ( 
-	sourceLCSName As String,
-	targetLCS As LCS
-)
-```
-```cpp
-public:
-void FixByFragmentLCS(
-	String^ sourceLCSName, 
-	LCS^ targetLCS
-)
-```
+
+
 
 
 #### Параметры

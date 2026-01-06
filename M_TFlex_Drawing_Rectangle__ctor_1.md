@@ -14,19 +14,8 @@ public Rectangle(
 	Point bottomRight
 )
 ```
-```vb
-Public Sub New ( 
-	topLeft As Point,
-	bottomRight As Point
-)
-```
-```cpp
-public:
-Rectangle(
-	Point topLeft, 
-	Point bottomRight
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public void SetRowContent(
 	params Object[] data
 )
 ```
-```vb
-Public Sub SetRowContent ( 
-	row As Integer,
-	ParamArray data As Object()
-)
-```
-```cpp
-public:
-void SetRowContent(
-	int row, 
-	... array<Object^>^ data
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public bool CanUserIncrement(
 	bool forward
 )
 ```
-```vb
-Public Function CanUserIncrement ( 
-	forward As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool CanUserIncrement(
-	bool forward
-)
-```
+
+
 
 
 #### Параметры

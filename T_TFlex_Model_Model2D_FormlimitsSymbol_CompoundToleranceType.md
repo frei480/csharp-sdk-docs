@@ -11,12 +11,8 @@
 ```csharp
 public enum CompoundToleranceType
 ```
-```vb
-Public Enumeration CompoundToleranceType
-```
-```cpp
-public enum class CompoundToleranceType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

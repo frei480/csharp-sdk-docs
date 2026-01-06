@@ -13,17 +13,8 @@ public int GetIntAttribute(
 	string attribName
 )
 ```
-```vb
-Public Function GetIntAttribute ( 
-	attribName As String
-) As Integer
-```
-```cpp
-public:
-int GetIntAttribute(
-	String^ attribName
-)
-```
+
+
 
 
 #### Параметры

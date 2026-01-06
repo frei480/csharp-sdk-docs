@@ -11,16 +11,8 @@
 ```csharp
 public Operation Operation1 { get; }
 ```
-```vb
-Public ReadOnly Property Operation1 As Operation
-	Get
-```
-```cpp
-public:
-property Operation^ Operation1 {
-	Operation^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

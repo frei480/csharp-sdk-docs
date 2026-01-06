@@ -11,13 +11,8 @@
 ```csharp
 public FindAreaContourOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FindAreaContourOptions()
-```
+
+
 
 
 #### Ссылки

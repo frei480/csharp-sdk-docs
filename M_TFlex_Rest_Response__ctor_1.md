@@ -13,17 +13,8 @@ public Response(
 	ResponseStatus status
 )
 ```
-```vb
-Public Sub New ( 
-	status As ResponseStatus
-)
-```
-```cpp
-public:
-Response(
-	ResponseStatus status
-)
-```
+
+
 
 
 #### Параметры

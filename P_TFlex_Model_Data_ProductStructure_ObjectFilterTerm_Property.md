@@ -8,18 +8,8 @@
 ```csharp
 public IParameterProvider Property { get; set; }
 ```
-```vb
-Public Property Property As IParameterProvider
-	Get
-	Set
-```
-```cpp
-public:
-property IParameterProvider^ Property {
-	IParameterProvider^ get ();
-	void set (IParameterProvider^ value);
-}
-```
+
+
 
 
 #### Значение свойства

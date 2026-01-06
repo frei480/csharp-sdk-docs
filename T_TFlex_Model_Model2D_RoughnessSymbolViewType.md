@@ -11,12 +11,8 @@
 ```csharp
 public enum RoughnessSymbolViewType
 ```
-```vb
-Public Enumeration RoughnessSymbolViewType
-```
-```cpp
-public enum class RoughnessSymbolViewType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -16,23 +16,8 @@ public void SetTangentToTwoEllipses(
 	int variant
 )
 ```
-```vb
-Public Sub SetTangentToTwoEllipses ( 
-	srcEllipse1 As Construction,
-	srcEllipse2 As Construction,
-	radius As Parameter,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetTangentToTwoEllipses(
-	Construction^ srcEllipse1, 
-	Construction^ srcEllipse2, 
-	Parameter^ radius, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

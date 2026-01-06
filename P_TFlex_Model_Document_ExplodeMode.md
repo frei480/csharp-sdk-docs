@@ -11,18 +11,8 @@
 ```csharp
 public bool ExplodeMode { get; set; }
 ```
-```vb
-Public Property ExplodeMode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ExplodeMode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

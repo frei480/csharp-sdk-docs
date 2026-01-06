@@ -11,16 +11,8 @@
 ```csharp
 public uint States { get; }
 ```
-```vb
-Public ReadOnly Property States As UInteger
-	Get
-```
-```cpp
-public:
-property unsigned int States {
-	unsigned int get ();
-}
-```
+
+
 
 
 #### Значение свойства

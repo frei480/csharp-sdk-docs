@@ -11,16 +11,8 @@
 ```csharp
 public string Command { set; }
 ```
-```vb
-Public WriteOnly Property Command As String
-	Set
-```
-```cpp
-public:
-property String^ Command {
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

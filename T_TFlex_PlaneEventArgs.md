@@ -13,13 +13,8 @@
 ```csharp
 public class PlaneEventArgs : ObjectEventArgs
 ```
-```vb
-Public Class PlaneEventArgs
-	Inherits ObjectEventArgs
-```
-```cpp
-public ref class PlaneEventArgs : public ObjectEventArgs
-```
+
+
 
 
 Тип PlaneEventArgs предоставляет следующие члены.

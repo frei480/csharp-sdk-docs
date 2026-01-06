@@ -11,18 +11,8 @@
 ```csharp
 public bool PlaceFit { get; set; }
 ```
-```vb
-Public Property PlaceFit As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool PlaceFit {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

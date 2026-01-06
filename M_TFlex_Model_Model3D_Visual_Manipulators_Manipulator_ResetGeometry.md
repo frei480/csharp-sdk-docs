@@ -10,17 +10,8 @@ public void ResetGeometry(
 	Geometry geometry
 )
 ```
-```vb
-Public Sub ResetGeometry ( 
-	geometry As Geometry
-)
-```
-```cpp
-public:
-void ResetGeometry(
-	Geometry^ geometry
-)
-```
+
+
 
 
 #### Параметры

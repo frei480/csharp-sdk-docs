@@ -11,13 +11,8 @@
 ```csharp
 public SpliceCommandEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SpliceCommandEventArgs()
-```
+
+
 
 
 #### Ссылки

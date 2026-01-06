@@ -13,13 +13,8 @@
 ```csharp
 public class ProjectionWithSection : SimpleDrawingProjection
 ```
-```vb
-Public Class ProjectionWithSection
-	Inherits SimpleDrawingProjection
-```
-```cpp
-public ref class ProjectionWithSection : public SimpleDrawingProjection
-```
+
+
 
 
 Тип ProjectionWithSection предоставляет следующие члены.

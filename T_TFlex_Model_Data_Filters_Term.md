@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Term : TermGroupItem
 ```
-```vb
-Public MustInherit Class Term
-	Inherits TermGroupItem
-```
-```cpp
-public ref class Term abstract : public TermGroupItem
-```
+
+
 
 
 Тип Term предоставляет следующие члены.

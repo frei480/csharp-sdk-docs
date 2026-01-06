@@ -10,17 +10,8 @@ public void RemoveParameter(
 	Guid paramID
 )
 ```
-```vb
-Public Sub RemoveParameter ( 
-	paramID As Guid
-)
-```
-```cpp
-public:
-void RemoveParameter(
-	Guid paramID
-)
-```
+
+
 
 
 #### Параметры

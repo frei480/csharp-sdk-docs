@@ -14,19 +14,8 @@ public PathArrayOperation(
 	ArrayOperationType type
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	type As ArrayOperationType
-)
-```
-```cpp
-public:
-PathArrayOperation(
-	Document^ Doc, 
-	ArrayOperationType type
-)
-```
+
+
 
 
 #### Параметры

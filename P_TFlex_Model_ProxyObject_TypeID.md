@@ -11,16 +11,8 @@
 ```csharp
 protected virtual int TypeID { get; }
 ```
-```vb
-Protected Overridable ReadOnly Property TypeID As Integer
-	Get
-```
-```cpp
-protected:
-virtual property int TypeID {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class DimensionHyperlinkProperties : HyperlinkProperties
 ```
-```vb
-Public NotInheritable Class DimensionHyperlinkProperties
-	Inherits HyperlinkProperties
-```
-```cpp
-public ref class DimensionHyperlinkProperties sealed : public HyperlinkProperties
-```
+
+
 
 
 Тип DimensionHyperlinkProperties предоставляет следующие члены.

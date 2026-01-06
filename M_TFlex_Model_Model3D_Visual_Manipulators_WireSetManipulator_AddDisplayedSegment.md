@@ -11,19 +11,8 @@ public void AddDisplayedSegment(
 	bool active
 )
 ```
-```vb
-Public Sub AddDisplayedSegment ( 
-	index As Integer,
-	active As Boolean
-)
-```
-```cpp
-public:
-void AddDisplayedSegment(
-	int index, 
-	bool active
-)
-```
+
+
 
 
 #### Параметры

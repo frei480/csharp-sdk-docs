@@ -10,17 +10,8 @@ public void Assign(
 	Paper source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Paper
-)
-```
-```cpp
-public:
-void Assign(
-	Paper^ source
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 protected Label()
 ```
-```vb
-Protected Sub New
-```
-```cpp
-protected:
-Label()
-```
+
+
 
 
 #### Ссылки

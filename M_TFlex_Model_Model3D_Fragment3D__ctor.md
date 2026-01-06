@@ -14,19 +14,8 @@ public Fragment3D(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	fileName As String,
-	document As Document
-)
-```
-```cpp
-public:
-Fragment3D(
-	String^ fileName, 
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -15,21 +15,8 @@ public Variable CreateRealVariable(
 	CreateVariableMode mode
 )
 ```
-```vb
-Public Function CreateRealVariable ( 
-	expression As String,
-	ByRef value As Double,
-	mode As CreateVariableMode
-) As Variable
-```
-```cpp
-public:
-Variable^ CreateRealVariable(
-	String^ expression, 
-	double% value, 
-	CreateVariableMode mode
-)
-```
+
+
 
 
 #### Параметры

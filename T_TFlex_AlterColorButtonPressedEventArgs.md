@@ -13,13 +13,8 @@
 ```csharp
 public class AlterColorButtonPressedEventArgs : PluginEventArgs
 ```
-```vb
-Public Class AlterColorButtonPressedEventArgs
-	Inherits PluginEventArgs
-```
-```cpp
-public ref class AlterColorButtonPressedEventArgs : public PluginEventArgs
-```
+
+
 
 
 Тип AlterColorButtonPressedEventArgs предоставляет следующие члены.

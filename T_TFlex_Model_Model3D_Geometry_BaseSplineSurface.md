@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseSplineSurface
 ```
-```vb
-Public Interface BaseSplineSurface
-```
-```cpp
-public interface class BaseSplineSurface
-```
+
+
 
 
 Тип BaseSplineSurface предоставляет следующие члены.

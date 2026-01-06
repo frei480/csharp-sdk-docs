@@ -13,17 +13,8 @@ public TransformationMatrix(
 	TransformationMatrix transformation
 )
 ```
-```vb
-Public Sub New ( 
-	transformation As TransformationMatrix
-)
-```
-```cpp
-public:
-TransformationMatrix(
-	TransformationMatrix^ transformation
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public Block(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Block(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

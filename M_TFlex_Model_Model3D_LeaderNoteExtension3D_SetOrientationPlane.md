@@ -11,21 +11,8 @@ public static void SetOrientationPlane(
 	Object3D plane
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SetOrientationPlane ( 
-	__unnamed000 As LeaderNote,
-	plane As Object3D
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SetOrientationPlane(
-	LeaderNote^ __unnamed000, 
-	Object3D^ plane
-)
-```
+
+
 
 
 #### Параметры

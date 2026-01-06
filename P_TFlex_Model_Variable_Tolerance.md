@@ -11,16 +11,8 @@
 ```csharp
 public VariableTolerance Tolerance { get; }
 ```
-```vb
-Public ReadOnly Property Tolerance As VariableTolerance
-	Get
-```
-```cpp
-public:
-property VariableTolerance^ Tolerance {
-	VariableTolerance^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

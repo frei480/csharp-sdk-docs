@@ -11,13 +11,8 @@
 ```csharp
 public SelectionContainerExtensions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SelectionContainerExtensions()
-```
+
+
 
 
 #### Ссылки

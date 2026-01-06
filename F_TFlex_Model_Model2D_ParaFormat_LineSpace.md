@@ -11,13 +11,8 @@
 ```csharp
 public double LineSpace
 ```
-```vb
-Public LineSpace As Double
-```
-```cpp
-public:
-double LineSpace
-```
+
+
 
 
 #### Значение поля

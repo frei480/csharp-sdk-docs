@@ -13,17 +13,8 @@ public string GetTextAttributeIfExist(
 	string attribName
 )
 ```
-```vb
-Public Function GetTextAttributeIfExist ( 
-	attribName As String
-) As String
-```
-```cpp
-public:
-String^ GetTextAttributeIfExist(
-	String^ attribName
-)
-```
+
+
 
 
 #### Параметры

@@ -13,12 +13,8 @@
 ```csharp
 public struct TablePosition
 ```
-```vb
-Public Structure TablePosition
-```
-```cpp
-public value class TablePosition
-```
+
+
 
 
 Тип PositionTablePosition предоставляет следующие члены.

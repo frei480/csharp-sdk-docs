@@ -8,13 +8,8 @@
 ```csharp
 protected override void UpdateEditText()
 ```
-```vb
-Protected Overrides Sub UpdateEditText
-```
-```cpp
-protected:
-virtual void UpdateEditText() override
-```
+
+
 
 
 #### Ссылки

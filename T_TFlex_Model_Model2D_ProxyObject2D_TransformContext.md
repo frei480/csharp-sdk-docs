@@ -13,12 +13,8 @@
 ```csharp
 protected sealed class TransformContext
 ```
-```vb
-Protected NotInheritable Class TransformContext
-```
-```cpp
-protected ref class TransformContext sealed
-```
+
+
 
 
 Тип ProxyObject2DTransformContext предоставляет следующие члены.

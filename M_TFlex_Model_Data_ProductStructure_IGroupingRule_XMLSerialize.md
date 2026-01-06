@@ -11,19 +11,8 @@ public static void XMLSerialize(
 	XmlWriter writer
 )
 ```
-```vb
-Public Shared Sub XMLSerialize ( 
-	pRule As IGroupingRule,
-	writer As XmlWriter
-)
-```
-```cpp
-public:
-static void XMLSerialize(
-	IGroupingRule^ pRule, 
-	XmlWriter^ writer
-)
-```
+
+
 
 
 #### Параметры

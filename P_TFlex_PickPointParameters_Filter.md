@@ -11,18 +11,8 @@
 ```csharp
 public SelectionFilter Filter { get; set; }
 ```
-```vb
-Public Property Filter As SelectionFilter
-	Get
-	Set
-```
-```cpp
-public:
-property SelectionFilter^ Filter {
-	SelectionFilter^ get ();
-	void set (SelectionFilter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

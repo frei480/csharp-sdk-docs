@@ -11,16 +11,8 @@
 ```csharp
 public EllipseGeometry EllipseConstructionGeometry { get; }
 ```
-```vb
-Public ReadOnly Property EllipseConstructionGeometry As EllipseGeometry
-	Get
-```
-```cpp
-public:
-property EllipseGeometry^ EllipseConstructionGeometry {
-	EllipseGeometry^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

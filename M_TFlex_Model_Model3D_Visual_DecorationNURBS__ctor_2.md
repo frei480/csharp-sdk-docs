@@ -15,21 +15,8 @@ public DecorationNURBS(
 	double[] knots
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	controlPoints As BasePoint3D(),
-	knots As Double()
-)
-```
-```cpp
-public:
-DecorationNURBS(
-	String^ name, 
-	array<BasePoint3D^>^ controlPoints, 
-	array<double>^ knots
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool RemoveLoops { get; set; }
 ```
-```vb
-Public Property RemoveLoops As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RemoveLoops {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

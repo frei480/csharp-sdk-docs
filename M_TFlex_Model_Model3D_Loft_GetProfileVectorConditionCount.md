@@ -13,17 +13,8 @@ public int GetProfileVectorConditionCount(
 	int profileIndex
 )
 ```
-```vb
-Public Function GetProfileVectorConditionCount ( 
-	profileIndex As Integer
-) As Integer
-```
-```cpp
-public:
-int GetProfileVectorConditionCount(
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

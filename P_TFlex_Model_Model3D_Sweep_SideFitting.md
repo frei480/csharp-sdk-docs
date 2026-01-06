@@ -11,18 +11,8 @@
 ```csharp
 public SweepFitting SideFitting { get; set; }
 ```
-```vb
-Public Property SideFitting As SweepFitting
-	Get
-	Set
-```
-```cpp
-public:
-property SweepFitting SideFitting {
-	SweepFitting get ();
-	void set (SweepFitting value);
-}
-```
+
+
 
 
 #### Значение свойства

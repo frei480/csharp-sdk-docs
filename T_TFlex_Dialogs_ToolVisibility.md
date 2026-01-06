@@ -11,12 +11,8 @@
 ```csharp
 public enum ToolVisibility
 ```
-```vb
-Public Enumeration ToolVisibility
-```
-```cpp
-public enum class ToolVisibility
-```
+
+
 
 
 | Имя члена | Значение | Описание |

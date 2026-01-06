@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Kilohertz { get; }
 ```
-```vb
-Public Shared ReadOnly Property Kilohertz As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Kilohertz {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ protected virtual void DocumentRegeneratedEventHandler(
 	RegenerateDocumentEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub DocumentRegeneratedEventHandler ( 
-	args As RegenerateDocumentEventArgs
-)
-```
-```cpp
-protected:
-virtual void DocumentRegeneratedEventHandler(
-	RegenerateDocumentEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

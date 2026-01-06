@@ -15,23 +15,8 @@ public static void SetSelectionFilterButtonToolTip(
 	string toolTip
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SetSelectionFilterButtonToolTip ( 
-	owner As IFilterOwner,
-	objectType As ObjectType,
-	toolTip As String
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SetSelectionFilterButtonToolTip(
-	IFilterOwner^ owner, 
-	ObjectType objectType, 
-	String^ toolTip
-)
-```
+
+
 
 
 #### Параметры

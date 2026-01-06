@@ -11,16 +11,8 @@ Cобытие, происходящее при отпускании кнопки
 ```csharp
 public event ControlMouseUp MouseUp
 ```
-```vb
-Public Event MouseUp As ControlMouseUp
-```
-```cpp
-public:
- event ControlMouseUp^ MouseUp {
-	void add (ControlMouseUp^ value);
-	void remove (ControlMouseUp^ value);
-}
-```
+
+
 
 
 #### Значение

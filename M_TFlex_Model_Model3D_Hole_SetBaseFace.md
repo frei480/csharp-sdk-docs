@@ -14,19 +14,8 @@ public bool SetBaseFace(
 	ModelFace baseFace
 )
 ```
-```vb
-Public Function SetBaseFace ( 
-	hole As Integer,
-	baseFace As ModelFace
-) As Boolean
-```
-```cpp
-public:
-bool SetBaseFace(
-	int hole, 
-	ModelFace^ baseFace
-)
-```
+
+
 
 
 #### Параметры

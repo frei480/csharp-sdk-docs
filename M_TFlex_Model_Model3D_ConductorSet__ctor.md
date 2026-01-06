@@ -14,19 +14,8 @@ public ConductorSet(
 	ProductType type
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document,
-	type As ProductType
-)
-```
-```cpp
-public:
-ConductorSet(
-	Document^ doc, 
-	ProductType type
-)
-```
+
+
 
 
 #### Параметры

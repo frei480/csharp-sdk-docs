@@ -16,23 +16,8 @@ public Variable(
 	bool external
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	name As String,
-	value As Double,
-	external As Boolean
-)
-```
-```cpp
-public:
-Variable(
-	Document^ document, 
-	String^ name, 
-	double value, 
-	bool external
-)
-```
+
+
 
 
 #### Параметры

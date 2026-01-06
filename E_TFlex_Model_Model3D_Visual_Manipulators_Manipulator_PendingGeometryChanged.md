@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<PendingGeometryChangedEventArgs> PendingGeometryChanged
 ```
-```vb
-Public Event PendingGeometryChanged As EventHandler(Of PendingGeometryChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<PendingGeometryChangedEventArgs^>^ PendingGeometryChanged {
-	void add (EventHandler<PendingGeometryChangedEventArgs^>^ value);
-	void remove (EventHandler<PendingGeometryChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

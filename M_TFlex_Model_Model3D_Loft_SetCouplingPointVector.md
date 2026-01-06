@@ -15,21 +15,8 @@ public void SetCouplingPointVector(
 	LoftVectorDirection condition
 )
 ```
-```vb
-Public Sub SetCouplingPointVector ( 
-	couplingIndex As Integer,
-	profileIndex As Integer,
-	condition As LoftVectorDirection
-)
-```
-```cpp
-public:
-void SetCouplingPointVector(
-	int couplingIndex, 
-	int profileIndex, 
-	LoftVectorDirection^ condition
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public SymmetryCopy(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-SymmetryCopy(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

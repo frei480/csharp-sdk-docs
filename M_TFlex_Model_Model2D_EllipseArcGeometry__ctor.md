@@ -22,35 +22,8 @@ public EllipseArcGeometry(
 	double endY
 )
 ```
-```vb
-Public Sub New ( 
-	centerX As Double,
-	centerY As Double,
-	x1 As Double,
-	y1 As Double,
-	x2 As Double,
-	y2 As Double,
-	startX As Double,
-	startY As Double,
-	endX As Double,
-	endY As Double
-)
-```
-```cpp
-public:
-EllipseArcGeometry(
-	double centerX, 
-	double centerY, 
-	double x1, 
-	double y1, 
-	double x2, 
-	double y2, 
-	double startX, 
-	double startY, 
-	double endX, 
-	double endY
-)
-```
+
+
 
 
 #### Параметры

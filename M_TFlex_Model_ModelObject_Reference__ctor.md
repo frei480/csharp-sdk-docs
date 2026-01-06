@@ -13,17 +13,8 @@ public Reference(
 	uint states
 )
 ```
-```vb
-Public Sub New ( 
-	states As UInteger
-)
-```
-```cpp
-public:
-Reference(
-	unsigned int states
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool HideLCSinTree { get; set; }
 ```
-```vb
-Public Property HideLCSinTree As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool HideLCSinTree {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

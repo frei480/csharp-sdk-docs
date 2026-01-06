@@ -11,18 +11,8 @@
 ```csharp
 public bool AllowWrapRadioButtonMode { get; set; }
 ```
-```vb
-Public Property AllowWrapRadioButtonMode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AllowWrapRadioButtonMode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

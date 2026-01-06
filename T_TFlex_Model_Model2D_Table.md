@@ -13,12 +13,8 @@
 ```csharp
 public struct Table
 ```
-```vb
-Public Structure Table
-```
-```cpp
-public value class Table
-```
+
+
 
 
 Тип Table предоставляет следующие члены.

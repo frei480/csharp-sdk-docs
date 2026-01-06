@@ -11,13 +11,8 @@
 ```csharp
 public class ZonesParameterDataGenerator : IParameterDataGenerator
 ```
-```vb
-Public Class ZonesParameterDataGenerator
-	Inherits IParameterDataGenerator
-```
-```cpp
-public ref class ZonesParameterDataGenerator : public IParameterDataGenerator
-```
+
+
 
 
 Тип ZonesParameterDataGenerator предоставляет следующие члены.

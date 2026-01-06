@@ -11,18 +11,8 @@
 ```csharp
 public bool UseCubicSplines { get; set; }
 ```
-```vb
-Public Property UseCubicSplines As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseCubicSplines {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

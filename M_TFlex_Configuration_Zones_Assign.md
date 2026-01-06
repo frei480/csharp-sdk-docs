@@ -10,17 +10,8 @@ public void Assign(
 	Zones source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Zones
-)
-```
-```cpp
-public:
-void Assign(
-	Zones^ source
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum PeriodicType
 ```
-```vb
-Public Enumeration PeriodicType
-```
-```cpp
-public enum class PeriodicType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

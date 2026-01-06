@@ -13,17 +13,8 @@ public void Draw(
 	Graphics graphics
 )
 ```
-```vb
-Public Sub Draw ( 
-	graphics As Graphics
-)
-```
-```cpp
-public:
-void Draw(
-	Graphics^ graphics
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public Restraint GetRestraint(
 	int index
 )
 ```
-```vb
-Public Function GetRestraint ( 
-	index As Integer
-) As Restraint
-```
-```cpp
-public:
-Restraint^ GetRestraint(
-	int index
-)
-```
+
+
 
 
 #### Параметры

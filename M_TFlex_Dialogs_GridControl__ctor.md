@@ -11,13 +11,8 @@
 ```csharp
 public GridControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-GridControl()
-```
+
+
 
 
 #### Ссылки

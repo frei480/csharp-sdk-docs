@@ -14,14 +14,8 @@
 public class DeleteFacesArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class DeleteFacesArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class DeleteFacesArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип FaceDeleteDeleteFacesArray предоставляет следующие члены.

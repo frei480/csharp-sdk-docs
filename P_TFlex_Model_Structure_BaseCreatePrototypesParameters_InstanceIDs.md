@@ -8,18 +8,8 @@
 ```csharp
 public IEnumerable<Guid> InstanceIDs { get; set; }
 ```
-```vb
-Public Property InstanceIDs As IEnumerable(Of Guid)
-	Get
-	Set
-```
-```cpp
-public:
-property IEnumerable<Guid>^ InstanceIDs {
-	IEnumerable<Guid>^ get ();
-	void set (IEnumerable<Guid>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

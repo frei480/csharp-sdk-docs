@@ -11,16 +11,8 @@
 ```csharp
 public ParentObjects Parents { get; }
 ```
-```vb
-Public ReadOnly Property Parents As ParentObjects
-	Get
-```
-```cpp
-public:
-property ParentObjects^ Parents {
-	ParentObjects^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

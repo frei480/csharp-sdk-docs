@@ -10,17 +10,8 @@ public void SetColorName(
 	string str
 )
 ```
-```vb
-Public Sub SetColorName ( 
-	str As String
-)
-```
-```cpp
-public:
-void SetColorName(
-	String^ str
-)
-```
+
+
 
 
 #### Параметры

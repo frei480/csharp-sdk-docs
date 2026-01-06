@@ -11,13 +11,8 @@
 ```csharp
 public Snaps()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Snaps()
-```
+
+
 
 
 #### Ссылки

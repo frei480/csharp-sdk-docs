@@ -13,17 +13,8 @@ public ImportFromPicture3d(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ImportFromPicture3d(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

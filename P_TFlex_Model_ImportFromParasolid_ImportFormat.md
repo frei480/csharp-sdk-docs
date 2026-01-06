@@ -11,18 +11,8 @@
 ```csharp
 public ImportParasolidFormat ImportFormat { get; set; }
 ```
-```vb
-Public Property ImportFormat As ImportParasolidFormat
-	Get
-	Set
-```
-```cpp
-public:
-property ImportParasolidFormat ImportFormat {
-	ImportParasolidFormat get ();
-	void set (ImportParasolidFormat value);
-}
-```
+
+
 
 
 #### Значение свойства

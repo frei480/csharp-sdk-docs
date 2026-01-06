@@ -11,13 +11,8 @@
 ```csharp
 public class QualityManagement : SettingsGroup
 ```
-```vb
-Public Class QualityManagement
-	Inherits SettingsGroup
-```
-```cpp
-public ref class QualityManagement : public SettingsGroup
-```
+
+
 
 
 Тип QualityManagement предоставляет следующие члены.

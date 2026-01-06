@@ -13,12 +13,8 @@
 ```csharp
 public abstract class Parametric
 ```
-```vb
-Public MustInherit Class Parametric
-```
-```cpp
-public ref class Parametric abstract
-```
+
+
 
 
 Тип Parametric предоставляет следующие члены.

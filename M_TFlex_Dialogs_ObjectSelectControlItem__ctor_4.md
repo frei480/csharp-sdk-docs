@@ -13,17 +13,8 @@ public ObjectSelectControlItem(
 	ObjectSelectControlPlainObject plainObject
 )
 ```
-```vb
-Public Sub New ( 
-	plainObject As ObjectSelectControlPlainObject
-)
-```
-```cpp
-public:
-ObjectSelectControlItem(
-	ObjectSelectControlPlainObject plainObject
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public static Settings Settings { get; }
 ```
-```vb
-Public Shared ReadOnly Property Settings As Settings
-	Get
-```
-```cpp
-public:
-static property Settings^ Settings {
-	Settings^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

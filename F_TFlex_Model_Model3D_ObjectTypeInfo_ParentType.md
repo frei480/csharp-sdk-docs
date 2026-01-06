@@ -8,13 +8,8 @@
 ```csharp
 public Guid ParentType
 ```
-```vb
-Public ParentType As Guid
-```
-```cpp
-public:
-Guid ParentType
-```
+
+
 
 
 #### Значение поля

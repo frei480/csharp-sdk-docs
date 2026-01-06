@@ -11,18 +11,8 @@
 ```csharp
 public FillHoleOperationSplitType Split { get; set; }
 ```
-```vb
-Public Property Split As FillHoleOperationSplitType
-	Get
-	Set
-```
-```cpp
-public:
-property FillHoleOperationSplitType Split {
-	FillHoleOperationSplitType get ();
-	void set (FillHoleOperationSplitType value);
-}
-```
+
+
 
 
 #### Значение свойства

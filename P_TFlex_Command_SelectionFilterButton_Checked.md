@@ -8,18 +8,8 @@
 ```csharp
 public bool Checked { get; set; }
 ```
-```vb
-Public Property Checked As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Checked {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

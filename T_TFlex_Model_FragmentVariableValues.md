@@ -12,14 +12,8 @@
 public class FragmentVariableValues : IEnumerable, 
 	IEnumerator
 ```
-```vb
-Public Class FragmentVariableValues
-	Implements IEnumerable, IEnumerator
-```
-```cpp
-public ref class FragmentVariableValues : IEnumerable, 
-	IEnumerator
-```
+
+
 
 
 Тип FragmentVariableValues предоставляет следующие члены.

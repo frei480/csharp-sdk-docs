@@ -8,13 +8,8 @@
 ```csharp
 public IEnumerable<Link> GetLinks()
 ```
-```vb
-Public Function GetLinks As IEnumerable(Of Link)
-```
-```cpp
-public:
-IEnumerable<Link^>^ GetLinks()
-```
+
+
 
 
 #### Возвращаемое значение

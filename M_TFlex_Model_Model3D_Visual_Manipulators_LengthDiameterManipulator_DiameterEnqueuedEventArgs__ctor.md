@@ -11,13 +11,8 @@
 ```csharp
 public DiameterEnqueuedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-DiameterEnqueuedEventArgs()
-```
+
+
 
 
 #### Ссылки

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class MacroHyperlinkProperties : HyperlinkPropertiesWithUserText
 ```
-```vb
-Public NotInheritable Class MacroHyperlinkProperties
-	Inherits HyperlinkPropertiesWithUserText
-```
-```cpp
-public ref class MacroHyperlinkProperties sealed : public HyperlinkPropertiesWithUserText
-```
+
+
 
 
 Тип MacroHyperlinkProperties предоставляет следующие члены.

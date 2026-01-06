@@ -11,16 +11,8 @@
 ```csharp
 public TableFunction ScaleLaw { get; }
 ```
-```vb
-Public ReadOnly Property ScaleLaw As TableFunction
-	Get
-```
-```cpp
-public:
-property TableFunction^ ScaleLaw {
-	TableFunction^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

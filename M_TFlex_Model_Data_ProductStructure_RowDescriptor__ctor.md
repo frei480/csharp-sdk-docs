@@ -11,13 +11,8 @@
 ```csharp
 public RowDescriptor()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RowDescriptor()
-```
+
+
 
 
 #### Ссылки

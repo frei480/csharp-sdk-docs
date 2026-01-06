@@ -8,18 +8,8 @@
 ```csharp
 public bool UseCurrentViewFilter { get; set; }
 ```
-```vb
-Public Property UseCurrentViewFilter As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseCurrentViewFilter {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

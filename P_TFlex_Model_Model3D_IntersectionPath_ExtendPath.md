@@ -11,18 +11,8 @@
 ```csharp
 public bool ExtendPath { get; set; }
 ```
-```vb
-Public Property ExtendPath As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ExtendPath {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

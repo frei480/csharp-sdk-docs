@@ -13,17 +13,8 @@ public bool DeleteConfiguration(
 	string Name
 )
 ```
-```vb
-Public Function DeleteConfiguration ( 
-	Name As String
-) As Boolean
-```
-```cpp
-public:
-bool DeleteConfiguration(
-	String^ Name
-)
-```
+
+
 
 
 #### Параметры

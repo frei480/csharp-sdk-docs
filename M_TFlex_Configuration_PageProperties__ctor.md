@@ -11,13 +11,8 @@
 ```csharp
 public PageProperties()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PageProperties()
-```
+
+
 
 
 #### Ссылки

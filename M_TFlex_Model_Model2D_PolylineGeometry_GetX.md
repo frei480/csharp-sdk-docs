@@ -13,17 +13,8 @@ public double GetX(
 	int index
 )
 ```
-```vb
-Public Function GetX ( 
-	index As Integer
-) As Double
-```
-```cpp
-public:
-double GetX(
-	int index
-)
-```
+
+
 
 
 #### Параметры

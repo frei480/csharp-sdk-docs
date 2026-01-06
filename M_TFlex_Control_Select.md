@@ -14,19 +14,8 @@ public ModelObject Select(
 	SelectionFilter filter
 )
 ```
-```vb
-Public Function Select ( 
-	point As Point,
-	filter As SelectionFilter
-) As ModelObject
-```
-```cpp
-public:
-ModelObject^ Select(
-	Point point, 
-	SelectionFilter^ filter
-)
-```
+
+
 
 
 #### Параметры

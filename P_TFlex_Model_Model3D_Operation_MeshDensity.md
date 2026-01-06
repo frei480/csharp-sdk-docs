@@ -11,18 +11,8 @@
 ```csharp
 public Parameter MeshDensity { get; set; }
 ```
-```vb
-Public Property MeshDensity As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ MeshDensity {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

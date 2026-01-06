@@ -13,17 +13,8 @@ public static Document OpenDocument(
 	string fileName
 )
 ```
-```vb
-Public Shared Function OpenDocument ( 
-	fileName As String
-) As Document
-```
-```cpp
-public:
-static Document^ OpenDocument(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

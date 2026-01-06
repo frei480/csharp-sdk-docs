@@ -11,13 +11,8 @@
 ```csharp
 public StaticTextControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-StaticTextControl()
-```
+
+
 
 
 #### Ссылки

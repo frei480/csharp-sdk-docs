@@ -13,13 +13,8 @@
 ```csharp
 public class SheetMetalFeature : Operation
 ```
-```vb
-Public Class SheetMetalFeature
-	Inherits Operation
-```
-```cpp
-public ref class SheetMetalFeature : public Operation
-```
+
+
 
 
 Тип SheetMetalFeature предоставляет следующие члены.

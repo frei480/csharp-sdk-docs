@@ -11,19 +11,8 @@ public static bool operator ==(
 	GroupingRules right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As GroupingRules,
-	right As GroupingRules
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	GroupingRules^ left, 
-	GroupingRules^ right
-)
-```
+
+
 
 
 #### Параметры

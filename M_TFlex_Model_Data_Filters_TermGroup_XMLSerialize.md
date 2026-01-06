@@ -10,17 +10,8 @@ public override void XMLSerialize(
 	XmlWriter writer
 )
 ```
-```vb
-Public Overrides Sub XMLSerialize ( 
-	writer As XmlWriter
-)
-```
-```cpp
-public:
-virtual void XMLSerialize(
-	XmlWriter^ writer
-) override
-```
+
+
 
 
 #### Параметры

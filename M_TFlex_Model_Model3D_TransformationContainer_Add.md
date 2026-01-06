@@ -13,17 +13,8 @@ public void Add(
 	Transformation transf
 )
 ```
-```vb
-Public Sub Add ( 
-	transf As Transformation
-)
-```
-```cpp
-public:
-void Add(
-	Transformation^ transf
-)
-```
+
+
 
 
 #### Параметры

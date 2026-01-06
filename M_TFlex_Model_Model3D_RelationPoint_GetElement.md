@@ -13,17 +13,8 @@ public Object3D GetElement(
 	int A_0
 )
 ```
-```vb
-Public Function GetElement ( 
-	A_0 As Integer
-) As Object3D
-```
-```cpp
-public:
-Object3D^ GetElement(
-	int A_0
-)
-```
+
+
 
 
 #### Параметры

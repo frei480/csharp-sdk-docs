@@ -12,14 +12,8 @@
 public class ModelObjectAttributes : IEnumerable, 
 	IEnumerator
 ```
-```vb
-Public Class ModelObjectAttributes
-	Implements IEnumerable, IEnumerator
-```
-```cpp
-public ref class ModelObjectAttributes : IEnumerable, 
-	IEnumerator
-```
+
+
 
 
 Тип ModelObjectAttributes предоставляет следующие члены.

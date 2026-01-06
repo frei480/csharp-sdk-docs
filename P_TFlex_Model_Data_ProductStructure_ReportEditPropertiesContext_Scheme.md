@@ -8,18 +8,8 @@
 ```csharp
 public Scheme Scheme { get; set; }
 ```
-```vb
-Public Property Scheme As Scheme
-	Get
-	Set
-```
-```cpp
-public:
-property Scheme^ Scheme {
-	Scheme^ get ();
-	void set (Scheme^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,15 +14,8 @@
 public sealed class ModelPlaneSurface : ModelSurface, 
 	BasePlaneSurface
 ```
-```vb
-Public NotInheritable Class ModelPlaneSurface
-	Inherits ModelSurface
-	Implements BasePlaneSurface
-```
-```cpp
-public ref class ModelPlaneSurface sealed : public ModelSurface, 
-	BasePlaneSurface
-```
+
+
 
 
 Тип ModelPlaneSurface предоставляет следующие члены.

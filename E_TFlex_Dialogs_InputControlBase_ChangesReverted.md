@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<BaseEventArgs> ChangesReverted
 ```
-```vb
-Public Event ChangesReverted As EventHandler(Of BaseEventArgs)
-```
-```cpp
-public:
- event EventHandler<BaseEventArgs^>^ ChangesReverted {
-	void add (EventHandler<BaseEventArgs^>^ value);
-	void remove (EventHandler<BaseEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

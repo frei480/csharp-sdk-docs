@@ -11,12 +11,8 @@
 ```csharp
 public enum LawTypeSet
 ```
-```vb
-Public Enumeration LawTypeSet
-```
-```cpp
-public enum class LawTypeSet
-```
+
+
 
 
 | Имя члена | Значение | Описание |

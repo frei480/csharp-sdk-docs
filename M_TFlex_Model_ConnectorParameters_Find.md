@@ -13,17 +13,8 @@ public int Find(
 	string name
 )
 ```
-```vb
-Public Function Find ( 
-	name As String
-) As Integer
-```
-```cpp
-public:
-int Find(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

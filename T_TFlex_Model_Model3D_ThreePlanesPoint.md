@@ -13,13 +13,8 @@
 ```csharp
 public class ThreePlanesPoint : Node3D
 ```
-```vb
-Public Class ThreePlanesPoint
-	Inherits Node3D
-```
-```cpp
-public ref class ThreePlanesPoint : public Node3D
-```
+
+
 
 
 Тип ThreePlanesPoint предоставляет следующие члены.

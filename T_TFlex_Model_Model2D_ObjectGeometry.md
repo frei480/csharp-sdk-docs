@@ -14,14 +14,8 @@
 public class ObjectGeometry : IObjectGeometry, 
 	IDisposable
 ```
-```vb
-Public Class ObjectGeometry
-	Implements IObjectGeometry, IDisposable
-```
-```cpp
-public ref class ObjectGeometry : IObjectGeometry, 
-	IDisposable
-```
+
+
 
 
 Тип ObjectGeometry предоставляет следующие члены.

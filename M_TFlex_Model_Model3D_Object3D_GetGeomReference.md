@@ -13,17 +13,8 @@ public virtual Geometry GetGeomReference(
 	int id
 )
 ```
-```vb
-Public Overridable Function GetGeomReference ( 
-	id As Integer
-) As Geometry
-```
-```cpp
-public:
-virtual Geometry^ GetGeomReference(
-	int id
-)
-```
+
+
 
 
 #### Параметры

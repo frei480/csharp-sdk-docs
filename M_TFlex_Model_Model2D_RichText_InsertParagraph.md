@@ -11,13 +11,8 @@
 ```csharp
 public void InsertParagraph()
 ```
-```vb
-Public Sub InsertParagraph
-```
-```cpp
-public:
-void InsertParagraph()
-```
+
+
 
 
 Абзац будет вставлен перед символом, на котором находится курсор. Параметры выделения фрагмента будут потеряны

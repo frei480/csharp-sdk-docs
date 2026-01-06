@@ -13,17 +13,8 @@ public void RenameChanges(
 	string name
 )
 ```
-```vb
-Public Sub RenameChanges ( 
-	name As String
-)
-```
-```cpp
-public:
-void RenameChanges(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

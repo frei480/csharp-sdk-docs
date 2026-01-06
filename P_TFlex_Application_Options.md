@@ -14,18 +14,8 @@
 [ObsoleteAttribute("This property is obsolete, use 'Settings' instead")]
 public static Options Options { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete, use 'Settings' instead")>
-Public Shared ReadOnly Property Options As Options
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete, use 'Settings' instead")]
-static property Options^ Options {
-	Options^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

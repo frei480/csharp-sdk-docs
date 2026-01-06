@@ -11,13 +11,8 @@
 ```csharp
 protected ListControlModel()
 ```
-```vb
-Protected Sub New
-```
-```cpp
-protected:
-ListControlModel()
-```
+
+
 
 
 #### Ссылки

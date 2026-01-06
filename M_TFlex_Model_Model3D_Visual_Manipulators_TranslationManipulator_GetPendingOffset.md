@@ -11,13 +11,8 @@
 ```csharp
 public double GetPendingOffset()
 ```
-```vb
-Public Function GetPendingOffset As Double
-```
-```cpp
-public:
-double GetPendingOffset()
-```
+
+
 
 
 #### Возвращаемое значение

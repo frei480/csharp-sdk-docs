@@ -11,18 +11,8 @@
 ```csharp
 public SurfaceSplineDataConvexityType Convexity { get; set; }
 ```
-```vb
-Public Property Convexity As SurfaceSplineDataConvexityType
-	Get
-	Set
-```
-```cpp
-public:
-property SurfaceSplineDataConvexityType Convexity {
-	SurfaceSplineDataConvexityType get ();
-	void set (SurfaceSplineDataConvexityType value);
-}
-```
+
+
 
 
 #### Значение свойства

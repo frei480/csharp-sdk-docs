@@ -11,13 +11,8 @@
 ```csharp
 public VersionNameParameterDataGenerator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-VersionNameParameterDataGenerator()
-```
+
+
 
 
 #### Ссылки

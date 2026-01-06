@@ -13,17 +13,8 @@ public ExportToPrc(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToPrc(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

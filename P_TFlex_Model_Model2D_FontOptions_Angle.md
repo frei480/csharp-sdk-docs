@@ -8,18 +8,8 @@
 ```csharp
 public virtual Parameter Angle { get; set; }
 ```
-```vb
-Public Overridable Property Angle As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Parameter^ Angle {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

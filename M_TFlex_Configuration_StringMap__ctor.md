@@ -11,13 +11,8 @@
 ```csharp
 public StringMap()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-StringMap()
-```
+
+
 
 
 #### Ссылки

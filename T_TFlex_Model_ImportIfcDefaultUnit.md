@@ -11,12 +11,8 @@
 ```csharp
 public enum ImportIfcDefaultUnit
 ```
-```vb
-Public Enumeration ImportIfcDefaultUnit
-```
-```cpp
-public enum class ImportIfcDefaultUnit
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,13 +13,8 @@
 ```csharp
 public class CoordSystemManipulator : Manipulator
 ```
-```vb
-Public Class CoordSystemManipulator
-	Inherits Manipulator
-```
-```cpp
-public ref class CoordSystemManipulator : public Manipulator
-```
+
+
 
 
 Тип CoordSystemManipulator предоставляет следующие члены.

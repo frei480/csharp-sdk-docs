@@ -14,15 +14,8 @@
 [ObsoleteAttribute]
 public class ParamConditionTerm : ICloneable
 ```
-```vb
-<ObsoleteAttribute>
-Public Class ParamConditionTerm
-	Implements ICloneable
-```
-```cpp
-[ObsoleteAttribute]
-public ref class ParamConditionTerm : ICloneable
-```
+
+
 
 
 Тип ParamConditionTerm предоставляет следующие члены.

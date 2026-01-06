@@ -11,18 +11,8 @@
 ```csharp
 public BodyTaperCornerType Corner { get; set; }
 ```
-```vb
-Public Property Corner As BodyTaperCornerType
-	Get
-	Set
-```
-```cpp
-public:
-property BodyTaperCornerType Corner {
-	BodyTaperCornerType get ();
-	void set (BodyTaperCornerType value);
-}
-```
+
+
 
 
 #### Значение свойства

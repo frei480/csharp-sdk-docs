@@ -13,17 +13,8 @@ public bool DeleteByIndex(
 	int index
 )
 ```
-```vb
-Public Function DeleteByIndex ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool DeleteByIndex(
-	int index
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public AffineTransformation Transformation { get; }
 ```
-```vb
-Public ReadOnly Property Transformation As AffineTransformation
-	Get
-```
-```cpp
-public:
-property AffineTransformation^ Transformation {
-	AffineTransformation^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

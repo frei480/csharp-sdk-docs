@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionValueType
 ```
-```vb
-Public Enumeration DimensionValueType
-```
-```cpp
-public enum class DimensionValueType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

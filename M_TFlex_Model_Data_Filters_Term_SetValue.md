@@ -10,17 +10,8 @@ protected virtual void SetValue(
 	Object value
 )
 ```
-```vb
-Protected Overridable Sub SetValue ( 
-	value As Object
-)
-```
-```cpp
-protected:
-virtual void SetValue(
-	Object^ value
-)
-```
+
+
 
 
 #### Параметры

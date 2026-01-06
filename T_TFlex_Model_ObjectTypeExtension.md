@@ -13,14 +13,8 @@
 ```csharp
 public class ObjectTypeExtension
 ```
-```vb
-<ExtensionAttribute>
-Public Class ObjectTypeExtension
-```
-```cpp
-[ExtensionAttribute]
-public ref class ObjectTypeExtension
-```
+
+
 
 
 Тип ObjectTypeExtension предоставляет следующие члены.

@@ -13,17 +13,8 @@ public Point PointToModel(
 	Point screenPoint
 )
 ```
-```vb
-Public Function PointToModel ( 
-	screenPoint As Point
-) As Point
-```
-```cpp
-public:
-Point PointToModel(
-	Point screenPoint
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public void SetLeaderPolyline(
 	Parameter parameter
 )
 ```
-```vb
-Public Sub SetLeaderPolyline ( 
-	polyline As Object2D,
-	parameter As Parameter
-)
-```
-```cpp
-public:
-void SetLeaderPolyline(
-	Object2D^ polyline, 
-	Parameter^ parameter
-)
-```
+
+
 
 
 #### Параметры

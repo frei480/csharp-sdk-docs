@@ -11,13 +11,8 @@
 ```csharp
 public void CorrectPoint()
 ```
-```vb
-Public Sub CorrectPoint
-```
-```cpp
-public:
-void CorrectPoint()
-```
+
+
 
 
 #### Ссылки

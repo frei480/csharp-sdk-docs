@@ -11,16 +11,8 @@ ID текущей записи
 ```csharp
 public uint RecordID { get; }
 ```
-```vb
-Public ReadOnly Property RecordID As UInteger
-	Get
-```
-```cpp
-public:
-property unsigned int RecordID {
-	unsigned int get ();
-}
-```
+
+
 
 
 #### Значение свойства

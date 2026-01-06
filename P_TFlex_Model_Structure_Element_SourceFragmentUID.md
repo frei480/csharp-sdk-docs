@@ -8,16 +8,8 @@
 ```csharp
 public Guid SourceFragmentUID { get; }
 ```
-```vb
-Public ReadOnly Property SourceFragmentUID As Guid
-	Get
-```
-```cpp
-public:
-property Guid SourceFragmentUID {
-	Guid get ();
-}
-```
+
+
 
 
 #### Значение свойства

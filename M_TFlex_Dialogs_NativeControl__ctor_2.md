@@ -14,19 +14,8 @@ public NativeControl(
 	NativeWindow window
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	window As NativeWindow
-)
-```
-```cpp
-public:
-NativeControl(
-	String^ id, 
-	NativeWindow^ window
-)
-```
+
+
 
 
 #### Параметры

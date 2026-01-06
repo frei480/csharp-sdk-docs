@@ -14,19 +14,8 @@ public LoftVectorCondition GetGuideVectorCondition(
 	int guideVectorConditionIndex
 )
 ```
-```vb
-Public Function GetGuideVectorCondition ( 
-	guideIndex As Integer,
-	guideVectorConditionIndex As Integer
-) As LoftVectorCondition
-```
-```cpp
-public:
-LoftVectorCondition^ GetGuideVectorCondition(
-	int guideIndex, 
-	int guideVectorConditionIndex
-)
-```
+
+
 
 
 #### Параметры

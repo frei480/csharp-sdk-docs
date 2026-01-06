@@ -15,21 +15,8 @@ public void InsertColumns(
 	TableInsertProperties props
 )
 ```
-```vb
-Public Sub InsertColumns ( 
-	count As UInteger,
-	cell As UInteger,
-	props As TableInsertProperties
-)
-```
-```cpp
-public:
-void InsertColumns(
-	unsigned int count, 
-	unsigned int cell, 
-	TableInsertProperties props
-)
-```
+
+
 
 
 #### Параметры

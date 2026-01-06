@@ -13,12 +13,8 @@
 ```csharp
 public sealed class PickPointResult
 ```
-```vb
-Public NotInheritable Class PickPointResult
-```
-```cpp
-public ref class PickPointResult sealed
-```
+
+
 
 
 Тип PickPointResult предоставляет следующие члены.

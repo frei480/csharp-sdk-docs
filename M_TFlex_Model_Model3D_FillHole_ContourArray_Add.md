@@ -11,13 +11,8 @@
 ```csharp
 public void Add()
 ```
-```vb
-Public Sub Add
-```
-```cpp
-public:
-void Add()
-```
+
+
 
 
 #### Ссылки

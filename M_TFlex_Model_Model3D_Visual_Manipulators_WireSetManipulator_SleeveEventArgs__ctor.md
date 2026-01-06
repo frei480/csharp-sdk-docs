@@ -11,13 +11,8 @@
 ```csharp
 public SleeveEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SleeveEventArgs()
-```
+
+
 
 
 #### Ссылки

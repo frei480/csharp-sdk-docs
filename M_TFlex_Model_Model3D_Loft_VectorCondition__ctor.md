@@ -14,19 +14,8 @@ public VectorCondition(
 	LoftVectorDirection vector
 )
 ```
-```vb
-Public Sub New ( 
-	point As LoftPointOnContour,
-	vector As LoftVectorDirection
-)
-```
-```cpp
-public:
-VectorCondition(
-	LoftPointOnContour^ point, 
-	LoftVectorDirection^ vector
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public void AddActiveSplice(
 	int index
 )
 ```
-```vb
-Public Sub AddActiveSplice ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void AddActiveSplice(
-	int index
-)
-```
+
+
 
 
 #### Параметры

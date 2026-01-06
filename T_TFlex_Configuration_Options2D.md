@@ -11,13 +11,8 @@
 ```csharp
 public class Options2D : SettingsGroup
 ```
-```vb
-Public Class Options2D
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Options2D : public SettingsGroup
-```
+
+
 
 
 Тип Options2D предоставляет следующие члены.

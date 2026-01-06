@@ -13,17 +13,8 @@ public bool Remove(
 	Object3D object
 )
 ```
-```vb
-Public Function Remove ( 
-	object As Object3D
-) As Boolean
-```
-```cpp
-public:
-bool Remove(
-	Object3D^ object
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public string GetMultipleLeaderString(
 	int index
 )
 ```
-```vb
-Public Function GetMultipleLeaderString ( 
-	index As Integer
-) As String
-```
-```cpp
-public:
-String^ GetMultipleLeaderString(
-	int index
-)
-```
+
+
 
 
 #### Параметры

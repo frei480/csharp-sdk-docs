@@ -13,17 +13,8 @@ public void ExportToExcel(
 	RichTextExcelExportOptions options
 )
 ```
-```vb
-Public Sub ExportToExcel ( 
-	options As RichTextExcelExportOptions
-)
-```
-```cpp
-public:
-void ExportToExcel(
-	RichTextExcelExportOptions^ options
-)
-```
+
+
 
 
 #### Параметры

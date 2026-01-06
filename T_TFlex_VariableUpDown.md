@@ -13,13 +13,8 @@
 ```csharp
 public class VariableUpDown : UpDownBase
 ```
-```vb
-Public Class VariableUpDown
-	Inherits UpDownBase
-```
-```cpp
-public ref class VariableUpDown : public UpDownBase
-```
+
+
 
 
 Тип VariableUpDown предоставляет следующие члены.

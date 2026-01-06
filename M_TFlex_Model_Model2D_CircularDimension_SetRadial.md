@@ -17,25 +17,8 @@ public void SetRadial(
 	double offset
 )
 ```
-```vb
-Public Sub SetRadial ( 
-	circle As Object2D,
-	type As RadialDimensionType,
-	fixNode As Node,
-	angle As Double,
-	offset As Double
-)
-```
-```cpp
-public:
-void SetRadial(
-	Object2D^ circle, 
-	RadialDimensionType type, 
-	Node^ fixNode, 
-	double angle, 
-	double offset
-)
-```
+
+
 
 
 #### Параметры

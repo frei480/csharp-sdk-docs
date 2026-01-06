@@ -13,17 +13,8 @@ public void Regenerate(
 	RegenerateOptions options
 )
 ```
-```vb
-Public Sub Regenerate ( 
-	options As RegenerateOptions
-)
-```
-```cpp
-public:
-void Regenerate(
-	RegenerateOptions^ options
-)
-```
+
+
 
 
 #### Параметры

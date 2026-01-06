@@ -11,18 +11,8 @@
 ```csharp
 public HoleBaseFaceMode HoleBaseFaceMode { get; set; }
 ```
-```vb
-Public Property HoleBaseFaceMode As HoleBaseFaceMode
-	Get
-	Set
-```
-```cpp
-public:
-property HoleBaseFaceMode HoleBaseFaceMode {
-	HoleBaseFaceMode get ();
-	void set (HoleBaseFaceMode value);
-}
-```
+
+
 
 
 #### Значение свойства

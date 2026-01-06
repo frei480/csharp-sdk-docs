@@ -14,19 +14,8 @@ public void Remove(
 	Plugin plugin
 )
 ```
-```vb
-Public Sub Remove ( 
-	commandId As Integer,
-	plugin As Plugin
-)
-```
-```cpp
-public:
-void Remove(
-	int commandId, 
-	Plugin^ plugin
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public int Small2DObjectSize { get; set; }
 ```
-```vb
-Public Property Small2DObjectSize As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int Small2DObjectSize {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

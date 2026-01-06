@@ -8,16 +8,8 @@
 ```csharp
 public ReadOnlyCollection<ItemResultNodeProductStructItem> SubItems { get; }
 ```
-```vb
-Public ReadOnly Property SubItems As ReadOnlyCollection(Of ItemResultNodeProductStructItem)
-	Get
-```
-```cpp
-public:
-property ReadOnlyCollection<ItemResultNodeProductStructItem^>^ SubItems {
-	ReadOnlyCollection<ItemResultNodeProductStructItem^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

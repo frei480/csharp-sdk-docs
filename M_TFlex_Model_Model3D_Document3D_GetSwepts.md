@@ -13,19 +13,8 @@ public static ICollection<Swept> GetSwepts(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetSwepts ( 
-	document As Document
-) As ICollection(Of Swept)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Swept^>^ GetSwepts(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

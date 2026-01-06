@@ -11,16 +11,8 @@
 ```csharp
 public static Color Construction { get; }
 ```
-```vb
-Public Shared ReadOnly Property Construction As Color
-	Get
-```
-```cpp
-public:
-static property Color Construction {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

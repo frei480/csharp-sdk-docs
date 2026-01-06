@@ -11,12 +11,8 @@
 ```csharp
 public class RowDescriptorInfo
 ```
-```vb
-Public Class RowDescriptorInfo
-```
-```cpp
-public ref class RowDescriptorInfo
-```
+
+
 
 
 Тип ProductStructureUpdatingEventArgsRowDescriptorInfo предоставляет следующие члены.

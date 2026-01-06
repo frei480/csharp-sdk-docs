@@ -13,13 +13,8 @@
 ```csharp
 public sealed class SurfaceSplinewiseData : IDisposable
 ```
-```vb
-Public NotInheritable Class SurfaceSplinewiseData
-	Implements IDisposable
-```
-```cpp
-public ref class SurfaceSplinewiseData sealed : IDisposable
-```
+
+
 
 
 Тип SurfaceSplinewiseData предоставляет следующие члены.

@@ -13,17 +13,8 @@ public ConstructionDimension(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-ConstructionDimension(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

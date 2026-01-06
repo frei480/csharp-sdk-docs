@@ -13,12 +13,8 @@
 ```csharp
 public class MatrixVector
 ```
-```vb
-Public Class MatrixVector
-```
-```cpp
-public ref class MatrixVector
-```
+
+
 
 
 Тип TransformationMatrixMatrixVector предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public ItemResultNode()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ItemResultNode()
-```
+
+
 
 
 #### Ссылки

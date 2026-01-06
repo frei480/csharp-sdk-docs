@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Application
 ```
-```vb
-Public NotInheritable Class Application
-```
-```cpp
-public ref class Application sealed
-```
+
+
 
 
 Тип Application предоставляет следующие члены.

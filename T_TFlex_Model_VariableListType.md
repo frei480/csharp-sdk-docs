@@ -11,12 +11,8 @@
 ```csharp
 public enum VariableListType
 ```
-```vb
-Public Enumeration VariableListType
-```
-```cpp
-public enum class VariableListType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

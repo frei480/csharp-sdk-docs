@@ -14,20 +14,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'AxisOnWorkplane' method.")]
 public ModelEdge EdgeOnWorkplane { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'AxisOnWorkplane' method.")>
-Public Property EdgeOnWorkplane As ModelEdge
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'AxisOnWorkplane' method.")]
-property ModelEdge^ EdgeOnWorkplane {
-	ModelEdge^ get ();
-	void set (ModelEdge^ value);
-}
-```
+
+
 
 
 #### Значение свойства

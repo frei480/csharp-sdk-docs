@@ -13,20 +13,8 @@ public TermGroupItem this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As Integer
-) As TermGroupItem
-	Get
-	Set
-```
-```cpp
-public:
-virtual property TermGroupItem^ default[int index] {
-	TermGroupItem^ get (int index) sealed;
-	void set (int index, TermGroupItem^ value) sealed;
-}
-```
+
+
 
 
 #### Параметры

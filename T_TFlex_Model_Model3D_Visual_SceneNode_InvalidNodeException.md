@@ -13,13 +13,8 @@
 ```csharp
 public class InvalidNodeException : Exception
 ```
-```vb
-Public Class InvalidNodeException
-	Inherits Exception
-```
-```cpp
-public ref class InvalidNodeException : public Exception
-```
+
+
 
 
 Тип SceneNodeInvalidNodeException предоставляет следующие члены.

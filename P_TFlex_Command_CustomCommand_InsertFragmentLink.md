@@ -8,16 +8,8 @@
 ```csharp
 public FileLink InsertFragmentLink { get; }
 ```
-```vb
-Public ReadOnly Property InsertFragmentLink As FileLink
-	Get
-```
-```cpp
-public:
-property FileLink^ InsertFragmentLink {
-	FileLink^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

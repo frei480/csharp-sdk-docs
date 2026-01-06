@@ -11,18 +11,8 @@
 ```csharp
 public double VisualStep { get; set; }
 ```
-```vb
-Public Property VisualStep As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double VisualStep {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

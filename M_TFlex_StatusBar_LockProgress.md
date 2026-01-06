@@ -11,13 +11,8 @@
 ```csharp
 public void LockProgress()
 ```
-```vb
-Public Sub LockProgress
-```
-```cpp
-public:
-void LockProgress()
-```
+
+
 
 
 #### Ссылки

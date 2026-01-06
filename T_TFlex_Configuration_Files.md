@@ -11,13 +11,8 @@
 ```csharp
 public class Files : SettingsGroup
 ```
-```vb
-Public Class Files
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Files : public SettingsGroup
-```
+
+
 
 
 Тип Files предоставляет следующие члены.

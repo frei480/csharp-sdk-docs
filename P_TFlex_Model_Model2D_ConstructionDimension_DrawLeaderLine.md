@@ -11,18 +11,8 @@
 ```csharp
 public bool DrawLeaderLine { get; set; }
 ```
-```vb
-Public Property DrawLeaderLine As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DrawLeaderLine {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

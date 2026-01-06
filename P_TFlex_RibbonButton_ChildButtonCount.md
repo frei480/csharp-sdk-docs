@@ -11,16 +11,8 @@
 ```csharp
 public int ChildButtonCount { get; }
 ```
-```vb
-Public ReadOnly Property ChildButtonCount As Integer
-	Get
-```
-```cpp
-public:
-property int ChildButtonCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

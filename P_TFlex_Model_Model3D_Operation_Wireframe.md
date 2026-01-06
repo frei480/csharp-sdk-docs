@@ -11,18 +11,8 @@
 ```csharp
 public bool Wireframe { get; set; }
 ```
-```vb
-Public Property Wireframe As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Wireframe {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -12,15 +12,8 @@
 public class SummationRules : ObservableCollection<SummationRule>, 
 	ICloneable
 ```
-```vb
-Public Class SummationRules
-	Inherits ObservableCollection(Of SummationRule)
-	Implements ICloneable
-```
-```cpp
-public ref class SummationRules : public ObservableCollection<SummationRule^>, 
-	ICloneable
-```
+
+
 
 
 Тип SummationRules предоставляет следующие члены.

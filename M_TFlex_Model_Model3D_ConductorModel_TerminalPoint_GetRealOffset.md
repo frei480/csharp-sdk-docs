@@ -10,17 +10,8 @@ public double GetRealOffset(
 	bool fromBasePoint
 )
 ```
-```vb
-Public Function GetRealOffset ( 
-	fromBasePoint As Boolean
-) As Double
-```
-```cpp
-public:
-double GetRealOffset(
-	bool fromBasePoint
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public void RemoveSegment(
 	int indexSegment
 )
 ```
-```vb
-Public Sub RemoveSegment ( 
-	indexSegment As Integer
-)
-```
-```cpp
-public:
-void RemoveSegment(
-	int indexSegment
-)
-```
+
+
 
 
 #### Параметры

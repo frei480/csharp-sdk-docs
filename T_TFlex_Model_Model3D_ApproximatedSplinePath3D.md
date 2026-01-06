@@ -13,13 +13,8 @@
 ```csharp
 public class ApproximatedSplinePath3D : SplinePath3D
 ```
-```vb
-Public Class ApproximatedSplinePath3D
-	Inherits SplinePath3D
-```
-```cpp
-public ref class ApproximatedSplinePath3D : public SplinePath3D
-```
+
+
 
 
 Тип ApproximatedSplinePath3D предоставляет следующие члены.

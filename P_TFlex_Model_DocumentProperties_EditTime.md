@@ -11,16 +11,8 @@
 ```csharp
 public string EditTime { get; }
 ```
-```vb
-Public ReadOnly Property EditTime As String
-	Get
-```
-```cpp
-public:
-property String^ EditTime {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

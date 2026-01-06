@@ -10,17 +10,8 @@ public Conductor GetConductorByIndex(
 	int conductorIndex
 )
 ```
-```vb
-Public Function GetConductorByIndex ( 
-	conductorIndex As Integer
-) As Conductor
-```
-```cpp
-public:
-Conductor^ GetConductorByIndex(
-	int conductorIndex
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool? AutoCheckIn { get; set; }
 ```
-```vb
-Public Property AutoCheckIn As Boolean?
-	Get
-	Set
-```
-```cpp
-public:
-property Nullable<bool> AutoCheckIn {
-	Nullable<bool> get ();
-	void set (Nullable<bool> value);
-}
-```
+
+
 
 
 #### Значение свойства

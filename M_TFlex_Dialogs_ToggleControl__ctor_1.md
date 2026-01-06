@@ -13,17 +13,8 @@ public ToggleControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-ToggleControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

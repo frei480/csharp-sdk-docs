@@ -14,14 +14,8 @@
 public sealed class Scene : IEnumerable, 
 	IDisposable
 ```
-```vb
-Public NotInheritable Class Scene
-	Implements IEnumerable, IDisposable
-```
-```cpp
-public ref class Scene sealed : IEnumerable, 
-	IDisposable
-```
+
+
 
 
 Тип Scene предоставляет следующие члены.

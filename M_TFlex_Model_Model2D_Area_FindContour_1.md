@@ -15,21 +15,8 @@ public bool FindContour(
 	FindAreaContourOptions options
 )
 ```
-```vb
-Public Function FindContour ( 
-	x As Double,
-	y As Double,
-	options As FindAreaContourOptions
-) As Boolean
-```
-```cpp
-public:
-bool FindContour(
-	double x, 
-	double y, 
-	FindAreaContourOptions^ options
-)
-```
+
+
 
 
 #### Параметры

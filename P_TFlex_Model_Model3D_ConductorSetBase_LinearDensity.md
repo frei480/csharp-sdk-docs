@@ -8,18 +8,8 @@
 ```csharp
 public Parameter LinearDensity { get; set; }
 ```
-```vb
-Public Property LinearDensity As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ LinearDensity {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

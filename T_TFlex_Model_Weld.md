@@ -13,13 +13,8 @@
 ```csharp
 public class Weld : ModelObject
 ```
-```vb
-Public Class Weld
-	Inherits ModelObject
-```
-```cpp
-public ref class Weld : public ModelObject
-```
+
+
 
 
 Тип Weld предоставляет следующие члены.

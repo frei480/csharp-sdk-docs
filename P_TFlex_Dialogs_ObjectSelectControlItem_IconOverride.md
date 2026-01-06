@@ -11,18 +11,8 @@
 ```csharp
 public Icon IconOverride { get; set; }
 ```
-```vb
-Public Property IconOverride As Icon
-	Get
-	Set
-```
-```cpp
-public:
-property Icon^ IconOverride {
-	Icon^ get ();
-	void set (Icon^ value);
-}
-```
+
+
 
 
 #### Значение свойства

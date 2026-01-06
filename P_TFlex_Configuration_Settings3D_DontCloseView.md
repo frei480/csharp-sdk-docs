@@ -8,18 +8,8 @@
 ```csharp
 public bool DontCloseView { get; set; }
 ```
-```vb
-Public Property DontCloseView As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DontCloseView {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,21 +15,8 @@ public void SetLeaderNote(
 	double dY
 )
 ```
-```vb
-Public Sub SetLeaderNote ( 
-	Offset1 As Double,
-	dX As Double,
-	dY As Double
-)
-```
-```cpp
-public:
-void SetLeaderNote(
-	double Offset1, 
-	double dX, 
-	double dY
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ protected virtual void AfterUndoActionEventHandler(
 	DocumentEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub AfterUndoActionEventHandler ( 
-	args As DocumentEventArgs
-)
-```
-```cpp
-protected:
-virtual void AfterUndoActionEventHandler(
-	DocumentEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

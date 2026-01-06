@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Kilowatt { get; }
 ```
-```vb
-Public Shared ReadOnly Property Kilowatt As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Kilowatt {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

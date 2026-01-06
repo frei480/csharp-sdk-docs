@@ -16,23 +16,8 @@ public void AddFilter(
 	string group
 )
 ```
-```vb
-Public Sub AddFilter ( 
-	filter As String,
-	filterID As Integer,
-	description As String,
-	group As String
-)
-```
-```cpp
-public:
-void AddFilter(
-	String^ filter, 
-	int filterID, 
-	String^ description, 
-	String^ group
-)
-```
+
+
 
 
 #### Параметры

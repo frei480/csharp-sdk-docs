@@ -11,13 +11,8 @@
 ```csharp
 public class ParametersPropertiesOverrides : ICloneable
 ```
-```vb
-Public Class ParametersPropertiesOverrides
-	Implements ICloneable
-```
-```cpp
-public ref class ParametersPropertiesOverrides : ICloneable
-```
+
+
 
 
 Тип ParametersPropertiesOverrides предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public bool Maximized { get; set; }
 ```
-```vb
-Public Property Maximized As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Maximized {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

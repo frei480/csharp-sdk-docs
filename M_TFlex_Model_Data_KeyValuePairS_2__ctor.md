@@ -11,13 +11,8 @@
 ```csharp
 public KeyValuePairS()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-KeyValuePairS()
-```
+
+
 
 
 #### Ссылки

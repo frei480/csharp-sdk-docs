@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<AutocompleteFillingEventArgs> AutocompleteFilling
 ```
-```vb
-Public Event AutocompleteFilling As EventHandler(Of AutocompleteFillingEventArgs)
-```
-```cpp
-public:
- event EventHandler<AutocompleteFillingEventArgs^>^ AutocompleteFilling {
-	void add (EventHandler<AutocompleteFillingEventArgs^>^ value);
-	void remove (EventHandler<AutocompleteFillingEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

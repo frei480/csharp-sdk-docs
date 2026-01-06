@@ -11,16 +11,8 @@
 ```csharp
 public ValueListItemType Type { get; }
 ```
-```vb
-Public ReadOnly Property Type As ValueListItemType
-	Get
-```
-```cpp
-public:
-property ValueListItemType Type {
-	ValueListItemType get ();
-}
-```
+
+
 
 
 #### Значение свойства

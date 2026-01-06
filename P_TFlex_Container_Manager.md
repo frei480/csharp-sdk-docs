@@ -11,16 +11,8 @@
 ```csharp
 public static Container Manager { get; }
 ```
-```vb
-Public Shared ReadOnly Property Manager As Container
-	Get
-```
-```cpp
-public:
-static property Container^ Manager {
-	Container^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

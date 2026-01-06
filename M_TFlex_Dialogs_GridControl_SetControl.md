@@ -15,21 +15,8 @@ public void SetControl(
 	BaseControl control
 )
 ```
-```vb
-Public Sub SetControl ( 
-	row As Integer,
-	column As Integer,
-	control As BaseControl
-)
-```
-```cpp
-public:
-void SetControl(
-	int row, 
-	int column, 
-	BaseControl^ control
-)
-```
+
+
 
 
 #### Параметры

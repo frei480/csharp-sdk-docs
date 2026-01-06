@@ -13,12 +13,8 @@
 ```csharp
 public class TransformationMatrix
 ```
-```vb
-Public Class TransformationMatrix
-```
-```cpp
-public ref class TransformationMatrix
-```
+
+
 
 
 Тип TransformationMatrix предоставляет следующие члены.

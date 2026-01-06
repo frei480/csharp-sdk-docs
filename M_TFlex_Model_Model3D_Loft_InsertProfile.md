@@ -14,19 +14,8 @@ public void InsertProfile(
 	ModelContour contour
 )
 ```
-```vb
-Public Sub InsertProfile ( 
-	profileIndex As Integer,
-	contour As ModelContour
-)
-```
-```cpp
-public:
-void InsertProfile(
-	int profileIndex, 
-	ModelContour^ contour
-)
-```
+
+
 
 
 #### Параметры

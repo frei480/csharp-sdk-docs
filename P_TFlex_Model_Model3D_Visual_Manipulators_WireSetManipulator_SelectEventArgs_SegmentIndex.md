@@ -8,18 +8,8 @@
 ```csharp
 public int SegmentIndex { get; set; }
 ```
-```vb
-Public Property SegmentIndex As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SegmentIndex {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

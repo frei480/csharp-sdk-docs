@@ -11,12 +11,8 @@
 ```csharp
 public enum AttributeType
 ```
-```vb
-Public Enumeration AttributeType
-```
-```cpp
-public enum class AttributeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

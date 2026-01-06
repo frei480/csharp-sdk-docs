@@ -8,16 +8,8 @@
 ```csharp
 public List<Point3D> Points { get; }
 ```
-```vb
-Public ReadOnly Property Points As List(Of Point3D)
-	Get
-```
-```cpp
-public:
-property List<Point3D^>^ Points {
-	List<Point3D^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

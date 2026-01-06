@@ -13,12 +13,8 @@
 ```csharp
 public sealed class AngularAcceleration
 ```
-```vb
-Public NotInheritable Class AngularAcceleration
-```
-```cpp
-public ref class AngularAcceleration sealed
-```
+
+
 
 
 Тип StandardUnitsAngularAcceleration предоставляет следующие члены.

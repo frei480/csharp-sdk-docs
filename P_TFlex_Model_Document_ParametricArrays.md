@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetParametricArrays' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer ParametricArrays { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetParametricArrays' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property ParametricArrays As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetParametricArrays' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ ParametricArrays {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

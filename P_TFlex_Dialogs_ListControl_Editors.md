@@ -8,16 +8,8 @@
 ```csharp
 public ListControlEditorCollection Editors { get; }
 ```
-```vb
-Public ReadOnly Property Editors As ListControlEditorCollection
-	Get
-```
-```cpp
-public:
-property ListControlEditorCollection^ Editors {
-	ListControlEditorCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

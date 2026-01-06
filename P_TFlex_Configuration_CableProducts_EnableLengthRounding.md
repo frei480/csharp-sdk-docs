@@ -8,18 +8,8 @@
 ```csharp
 public bool EnableLengthRounding { get; set; }
 ```
-```vb
-Public Property EnableLengthRounding As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool EnableLengthRounding {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

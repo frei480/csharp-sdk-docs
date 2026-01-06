@@ -11,16 +11,8 @@
 ```csharp
 public ImportFromACAD ImportFromACAD { get; }
 ```
-```vb
-Public ReadOnly Property ImportFromACAD As ImportFromACAD
-	Get
-```
-```cpp
-public:
-property ImportFromACAD^ ImportFromACAD {
-	ImportFromACAD^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

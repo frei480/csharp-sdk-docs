@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetSews' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer Sews { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetSews' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property Sews As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetSews' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ Sews {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool Coaxial { get; set; }
 ```
-```vb
-Public Property Coaxial As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Coaxial {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

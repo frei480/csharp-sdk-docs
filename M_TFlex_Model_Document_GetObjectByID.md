@@ -13,17 +13,8 @@ public ModelObject GetObjectById(
 	ObjectId id
 )
 ```
-```vb
-Public Function GetObjectById ( 
-	id As ObjectId
-) As ModelObject
-```
-```cpp
-public:
-ModelObject^ GetObjectById(
-	ObjectId^ id
-)
-```
+
+
 
 
 #### Параметры

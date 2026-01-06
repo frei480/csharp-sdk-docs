@@ -8,13 +8,8 @@
 ```csharp
 public Node GetOrCreateModelNode()
 ```
-```vb
-Public Function GetOrCreateModelNode As Node
-```
-```cpp
-public:
-Node^ GetOrCreateModelNode()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,16 +13,8 @@
 ```csharp
 public static Unit MilesPerHour { get; }
 ```
-```vb
-Public Shared ReadOnly Property MilesPerHour As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ MilesPerHour {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

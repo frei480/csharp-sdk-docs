@@ -11,13 +11,8 @@
 ```csharp
 public class PointOnPathManipulator : Manipulator
 ```
-```vb
-Public Class PointOnPathManipulator
-	Inherits Manipulator
-```
-```cpp
-public ref class PointOnPathManipulator : public Manipulator
-```
+
+
 
 
 Тип PointOnPathManipulator предоставляет следующие члены.

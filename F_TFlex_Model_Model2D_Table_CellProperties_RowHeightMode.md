@@ -11,13 +11,8 @@
 ```csharp
 public SizeMode RowHeightMode
 ```
-```vb
-Public RowHeightMode As SizeMode
-```
-```cpp
-public:
-SizeMode RowHeightMode
-```
+
+
 
 
 #### Значение поля

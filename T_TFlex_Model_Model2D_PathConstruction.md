@@ -13,13 +13,8 @@
 ```csharp
 public class PathConstruction : Construction
 ```
-```vb
-Public Class PathConstruction
-	Inherits Construction
-```
-```cpp
-public ref class PathConstruction : public Construction
-```
+
+
 
 
 Тип PathConstruction предоставляет следующие члены.

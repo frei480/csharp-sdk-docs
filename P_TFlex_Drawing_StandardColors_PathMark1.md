@@ -11,16 +11,8 @@
 ```csharp
 public static Color PathMark1 { get; }
 ```
-```vb
-Public Shared ReadOnly Property PathMark1 As Color
-	Get
-```
-```cpp
-public:
-static property Color PathMark1 {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

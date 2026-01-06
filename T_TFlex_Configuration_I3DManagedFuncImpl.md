@@ -11,12 +11,8 @@
 ```csharp
 public interface I3DManagedFuncImpl
 ```
-```vb
-Public Interface I3DManagedFuncImpl
-```
-```cpp
-public interface class I3DManagedFuncImpl
-```
+
+
 
 
 Тип I3DManagedFuncImpl предоставляет следующие члены.

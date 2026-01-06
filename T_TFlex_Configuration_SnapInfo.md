@@ -11,13 +11,8 @@
 ```csharp
 public class SnapInfo : SettingsGroup
 ```
-```vb
-Public Class SnapInfo
-	Inherits SettingsGroup
-```
-```cpp
-public ref class SnapInfo : public SettingsGroup
-```
+
+
 
 
 Тип SnapInfo предоставляет следующие члены.

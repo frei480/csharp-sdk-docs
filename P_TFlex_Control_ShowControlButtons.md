@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool ShowControlButtons { get; set; }
 ```
-```vb
-Public Overridable Property ShowControlButtons As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool ShowControlButtons {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

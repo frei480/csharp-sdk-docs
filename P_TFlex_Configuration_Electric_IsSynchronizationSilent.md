@@ -8,18 +8,8 @@
 ```csharp
 public bool IsSynchronizationSilent { get; set; }
 ```
-```vb
-Public Property IsSynchronizationSilent As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsSynchronizationSilent {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ModelPlane : BasePlane
 ```
-```vb
-Public NotInheritable Class ModelPlane
-	Inherits BasePlane
-```
-```cpp
-public ref class ModelPlane sealed : public BasePlane
-```
+
+
 
 
 Тип ModelPlane предоставляет следующие члены.

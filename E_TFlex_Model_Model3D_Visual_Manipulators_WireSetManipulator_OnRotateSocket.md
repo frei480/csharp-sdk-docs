@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<WireSetManipulatorRotateSocketEventArgs> OnRotateSocket
 ```
-```vb
-Public Event OnRotateSocket As EventHandler(Of WireSetManipulatorRotateSocketEventArgs)
-```
-```cpp
-public:
- event EventHandler<WireSetManipulatorRotateSocketEventArgs^>^ OnRotateSocket {
-	void add (EventHandler<WireSetManipulatorRotateSocketEventArgs^>^ value);
-	void remove (EventHandler<WireSetManipulatorRotateSocketEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

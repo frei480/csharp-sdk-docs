@@ -11,13 +11,8 @@
 ```csharp
 public RunResultEntry Add()
 ```
-```vb
-Public Function Add As RunResultEntry
-```
-```cpp
-public:
-RunResultEntry^ Add()
-```
+
+
 
 
 #### Возвращаемое значение

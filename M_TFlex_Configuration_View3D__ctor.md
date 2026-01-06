@@ -11,13 +11,8 @@
 ```csharp
 public View3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-View3D()
-```
+
+
 
 
 #### Ссылки

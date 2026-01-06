@@ -16,20 +16,8 @@ public RibbonTab this[
 	get;
  }
 ```
-```vb
-Public ReadOnly Property Tab ( 
-	i As Integer
-) As RibbonTab
-	<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetTab' method.")>
-	Get
-```
-```cpp
-public:
-property RibbonTab^ Tab[int i] {
-	[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetTab' method.")]
-	RibbonTab^ get (int i);
-}
-```
+
+
 
 
 #### Параметры

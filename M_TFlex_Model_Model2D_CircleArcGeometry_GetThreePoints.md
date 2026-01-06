@@ -18,27 +18,8 @@ public void GetThreePoints(
 	ref double ye
 )
 ```
-```vb
-Public Sub GetThreePoints ( 
-	ByRef xb As Double,
-	ByRef yb As Double,
-	ByRef xm As Double,
-	ByRef ym As Double,
-	ByRef xe As Double,
-	ByRef ye As Double
-)
-```
-```cpp
-public:
-void GetThreePoints(
-	double% xb, 
-	double% yb, 
-	double% xm, 
-	double% ym, 
-	double% xe, 
-	double% ye
-)
-```
+
+
 
 
 #### Параметры

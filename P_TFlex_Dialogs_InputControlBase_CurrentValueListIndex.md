@@ -11,18 +11,8 @@
 ```csharp
 public int CurrentValueListIndex { get; set; }
 ```
-```vb
-Public Property CurrentValueListIndex As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int CurrentValueListIndex {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

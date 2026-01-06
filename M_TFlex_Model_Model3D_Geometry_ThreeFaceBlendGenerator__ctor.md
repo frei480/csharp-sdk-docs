@@ -18,27 +18,8 @@ public ThreeFaceBlendGenerator(
 	bool propagateBlend
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	body As Body,
-	leftSense As SenseOfFace,
-	centerSense As SenseOfFace,
-	rightSense As SenseOfFace,
-	propagateBlend As Boolean
-)
-```
-```cpp
-public:
-ThreeFaceBlendGenerator(
-	ProxyObject3D^ object, 
-	Body^ body, 
-	SenseOfFace leftSense, 
-	SenseOfFace centerSense, 
-	SenseOfFace rightSense, 
-	bool propagateBlend
-)
-```
+
+
 
 
 #### Параметры

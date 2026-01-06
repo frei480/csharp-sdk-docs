@@ -11,13 +11,8 @@
 ```csharp
 public ConditionalGroupingRule()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ConditionalGroupingRule()
-```
+
+
 
 
 #### Ссылки

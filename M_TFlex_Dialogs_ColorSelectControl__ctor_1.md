@@ -13,17 +13,8 @@ public ColorSelectControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-ColorSelectControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

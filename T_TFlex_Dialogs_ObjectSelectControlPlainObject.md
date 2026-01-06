@@ -13,12 +13,8 @@
 ```csharp
 public struct ObjectSelectControlPlainObject
 ```
-```vb
-Public Structure ObjectSelectControlPlainObject
-```
-```cpp
-public value class ObjectSelectControlPlainObject
-```
+
+
 
 
 Тип ObjectSelectControlPlainObject предоставляет следующие члены.

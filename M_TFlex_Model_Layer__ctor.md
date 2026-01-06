@@ -13,17 +13,8 @@ public Layer(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-Layer(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

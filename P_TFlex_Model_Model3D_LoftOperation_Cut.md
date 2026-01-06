@@ -11,18 +11,8 @@
 ```csharp
 public LoftOperationLoftCutType Cut { get; set; }
 ```
-```vb
-Public Property Cut As LoftOperationLoftCutType
-	Get
-	Set
-```
-```cpp
-public:
-property LoftOperationLoftCutType Cut {
-	LoftOperationLoftCutType get ();
-	void set (LoftOperationLoftCutType value);
-}
-```
+
+
 
 
 #### Значение свойства

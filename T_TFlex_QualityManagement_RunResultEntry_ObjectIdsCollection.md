@@ -11,13 +11,8 @@
 ```csharp
 public class ObjectIdsCollection : IEnumerable<ObjectId>
 ```
-```vb
-Public Class ObjectIdsCollection
-	Implements IEnumerable(Of ObjectId)
-```
-```cpp
-public ref class ObjectIdsCollection : IEnumerable<ObjectId^>
-```
+
+
 
 
 Тип RunResultEntryObjectIdsCollection предоставляет следующие члены.

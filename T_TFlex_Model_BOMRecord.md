@@ -13,12 +13,8 @@
 ```csharp
 public sealed class BOMRecord
 ```
-```vb
-Public NotInheritable Class BOMRecord
-```
-```cpp
-public ref class BOMRecord sealed
-```
+
+
 
 
 Тип BOMRecord предоставляет следующие члены.

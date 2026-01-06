@@ -13,13 +13,8 @@
 ```csharp
 public class PathBy2DElems : Path3D
 ```
-```vb
-Public Class PathBy2DElems
-	Inherits Path3D
-```
-```cpp
-public ref class PathBy2DElems : public Path3D
-```
+
+
 
 
 Тип PathBy2DElems предоставляет следующие члены.

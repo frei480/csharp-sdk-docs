@@ -13,17 +13,8 @@ public void SetHint(
 	string hint
 )
 ```
-```vb
-Public Sub SetHint ( 
-	hint As String
-)
-```
-```cpp
-public:
-void SetHint(
-	String^ hint
-)
-```
+
+
 
 
 #### Параметры

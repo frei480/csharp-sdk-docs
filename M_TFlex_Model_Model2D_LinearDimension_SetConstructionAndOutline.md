@@ -16,23 +16,8 @@ public void SetConstructionAndOutline(
 	bool isOnEnd2
 )
 ```
-```vb
-Public Sub SetConstructionAndOutline ( 
-	line1 As Construction,
-	node1 As Node,
-	line2 As Outline,
-	isOnEnd2 As Boolean
-)
-```
-```cpp
-public:
-void SetConstructionAndOutline(
-	Construction^ line1, 
-	Node^ node1, 
-	Outline^ line2, 
-	bool isOnEnd2
-)
-```
+
+
 
 
 #### Параметры

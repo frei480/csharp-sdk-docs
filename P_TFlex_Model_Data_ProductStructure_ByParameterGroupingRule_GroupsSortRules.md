@@ -8,18 +8,8 @@
 ```csharp
 public ObservableCollection<SortRuleItem> GroupsSortRules { get; set; }
 ```
-```vb
-Public Property GroupsSortRules As ObservableCollection(Of SortRuleItem)
-	Get
-	Set
-```
-```cpp
-public:
-property ObservableCollection<SortRuleItem^>^ GroupsSortRules {
-	ObservableCollection<SortRuleItem^>^ get ();
-	void set (ObservableCollection<SortRuleItem^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

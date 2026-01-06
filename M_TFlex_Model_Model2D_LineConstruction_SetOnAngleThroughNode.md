@@ -14,19 +14,8 @@ public void SetOnAngleThroughNode(
 	Parameter angle
 )
 ```
-```vb
-Public Sub SetOnAngleThroughNode ( 
-	srcNode As Node,
-	angle As Parameter
-)
-```
-```cpp
-public:
-void SetOnAngleThroughNode(
-	Node^ srcNode, 
-	Parameter^ angle
-)
-```
+
+
 
 
 #### Параметры

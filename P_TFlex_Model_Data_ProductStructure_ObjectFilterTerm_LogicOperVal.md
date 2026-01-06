@@ -8,18 +8,8 @@
 ```csharp
 public LogicOper LogicOperVal { get; set; }
 ```
-```vb
-Public Property LogicOperVal As LogicOper
-	Get
-	Set
-```
-```cpp
-public:
-property LogicOper LogicOperVal {
-	LogicOper get ();
-	void set (LogicOper value);
-}
-```
+
+
 
 
 #### Значение свойства

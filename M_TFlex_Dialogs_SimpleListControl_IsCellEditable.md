@@ -11,19 +11,8 @@ public bool IsCellEditable(
 	int column
 )
 ```
-```vb
-Public Function IsCellEditable ( 
-	row As Integer,
-	column As Integer
-) As Boolean
-```
-```cpp
-public:
-bool IsCellEditable(
-	int row, 
-	int column
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum CoordinatSystemType
 ```
-```vb
-Public Enumeration CoordinatSystemType
-```
-```cpp
-public enum class CoordinatSystemType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

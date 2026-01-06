@@ -14,19 +14,8 @@ public void SetThroughNodes(
 	Node srcNode2
 )
 ```
-```vb
-Public Sub SetThroughNodes ( 
-	srcNode1 As Node,
-	srcNode2 As Node
-)
-```
-```cpp
-public:
-void SetThroughNodes(
-	Node^ srcNode1, 
-	Node^ srcNode2
-)
-```
+
+
 
 
 #### Параметры

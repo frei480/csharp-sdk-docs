@@ -13,13 +13,8 @@
 ```csharp
 public class PathControl : CompoundStringControl
 ```
-```vb
-Public Class PathControl
-	Inherits CompoundStringControl
-```
-```cpp
-public ref class PathControl : public CompoundStringControl
-```
+
+
 
 
 Тип PathControl предоставляет следующие члены.

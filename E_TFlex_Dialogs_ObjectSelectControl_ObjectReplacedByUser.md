@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<ObjectSelectControlReplaceObjectEventArgs> ObjectReplacedByUser
 ```
-```vb
-Public Event ObjectReplacedByUser As EventHandler(Of ObjectSelectControlReplaceObjectEventArgs)
-```
-```cpp
-public:
- event EventHandler<ObjectSelectControlReplaceObjectEventArgs^>^ ObjectReplacedByUser {
-	void add (EventHandler<ObjectSelectControlReplaceObjectEventArgs^>^ value);
-	void remove (EventHandler<ObjectSelectControlReplaceObjectEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

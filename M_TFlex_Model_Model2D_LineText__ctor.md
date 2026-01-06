@@ -13,17 +13,8 @@ public LineText(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-LineText(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

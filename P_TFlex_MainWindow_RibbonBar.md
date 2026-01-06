@@ -11,16 +11,8 @@
 ```csharp
 public RibbonBar RibbonBar { get; }
 ```
-```vb
-Public ReadOnly Property RibbonBar As RibbonBar
-	Get
-```
-```cpp
-public:
-property RibbonBar^ RibbonBar {
-	RibbonBar^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

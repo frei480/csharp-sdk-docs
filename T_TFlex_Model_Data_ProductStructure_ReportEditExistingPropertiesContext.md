@@ -11,13 +11,8 @@
 ```csharp
 public class ReportEditExistingPropertiesContext : ReportEditPropertiesContext
 ```
-```vb
-Public Class ReportEditExistingPropertiesContext
-	Inherits ReportEditPropertiesContext
-```
-```cpp
-public ref class ReportEditExistingPropertiesContext : public ReportEditPropertiesContext
-```
+
+
 
 
 Тип ReportEditExistingPropertiesContext предоставляет следующие члены.

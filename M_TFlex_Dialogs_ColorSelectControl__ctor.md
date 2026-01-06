@@ -11,13 +11,8 @@
 ```csharp
 public ColorSelectControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ColorSelectControl()
-```
+
+
 
 
 #### Ссылки

@@ -11,16 +11,8 @@
 ```csharp
 public Object PdmNomenclatureObject { get; }
 ```
-```vb
-Public ReadOnly Property PdmNomenclatureObject As Object
-	Get
-```
-```cpp
-public:
-property Object^ PdmNomenclatureObject {
-	Object^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

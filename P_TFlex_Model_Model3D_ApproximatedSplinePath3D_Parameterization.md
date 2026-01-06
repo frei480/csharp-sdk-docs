@@ -11,18 +11,8 @@
 ```csharp
 public ApproximatedSplinePath3DParameterizationType Parameterization { get; set; }
 ```
-```vb
-Public Property Parameterization As ApproximatedSplinePath3DParameterizationType
-	Get
-	Set
-```
-```cpp
-public:
-property ApproximatedSplinePath3DParameterizationType Parameterization {
-	ApproximatedSplinePath3DParameterizationType get ();
-	void set (ApproximatedSplinePath3DParameterizationType value);
-}
-```
+
+
 
 
 #### Значение свойства

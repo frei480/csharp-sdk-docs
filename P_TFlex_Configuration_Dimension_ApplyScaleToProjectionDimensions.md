@@ -8,18 +8,8 @@
 ```csharp
 public bool ApplyScaleToProjectionDimensions { get; set; }
 ```
-```vb
-Public Property ApplyScaleToProjectionDimensions As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ApplyScaleToProjectionDimensions {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

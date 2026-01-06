@@ -12,23 +12,8 @@ public static Object3D GetObjectFromFragment(
 	ICollection<ObjectId> subFragmentPath
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetObjectFromFragment ( 
-	fragment3D As Fragment3D,
-	name As String,
-	subFragmentPath As ICollection(Of ObjectId)
-) As Object3D
-```
-```cpp
-public:
-[ExtensionAttribute]
-static Object3D^ GetObjectFromFragment(
-	Fragment3D^ fragment3D, 
-	String^ name, 
-	ICollection<ObjectId^>^ subFragmentPath
-)
-```
+
+
 
 
 #### Параметры

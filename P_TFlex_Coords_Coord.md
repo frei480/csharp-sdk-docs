@@ -13,18 +13,8 @@ public double this[
 	int coord
 ] { get; }
 ```
-```vb
-Public ReadOnly Property Coord ( 
-	coord As Integer
-) As Double
-	Get
-```
-```cpp
-public:
-property double Coord[int coord] {
-	double get (int coord);
-}
-```
+
+
 
 
 #### Параметры

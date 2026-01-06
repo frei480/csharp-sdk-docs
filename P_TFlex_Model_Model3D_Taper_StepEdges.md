@@ -11,18 +11,8 @@
 ```csharp
 public TaperStepEdgesType StepEdges { get; set; }
 ```
-```vb
-Public Property StepEdges As TaperStepEdgesType
-	Get
-	Set
-```
-```cpp
-public:
-property TaperStepEdgesType StepEdges {
-	TaperStepEdgesType get ();
-	void set (TaperStepEdgesType value);
-}
-```
+
+
 
 
 #### Значение свойства

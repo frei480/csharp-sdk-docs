@@ -8,18 +8,8 @@
 ```csharp
 public int ServiceActive3D { get; set; }
 ```
-```vb
-Public Property ServiceActive3D As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ServiceActive3D {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

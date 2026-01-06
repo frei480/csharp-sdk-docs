@@ -13,17 +13,8 @@ public void SetText(
 	string name
 )
 ```
-```vb
-Public Sub SetText ( 
-	name As String
-)
-```
-```cpp
-public:
-void SetText(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

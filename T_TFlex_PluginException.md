@@ -13,13 +13,8 @@
 ```csharp
 public class PluginException : Exception
 ```
-```vb
-Public Class PluginException
-	Inherits Exception
-```
-```cpp
-public ref class PluginException : public Exception
-```
+
+
 
 
 Тип PluginException предоставляет следующие члены.

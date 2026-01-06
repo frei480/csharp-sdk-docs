@@ -8,18 +8,8 @@
 ```csharp
 public OrientationCoordinatesType OrientationCoordinates { get; set; }
 ```
-```vb
-Public Property OrientationCoordinates As OrientationCoordinatesType
-	Get
-	Set
-```
-```cpp
-public:
-property OrientationCoordinatesType OrientationCoordinates {
-	OrientationCoordinatesType get ();
-	void set (OrientationCoordinatesType value);
-}
-```
+
+
 
 
 #### Значение свойства

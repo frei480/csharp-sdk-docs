@@ -8,16 +8,8 @@
 ```csharp
 public SocketInfo Socket { get; }
 ```
-```vb
-Public ReadOnly Property Socket As SocketInfo
-	Get
-```
-```cpp
-public:
-property SocketInfo^ Socket {
-	SocketInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

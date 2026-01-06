@@ -8,16 +8,8 @@
 ```csharp
 public double ParamOnSecondTrack { get; }
 ```
-```vb
-Public ReadOnly Property ParamOnSecondTrack As Double
-	Get
-```
-```cpp
-public:
-property double ParamOnSecondTrack {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

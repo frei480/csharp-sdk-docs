@@ -16,23 +16,8 @@ public RotateGenerator(
 	double angle
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	axis As BaseAxis,
-	profile As Body,
-	angle As Double
-)
-```
-```cpp
-public:
-RotateGenerator(
-	ProxyObject3D^ object, 
-	BaseAxis^ axis, 
-	Body^ profile, 
-	double angle
-)
-```
+
+
 
 
 #### Параметры

@@ -14,14 +14,8 @@
 public class CurveData : IEnumerator, IEnumerable, 
 	IDisposable
 ```
-```vb
-Public Class CurveData
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class CurveData : IEnumerator, 
-	IEnumerable, IDisposable
-```
+
+
 
 
 Тип IntersectSurfaceDataCurveData предоставляет следующие члены.

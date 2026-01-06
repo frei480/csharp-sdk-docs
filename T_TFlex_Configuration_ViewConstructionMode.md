@@ -8,12 +8,8 @@
 ```csharp
 public enum ViewConstructionMode
 ```
-```vb
-Public Enumeration ViewConstructionMode
-```
-```cpp
-public enum class ViewConstructionMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

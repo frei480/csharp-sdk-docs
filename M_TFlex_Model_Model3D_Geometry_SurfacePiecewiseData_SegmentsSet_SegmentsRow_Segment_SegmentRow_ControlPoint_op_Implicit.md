@@ -10,16 +10,8 @@ public static implicit operator SurfacePiecewiseDataSegmentsSetSegmentsRowSegmen
 	BasePoint3D point
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	point As BasePoint3D
-) As SurfacePiecewiseDataSegmentsSetSegmentsRowSegmentSegmentRowControlPoint
-```
-```cpp
-static implicit operator SurfacePiecewiseDataSegmentsSetSegmentsRowSegmentSegmentRowControlPoint^ (
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

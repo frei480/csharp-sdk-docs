@@ -13,17 +13,8 @@ public void SetPath(
 	Wire wire
 )
 ```
-```vb
-Public Sub SetPath ( 
-	wire As Wire
-)
-```
-```cpp
-public:
-void SetPath(
-	Wire^ wire
-)
-```
+
+
 
 
 #### Параметры

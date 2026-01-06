@@ -11,13 +11,8 @@
 ```csharp
 public void DeleteAllAttributes()
 ```
-```vb
-Public Sub DeleteAllAttributes
-```
-```cpp
-public:
-void DeleteAllAttributes()
-```
+
+
 
 
 #### Ссылки

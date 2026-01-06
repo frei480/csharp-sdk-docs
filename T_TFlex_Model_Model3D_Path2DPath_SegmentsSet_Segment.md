@@ -13,13 +13,8 @@
 ```csharp
 public class Segment : ICloneable
 ```
-```vb
-Public Class Segment
-	Implements ICloneable
-```
-```cpp
-public ref class Segment : ICloneable
-```
+
+
 
 
 Тип Path2DPathSegmentsSetSegment предоставляет следующие члены.

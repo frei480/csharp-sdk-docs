@@ -11,18 +11,8 @@
 ```csharp
 public Parameter SectionIsolineAngle { get; set; }
 ```
-```vb
-Public Property SectionIsolineAngle As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ SectionIsolineAngle {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

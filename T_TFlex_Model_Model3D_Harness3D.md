@@ -13,13 +13,8 @@
 ```csharp
 public class Harness3D : BaseHarness3D
 ```
-```vb
-Public Class Harness3D
-	Inherits BaseHarness3D
-```
-```cpp
-public ref class Harness3D : public BaseHarness3D
-```
+
+
 
 
 Тип Harness3D предоставляет следующие члены.

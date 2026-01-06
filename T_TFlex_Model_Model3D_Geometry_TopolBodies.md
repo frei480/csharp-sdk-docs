@@ -13,13 +13,8 @@
 ```csharp
 public abstract class TopolBodies : Bodies
 ```
-```vb
-Public MustInherit Class TopolBodies
-	Inherits Bodies
-```
-```cpp
-public ref class TopolBodies abstract : public Bodies
-```
+
+
 
 
 Тип TopolBodies предоставляет следующие члены.

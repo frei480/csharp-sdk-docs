@@ -14,19 +14,8 @@ public void ToLCS(
 	ref double y
 )
 ```
-```vb
-Public Sub ToLCS ( 
-	ByRef x As Double,
-	ByRef y As Double
-)
-```
-```cpp
-public:
-void ToLCS(
-	double% x, 
-	double% y
-)
-```
+
+
 
 
 #### Параметры

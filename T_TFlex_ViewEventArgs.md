@@ -13,13 +13,8 @@
 ```csharp
 public class ViewEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class ViewEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class ViewEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип ViewEventArgs предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public abstract class IParameterDataGenerator : ICloneable
 ```
-```vb
-Public MustInherit Class IParameterDataGenerator
-	Implements ICloneable
-```
-```cpp
-public ref class IParameterDataGenerator abstract : ICloneable
-```
+
+
 
 
 Тип IParameterDataGenerator предоставляет следующие члены.

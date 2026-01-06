@@ -14,19 +14,8 @@ public CustomOrderPropertyAttribute(
 	CustomOrderPropertyAttributeUsageContextEnum usageContext
 )
 ```
-```vb
-Public Sub New ( 
-	order As Integer,
-	usageContext As CustomOrderPropertyAttributeUsageContextEnum
-)
-```
-```cpp
-public:
-CustomOrderPropertyAttribute(
-	int order, 
-	CustomOrderPropertyAttributeUsageContextEnum usageContext
-)
-```
+
+
 
 
 #### Параметры

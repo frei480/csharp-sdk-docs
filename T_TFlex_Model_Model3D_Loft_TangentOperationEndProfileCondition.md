@@ -13,13 +13,8 @@
 ```csharp
 public class TangentOperationEndProfileCondition : LoftEndProfileCondition
 ```
-```vb
-Public Class TangentOperationEndProfileCondition
-	Inherits LoftEndProfileCondition
-```
-```cpp
-public ref class TangentOperationEndProfileCondition : public LoftEndProfileCondition
-```
+
+
 
 
 Тип LoftTangentOperationEndProfileCondition предоставляет следующие члены.

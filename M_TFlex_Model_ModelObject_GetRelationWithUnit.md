@@ -11,19 +11,8 @@ public RealProperty GetRelationWithUnit(
 	string relationName
 )
 ```
-```vb
-Public Function GetRelationWithUnit ( 
-	other As ModelObject,
-	relationName As String
-) As RealProperty
-```
-```cpp
-public:
-RealProperty^ GetRelationWithUnit(
-	ModelObject^ other, 
-	String^ relationName
-)
-```
+
+
 
 
 #### Параметры

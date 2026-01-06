@@ -14,19 +14,8 @@ public void InsertRows(
 	int count
 )
 ```
-```vb
-Public Sub InsertRows ( 
-	pos As Integer,
-	count As Integer
-)
-```
-```cpp
-public:
-void InsertRows(
-	int pos, 
-	int count
-)
-```
+
+
 
 
 #### Параметры

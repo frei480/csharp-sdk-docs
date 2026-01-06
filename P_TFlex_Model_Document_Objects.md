@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetObjects' method.")]
 public ObjectEnumerator Objects { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetObjects' method.")>
-Public ReadOnly Property Objects As ObjectEnumerator
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetObjects' method.")]
-property ObjectEnumerator^ Objects {
-	ObjectEnumerator^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

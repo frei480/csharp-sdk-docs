@@ -13,17 +13,8 @@ protected virtual void Write(
 	Stream stream
 )
 ```
-```vb
-Protected Overridable Sub Write ( 
-	stream As Stream
-)
-```
-```cpp
-protected:
-virtual void Write(
-	Stream^ stream
-)
-```
+
+
 
 
 #### Параметры

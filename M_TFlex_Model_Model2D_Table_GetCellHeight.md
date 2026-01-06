@@ -13,17 +13,8 @@ public double GetCellHeight(
 	uint cell
 )
 ```
-```vb
-Public Function GetCellHeight ( 
-	cell As UInteger
-) As Double
-```
-```cpp
-public:
-double GetCellHeight(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

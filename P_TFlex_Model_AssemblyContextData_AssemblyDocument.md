@@ -11,16 +11,8 @@
 ```csharp
 public Document AssemblyDocument { get; }
 ```
-```vb
-Public ReadOnly Property AssemblyDocument As Document
-	Get
-```
-```cpp
-public:
-property Document^ AssemblyDocument {
-	Document^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

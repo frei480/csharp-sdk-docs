@@ -11,18 +11,8 @@
 ```csharp
 public GridLinesVisibility GridLinesVisibility { get; set; }
 ```
-```vb
-Public Property GridLinesVisibility As GridLinesVisibility
-	Get
-	Set
-```
-```cpp
-public:
-property GridLinesVisibility GridLinesVisibility {
-	GridLinesVisibility get ();
-	void set (GridLinesVisibility value);
-}
-```
+
+
 
 
 #### Значение свойства

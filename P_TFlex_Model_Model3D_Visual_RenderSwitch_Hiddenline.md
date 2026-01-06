@@ -8,18 +8,8 @@
 ```csharp
 public SceneNode Hiddenline { get; set; }
 ```
-```vb
-Public Property Hiddenline As SceneNode
-	Get
-	Set
-```
-```cpp
-public:
-property SceneNode^ Hiddenline {
-	SceneNode^ get ();
-	void set (SceneNode^ value);
-}
-```
+
+
 
 
 #### Значение свойства

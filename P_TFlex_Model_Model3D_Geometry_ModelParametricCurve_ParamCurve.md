@@ -11,16 +11,8 @@
 ```csharp
 public virtual BaseSplineCurve ParamCurve { get; }
 ```
-```vb
-Public Overridable ReadOnly Property ParamCurve As BaseSplineCurve
-	Get
-```
-```cpp
-public:
-virtual property BaseSplineCurve^ ParamCurve {
-	BaseSplineCurve^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

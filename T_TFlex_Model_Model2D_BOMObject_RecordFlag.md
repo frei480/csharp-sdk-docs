@@ -11,12 +11,8 @@
 ```csharp
 public enum RecordFlag
 ```
-```vb
-Public Enumeration RecordFlag
-```
-```cpp
-public enum class RecordFlag
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -10,17 +10,8 @@ public PinInfo AddPin(
 	Element element
 )
 ```
-```vb
-Public Function AddPin ( 
-	element As Element
-) As PinInfo
-```
-```cpp
-public:
-PinInfo^ AddPin(
-	Element^ element
-)
-```
+
+
 
 
 #### Параметры

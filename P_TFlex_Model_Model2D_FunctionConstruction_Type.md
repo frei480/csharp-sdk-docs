@@ -11,18 +11,8 @@
 ```csharp
 public FunctionConstructionFunctionType Type { get; set; }
 ```
-```vb
-Public Property Type As FunctionConstructionFunctionType
-	Get
-	Set
-```
-```cpp
-public:
-property FunctionConstructionFunctionType Type {
-	FunctionConstructionFunctionType get ();
-	void set (FunctionConstructionFunctionType value);
-}
-```
+
+
 
 
 #### Значение свойства

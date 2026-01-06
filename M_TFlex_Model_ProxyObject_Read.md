@@ -14,19 +14,8 @@ protected virtual void Read(
 	int Version
 )
 ```
-```vb
-Protected Overridable Sub Read ( 
-	stream As Stream,
-	Version As Integer
-)
-```
-```cpp
-protected:
-virtual void Read(
-	Stream^ stream, 
-	int Version
-)
-```
+
+
 
 
 #### Параметры

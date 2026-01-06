@@ -11,16 +11,8 @@
 ```csharp
 public NodeSectionNodesArray Nodes { get; }
 ```
-```vb
-Public ReadOnly Property Nodes As NodeSectionNodesArray
-	Get
-```
-```cpp
-public:
-property NodeSectionNodesArray^ Nodes {
-	NodeSectionNodesArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

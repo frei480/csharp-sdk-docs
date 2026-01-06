@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<DrawingView> GetDrawingViews()
 ```
-```vb
-Public Function GetDrawingViews As ICollection(Of DrawingView)
-```
-```cpp
-public:
-ICollection<DrawingView^>^ GetDrawingViews()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -14,19 +14,8 @@ public Material(
 	string name
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	name As String
-)
-```
-```cpp
-public:
-Material(
-	Document^ document, 
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

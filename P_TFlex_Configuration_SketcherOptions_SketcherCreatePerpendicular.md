@@ -8,18 +8,8 @@
 ```csharp
 public bool SketcherCreatePerpendicular { get; set; }
 ```
-```vb
-Public Property SketcherCreatePerpendicular As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SketcherCreatePerpendicular {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

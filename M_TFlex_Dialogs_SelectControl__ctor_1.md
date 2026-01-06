@@ -13,17 +13,8 @@ public SelectControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-SelectControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

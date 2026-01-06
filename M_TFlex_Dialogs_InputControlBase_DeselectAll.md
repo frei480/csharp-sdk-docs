@@ -11,13 +11,8 @@
 ```csharp
 public void DeselectAll()
 ```
-```vb
-Public Sub DeselectAll
-```
-```cpp
-public:
-void DeselectAll()
-```
+
+
 
 
 #### Ссылки

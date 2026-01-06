@@ -13,13 +13,8 @@
 ```csharp
 public class ProjectionNode : Node
 ```
-```vb
-Public Class ProjectionNode
-	Inherits Node
-```
-```cpp
-public ref class ProjectionNode : public Node
-```
+
+
 
 
 Тип ProjectionNode предоставляет следующие члены.

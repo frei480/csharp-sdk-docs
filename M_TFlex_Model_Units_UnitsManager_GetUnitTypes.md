@@ -8,13 +8,8 @@
 ```csharp
 public IEnumerable<UnitType> GetUnitTypes()
 ```
-```vb
-Public Function GetUnitTypes As IEnumerable(Of UnitType)
-```
-```cpp
-public:
-IEnumerable<UnitType^>^ GetUnitTypes()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,13 +13,8 @@
 ```csharp
 public class FaceProfile : Profile
 ```
-```vb
-Public Class FaceProfile
-	Inherits Profile
-```
-```cpp
-public ref class FaceProfile : public Profile
-```
+
+
 
 
 Тип FaceProfile предоставляет следующие члены.

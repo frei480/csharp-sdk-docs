@@ -13,17 +13,8 @@ public void Redraw(
 	bool updateNow
 )
 ```
-```vb
-Public Sub Redraw ( 
-	updateNow As Boolean
-)
-```
-```cpp
-public:
-void Redraw(
-	bool updateNow
-)
-```
+
+
 
 
 #### Параметры

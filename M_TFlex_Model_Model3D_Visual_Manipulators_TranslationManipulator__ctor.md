@@ -11,13 +11,8 @@
 ```csharp
 public TranslationManipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-TranslationManipulator()
-```
+
+
 
 
 #### Ссылки

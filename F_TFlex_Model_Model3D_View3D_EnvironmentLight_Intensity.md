@@ -11,13 +11,8 @@
 ```csharp
 public float Intensity
 ```
-```vb
-Public Intensity As Single
-```
-```cpp
-public:
-float Intensity
-```
+
+
 
 
 #### Значение поля

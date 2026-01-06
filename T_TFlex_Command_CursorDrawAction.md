@@ -11,12 +11,8 @@
 ```csharp
 public enum CursorDrawAction
 ```
-```vb
-Public Enumeration CursorDrawAction
-```
-```cpp
-public enum class CursorDrawAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

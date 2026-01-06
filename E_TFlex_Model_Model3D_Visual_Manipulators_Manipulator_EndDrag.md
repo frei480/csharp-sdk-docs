@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<ManipulatorEventArgs> EndDrag
 ```
-```vb
-Public Event EndDrag As EventHandler(Of ManipulatorEventArgs)
-```
-```cpp
-public:
- event EventHandler<ManipulatorEventArgs^>^ EndDrag {
-	void add (EventHandler<ManipulatorEventArgs^>^ value);
-	void remove (EventHandler<ManipulatorEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

@@ -11,18 +11,8 @@
 ```csharp
 public ModelAxis FirstAxis { get; set; }
 ```
-```vb
-Public Property FirstAxis As ModelAxis
-	Get
-	Set
-```
-```cpp
-public:
-property ModelAxis^ FirstAxis {
-	ModelAxis^ get ();
-	void set (ModelAxis^ value);
-}
-```
+
+
 
 
 #### Значение свойства

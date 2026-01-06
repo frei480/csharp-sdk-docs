@@ -14,19 +14,8 @@ public void SetLCS(
 	bool recalcCoords
 )
 ```
-```vb
-Public Sub SetLCS ( 
-	lcs As LCS,
-	recalcCoords As Boolean
-)
-```
-```cpp
-public:
-void SetLCS(
-	LCS^ lcs, 
-	bool recalcCoords
-)
-```
+
+
 
 
 #### Параметры

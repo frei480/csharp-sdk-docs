@@ -16,23 +16,8 @@ public ThickenExtrusionGenerator(
 	double backThickness
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	sheet As Body,
-	thickness As Double,
-	backThickness As Double
-)
-```
-```cpp
-public:
-ThickenExtrusionGenerator(
-	ProxyObject3D^ object, 
-	Body^ sheet, 
-	double thickness, 
-	double backThickness
-)
-```
+
+
 
 
 #### Параметры

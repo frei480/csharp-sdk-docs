@@ -11,18 +11,8 @@
 ```csharp
 public ModelSurface RotateToSurface { get; set; }
 ```
-```vb
-Public Property RotateToSurface As ModelSurface
-	Get
-	Set
-```
-```cpp
-public:
-property ModelSurface^ RotateToSurface {
-	ModelSurface^ get ();
-	void set (ModelSurface^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,19 +11,8 @@ public static bool operator !=(
 	Dragger second
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	first As Dragger,
-	second As Dragger
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	Dragger^ first, 
-	Dragger^ second
-)
-```
+
+
 
 
 #### Параметры

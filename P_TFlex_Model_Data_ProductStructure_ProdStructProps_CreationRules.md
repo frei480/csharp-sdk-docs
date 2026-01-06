@@ -8,18 +8,8 @@
 ```csharp
 public CreationRules CreationRules { get; set; }
 ```
-```vb
-Public Property CreationRules As CreationRules
-	Get
-	Set
-```
-```cpp
-public:
-property CreationRules^ CreationRules {
-	CreationRules^ get ();
-	void set (CreationRules^ value);
-}
-```
+
+
 
 
 #### Значение свойства

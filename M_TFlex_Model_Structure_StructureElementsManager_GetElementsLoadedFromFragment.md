@@ -10,17 +10,8 @@ public List<Element> GetElementsLoadedFromFragment(
 	Fragment fragment
 )
 ```
-```vb
-Public Function GetElementsLoadedFromFragment ( 
-	fragment As Fragment
-) As List(Of Element)
-```
-```cpp
-public:
-List<Element^>^ GetElementsLoadedFromFragment(
-	Fragment^ fragment
-)
-```
+
+
 
 
 #### Параметры

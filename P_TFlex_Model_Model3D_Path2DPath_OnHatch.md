@@ -11,18 +11,8 @@
 ```csharp
 public Node OnHatch { get; set; }
 ```
-```vb
-Public Property OnHatch As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ OnHatch {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

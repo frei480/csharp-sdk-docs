@@ -8,16 +8,8 @@
 ```csharp
 public Weld Weld { get; }
 ```
-```vb
-Public ReadOnly Property Weld As Weld
-	Get
-```
-```cpp
-public:
-property Weld^ Weld {
-	Weld^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

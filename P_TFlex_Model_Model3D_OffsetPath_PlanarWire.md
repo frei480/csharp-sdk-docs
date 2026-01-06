@@ -11,18 +11,8 @@
 ```csharp
 public Wire PlanarWire { get; set; }
 ```
-```vb
-Public Property PlanarWire As Wire
-	Get
-	Set
-```
-```cpp
-public:
-property Wire^ PlanarWire {
-	Wire^ get ();
-	void set (Wire^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class RotateSocketEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class RotateSocketEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class RotateSocketEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип WireSetManipulatorRotateSocketEventArgs предоставляет следующие члены.

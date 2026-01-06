@@ -15,21 +15,8 @@ public BodyRepresentation(
 	AffineTransformation transf
 )
 ```
-```vb
-Public Sub New ( 
-	owner As SolidOperRepresentation,
-	body As ModelBody,
-	transf As AffineTransformation
-)
-```
-```cpp
-public:
-BodyRepresentation(
-	SolidOperRepresentation^ owner, 
-	ModelBody^ body, 
-	AffineTransformation^ transf
-)
-```
+
+
 
 
 #### Параметры

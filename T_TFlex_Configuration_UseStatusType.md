@@ -8,12 +8,8 @@
 ```csharp
 public enum UseStatusType
 ```
-```vb
-Public Enumeration UseStatusType
-```
-```cpp
-public enum class UseStatusType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

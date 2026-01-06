@@ -11,18 +11,8 @@
 ```csharp
 public Parameter AltScaleFactor { get; set; }
 ```
-```vb
-Public Property AltScaleFactor As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ AltScaleFactor {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

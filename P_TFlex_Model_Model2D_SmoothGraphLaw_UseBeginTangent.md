@@ -11,18 +11,8 @@
 ```csharp
 public bool UseBeginTangent { get; set; }
 ```
-```vb
-Public Property UseBeginTangent As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseBeginTangent {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

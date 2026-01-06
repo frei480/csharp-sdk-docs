@@ -13,12 +13,8 @@
 ```csharp
 public struct VertHorParams
 ```
-```vb
-Public Structure VertHorParams
-```
-```cpp
-public value class VertHorParams
-```
+
+
 
 
 Тип TableVertHorParams предоставляет следующие члены.

@@ -13,12 +13,8 @@
 ```csharp
 public class ModalDialog
 ```
-```vb
-Public Class ModalDialog
-```
-```cpp
-public ref class ModalDialog
-```
+
+
 
 
 Тип ModalDialog предоставляет следующие члены.

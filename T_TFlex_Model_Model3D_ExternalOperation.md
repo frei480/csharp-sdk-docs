@@ -11,13 +11,8 @@
 ```csharp
 public class ExternalOperation : Operation
 ```
-```vb
-Public Class ExternalOperation
-	Inherits Operation
-```
-```cpp
-public ref class ExternalOperation : public Operation
-```
+
+
 
 
 Тип ExternalOperation предоставляет следующие члены.

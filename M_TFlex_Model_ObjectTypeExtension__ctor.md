@@ -11,13 +11,8 @@
 ```csharp
 public ObjectTypeExtension()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ObjectTypeExtension()
-```
+
+
 
 
 #### Ссылки

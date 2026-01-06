@@ -10,17 +10,8 @@ public void AddRange(
 	IEnumerable<ObjectId> ids
 )
 ```
-```vb
-Public Sub AddRange ( 
-	ids As IEnumerable(Of ObjectId)
-)
-```
-```cpp
-public:
-void AddRange(
-	IEnumerable<ObjectId^>^ ids
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public Groupings Groupings { get; set; }
 ```
-```vb
-Public Property Groupings As Groupings
-	Get
-	Set
-```
-```cpp
-public:
-property Groupings^ Groupings {
-	Groupings^ get ();
-	void set (Groupings^ value);
-}
-```
+
+
 
 
 #### Значение свойства

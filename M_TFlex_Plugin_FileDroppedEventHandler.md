@@ -13,17 +13,8 @@ protected virtual void FileDroppedEventHandler(
 	FileDroppedEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub FileDroppedEventHandler ( 
-	args As FileDroppedEventArgs
-)
-```
-```cpp
-protected:
-virtual void FileDroppedEventHandler(
-	FileDroppedEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

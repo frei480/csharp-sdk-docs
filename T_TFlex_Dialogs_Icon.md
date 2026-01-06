@@ -13,13 +13,8 @@
 ```csharp
 public class Icon : IDisposable
 ```
-```vb
-Public Class Icon
-	Implements IDisposable
-```
-```cpp
-public ref class Icon : IDisposable
-```
+
+
 
 
 Тип Icon предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public Parameter MinBlend { get; set; }
 ```
-```vb
-Public Property MinBlend As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ MinBlend {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

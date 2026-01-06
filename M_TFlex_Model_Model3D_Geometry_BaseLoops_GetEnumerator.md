@@ -11,13 +11,8 @@
 ```csharp
 public abstract IEnumerator GetEnumerator()
 ```
-```vb
-Public MustOverride Function GetEnumerator As IEnumerator
-```
-```cpp
-public:
-virtual IEnumerator^ GetEnumerator() abstract
-```
+
+
 
 
 #### Возвращаемое значение

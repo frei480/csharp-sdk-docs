@@ -11,13 +11,8 @@
 ```csharp
 public class Scenario : Object3D
 ```
-```vb
-Public Class Scenario
-	Inherits Object3D
-```
-```cpp
-public ref class Scenario : public Object3D
-```
+
+
 
 
 Тип Scenario предоставляет следующие члены.

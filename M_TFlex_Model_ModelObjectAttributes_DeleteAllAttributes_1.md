@@ -13,17 +13,8 @@ public void DeleteAllAttributes(
 	bool change
 )
 ```
-```vb
-Public Sub DeleteAllAttributes ( 
-	change As Boolean
-)
-```
-```cpp
-public:
-void DeleteAllAttributes(
-	bool change
-)
-```
+
+
 
 
 #### Параметры

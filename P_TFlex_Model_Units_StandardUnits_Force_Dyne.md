@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Dyne { get; }
 ```
-```vb
-Public Shared ReadOnly Property Dyne As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Dyne {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public Node DirectionNode { get; set; }
 ```
-```vb
-Public Property DirectionNode As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ DirectionNode {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

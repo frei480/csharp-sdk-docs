@@ -19,29 +19,8 @@ public OutlinesIntersection(
 	Parameter lineWidth
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	outline1 As Outline,
-	outline2 As Outline,
-	point As Integer,
-	form As OutlinesIntersectionForms,
-	size As Parameter,
-	lineWidth As Parameter
-)
-```
-```cpp
-public:
-OutlinesIntersection(
-	Document^ document, 
-	Outline^ outline1, 
-	Outline^ outline2, 
-	int point, 
-	OutlinesIntersectionForms form, 
-	Parameter^ size, 
-	Parameter^ lineWidth
-)
-```
+
+
 
 
 #### Параметры

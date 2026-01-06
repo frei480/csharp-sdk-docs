@@ -14,19 +14,8 @@ public void AddFace(
 	ModelFace draftFace
 )
 ```
-```vb
-Public Sub AddFace ( 
-	referenceEdge As ModelEdge,
-	draftFace As ModelFace
-)
-```
-```cpp
-public:
-void AddFace(
-	ModelEdge^ referenceEdge, 
-	ModelFace^ draftFace
-)
-```
+
+
 
 
 #### Параметры

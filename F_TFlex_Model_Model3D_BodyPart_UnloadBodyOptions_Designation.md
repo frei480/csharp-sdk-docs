@@ -11,13 +11,8 @@
 ```csharp
 public string Designation
 ```
-```vb
-Public Designation As String
-```
-```cpp
-public:
-String^ Designation
-```
+
+
 
 
 #### Значение поля

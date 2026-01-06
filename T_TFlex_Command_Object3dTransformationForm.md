@@ -11,13 +11,8 @@
 ```csharp
 public sealed class Object3dTransformationForm : PropertiesWindowForm
 ```
-```vb
-Public NotInheritable Class Object3dTransformationForm
-	Inherits PropertiesWindowForm
-```
-```cpp
-public ref class Object3dTransformationForm sealed : public PropertiesWindowForm
-```
+
+
 
 
 Тип Object3dTransformationForm предоставляет следующие члены.

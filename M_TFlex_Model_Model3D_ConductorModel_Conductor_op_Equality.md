@@ -11,19 +11,8 @@ public static bool operator ==(
 	Conductor right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As Conductor,
-	right As Conductor
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	Conductor^ left, 
-	Conductor^ right
-)
-```
+
+
 
 
 #### Параметры

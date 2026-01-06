@@ -13,17 +13,8 @@ public Loops(
 	Body Solid
 )
 ```
-```vb
-Public Sub New ( 
-	Solid As Body
-)
-```
-```cpp
-public:
-Loops(
-	Body^ Solid
-)
-```
+
+
 
 
 #### Параметры

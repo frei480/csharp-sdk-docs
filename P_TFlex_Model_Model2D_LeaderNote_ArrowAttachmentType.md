@@ -11,16 +11,8 @@
 ```csharp
 public LeaderNoteAttachmentType ArrowAttachmentType { get; }
 ```
-```vb
-Public ReadOnly Property ArrowAttachmentType As LeaderNoteAttachmentType
-	Get
-```
-```cpp
-public:
-property LeaderNoteAttachmentType ArrowAttachmentType {
-	LeaderNoteAttachmentType get ();
-}
-```
+
+
 
 
 #### Значение свойства

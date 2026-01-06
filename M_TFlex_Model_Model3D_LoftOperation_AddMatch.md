@@ -11,13 +11,8 @@
 ```csharp
 public LoftOperationMatch AddMatch()
 ```
-```vb
-Public Function AddMatch As LoftOperationMatch
-```
-```cpp
-public:
-LoftOperationMatch^ AddMatch()
-```
+
+
 
 
 #### Возвращаемое значение

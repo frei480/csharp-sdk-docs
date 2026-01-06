@@ -11,18 +11,8 @@
 ```csharp
 public bool ShowConstructions { get; set; }
 ```
-```vb
-Public Property ShowConstructions As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowConstructions {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

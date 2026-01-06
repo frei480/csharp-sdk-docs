@@ -13,17 +13,8 @@ public ExportToSTEP(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToSTEP(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

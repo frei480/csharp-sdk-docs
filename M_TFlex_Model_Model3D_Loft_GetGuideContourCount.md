@@ -13,17 +13,8 @@ public int GetGuideContourCount(
 	int guideIndex
 )
 ```
-```vb
-Public Function GetGuideContourCount ( 
-	guideIndex As Integer
-) As Integer
-```
-```cpp
-public:
-int GetGuideContourCount(
-	int guideIndex
-)
-```
+
+
 
 
 #### Параметры

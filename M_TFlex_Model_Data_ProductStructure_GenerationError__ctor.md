@@ -15,21 +15,8 @@ public GenerationError(
 	GenerationErrorMessageType messageType = GenerationErrorMessageType.Error
 )
 ```
-```vb
-Public Sub New ( 
-	message As String,
-	Optional objectId As ULong = 0,
-	Optional messageType As GenerationErrorMessageType = GenerationErrorMessageType.Error
-)
-```
-```cpp
-public:
-GenerationError(
-	String^ message, 
-	unsigned long long objectId = 0, 
-	GenerationErrorMessageType messageType = GenerationErrorMessageType::Error
-)
-```
+
+
 
 
 #### Параметры

@@ -16,23 +16,8 @@ public BooleanGenerator(
 	BooleanOperationFunctionType function
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	target As Body,
-	tools As Body(),
-	function As BooleanOperationFunctionType
-)
-```
-```cpp
-public:
-BooleanGenerator(
-	ProxyObject3D^ object, 
-	Body^ target, 
-	array<Body^>^ tools, 
-	BooleanOperationFunctionType function
-)
-```
+
+
 
 
 #### Параметры

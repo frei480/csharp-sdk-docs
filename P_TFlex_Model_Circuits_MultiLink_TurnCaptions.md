@@ -8,18 +8,8 @@
 ```csharp
 public bool TurnCaptions { get; set; }
 ```
-```vb
-Public Property TurnCaptions As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool TurnCaptions {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

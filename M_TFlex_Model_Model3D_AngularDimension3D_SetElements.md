@@ -17,25 +17,8 @@ public void SetElements(
 	DimensionUVCoords Coords
 )
 ```
-```vb
-Public Sub SetElements ( 
-	Element1 As Object3D,
-	Element1Type As Dimension3DElementType,
-	Element2 As Object3D,
-	Element2Type As Dimension3DElementType,
-	Coords As DimensionUVCoords
-)
-```
-```cpp
-public:
-void SetElements(
-	Object3D^ Element1, 
-	Dimension3DElementType Element1Type, 
-	Object3D^ Element2, 
-	Dimension3DElementType Element2Type, 
-	DimensionUVCoords^ Coords
-)
-```
+
+
 
 
 #### Параметры

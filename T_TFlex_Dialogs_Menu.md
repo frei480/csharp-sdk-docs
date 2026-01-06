@@ -13,13 +13,8 @@
 ```csharp
 public class Menu : MenuItemBase
 ```
-```vb
-Public Class Menu
-	Inherits MenuItemBase
-```
-```cpp
-public ref class Menu : public MenuItemBase
-```
+
+
 
 
 Тип Menu предоставляет следующие члены.

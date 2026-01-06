@@ -11,16 +11,8 @@ true, если картинка содержит несколько страни
 ```csharp
 public bool IsMultipage { get; }
 ```
-```vb
-Public ReadOnly Property IsMultipage As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsMultipage {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

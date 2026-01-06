@@ -8,18 +8,8 @@
 ```csharp
 public bool DisableImageDragging { get; set; }
 ```
-```vb
-Public Property DisableImageDragging As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DisableImageDragging {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

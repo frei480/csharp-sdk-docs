@@ -14,19 +14,8 @@ public void SetItem(
 	int idx
 )
 ```
-```vb
-Public Sub SetItem ( 
-	value As Double,
-	idx As Integer
-)
-```
-```cpp
-public:
-void SetItem(
-	double value, 
-	int idx
-)
-```
+
+
 
 
 #### Параметры

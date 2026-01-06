@@ -10,17 +10,8 @@ public void RemoveOperation(
 	uint index
 )
 ```
-```vb
-Public Sub RemoveOperation ( 
-	index As UInteger
-)
-```
-```cpp
-public:
-void RemoveOperation(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

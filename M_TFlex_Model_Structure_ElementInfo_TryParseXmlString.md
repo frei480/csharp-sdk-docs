@@ -10,17 +10,8 @@ public bool TryParseXmlString(
 	string xmlString
 )
 ```
-```vb
-Public Function TryParseXmlString ( 
-	xmlString As String
-) As Boolean
-```
-```cpp
-public:
-bool TryParseXmlString(
-	String^ xmlString
-)
-```
+
+
 
 
 #### Параметры

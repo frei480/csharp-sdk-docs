@@ -11,18 +11,8 @@
 ```csharp
 public bool RecognizeLines { get; set; }
 ```
-```vb
-Public Property RecognizeLines As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RecognizeLines {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

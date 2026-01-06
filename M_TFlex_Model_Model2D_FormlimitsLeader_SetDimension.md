@@ -14,19 +14,8 @@ public void SetDimension(
 	bool isOnEnd
 )
 ```
-```vb
-Public Sub SetDimension ( 
-	dim As Dimension,
-	isOnEnd As Boolean
-)
-```
-```cpp
-public:
-void SetDimension(
-	Dimension^ dim, 
-	bool isOnEnd
-)
-```
+
+
 
 
 #### Параметры

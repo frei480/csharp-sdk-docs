@@ -8,16 +8,8 @@
 ```csharp
 public static string FileName { get; }
 ```
-```vb
-Public Shared ReadOnly Property FileName As String
-	Get
-```
-```cpp
-public:
-static property String^ FileName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

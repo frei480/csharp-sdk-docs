@@ -11,18 +11,8 @@
 ```csharp
 public Version ParasolidVersion { get; set; }
 ```
-```vb
-Public Property ParasolidVersion As Version
-	Get
-	Set
-```
-```cpp
-public:
-property Version^ ParasolidVersion {
-	Version^ get ();
-	void set (Version^ value);
-}
-```
+
+
 
 
 #### Значение свойства

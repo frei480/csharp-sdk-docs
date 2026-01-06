@@ -13,17 +13,8 @@ public Direction FromMeter(
 	BaseDirection vector
 )
 ```
-```vb
-Public Function FromMeter ( 
-	vector As BaseDirection
-) As Direction
-```
-```cpp
-public:
-Direction^ FromMeter(
-	BaseDirection^ vector
-)
-```
+
+
 
 
 #### Параметры

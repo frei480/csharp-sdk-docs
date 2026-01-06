@@ -11,13 +11,8 @@
 ```csharp
 public SketcherOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SketcherOptions()
-```
+
+
 
 
 #### Ссылки

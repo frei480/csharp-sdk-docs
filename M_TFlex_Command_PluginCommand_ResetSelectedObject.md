@@ -11,13 +11,8 @@
 ```csharp
 protected void ResetSelectedObject()
 ```
-```vb
-Protected Sub ResetSelectedObject
-```
-```cpp
-protected:
-void ResetSelectedObject()
-```
+
+
 
 
 #### Ссылки

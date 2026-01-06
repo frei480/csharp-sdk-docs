@@ -11,18 +11,8 @@
 ```csharp
 public Dimension3DElementType ElementType { get; set; }
 ```
-```vb
-Public Property ElementType As Dimension3DElementType
-	Get
-	Set
-```
-```cpp
-public:
-property Dimension3DElementType ElementType {
-	Dimension3DElementType get ();
-	void set (Dimension3DElementType value);
-}
-```
+
+
 
 
 #### Значение свойства

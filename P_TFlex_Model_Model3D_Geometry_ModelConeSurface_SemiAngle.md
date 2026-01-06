@@ -11,16 +11,8 @@
 ```csharp
 public virtual double SemiAngle { get; }
 ```
-```vb
-Public Overridable ReadOnly Property SemiAngle As Double
-	Get
-```
-```cpp
-public:
-virtual property double SemiAngle {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

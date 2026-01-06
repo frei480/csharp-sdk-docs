@@ -16,23 +16,8 @@ public void SetArcLength(
 	bool linesAreRadial
 )
 ```
-```vb
-Public Sub SetArcLength ( 
-	arcOrCircle As Object2D,
-	node1 As Node,
-	node2 As Node,
-	linesAreRadial As Boolean
-)
-```
-```cpp
-public:
-void SetArcLength(
-	Object2D^ arcOrCircle, 
-	Node^ node1, 
-	Node^ node2, 
-	bool linesAreRadial
-)
-```
+
+
 
 
 #### Параметры

@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetCAEStudies' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer CAEStudies { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetCAEStudies' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property CAEStudies As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetCAEStudies' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ CAEStudies {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

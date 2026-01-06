@@ -13,17 +13,8 @@ public virtual void RemoveAt(
 	int index
 )
 ```
-```vb
-Public Overridable Sub RemoveAt ( 
-	index As Integer
-)
-```
-```cpp
-public:
-virtual void RemoveAt(
-	int index
-)
-```
+
+
 
 
 #### Параметры

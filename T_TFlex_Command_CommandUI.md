@@ -13,12 +13,8 @@
 ```csharp
 public sealed class CommandUI
 ```
-```vb
-Public NotInheritable Class CommandUI
-```
-```cpp
-public ref class CommandUI sealed
-```
+
+
 
 
 Тип CommandUI предоставляет следующие члены.

@@ -13,15 +13,8 @@
 ```csharp
 public class Control : Object2D, IModelObjectWithLayer
 ```
-```vb
-Public Class Control
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class Control : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип Control предоставляет следующие члены.

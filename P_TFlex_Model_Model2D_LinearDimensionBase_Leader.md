@@ -11,16 +11,8 @@
 ```csharp
 public bool Leader { get; }
 ```
-```vb
-Public ReadOnly Property Leader As Boolean
-	Get
-```
-```cpp
-public:
-property bool Leader {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

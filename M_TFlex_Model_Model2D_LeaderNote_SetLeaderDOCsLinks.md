@@ -11,19 +11,8 @@ public void SetLeaderDOCsLinks(
 	List<Guid> guids
 )
 ```
-```vb
-Public Sub SetLeaderDOCsLinks ( 
-	StringIndex As Integer,
-	guids As List(Of Guid)
-)
-```
-```cpp
-public:
-void SetLeaderDOCsLinks(
-	int StringIndex, 
-	List<Guid>^ guids
-)
-```
+
+
 
 
 #### Параметры

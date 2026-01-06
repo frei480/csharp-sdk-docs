@@ -11,16 +11,8 @@
 ```csharp
 public Parameter LeaderOffsetX { get; }
 ```
-```vb
-Public ReadOnly Property LeaderOffsetX As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ LeaderOffsetX {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,18 +10,8 @@ public SurfaceSplineDataControlNetControlPoints this[
 	uint index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As UInteger
-) As SurfaceSplineDataControlNetControlPoints
-	Get
-```
-```cpp
-public:
-property SurfaceSplineDataControlNetControlPoints^ default[unsigned int index] {
-	SurfaceSplineDataControlNetControlPoints^ get (unsigned int index);
-}
-```
+
+
 
 
 #### Параметры

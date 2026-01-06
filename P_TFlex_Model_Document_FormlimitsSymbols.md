@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetFormlimits' method.")]
 public ObjectContainer FormlimitsSymbols { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetFormlimits' method.")>
-Public ReadOnly Property FormlimitsSymbols As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetFormlimits' method.")]
-property ObjectContainer^ FormlimitsSymbols {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@ public delegate void GeometricArrayAfterSet(
 	Geometry geometry
 )
 ```
-```vb
-Public Delegate Sub GeometricArrayAfterSet ( 
-	to As Integer,
-	geometry As Geometry
-)
-```
-```cpp
-public delegate void GeometricArrayAfterSet(
-	int to, 
-	Geometry^ geometry
-)
-```
+
+
 
 
 #### Параметры

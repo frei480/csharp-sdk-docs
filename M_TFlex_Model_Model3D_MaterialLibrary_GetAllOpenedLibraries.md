@@ -11,13 +11,8 @@
 ```csharp
 public static List<MaterialLibrary> GetAllOpenedLibraries()
 ```
-```vb
-Public Shared Function GetAllOpenedLibraries As List(Of MaterialLibrary)
-```
-```cpp
-public:
-static List<MaterialLibrary^>^ GetAllOpenedLibraries()
-```
+
+
 
 
 #### Возвращаемое значение

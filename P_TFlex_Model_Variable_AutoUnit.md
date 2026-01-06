@@ -11,18 +11,8 @@
 ```csharp
 public bool AutoUnit { get; set; }
 ```
-```vb
-Public Property AutoUnit As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoUnit {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

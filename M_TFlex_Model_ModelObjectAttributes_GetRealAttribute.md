@@ -13,17 +13,8 @@ public double GetRealAttribute(
 	string attribName
 )
 ```
-```vb
-Public Function GetRealAttribute ( 
-	attribName As String
-) As Double
-```
-```cpp
-public:
-double GetRealAttribute(
-	String^ attribName
-)
-```
+
+
 
 
 #### Параметры

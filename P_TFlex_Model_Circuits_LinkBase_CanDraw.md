@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool CanDraw { get; set; }
 ```
-```vb
-Public Overridable Property CanDraw As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool CanDraw {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

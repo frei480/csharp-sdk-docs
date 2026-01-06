@@ -8,16 +8,8 @@
 ```csharp
 public MaterialParameters Parameters { get; }
 ```
-```vb
-Public ReadOnly Property Parameters As MaterialParameters
-	Get
-```
-```cpp
-public:
-property MaterialParameters^ Parameters {
-	MaterialParameters^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

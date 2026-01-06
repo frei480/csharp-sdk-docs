@@ -11,18 +11,8 @@
 ```csharp
 public Parameter NLF { get; set; }
 ```
-```vb
-Public Property NLF As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ NLF {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

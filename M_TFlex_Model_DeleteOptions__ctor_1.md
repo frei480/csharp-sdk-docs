@@ -13,17 +13,8 @@ public DeleteOptions(
 	bool silent
 )
 ```
-```vb
-Public Sub New ( 
-	silent As Boolean
-)
-```
-```cpp
-public:
-DeleteOptions(
-	bool silent
-)
-```
+
+
 
 
 #### Параметры

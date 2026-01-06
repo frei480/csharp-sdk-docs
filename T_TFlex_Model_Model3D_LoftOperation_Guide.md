@@ -13,12 +13,8 @@
 ```csharp
 public class Guide
 ```
-```vb
-Public Class Guide
-```
-```cpp
-public ref class Guide
-```
+
+
 
 
 Тип LoftOperationGuide предоставляет следующие члены.

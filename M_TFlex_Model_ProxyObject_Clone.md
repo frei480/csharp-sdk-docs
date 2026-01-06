@@ -13,17 +13,8 @@ protected virtual ProxyObject Clone(
 	IntPtr OwnerHandle
 )
 ```
-```vb
-Protected Overridable Function Clone ( 
-	OwnerHandle As IntPtr
-) As ProxyObject
-```
-```cpp
-protected:
-virtual ProxyObject^ Clone(
-	IntPtr OwnerHandle
-)
-```
+
+
 
 
 #### Параметры

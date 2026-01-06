@@ -8,13 +8,8 @@
 ```csharp
 protected IEnumerator GetEnumeratorBase()
 ```
-```vb
-Protected Function GetEnumeratorBase As IEnumerator
-```
-```cpp
-protected:
-virtual IEnumerator^ GetEnumeratorBase() sealed
-```
+
+
 
 
 #### Возвращаемое значение

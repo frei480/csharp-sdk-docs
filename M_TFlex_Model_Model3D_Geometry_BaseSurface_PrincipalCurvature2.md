@@ -13,17 +13,8 @@ public double PrincipalCurvature2(
 	UV uv
 )
 ```
-```vb
-Public Function PrincipalCurvature2 ( 
-	uv As UV
-) As Double
-```
-```cpp
-public:
-double PrincipalCurvature2(
-	UV uv
-)
-```
+
+
 
 
 #### Параметры

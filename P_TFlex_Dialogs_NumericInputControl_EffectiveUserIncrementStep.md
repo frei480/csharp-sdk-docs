@@ -11,16 +11,8 @@
 ```csharp
 public double EffectiveUserIncrementStep { get; }
 ```
-```vb
-Public ReadOnly Property EffectiveUserIncrementStep As Double
-	Get
-```
-```cpp
-public:
-property double EffectiveUserIncrementStep {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

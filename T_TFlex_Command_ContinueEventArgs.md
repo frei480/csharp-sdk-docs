@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ContinueEventArgs : CommandEventArgs
 ```
-```vb
-Public NotInheritable Class ContinueEventArgs
-	Inherits CommandEventArgs
-```
-```cpp
-public ref class ContinueEventArgs sealed : public CommandEventArgs
-```
+
+
 
 
 Тип ContinueEventArgs предоставляет следующие члены.

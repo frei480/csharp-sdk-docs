@@ -8,13 +8,8 @@
 ```csharp
 public ProdStructProps Copy()
 ```
-```vb
-Public Function Copy As ProdStructProps
-```
-```cpp
-public:
-ProdStructProps^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

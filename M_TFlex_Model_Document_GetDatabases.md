@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Database> GetDatabases()
 ```
-```vb
-Public Function GetDatabases As ICollection(Of Database)
-```
-```cpp
-public:
-ICollection<Database^>^ GetDatabases()
-```
+
+
 
 
 #### Возвращаемое значение

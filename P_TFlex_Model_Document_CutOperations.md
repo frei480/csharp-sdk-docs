@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetCutOperations' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer CutOperations { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetCutOperations' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property CutOperations As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetCutOperations' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ CutOperations {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

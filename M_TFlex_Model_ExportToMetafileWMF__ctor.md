@@ -13,17 +13,8 @@ public ExportToMetafileWMF(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToMetafileWMF(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ImportFrom3dCommon
 ```
-```vb
-Public NotInheritable Class ImportFrom3dCommon
-```
-```cpp
-public ref class ImportFrom3dCommon sealed
-```
+
+
 
 
 Тип ImportFrom3dCommon предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Spacing { get; set; }
 ```
-```vb
-Public Property Spacing As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Spacing {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

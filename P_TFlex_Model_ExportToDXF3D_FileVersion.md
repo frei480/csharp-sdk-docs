@@ -11,18 +11,8 @@
 ```csharp
 public int FileVersion { get; set; }
 ```
-```vb
-Public Property FileVersion As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int FileVersion {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,19 +11,8 @@ public override bool XMLDeserialize(
 	SerializationContex context
 )
 ```
-```vb
-Public Overrides Function XMLDeserialize ( 
-	element As XmlElement,
-	context As SerializationContex
-) As Boolean
-```
-```cpp
-public:
-virtual bool XMLDeserialize(
-	XmlElement^ element, 
-	SerializationContex^ context
-) override
-```
+
+
 
 
 #### Параметры

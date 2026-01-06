@@ -10,17 +10,8 @@ public IEnumerable<LinkDescriptor> GetPossibleLinks(
 	bool ignoreInheritance
 )
 ```
-```vb
-Public Function GetPossibleLinks ( 
-	ignoreInheritance As Boolean
-) As IEnumerable(Of LinkDescriptor)
-```
-```cpp
-public:
-IEnumerable<LinkDescriptor^>^ GetPossibleLinks(
-	bool ignoreInheritance
-)
-```
+
+
 
 
 #### Параметры

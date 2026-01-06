@@ -13,12 +13,8 @@
 ```csharp
 public class CheckBodyResults
 ```
-```vb
-Public Class CheckBodyResults
-```
-```cpp
-public ref class CheckBodyResults
-```
+
+
 
 
 Тип BaseBodyCheckBodyResults предоставляет следующие члены.

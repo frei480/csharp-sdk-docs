@@ -11,16 +11,8 @@
 ```csharp
 public bool DashedType { set; }
 ```
-```vb
-Public WriteOnly Property DashedType As Boolean
-	Set
-```
-```cpp
-public:
-property bool DashedType {
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

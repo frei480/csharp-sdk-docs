@@ -11,13 +11,8 @@
 ```csharp
 public Lines()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Lines()
-```
+
+
 
 
 #### Ссылки

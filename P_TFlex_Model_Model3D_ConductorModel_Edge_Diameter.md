@@ -8,16 +8,8 @@
 ```csharp
 public double Diameter { get; }
 ```
-```vb
-Public ReadOnly Property Diameter As Double
-	Get
-```
-```cpp
-public:
-property double Diameter {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

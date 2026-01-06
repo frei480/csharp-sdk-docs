@@ -11,18 +11,8 @@
 ```csharp
 public SplineDataCurveShape Shape { get; set; }
 ```
-```vb
-Public Property Shape As SplineDataCurveShape
-	Get
-	Set
-```
-```cpp
-public:
-property SplineDataCurveShape Shape {
-	SplineDataCurveShape get ();
-	void set (SplineDataCurveShape value);
-}
-```
+
+
 
 
 #### Значение свойства

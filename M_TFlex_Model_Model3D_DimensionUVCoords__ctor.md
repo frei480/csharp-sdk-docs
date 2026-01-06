@@ -11,13 +11,8 @@
 ```csharp
 public DimensionUVCoords()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-DimensionUVCoords()
-```
+
+
 
 
 #### Ссылки

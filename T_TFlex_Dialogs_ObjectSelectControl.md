@@ -13,13 +13,8 @@
 ```csharp
 public class ObjectSelectControl : BaseControl
 ```
-```vb
-Public Class ObjectSelectControl
-	Inherits BaseControl
-```
-```cpp
-public ref class ObjectSelectControl : public BaseControl
-```
+
+
 
 
 Тип ObjectSelectControl предоставляет следующие члены.

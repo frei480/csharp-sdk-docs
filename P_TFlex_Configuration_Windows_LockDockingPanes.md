@@ -8,18 +8,8 @@
 ```csharp
 public bool LockDockingPanes { get; set; }
 ```
-```vb
-Public Property LockDockingPanes As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool LockDockingPanes {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

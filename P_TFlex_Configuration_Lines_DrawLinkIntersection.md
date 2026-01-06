@@ -8,18 +8,8 @@
 ```csharp
 public bool DrawLinkIntersection { get; set; }
 ```
-```vb
-Public Property DrawLinkIntersection As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DrawLinkIntersection {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

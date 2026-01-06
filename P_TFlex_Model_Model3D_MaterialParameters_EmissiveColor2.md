@@ -11,18 +11,8 @@
 ```csharp
 public Color EmissiveColor2 { get; set; }
 ```
-```vb
-Public Property EmissiveColor2 As Color
-	Get
-	Set
-```
-```cpp
-public:
-property Color EmissiveColor2 {
-	Color get ();
-	void set (Color value);
-}
-```
+
+
 
 
 #### Значение свойства

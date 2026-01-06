@@ -13,12 +13,8 @@
 ```csharp
 public abstract class PointOnContour
 ```
-```vb
-Public MustInherit Class PointOnContour
-```
-```cpp
-public ref class PointOnContour abstract
-```
+
+
 
 
 Тип LoftPointOnContour предоставляет следующие члены.

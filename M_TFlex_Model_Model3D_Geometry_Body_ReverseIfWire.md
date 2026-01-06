@@ -11,13 +11,8 @@
 ```csharp
 public bool ReverseIfWire()
 ```
-```vb
-Public Function ReverseIfWire As Boolean
-```
-```cpp
-public:
-bool ReverseIfWire()
-```
+
+
 
 
 #### Возвращаемое значение

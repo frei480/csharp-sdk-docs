@@ -8,18 +8,8 @@
 ```csharp
 public bool OrientPagesInModelSpace { get; set; }
 ```
-```vb
-Public Property OrientPagesInModelSpace As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OrientPagesInModelSpace {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

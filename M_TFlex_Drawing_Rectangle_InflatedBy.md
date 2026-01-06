@@ -11,19 +11,8 @@ public Rectangle InflatedBy(
 	double dy
 )
 ```
-```vb
-Public Function InflatedBy ( 
-	dx As Double,
-	dy As Double
-) As Rectangle
-```
-```cpp
-public:
-Rectangle InflatedBy(
-	double dx, 
-	double dy
-)
-```
+
+
 
 
 #### Параметры

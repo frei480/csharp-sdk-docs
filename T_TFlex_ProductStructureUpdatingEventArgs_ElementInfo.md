@@ -11,12 +11,8 @@
 ```csharp
 public class ElementInfo
 ```
-```vb
-Public Class ElementInfo
-```
-```cpp
-public ref class ElementInfo
-```
+
+
 
 
 Тип ProductStructureUpdatingEventArgsElementInfo предоставляет следующие члены.

@@ -13,17 +13,8 @@ public PipePath3DPointPolyline InsertBeforePoint(
 	PipePath3DPointPolyline pPoint
 )
 ```
-```vb
-Public Function InsertBeforePoint ( 
-	pPoint As PipePath3DPointPolyline
-) As PipePath3DPointPolyline
-```
-```cpp
-public:
-PipePath3DPointPolyline^ InsertBeforePoint(
-	PipePath3DPointPolyline^ pPoint
-)
-```
+
+
 
 
 #### Параметры

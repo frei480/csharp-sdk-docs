@@ -12,21 +12,8 @@ protected void SetOffsets(
 	double offset
 )
 ```
-```vb
-Protected Sub SetOffsets ( 
-	fixNode As Node,
-	angle As Double,
-	offset As Double
-)
-```
-```cpp
-protected:
-void SetOffsets(
-	Node^ fixNode, 
-	double angle, 
-	double offset
-)
-```
+
+
 
 
 #### Параметры

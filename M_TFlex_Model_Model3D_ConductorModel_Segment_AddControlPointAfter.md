@@ -11,19 +11,8 @@ public Point AddControlPointAfter(
 	BasePoint3D position
 )
 ```
-```vb
-Public Function AddControlPointAfter ( 
-	point As BasePoint,
-	position As BasePoint3D
-) As Point
-```
-```cpp
-public:
-Point^ AddControlPointAfter(
-	BasePoint^ point, 
-	BasePoint3D^ position
-)
-```
+
+
 
 
 #### Параметры

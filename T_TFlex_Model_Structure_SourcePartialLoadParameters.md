@@ -11,13 +11,8 @@
 ```csharp
 public sealed class SourcePartialLoadParameters : BasePartialLoadParameters
 ```
-```vb
-Public NotInheritable Class SourcePartialLoadParameters
-	Inherits BasePartialLoadParameters
-```
-```cpp
-public ref class SourcePartialLoadParameters sealed : public BasePartialLoadParameters
-```
+
+
 
 
 Тип SourcePartialLoadParameters предоставляет следующие члены.

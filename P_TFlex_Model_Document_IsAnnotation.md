@@ -11,16 +11,8 @@
 ```csharp
 public bool IsAnnotation { get; }
 ```
-```vb
-Public ReadOnly Property IsAnnotation As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsAnnotation {
-	bool get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

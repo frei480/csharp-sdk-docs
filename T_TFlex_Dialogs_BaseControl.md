@@ -13,13 +13,8 @@
 ```csharp
 public class BaseControl : UiObject
 ```
-```vb
-Public Class BaseControl
-	Inherits UiObject
-```
-```cpp
-public ref class BaseControl : public UiObject
-```
+
+
 
 
 Тип BaseControl предоставляет следующие члены.

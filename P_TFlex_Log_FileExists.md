@@ -8,16 +8,8 @@
 ```csharp
 public static bool FileExists { get; }
 ```
-```vb
-Public Shared ReadOnly Property FileExists As Boolean
-	Get
-```
-```cpp
-public:
-static property bool FileExists {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

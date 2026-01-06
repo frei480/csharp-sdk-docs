@@ -11,19 +11,8 @@ public bool DeletePages(
 	DeleteOptions options
 )
 ```
-```vb
-Public Function DeletePages ( 
-	pages As ICollection(Of Page),
-	options As DeleteOptions
-) As Boolean
-```
-```cpp
-public:
-bool DeletePages(
-	ICollection<Page^>^ pages, 
-	DeleteOptions^ options
-)
-```
+
+
 
 
 #### Параметры

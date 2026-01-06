@@ -8,18 +8,8 @@
 ```csharp
 public int GridColor { get; set; }
 ```
-```vb
-Public Property GridColor As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int GridColor {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

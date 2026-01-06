@@ -11,13 +11,8 @@
 ```csharp
 public sealed class LoadParameters : BaseLoadParameters
 ```
-```vb
-Public NotInheritable Class LoadParameters
-	Inherits BaseLoadParameters
-```
-```cpp
-public ref class LoadParameters sealed : public BaseLoadParameters
-```
+
+
 
 
 Тип LoadParameters предоставляет следующие члены.

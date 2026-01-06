@@ -11,13 +11,8 @@
 ```csharp
 public void DisableAllTypes()
 ```
-```vb
-Public Sub DisableAllTypes
-```
-```cpp
-public:
-void DisableAllTypes()
-```
+
+
 
 
 #### Ссылки

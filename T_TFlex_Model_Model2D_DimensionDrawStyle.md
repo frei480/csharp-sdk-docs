@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionDrawStyle
 ```
-```vb
-Public Enumeration DimensionDrawStyle
-```
-```cpp
-public enum class DimensionDrawStyle
-```
+
+
 
 
 | Имя члена | Значение | Описание |

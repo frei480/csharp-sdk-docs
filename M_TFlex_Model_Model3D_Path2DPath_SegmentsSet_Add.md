@@ -13,17 +13,8 @@ public void Add(
 	Path2DPathSegmentsSetSegment segment
 )
 ```
-```vb
-Public Sub Add ( 
-	segment As Path2DPathSegmentsSetSegment
-)
-```
-```cpp
-public:
-void Add(
-	Path2DPathSegmentsSetSegment^ segment
-)
-```
+
+
 
 
 #### Параметры

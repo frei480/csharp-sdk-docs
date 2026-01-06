@@ -15,21 +15,8 @@ public ObjectSelectControlPlainObject(
 	Icon iconOverride
 )
 ```
-```vb
-Public Sub New ( 
-	modelObject As ModelObject,
-	nameOverride As String,
-	iconOverride As Icon
-)
-```
-```cpp
-public:
-ObjectSelectControlPlainObject(
-	ModelObject^ modelObject, 
-	String^ nameOverride, 
-	Icon^ iconOverride
-)
-```
+
+
 
 
 #### Параметры

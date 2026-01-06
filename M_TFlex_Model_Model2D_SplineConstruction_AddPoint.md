@@ -14,19 +14,8 @@ public int AddPoint(
 	Parameter weight
 )
 ```
-```vb
-Public Function AddPoint ( 
-	point As Point,
-	weight As Parameter
-) As Integer
-```
-```cpp
-public:
-int AddPoint(
-	Point point, 
-	Parameter^ weight
-)
-```
+
+
 
 
 #### Параметры

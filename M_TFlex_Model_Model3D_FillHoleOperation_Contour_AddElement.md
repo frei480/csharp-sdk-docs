@@ -13,17 +13,8 @@ public void AddElement(
 	ModelWire wire
 )
 ```
-```vb
-Public Sub AddElement ( 
-	wire As ModelWire
-)
-```
-```cpp
-public:
-void AddElement(
-	ModelWire^ wire
-)
-```
+
+
 
 
 #### Параметры

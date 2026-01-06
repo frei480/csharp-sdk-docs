@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToPrc : ExportTo3dCommon
 ```
-```vb
-Public NotInheritable Class ExportToPrc
-	Inherits ExportTo3dCommon
-```
-```cpp
-public ref class ExportToPrc sealed : public ExportTo3dCommon
-```
+
+
 
 
 Тип ExportToPrc предоставляет следующие члены.

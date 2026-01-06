@@ -11,16 +11,8 @@
 ```csharp
 public bool HasValue { get; }
 ```
-```vb
-Public ReadOnly Property HasValue As Boolean
-	Get
-```
-```cpp
-public:
-property bool HasValue {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

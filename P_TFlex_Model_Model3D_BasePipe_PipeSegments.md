@@ -14,18 +14,8 @@
 [ObsoleteAttribute("Do not call this method. Use property this.Path.Path3DSegments")]
 public BasePipePipeSegment[] PipeSegments { get; }
 ```
-```vb
-<ObsoleteAttribute("Do not call this method. Use property this.Path.Path3DSegments")>
-Public ReadOnly Property PipeSegments As BasePipePipeSegment()
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Do not call this method. Use property this.Path.Path3DSegments")]
-property array<BasePipePipeSegment^>^ PipeSegments {
-	array<BasePipePipeSegment^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

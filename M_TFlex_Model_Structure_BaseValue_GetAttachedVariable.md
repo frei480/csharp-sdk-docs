@@ -8,13 +8,8 @@
 ```csharp
 public abstract Variable GetAttachedVariable()
 ```
-```vb
-Public MustOverride Function GetAttachedVariable As Variable
-```
-```cpp
-public:
-virtual Variable^ GetAttachedVariable() abstract
-```
+
+
 
 
 #### Возвращаемое значение

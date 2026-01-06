@@ -11,18 +11,8 @@
 ```csharp
 public Construction AngleLine { get; set; }
 ```
-```vb
-Public Property AngleLine As Construction
-	Get
-	Set
-```
-```cpp
-public:
-property Construction^ AngleLine {
-	Construction^ get ();
-	void set (Construction^ value);
-}
-```
+
+
 
 
 #### Значение свойства

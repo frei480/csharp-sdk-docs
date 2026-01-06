@@ -13,17 +13,8 @@ public bool Remove(
 	ModelObjectGroup group
 )
 ```
-```vb
-Public Function Remove ( 
-	group As ModelObjectGroup
-) As Boolean
-```
-```cpp
-public:
-bool Remove(
-	ModelObjectGroup^ group
-)
-```
+
+
 
 
 #### Параметры

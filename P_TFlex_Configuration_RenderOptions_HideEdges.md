@@ -8,18 +8,8 @@
 ```csharp
 public bool HideEdges { get; set; }
 ```
-```vb
-Public Property HideEdges As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool HideEdges {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,12 +8,8 @@
 ```csharp
 public interface IGroupLink
 ```
-```vb
-Public Interface IGroupLink
-```
-```cpp
-public interface class IGroupLink
-```
+
+
 
 
 Тип IGroupLink предоставляет следующие члены.

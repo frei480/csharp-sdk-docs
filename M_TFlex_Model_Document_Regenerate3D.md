@@ -11,13 +11,8 @@
 ```csharp
 public bool Regenerate3D()
 ```
-```vb
-Public Function Regenerate3D As Boolean
-```
-```cpp
-public:
-bool Regenerate3D()
-```
+
+
 
 
 #### Возвращаемое значение

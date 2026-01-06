@@ -13,13 +13,8 @@
 ```csharp
 public class ReferenceLCS : LCS
 ```
-```vb
-Public Class ReferenceLCS
-	Inherits LCS
-```
-```cpp
-public ref class ReferenceLCS : public LCS
-```
+
+
 
 
 Тип ReferenceLCS предоставляет следующие члены.

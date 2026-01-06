@@ -11,12 +11,8 @@
 ```csharp
 public enum ThreadLimitsMeasure
 ```
-```vb
-Public Enumeration ThreadLimitsMeasure
-```
-```cpp
-public enum class ThreadLimitsMeasure
-```
+
+
 
 
 | Имя члена | Значение | Описание |

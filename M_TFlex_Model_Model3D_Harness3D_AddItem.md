@@ -13,17 +13,8 @@ public bool AddItem(
 	Construction3D pElement
 )
 ```
-```vb
-Public Function AddItem ( 
-	pElement As Construction3D
-) As Boolean
-```
-```cpp
-public:
-bool AddItem(
-	Construction3D^ pElement
-)
-```
+
+
 
 
 #### Параметры

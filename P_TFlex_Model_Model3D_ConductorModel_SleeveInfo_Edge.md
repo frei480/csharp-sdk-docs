@@ -8,16 +8,8 @@
 ```csharp
 public Edge Edge { get; }
 ```
-```vb
-Public ReadOnly Property Edge As Edge
-	Get
-```
-```cpp
-public:
-property Edge^ Edge {
-	Edge^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

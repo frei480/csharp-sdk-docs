@@ -11,18 +11,8 @@
 ```csharp
 public ExtendSurfaceShapeType Shape { get; set; }
 ```
-```vb
-Public Property Shape As ExtendSurfaceShapeType
-	Get
-	Set
-```
-```cpp
-public:
-property ExtendSurfaceShapeType Shape {
-	ExtendSurfaceShapeType get ();
-	void set (ExtendSurfaceShapeType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public void Validate()
 ```
-```vb
-Public Sub Validate
-```
-```cpp
-public:
-void Validate()
-```
+
+
 
 
 #### Ссылки

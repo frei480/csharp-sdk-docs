@@ -11,12 +11,8 @@
 ```csharp
 public enum FragmentType
 ```
-```vb
-Public Enumeration FragmentType
-```
-```cpp
-public enum class FragmentType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

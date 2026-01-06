@@ -8,18 +8,8 @@
 ```csharp
 public CursorModeType CursorMode { get; set; }
 ```
-```vb
-Public Property CursorMode As CursorModeType
-	Get
-	Set
-```
-```cpp
-public:
-property CursorModeType CursorMode {
-	CursorModeType get ();
-	void set (CursorModeType value);
-}
-```
+
+
 
 
 #### Значение свойства

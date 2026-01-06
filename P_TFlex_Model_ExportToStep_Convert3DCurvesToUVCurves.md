@@ -11,18 +11,8 @@
 ```csharp
 public bool Convert3DCurvesToUVCurves { get; set; }
 ```
-```vb
-Public Property Convert3DCurvesToUVCurves As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Convert3DCurvesToUVCurves {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

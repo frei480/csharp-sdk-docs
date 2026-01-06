@@ -11,16 +11,8 @@ public virtual IObjectGeometry GetSelectedGeometry(
 	CSearchFilter* filter
 )
 ```
-```vb
-Visual Basic не поддерживает интерфейсы API, которые принимают или возвращают небезопасные типы.
-```
-```cpp
-public:
-virtual IObjectGeometry^ GetSelectedGeometry(
-	ModelObject^ object, 
-	CSearchFilter* filter
-)
-```
+
+
 
 
 #### Параметры

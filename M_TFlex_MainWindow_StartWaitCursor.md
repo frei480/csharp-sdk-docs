@@ -11,13 +11,8 @@
 ```csharp
 public void StartWaitCursor()
 ```
-```vb
-Public Sub StartWaitCursor
-```
-```cpp
-public:
-void StartWaitCursor()
-```
+
+
 
 
 #### Ссылки

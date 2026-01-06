@@ -11,18 +11,8 @@
 ```csharp
 public BaseSurface BoundSurface { get; set; }
 ```
-```vb
-Public Property BoundSurface As BaseSurface
-	Get
-	Set
-```
-```cpp
-public:
-property BaseSurface^ BoundSurface {
-	BaseSurface^ get ();
-	void set (BaseSurface^ value);
-}
-```
+
+
 
 
 #### Значение свойства

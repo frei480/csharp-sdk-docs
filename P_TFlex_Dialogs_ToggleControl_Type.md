@@ -11,18 +11,8 @@
 ```csharp
 public ToggleControlType Type { get; set; }
 ```
-```vb
-Public Property Type As ToggleControlType
-	Get
-	Set
-```
-```cpp
-public:
-property ToggleControlType Type {
-	ToggleControlType get ();
-	void set (ToggleControlType value);
-}
-```
+
+
 
 
 #### Значение свойства

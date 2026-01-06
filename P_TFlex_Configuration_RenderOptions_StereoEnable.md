@@ -8,18 +8,8 @@
 ```csharp
 public bool StereoEnable { get; set; }
 ```
-```vb
-Public Property StereoEnable As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool StereoEnable {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public bool IsExpanded(
 	long rowId
 )
 ```
-```vb
-Public Function IsExpanded ( 
-	rowId As Long
-) As Boolean
-```
-```cpp
-public:
-bool IsExpanded(
-	long long rowId
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public void SetValue(
 	Variable variable
 )
 ```
-```vb
-Public Sub SetValue ( 
-	value As Double,
-	variable As Variable
-)
-```
-```cpp
-public:
-void SetValue(
-	double value, 
-	Variable^ variable
-)
-```
+
+
 
 
 #### Параметры

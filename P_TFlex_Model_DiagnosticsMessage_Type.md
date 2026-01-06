@@ -11,16 +11,8 @@
 ```csharp
 public DiagnosticsMessageType Type { get; }
 ```
-```vb
-Public ReadOnly Property Type As DiagnosticsMessageType
-	Get
-```
-```cpp
-public:
-property DiagnosticsMessageType Type {
-	DiagnosticsMessageType get ();
-}
-```
+
+
 
 
 #### Значение свойства

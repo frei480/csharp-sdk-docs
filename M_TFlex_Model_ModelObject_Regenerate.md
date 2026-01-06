@@ -13,17 +13,8 @@ public virtual void Regenerate(
 	bool bMarkChanged
 )
 ```
-```vb
-Public Overridable Sub Regenerate ( 
-	bMarkChanged As Boolean
-)
-```
-```cpp
-public:
-virtual void Regenerate(
-	bool bMarkChanged
-)
-```
+
+
 
 
 #### Параметры

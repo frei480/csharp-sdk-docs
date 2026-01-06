@@ -15,21 +15,8 @@ public void InsertRows(
 	TableInsertProperties props
 )
 ```
-```vb
-Public Sub InsertRows ( 
-	count As UInteger,
-	cell As UInteger,
-	props As TableInsertProperties
-)
-```
-```cpp
-public:
-void InsertRows(
-	unsigned int count, 
-	unsigned int cell, 
-	TableInsertProperties props
-)
-```
+
+
 
 
 #### Параметры

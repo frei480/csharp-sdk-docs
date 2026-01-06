@@ -11,14 +11,8 @@
 ```csharp
 public class FilterOwnerExtensions
 ```
-```vb
-<ExtensionAttribute>
-Public Class FilterOwnerExtensions
-```
-```cpp
-[ExtensionAttribute]
-public ref class FilterOwnerExtensions
-```
+
+
 
 
 Тип FilterOwnerExtensions предоставляет следующие члены.

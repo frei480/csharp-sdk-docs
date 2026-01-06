@@ -11,13 +11,8 @@
 ```csharp
 public View3DCameraType CameraType
 ```
-```vb
-Public CameraType As View3DCameraType
-```
-```cpp
-public:
-View3DCameraType CameraType
-```
+
+
 
 
 #### Значение поля

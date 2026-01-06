@@ -10,20 +10,8 @@ public ModelTopol this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As Integer
-) As ModelTopol
-	Get
-	Set
-```
-```cpp
-public:
-property ModelTopol^ default[int index] {
-	ModelTopol^ get (int index);
-	void set (int index, ModelTopol^ value);
-}
-```
+
+
 
 
 #### Параметры

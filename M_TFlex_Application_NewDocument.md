@@ -11,13 +11,8 @@
 ```csharp
 public static Document NewDocument()
 ```
-```vb
-Public Shared Function NewDocument As Document
-```
-```cpp
-public:
-static Document^ NewDocument()
-```
+
+
 
 
 #### Возвращаемое значение

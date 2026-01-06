@@ -11,12 +11,8 @@
 ```csharp
 public enum RoughnessStepParameterType
 ```
-```vb
-Public Enumeration RoughnessStepParameterType
-```
-```cpp
-public enum class RoughnessStepParameterType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

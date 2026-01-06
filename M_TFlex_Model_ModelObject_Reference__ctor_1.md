@@ -13,17 +13,8 @@ public Reference(
 	ModelObject object
 )
 ```
-```vb
-Public Sub New ( 
-	object As ModelObject
-)
-```
-```cpp
-public:
-Reference(
-	ModelObject^ object
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public override Page Page { get; set; }
 ```
-```vb
-Public Overrides Property Page As Page
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Page^ Page {
-	Page^ get () override;
-	void set (Page^ value) override;
-}
-```
+
+
 
 
 #### Значение свойства

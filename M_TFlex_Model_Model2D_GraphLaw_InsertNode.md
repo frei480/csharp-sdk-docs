@@ -13,17 +13,8 @@ public bool InsertNode(
 	Point value
 )
 ```
-```vb
-Public Function InsertNode ( 
-	value As Point
-) As Boolean
-```
-```cpp
-public:
-bool InsertNode(
-	Point value
-)
-```
+
+
 
 
 #### Параметры

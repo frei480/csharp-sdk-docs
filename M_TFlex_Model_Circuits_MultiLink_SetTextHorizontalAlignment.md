@@ -10,17 +10,8 @@ public override void SetTextHorizontalAlignment(
 	TextHorizontalAlignment A_0
 )
 ```
-```vb
-Public Overrides Sub SetTextHorizontalAlignment ( 
-	A_0 As TextHorizontalAlignment
-)
-```
-```cpp
-public:
-virtual void SetTextHorizontalAlignment(
-	TextHorizontalAlignment A_0
-) override
-```
+
+
 
 
 #### Параметры

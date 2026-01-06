@@ -11,18 +11,8 @@
 ```csharp
 public Parameter SplinePoints { get; set; }
 ```
-```vb
-Public Property SplinePoints As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ SplinePoints {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

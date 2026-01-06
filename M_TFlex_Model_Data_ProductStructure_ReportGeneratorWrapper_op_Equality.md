@@ -11,19 +11,8 @@ public static bool operator ==(
 	ReportGeneratorWrapper right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As ReportGeneratorWrapper,
-	right As ReportGeneratorWrapper
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	ReportGeneratorWrapper^ left, 
-	ReportGeneratorWrapper^ right
-)
-```
+
+
 
 
 #### Параметры

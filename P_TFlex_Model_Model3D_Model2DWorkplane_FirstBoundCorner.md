@@ -11,18 +11,8 @@
 ```csharp
 public Node FirstBoundCorner { get; set; }
 ```
-```vb
-Public Property FirstBoundCorner As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ FirstBoundCorner {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

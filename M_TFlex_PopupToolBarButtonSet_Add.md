@@ -13,17 +13,8 @@ public bool Add(
 	int id
 )
 ```
-```vb
-Public Function Add ( 
-	id As Integer
-) As Boolean
-```
-```cpp
-public:
-bool Add(
-	int id
-)
-```
+
+
 
 
 #### Параметры

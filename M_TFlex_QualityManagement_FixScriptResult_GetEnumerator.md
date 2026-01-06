@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerator<FixResult> GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As IEnumerator(Of FixResult)
-```
-```cpp
-public:
-virtual IEnumerator<FixResult^>^ GetEnumerator() sealed
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,18 +11,8 @@
 ```csharp
 public bool Frozen { get; set; }
 ```
-```vb
-Public Property Frozen As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Frozen {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

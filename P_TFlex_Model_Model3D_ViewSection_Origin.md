@@ -11,16 +11,8 @@
 ```csharp
 public ViewSectionCoords Origin { get; }
 ```
-```vb
-Public ReadOnly Property Origin As ViewSectionCoords
-	Get
-```
-```cpp
-public:
-property ViewSectionCoords^ Origin {
-	ViewSectionCoords^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

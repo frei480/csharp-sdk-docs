@@ -11,18 +11,8 @@
 ```csharp
 public ParasolidFileFormat FileFormat { get; set; }
 ```
-```vb
-Public Property FileFormat As ParasolidFileFormat
-	Get
-	Set
-```
-```cpp
-public:
-property ParasolidFileFormat FileFormat {
-	ParasolidFileFormat get ();
-	void set (ParasolidFileFormat value);
-}
-```
+
+
 
 
 #### Значение свойства

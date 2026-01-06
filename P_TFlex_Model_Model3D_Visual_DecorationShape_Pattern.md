@@ -11,16 +11,8 @@
 ```csharp
 public int Pattern { set; }
 ```
-```vb
-Public WriteOnly Property Pattern As Integer
-	Set
-```
-```cpp
-public:
-property int Pattern {
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

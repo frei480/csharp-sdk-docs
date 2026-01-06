@@ -13,13 +13,8 @@
 ```csharp
 public class XyzVector : LoftVectorDirection
 ```
-```vb
-Public Class XyzVector
-	Inherits LoftVectorDirection
-```
-```cpp
-public ref class XyzVector : public LoftVectorDirection
-```
+
+
 
 
 Тип LoftXyzVector предоставляет следующие члены.

@@ -13,12 +13,8 @@
 ```csharp
 public class TempFileLinkParameters
 ```
-```vb
-Public Class TempFileLinkParameters
-```
-```cpp
-public ref class TempFileLinkParameters
-```
+
+
 
 
 Тип TempFileLinkParameters предоставляет следующие члены.

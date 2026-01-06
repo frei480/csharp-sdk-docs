@@ -8,13 +8,8 @@
 ```csharp
 public string SaveContentToString()
 ```
-```vb
-Public Function SaveContentToString As String
-```
-```cpp
-public:
-String^ SaveContentToString()
-```
+
+
 
 
 #### Возвращаемое значение

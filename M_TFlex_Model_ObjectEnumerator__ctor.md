@@ -13,17 +13,8 @@ public ObjectEnumerator(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ObjectEnumerator(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

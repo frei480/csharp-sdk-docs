@@ -11,18 +11,8 @@
 ```csharp
 public Node ArcNode { get; set; }
 ```
-```vb
-Public Property ArcNode As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ ArcNode {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

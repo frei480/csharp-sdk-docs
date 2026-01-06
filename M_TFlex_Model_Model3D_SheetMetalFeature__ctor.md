@@ -14,19 +14,8 @@ public SheetMetalFeature(
 	string fileName
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	fileName As String
-)
-```
-```cpp
-public:
-SheetMetalFeature(
-	Document^ document, 
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

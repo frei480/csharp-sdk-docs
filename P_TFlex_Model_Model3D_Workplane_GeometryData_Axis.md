@@ -14,18 +14,8 @@
 [ObsoleteAttribute("This method is obsolete and will be removed.")]
 public ModelAxis Axis { get; }
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed.")>
-Public ReadOnly Property Axis As ModelAxis
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed.")]
-property ModelAxis^ Axis {
-	ModelAxis^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

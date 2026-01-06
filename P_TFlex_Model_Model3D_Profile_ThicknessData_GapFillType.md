@@ -11,18 +11,8 @@
 ```csharp
 public ProfileThicknessDataGapFill GapFillType { get; set; }
 ```
-```vb
-Public Property GapFillType As ProfileThicknessDataGapFill
-	Get
-	Set
-```
-```cpp
-public:
-property ProfileThicknessDataGapFill GapFillType {
-	ProfileThicknessDataGapFill get ();
-	void set (ProfileThicknessDataGapFill value);
-}
-```
+
+
 
 
 #### Значение свойства

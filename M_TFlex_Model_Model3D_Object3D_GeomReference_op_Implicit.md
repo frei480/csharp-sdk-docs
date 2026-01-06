@@ -10,16 +10,8 @@ public static implicit operator Object3DGeomReference (
 	ModelAxis axis
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	axis As ModelAxis
-) As Object3DGeomReference
-```
-```cpp
-static implicit operator Object3DGeomReference^ (
-	ModelAxis^ axis
-)
-```
+
+
 
 
 #### Параметры

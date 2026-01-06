@@ -11,13 +11,8 @@
 ```csharp
 public class OffsetCommitedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class OffsetCommitedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class OffsetCommitedEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип TranslationManipulatorOffsetCommitedEventArgs предоставляет следующие члены.

@@ -14,15 +14,8 @@
 public class PlaneSurface : Surface, 
 	BasePlaneSurface
 ```
-```vb
-Public Class PlaneSurface
-	Inherits Surface
-	Implements BasePlaneSurface
-```
-```cpp
-public ref class PlaneSurface : public Surface, 
-	BasePlaneSurface
-```
+
+
 
 
 Тип PlaneSurface предоставляет следующие члены.

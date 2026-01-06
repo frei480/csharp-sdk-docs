@@ -13,17 +13,8 @@ public double GetY(
 	int index
 )
 ```
-```vb
-Public Function GetY ( 
-	index As Integer
-) As Double
-```
-```cpp
-public:
-double GetY(
-	int index
-)
-```
+
+
 
 
 #### Параметры

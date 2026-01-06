@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionDualDimType
 ```
-```vb
-Public Enumeration DimensionDualDimType
-```
-```cpp
-public enum class DimensionDualDimType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

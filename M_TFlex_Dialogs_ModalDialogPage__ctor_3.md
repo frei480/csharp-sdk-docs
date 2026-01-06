@@ -13,17 +13,8 @@ public ModalDialogPage(
 	PropertiesWindowFormBase form
 )
 ```
-```vb
-Public Sub New ( 
-	form As PropertiesWindowFormBase
-)
-```
-```cpp
-public:
-ModalDialogPage(
-	PropertiesWindowFormBase^ form
-)
-```
+
+
 
 
 #### Параметры

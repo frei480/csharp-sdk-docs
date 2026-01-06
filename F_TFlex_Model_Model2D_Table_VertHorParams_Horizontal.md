@@ -11,13 +11,8 @@
 ```csharp
 public double Horizontal
 ```
-```vb
-Public Horizontal As Double
-```
-```cpp
-public:
-double Horizontal
-```
+
+
 
 
 #### Значение поля

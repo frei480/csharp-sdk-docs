@@ -8,13 +8,8 @@
 ```csharp
 public static string[] GetAllFontNames()
 ```
-```vb
-Public Shared Function GetAllFontNames As String()
-```
-```cpp
-public:
-static array<String^>^ GetAllFontNames()
-```
+
+
 
 
 #### Возвращаемое значение

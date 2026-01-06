@@ -14,19 +14,8 @@ public bool FromFile(
 	string version
 )
 ```
-```vb
-Public Function FromFile ( 
-	path As String,
-	version As String
-) As Boolean
-```
-```cpp
-public:
-bool FromFile(
-	String^ path, 
-	String^ version
-)
-```
+
+
 
 
 #### Параметры

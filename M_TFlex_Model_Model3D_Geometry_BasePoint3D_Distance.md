@@ -13,17 +13,8 @@ public double Distance(
 	BasePoint3D other
 )
 ```
-```vb
-Public Function Distance ( 
-	other As BasePoint3D
-) As Double
-```
-```cpp
-public:
-double Distance(
-	BasePoint3D^ other
-)
-```
+
+
 
 
 #### Параметры

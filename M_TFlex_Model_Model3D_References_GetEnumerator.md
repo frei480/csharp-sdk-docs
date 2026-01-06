@@ -8,13 +8,8 @@
 ```csharp
 public virtual IEnumerator GetEnumerator()
 ```
-```vb
-Public Overridable Function GetEnumerator As IEnumerator
-```
-```cpp
-public:
-virtual IEnumerator^ GetEnumerator()
-```
+
+
 
 
 #### Возвращаемое значение

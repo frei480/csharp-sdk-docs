@@ -11,16 +11,8 @@
 ```csharp
 public int PreviousPosition { get; }
 ```
-```vb
-Public ReadOnly Property PreviousPosition As Integer
-	Get
-```
-```cpp
-public:
-property int PreviousPosition {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

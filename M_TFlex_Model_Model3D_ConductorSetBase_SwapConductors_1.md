@@ -11,19 +11,8 @@ public bool SwapConductors(
 	int indexSecond
 )
 ```
-```vb
-Public Function SwapConductors ( 
-	indexFirst As Integer,
-	indexSecond As Integer
-) As Boolean
-```
-```cpp
-public:
-bool SwapConductors(
-	int indexFirst, 
-	int indexSecond
-)
-```
+
+
 
 
 #### Параметры

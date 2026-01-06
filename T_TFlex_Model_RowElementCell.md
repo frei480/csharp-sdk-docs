@@ -13,12 +13,8 @@
 ```csharp
 public class RowElementCell
 ```
-```vb
-Public Class RowElementCell
-```
-```cpp
-public ref class RowElementCell
-```
+
+
 
 
 Тип RowElementCell предоставляет следующие члены.

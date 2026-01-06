@@ -11,16 +11,8 @@
 ```csharp
 public string Identify { get; }
 ```
-```vb
-Public ReadOnly Property Identify As String
-	Get
-```
-```cpp
-public:
-property String^ Identify {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

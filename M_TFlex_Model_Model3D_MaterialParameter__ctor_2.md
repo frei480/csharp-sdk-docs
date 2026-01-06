@@ -13,17 +13,8 @@ public MaterialParameter(
 	Variable Var
 )
 ```
-```vb
-Public Sub New ( 
-	Var As Variable
-)
-```
-```cpp
-public:
-MaterialParameter(
-	Variable^ Var
-)
-```
+
+
 
 
 #### Параметры

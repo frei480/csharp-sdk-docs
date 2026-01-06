@@ -8,16 +8,8 @@
 ```csharp
 public BaseBodyBodyType Type { get; }
 ```
-```vb
-Public ReadOnly Property Type As BaseBodyBodyType
-	Get
-```
-```cpp
-public:
-property BaseBodyBodyType Type {
-	BaseBodyBodyType get ();
-}
-```
+
+
 
 
 #### Значение свойства

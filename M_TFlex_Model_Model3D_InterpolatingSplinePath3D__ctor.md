@@ -13,17 +13,8 @@ public InterpolatingSplinePath3D(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-InterpolatingSplinePath3D(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

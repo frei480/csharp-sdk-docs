@@ -13,17 +13,8 @@ public bool LoadConfigurationSolids(
 	string Name
 )
 ```
-```vb
-Public Function LoadConfigurationSolids ( 
-	Name As String
-) As Boolean
-```
-```cpp
-public:
-bool LoadConfigurationSolids(
-	String^ Name
-)
-```
+
+
 
 
 #### Параметры

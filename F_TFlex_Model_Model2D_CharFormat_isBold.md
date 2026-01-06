@@ -11,13 +11,8 @@
 ```csharp
 public bool isBold
 ```
-```vb
-Public isBold As Boolean
-```
-```cpp
-public:
-bool isBold
-```
+
+
 
 
 #### Значение поля

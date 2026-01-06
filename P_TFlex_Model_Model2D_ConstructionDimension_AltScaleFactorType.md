@@ -11,18 +11,8 @@
 ```csharp
 public DimensionScaleFactorType AltScaleFactorType { get; set; }
 ```
-```vb
-Public Property AltScaleFactorType As DimensionScaleFactorType
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionScaleFactorType AltScaleFactorType {
-	DimensionScaleFactorType get ();
-	void set (DimensionScaleFactorType value);
-}
-```
+
+
 
 
 #### Значение свойства

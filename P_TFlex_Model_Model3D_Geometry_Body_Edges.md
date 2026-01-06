@@ -11,16 +11,8 @@
 ```csharp
 public override BaseEdges Edges { get; }
 ```
-```vb
-Public Overrides ReadOnly Property Edges As BaseEdges
-	Get
-```
-```cpp
-public:
-virtual property BaseEdges^ Edges {
-	BaseEdges^ get () override;
-}
-```
+
+
 
 
 #### Значение свойства

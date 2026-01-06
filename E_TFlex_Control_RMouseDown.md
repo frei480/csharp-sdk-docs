@@ -11,16 +11,8 @@
 ```csharp
 public event ControlRMouseDown RMouseDown
 ```
-```vb
-Public Event RMouseDown As ControlRMouseDown
-```
-```cpp
-public:
- event ControlRMouseDown^ RMouseDown {
-	void add (ControlRMouseDown^ value);
-	void remove (ControlRMouseDown^ value);
-}
-```
+
+
 
 
 #### Значение

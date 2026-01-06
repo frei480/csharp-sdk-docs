@@ -8,18 +8,8 @@
 ```csharp
 public IntPtr DocHandle { get; set; }
 ```
-```vb
-Public Property DocHandle As IntPtr
-	Get
-	Set
-```
-```cpp
-public:
-property IntPtr DocHandle {
-	IntPtr get ();
-	void set (IntPtr value);
-}
-```
+
+
 
 
 #### Значение свойства

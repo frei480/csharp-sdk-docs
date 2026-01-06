@@ -10,20 +10,8 @@ public Operation this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As Integer
-) As Operation
-	Get
-	Set
-```
-```cpp
-public:
-property Operation^ default[int index] {
-	Operation^ get (int index);
-	void set (int index, Operation^ value);
-}
-```
+
+
 
 
 #### Параметры

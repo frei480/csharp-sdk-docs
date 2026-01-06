@@ -13,13 +13,8 @@
 ```csharp
 public class ParagraphText : RichText
 ```
-```vb
-Public Class ParagraphText
-	Inherits RichText
-```
-```cpp
-public ref class ParagraphText : public RichText
-```
+
+
 
 
 Тип ParagraphText предоставляет следующие члены.

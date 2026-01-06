@@ -13,17 +13,8 @@ public void SetHeaders(
 	IList content
 )
 ```
-```vb
-Public Sub SetHeaders ( 
-	content As IList
-)
-```
-```cpp
-public:
-void SetHeaders(
-	IList^ content
-)
-```
+
+
 
 
 #### Параметры

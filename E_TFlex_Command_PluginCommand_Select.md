@@ -11,16 +11,8 @@
 ```csharp
 public event SelectEventHandler Select
 ```
-```vb
-Public Event Select As SelectEventHandler
-```
-```cpp
-public:
- event SelectEventHandler^ Select {
-	void add (SelectEventHandler^ value);
-	void remove (SelectEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

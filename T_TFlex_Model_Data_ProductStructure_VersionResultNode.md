@@ -11,13 +11,8 @@
 ```csharp
 public class VersionResultNode : ContainerResultNode
 ```
-```vb
-Public Class VersionResultNode
-	Inherits ContainerResultNode
-```
-```cpp
-public ref class VersionResultNode : public ContainerResultNode
-```
+
+
 
 
 Тип VersionResultNode предоставляет следующие члены.

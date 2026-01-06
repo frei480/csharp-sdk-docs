@@ -13,13 +13,8 @@
 ```csharp
 public class ViewSection : Section3D
 ```
-```vb
-Public Class ViewSection
-	Inherits Section3D
-```
-```cpp
-public ref class ViewSection : public Section3D
-```
+
+
 
 
 Тип ViewSection предоставляет следующие члены.

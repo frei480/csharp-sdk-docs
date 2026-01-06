@@ -13,17 +13,8 @@ public abstract RunResult Run(
 	RunContext context
 )
 ```
-```vb
-Public MustOverride Function Run ( 
-	context As RunContext
-) As RunResult
-```
-```cpp
-public:
-virtual RunResult^ Run(
-	RunContext^ context
-) abstract
-```
+
+
 
 
 #### Параметры

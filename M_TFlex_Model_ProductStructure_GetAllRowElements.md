@@ -11,13 +11,8 @@
 ```csharp
 public ICollection<RowElement> GetAllRowElements()
 ```
-```vb
-Public Function GetAllRowElements As ICollection(Of RowElement)
-```
-```cpp
-public:
-ICollection<RowElement^>^ GetAllRowElements()
-```
+
+
 
 
 #### Возвращаемое значение

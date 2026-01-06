@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Library : IDisposable
 ```
-```vb
-Public NotInheritable Class Library
-	Implements IDisposable
-```
-```cpp
-public ref class Library sealed : IDisposable
-```
+
+
 
 
 Тип Library предоставляет следующие члены.

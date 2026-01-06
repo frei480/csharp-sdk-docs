@@ -13,17 +13,8 @@ public ModelTopol getTopol(
 	int topolIndex
 )
 ```
-```vb
-Public Function getTopol ( 
-	topolIndex As Integer
-) As ModelTopol
-```
-```cpp
-public:
-ModelTopol^ getTopol(
-	int topolIndex
-)
-```
+
+
 
 
 #### Параметры

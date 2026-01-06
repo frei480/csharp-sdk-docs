@@ -16,23 +16,8 @@ public LineGeometry(
 	double y2
 )
 ```
-```vb
-Public Sub New ( 
-	x1 As Double,
-	y1 As Double,
-	x2 As Double,
-	y2 As Double
-)
-```
-```cpp
-public:
-LineGeometry(
-	double x1, 
-	double y1, 
-	double x2, 
-	double y2
-)
-```
+
+
 
 
 #### Параметры

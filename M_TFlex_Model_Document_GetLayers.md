@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Layer> GetLayers()
 ```
-```vb
-Public Function GetLayers As ICollection(Of Layer)
-```
-```cpp
-public:
-ICollection<Layer^>^ GetLayers()
-```
+
+
 
 
 #### Возвращаемое значение

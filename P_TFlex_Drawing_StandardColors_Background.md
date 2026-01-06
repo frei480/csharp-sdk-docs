@@ -11,16 +11,8 @@
 ```csharp
 public static Color Background { get; }
 ```
-```vb
-Public Shared ReadOnly Property Background As Color
-	Get
-```
-```cpp
-public:
-static property Color Background {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

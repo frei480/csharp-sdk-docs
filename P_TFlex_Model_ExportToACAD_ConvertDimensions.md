@@ -11,18 +11,8 @@
 ```csharp
 public int ConvertDimensions { get; set; }
 ```
-```vb
-Public Property ConvertDimensions As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ConvertDimensions {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

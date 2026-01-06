@@ -11,18 +11,8 @@
 ```csharp
 public virtual Point3D Position { get; set; }
 ```
-```vb
-Public Overridable Property Position As Point3D
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Point3D^ Position {
-	Point3D^ get ();
-	void set (Point3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

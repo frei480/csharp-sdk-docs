@@ -13,17 +13,8 @@ public bool RemoveNode(
 	uint index
 )
 ```
-```vb
-Public Function RemoveNode ( 
-	index As UInteger
-) As Boolean
-```
-```cpp
-public:
-bool RemoveNode(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

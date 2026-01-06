@@ -13,13 +13,8 @@
 ```csharp
 public class DecorationPolyline : DecorationShape
 ```
-```vb
-Public Class DecorationPolyline
-	Inherits DecorationShape
-```
-```cpp
-public ref class DecorationPolyline : public DecorationShape
-```
+
+
 
 
 Тип DecorationPolyline предоставляет следующие члены.

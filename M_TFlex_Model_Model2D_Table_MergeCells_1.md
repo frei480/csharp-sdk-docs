@@ -11,19 +11,8 @@ public void MergeCells(
 	IntPtr cell2Handle
 )
 ```
-```vb
-Public Sub MergeCells ( 
-	cell1Handle As IntPtr,
-	cell2Handle As IntPtr
-)
-```
-```cpp
-public:
-void MergeCells(
-	IntPtr cell1Handle, 
-	IntPtr cell2Handle
-)
-```
+
+
 
 
 #### Параметры

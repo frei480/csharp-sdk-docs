@@ -14,19 +14,8 @@ public void SetEndSmooth(
 	Parameter degree
 )
 ```
-```vb
-Public Sub SetEndSmooth ( 
-	smooth As Parameter,
-	degree As Parameter
-)
-```
-```cpp
-public:
-void SetEndSmooth(
-	Parameter^ smooth, 
-	Parameter^ degree
-)
-```
+
+
 
 
 #### Параметры

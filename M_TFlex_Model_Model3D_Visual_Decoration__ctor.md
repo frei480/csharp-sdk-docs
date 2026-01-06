@@ -13,17 +13,8 @@ protected Decoration(
 	string name
 )
 ```
-```vb
-Protected Sub New ( 
-	name As String
-)
-```
-```cpp
-protected:
-Decoration(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

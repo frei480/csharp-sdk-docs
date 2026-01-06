@@ -13,17 +13,8 @@ protected int StyleToInt(
 	ButtonStyle inStyle
 )
 ```
-```vb
-Protected Function StyleToInt ( 
-	inStyle As ButtonStyle
-) As Integer
-```
-```cpp
-protected:
-int StyleToInt(
-	ButtonStyle inStyle
-)
-```
+
+
 
 
 #### Параметры

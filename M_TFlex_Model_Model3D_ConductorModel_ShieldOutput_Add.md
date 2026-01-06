@@ -11,19 +11,8 @@ public bool Add(
 	string fileName
 )
 ```
-```vb
-Public Function Add ( 
-	pointOnSegment As TerminalPoint,
-	fileName As String
-) As Boolean
-```
-```cpp
-public:
-bool Add(
-	TerminalPoint^ pointOnSegment, 
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

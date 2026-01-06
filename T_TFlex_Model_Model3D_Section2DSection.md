@@ -13,13 +13,8 @@
 ```csharp
 public class Section2DSection : Model2DSection
 ```
-```vb
-Public Class Section2DSection
-	Inherits Model2DSection
-```
-```cpp
-public ref class Section2DSection : public Model2DSection
-```
+
+
 
 
 Тип Section2DSection предоставляет следующие члены.

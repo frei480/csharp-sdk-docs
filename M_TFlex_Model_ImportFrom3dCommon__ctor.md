@@ -13,17 +13,8 @@ public ImportFrom3dCommon(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ImportFrom3dCommon(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

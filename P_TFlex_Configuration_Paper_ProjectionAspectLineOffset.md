@@ -8,18 +8,8 @@
 ```csharp
 public double ProjectionAspectLineOffset { get; set; }
 ```
-```vb
-Public Property ProjectionAspectLineOffset As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double ProjectionAspectLineOffset {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

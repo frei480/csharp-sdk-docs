@@ -8,16 +8,8 @@
 ```csharp
 public int Entity { get; }
 ```
-```vb
-Public ReadOnly Property Entity As Integer
-	Get
-```
-```cpp
-public:
-property int Entity {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

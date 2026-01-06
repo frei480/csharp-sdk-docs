@@ -11,12 +11,8 @@
 ```csharp
 public enum VectorType
 ```
-```vb
-Public Enumeration VectorType
-```
-```cpp
-public enum class VectorType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

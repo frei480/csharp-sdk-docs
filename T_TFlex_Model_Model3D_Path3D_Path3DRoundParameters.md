@@ -13,12 +13,8 @@
 ```csharp
 public class Path3DRoundParameters
 ```
-```vb
-Public Class Path3DRoundParameters
-```
-```cpp
-public ref class Path3DRoundParameters
-```
+
+
 
 
 Тип Path3DPath3DRoundParameters предоставляет следующие члены.

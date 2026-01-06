@@ -11,18 +11,8 @@
 ```csharp
 public ParameterizationType VKnotSequenceType { get; set; }
 ```
-```vb
-Public Property VKnotSequenceType As ParameterizationType
-	Get
-	Set
-```
-```cpp
-public:
-property ParameterizationType VKnotSequenceType {
-	ParameterizationType get ();
-	void set (ParameterizationType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public ModelSurface Surface { get; }
 ```
-```vb
-Public ReadOnly Property Surface As ModelSurface
-	Get
-```
-```cpp
-public:
-property ModelSurface^ Surface {
-	ModelSurface^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

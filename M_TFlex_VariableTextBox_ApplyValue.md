@@ -11,13 +11,8 @@
 ```csharp
 public void ApplyValue()
 ```
-```vb
-Public Sub ApplyValue
-```
-```cpp
-public:
-void ApplyValue()
-```
+
+
 
 
 #### Ссылки

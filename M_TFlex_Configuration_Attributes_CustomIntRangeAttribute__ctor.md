@@ -15,21 +15,8 @@ public CustomIntRangeAttribute(
 	int step
 )
 ```
-```vb
-Public Sub New ( 
-	min As Integer,
-	max As Integer,
-	step As Integer
-)
-```
-```cpp
-public:
-CustomIntRangeAttribute(
-	int min, 
-	int max, 
-	int step
-)
-```
+
+
 
 
 #### Параметры

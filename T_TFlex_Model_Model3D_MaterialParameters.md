@@ -13,12 +13,8 @@
 ```csharp
 public class MaterialParameters
 ```
-```vb
-Public Class MaterialParameters
-```
-```cpp
-public ref class MaterialParameters
-```
+
+
 
 
 Тип MaterialParameters предоставляет следующие члены.

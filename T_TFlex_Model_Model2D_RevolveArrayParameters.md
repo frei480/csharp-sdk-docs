@@ -11,12 +11,8 @@
 ```csharp
 public enum RevolveArrayParameters
 ```
-```vb
-Public Enumeration RevolveArrayParameters
-```
-```cpp
-public enum class RevolveArrayParameters
-```
+
+
 
 
 | Имя члена | Значение | Описание |

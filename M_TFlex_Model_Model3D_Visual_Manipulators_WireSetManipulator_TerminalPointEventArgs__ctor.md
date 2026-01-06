@@ -11,13 +11,8 @@
 ```csharp
 public TerminalPointEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-TerminalPointEventArgs()
-```
+
+
 
 
 #### Ссылки

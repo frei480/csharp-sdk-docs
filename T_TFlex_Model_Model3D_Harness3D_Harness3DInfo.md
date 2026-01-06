@@ -11,12 +11,8 @@
 ```csharp
 public class Harness3DInfo
 ```
-```vb
-Public Class Harness3DInfo
-```
-```cpp
-public ref class Harness3DInfo
-```
+
+
 
 
 Тип Harness3DHarness3DInfo предоставляет следующие члены.

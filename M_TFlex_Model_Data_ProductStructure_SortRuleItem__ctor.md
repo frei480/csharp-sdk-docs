@@ -11,13 +11,8 @@
 ```csharp
 public SortRuleItem()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SortRuleItem()
-```
+
+
 
 
 #### Ссылки

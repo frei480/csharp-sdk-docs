@@ -15,21 +15,8 @@ public Direction[] Derivative(
 	uint vderivs
 )
 ```
-```vb
-Public Function Derivative ( 
-	uv As UV,
-	uderivs As UInteger,
-	vderivs As UInteger
-) As Direction()
-```
-```cpp
-public:
-array<Direction^>^ Derivative(
-	UV uv, 
-	unsigned int uderivs, 
-	unsigned int vderivs
-)
-```
+
+
 
 
 #### Параметры

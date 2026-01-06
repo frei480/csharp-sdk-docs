@@ -8,18 +8,8 @@
 ```csharp
 public IntParameter Qual { get; set; }
 ```
-```vb
-Public Property Qual As IntParameter
-	Get
-	Set
-```
-```cpp
-public:
-property IntParameter^ Qual {
-	IntParameter^ get ();
-	void set (IntParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

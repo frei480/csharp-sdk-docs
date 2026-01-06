@@ -8,18 +8,8 @@
 ```csharp
 public virtual Parameter IndexScale { get; set; }
 ```
-```vb
-Public Overridable Property IndexScale As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Parameter^ IndexScale {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public enum ConstraintEdgeType
 ```
-```vb
-Public Enumeration ConstraintEdgeType
-```
-```cpp
-public enum class ConstraintEdgeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

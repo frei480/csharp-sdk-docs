@@ -10,17 +10,8 @@ public void Assign(
 	Folders source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Folders
-)
-```
-```cpp
-public:
-void Assign(
-	Folders^ source
-)
-```
+
+
 
 
 #### Параметры

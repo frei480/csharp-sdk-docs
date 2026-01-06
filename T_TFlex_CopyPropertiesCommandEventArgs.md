@@ -13,13 +13,8 @@
 ```csharp
 public class CopyPropertiesCommandEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class CopyPropertiesCommandEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class CopyPropertiesCommandEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип CopyPropertiesCommandEventArgs предоставляет следующие члены.

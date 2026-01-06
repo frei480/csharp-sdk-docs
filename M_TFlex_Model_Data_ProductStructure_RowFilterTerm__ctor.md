@@ -11,13 +11,8 @@
 ```csharp
 public RowFilterTerm()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RowFilterTerm()
-```
+
+
 
 
 #### Ссылки

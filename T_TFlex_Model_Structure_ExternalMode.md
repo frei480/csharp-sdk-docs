@@ -8,12 +8,8 @@
 ```csharp
 public enum ExternalMode
 ```
-```vb
-Public Enumeration ExternalMode
-```
-```cpp
-public enum class ExternalMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

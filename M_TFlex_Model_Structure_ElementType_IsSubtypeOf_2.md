@@ -10,17 +10,8 @@ public bool IsSubtypeOf(
 	ElementType type
 )
 ```
-```vb
-Public Function IsSubtypeOf ( 
-	type As ElementType
-) As Boolean
-```
-```cpp
-public:
-bool IsSubtypeOf(
-	ElementType^ type
-)
-```
+
+
 
 
 #### Параметры

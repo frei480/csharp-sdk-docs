@@ -8,16 +8,8 @@
 ```csharp
 public bool IsActiveScenario { get; }
 ```
-```vb
-Public ReadOnly Property IsActiveScenario As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsActiveScenario {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

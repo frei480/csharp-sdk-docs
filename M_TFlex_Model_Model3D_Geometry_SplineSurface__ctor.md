@@ -13,17 +13,8 @@ public SplineSurface(
 	SurfacePiecewiseData data
 )
 ```
-```vb
-Public Sub New ( 
-	data As SurfacePiecewiseData
-)
-```
-```cpp
-public:
-SplineSurface(
-	SurfacePiecewiseData^ data
-)
-```
+
+
 
 
 #### Параметры

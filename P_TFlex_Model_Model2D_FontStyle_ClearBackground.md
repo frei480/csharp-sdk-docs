@@ -11,18 +11,8 @@
 ```csharp
 public bool ClearBackground { get; set; }
 ```
-```vb
-Public Property ClearBackground As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ClearBackground {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public ModelSheet Sheet { get; }
 ```
-```vb
-Public ReadOnly Property Sheet As ModelSheet
-	Get
-```
-```cpp
-public:
-property ModelSheet^ Sheet {
-	ModelSheet^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

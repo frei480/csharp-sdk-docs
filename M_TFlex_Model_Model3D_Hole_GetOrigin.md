@@ -10,17 +10,8 @@ public BasePoint3D GetOrigin(
 	int hole
 )
 ```
-```vb
-Public Function GetOrigin ( 
-	hole As Integer
-) As BasePoint3D
-```
-```cpp
-public:
-BasePoint3D^ GetOrigin(
-	int hole
-)
-```
+
+
 
 
 #### Параметры

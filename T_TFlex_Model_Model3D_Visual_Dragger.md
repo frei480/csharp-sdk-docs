@@ -16,15 +16,8 @@
 [ObsoleteAttribute("This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")]
 public abstract class Dragger : IDisposable
 ```
-```vb
-<ObsoleteAttribute("This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")>
-Public MustInherit Class Dragger
-	Implements IDisposable
-```
-```cpp
-[ObsoleteAttribute(L"This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")]
-public ref class Dragger abstract : IDisposable
-```
+
+
 
 
 #### Значение поля

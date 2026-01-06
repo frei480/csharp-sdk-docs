@@ -8,18 +8,8 @@
 ```csharp
 public FontStyle Style { get; set; }
 ```
-```vb
-Public Property Style As FontStyle
-	Get
-	Set
-```
-```cpp
-public:
-property FontStyle Style {
-	FontStyle get ();
-	void set (FontStyle value);
-}
-```
+
+
 
 
 #### Значение свойства

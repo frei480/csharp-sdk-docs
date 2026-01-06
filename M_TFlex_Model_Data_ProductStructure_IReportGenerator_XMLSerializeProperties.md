@@ -10,16 +10,8 @@ void XMLSerializeProperties(
 	XmlWriter writer
 )
 ```
-```vb
-Sub XMLSerializeProperties ( 
-	writer As XmlWriter
-)
-```
-```cpp
-void XMLSerializeProperties(
-	XmlWriter^ writer
-)
-```
+
+
 
 
 #### Параметры

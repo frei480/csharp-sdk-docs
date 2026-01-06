@@ -8,13 +8,8 @@
 ```csharp
 public int GetL()
 ```
-```vb
-Public Function GetL As Integer
-```
-```cpp
-public:
-int GetL()
-```
+
+
 
 
 #### Возвращаемое значение

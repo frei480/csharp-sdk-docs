@@ -12,21 +12,8 @@ public abstract void SetDesignation(
 	string delimiter
 )
 ```
-```vb
-Public MustOverride Sub SetDesignation ( 
-	expression As String,
-	text As MultilineText,
-	delimiter As String
-)
-```
-```cpp
-public:
-virtual void SetDesignation(
-	String^ expression, 
-	MultilineText^ text, 
-	String^ delimiter
-) abstract
-```
+
+
 
 
 #### Параметры

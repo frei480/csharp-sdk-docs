@@ -13,17 +13,8 @@ public void RemoveMatch(
 	int matchIndex
 )
 ```
-```vb
-Public Sub RemoveMatch ( 
-	matchIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveMatch(
-	int matchIndex
-)
-```
+
+
 
 
 #### Параметры

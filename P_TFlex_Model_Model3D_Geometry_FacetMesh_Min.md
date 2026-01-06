@@ -11,16 +11,8 @@
 ```csharp
 public Point3D Min { get; }
 ```
-```vb
-Public ReadOnly Property Min As Point3D
-	Get
-```
-```cpp
-public:
-property Point3D^ Min {
-	Point3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

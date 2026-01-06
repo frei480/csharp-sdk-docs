@@ -11,13 +11,8 @@
 ```csharp
 public class CustomCollectionInfoAttribute : Attribute
 ```
-```vb
-Public Class CustomCollectionInfoAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomCollectionInfoAttribute : public Attribute
-```
+
+
 
 
 Тип CustomCollectionInfoAttribute предоставляет следующие члены.

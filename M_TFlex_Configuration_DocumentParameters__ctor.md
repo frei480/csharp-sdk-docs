@@ -11,13 +11,8 @@
 ```csharp
 public DocumentParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-DocumentParameters()
-```
+
+
 
 
 #### Ссылки

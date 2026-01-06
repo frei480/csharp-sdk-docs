@@ -11,16 +11,8 @@
 ```csharp
 public int NumberOfConstraintEdges { get; }
 ```
-```vb
-Public ReadOnly Property NumberOfConstraintEdges As Integer
-	Get
-```
-```cpp
-public:
-property int NumberOfConstraintEdges {
-	int get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

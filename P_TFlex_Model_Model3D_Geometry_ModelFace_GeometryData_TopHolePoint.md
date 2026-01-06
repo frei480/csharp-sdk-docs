@@ -8,16 +8,8 @@
 ```csharp
 public ModelPoint3D TopHolePoint { get; }
 ```
-```vb
-Public ReadOnly Property TopHolePoint As ModelPoint3D
-	Get
-```
-```cpp
-public:
-property ModelPoint3D^ TopHolePoint {
-	ModelPoint3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

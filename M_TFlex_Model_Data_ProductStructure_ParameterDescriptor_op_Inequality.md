@@ -11,19 +11,8 @@ public static bool operator !=(
 	ParameterDescriptor right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As ParameterDescriptor,
-	right As ParameterDescriptor
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	ParameterDescriptor^ left, 
-	ParameterDescriptor^ right
-)
-```
+
+
 
 
 #### Параметры

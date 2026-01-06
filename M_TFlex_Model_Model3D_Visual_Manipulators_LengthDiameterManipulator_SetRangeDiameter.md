@@ -11,19 +11,8 @@ public void SetRangeDiameter(
 	double max
 )
 ```
-```vb
-Public Sub SetRangeDiameter ( 
-	min As Double,
-	max As Double
-)
-```
-```cpp
-public:
-void SetRangeDiameter(
-	double min, 
-	double max
-)
-```
+
+
 
 
 #### Параметры

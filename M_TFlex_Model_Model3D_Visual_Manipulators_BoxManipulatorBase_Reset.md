@@ -19,29 +19,8 @@ public void Reset(
 	double offsetZ
 )
 ```
-```vb
-Public Sub Reset ( 
-	origin As BasePoint3D,
-	xDirection As BaseDirection,
-	yDirection As BaseDirection,
-	zDirection As BaseDirection,
-	offsetX As Double,
-	offsetY As Double,
-	offsetZ As Double
-)
-```
-```cpp
-public:
-void Reset(
-	BasePoint3D^ origin, 
-	BaseDirection^ xDirection, 
-	BaseDirection^ yDirection, 
-	BaseDirection^ zDirection, 
-	double offsetX, 
-	double offsetY, 
-	double offsetZ
-)
-```
+
+
 
 
 #### Параметры

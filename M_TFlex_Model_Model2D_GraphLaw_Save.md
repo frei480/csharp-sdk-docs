@@ -13,17 +13,8 @@ public bool Save(
 	string file
 )
 ```
-```vb
-Public Function Save ( 
-	file As String
-) As Boolean
-```
-```cpp
-public:
-bool Save(
-	String^ file
-)
-```
+
+
 
 
 #### Параметры

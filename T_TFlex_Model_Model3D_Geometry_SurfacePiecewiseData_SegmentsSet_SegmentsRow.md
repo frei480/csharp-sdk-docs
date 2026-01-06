@@ -14,14 +14,8 @@
 public class SegmentsRow : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class SegmentsRow
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class SegmentsRow : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип SurfacePiecewiseDataSegmentsSetSegmentsRow предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ModelDirection : BaseDirection
 ```
-```vb
-Public NotInheritable Class ModelDirection
-	Inherits BaseDirection
-```
-```cpp
-public ref class ModelDirection sealed : public BaseDirection
-```
+
+
 
 
 Тип ModelDirection предоставляет следующие члены.

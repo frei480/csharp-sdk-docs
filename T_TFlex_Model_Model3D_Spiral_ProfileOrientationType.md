@@ -11,12 +11,8 @@
 ```csharp
 public enum ProfileOrientationType
 ```
-```vb
-Public Enumeration ProfileOrientationType
-```
-```cpp
-public enum class ProfileOrientationType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

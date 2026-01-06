@@ -13,17 +13,8 @@ public void FillRectangle(
 	Rectangle rect
 )
 ```
-```vb
-Public Sub FillRectangle ( 
-	rect As Rectangle
-)
-```
-```cpp
-public:
-void FillRectangle(
-	Rectangle rect
-)
-```
+
+
 
 
 #### Параметры

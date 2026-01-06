@@ -11,12 +11,8 @@
 ```csharp
 protected enum PropertyChange
 ```
-```vb
-Protected Enumeration PropertyChange
-```
-```cpp
-protected enum class PropertyChange
-```
+
+
 
 
 | Имя члена | Значение | Описание |

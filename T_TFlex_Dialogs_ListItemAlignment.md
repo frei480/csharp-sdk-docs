@@ -11,12 +11,8 @@
 ```csharp
 public enum ListItemAlignment
 ```
-```vb
-Public Enumeration ListItemAlignment
-```
-```cpp
-public enum class ListItemAlignment
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,18 +11,8 @@
 ```csharp
 public ImprintImprintCompleteType ImprintComplete { get; set; }
 ```
-```vb
-Public Property ImprintComplete As ImprintImprintCompleteType
-	Get
-	Set
-```
-```cpp
-public:
-property ImprintImprintCompleteType ImprintComplete {
-	ImprintImprintCompleteType get ();
-	void set (ImprintImprintCompleteType value);
-}
-```
+
+
 
 
 #### Значение свойства

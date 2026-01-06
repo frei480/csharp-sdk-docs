@@ -10,17 +10,8 @@ public void Assign(
 	Save source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Save
-)
-```
-```cpp
-public:
-void Assign(
-	Save^ source
-)
-```
+
+
 
 
 #### Параметры

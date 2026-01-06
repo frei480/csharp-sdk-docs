@@ -13,17 +13,8 @@ public ExternalObject(
 	IntPtr Handle
 )
 ```
-```vb
-Public Sub New ( 
-	Handle As IntPtr
-)
-```
-```cpp
-public:
-ExternalObject(
-	IntPtr Handle
-)
-```
+
+
 
 
 #### Параметры

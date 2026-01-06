@@ -11,18 +11,8 @@
 ```csharp
 public ModelPoint3D RotateEndPoint { get; set; }
 ```
-```vb
-Public Property RotateEndPoint As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ RotateEndPoint {
-	ModelPoint3D^ get ();
-	void set (ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

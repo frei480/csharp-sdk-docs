@@ -14,19 +14,8 @@ public TangentToSurfaceWorkplane(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-public:
-TangentToSurfaceWorkplane(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

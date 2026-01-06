@@ -11,13 +11,8 @@
 ```csharp
 public double GetCommitedLinearSize()
 ```
-```vb
-Public Function GetCommitedLinearSize As Double
-```
-```cpp
-public:
-double GetCommitedLinearSize()
-```
+
+
 
 
 #### Возвращаемое значение

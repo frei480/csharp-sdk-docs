@@ -11,16 +11,8 @@
 ```csharp
 public BaseDirection Normal { get; }
 ```
-```vb
-Public ReadOnly Property Normal As BaseDirection
-	Get
-```
-```cpp
-public:
-property BaseDirection^ Normal {
-	BaseDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

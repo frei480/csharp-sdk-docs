@@ -15,21 +15,8 @@ public void EditPosition(
 	bool bAddOffset
 )
 ```
-```vb
-Public Sub EditPosition ( 
-	indCoord As Coordinate,
-	pParam As Parameter,
-	bAddOffset As Boolean
-)
-```
-```cpp
-public:
-void EditPosition(
-	Coordinate indCoord, 
-	Parameter^ pParam, 
-	bool bAddOffset
-)
-```
+
+
 
 
 #### Параметры

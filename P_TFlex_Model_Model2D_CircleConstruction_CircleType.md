@@ -11,16 +11,8 @@
 ```csharp
 public CircleTypes CircleType { get; }
 ```
-```vb
-Public ReadOnly Property CircleType As CircleTypes
-	Get
-```
-```cpp
-public:
-property CircleTypes CircleType {
-	CircleTypes get ();
-}
-```
+
+
 
 
 #### Значение свойства

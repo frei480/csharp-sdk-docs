@@ -11,18 +11,8 @@
 ```csharp
 public BendPositionType Position { get; set; }
 ```
-```vb
-Public Property Position As BendPositionType
-	Get
-	Set
-```
-```cpp
-public:
-property BendPositionType Position {
-	BendPositionType get ();
-	void set (BendPositionType value);
-}
-```
+
+
 
 
 #### Значение свойства

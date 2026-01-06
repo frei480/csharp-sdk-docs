@@ -14,14 +14,8 @@
 public class TableFunction : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class TableFunction
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class TableFunction : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип TableFunction предоставляет следующие члены.

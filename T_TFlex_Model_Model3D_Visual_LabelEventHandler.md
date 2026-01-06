@@ -10,16 +10,8 @@ public delegate void LabelEventHandler(
 	LabelEventArgs args
 )
 ```
-```vb
-Public Delegate Sub LabelEventHandler ( 
-	args As LabelEventArgs
-)
-```
-```cpp
-public delegate void LabelEventHandler(
-	LabelEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class LinearSizeManipulator : Manipulator
 ```
-```vb
-Public Class LinearSizeManipulator
-	Inherits Manipulator
-```
-```cpp
-public ref class LinearSizeManipulator : public Manipulator
-```
+
+
 
 
 Тип LinearSizeManipulator предоставляет следующие члены.

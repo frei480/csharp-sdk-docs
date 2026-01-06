@@ -11,18 +11,8 @@
 ```csharp
 public EquidistantPathApproximationType Approximation { get; set; }
 ```
-```vb
-Public Property Approximation As EquidistantPathApproximationType
-	Get
-	Set
-```
-```cpp
-public:
-property EquidistantPathApproximationType Approximation {
-	EquidistantPathApproximationType get ();
-	void set (EquidistantPathApproximationType value);
-}
-```
+
+
 
 
 #### Значение свойства

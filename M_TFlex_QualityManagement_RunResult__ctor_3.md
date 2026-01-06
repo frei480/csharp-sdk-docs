@@ -13,17 +13,8 @@ public RunResult(
 	RunResultEntry entry
 )
 ```
-```vb
-Public Sub New ( 
-	entry As RunResultEntry
-)
-```
-```cpp
-public:
-RunResult(
-	RunResultEntry^ entry
-)
-```
+
+
 
 
 #### Параметры

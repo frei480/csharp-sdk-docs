@@ -14,19 +14,8 @@ public void Link(
 	LinearDimensionLinkedObject end
 )
 ```
-```vb
-Public Sub Link ( 
-	start As LinearDimensionLinkedObject,
-	end As LinearDimensionLinkedObject
-)
-```
-```cpp
-public:
-void Link(
-	LinearDimensionLinkedObject^ start, 
-	LinearDimensionLinkedObject^ end
-)
-```
+
+
 
 
 #### Параметры

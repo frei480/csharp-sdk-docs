@@ -13,17 +13,8 @@ public SectionPath(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-SectionPath(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

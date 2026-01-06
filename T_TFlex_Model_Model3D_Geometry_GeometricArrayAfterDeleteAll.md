@@ -8,12 +8,8 @@
 ```csharp
 public delegate void GeometricArrayAfterDeleteAll()
 ```
-```vb
-Public Delegate Sub GeometricArrayAfterDeleteAll
-```
-```cpp
-public delegate void GeometricArrayAfterDeleteAll()
-```
+
+
 
 
 #### Ссылки

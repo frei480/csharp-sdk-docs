@@ -8,18 +8,8 @@
 ```csharp
 public int WpInnerLines { get; set; }
 ```
-```vb
-Public Property WpInnerLines As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int WpInnerLines {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

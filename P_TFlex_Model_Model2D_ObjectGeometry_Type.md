@@ -11,16 +11,8 @@
 ```csharp
 public virtual ObjectGeometryType Type { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Type As ObjectGeometryType
-	Get
-```
-```cpp
-public:
-virtual property ObjectGeometryType Type {
-	ObjectGeometryType get ();
-}
-```
+
+
 
 
 #### Значение свойства

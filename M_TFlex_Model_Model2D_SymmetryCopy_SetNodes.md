@@ -18,27 +18,8 @@ public void SetNodes(
 	double secondY
 )
 ```
-```vb
-Public Sub SetNodes ( 
-	firstNode As Node,
-	firstX As Double,
-	firstY As Double,
-	secondNode As Node,
-	secondX As Double,
-	secondY As Double
-)
-```
-```cpp
-public:
-void SetNodes(
-	Node^ firstNode, 
-	double firstX, 
-	double firstY, 
-	Node^ secondNode, 
-	double secondX, 
-	double secondY
-)
-```
+
+
 
 
 #### Параметры

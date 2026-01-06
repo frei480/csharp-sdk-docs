@@ -11,18 +11,8 @@
 ```csharp
 public string Keywords { get; set; }
 ```
-```vb
-Public Property Keywords As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Keywords {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public static Constraint CreateFixedAngle(
 	Object2D iObject
 )
 ```
-```vb
-Public Shared Function CreateFixedAngle ( 
-	iDoc As Document,
-	iObject As Object2D
-) As Constraint
-```
-```cpp
-public:
-static Constraint^ CreateFixedAngle(
-	Document^ iDoc, 
-	Object2D^ iObject
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public ChangesResult EndChanges(
 	bool Regenerate
 )
 ```
-```vb
-Public Function EndChanges ( 
-	Unconditionally As Boolean,
-	Regenerate As Boolean
-) As ChangesResult
-```
-```cpp
-public:
-ChangesResult EndChanges(
-	bool Unconditionally, 
-	bool Regenerate
-)
-```
+
+
 
 
 #### Параметры

@@ -15,21 +15,8 @@ public void SetRange(
 	bool rescaleValue
 )
 ```
-```vb
-Public Sub SetRange ( 
-	minValue As Double,
-	maxValue As Double,
-	rescaleValue As Boolean
-)
-```
-```cpp
-public:
-void SetRange(
-	double minValue, 
-	double maxValue, 
-	bool rescaleValue
-)
-```
+
+
 
 
 #### Параметры

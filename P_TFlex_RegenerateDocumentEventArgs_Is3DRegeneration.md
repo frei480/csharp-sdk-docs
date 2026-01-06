@@ -11,16 +11,8 @@
 ```csharp
 public bool Is3DRegeneration { get; }
 ```
-```vb
-Public ReadOnly Property Is3DRegeneration As Boolean
-	Get
-```
-```cpp
-public:
-property bool Is3DRegeneration {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

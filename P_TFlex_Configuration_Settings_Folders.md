@@ -8,16 +8,8 @@
 ```csharp
 public Folders Folders { get; }
 ```
-```vb
-Public ReadOnly Property Folders As Folders
-	Get
-```
-```cpp
-public:
-property Folders^ Folders {
-	Folders^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

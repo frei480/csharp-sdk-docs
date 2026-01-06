@@ -8,12 +8,8 @@
 ```csharp
 public enum CreatePartMode
 ```
-```vb
-Public Enumeration CreatePartMode
-```
-```cpp
-public enum class CreatePartMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

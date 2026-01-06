@@ -11,18 +11,8 @@
 ```csharp
 public ModelSurface TangentSurface { get; set; }
 ```
-```vb
-Public Property TangentSurface As ModelSurface
-	Get
-	Set
-```
-```cpp
-public:
-property ModelSurface^ TangentSurface {
-	ModelSurface^ get ();
-	void set (ModelSurface^ value);
-}
-```
+
+
 
 
 #### Значение свойства

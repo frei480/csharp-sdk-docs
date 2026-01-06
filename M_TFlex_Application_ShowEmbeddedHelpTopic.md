@@ -13,17 +13,8 @@ public static bool ShowEmbeddedHelpTopic(
 	string url
 )
 ```
-```vb
-Public Shared Function ShowEmbeddedHelpTopic ( 
-	url As String
-) As Boolean
-```
-```cpp
-public:
-static bool ShowEmbeddedHelpTopic(
-	String^ url
-)
-```
+
+
 
 
 #### Параметры

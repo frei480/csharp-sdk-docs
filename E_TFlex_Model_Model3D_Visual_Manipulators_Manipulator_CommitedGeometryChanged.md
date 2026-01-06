@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<CommitedGeometryChangedEventArgs> CommitedGeometryChanged
 ```
-```vb
-Public Event CommitedGeometryChanged As EventHandler(Of CommitedGeometryChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<CommitedGeometryChangedEventArgs^>^ CommitedGeometryChanged {
-	void add (EventHandler<CommitedGeometryChangedEventArgs^>^ value);
-	void remove (EventHandler<CommitedGeometryChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

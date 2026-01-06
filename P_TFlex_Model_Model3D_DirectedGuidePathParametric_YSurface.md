@@ -11,16 +11,8 @@
 ```csharp
 public SheetsArray YSurface { get; }
 ```
-```vb
-Public ReadOnly Property YSurface As SheetsArray
-	Get
-```
-```cpp
-public:
-property SheetsArray^ YSurface {
-	SheetsArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

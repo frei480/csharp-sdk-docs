@@ -14,19 +14,8 @@ protected void CreateToolbar(
 	int[] CmdIDs
 )
 ```
-```vb
-Protected Sub CreateToolbar ( 
-	Caption As String,
-	CmdIDs As Integer()
-)
-```
-```cpp
-protected:
-void CreateToolbar(
-	String^ Caption, 
-	array<int>^ CmdIDs
-)
-```
+
+
 
 
 #### Параметры

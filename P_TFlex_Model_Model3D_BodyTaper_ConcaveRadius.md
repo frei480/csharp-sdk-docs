@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ConcaveRadius { get; set; }
 ```
-```vb
-Public Property ConcaveRadius As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ConcaveRadius {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

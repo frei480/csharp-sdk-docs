@@ -13,17 +13,8 @@ public LineSurfaceDevelopmentProfile(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-LineSurfaceDevelopmentProfile(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

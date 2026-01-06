@@ -14,19 +14,8 @@ protected Model2DWorkplane(
 	Page page
 )
 ```
-```vb
-Protected Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-protected:
-Model2DWorkplane(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

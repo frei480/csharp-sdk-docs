@@ -14,18 +14,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'CreateReference' method.")]
 public TopolReference Reference { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'CreateReference' method.")>
-Public ReadOnly Property Reference As TopolReference
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'CreateReference' method.")]
-property TopolReference^ Reference {
-	TopolReference^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

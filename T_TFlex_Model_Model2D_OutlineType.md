@@ -11,12 +11,8 @@
 ```csharp
 public enum OutlineType
 ```
-```vb
-Public Enumeration OutlineType
-```
-```cpp
-public enum class OutlineType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

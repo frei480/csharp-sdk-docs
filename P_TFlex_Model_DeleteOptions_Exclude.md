@@ -11,18 +11,8 @@
 ```csharp
 public bool Exclude { get; set; }
 ```
-```vb
-Public Property Exclude As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Exclude {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

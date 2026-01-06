@@ -8,16 +8,8 @@
 ```csharp
 public ICollection<Edge> Edges { get; }
 ```
-```vb
-Public ReadOnly Property Edges As ICollection(Of Edge)
-	Get
-```
-```cpp
-public:
-property ICollection<Edge^>^ Edges {
-	ICollection<Edge^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

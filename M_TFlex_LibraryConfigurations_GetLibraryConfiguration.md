@@ -13,17 +13,8 @@ public LibraryConfiguration GetLibraryConfiguration(
 	int index
 )
 ```
-```vb
-Public Function GetLibraryConfiguration ( 
-	index As Integer
-) As LibraryConfiguration
-```
-```cpp
-public:
-LibraryConfiguration^ GetLibraryConfiguration(
-	int index
-)
-```
+
+
 
 
 #### Параметры

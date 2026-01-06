@@ -8,16 +8,8 @@
 ```csharp
 public Assembly Assembly { get; }
 ```
-```vb
-Public ReadOnly Property Assembly As Assembly
-	Get
-```
-```cpp
-public:
-property Assembly^ Assembly {
-	Assembly^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

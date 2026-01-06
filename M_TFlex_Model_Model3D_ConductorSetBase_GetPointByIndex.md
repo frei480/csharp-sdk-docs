@@ -10,17 +10,8 @@ public Point GetPointByIndex(
 	int pointIndex
 )
 ```
-```vb
-Public Function GetPointByIndex ( 
-	pointIndex As Integer
-) As Point
-```
-```cpp
-public:
-Point^ GetPointByIndex(
-	int pointIndex
-)
-```
+
+
 
 
 #### Параметры

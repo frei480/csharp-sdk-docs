@@ -11,13 +11,8 @@
 ```csharp
 public MessagesBarClickEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MessagesBarClickEventArgs()
-```
+
+
 
 
 #### Ссылки

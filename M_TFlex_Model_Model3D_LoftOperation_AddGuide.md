@@ -13,17 +13,8 @@ public LoftOperationGuide AddGuide(
 	ModelContour contour
 )
 ```
-```vb
-Public Function AddGuide ( 
-	contour As ModelContour
-) As LoftOperationGuide
-```
-```cpp
-public:
-LoftOperationGuide^ AddGuide(
-	ModelContour^ contour
-)
-```
+
+
 
 
 #### Параметры

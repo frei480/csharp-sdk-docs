@@ -13,13 +13,8 @@
 ```csharp
 public abstract class BaseBox : Geometry
 ```
-```vb
-Public MustInherit Class BaseBox
-	Inherits Geometry
-```
-```cpp
-public ref class BaseBox abstract : public Geometry
-```
+
+
 
 
 Тип BaseBox предоставляет следующие члены.

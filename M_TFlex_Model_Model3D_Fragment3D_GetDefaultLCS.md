@@ -11,13 +11,8 @@
 ```csharp
 public string GetDefaultLCS()
 ```
-```vb
-Public Function GetDefaultLCS As String
-```
-```cpp
-public:
-String^ GetDefaultLCS()
-```
+
+
 
 
 #### Возвращаемое значение

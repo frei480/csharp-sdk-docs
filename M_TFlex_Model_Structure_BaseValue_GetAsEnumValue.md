@@ -8,13 +8,8 @@
 ```csharp
 public abstract TypeValue GetAsEnumValue()
 ```
-```vb
-Public MustOverride Function GetAsEnumValue As TypeValue
-```
-```cpp
-public:
-virtual TypeValue^ GetAsEnumValue() abstract
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,18 +8,8 @@
 ```csharp
 public FirstVisibleSymbol VBegin { get; set; }
 ```
-```vb
-Public Property VBegin As FirstVisibleSymbol
-	Get
-	Set
-```
-```cpp
-public:
-property FirstVisibleSymbol VBegin {
-	FirstVisibleSymbol get ();
-	void set (FirstVisibleSymbol value);
-}
-```
+
+
 
 
 #### Значение свойства

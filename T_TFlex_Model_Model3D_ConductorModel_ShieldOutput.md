@@ -11,12 +11,8 @@
 ```csharp
 public class ShieldOutput
 ```
-```vb
-Public Class ShieldOutput
-```
-```cpp
-public ref class ShieldOutput
-```
+
+
 
 
 Тип ShieldOutput предоставляет следующие члены.

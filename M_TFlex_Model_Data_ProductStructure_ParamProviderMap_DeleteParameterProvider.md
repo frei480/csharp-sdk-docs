@@ -10,17 +10,8 @@ public void DeleteParameterProvider(
 	Guid rowID
 )
 ```
-```vb
-Public Sub DeleteParameterProvider ( 
-	rowID As Guid
-)
-```
-```cpp
-public:
-void DeleteParameterProvider(
-	Guid rowID
-)
-```
+
+
 
 
 #### Параметры

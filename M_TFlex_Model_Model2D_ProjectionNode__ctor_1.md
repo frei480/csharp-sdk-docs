@@ -15,21 +15,8 @@ public ProjectionNode(
 	ModelObject projectedObject
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	workplane As ModelObject,
-	projectedObject As ModelObject
-)
-```
-```cpp
-public:
-ProjectionNode(
-	Document^ document, 
-	ModelObject^ workplane, 
-	ModelObject^ projectedObject
-)
-```
+
+
 
 
 #### Параметры

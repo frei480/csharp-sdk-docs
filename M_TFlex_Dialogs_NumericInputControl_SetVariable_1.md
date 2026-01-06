@@ -14,19 +14,8 @@ public void SetVariable(
 	Unit unit
 )
 ```
-```vb
-Public Sub SetVariable ( 
-	variable As Variable,
-	unit As Unit
-)
-```
-```cpp
-public:
-void SetVariable(
-	Variable^ variable, 
-	Unit^ unit
-)
-```
+
+
 
 
 #### Параметры

@@ -13,12 +13,8 @@
 ```csharp
 public abstract class HyperlinkProperties
 ```
-```vb
-Public MustInherit Class HyperlinkProperties
-```
-```cpp
-public ref class HyperlinkProperties abstract
-```
+
+
 
 
 Тип HyperlinkProperties предоставляет следующие члены.

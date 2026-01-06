@@ -11,19 +11,8 @@ public void ApplyDataToElement(
 	ElementInfoContent content
 )
 ```
-```vb
-Public Sub ApplyDataToElement ( 
-	elem As Element,
-	content As ElementInfoContent
-)
-```
-```cpp
-public:
-void ApplyDataToElement(
-	Element^ elem, 
-	ElementInfoContent content
-)
-```
+
+
 
 
 #### Параметры

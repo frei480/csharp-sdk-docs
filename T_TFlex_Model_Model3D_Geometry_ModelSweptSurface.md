@@ -14,15 +14,8 @@
 public sealed class ModelSweptSurface : ModelSurface, 
 	BaseSweptSurface
 ```
-```vb
-Public NotInheritable Class ModelSweptSurface
-	Inherits ModelSurface
-	Implements BaseSweptSurface
-```
-```cpp
-public ref class ModelSweptSurface sealed : public ModelSurface, 
-	BaseSweptSurface
-```
+
+
 
 
 Тип ModelSweptSurface предоставляет следующие члены.

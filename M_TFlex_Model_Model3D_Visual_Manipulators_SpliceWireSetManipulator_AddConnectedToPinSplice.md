@@ -10,17 +10,8 @@ public void AddConnectedToPinSplice(
 	int index
 )
 ```
-```vb
-Public Sub AddConnectedToPinSplice ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void AddConnectedToPinSplice(
-	int index
-)
-```
+
+
 
 
 #### Параметры

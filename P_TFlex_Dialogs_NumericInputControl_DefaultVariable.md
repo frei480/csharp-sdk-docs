@@ -11,16 +11,8 @@
 ```csharp
 public Variable DefaultVariable { get; }
 ```
-```vb
-Public ReadOnly Property DefaultVariable As Variable
-	Get
-```
-```cpp
-public:
-property Variable^ DefaultVariable {
-	Variable^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

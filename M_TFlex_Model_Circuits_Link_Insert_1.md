@@ -14,19 +14,8 @@ public virtual bool Insert(
 	FixingVector point2
 )
 ```
-```vb
-Public Overridable Function Insert ( 
-	point1 As FixingVector,
-	point2 As FixingVector
-) As Boolean
-```
-```cpp
-public:
-virtual bool Insert(
-	FixingVector^ point1, 
-	FixingVector^ point2
-)
-```
+
+
 
 
 #### Параметры

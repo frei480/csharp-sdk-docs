@@ -11,16 +11,8 @@
 ```csharp
 public RegenerateDocumentEventArgsUpdateFileLinks UpdateFileLinksMode { get; }
 ```
-```vb
-Public ReadOnly Property UpdateFileLinksMode As RegenerateDocumentEventArgsUpdateFileLinks
-	Get
-```
-```cpp
-public:
-property RegenerateDocumentEventArgsUpdateFileLinks UpdateFileLinksMode {
-	RegenerateDocumentEventArgsUpdateFileLinks get ();
-}
-```
+
+
 
 
 #### Значение свойства

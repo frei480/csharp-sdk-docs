@@ -8,18 +8,8 @@
 ```csharp
 public bool IsModelSized { get; set; }
 ```
-```vb
-Public Property IsModelSized As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsModelSized {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

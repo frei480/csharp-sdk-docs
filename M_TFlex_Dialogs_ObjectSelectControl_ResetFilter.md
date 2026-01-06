@@ -11,13 +11,8 @@
 ```csharp
 public void ResetFilter()
 ```
-```vb
-Public Sub ResetFilter
-```
-```cpp
-public:
-void ResetFilter()
-```
+
+
 
 
 #### Ссылки

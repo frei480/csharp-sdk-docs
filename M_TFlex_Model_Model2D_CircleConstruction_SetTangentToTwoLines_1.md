@@ -16,23 +16,8 @@ public void SetTangentToTwoLines(
 	Node anchorNode
 )
 ```
-```vb
-Public Sub SetTangentToTwoLines ( 
-	srcLine1 As Construction,
-	srcLine2 As Construction,
-	radius As Parameter,
-	anchorNode As Node
-)
-```
-```cpp
-public:
-void SetTangentToTwoLines(
-	Construction^ srcLine1, 
-	Construction^ srcLine2, 
-	Parameter^ radius, 
-	Node^ anchorNode
-)
-```
+
+
 
 
 #### Параметры

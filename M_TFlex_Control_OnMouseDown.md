@@ -13,17 +13,8 @@ protected override void OnMouseDown(
 	MouseEventArgs e
 )
 ```
-```vb
-Protected Overrides Sub OnMouseDown ( 
-	e As MouseEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnMouseDown(
-	MouseEventArgs^ e
-) override
-```
+
+
 
 
 #### Параметры

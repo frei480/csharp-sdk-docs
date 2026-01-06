@@ -14,19 +14,8 @@ public static List<BasePoint3D> RangePoint(
 	BasePoint3D point
 )
 ```
-```vb
-Public Shared Function RangePoint ( 
-	operation As Operation,
-	point As BasePoint3D
-) As List(Of BasePoint3D)
-```
-```cpp
-public:
-static List<BasePoint3D^>^ RangePoint(
-	Operation^ operation, 
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

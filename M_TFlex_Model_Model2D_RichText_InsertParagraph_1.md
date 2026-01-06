@@ -13,17 +13,8 @@ public void InsertParagraph(
 	CharFormat format
 )
 ```
-```vb
-Public Sub InsertParagraph ( 
-	format As CharFormat
-)
-```
-```cpp
-public:
-void InsertParagraph(
-	CharFormat format
-)
-```
+
+
 
 
 #### Параметры

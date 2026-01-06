@@ -13,12 +13,8 @@
 ```csharp
 public sealed class CopyObjectsOptions
 ```
-```vb
-Public NotInheritable Class CopyObjectsOptions
-```
-```cpp
-public ref class CopyObjectsOptions sealed
-```
+
+
 
 
 Тип CopyObjectsOptions предоставляет следующие члены.

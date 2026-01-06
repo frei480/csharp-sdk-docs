@@ -10,18 +10,8 @@ public ElementValue this[
 	string parameterSystemName
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	parameterSystemName As String
-) As ElementValue
-	Get
-```
-```cpp
-public:
-property ElementValue^ default[String^ parameterSystemName] {
-	ElementValue^ get (String^ parameterSystemName);
-}
-```
+
+
 
 
 #### Параметры

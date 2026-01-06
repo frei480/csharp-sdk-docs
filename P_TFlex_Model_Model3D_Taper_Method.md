@@ -11,18 +11,8 @@
 ```csharp
 public TaperTaperMethod Method { get; set; }
 ```
-```vb
-Public Property Method As TaperTaperMethod
-	Get
-	Set
-```
-```cpp
-public:
-property TaperTaperMethod Method {
-	TaperTaperMethod get ();
-	void set (TaperTaperMethod value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter LinLinRatio { get; set; }
 ```
-```vb
-Public Property LinLinRatio As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ LinLinRatio {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,14 +14,8 @@
 public abstract class Collection<T> : IList<T>
 
 ```
-```vb
-Public MustInherit Class Collection(Of T)
-	Implements IList(Of T)
-```
-```cpp
-generic<typename T>
-public ref class Collection abstract : IList<T>
-```
+
+
 
 
 #### Параметры типа

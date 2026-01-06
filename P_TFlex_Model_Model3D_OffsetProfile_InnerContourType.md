@@ -11,18 +11,8 @@
 ```csharp
 public OffsetProfileInnerContour InnerContourType { get; set; }
 ```
-```vb
-Public Property InnerContourType As OffsetProfileInnerContour
-	Get
-	Set
-```
-```cpp
-public:
-property OffsetProfileInnerContour InnerContourType {
-	OffsetProfileInnerContour get ();
-	void set (OffsetProfileInnerContour value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,21 +15,8 @@ public Model3DObjectGroup(
 	ObjectType Type
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	Name As String,
-	Type As ObjectType
-)
-```
-```cpp
-public:
-Model3DObjectGroup(
-	Document^ Doc, 
-	String^ Name, 
-	ObjectType Type
-)
-```
+
+
 
 
 #### Параметры

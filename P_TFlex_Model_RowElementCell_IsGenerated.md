@@ -11,18 +11,8 @@
 ```csharp
 public bool IsGenerated { get; set; }
 ```
-```vb
-Public Property IsGenerated As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsGenerated {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

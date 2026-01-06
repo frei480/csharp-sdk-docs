@@ -11,13 +11,8 @@
 ```csharp
 public class PrototypeCopyValuesParameters : BaseCopyValuesParameters
 ```
-```vb
-Public Class PrototypeCopyValuesParameters
-	Inherits BaseCopyValuesParameters
-```
-```cpp
-public ref class PrototypeCopyValuesParameters : public BaseCopyValuesParameters
-```
+
+
 
 
 Тип PrototypeCopyValuesParameters предоставляет следующие члены.

@@ -8,16 +8,8 @@
 ```csharp
 public CustomCommand Command { get; }
 ```
-```vb
-Public ReadOnly Property Command As CustomCommand
-	Get
-```
-```cpp
-public:
-property CustomCommand^ Command {
-	CustomCommand^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

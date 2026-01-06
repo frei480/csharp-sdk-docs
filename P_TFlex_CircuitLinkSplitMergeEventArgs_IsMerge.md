@@ -8,16 +8,8 @@
 ```csharp
 public bool IsMerge { get; }
 ```
-```vb
-Public ReadOnly Property IsMerge As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsMerge {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

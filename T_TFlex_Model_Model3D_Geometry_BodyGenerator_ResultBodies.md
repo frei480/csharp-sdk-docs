@@ -14,14 +14,8 @@
 public class ResultBodies : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ResultBodies
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ResultBodies : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип BodyGeneratorResultBodies предоставляет следующие члены.

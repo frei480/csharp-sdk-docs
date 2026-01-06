@@ -10,17 +10,8 @@ public bool DeleteRecord(
 	int index
 )
 ```
-```vb
-Public Function DeleteRecord ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool DeleteRecord(
-	int index
-)
-```
+
+
 
 
 #### Параметры

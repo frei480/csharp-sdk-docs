@@ -11,16 +11,8 @@
 ```csharp
 public static MaterialLibrary Default { get; }
 ```
-```vb
-Public Shared ReadOnly Property Default As MaterialLibrary
-	Get
-```
-```cpp
-public:
-static property MaterialLibrary^ Default {
-	MaterialLibrary^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

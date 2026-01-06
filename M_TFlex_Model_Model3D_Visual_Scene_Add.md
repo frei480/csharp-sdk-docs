@@ -13,17 +13,8 @@ public bool Add(
 	ObjectRepresentation representation
 )
 ```
-```vb
-Public Function Add ( 
-	representation As ObjectRepresentation
-) As Boolean
-```
-```cpp
-public:
-bool Add(
-	ObjectRepresentation^ representation
-)
-```
+
+
 
 
 #### Параметры

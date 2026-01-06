@@ -13,17 +13,8 @@ public Object3D GetSecondElement(
 	int index
 )
 ```
-```vb
-Public Function GetSecondElement ( 
-	index As Integer
-) As Object3D
-```
-```cpp
-public:
-Object3D^ GetSecondElement(
-	int index
-)
-```
+
+
 
 
 #### Параметры

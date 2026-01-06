@@ -14,14 +14,8 @@
 public class TransformationContainer : IEnumerator, 
 	IEnumerable, IDisposable
 ```
-```vb
-Public Class TransformationContainer
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class TransformationContainer : IEnumerator, 
-	IEnumerable, IDisposable
-```
+
+
 
 
 Тип TransformationContainer предоставляет следующие члены.

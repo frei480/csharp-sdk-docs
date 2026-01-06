@@ -11,13 +11,8 @@
 ```csharp
 public MergedCellValue()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MergedCellValue()
-```
+
+
 
 
 #### Ссылки

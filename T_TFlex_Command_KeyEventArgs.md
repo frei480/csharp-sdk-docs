@@ -13,13 +13,8 @@
 ```csharp
 public sealed class KeyEventArgs : CursorEventArgs
 ```
-```vb
-Public NotInheritable Class KeyEventArgs
-	Inherits CursorEventArgs
-```
-```cpp
-public ref class KeyEventArgs sealed : public CursorEventArgs
-```
+
+
 
 
 Тип KeyEventArgs предоставляет следующие члены.

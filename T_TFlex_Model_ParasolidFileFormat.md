@@ -11,12 +11,8 @@
 ```csharp
 public enum ParasolidFileFormat
 ```
-```vb
-Public Enumeration ParasolidFileFormat
-```
-```cpp
-public enum class ParasolidFileFormat
-```
+
+
 
 
 | Имя члена | Значение | Описание |

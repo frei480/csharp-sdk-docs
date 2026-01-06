@@ -18,23 +18,8 @@ public Menu InsertPluginSubMenu(
 	Plugin plugin
 )
 ```
-```vb
-<ObsoleteAttribute("Use method "void InsertPluginSubMenu(String caption, TFlex::Menu menu, InsertMenuPosition position, Plugin plugin)"")>
-Public Function InsertPluginSubMenu ( 
-	caption As String,
-	position As MainWindowInsertMenuPosition,
-	plugin As Plugin
-) As Menu
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Use method "void InsertPluginSubMenu(String caption, TFlex::Menu menu, InsertMenuPosition position, Plugin plugin)"")]
-Menu^ InsertPluginSubMenu(
-	String^ caption, 
-	MainWindowInsertMenuPosition position, 
-	Plugin^ plugin
-)
-```
+
+
 
 
 #### Параметры

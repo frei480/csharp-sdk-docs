@@ -11,18 +11,8 @@
 ```csharp
 public Parameter EndCut { get; set; }
 ```
-```vb
-Public Property EndCut As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ EndCut {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

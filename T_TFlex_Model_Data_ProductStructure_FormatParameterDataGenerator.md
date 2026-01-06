@@ -11,13 +11,8 @@
 ```csharp
 public class FormatParameterDataGenerator : IParameterDataGenerator
 ```
-```vb
-Public Class FormatParameterDataGenerator
-	Inherits IParameterDataGenerator
-```
-```cpp
-public ref class FormatParameterDataGenerator : public IParameterDataGenerator
-```
+
+
 
 
 Тип FormatParameterDataGenerator предоставляет следующие члены.

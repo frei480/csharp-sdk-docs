@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Graphics : IDisposable
 ```
-```vb
-Public NotInheritable Class Graphics
-	Implements IDisposable
-```
-```cpp
-public ref class Graphics sealed : IDisposable
-```
+
+
 
 
 Тип Graphics предоставляет следующие члены.

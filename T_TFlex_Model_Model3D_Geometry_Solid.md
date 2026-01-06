@@ -11,12 +11,8 @@
 ```csharp
 public interface Solid
 ```
-```vb
-Public Interface Solid
-```
-```cpp
-public interface class Solid
-```
+
+
 
 
 #### Ссылки

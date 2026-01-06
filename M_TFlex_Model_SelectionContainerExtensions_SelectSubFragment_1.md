@@ -12,23 +12,8 @@ public static void SelectSubFragment(
 	FragmentIdChain A_2
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SelectSubFragment ( 
-	A_0 As SelectionContainer,
-	A_1 As Fragment3D,
-	A_2 As FragmentIdChain
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SelectSubFragment(
-	SelectionContainer^ A_0, 
-	Fragment3D^ A_1, 
-	FragmentIdChain^ A_2
-)
-```
+
+
 
 
 #### Параметры

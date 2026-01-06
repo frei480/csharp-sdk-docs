@@ -13,17 +13,8 @@ public PipePath3D(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-PipePath3D(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

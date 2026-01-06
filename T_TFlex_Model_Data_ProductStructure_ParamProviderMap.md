@@ -12,15 +12,8 @@
 public class ParamProviderMap : ObservableCollection<KeyValuePairS<Guid, IParameterProvider>>, 
 	ICloneable
 ```
-```vb
-Public Class ParamProviderMap
-	Inherits ObservableCollection(Of KeyValuePairS(Of Guid, IParameterProvider))
-	Implements ICloneable
-```
-```cpp
-public ref class ParamProviderMap : public ObservableCollection<KeyValuePairS<Guid, IParameterProvider^>^>, 
-	ICloneable
-```
+
+
 
 
 Тип ParamProviderMap предоставляет следующие члены.

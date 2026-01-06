@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetExternalObjects' method.")]
 public ObjectContainer Externals { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetExternalObjects' method.")>
-Public ReadOnly Property Externals As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetExternalObjects' method.")]
-property ObjectContainer^ Externals {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

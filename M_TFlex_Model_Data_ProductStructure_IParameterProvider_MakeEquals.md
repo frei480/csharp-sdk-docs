@@ -10,17 +10,8 @@ public abstract void MakeEquals(
 	IParameterProvider source
 )
 ```
-```vb
-Public MustOverride Sub MakeEquals ( 
-	source As IParameterProvider
-)
-```
-```cpp
-public:
-virtual void MakeEquals(
-	IParameterProvider^ source
-) abstract
-```
+
+
 
 
 #### Параметры

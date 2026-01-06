@@ -11,13 +11,8 @@
 ```csharp
 public class Font : SettingsGroup
 ```
-```vb
-Public Class Font
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Font : public SettingsGroup
-```
+
+
 
 
 Тип Font предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public Element Element { get; set; }
 ```
-```vb
-Public Property Element As Element
-	Get
-	Set
-```
-```cpp
-public:
-property Element^ Element {
-	Element^ get ();
-	void set (Element^ value);
-}
-```
+
+
 
 
 #### Значение свойства

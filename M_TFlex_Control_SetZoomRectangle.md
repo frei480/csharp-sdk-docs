@@ -13,17 +13,8 @@ public virtual void SetZoomRectangle(
 	Rectangle rect
 )
 ```
-```vb
-Public Overridable Sub SetZoomRectangle ( 
-	rect As Rectangle
-)
-```
-```cpp
-public:
-virtual void SetZoomRectangle(
-	Rectangle rect
-)
-```
+
+
 
 
 #### Параметры

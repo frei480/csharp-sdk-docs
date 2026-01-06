@@ -8,16 +8,8 @@
 ```csharp
 public TerminalPoint SocketTerminalPoint { get; }
 ```
-```vb
-Public ReadOnly Property SocketTerminalPoint As TerminalPoint
-	Get
-```
-```cpp
-public:
-property TerminalPoint^ SocketTerminalPoint {
-	TerminalPoint^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

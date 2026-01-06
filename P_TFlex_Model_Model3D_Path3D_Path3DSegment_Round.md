@@ -11,16 +11,8 @@
 ```csharp
 public Path3DPath3DRoundParameters Round { get; }
 ```
-```vb
-Public ReadOnly Property Round As Path3DPath3DRoundParameters
-	Get
-```
-```cpp
-public:
-property Path3DPath3DRoundParameters^ Round {
-	Path3DPath3DRoundParameters^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

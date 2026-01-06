@@ -11,13 +11,8 @@
 ```csharp
 public SourceLoadParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SourceLoadParameters()
-```
+
+
 
 
 #### Ссылки

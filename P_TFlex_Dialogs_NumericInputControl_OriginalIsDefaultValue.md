@@ -11,16 +11,8 @@
 ```csharp
 public bool OriginalIsDefaultValue { get; }
 ```
-```vb
-Public ReadOnly Property OriginalIsDefaultValue As Boolean
-	Get
-```
-```cpp
-public:
-property bool OriginalIsDefaultValue {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

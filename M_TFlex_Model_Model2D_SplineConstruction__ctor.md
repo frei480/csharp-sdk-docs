@@ -13,17 +13,8 @@ public SplineConstruction(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-SplineConstruction(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

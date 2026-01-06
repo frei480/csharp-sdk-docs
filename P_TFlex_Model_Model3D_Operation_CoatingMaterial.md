@@ -11,18 +11,8 @@
 ```csharp
 public MaterialParameter CoatingMaterial { get; set; }
 ```
-```vb
-Public Property CoatingMaterial As MaterialParameter
-	Get
-	Set
-```
-```cpp
-public:
-property MaterialParameter^ CoatingMaterial {
-	MaterialParameter^ get ();
-	void set (MaterialParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

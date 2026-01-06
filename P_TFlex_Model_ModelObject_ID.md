@@ -14,18 +14,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'ObjectId' property.")]
 public uint ID { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'ObjectId' property.")>
-Public ReadOnly Property ID As UInteger
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'ObjectId' property.")]
-property unsigned int ID {
-	unsigned int get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public Document FragmentDocument { get; }
 ```
-```vb
-Public ReadOnly Property FragmentDocument As Document
-	Get
-```
-```cpp
-public:
-property Document^ FragmentDocument {
-	Document^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

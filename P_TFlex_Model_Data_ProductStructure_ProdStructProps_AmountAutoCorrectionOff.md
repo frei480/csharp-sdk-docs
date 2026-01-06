@@ -8,18 +8,8 @@
 ```csharp
 public bool AmountAutoCorrectionOff { get; set; }
 ```
-```vb
-Public Property AmountAutoCorrectionOff As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AmountAutoCorrectionOff {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

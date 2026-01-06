@@ -8,18 +8,8 @@
 ```csharp
 public DimensionStandard Standard { get; set; }
 ```
-```vb
-Public Property Standard As DimensionStandard
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionStandard Standard {
-	DimensionStandard get ();
-	void set (DimensionStandard value);
-}
-```
+
+
 
 
 #### Значение свойства

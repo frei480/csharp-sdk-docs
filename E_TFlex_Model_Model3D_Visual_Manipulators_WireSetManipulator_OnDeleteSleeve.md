@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<WireSetManipulatorSleeveEventArgs> OnDeleteSleeve
 ```
-```vb
-Public Event OnDeleteSleeve As EventHandler(Of WireSetManipulatorSleeveEventArgs)
-```
-```cpp
-public:
- event EventHandler<WireSetManipulatorSleeveEventArgs^>^ OnDeleteSleeve {
-	void add (EventHandler<WireSetManipulatorSleeveEventArgs^>^ value);
-	void remove (EventHandler<WireSetManipulatorSleeveEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

@@ -11,18 +11,8 @@
 ```csharp
 public bool UseHelpPoint { get; set; }
 ```
-```vb
-Public Property UseHelpPoint As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseHelpPoint {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

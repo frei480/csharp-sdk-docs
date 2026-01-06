@@ -8,12 +8,8 @@
 ```csharp
 public enum AngleDimensionUnits
 ```
-```vb
-Public Enumeration AngleDimensionUnits
-```
-```cpp
-public enum class AngleDimensionUnits
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,13 +13,8 @@
 ```csharp
 public class SegmentOutline : Outline
 ```
-```vb
-Public Class SegmentOutline
-	Inherits Outline
-```
-```cpp
-public ref class SegmentOutline : public Outline
-```
+
+
 
 
 Тип SegmentOutline предоставляет следующие члены.

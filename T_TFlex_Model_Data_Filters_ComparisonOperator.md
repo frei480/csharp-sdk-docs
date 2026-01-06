@@ -13,12 +13,8 @@
 ```csharp
 public abstract class ComparisonOperator
 ```
-```vb
-Public MustInherit Class ComparisonOperator
-```
-```cpp
-public ref class ComparisonOperator abstract
-```
+
+
 
 
 Тип ComparisonOperator предоставляет следующие члены.

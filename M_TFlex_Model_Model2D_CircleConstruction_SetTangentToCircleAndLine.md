@@ -16,23 +16,8 @@ public void SetTangentToCircleAndLine(
 	int variant
 )
 ```
-```vb
-Public Sub SetTangentToCircleAndLine ( 
-	srcCircle As Construction,
-	srcLine As Construction,
-	radius As Parameter,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetTangentToCircleAndLine(
-	Construction^ srcCircle, 
-	Construction^ srcLine, 
-	Parameter^ radius, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

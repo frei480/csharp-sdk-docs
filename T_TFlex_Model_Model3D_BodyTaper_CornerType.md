@@ -11,12 +11,8 @@
 ```csharp
 public enum CornerType
 ```
-```vb
-Public Enumeration CornerType
-```
-```cpp
-public enum class CornerType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

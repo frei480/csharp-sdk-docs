@@ -11,16 +11,8 @@
 ```csharp
 public ModelAxis CylinderAxis { get; }
 ```
-```vb
-Public ReadOnly Property CylinderAxis As ModelAxis
-	Get
-```
-```cpp
-public:
-property ModelAxis^ CylinderAxis {
-	ModelAxis^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

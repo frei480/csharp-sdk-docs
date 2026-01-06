@@ -12,21 +12,8 @@ public static bool ReplaceElement(
 	List<Object2D> Objects
 )
 ```
-```vb
-Public Shared Function ReplaceElement ( 
-	oldObj As Object2D,
-	newObj As Object2D,
-	Objects As List(Of Object2D)
-) As Boolean
-```
-```cpp
-public:
-static bool ReplaceElement(
-	Object2D^ oldObj, 
-	Object2D^ newObj, 
-	List<Object2D^>^ Objects
-)
-```
+
+
 
 
 #### Параметры

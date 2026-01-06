@@ -11,18 +11,8 @@
 ```csharp
 public LCS CoordinatSystem { get; set; }
 ```
-```vb
-Public Property CoordinatSystem As LCS
-	Get
-	Set
-```
-```cpp
-public:
-property LCS^ CoordinatSystem {
-	LCS^ get ();
-	void set (LCS^ value);
-}
-```
+
+
 
 
 #### Значение свойства

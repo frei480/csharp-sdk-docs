@@ -11,16 +11,8 @@
 ```csharp
 public ModelDirection CurveTangentDirectionOnPathSecond { get; }
 ```
-```vb
-Public ReadOnly Property CurveTangentDirectionOnPathSecond As ModelDirection
-	Get
-```
-```cpp
-public:
-property ModelDirection^ CurveTangentDirectionOnPathSecond {
-	ModelDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

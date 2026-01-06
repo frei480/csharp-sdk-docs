@@ -8,18 +8,8 @@
 ```csharp
 public ClipPlaneColor ClipPlaneColorType { get; set; }
 ```
-```vb
-Public Property ClipPlaneColorType As ClipPlaneColor
-	Get
-	Set
-```
-```cpp
-public:
-property ClipPlaneColor ClipPlaneColorType {
-	ClipPlaneColor get ();
-	void set (ClipPlaneColor value);
-}
-```
+
+
 
 
 #### Значение свойства

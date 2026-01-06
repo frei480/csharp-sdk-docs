@@ -15,21 +15,8 @@ public void SetVector(
 	Node node2
 )
 ```
-```vb
-Public Sub SetVector ( 
-	vector As FixingVector,
-	node1 As Node,
-	node2 As Node
-)
-```
-```cpp
-public:
-void SetVector(
-	FixingVector^ vector, 
-	Node^ node1, 
-	Node^ node2
-)
-```
+
+
 
 
 #### Параметры

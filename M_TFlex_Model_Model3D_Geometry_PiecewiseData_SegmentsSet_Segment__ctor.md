@@ -14,19 +14,8 @@ public Segment(
 	bool rational
 )
 ```
-```vb
-Public Sub New ( 
-	degree As UInteger,
-	rational As Boolean
-)
-```
-```cpp
-public:
-Segment(
-	unsigned int degree, 
-	bool rational
-)
-```
+
+
 
 
 #### Параметры

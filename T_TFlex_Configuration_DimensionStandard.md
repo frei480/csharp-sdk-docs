@@ -8,12 +8,8 @@
 ```csharp
 public enum DimensionStandard
 ```
-```vb
-Public Enumeration DimensionStandard
-```
-```cpp
-public enum class DimensionStandard
-```
+
+
 
 
 | Имя члена | Значение | Описание |

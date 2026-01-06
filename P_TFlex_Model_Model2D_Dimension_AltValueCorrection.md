@@ -11,18 +11,8 @@
 ```csharp
 public Parameter AltValueCorrection { get; set; }
 ```
-```vb
-Public Property AltValueCorrection As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ AltValueCorrection {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

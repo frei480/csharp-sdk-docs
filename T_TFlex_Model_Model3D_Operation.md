@@ -13,13 +13,8 @@
 ```csharp
 public class Operation : Object3D
 ```
-```vb
-Public Class Operation
-	Inherits Object3D
-```
-```cpp
-public ref class Operation : public Object3D
-```
+
+
 
 
 Тип Operation предоставляет следующие члены.

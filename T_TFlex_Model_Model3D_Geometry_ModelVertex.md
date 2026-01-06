@@ -14,15 +14,8 @@
 public sealed class ModelVertex : ModelTopol, 
 	BaseVertex
 ```
-```vb
-Public NotInheritable Class ModelVertex
-	Inherits ModelTopol
-	Implements BaseVertex
-```
-```cpp
-public ref class ModelVertex sealed : public ModelTopol, 
-	BaseVertex
-```
+
+
 
 
 Тип ModelVertex предоставляет следующие члены.

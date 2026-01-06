@@ -13,17 +13,8 @@ public Plane FromMeter(
 	BasePlane plane
 )
 ```
-```vb
-Public Function FromMeter ( 
-	plane As BasePlane
-) As Plane
-```
-```cpp
-public:
-Plane^ FromMeter(
-	BasePlane^ plane
-)
-```
+
+
 
 
 #### Параметры

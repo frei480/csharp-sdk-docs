@@ -11,13 +11,8 @@
 ```csharp
 public void Reset()
 ```
-```vb
-Public Sub Reset
-```
-```cpp
-public:
-void Reset()
-```
+
+
 
 
 #### Ссылки

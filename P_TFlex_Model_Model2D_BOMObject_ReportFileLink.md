@@ -11,16 +11,8 @@
 ```csharp
 public FileLink ReportFileLink { get; }
 ```
-```vb
-Public ReadOnly Property ReportFileLink As FileLink
-	Get
-```
-```cpp
-public:
-property FileLink^ ReportFileLink {
-	FileLink^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

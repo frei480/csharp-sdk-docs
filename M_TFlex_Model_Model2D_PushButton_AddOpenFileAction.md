@@ -13,17 +13,8 @@ public void AddOpenFileAction(
 	string filePath
 )
 ```
-```vb
-Public Sub AddOpenFileAction ( 
-	filePath As String
-)
-```
-```cpp
-public:
-void AddOpenFileAction(
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

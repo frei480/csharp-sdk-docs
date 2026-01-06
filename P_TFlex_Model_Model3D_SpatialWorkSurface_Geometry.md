@@ -11,16 +11,8 @@
 ```csharp
 public SpatialWorkSurfaceGeometryData Geometry { get; }
 ```
-```vb
-Public ReadOnly Property Geometry As SpatialWorkSurfaceGeometryData
-	Get
-```
-```cpp
-public:
-property SpatialWorkSurfaceGeometryData^ Geometry {
-	SpatialWorkSurfaceGeometryData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

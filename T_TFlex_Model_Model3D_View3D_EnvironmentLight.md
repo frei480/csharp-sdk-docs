@@ -13,12 +13,8 @@
 ```csharp
 public struct EnvironmentLight
 ```
-```vb
-Public Structure EnvironmentLight
-```
-```cpp
-public value class EnvironmentLight
-```
+
+
 
 
 Тип View3DEnvironmentLight предоставляет следующие члены.

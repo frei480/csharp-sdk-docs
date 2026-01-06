@@ -8,18 +8,8 @@
 ```csharp
 public MaterialParameter Material { get; set; }
 ```
-```vb
-Public Property Material As MaterialParameter
-	Get
-	Set
-```
-```cpp
-public:
-property MaterialParameter^ Material {
-	MaterialParameter^ get ();
-	void set (MaterialParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

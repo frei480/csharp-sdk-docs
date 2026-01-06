@@ -13,13 +13,8 @@
 ```csharp
 public class LockedChangedEventArgs : CheckStateEventArgs
 ```
-```vb
-Public Class LockedChangedEventArgs
-	Inherits CheckStateEventArgs
-```
-```cpp
-public ref class LockedChangedEventArgs : public CheckStateEventArgs
-```
+
+
 
 
 Тип LockedChangedEventArgs предоставляет следующие члены.

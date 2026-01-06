@@ -11,16 +11,8 @@
 ```csharp
 public event DraggerEventHandler Activated
 ```
-```vb
-Public Event Activated As DraggerEventHandler
-```
-```cpp
-public:
- event DraggerEventHandler^ Activated {
-	void add (DraggerEventHandler^ value);
-	void remove (DraggerEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

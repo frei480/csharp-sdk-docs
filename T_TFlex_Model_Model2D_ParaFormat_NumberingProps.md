@@ -11,12 +11,8 @@
 ```csharp
 public enum NumberingProps
 ```
-```vb
-Public Enumeration NumberingProps
-```
-```cpp
-public enum class NumberingProps
-```
+
+
 
 
 | Имя члена | Значение | Описание |

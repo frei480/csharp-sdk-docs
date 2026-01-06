@@ -11,18 +11,8 @@
 ```csharp
 public double MaxWidth { get; set; }
 ```
-```vb
-Public Property MaxWidth As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double MaxWidth {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,16 +10,8 @@ public static explicit operator ulong (
 	ObjectId id
 )
 ```
-```vb
-Public Shared Narrowing Operator CType ( 
-	id As ObjectId
-) As ULong
-```
-```cpp
-static explicit operator unsigned long long (
-	ObjectId^ id
-)
-```
+
+
 
 
 #### Параметры

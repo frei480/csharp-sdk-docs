@@ -11,18 +11,8 @@
 ```csharp
 public Parameter MinorRadius { get; set; }
 ```
-```vb
-Public Property MinorRadius As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ MinorRadius {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

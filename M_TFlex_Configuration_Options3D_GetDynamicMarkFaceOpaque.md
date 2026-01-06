@@ -8,13 +8,8 @@
 ```csharp
 public double GetDynamicMarkFaceOpaque()
 ```
-```vb
-Public Function GetDynamicMarkFaceOpaque As Double
-```
-```cpp
-public:
-double GetDynamicMarkFaceOpaque()
-```
+
+
 
 
 #### Возвращаемое значение

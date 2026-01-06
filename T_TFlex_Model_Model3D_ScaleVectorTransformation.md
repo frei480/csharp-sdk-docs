@@ -13,13 +13,8 @@
 ```csharp
 public class ScaleVectorTransformation : VectorTransformation
 ```
-```vb
-Public Class ScaleVectorTransformation
-	Inherits VectorTransformation
-```
-```cpp
-public ref class ScaleVectorTransformation : public VectorTransformation
-```
+
+
 
 
 Тип ScaleVectorTransformation предоставляет следующие члены.

@@ -13,17 +13,8 @@ public void InsertRoughnessSymbol(
 	RoughnessSymbol obj
 )
 ```
-```vb
-Public Sub InsertRoughnessSymbol ( 
-	obj As RoughnessSymbol
-)
-```
-```cpp
-public:
-void InsertRoughnessSymbol(
-	RoughnessSymbol^ obj
-)
-```
+
+
 
 
 #### Параметры

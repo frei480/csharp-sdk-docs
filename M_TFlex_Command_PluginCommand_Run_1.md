@@ -14,19 +14,8 @@ public void Run(
 	bool subCommand
 )
 ```
-```vb
-Public Sub Run ( 
-	Window As View,
-	subCommand As Boolean
-)
-```
-```cpp
-public:
-void Run(
-	View^ Window, 
-	bool subCommand
-)
-```
+
+
 
 
 #### Параметры

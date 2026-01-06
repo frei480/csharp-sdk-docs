@@ -11,16 +11,8 @@
 ```csharp
 public bool Continuous { get; }
 ```
-```vb
-Public ReadOnly Property Continuous As Boolean
-	Get
-```
-```cpp
-public:
-property bool Continuous {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

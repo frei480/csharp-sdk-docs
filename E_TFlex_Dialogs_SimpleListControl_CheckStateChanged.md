@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<SimpleListControlCheckStateChangedEventArgs> CheckStateChanged
 ```
-```vb
-Public Event CheckStateChanged As EventHandler(Of SimpleListControlCheckStateChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<SimpleListControlCheckStateChangedEventArgs^>^ CheckStateChanged {
-	void add (EventHandler<SimpleListControlCheckStateChangedEventArgs^>^ value);
-	void remove (EventHandler<SimpleListControlCheckStateChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

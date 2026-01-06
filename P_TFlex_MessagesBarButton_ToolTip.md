@@ -11,18 +11,8 @@
 ```csharp
 public string ToolTip { get; set; }
 ```
-```vb
-Public Property ToolTip As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ToolTip {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public string NormalPageFormat { get; set; }
 ```
-```vb
-Public Property NormalPageFormat As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ NormalPageFormat {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

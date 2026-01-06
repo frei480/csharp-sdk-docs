@@ -13,12 +13,8 @@
 ```csharp
 public class Element
 ```
-```vb
-Public Class Element
-```
-```cpp
-public ref class Element
-```
+
+
 
 
 Тип RelationPointElement предоставляет следующие члены.

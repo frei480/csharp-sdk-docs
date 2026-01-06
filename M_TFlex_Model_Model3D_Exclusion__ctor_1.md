@@ -17,25 +17,8 @@ public Exclusion(
 	bool bFullColumn
 )
 ```
-```vb
-Public Sub New ( 
-	pObject As ArrayOperation,
-	row As Parameter,
-	column As Parameter,
-	bFullRow As Boolean,
-	bFullColumn As Boolean
-)
-```
-```cpp
-public:
-Exclusion(
-	ArrayOperation^ pObject, 
-	Parameter^ row, 
-	Parameter^ column, 
-	bool bFullRow, 
-	bool bFullColumn
-)
-```
+
+
 
 
 #### Параметры

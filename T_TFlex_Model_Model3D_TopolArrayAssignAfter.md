@@ -11,18 +11,8 @@ public delegate void TopolArrayAssignAfter(
 	ModelTopol topol
 )
 ```
-```vb
-Public Delegate Sub TopolArrayAssignAfter ( 
-	to As Integer,
-	topol As ModelTopol
-)
-```
-```cpp
-public delegate void TopolArrayAssignAfter(
-	int to, 
-	ModelTopol^ topol
-)
-```
+
+
 
 
 #### Параметры

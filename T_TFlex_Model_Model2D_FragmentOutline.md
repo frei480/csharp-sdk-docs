@@ -13,13 +13,8 @@
 ```csharp
 public class FragmentOutline : Outline
 ```
-```vb
-Public Class FragmentOutline
-	Inherits Outline
-```
-```cpp
-public ref class FragmentOutline : public Outline
-```
+
+
 
 
 Тип FragmentOutline предоставляет следующие члены.

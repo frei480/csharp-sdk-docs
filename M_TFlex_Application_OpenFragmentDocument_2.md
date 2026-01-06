@@ -13,17 +13,8 @@ public static Document OpenFragmentDocument(
 	FileLink link
 )
 ```
-```vb
-Public Shared Function OpenFragmentDocument ( 
-	link As FileLink
-) As Document
-```
-```cpp
-public:
-static Document^ OpenFragmentDocument(
-	FileLink^ link
-)
-```
+
+
 
 
 #### Параметры

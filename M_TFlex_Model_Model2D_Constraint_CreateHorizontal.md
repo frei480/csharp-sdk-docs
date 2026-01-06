@@ -14,19 +14,8 @@ public static Constraint CreateHorizontal(
 	Object2D iObject
 )
 ```
-```vb
-Public Shared Function CreateHorizontal ( 
-	iDoc As Document,
-	iObject As Object2D
-) As Constraint
-```
-```cpp
-public:
-static Constraint^ CreateHorizontal(
-	Document^ iDoc, 
-	Object2D^ iObject
-)
-```
+
+
 
 
 #### Параметры

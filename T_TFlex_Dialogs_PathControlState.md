@@ -11,12 +11,8 @@
 ```csharp
 public enum PathControlState
 ```
-```vb
-Public Enumeration PathControlState
-```
-```cpp
-public enum class PathControlState
-```
+
+
 
 
 | Имя члена | Значение | Описание |

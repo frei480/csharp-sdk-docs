@@ -11,15 +11,8 @@
 ```csharp
 BaseFaces Faces { get; }
 ```
-```vb
-ReadOnly Property Faces As BaseFaces
-	Get
-```
-```cpp
-property BaseFaces^ Faces {
-	BaseFaces^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

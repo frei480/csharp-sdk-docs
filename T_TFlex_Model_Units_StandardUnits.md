@@ -13,12 +13,8 @@ Standard Units
 ```csharp
 public sealed class StandardUnits
 ```
-```vb
-Public NotInheritable Class StandardUnits
-```
-```cpp
-public ref class StandardUnits sealed
-```
+
+
 
 
 Тип StandardUnits предоставляет следующие члены.

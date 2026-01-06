@@ -11,18 +11,8 @@
 ```csharp
 public virtual BaseSurface Surface { get; set; }
 ```
-```vb
-Public Overridable Property Surface As BaseSurface
-	Get
-	Set
-```
-```cpp
-public:
-virtual property BaseSurface^ Surface {
-	BaseSurface^ get ();
-	void set (BaseSurface^ value);
-}
-```
+
+
 
 
 #### Значение свойства

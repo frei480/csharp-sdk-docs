@@ -13,17 +13,8 @@ public void Unmark(
 	ModelObject obj
 )
 ```
-```vb
-Public Sub Unmark ( 
-	obj As ModelObject
-)
-```
-```cpp
-public:
-void Unmark(
-	ModelObject^ obj
-)
-```
+
+
 
 
 #### Параметры

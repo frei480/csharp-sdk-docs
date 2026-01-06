@@ -11,13 +11,8 @@
 ```csharp
 public LinkCommands()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LinkCommands()
-```
+
+
 
 
 #### Ссылки

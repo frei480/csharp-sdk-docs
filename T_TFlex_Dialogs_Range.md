@@ -13,12 +13,8 @@
 ```csharp
 public struct Range
 ```
-```vb
-Public Structure Range
-```
-```cpp
-public value class Range
-```
+
+
 
 
 Тип Range предоставляет следующие члены.

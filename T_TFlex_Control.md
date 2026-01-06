@@ -13,13 +13,8 @@
 ```csharp
 public class Control : Control
 ```
-```vb
-Public Class Control
-	Inherits Control
-```
-```cpp
-public ref class Control : public Control
-```
+
+
 
 
 Тип Control предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public Construction Axis { get; set; }
 ```
-```vb
-Public Property Axis As Construction
-	Get
-	Set
-```
-```cpp
-public:
-property Construction^ Axis {
-	Construction^ get ();
-	void set (Construction^ value);
-}
-```
+
+
 
 
 #### Значение свойства

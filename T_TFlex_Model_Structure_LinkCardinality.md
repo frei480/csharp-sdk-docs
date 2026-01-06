@@ -8,12 +8,8 @@
 ```csharp
 public enum LinkCardinality
 ```
-```vb
-Public Enumeration LinkCardinality
-```
-```cpp
-public enum class LinkCardinality
-```
+
+
 
 
 | Имя члена | Значение | Описание |

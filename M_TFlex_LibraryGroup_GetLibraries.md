@@ -11,13 +11,8 @@
 ```csharp
 public virtual IEnumerator<Library> GetLibraries()
 ```
-```vb
-Public Overridable Function GetLibraries As IEnumerator(Of Library)
-```
-```cpp
-public:
-virtual IEnumerator<Library^>^ GetLibraries()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,13 +11,8 @@
 ```csharp
 public void DoAutoEnableButtons()
 ```
-```vb
-Public Sub DoAutoEnableButtons
-```
-```cpp
-public:
-void DoAutoEnableButtons()
-```
+
+
 
 
 #### Ссылки

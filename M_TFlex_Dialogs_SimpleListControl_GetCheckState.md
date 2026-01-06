@@ -14,19 +14,8 @@ public CheckState? GetCheckState(
 	int column
 )
 ```
-```vb
-Public Function GetCheckState ( 
-	row As Integer,
-	column As Integer
-) As CheckState?
-```
-```cpp
-public:
-Nullable<CheckState> GetCheckState(
-	int row, 
-	int column
-)
-```
+
+
 
 
 #### Параметры

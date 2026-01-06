@@ -10,16 +10,8 @@ public static implicit operator Suppression (
 	Variable Var
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	Var As Variable
-) As Suppression
-```
-```cpp
-static implicit operator Suppression^ (
-	Variable^ Var
-)
-```
+
+
 
 
 #### Параметры

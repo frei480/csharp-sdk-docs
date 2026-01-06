@@ -8,18 +8,8 @@
 ```csharp
 public string TypesSynchronizationPath { get; set; }
 ```
-```vb
-Public Property TypesSynchronizationPath As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TypesSynchronizationPath {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

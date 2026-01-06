@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Priority { get; set; }
 ```
-```vb
-Public Property Priority As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Priority {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

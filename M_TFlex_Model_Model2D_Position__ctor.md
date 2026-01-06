@@ -13,17 +13,8 @@ public Position(
 	int ch
 )
 ```
-```vb
-Public Sub New ( 
-	ch As Integer
-)
-```
-```cpp
-public:
-Position(
-	int ch
-)
-```
+
+
 
 
 #### Параметры

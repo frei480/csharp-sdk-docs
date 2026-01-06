@@ -13,13 +13,8 @@ XXX
 ```csharp
 public class ManipulatorInvalidStateException : ManipulatorException
 ```
-```vb
-Public Class ManipulatorInvalidStateException
-	Inherits ManipulatorException
-```
-```cpp
-public ref class ManipulatorInvalidStateException : public ManipulatorException
-```
+
+
 
 
 Тип ManipulatorInvalidStateException предоставляет следующие члены.

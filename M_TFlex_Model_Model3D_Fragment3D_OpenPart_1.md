@@ -13,17 +13,8 @@ public Document OpenPart(
 	FragmentOpenPartOptions options
 )
 ```
-```vb
-Public Function OpenPart ( 
-	options As FragmentOpenPartOptions
-) As Document
-```
-```cpp
-public:
-Document^ OpenPart(
-	FragmentOpenPartOptions options
-)
-```
+
+
 
 
 #### Параметры

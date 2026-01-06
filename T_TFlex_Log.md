@@ -11,12 +11,8 @@
 ```csharp
 public sealed class Log
 ```
-```vb
-Public NotInheritable Class Log
-```
-```cpp
-public ref class Log sealed
-```
+
+
 
 
 Тип Log предоставляет следующие члены.

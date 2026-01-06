@@ -15,21 +15,8 @@ public void SetCouplingPoint(
 	LoftPointOnContour point
 )
 ```
-```vb
-Public Sub SetCouplingPoint ( 
-	couplingIndex As Integer,
-	profileIndex As Integer,
-	point As LoftPointOnContour
-)
-```
-```cpp
-public:
-void SetCouplingPoint(
-	int couplingIndex, 
-	int profileIndex, 
-	LoftPointOnContour^ point
-)
-```
+
+
 
 
 #### Параметры

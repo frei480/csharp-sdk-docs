@@ -10,17 +10,8 @@ public virtual void OnKeyUp(
 	KeyEventArgs e
 )
 ```
-```vb
-Public Overridable Sub OnKeyUp ( 
-	e As KeyEventArgs
-)
-```
-```cpp
-public:
-virtual void OnKeyUp(
-	KeyEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

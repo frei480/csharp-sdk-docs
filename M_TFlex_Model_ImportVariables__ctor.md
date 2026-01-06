@@ -13,17 +13,8 @@ public ImportVariables(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ImportVariables(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

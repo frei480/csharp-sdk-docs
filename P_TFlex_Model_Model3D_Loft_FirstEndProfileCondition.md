@@ -11,18 +11,8 @@ Cпециальное граничное условие для первого п
 ```csharp
 public LoftEndProfileCondition FirstEndProfileCondition { get; set; }
 ```
-```vb
-Public Property FirstEndProfileCondition As LoftEndProfileCondition
-	Get
-	Set
-```
-```cpp
-public:
-property LoftEndProfileCondition^ FirstEndProfileCondition {
-	LoftEndProfileCondition^ get ();
-	void set (LoftEndProfileCondition^ value);
-}
-```
+
+
 
 
 #### Значение свойства

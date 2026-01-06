@@ -13,19 +13,8 @@ public static ICollection<Sensor> GetSensors(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetSensors ( 
-	document As Document
-) As ICollection(Of Sensor)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Sensor^>^ GetSensors(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

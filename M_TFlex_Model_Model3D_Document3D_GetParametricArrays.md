@@ -13,19 +13,8 @@ public static ICollection<ParametricArrayOperation> GetParametricArrays(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetParametricArrays ( 
-	document As Document
-) As ICollection(Of ParametricArrayOperation)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<ParametricArrayOperation^>^ GetParametricArrays(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

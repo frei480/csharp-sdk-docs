@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ValueCorrection { get; set; }
 ```
-```vb
-Public Property ValueCorrection As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ValueCorrection {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

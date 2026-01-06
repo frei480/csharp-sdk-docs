@@ -17,25 +17,8 @@ public Bound(
 	BoundedExtrusionGeneratorBoundSideType side
 )
 ```
-```vb
-Public Sub New ( 
-	forward As Boolean,
-	face As BaseFace,
-	nearest As Boolean,
-	division As UInteger,
-	side As BoundedExtrusionGeneratorBoundSideType
-)
-```
-```cpp
-public:
-Bound(
-	bool forward, 
-	BaseFace^ face, 
-	bool nearest, 
-	unsigned int division, 
-	BoundedExtrusionGeneratorBoundSideType side
-)
-```
+
+
 
 
 #### Параметры

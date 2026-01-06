@@ -13,17 +13,8 @@ public static PickPointResult PickPoint(
 	PickPointParameters parameters
 )
 ```
-```vb
-Public Shared Function PickPoint ( 
-	parameters As PickPointParameters
-) As PickPointResult
-```
-```cpp
-public:
-static PickPointResult^ PickPoint(
-	PickPointParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public ConductorSet Owner { get; }
 ```
-```vb
-Public ReadOnly Property Owner As ConductorSet
-	Get
-```
-```cpp
-public:
-property ConductorSet^ Owner {
-	ConductorSet^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

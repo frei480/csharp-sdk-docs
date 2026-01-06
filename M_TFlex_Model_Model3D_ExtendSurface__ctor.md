@@ -14,19 +14,8 @@ public ExtendSurface(
 	bool fAddToContainer
 )
 ```
-```vb
-Public Sub New ( 
-	handle As IntPtr,
-	fAddToContainer As Boolean
-)
-```
-```cpp
-public:
-ExtendSurface(
-	IntPtr handle, 
-	bool fAddToContainer
-)
-```
+
+
 
 
 #### Параметры

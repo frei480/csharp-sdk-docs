@@ -11,13 +11,8 @@
 ```csharp
 public EditListPopupProperties()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-EditListPopupProperties()
-```
+
+
 
 
 #### Ссылки

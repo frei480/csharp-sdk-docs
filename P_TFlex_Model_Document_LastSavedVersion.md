@@ -11,16 +11,8 @@
 ```csharp
 public Version LastSavedVersion { get; }
 ```
-```vb
-Public ReadOnly Property LastSavedVersion As Version
-	Get
-```
-```cpp
-public:
-property Version^ LastSavedVersion {
-	Version^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

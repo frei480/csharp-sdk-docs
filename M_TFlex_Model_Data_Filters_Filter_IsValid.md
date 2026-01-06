@@ -11,13 +11,8 @@
 ```csharp
 public virtual bool IsValid()
 ```
-```vb
-Public Overridable Function IsValid As Boolean
-```
-```cpp
-public:
-virtual bool IsValid()
-```
+
+
 
 
 #### Возвращаемое значение

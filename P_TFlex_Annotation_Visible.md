@@ -11,18 +11,8 @@ true, если эта аннотация должна быть видна при
 ```csharp
 public bool Visible { get; set; }
 ```
-```vb
-Public Property Visible As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Visible {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

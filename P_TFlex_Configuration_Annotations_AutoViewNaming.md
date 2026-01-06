@@ -8,18 +8,8 @@
 ```csharp
 public AutoViewNamingType AutoViewNaming { get; set; }
 ```
-```vb
-Public Property AutoViewNaming As AutoViewNamingType
-	Get
-	Set
-```
-```cpp
-public:
-property AutoViewNamingType AutoViewNaming {
-	AutoViewNamingType get ();
-	void set (AutoViewNamingType value);
-}
-```
+
+
 
 
 #### Значение свойства

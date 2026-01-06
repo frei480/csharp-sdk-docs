@@ -13,13 +13,8 @@
 ```csharp
 public class CircularArrayOperation : ArrayOperation
 ```
-```vb
-Public Class CircularArrayOperation
-	Inherits ArrayOperation
-```
-```cpp
-public ref class CircularArrayOperation : public ArrayOperation
-```
+
+
 
 
 Тип CircularArrayOperation предоставляет следующие члены.

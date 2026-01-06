@@ -11,12 +11,8 @@
 ```csharp
 public class SettingsGroupInfo
 ```
-```vb
-Public Class SettingsGroupInfo
-```
-```cpp
-public ref class SettingsGroupInfo
-```
+
+
 
 
 Тип OptionsContextSettingsGroupInfo предоставляет следующие члены.

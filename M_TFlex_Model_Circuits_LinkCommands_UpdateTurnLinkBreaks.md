@@ -11,19 +11,8 @@ public static void UpdateTurnLinkBreaks(
 	IEnumerable<MultiLink> mlinks
 )
 ```
-```vb
-Public Shared Sub UpdateTurnLinkBreaks ( 
-	doc As Document,
-	mlinks As IEnumerable(Of MultiLink)
-)
-```
-```cpp
-public:
-static void UpdateTurnLinkBreaks(
-	Document^ doc, 
-	IEnumerable<MultiLink^>^ mlinks
-)
-```
+
+
 
 
 #### Параметры

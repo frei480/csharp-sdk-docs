@@ -10,17 +10,8 @@ public override bool Export(
 	string A_0
 )
 ```
-```vb
-Public Overrides Function Export ( 
-	A_0 As String
-) As Boolean
-```
-```cpp
-public:
-virtual bool Export(
-	String^ A_0
-) override
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public Direction ToMeter(
 	BaseDirection vector
 )
 ```
-```vb
-Public Function ToMeter ( 
-	vector As BaseDirection
-) As Direction
-```
-```cpp
-public:
-Direction^ ToMeter(
-	BaseDirection^ vector
-)
-```
+
+
 
 
 #### Параметры

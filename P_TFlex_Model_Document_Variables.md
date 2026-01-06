@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetVariables' method.")]
 public ObjectContainer Variables { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetVariables' method.")>
-Public ReadOnly Property Variables As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetVariables' method.")]
-property ObjectContainer^ Variables {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

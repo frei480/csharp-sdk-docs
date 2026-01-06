@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllStepEdges()
 ```
-```vb
-Public Sub RemoveAllStepEdges
-```
-```cpp
-public:
-void RemoveAllStepEdges()
-```
+
+
 
 
 #### Ссылки

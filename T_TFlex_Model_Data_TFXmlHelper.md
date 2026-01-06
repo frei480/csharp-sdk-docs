@@ -11,14 +11,8 @@
 ```csharp
 public static class TFXmlHelper
 ```
-```vb
-<ExtensionAttribute>
-Public NotInheritable Class TFXmlHelper
-```
-```cpp
-[ExtensionAttribute]
-public ref class TFXmlHelper abstract sealed
-```
+
+
 
 
 Тип TFXmlHelper предоставляет следующие члены.

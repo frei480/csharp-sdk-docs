@@ -15,21 +15,8 @@ public static Bitmap GetLinePatternPreview(
 	Color backColor
 )
 ```
-```vb
-Public Shared Function GetLinePatternPreview ( 
-	pattern As String,
-	ByRef rect As Rectangle,
-	backColor As Color
-) As Bitmap
-```
-```cpp
-public:
-static Bitmap^ GetLinePatternPreview(
-	String^ pattern, 
-	Rectangle% rect, 
-	Color backColor
-)
-```
+
+
 
 
 #### Параметры

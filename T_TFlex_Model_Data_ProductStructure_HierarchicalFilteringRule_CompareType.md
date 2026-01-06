@@ -8,12 +8,8 @@
 ```csharp
 public enum CompareType
 ```
-```vb
-Public Enumeration CompareType
-```
-```cpp
-public enum class CompareType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -15,19 +15,8 @@ public Type AddFrontSegment<Type>(
 where Type : PipePath3DBaseSegment
 
 ```
-```vb
-Public Function AddFrontSegment(Of Type As PipePath3DBaseSegment) ( 
-	type As SegmentPipePathType
-) As Type
-```
-```cpp
-public:
-generic<typename Type>
-where Type : PipePath3DBaseSegment
-Type AddFrontSegment(
-	SegmentPipePathType type
-)
-```
+
+
 
 
 #### Параметры

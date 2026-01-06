@@ -8,16 +8,8 @@
 ```csharp
 public SnapInfo FragmentNodes { get; }
 ```
-```vb
-Public ReadOnly Property FragmentNodes As SnapInfo
-	Get
-```
-```cpp
-public:
-property SnapInfo^ FragmentNodes {
-	SnapInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

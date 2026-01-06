@@ -10,17 +10,8 @@ public bool Up(
 	int index
 )
 ```
-```vb
-Public Function Up ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool Up(
-	int index
-)
-```
+
+
 
 
 #### Параметры

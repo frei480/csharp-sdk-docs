@@ -14,19 +14,8 @@ public void SetTextAttribute(
 	string value
 )
 ```
-```vb
-Public Sub SetTextAttribute ( 
-	attribName As String,
-	value As String
-)
-```
-```cpp
-public:
-void SetTextAttribute(
-	String^ attribName, 
-	String^ value
-)
-```
+
+
 
 
 #### Параметры

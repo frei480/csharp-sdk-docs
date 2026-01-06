@@ -11,13 +11,8 @@
 ```csharp
 public class SegmentPolyline : PipePath3DBaseSegment
 ```
-```vb
-Public Class SegmentPolyline
-	Inherits PipePath3DBaseSegment
-```
-```cpp
-public ref class SegmentPolyline : public PipePath3DBaseSegment
-```
+
+
 
 
 Тип PipePath3DSegmentPolyline предоставляет следующие члены.

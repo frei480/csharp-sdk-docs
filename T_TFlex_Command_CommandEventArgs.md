@@ -13,13 +13,8 @@
 ```csharp
 public abstract class CommandEventArgs : EventArgs
 ```
-```vb
-Public MustInherit Class CommandEventArgs
-	Inherits EventArgs
-```
-```cpp
-public ref class CommandEventArgs abstract : public EventArgs
-```
+
+
 
 
 Тип CommandEventArgs предоставляет следующие члены.

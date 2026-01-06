@@ -14,18 +14,8 @@ public delegate void ControlMouseMoved(
 	ControlEventArgs e
 )
 ```
-```vb
-Public Delegate Sub ControlMouseMoved ( 
-	sender As Object,
-	e As ControlEventArgs
-)
-```
-```cpp
-public delegate void ControlMouseMoved(
-	Object^ sender, 
-	ControlEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

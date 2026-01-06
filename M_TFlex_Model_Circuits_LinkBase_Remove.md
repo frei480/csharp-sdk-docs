@@ -13,17 +13,8 @@ public abstract bool Remove(
 	FixingVector point
 )
 ```
-```vb
-Public MustOverride Function Remove ( 
-	point As FixingVector
-) As Boolean
-```
-```cpp
-public:
-virtual bool Remove(
-	FixingVector^ point
-) abstract
-```
+
+
 
 
 #### Параметры

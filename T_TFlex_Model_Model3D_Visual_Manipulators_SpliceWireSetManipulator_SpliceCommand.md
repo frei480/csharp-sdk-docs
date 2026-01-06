@@ -8,12 +8,8 @@
 ```csharp
 public enum SpliceCommand
 ```
-```vb
-Public Enumeration SpliceCommand
-```
-```cpp
-public enum class SpliceCommand
-```
+
+
 
 
 | Имя члена | Значение | Описание |

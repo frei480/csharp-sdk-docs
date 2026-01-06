@@ -13,17 +13,8 @@ public static void AddDocumentsSearchFolder(
 	string folder
 )
 ```
-```vb
-Public Shared Sub AddDocumentsSearchFolder ( 
-	folder As String
-)
-```
-```cpp
-public:
-static void AddDocumentsSearchFolder(
-	String^ folder
-)
-```
+
+
 
 
 #### Параметры

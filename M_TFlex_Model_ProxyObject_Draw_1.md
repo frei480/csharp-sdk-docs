@@ -13,17 +13,8 @@ protected virtual void Draw(
 	ProxyObjectDrawContext context
 )
 ```
-```vb
-Protected Overridable Sub Draw ( 
-	context As ProxyObjectDrawContext
-)
-```
-```cpp
-protected:
-virtual void Draw(
-	ProxyObjectDrawContext^ context
-)
-```
+
+
 
 
 #### Параметры

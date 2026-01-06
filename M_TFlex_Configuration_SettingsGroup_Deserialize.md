@@ -10,17 +10,8 @@ public void Deserialize(
 	string fileName
 )
 ```
-```vb
-Public Sub Deserialize ( 
-	fileName As String
-)
-```
-```cpp
-public:
-void Deserialize(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

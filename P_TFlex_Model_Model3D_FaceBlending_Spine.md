@@ -11,18 +11,8 @@
 ```csharp
 public Path3D Spine { get; set; }
 ```
-```vb
-Public Property Spine As Path3D
-	Get
-	Set
-```
-```cpp
-public:
-property Path3D^ Spine {
-	Path3D^ get ();
-	void set (Path3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

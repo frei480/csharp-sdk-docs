@@ -13,17 +13,8 @@ protected virtual bool GetContextMenu(
 	Menu Menu
 )
 ```
-```vb
-Protected Overridable Function GetContextMenu ( 
-	Menu As Menu
-) As Boolean
-```
-```cpp
-protected:
-virtual bool GetContextMenu(
-	Menu^ Menu
-)
-```
+
+
 
 
 #### Параметры

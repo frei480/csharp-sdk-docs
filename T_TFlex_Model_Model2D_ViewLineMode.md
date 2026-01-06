@@ -11,12 +11,8 @@
 ```csharp
 public enum ViewLineMode
 ```
-```vb
-Public Enumeration ViewLineMode
-```
-```cpp
-public enum class ViewLineMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

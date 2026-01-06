@@ -11,12 +11,8 @@
 ```csharp
 public enum RoughnessSymbolLeaderType
 ```
-```vb
-Public Enumeration RoughnessSymbolLeaderType
-```
-```cpp
-public enum class RoughnessSymbolLeaderType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

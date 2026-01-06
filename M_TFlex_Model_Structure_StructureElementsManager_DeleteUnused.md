@@ -8,13 +8,8 @@
 ```csharp
 public void DeleteUnused()
 ```
-```vb
-Public Sub DeleteUnused
-```
-```cpp
-public:
-void DeleteUnused()
-```
+
+
 
 
 #### Ссылки

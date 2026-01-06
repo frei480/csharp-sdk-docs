@@ -11,18 +11,8 @@
 ```csharp
 public static ApplicationFileLinksRefreshMode FileLinksAutoRefresh { get; set; }
 ```
-```vb
-Public Shared Property FileLinksAutoRefresh As ApplicationFileLinksRefreshMode
-	Get
-	Set
-```
-```cpp
-public:
-static property ApplicationFileLinksRefreshMode FileLinksAutoRefresh {
-	ApplicationFileLinksRefreshMode get ();
-	void set (ApplicationFileLinksRefreshMode value);
-}
-```
+
+
 
 
 #### Значение свойства

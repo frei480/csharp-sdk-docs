@@ -14,19 +14,8 @@ protected CircularDimensionBase(
 	bool fAddToContainer
 )
 ```
-```vb
-Protected Sub New ( 
-	Handle As IntPtr,
-	fAddToContainer As Boolean
-)
-```
-```cpp
-protected:
-CircularDimensionBase(
-	IntPtr Handle, 
-	bool fAddToContainer
-)
-```
+
+
 
 
 #### Параметры

@@ -13,16 +13,8 @@
 ```csharp
 public static Unit KilogramPerGallon { get; }
 ```
-```vb
-Public Shared ReadOnly Property KilogramPerGallon As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ KilogramPerGallon {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public string FontName { get; set; }
 ```
-```vb
-Public Property FontName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ FontName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

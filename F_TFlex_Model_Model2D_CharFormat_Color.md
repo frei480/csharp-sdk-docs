@@ -11,13 +11,8 @@
 ```csharp
 public uint Color
 ```
-```vb
-Public Color As UInteger
-```
-```cpp
-public:
-unsigned int Color
-```
+
+
 
 
 #### Значение поля

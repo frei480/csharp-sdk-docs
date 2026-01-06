@@ -11,18 +11,8 @@
 ```csharp
 public bool IgnoreAllowDeteteForOneChild { get; set; }
 ```
-```vb
-Public Property IgnoreAllowDeteteForOneChild As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IgnoreAllowDeteteForOneChild {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

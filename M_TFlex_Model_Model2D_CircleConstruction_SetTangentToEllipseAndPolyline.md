@@ -16,23 +16,8 @@ public void SetTangentToEllipseAndPolyline(
 	int variant
 )
 ```
-```vb
-Public Sub SetTangentToEllipseAndPolyline ( 
-	srcEllipse As Construction,
-	srcPolyline As Construction,
-	radius As Parameter,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetTangentToEllipseAndPolyline(
-	Construction^ srcEllipse, 
-	Construction^ srcPolyline, 
-	Parameter^ radius, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

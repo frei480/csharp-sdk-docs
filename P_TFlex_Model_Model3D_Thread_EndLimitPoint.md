@@ -11,18 +11,8 @@
 ```csharp
 public ModelPoint3D EndLimitPoint { get; set; }
 ```
-```vb
-Public Property EndLimitPoint As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ EndLimitPoint {
-	ModelPoint3D^ get ();
-	void set (ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public PluginException(
 	string message
 )
 ```
-```vb
-Public Sub New ( 
-	factory As PluginFactory,
-	message As String
-)
-```
-```cpp
-public:
-PluginException(
-	PluginFactory^ factory, 
-	String^ message
-)
-```
+
+
 
 
 #### Параметры

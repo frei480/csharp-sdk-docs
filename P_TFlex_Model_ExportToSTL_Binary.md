@@ -11,18 +11,8 @@
 ```csharp
 public bool Binary { get; set; }
 ```
-```vb
-Public Property Binary As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Binary {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

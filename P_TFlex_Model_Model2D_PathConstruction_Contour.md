@@ -11,16 +11,8 @@
 ```csharp
 public Contour Contour { get; }
 ```
-```vb
-Public ReadOnly Property Contour As Contour
-	Get
-```
-```cpp
-public:
-property Contour^ Contour {
-	Contour^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

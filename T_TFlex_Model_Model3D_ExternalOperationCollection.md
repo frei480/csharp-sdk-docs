@@ -11,13 +11,8 @@
 ```csharp
 public sealed class ExternalOperationCollection : IEnumerable<ExternalOperation>
 ```
-```vb
-Public NotInheritable Class ExternalOperationCollection
-	Implements IEnumerable(Of ExternalOperation)
-```
-```cpp
-public ref class ExternalOperationCollection sealed : IEnumerable<ExternalOperation^>
-```
+
+
 
 
 Тип ExternalOperationCollection предоставляет следующие члены.

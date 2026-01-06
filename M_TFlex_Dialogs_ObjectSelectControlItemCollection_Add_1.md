@@ -13,17 +13,8 @@ public int Add(
 	ModelObject modelObject
 )
 ```
-```vb
-Public Function Add ( 
-	modelObject As ModelObject
-) As Integer
-```
-```cpp
-public:
-int Add(
-	ModelObject^ modelObject
-)
-```
+
+
 
 
 #### Параметры

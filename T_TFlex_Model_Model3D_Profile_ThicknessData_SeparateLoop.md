@@ -11,12 +11,8 @@
 ```csharp
 public enum SeparateLoop
 ```
-```vb
-Public Enumeration SeparateLoop
-```
-```cpp
-public enum class SeparateLoop
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,13 +13,8 @@
 ```csharp
 public class RotateGenerator : BodyGenerator
 ```
-```vb
-Public Class RotateGenerator
-	Inherits BodyGenerator
-```
-```cpp
-public ref class RotateGenerator : public BodyGenerator
-```
+
+
 
 
 Тип RotateGenerator предоставляет следующие члены.

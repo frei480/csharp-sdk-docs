@@ -8,13 +8,8 @@
 ```csharp
 public interface IReportGenerator : ICloneable
 ```
-```vb
-Public Interface IReportGenerator
-	Inherits ICloneable
-```
-```cpp
-public interface class IReportGenerator : ICloneable
-```
+
+
 
 
 Тип IReportGenerator предоставляет следующие члены.

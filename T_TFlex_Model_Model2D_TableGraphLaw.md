@@ -13,13 +13,8 @@
 ```csharp
 public class TableGraphLaw : GraphLaw
 ```
-```vb
-Public Class TableGraphLaw
-	Inherits GraphLaw
-```
-```cpp
-public ref class TableGraphLaw : public GraphLaw
-```
+
+
 
 
 Тип TableGraphLaw предоставляет следующие члены.

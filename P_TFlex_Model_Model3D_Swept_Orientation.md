@@ -11,18 +11,8 @@
 ```csharp
 public SweptAlignment Orientation { get; set; }
 ```
-```vb
-Public Property Orientation As SweptAlignment
-	Get
-	Set
-```
-```cpp
-public:
-property SweptAlignment Orientation {
-	SweptAlignment get ();
-	void set (SweptAlignment value);
-}
-```
+
+
 
 
 #### Значение свойства

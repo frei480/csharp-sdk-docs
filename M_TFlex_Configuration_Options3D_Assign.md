@@ -10,17 +10,8 @@ public void Assign(
 	Options3D source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Options3D
-)
-```
-```cpp
-public:
-void Assign(
-	Options3D^ source
-)
-```
+
+
 
 
 #### Параметры

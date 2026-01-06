@@ -13,12 +13,8 @@
 ```csharp
 public class Parameter
 ```
-```vb
-Public Class Parameter
-```
-```cpp
-public ref class Parameter
-```
+
+
 
 
 Тип Parameter предоставляет следующие члены.

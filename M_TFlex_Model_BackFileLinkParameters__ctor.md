@@ -11,13 +11,8 @@
 ```csharp
 public BackFileLinkParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-BackFileLinkParameters()
-```
+
+
 
 
 #### Ссылки

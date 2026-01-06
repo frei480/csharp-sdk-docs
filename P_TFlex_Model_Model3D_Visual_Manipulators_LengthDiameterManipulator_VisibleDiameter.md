@@ -8,18 +8,8 @@
 ```csharp
 public bool VisibleDiameter { get; set; }
 ```
-```vb
-Public Property VisibleDiameter As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool VisibleDiameter {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

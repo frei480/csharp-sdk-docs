@@ -15,21 +15,8 @@ protected PluginFloatingWindow CreateFloatingWindow(
 	FloatingWindowParameters parameters
 )
 ```
-```vb
-Protected Function CreateFloatingWindow ( 
-	id As UInteger,
-	title As String,
-	parameters As FloatingWindowParameters
-) As PluginFloatingWindow
-```
-```cpp
-protected:
-PluginFloatingWindow^ CreateFloatingWindow(
-	unsigned int id, 
-	String^ title, 
-	FloatingWindowParameters parameters
-)
-```
+
+
 
 
 #### Параметры

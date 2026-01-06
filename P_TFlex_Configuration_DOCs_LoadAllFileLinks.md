@@ -8,18 +8,8 @@
 ```csharp
 public bool LoadAllFileLinks { get; set; }
 ```
-```vb
-Public Property LoadAllFileLinks As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool LoadAllFileLinks {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

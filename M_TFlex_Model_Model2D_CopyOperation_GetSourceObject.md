@@ -13,17 +13,8 @@ public Object2D GetSourceObject(
 	int index
 )
 ```
-```vb
-Public Function GetSourceObject ( 
-	index As Integer
-) As Object2D
-```
-```cpp
-public:
-Object2D^ GetSourceObject(
-	int index
-)
-```
+
+
 
 
 #### Параметры

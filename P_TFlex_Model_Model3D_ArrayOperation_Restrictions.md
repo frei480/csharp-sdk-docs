@@ -11,16 +11,8 @@
 ```csharp
 public SheetsArray Restrictions { get; }
 ```
-```vb
-Public ReadOnly Property Restrictions As SheetsArray
-	Get
-```
-```cpp
-public:
-property SheetsArray^ Restrictions {
-	SheetsArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

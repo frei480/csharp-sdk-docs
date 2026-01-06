@@ -11,16 +11,8 @@
 ```csharp
 public override DimensionType SubType { get; }
 ```
-```vb
-Public Overrides ReadOnly Property SubType As DimensionType
-	Get
-```
-```cpp
-public:
-virtual property DimensionType SubType {
-	DimensionType get () override;
-}
-```
+
+
 
 
 #### Значение свойства

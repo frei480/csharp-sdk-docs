@@ -11,16 +11,8 @@
 ```csharp
 public static Color FaceEdgeMark3 { get; }
 ```
-```vb
-Public Shared ReadOnly Property FaceEdgeMark3 As Color
-	Get
-```
-```cpp
-public:
-static property Color FaceEdgeMark3 {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

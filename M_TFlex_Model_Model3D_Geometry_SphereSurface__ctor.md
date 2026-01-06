@@ -16,23 +16,8 @@ public SphereSurface(
 	BaseDirection referencedirection
 )
 ```
-```vb
-Public Sub New ( 
-	radius As Double,
-	center As BasePoint3D,
-	normal As BaseDirection,
-	referencedirection As BaseDirection
-)
-```
-```cpp
-public:
-SphereSurface(
-	double radius, 
-	BasePoint3D^ center, 
-	BaseDirection^ normal, 
-	BaseDirection^ referencedirection
-)
-```
+
+
 
 
 #### Параметры

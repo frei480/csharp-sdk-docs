@@ -13,17 +13,8 @@ public ThreeFaceBlending(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-ThreeFaceBlending(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class ReportRegenerateContext : ICloneable
 ```
-```vb
-Public Class ReportRegenerateContext
-	Implements ICloneable
-```
-```cpp
-public ref class ReportRegenerateContext : ICloneable
-```
+
+
 
 
 Тип ReportRegenerateContext предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public class ParametricArrayOperation : Operation
 ```
-```vb
-Public Class ParametricArrayOperation
-	Inherits Operation
-```
-```cpp
-public ref class ParametricArrayOperation : public Operation
-```
+
+
 
 
 Тип ParametricArrayOperation предоставляет следующие члены.

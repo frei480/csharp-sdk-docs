@@ -11,21 +11,8 @@ public static bool LoadFromFragment(
 	Fragment3D fragment
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function LoadFromFragment ( 
-	manager As StructureElementsManager,
-	fragment As Fragment3D
-) As Boolean
-```
-```cpp
-public:
-[ExtensionAttribute]
-static bool LoadFromFragment(
-	StructureElementsManager^ manager, 
-	Fragment3D^ fragment
-)
-```
+
+
 
 
 #### Параметры

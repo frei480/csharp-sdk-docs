@@ -11,13 +11,8 @@
 ```csharp
 public void ZoomOut()
 ```
-```vb
-Public Sub ZoomOut
-```
-```cpp
-public:
-void ZoomOut()
-```
+
+
 
 
 #### Ссылки

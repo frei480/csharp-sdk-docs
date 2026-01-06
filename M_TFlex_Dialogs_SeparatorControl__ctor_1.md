@@ -13,17 +13,8 @@ public SeparatorControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-SeparatorControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

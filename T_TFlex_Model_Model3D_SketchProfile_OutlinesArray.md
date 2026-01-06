@@ -14,14 +14,8 @@
 public class OutlinesArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class OutlinesArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class OutlinesArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип SketchProfileOutlinesArray предоставляет следующие члены.

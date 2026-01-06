@@ -11,13 +11,8 @@
 ```csharp
 public ReportRegenerateContext()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ReportRegenerateContext()
-```
+
+
 
 
 #### Ссылки

@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Currency
 ```
-```vb
-Public NotInheritable Class Currency
-```
-```cpp
-public ref class Currency sealed
-```
+
+
 
 
 Тип StandardUnitsCurrency предоставляет следующие члены.

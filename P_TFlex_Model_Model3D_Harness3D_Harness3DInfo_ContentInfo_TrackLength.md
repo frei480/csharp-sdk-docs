@@ -8,16 +8,8 @@
 ```csharp
 public double TrackLength { get; }
 ```
-```vb
-Public ReadOnly Property TrackLength As Double
-	Get
-```
-```cpp
-public:
-property double TrackLength {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

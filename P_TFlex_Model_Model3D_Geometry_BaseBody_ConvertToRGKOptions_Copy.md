@@ -11,18 +11,8 @@
 ```csharp
 public bool Copy { get; set; }
 ```
-```vb
-Public Property Copy As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Copy {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

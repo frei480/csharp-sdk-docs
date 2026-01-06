@@ -13,14 +13,8 @@
 ```csharp
 public class NodesArray : IEnumerator, IEnumerable
 ```
-```vb
-Public Class NodesArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class NodesArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип NodeSectionNodesArray предоставляет следующие члены.

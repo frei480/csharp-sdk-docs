@@ -11,12 +11,8 @@
 ```csharp
 public enum ExportTo3dColorSource
 ```
-```vb
-Public Enumeration ExportTo3dColorSource
-```
-```cpp
-public enum class ExportTo3dColorSource
-```
+
+
 
 
 | Имя члена | Значение | Описание |

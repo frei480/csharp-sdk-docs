@@ -11,18 +11,8 @@
 ```csharp
 public AffineTransformation Matrix { get; set; }
 ```
-```vb
-Public Property Matrix As AffineTransformation
-	Get
-	Set
-```
-```cpp
-public:
-property AffineTransformation^ Matrix {
-	AffineTransformation^ get ();
-	void set (AffineTransformation^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public double BoundDistance { get; set; }
 ```
-```vb
-Public Property BoundDistance As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double BoundDistance {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool GlobalLcsVisible { get; set; }
 ```
-```vb
-Public Overridable Property GlobalLcsVisible As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool GlobalLcsVisible {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

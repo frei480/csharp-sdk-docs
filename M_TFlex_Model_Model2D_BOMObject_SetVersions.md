@@ -13,17 +13,8 @@ public void SetVersions(
 	BOMObjectVersion[] versions
 )
 ```
-```vb
-Public Sub SetVersions ( 
-	versions As BOMObjectVersion()
-)
-```
-```cpp
-public:
-void SetVersions(
-	array<BOMObjectVersion>^ versions
-)
-```
+
+
 
 
 #### Параметры

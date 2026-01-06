@@ -15,21 +15,8 @@ public void SetParallelTangentToPolyline(
 	int variant
 )
 ```
-```vb
-Public Sub SetParallelTangentToPolyline ( 
-	srcLine As Construction,
-	srcPolyline As Construction,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetParallelTangentToPolyline(
-	Construction^ srcLine, 
-	Construction^ srcPolyline, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

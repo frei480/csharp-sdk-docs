@@ -13,17 +13,8 @@ public Torus(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Torus(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

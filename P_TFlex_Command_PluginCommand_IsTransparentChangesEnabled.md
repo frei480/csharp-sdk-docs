@@ -11,16 +11,8 @@
 ```csharp
 public virtual bool IsTransparentChangesEnabled { get; }
 ```
-```vb
-Public Overridable ReadOnly Property IsTransparentChangesEnabled As Boolean
-	Get
-```
-```cpp
-public:
-virtual property bool IsTransparentChangesEnabled {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,21 +15,8 @@ public StaticTextControl(
 	HorizontalAlignment alignment
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	text As String,
-	alignment As HorizontalAlignment
-)
-```
-```cpp
-public:
-StaticTextControl(
-	String^ id, 
-	String^ text, 
-	HorizontalAlignment alignment
-)
-```
+
+
 
 
 #### Параметры

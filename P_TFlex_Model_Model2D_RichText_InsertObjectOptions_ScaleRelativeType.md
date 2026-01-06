@@ -11,18 +11,8 @@
 ```csharp
 public RichTextScaleRelativeType ScaleRelativeType { get; set; }
 ```
-```vb
-Public Property ScaleRelativeType As RichTextScaleRelativeType
-	Get
-	Set
-```
-```cpp
-public:
-property RichTextScaleRelativeType ScaleRelativeType {
-	RichTextScaleRelativeType get ();
-	void set (RichTextScaleRelativeType value);
-}
-```
+
+
 
 
 #### Значение свойства

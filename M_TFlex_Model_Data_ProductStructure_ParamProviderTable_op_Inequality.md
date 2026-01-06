@@ -11,19 +11,8 @@ public static bool operator !=(
 	ParamProviderTable right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As ParamProviderTable,
-	right As ParamProviderTable
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	ParamProviderTable^ left, 
-	ParamProviderTable^ right
-)
-```
+
+
 
 
 #### Параметры

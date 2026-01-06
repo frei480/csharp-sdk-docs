@@ -13,13 +13,8 @@
 ```csharp
 public class NodeSection : Model2DSection
 ```
-```vb
-Public Class NodeSection
-	Inherits Model2DSection
-```
-```cpp
-public ref class NodeSection : public Model2DSection
-```
+
+
 
 
 Тип NodeSection предоставляет следующие члены.

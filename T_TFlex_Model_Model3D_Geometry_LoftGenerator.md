@@ -13,13 +13,8 @@
 ```csharp
 public class LoftGenerator : BodyGenerator
 ```
-```vb
-Public Class LoftGenerator
-	Inherits BodyGenerator
-```
-```cpp
-public ref class LoftGenerator : public BodyGenerator
-```
+
+
 
 
 Тип LoftGenerator предоставляет следующие члены.

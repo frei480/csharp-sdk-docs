@@ -11,18 +11,8 @@
 ```csharp
 public bool UseHatch { get; set; }
 ```
-```vb
-Public Property UseHatch As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseHatch {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

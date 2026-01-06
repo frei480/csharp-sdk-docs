@@ -11,18 +11,8 @@
 ```csharp
 public bool AutoNamingDatum { get; set; }
 ```
-```vb
-Public Property AutoNamingDatum As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoNamingDatum {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

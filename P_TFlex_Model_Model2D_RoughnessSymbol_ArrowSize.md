@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ArrowSize { get; set; }
 ```
-```vb
-Public Property ArrowSize As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ArrowSize {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

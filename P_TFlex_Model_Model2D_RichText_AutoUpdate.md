@@ -11,18 +11,8 @@
 ```csharp
 public bool AutoUpdate { get; set; }
 ```
-```vb
-Public Property AutoUpdate As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoUpdate {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

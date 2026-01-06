@@ -8,13 +8,8 @@
 ```csharp
 public bool MoveNext()
 ```
-```vb
-Public Function MoveNext As Boolean
-```
-```cpp
-public:
-virtual bool MoveNext() sealed
-```
+
+
 
 
 #### Возвращаемое значение

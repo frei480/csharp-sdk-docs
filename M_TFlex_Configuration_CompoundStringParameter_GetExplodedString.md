@@ -11,19 +11,8 @@ public static string GetExplodedString(
 	string str
 )
 ```
-```vb
-Public Shared Function GetExplodedString ( 
-	document As Document,
-	str As String
-) As String
-```
-```cpp
-public:
-static String^ GetExplodedString(
-	Document^ document, 
-	String^ str
-)
-```
+
+
 
 
 #### Параметры

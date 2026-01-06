@@ -11,13 +11,8 @@
 ```csharp
 public float Angle
 ```
-```vb
-Public Angle As Single
-```
-```cpp
-public:
-float Angle
-```
+
+
 
 
 #### Значение поля

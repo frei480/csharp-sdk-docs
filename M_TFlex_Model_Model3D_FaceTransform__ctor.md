@@ -13,17 +13,8 @@ public FaceTransform(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-FaceTransform(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

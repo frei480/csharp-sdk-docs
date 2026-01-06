@@ -13,17 +13,8 @@ public Automenu(
 	Button[] buttonArray
 )
 ```
-```vb
-Public Sub New ( 
-	buttonArray As Button()
-)
-```
-```cpp
-public:
-Automenu(
-	array<Button^>^ buttonArray
-)
-```
+
+
 
 
 #### Параметры

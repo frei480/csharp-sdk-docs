@@ -11,18 +11,8 @@
 ```csharp
 public ParameterizationType UKnotSequenceType { get; set; }
 ```
-```vb
-Public Property UKnotSequenceType As ParameterizationType
-	Get
-	Set
-```
-```cpp
-public:
-property ParameterizationType UKnotSequenceType {
-	ParameterizationType get ();
-	void set (ParameterizationType value);
-}
-```
+
+
 
 
 #### Значение свойства

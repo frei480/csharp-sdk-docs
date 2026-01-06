@@ -11,13 +11,8 @@
 ```csharp
 public bool MoveToNextRecord()
 ```
-```vb
-Public Function MoveToNextRecord As Boolean
-```
-```cpp
-public:
-bool MoveToNextRecord()
-```
+
+
 
 
 #### Возвращаемое значение

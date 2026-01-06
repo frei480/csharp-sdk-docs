@@ -11,16 +11,8 @@
 ```csharp
 public ExportToBMF ExportToBMF { get; }
 ```
-```vb
-Public ReadOnly Property ExportToBMF As ExportToBMF
-	Get
-```
-```cpp
-public:
-property ExportToBMF^ ExportToBMF {
-	ExportToBMF^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

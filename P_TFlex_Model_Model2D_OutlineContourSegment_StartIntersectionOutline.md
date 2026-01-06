@@ -11,18 +11,8 @@
 ```csharp
 public Outline StartIntersectionOutline { get; set; }
 ```
-```vb
-Public Property StartIntersectionOutline As Outline
-	Get
-	Set
-```
-```cpp
-public:
-property Outline^ StartIntersectionOutline {
-	Outline^ get ();
-	void set (Outline^ value);
-}
-```
+
+
 
 
 #### Значение свойства

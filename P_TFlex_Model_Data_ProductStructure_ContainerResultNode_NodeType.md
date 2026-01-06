@@ -8,16 +8,8 @@
 ```csharp
 public virtual GroupingResNodeType NodeType { get; }
 ```
-```vb
-Public Overridable ReadOnly Property NodeType As GroupingResNodeType
-	Get
-```
-```cpp
-public:
-virtual property GroupingResNodeType NodeType {
-	GroupingResNodeType get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class Sensor : ModelObject
 ```
-```vb
-Public Class Sensor
-	Inherits ModelObject
-```
-```cpp
-public ref class Sensor : public ModelObject
-```
+
+
 
 
 Тип Sensor предоставляет следующие члены.

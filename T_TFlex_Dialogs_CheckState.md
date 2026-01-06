@@ -11,12 +11,8 @@
 ```csharp
 public enum CheckState
 ```
-```vb
-Public Enumeration CheckState
-```
-```cpp
-public enum class CheckState
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,19 +13,8 @@ public static ICollection<BooleanOperation> GetBooleans(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetBooleans ( 
-	document As Document
-) As ICollection(Of BooleanOperation)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<BooleanOperation^>^ GetBooleans(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

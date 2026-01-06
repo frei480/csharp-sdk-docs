@@ -13,17 +13,8 @@ public CustomBOMItem GetCustomItem(
 	int index
 )
 ```
-```vb
-Public Function GetCustomItem ( 
-	index As Integer
-) As CustomBOMItem
-```
-```cpp
-public:
-CustomBOMItem^ GetCustomItem(
-	int index
-)
-```
+
+
 
 
 #### Параметры

@@ -10,18 +10,8 @@ public CommonAttribute this[
 	string name
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	name As String
-) As CommonAttribute
-	Get
-```
-```cpp
-public:
-property CommonAttribute^ default[String^ name] {
-	CommonAttribute^ get (String^ name);
-}
-```
+
+
 
 
 #### Параметры

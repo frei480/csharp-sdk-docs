@@ -13,13 +13,8 @@
 ```csharp
 public class CircleProfileProperties : BasePipeBaseProfileProperties
 ```
-```vb
-Public Class CircleProfileProperties
-	Inherits BasePipeBaseProfileProperties
-```
-```cpp
-public ref class CircleProfileProperties : public BasePipeBaseProfileProperties
-```
+
+
 
 
 Тип PipeCircleProfileProperties предоставляет следующие члены.

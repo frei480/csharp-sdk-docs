@@ -11,15 +11,8 @@
 ```csharp
 BaseSplineCurve ParamCurve { get; }
 ```
-```vb
-ReadOnly Property ParamCurve As BaseSplineCurve
-	Get
-```
-```cpp
-property BaseSplineCurve^ ParamCurve {
-	BaseSplineCurve^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

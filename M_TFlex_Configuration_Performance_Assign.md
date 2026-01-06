@@ -10,17 +10,8 @@ public void Assign(
 	Performance source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Performance
-)
-```
-```cpp
-public:
-void Assign(
-	Performance^ source
-)
-```
+
+
 
 
 #### Параметры

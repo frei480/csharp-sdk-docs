@@ -11,19 +11,8 @@ public static bool operator !=(
 	View3DDrawStyle second
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	first As View3DDrawStyle,
-	second As View3DDrawStyle
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	View3DDrawStyle first, 
-	View3DDrawStyle second
-)
-```
+
+
 
 
 #### Параметры

@@ -13,15 +13,8 @@
 ```csharp
 public class Picture : Object2D, IModelObjectWithLayer
 ```
-```vb
-Public Class Picture
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class Picture : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип Picture предоставляет следующие члены.

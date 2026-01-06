@@ -8,18 +8,8 @@
 ```csharp
 public PropertiesWindow PropertiesWindow { get; set; }
 ```
-```vb
-Public Property PropertiesWindow As PropertiesWindow
-	Get
-	Set
-```
-```cpp
-public:
-property PropertiesWindow^ PropertiesWindow {
-	PropertiesWindow^ get ();
-	void set (PropertiesWindow^ value);
-}
-```
+
+
 
 
 #### Значение свойства

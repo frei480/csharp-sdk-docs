@@ -10,17 +10,8 @@ public TerminalPoint CreateTerminalPoint(
 	BasePoint3D pos
 )
 ```
-```vb
-Public Function CreateTerminalPoint ( 
-	pos As BasePoint3D
-) As TerminalPoint
-```
-```cpp
-public:
-TerminalPoint^ CreateTerminalPoint(
-	BasePoint3D^ pos
-)
-```
+
+
 
 
 #### Параметры

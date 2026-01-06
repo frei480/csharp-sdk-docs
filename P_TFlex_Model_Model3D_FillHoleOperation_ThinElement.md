@@ -11,18 +11,8 @@
 ```csharp
 public bool ThinElement { get; set; }
 ```
-```vb
-Public Property ThinElement As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ThinElement {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

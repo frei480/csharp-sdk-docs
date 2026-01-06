@@ -13,13 +13,8 @@
 ```csharp
 public class AutomaticXyzPoint : LoftPointOnContour
 ```
-```vb
-Public Class AutomaticXyzPoint
-	Inherits LoftPointOnContour
-```
-```cpp
-public ref class AutomaticXyzPoint : public LoftPointOnContour
-```
+
+
 
 
 Тип LoftAutomaticXyzPoint предоставляет следующие члены.

@@ -10,17 +10,8 @@ public void AddRange(
 	IEnumerable<ModelObject> objects
 )
 ```
-```vb
-Public Sub AddRange ( 
-	objects As IEnumerable(Of ModelObject)
-)
-```
-```cpp
-public:
-void AddRange(
-	IEnumerable<ModelObject^>^ objects
-)
-```
+
+
 
 
 #### Параметры

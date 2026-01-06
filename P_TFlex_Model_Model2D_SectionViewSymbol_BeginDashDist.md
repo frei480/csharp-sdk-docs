@@ -11,18 +11,8 @@
 ```csharp
 public double BeginDashDist { get; set; }
 ```
-```vb
-Public Property BeginDashDist As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double BeginDashDist {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

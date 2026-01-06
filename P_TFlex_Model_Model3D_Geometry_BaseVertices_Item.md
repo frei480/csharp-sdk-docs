@@ -10,18 +10,8 @@ public abstract BaseVertex this[
 	int index
 ] { get; }
 ```
-```vb
-Public MustOverride ReadOnly Default Property Item ( 
-	index As Integer
-) As BaseVertex
-	Get
-```
-```cpp
-public:
-virtual property BaseVertex^ default[int index] {
-	BaseVertex^ get (int index) abstract;
-}
-```
+
+
 
 
 #### Параметры

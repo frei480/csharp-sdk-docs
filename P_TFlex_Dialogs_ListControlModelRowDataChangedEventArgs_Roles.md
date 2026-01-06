@@ -11,16 +11,8 @@
 ```csharp
 public IList<ListItemRole> Roles { get; }
 ```
-```vb
-Public ReadOnly Property Roles As IList(Of ListItemRole)
-	Get
-```
-```cpp
-public:
-property IList<ListItemRole>^ Roles {
-	IList<ListItemRole>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,13 +8,8 @@
 ```csharp
 public Guid Type
 ```
-```vb
-Public Type As Guid
-```
-```cpp
-public:
-Guid Type
-```
+
+
 
 
 #### Значение поля

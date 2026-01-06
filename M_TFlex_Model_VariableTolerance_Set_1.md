@@ -11,19 +11,8 @@ public void Set(
 	Parameter upperDiviation
 )
 ```
-```vb
-Public Sub Set ( 
-	lowerDiviation As Parameter,
-	upperDiviation As Parameter
-)
-```
-```cpp
-public:
-void Set(
-	Parameter^ lowerDiviation, 
-	Parameter^ upperDiviation
-)
-```
+
+
 
 
 #### Параметры

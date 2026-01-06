@@ -11,18 +11,8 @@
 ```csharp
 public ModelLoop Loop { get; set; }
 ```
-```vb
-Public Property Loop As ModelLoop
-	Get
-	Set
-```
-```cpp
-public:
-property ModelLoop^ Loop {
-	ModelLoop^ get ();
-	void set (ModelLoop^ value);
-}
-```
+
+
 
 
 #### Значение свойства

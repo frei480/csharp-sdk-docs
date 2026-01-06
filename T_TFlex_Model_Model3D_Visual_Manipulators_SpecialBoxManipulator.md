@@ -11,13 +11,8 @@
 ```csharp
 public class SpecialBoxManipulator : BoxManipulatorBase
 ```
-```vb
-Public Class SpecialBoxManipulator
-	Inherits BoxManipulatorBase
-```
-```cpp
-public ref class SpecialBoxManipulator : public BoxManipulatorBase
-```
+
+
 
 
 Тип SpecialBoxManipulator предоставляет следующие члены.

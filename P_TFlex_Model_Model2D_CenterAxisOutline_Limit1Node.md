@@ -11,18 +11,8 @@
 ```csharp
 public Node Limit1Node { get; set; }
 ```
-```vb
-Public Property Limit1Node As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ Limit1Node {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

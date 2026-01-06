@@ -11,19 +11,8 @@ public Object RunMethod(
 	params Object[] parameters
 )
 ```
-```vb
-Public Function RunMethod ( 
-	methodID As Guid,
-	ParamArray parameters As Object()
-) As Object
-```
-```cpp
-public:
-Object^ RunMethod(
-	Guid methodID, 
-	... array<Object^>^ parameters
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public RunResult(
 	bool fixable
 )
 ```
-```vb
-Public Sub New ( 
-	entriesObjects As IEnumerable(Of ModelObject),
-	fixable As Boolean
-)
-```
-```cpp
-public:
-RunResult(
-	IEnumerable<ModelObject^>^ entriesObjects, 
-	bool fixable
-)
-```
+
+
 
 
 #### Параметры

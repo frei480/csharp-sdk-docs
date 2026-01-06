@@ -11,13 +11,8 @@
 ```csharp
 public DocumentPartialLoadParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-DocumentPartialLoadParameters()
-```
+
+
 
 
 #### Ссылки

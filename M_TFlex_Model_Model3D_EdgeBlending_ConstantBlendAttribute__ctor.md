@@ -13,17 +13,8 @@ public ConstantBlendAttribute(
 	Parameter radius
 )
 ```
-```vb
-Public Sub New ( 
-	radius As Parameter
-)
-```
-```cpp
-public:
-ConstantBlendAttribute(
-	Parameter^ radius
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class CoordinateNode3D : Node3D
 ```
-```vb
-Public Class CoordinateNode3D
-	Inherits Node3D
-```
-```cpp
-public ref class CoordinateNode3D : public Node3D
-```
+
+
 
 
 Тип CoordinateNode3D предоставляет следующие члены.

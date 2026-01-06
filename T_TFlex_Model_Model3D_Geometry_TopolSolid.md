@@ -14,15 +14,8 @@
 public sealed class TopolSolid : TopolBodies, 
 	Solid
 ```
-```vb
-Public NotInheritable Class TopolSolid
-	Inherits TopolBodies
-	Implements Solid
-```
-```cpp
-public ref class TopolSolid sealed : public TopolBodies, 
-	Solid
-```
+
+
 
 
 Тип TopolSolid предоставляет следующие члены.

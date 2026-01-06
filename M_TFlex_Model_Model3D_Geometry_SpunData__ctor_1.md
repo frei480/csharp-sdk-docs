@@ -14,19 +14,8 @@ public SpunData(
 	BaseAxis axis
 )
 ```
-```vb
-Public Sub New ( 
-	curve As BaseCurve,
-	axis As BaseAxis
-)
-```
-```cpp
-public:
-SpunData(
-	BaseCurve^ curve, 
-	BaseAxis^ axis
-)
-```
+
+
 
 
 #### Параметры

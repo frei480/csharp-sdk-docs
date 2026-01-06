@@ -11,13 +11,8 @@
 ```csharp
 public void MakeSmoothness()
 ```
-```vb
-Public Sub MakeSmoothness
-```
-```cpp
-public:
-void MakeSmoothness()
-```
+
+
 
 
 Создает гладкие межсегментные участки

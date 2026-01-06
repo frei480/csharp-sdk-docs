@@ -14,19 +14,8 @@ public Object GetContent(
 	int column
 )
 ```
-```vb
-Public Function GetContent ( 
-	row As Integer,
-	column As Integer
-) As Object
-```
-```cpp
-public:
-Object^ GetContent(
-	int row, 
-	int column
-)
-```
+
+
 
 
 #### Параметры

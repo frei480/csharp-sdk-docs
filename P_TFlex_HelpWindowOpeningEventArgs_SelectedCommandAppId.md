@@ -8,16 +8,8 @@
 ```csharp
 public Guid SelectedCommandAppId { get; }
 ```
-```vb
-Public ReadOnly Property SelectedCommandAppId As Guid
-	Get
-```
-```cpp
-public:
-property Guid SelectedCommandAppId {
-	Guid get ();
-}
-```
+
+
 
 
 #### Значение свойства

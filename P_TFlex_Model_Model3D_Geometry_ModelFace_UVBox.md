@@ -11,16 +11,8 @@
 ```csharp
 public virtual UVBox UVBox { get; }
 ```
-```vb
-Public Overridable ReadOnly Property UVBox As UVBox
-	Get
-```
-```cpp
-public:
-virtual property UVBox^ UVBox {
-	UVBox^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

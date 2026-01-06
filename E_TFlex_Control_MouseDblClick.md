@@ -11,16 +11,8 @@
 ```csharp
 public event ControlMouseDblClick MouseDblClick
 ```
-```vb
-Public Event MouseDblClick As ControlMouseDblClick
-```
-```cpp
-public:
- event ControlMouseDblClick^ MouseDblClick {
-	void add (ControlMouseDblClick^ value);
-	void remove (ControlMouseDblClick^ value);
-}
-```
+
+
 
 
 #### Значение

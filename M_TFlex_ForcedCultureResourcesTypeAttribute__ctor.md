@@ -13,17 +13,8 @@ public ForcedCultureResourcesTypeAttribute(
 	string fullName
 )
 ```
-```vb
-Public Sub New ( 
-	fullName As String
-)
-```
-```cpp
-public:
-ForcedCultureResourcesTypeAttribute(
-	String^ fullName
-)
-```
+
+
 
 
 #### Параметры

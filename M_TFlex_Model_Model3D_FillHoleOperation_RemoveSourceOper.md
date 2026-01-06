@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveSourceOper()
 ```
-```vb
-Public Sub RemoveSourceOper
-```
-```cpp
-public:
-void RemoveSourceOper()
-```
+
+
 
 
 #### Ссылки

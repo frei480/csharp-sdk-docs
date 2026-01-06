@@ -13,17 +13,8 @@ public void AddCustomItem(
 	InputControlAutocompleteItem item
 )
 ```
-```vb
-Public Sub AddCustomItem ( 
-	item As InputControlAutocompleteItem
-)
-```
-```cpp
-public:
-void AddCustomItem(
-	InputControlAutocompleteItem^ item
-)
-```
+
+
 
 
 #### Параметры

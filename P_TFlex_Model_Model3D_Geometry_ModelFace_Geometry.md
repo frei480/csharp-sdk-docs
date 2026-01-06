@@ -11,16 +11,8 @@
 ```csharp
 public ModelFaceGeometryData Geometry { get; }
 ```
-```vb
-Public ReadOnly Property Geometry As ModelFaceGeometryData
-	Get
-```
-```cpp
-public:
-property ModelFaceGeometryData^ Geometry {
-	ModelFaceGeometryData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void CloseMessage(
 	IntPtr messageId
 )
 ```
-```vb
-Public Sub CloseMessage ( 
-	messageId As IntPtr
-)
-```
-```cpp
-public:
-void CloseMessage(
-	IntPtr messageId
-)
-```
+
+
 
 
 #### Параметры

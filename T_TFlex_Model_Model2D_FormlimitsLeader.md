@@ -14,15 +14,8 @@
 public class FormlimitsLeader : Object2D, 
 	IModelObjectWithLayer
 ```
-```vb
-Public Class FormlimitsLeader
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class FormlimitsLeader : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип FormlimitsLeader предоставляет следующие члены.

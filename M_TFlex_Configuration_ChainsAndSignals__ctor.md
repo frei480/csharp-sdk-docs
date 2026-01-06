@@ -11,13 +11,8 @@
 ```csharp
 public ChainsAndSignals()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ChainsAndSignals()
-```
+
+
 
 
 #### Ссылки

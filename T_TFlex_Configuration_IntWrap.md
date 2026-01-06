@@ -11,13 +11,8 @@
 ```csharp
 public class IntWrap : SettingsGroup
 ```
-```vb
-Public Class IntWrap
-	Inherits SettingsGroup
-```
-```cpp
-public ref class IntWrap : public SettingsGroup
-```
+
+
 
 
 Тип IntWrap предоставляет следующие члены.

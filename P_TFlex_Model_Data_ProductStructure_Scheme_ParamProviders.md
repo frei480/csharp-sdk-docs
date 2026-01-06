@@ -8,16 +8,8 @@
 ```csharp
 public ParamProviderTable ParamProviders { get; }
 ```
-```vb
-Public ReadOnly Property ParamProviders As ParamProviderTable
-	Get
-```
-```cpp
-public:
-property ParamProviderTable^ ParamProviders {
-	ParamProviderTable^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

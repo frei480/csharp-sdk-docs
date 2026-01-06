@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Voltage
 ```
-```vb
-Public NotInheritable Class Voltage
-```
-```cpp
-public ref class Voltage sealed
-```
+
+
 
 
 Тип StandardUnitsVoltage предоставляет следующие члены.

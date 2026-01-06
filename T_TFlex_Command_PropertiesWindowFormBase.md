@@ -13,12 +13,8 @@
 ```csharp
 public abstract class PropertiesWindowFormBase
 ```
-```vb
-Public MustInherit Class PropertiesWindowFormBase
-```
-```cpp
-public ref class PropertiesWindowFormBase abstract
-```
+
+
 
 
 Тип PropertiesWindowFormBase предоставляет следующие члены.

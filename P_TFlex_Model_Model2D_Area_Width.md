@@ -14,18 +14,8 @@
 [ObsoleteAttribute("Use OutlineWidth")]
 public Parameter Width { set; }
 ```
-```vb
-<ObsoleteAttribute("Use OutlineWidth")>
-Public WriteOnly Property Width As Parameter
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Use OutlineWidth")]
-property Parameter^ Width {
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

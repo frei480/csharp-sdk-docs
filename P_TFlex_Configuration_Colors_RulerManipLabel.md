@@ -8,18 +8,8 @@
 ```csharp
 public int RulerManipLabel { get; set; }
 ```
-```vb
-Public Property RulerManipLabel As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int RulerManipLabel {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

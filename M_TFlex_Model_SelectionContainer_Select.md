@@ -13,17 +13,8 @@ public void Select(
 	ModelObject obj
 )
 ```
-```vb
-Public Sub Select ( 
-	obj As ModelObject
-)
-```
-```cpp
-public:
-void Select(
-	ModelObject^ obj
-)
-```
+
+
 
 
 #### Параметры

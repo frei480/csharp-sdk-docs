@@ -11,12 +11,8 @@
 ```csharp
 public enum BoundType
 ```
-```vb
-Public Enumeration BoundType
-```
-```cpp
-public enum class BoundType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

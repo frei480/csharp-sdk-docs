@@ -11,13 +11,8 @@
 ```csharp
 public uint Order
 ```
-```vb
-Public Order As UInteger
-```
-```cpp
-public:
-unsigned int Order
-```
+
+
 
 
 #### Значение поля

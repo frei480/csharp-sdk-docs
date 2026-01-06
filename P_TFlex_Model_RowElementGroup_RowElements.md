@@ -11,16 +11,8 @@
 ```csharp
 public List<RowElement> RowElements { get; }
 ```
-```vb
-Public ReadOnly Property RowElements As List(Of RowElement)
-	Get
-```
-```cpp
-public:
-property List<RowElement^>^ RowElements {
-	List<RowElement^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public GeometryModification Modification { get; set; }
 ```
-```vb
-Public Property Modification As GeometryModification
-	Get
-	Set
-```
-```cpp
-public:
-property GeometryModification^ Modification {
-	GeometryModification^ get ();
-	void set (GeometryModification^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public void AddGroup()
 ```
-```vb
-Public Sub AddGroup
-```
-```cpp
-public:
-void AddGroup()
-```
+
+
 
 
 #### Ссылки

@@ -8,13 +8,8 @@
 ```csharp
 protected void Invalidate()
 ```
-```vb
-Protected Sub Invalidate
-```
-```cpp
-protected:
-void Invalidate()
-```
+
+
 
 
 #### Ссылки

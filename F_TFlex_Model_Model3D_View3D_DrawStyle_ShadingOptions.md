@@ -11,13 +11,8 @@
 ```csharp
 public View3DDrawStyleFilledOptions ShadingOptions
 ```
-```vb
-Public ShadingOptions As View3DDrawStyleFilledOptions
-```
-```cpp
-public:
-View3DDrawStyleFilledOptions ShadingOptions
-```
+
+
 
 
 #### Значение поля

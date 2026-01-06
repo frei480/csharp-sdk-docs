@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Diameter2 { get; set; }
 ```
-```vb
-Public Property Diameter2 As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Diameter2 {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

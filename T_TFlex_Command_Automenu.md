@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Automenu
 ```
-```vb
-Public NotInheritable Class Automenu
-```
-```cpp
-public ref class Automenu sealed
-```
+
+
 
 
 Тип Automenu предоставляет следующие члены.

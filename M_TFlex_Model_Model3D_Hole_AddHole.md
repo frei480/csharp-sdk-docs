@@ -14,19 +14,8 @@ public bool AddHole(
 	Node3D node
 )
 ```
-```vb
-Public Function AddHole ( 
-	face As ModelFace,
-	node As Node3D
-) As Boolean
-```
-```cpp
-public:
-bool AddHole(
-	ModelFace^ face, 
-	Node3D^ node
-)
-```
+
+
 
 
 #### Параметры

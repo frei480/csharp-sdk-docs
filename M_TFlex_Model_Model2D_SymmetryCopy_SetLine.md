@@ -13,17 +13,8 @@ public void SetLine(
 	Object2D axisLine
 )
 ```
-```vb
-Public Sub SetLine ( 
-	axisLine As Object2D
-)
-```
-```cpp
-public:
-void SetLine(
-	Object2D^ axisLine
-)
-```
+
+
 
 
 #### Параметры

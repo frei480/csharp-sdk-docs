@@ -15,21 +15,8 @@ public void SetSyncVertex(
 	int nProfile
 )
 ```
-```vb
-Public Sub SetSyncVertex ( 
-	vert As BaseTopol,
-	nSyncPoint As Integer,
-	nProfile As Integer
-)
-```
-```cpp
-public:
-void SetSyncVertex(
-	BaseTopol^ vert, 
-	int nSyncPoint, 
-	int nProfile
-)
-```
+
+
 
 
 #### Параметры

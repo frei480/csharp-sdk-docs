@@ -11,18 +11,8 @@
 ```csharp
 public bool Perspective { get; set; }
 ```
-```vb
-Public Property Perspective As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Perspective {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

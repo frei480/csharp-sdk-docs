@@ -12,21 +12,8 @@ public abstract void SetDesignation(
 	DesignationType type
 )
 ```
-```vb
-Public MustOverride Sub SetDesignation ( 
-	expression As String,
-	delimiter As String,
-	type As DesignationType
-)
-```
-```cpp
-public:
-virtual void SetDesignation(
-	String^ expression, 
-	String^ delimiter, 
-	DesignationType type
-) abstract
-```
+
+
 
 
 #### Параметры

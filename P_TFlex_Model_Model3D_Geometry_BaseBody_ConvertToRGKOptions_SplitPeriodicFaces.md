@@ -11,18 +11,8 @@
 ```csharp
 public bool SplitPeriodicFaces { get; set; }
 ```
-```vb
-Public Property SplitPeriodicFaces As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SplitPeriodicFaces {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

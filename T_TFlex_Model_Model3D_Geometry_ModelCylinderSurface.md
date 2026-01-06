@@ -14,15 +14,8 @@
 public sealed class ModelCylinderSurface : ModelSurface, 
 	BaseCylinderSurface
 ```
-```vb
-Public NotInheritable Class ModelCylinderSurface
-	Inherits ModelSurface
-	Implements BaseCylinderSurface
-```
-```cpp
-public ref class ModelCylinderSurface sealed : public ModelSurface, 
-	BaseCylinderSurface
-```
+
+
 
 
 Тип ModelCylinderSurface предоставляет следующие члены.

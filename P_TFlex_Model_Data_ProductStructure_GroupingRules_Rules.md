@@ -8,18 +8,8 @@
 ```csharp
 public ObservableCollection<IGroupingRule> Rules { get; set; }
 ```
-```vb
-Public Property Rules As ObservableCollection(Of IGroupingRule)
-	Get
-	Set
-```
-```cpp
-public:
-property ObservableCollection<IGroupingRule^>^ Rules {
-	ObservableCollection<IGroupingRule^>^ get ();
-	void set (ObservableCollection<IGroupingRule^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class SelectEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class SelectEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class SelectEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип WireSetManipulatorSelectEventArgs предоставляет следующие члены.

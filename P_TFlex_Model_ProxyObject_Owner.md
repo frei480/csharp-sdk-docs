@@ -11,16 +11,8 @@
 ```csharp
 public ModelObject Owner { get; }
 ```
-```vb
-Public ReadOnly Property Owner As ModelObject
-	Get
-```
-```cpp
-public:
-property ModelObject^ Owner {
-	ModelObject^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

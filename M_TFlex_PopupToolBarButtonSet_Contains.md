@@ -13,17 +13,8 @@ public bool Contains(
 	int id
 )
 ```
-```vb
-Public Function Contains ( 
-	id As Integer
-) As Boolean
-```
-```cpp
-public:
-bool Contains(
-	int id
-)
-```
+
+
 
 
 #### Параметры

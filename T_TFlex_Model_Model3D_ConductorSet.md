@@ -13,13 +13,8 @@
 ```csharp
 public class ConductorSet : ConductorSetBase
 ```
-```vb
-Public Class ConductorSet
-	Inherits ConductorSetBase
-```
-```cpp
-public ref class ConductorSet : public ConductorSetBase
-```
+
+
 
 
 Тип ConductorSet предоставляет следующие члены.

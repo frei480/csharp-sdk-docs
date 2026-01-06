@@ -8,16 +8,8 @@
 ```csharp
 public Coords Normal { get; }
 ```
-```vb
-Public ReadOnly Property Normal As Coords
-	Get
-```
-```cpp
-public:
-property Coords^ Normal {
-	Coords^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

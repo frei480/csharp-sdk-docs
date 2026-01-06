@@ -11,18 +11,8 @@
 ```csharp
 public ApplicationLanguage DOCsLanguage { get; set; }
 ```
-```vb
-Public Property DOCsLanguage As ApplicationLanguage
-	Get
-	Set
-```
-```cpp
-public:
-property ApplicationLanguage DOCsLanguage {
-	ApplicationLanguage get ();
-	void set (ApplicationLanguage value);
-}
-```
+
+
 
 
 #### Значение свойства

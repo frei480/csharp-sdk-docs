@@ -14,19 +14,8 @@ public virtual void Insert(
 	T item
 )
 ```
-```vb
-Public Overridable Sub Insert ( 
-	pos As Integer,
-	item As T
-)
-```
-```cpp
-public:
-virtual void Insert(
-	int pos, 
-	T item
-)
-```
+
+
 
 
 #### Параметры

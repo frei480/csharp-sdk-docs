@@ -11,19 +11,8 @@ public Table CreateTable(
 	TableCellProperties cell_props
 )
 ```
-```vb
-Public Function CreateTable ( 
-	settings As TableCreationSettings,
-	cell_props As TableCellProperties
-) As Table
-```
-```cpp
-public:
-Table CreateTable(
-	TableCreationSettings settings, 
-	TableCellProperties cell_props
-)
-```
+
+
 
 
 #### Параметры

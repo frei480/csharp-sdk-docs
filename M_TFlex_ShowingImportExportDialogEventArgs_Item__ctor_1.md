@@ -16,23 +16,8 @@ public Item(
 	string group
 )
 ```
-```vb
-Public Sub New ( 
-	filter As String,
-	filterID As Integer,
-	description As String,
-	group As String
-)
-```
-```cpp
-public:
-Item(
-	String^ filter, 
-	int filterID, 
-	String^ description, 
-	String^ group
-)
-```
+
+
 
 
 #### Параметры

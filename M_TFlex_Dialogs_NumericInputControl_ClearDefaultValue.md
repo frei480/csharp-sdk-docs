@@ -11,13 +11,8 @@
 ```csharp
 public void ClearDefaultValue()
 ```
-```vb
-Public Sub ClearDefaultValue
-```
-```cpp
-public:
-void ClearDefaultValue()
-```
+
+
 
 
 #### Ссылки

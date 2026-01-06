@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<SliderControlValueChangedEventArgs> ValueChanged
 ```
-```vb
-Public Event ValueChanged As EventHandler(Of SliderControlValueChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<SliderControlValueChangedEventArgs^>^ ValueChanged {
-	void add (EventHandler<SliderControlValueChangedEventArgs^>^ value);
-	void remove (EventHandler<SliderControlValueChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

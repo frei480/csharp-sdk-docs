@@ -14,19 +14,8 @@ protected IntPtr CreateStyle(
 	IntPtr keyHandle
 )
 ```
-```vb
-Protected Function CreateStyle ( 
-	styleHandle As IntPtr,
-	keyHandle As IntPtr
-) As IntPtr
-```
-```cpp
-protected:
-IntPtr CreateStyle(
-	IntPtr styleHandle, 
-	IntPtr keyHandle
-)
-```
+
+
 
 
 #### Параметры

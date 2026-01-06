@@ -11,13 +11,8 @@
 ```csharp
 public ButtonControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ButtonControl()
-```
+
+
 
 
 #### Ссылки

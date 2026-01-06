@@ -10,20 +10,8 @@ public Vertex this[
 	uint index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As UInteger
-) As Vertex
-	Get
-	Set
-```
-```cpp
-public:
-property Vertex^ default[unsigned int index] {
-	Vertex^ get (unsigned int index);
-	void set (unsigned int index, Vertex^ value);
-}
-```
+
+
 
 
 #### Параметры

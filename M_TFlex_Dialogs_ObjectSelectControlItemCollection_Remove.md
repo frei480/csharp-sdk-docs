@@ -10,17 +10,8 @@ public void Remove(
 	IList<ModelObject> modelObjects
 )
 ```
-```vb
-Public Sub Remove ( 
-	modelObjects As IList(Of ModelObject)
-)
-```
-```cpp
-public:
-void Remove(
-	IList<ModelObject^>^ modelObjects
-)
-```
+
+
 
 
 #### Параметры

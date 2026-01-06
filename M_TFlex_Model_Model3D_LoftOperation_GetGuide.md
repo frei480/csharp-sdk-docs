@@ -13,17 +13,8 @@ public LoftOperationGuide GetGuide(
 	int guideIndex
 )
 ```
-```vb
-Public Function GetGuide ( 
-	guideIndex As Integer
-) As LoftOperationGuide
-```
-```cpp
-public:
-LoftOperationGuide^ GetGuide(
-	int guideIndex
-)
-```
+
+
 
 
 #### Параметры

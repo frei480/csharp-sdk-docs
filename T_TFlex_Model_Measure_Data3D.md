@@ -11,12 +11,8 @@
 ```csharp
 public abstract class Data3D
 ```
-```vb
-Public MustInherit Class Data3D
-```
-```cpp
-public ref class Data3D abstract
-```
+
+
 
 
 Тип Data3D предоставляет следующие члены.

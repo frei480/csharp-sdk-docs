@@ -13,18 +13,8 @@ public double this[
 	int n
 ] { get; }
 ```
-```vb
-Public ReadOnly Property Y ( 
-	n As Integer
-) As Double
-	Get
-```
-```cpp
-public:
-property double Y[int n] {
-	double get (int n);
-}
-```
+
+
 
 
 #### Параметры

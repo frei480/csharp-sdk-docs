@@ -8,12 +8,8 @@
 ```csharp
 public enum RegenerationType
 ```
-```vb
-Public Enumeration RegenerationType
-```
-```cpp
-public enum class RegenerationType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,13 +13,8 @@
 ```csharp
 public class Parameters : ICloneable
 ```
-```vb
-Public Class Parameters
-	Implements ICloneable
-```
-```cpp
-public ref class Parameters : ICloneable
-```
+
+
 
 
 Тип View3DParameters предоставляет следующие члены.

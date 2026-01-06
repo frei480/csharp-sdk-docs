@@ -11,18 +11,8 @@
 ```csharp
 public bool SupportsFloatingWindow { get; set; }
 ```
-```vb
-Public Property SupportsFloatingWindow As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SupportsFloatingWindow {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

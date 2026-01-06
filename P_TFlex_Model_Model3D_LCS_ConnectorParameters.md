@@ -8,16 +8,8 @@
 ```csharp
 public ConnectorParameters ConnectorParameters { get; }
 ```
-```vb
-Public ReadOnly Property ConnectorParameters As ConnectorParameters
-	Get
-```
-```cpp
-public:
-property ConnectorParameters^ ConnectorParameters {
-	ConnectorParameters^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

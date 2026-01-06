@@ -11,16 +11,8 @@
 ```csharp
 public Outline Outline { get; }
 ```
-```vb
-Public ReadOnly Property Outline As Outline
-	Get
-```
-```cpp
-public:
-property Outline^ Outline {
-	Outline^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -12,14 +12,8 @@
 [FlagsAttribute]
 public enum CommandBehavior
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration CommandBehavior
-```
-```cpp
-[FlagsAttribute]
-public enum class CommandBehavior
-```
+
+
 
 
 | Имя члена | Значение | Описание |

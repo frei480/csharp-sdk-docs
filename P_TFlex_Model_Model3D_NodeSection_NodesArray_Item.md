@@ -10,20 +10,8 @@ protected Node this[
 	int index
 ] { get; set; }
 ```
-```vb
-Protected Default Property Item ( 
-	index As Integer
-) As Node
-	Get
-	Set
-```
-```cpp
-protected:
-property Node^ default[int index] {
-	Node^ get (int index);
-	void set (int index, Node^ value);
-}
-```
+
+
 
 
 #### Параметры

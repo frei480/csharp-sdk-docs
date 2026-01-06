@@ -11,16 +11,8 @@
 ```csharp
 public virtual DatabaseType SubType { get; }
 ```
-```vb
-Public Overridable ReadOnly Property SubType As DatabaseType
-	Get
-```
-```cpp
-public:
-virtual property DatabaseType SubType {
-	DatabaseType get ();
-}
-```
+
+
 
 
 #### Значение свойства

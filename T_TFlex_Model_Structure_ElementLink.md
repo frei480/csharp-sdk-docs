@@ -11,13 +11,8 @@
 ```csharp
 public class ElementLink : ModelObject
 ```
-```vb
-Public Class ElementLink
-	Inherits ModelObject
-```
-```cpp
-public ref class ElementLink : public ModelObject
-```
+
+
 
 
 Тип ElementLink предоставляет следующие члены.

@@ -10,17 +10,8 @@ public ObjectId Add(
 	Operation operation
 )
 ```
-```vb
-Public Function Add ( 
-	operation As Operation
-) As ObjectId
-```
-```cpp
-public:
-ObjectId^ Add(
-	Operation^ operation
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ protected bool AddPlane(
 	BasePlane plane
 )
 ```
-```vb
-Protected Function AddPlane ( 
-	index As Integer,
-	plane As BasePlane
-) As Boolean
-```
-```cpp
-protected:
-bool AddPlane(
-	int index, 
-	BasePlane^ plane
-)
-```
+
+
 
 
 #### Параметры

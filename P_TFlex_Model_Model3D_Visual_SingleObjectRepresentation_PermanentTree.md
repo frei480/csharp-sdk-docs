@@ -8,16 +8,8 @@
 ```csharp
 public virtual SceneNode PermanentTree { get; }
 ```
-```vb
-Public Overridable ReadOnly Property PermanentTree As SceneNode
-	Get
-```
-```cpp
-public:
-virtual property SceneNode^ PermanentTree {
-	SceneNode^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

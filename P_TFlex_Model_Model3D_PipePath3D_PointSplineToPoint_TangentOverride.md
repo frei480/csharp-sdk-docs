@@ -11,18 +11,8 @@
 ```csharp
 public bool TangentOverride { get; set; }
 ```
-```vb
-Public Property TangentOverride As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool TangentOverride {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -16,23 +16,8 @@ public void SetRowParameters(
 	Parameter rowsNumber
 )
 ```
-```vb
-Public Sub SetRowParameters ( 
-	paramsSet As LinearArrayParameters,
-	rowsLength As Parameter,
-	rowsStep As Parameter,
-	rowsNumber As Parameter
-)
-```
-```cpp
-public:
-void SetRowParameters(
-	LinearArrayParameters paramsSet, 
-	Parameter^ rowsLength, 
-	Parameter^ rowsStep, 
-	Parameter^ rowsNumber
-)
-```
+
+
 
 
 #### Параметры

@@ -8,13 +8,8 @@
 ```csharp
 public override sealed IntPtr GenerateFormView()
 ```
-```vb
-Public Overrides NotOverridable Function GenerateFormView As IntPtr
-```
-```cpp
-public:
-virtual IntPtr GenerateFormView() override sealed
-```
+
+
 
 
 #### Возвращаемое значение

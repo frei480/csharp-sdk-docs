@@ -13,17 +13,8 @@ public FragmentTransformation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-FragmentTransformation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public SelectionContainer Selection { get; }
 ```
-```vb
-Public ReadOnly Property Selection As SelectionContainer
-	Get
-```
-```cpp
-public:
-property SelectionContainer^ Selection {
-	SelectionContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

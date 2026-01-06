@@ -11,18 +11,8 @@
 ```csharp
 public string CustomLocalizationId { get; set; }
 ```
-```vb
-Public Property CustomLocalizationId As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ CustomLocalizationId {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

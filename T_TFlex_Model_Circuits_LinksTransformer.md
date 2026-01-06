@@ -11,13 +11,8 @@
 ```csharp
 public class LinksTransformer : IDisposable
 ```
-```vb
-Public Class LinksTransformer
-	Implements IDisposable
-```
-```cpp
-public ref class LinksTransformer : IDisposable
-```
+
+
 
 
 Тип LinksTransformer предоставляет следующие члены.

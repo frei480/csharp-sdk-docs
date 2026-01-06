@@ -14,19 +14,8 @@ public abstract void Reset(
 	bool flushCache
 )
 ```
-```vb
-Public MustOverride Sub Reset ( 
-	userText As String,
-	flushCache As Boolean
-)
-```
-```cpp
-public:
-virtual void Reset(
-	String^ userText, 
-	bool flushCache
-) abstract
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public SpliceConnectionType ConnectionType { get; set; }
 ```
-```vb
-Public Property ConnectionType As SpliceConnectionType
-	Get
-	Set
-```
-```cpp
-public:
-property SpliceConnectionType ConnectionType {
-	SpliceConnectionType get ();
-	void set (SpliceConnectionType value);
-}
-```
+
+
 
 
 #### Значение свойства

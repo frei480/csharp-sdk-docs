@@ -11,16 +11,8 @@ true, если должно быть использовано значение �
 ```csharp
 public bool IsUseStep { get; }
 ```
-```vb
-Public ReadOnly Property IsUseStep As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsUseStep {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

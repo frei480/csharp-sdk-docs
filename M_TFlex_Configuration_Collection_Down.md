@@ -10,17 +10,8 @@ public bool Down(
 	int index
 )
 ```
-```vb
-Public Function Down ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool Down(
-	int index
-)
-```
+
+
 
 
 #### Параметры

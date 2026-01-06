@@ -13,17 +13,8 @@ public virtual bool Import(
 	string fileName
 )
 ```
-```vb
-Public Overridable Function Import ( 
-	fileName As String
-) As Boolean
-```
-```cpp
-public:
-virtual bool Import(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

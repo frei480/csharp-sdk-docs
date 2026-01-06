@@ -14,19 +14,8 @@ public SimpleListControl(
 	int columnCount
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	columnCount As Integer
-)
-```
-```cpp
-public:
-SimpleListControl(
-	String^ id, 
-	int columnCount
-)
-```
+
+
 
 
 #### Параметры

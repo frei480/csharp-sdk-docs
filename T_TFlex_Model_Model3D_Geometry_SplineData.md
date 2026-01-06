@@ -13,13 +13,8 @@
 ```csharp
 public sealed class SplineData : IDisposable
 ```
-```vb
-Public NotInheritable Class SplineData
-	Implements IDisposable
-```
-```cpp
-public ref class SplineData sealed : IDisposable
-```
+
+
 
 
 Тип SplineData предоставляет следующие члены.

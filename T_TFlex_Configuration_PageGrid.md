@@ -11,13 +11,8 @@
 ```csharp
 public class PageGrid : SettingsGroup
 ```
-```vb
-Public Class PageGrid
-	Inherits SettingsGroup
-```
-```cpp
-public ref class PageGrid : public SettingsGroup
-```
+
+
 
 
 Тип PageGrid предоставляет следующие члены.

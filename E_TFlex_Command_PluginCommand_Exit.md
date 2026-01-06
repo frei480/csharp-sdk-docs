@@ -11,16 +11,8 @@
 ```csharp
 public event ExitEventHandler Exit
 ```
-```vb
-Public Event Exit As ExitEventHandler
-```
-```cpp
-public:
- event ExitEventHandler^ Exit {
-	void add (ExitEventHandler^ value);
-	void remove (ExitEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

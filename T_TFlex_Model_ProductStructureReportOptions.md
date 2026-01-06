@@ -11,12 +11,8 @@
 ```csharp
 public class ProductStructureReportOptions
 ```
-```vb
-Public Class ProductStructureReportOptions
-```
-```cpp
-public ref class ProductStructureReportOptions
-```
+
+
 
 
 Тип ProductStructureReportOptions предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public class Sew : Operation
 ```
-```vb
-Public Class Sew
-	Inherits Operation
-```
-```cpp
-public ref class Sew : public Operation
-```
+
+
 
 
 Тип Sew предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public InputControlButton()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-InputControlButton()
-```
+
+
 
 
 #### Ссылки

@@ -13,19 +13,8 @@ public static ICollection<Unbend> GetUnbends(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetUnbends ( 
-	document As Document
-) As ICollection(Of Unbend)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Unbend^>^ GetUnbends(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

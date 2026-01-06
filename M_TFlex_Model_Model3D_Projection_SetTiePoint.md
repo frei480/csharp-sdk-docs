@@ -14,19 +14,8 @@ public void SetTiePoint(
 	double y1
 )
 ```
-```vb
-Public Sub SetTiePoint ( 
-	x1 As Double,
-	y1 As Double
-)
-```
-```cpp
-public:
-void SetTiePoint(
-	double x1, 
-	double y1
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool OutsideArrows { get; set; }
 ```
-```vb
-Public Property OutsideArrows As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OutsideArrows {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

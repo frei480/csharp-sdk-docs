@@ -11,12 +11,8 @@
 ```csharp
 public enum IfcExportColorType
 ```
-```vb
-Public Enumeration IfcExportColorType
-```
-```cpp
-public enum class IfcExportColorType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

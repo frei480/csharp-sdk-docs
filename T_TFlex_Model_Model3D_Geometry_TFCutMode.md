@@ -11,12 +11,8 @@
 ```csharp
 public enum TFCutMode
 ```
-```vb
-Public Enumeration TFCutMode
-```
-```cpp
-public enum class TFCutMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

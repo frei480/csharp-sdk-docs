@@ -11,13 +11,8 @@
 ```csharp
 public Scheme()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Scheme()
-```
+
+
 
 
 #### Ссылки

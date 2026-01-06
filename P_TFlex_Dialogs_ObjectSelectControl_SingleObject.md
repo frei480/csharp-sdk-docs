@@ -11,18 +11,8 @@
 ```csharp
 public ObjectSelectControlPlainObject SingleObject { get; set; }
 ```
-```vb
-Public Property SingleObject As ObjectSelectControlPlainObject
-	Get
-	Set
-```
-```cpp
-public:
-property ObjectSelectControlPlainObject SingleObject {
-	ObjectSelectControlPlainObject get ();
-	void set (ObjectSelectControlPlainObject value);
-}
-```
+
+
 
 
 #### Значение свойства

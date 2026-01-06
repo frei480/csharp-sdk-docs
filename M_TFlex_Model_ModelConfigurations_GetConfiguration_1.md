@@ -13,17 +13,8 @@ public ModelConfiguration GetConfiguration(
 	string id
 )
 ```
-```vb
-Public Function GetConfiguration ( 
-	id As String
-) As ModelConfiguration
-```
-```cpp
-public:
-ModelConfiguration^ GetConfiguration(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

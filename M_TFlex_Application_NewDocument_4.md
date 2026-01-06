@@ -14,19 +14,8 @@ public static Document NewDocument(
 	bool visible
 )
 ```
-```vb
-Public Shared Function NewDocument ( 
-	prototype As String,
-	visible As Boolean
-) As Document
-```
-```cpp
-public:
-static Document^ NewDocument(
-	String^ prototype, 
-	bool visible
-)
-```
+
+
 
 
 #### Параметры

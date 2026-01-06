@@ -8,16 +8,8 @@
 ```csharp
 public Collection NonSectionConditions { get; }
 ```
-```vb
-Public ReadOnly Property NonSectionConditions As Collection
-	Get
-```
-```cpp
-public:
-property Collection^ NonSectionConditions {
-	Collection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

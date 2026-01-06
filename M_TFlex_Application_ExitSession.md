@@ -11,13 +11,8 @@
 ```csharp
 public static void ExitSession()
 ```
-```vb
-Public Shared Sub ExitSession
-```
-```cpp
-public:
-static void ExitSession()
-```
+
+
 
 
 Вызывается при необходимости завершения работы с API в активном приложении. При завершении работы приложения вызывается автоматически. Вызывается в паре с методом [InitSession(ApplicationSessionSetup)](M_TFlex_Application_InitSession.md)

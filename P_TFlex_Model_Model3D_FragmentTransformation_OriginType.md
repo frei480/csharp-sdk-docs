@@ -11,18 +11,8 @@
 ```csharp
 public override OriginType OriginType { get; set; }
 ```
-```vb
-Public Overrides Property OriginType As OriginType
-	Get
-	Set
-```
-```cpp
-public:
-virtual property OriginType OriginType {
-	OriginType get () override;
-	void set (OriginType value) override;
-}
-```
+
+
 
 
 #### Значение свойства

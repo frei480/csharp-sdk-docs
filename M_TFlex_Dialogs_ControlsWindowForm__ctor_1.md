@@ -13,17 +13,8 @@ public ControlsWindowForm(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-ControlsWindowForm(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

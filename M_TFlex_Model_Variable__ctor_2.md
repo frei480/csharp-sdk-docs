@@ -15,21 +15,8 @@ public Variable(
 	double value
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	name As String,
-	value As Double
-)
-```
-```cpp
-public:
-Variable(
-	Document^ document, 
-	String^ name, 
-	double value
-)
-```
+
+
 
 
 #### Параметры

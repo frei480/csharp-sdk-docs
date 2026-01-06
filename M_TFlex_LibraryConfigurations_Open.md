@@ -13,17 +13,8 @@ public LibraryConfiguration Open(
 	string path
 )
 ```
-```vb
-Public Function Open ( 
-	path As String
-) As LibraryConfiguration
-```
-```cpp
-public:
-LibraryConfiguration^ Open(
-	String^ path
-)
-```
+
+
 
 
 #### Параметры

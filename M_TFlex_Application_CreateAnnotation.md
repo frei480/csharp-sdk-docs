@@ -14,19 +14,8 @@ public static bool CreateAnnotation(
 	Annotation annotation
 )
 ```
-```vb
-Public Shared Function CreateAnnotation ( 
-	documentFileName As String,
-	annotation As Annotation
-) As Boolean
-```
-```cpp
-public:
-static bool CreateAnnotation(
-	String^ documentFileName, 
-	Annotation^ annotation
-)
-```
+
+
 
 
 #### Параметры

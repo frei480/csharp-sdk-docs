@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool HideConstructions { get; set; }
 ```
-```vb
-Public Overridable Property HideConstructions As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool HideConstructions {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

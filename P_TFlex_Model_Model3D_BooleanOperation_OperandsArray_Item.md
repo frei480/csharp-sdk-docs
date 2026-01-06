@@ -10,20 +10,8 @@ public BooleanOperationOperandsArrayOperand this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As Integer
-) As BooleanOperationOperandsArrayOperand
-	Get
-	Set
-```
-```cpp
-public:
-property BooleanOperationOperandsArrayOperand^ default[int index] {
-	BooleanOperationOperandsArrayOperand^ get (int index);
-	void set (int index, BooleanOperationOperandsArrayOperand^ value);
-}
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public void PrepareGraphics(
 	Graphics graphics
 )
 ```
-```vb
-Public Sub PrepareGraphics ( 
-	graphics As Graphics
-)
-```
-```cpp
-public:
-void PrepareGraphics(
-	Graphics^ graphics
-)
-```
+
+
 
 
 #### Параметры

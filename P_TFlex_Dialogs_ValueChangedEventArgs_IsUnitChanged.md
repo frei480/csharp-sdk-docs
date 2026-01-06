@@ -11,16 +11,8 @@
 ```csharp
 public bool IsUnitChanged { get; }
 ```
-```vb
-Public ReadOnly Property IsUnitChanged As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsUnitChanged {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

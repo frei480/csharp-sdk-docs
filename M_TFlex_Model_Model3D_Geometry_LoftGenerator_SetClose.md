@@ -13,17 +13,8 @@ public void SetClose(
 	bool cl
 )
 ```
-```vb
-Public Sub SetClose ( 
-	cl As Boolean
-)
-```
-```cpp
-public:
-void SetClose(
-	bool cl
-)
-```
+
+
 
 
 #### Параметры

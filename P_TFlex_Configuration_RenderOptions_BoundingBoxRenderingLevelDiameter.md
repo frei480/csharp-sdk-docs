@@ -8,18 +8,8 @@
 ```csharp
 public int BoundingBoxRenderingLevelDiameter { get; set; }
 ```
-```vb
-Public Property BoundingBoxRenderingLevelDiameter As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int BoundingBoxRenderingLevelDiameter {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

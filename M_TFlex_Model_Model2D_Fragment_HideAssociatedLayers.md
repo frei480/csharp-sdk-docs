@@ -11,13 +11,8 @@
 ```csharp
 public void HideAssociatedLayers()
 ```
-```vb
-Public Sub HideAssociatedLayers
-```
-```cpp
-public:
-void HideAssociatedLayers()
-```
+
+
 
 
 #### Ссылки

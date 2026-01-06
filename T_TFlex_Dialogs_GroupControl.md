@@ -13,13 +13,8 @@
 ```csharp
 public class GroupControl : BaseControl
 ```
-```vb
-Public Class GroupControl
-	Inherits BaseControl
-```
-```cpp
-public ref class GroupControl : public BaseControl
-```
+
+
 
 
 Тип GroupControl предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public static int PageBorderIndex { get; }
 ```
-```vb
-Public Shared ReadOnly Property PageBorderIndex As Integer
-	Get
-```
-```cpp
-public:
-static property int PageBorderIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

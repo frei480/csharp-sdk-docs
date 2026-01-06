@@ -15,21 +15,8 @@ public override void SetReference(
 	ModelObjectArrayIndices indices
 )
 ```
-```vb
-Public Overrides Sub SetReference ( 
-	id As Integer,
-	reference As ModelObjectReference,
-	indices As ModelObjectArrayIndices
-)
-```
-```cpp
-public:
-virtual void SetReference(
-	int id, 
-	ModelObjectReference^ reference, 
-	ModelObjectArrayIndices^ indices
-) override
-```
+
+
 
 
 #### Параметры

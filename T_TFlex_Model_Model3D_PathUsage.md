@@ -11,12 +11,8 @@
 ```csharp
 public enum PathUsage
 ```
-```vb
-Public Enumeration PathUsage
-```
-```cpp
-public enum class PathUsage
-```
+
+
 
 
 | Имя члена | Значение | Описание |

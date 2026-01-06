@@ -8,12 +8,8 @@
 ```csharp
 public enum ActiveDeviceType
 ```
-```vb
-Public Enumeration ActiveDeviceType
-```
-```cpp
-public enum class ActiveDeviceType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,17 +13,8 @@ public double? GetRealProperty(
 	string propertyName
 )
 ```
-```vb
-Public Function GetRealProperty ( 
-	propertyName As String
-) As Double?
-```
-```cpp
-public:
-Nullable<double> GetRealProperty(
-	String^ propertyName
-)
-```
+
+
 
 
 #### Параметры

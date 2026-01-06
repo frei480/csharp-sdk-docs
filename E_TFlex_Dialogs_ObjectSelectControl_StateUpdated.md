@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<ObjectSelectControlStateUpdateEventArgs> StateUpdated
 ```
-```vb
-Public Event StateUpdated As EventHandler(Of ObjectSelectControlStateUpdateEventArgs)
-```
-```cpp
-public:
- event EventHandler<ObjectSelectControlStateUpdateEventArgs^>^ StateUpdated {
-	void add (EventHandler<ObjectSelectControlStateUpdateEventArgs^>^ value);
-	void remove (EventHandler<ObjectSelectControlStateUpdateEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

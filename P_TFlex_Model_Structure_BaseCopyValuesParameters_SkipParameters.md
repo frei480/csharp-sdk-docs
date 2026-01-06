@@ -8,18 +8,8 @@
 ```csharp
 public ISet<Guid> SkipParameters { get; set; }
 ```
-```vb
-Public Property SkipParameters As ISet(Of Guid)
-	Get
-	Set
-```
-```cpp
-public:
-property ISet<Guid>^ SkipParameters {
-	ISet<Guid>^ get ();
-	void set (ISet<Guid>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

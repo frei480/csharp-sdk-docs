@@ -13,17 +13,8 @@ public void Multiply(
 	AffineMap other
 )
 ```
-```vb
-Public Sub Multiply ( 
-	other As AffineMap
-)
-```
-```cpp
-public:
-void Multiply(
-	AffineMap^ other
-)
-```
+
+
 
 
 #### Параметры

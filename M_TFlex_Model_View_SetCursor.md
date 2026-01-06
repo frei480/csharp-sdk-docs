@@ -13,17 +13,8 @@ public void SetCursor(
 	IntPtr cursor
 )
 ```
-```vb
-Public Sub SetCursor ( 
-	cursor As IntPtr
-)
-```
-```cpp
-public:
-void SetCursor(
-	IntPtr cursor
-)
-```
+
+
 
 
 #### Параметры

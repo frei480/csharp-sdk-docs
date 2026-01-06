@@ -10,17 +10,8 @@ public Object3D GetObject3D(
 	uint index
 )
 ```
-```vb
-Public Function GetObject3D ( 
-	index As UInteger
-) As Object3D
-```
-```cpp
-public:
-Object3D^ GetObject3D(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

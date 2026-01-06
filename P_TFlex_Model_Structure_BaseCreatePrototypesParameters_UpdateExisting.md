@@ -8,18 +8,8 @@
 ```csharp
 public bool UpdateExisting { get; set; }
 ```
-```vb
-Public Property UpdateExisting As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UpdateExisting {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

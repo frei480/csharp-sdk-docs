@@ -8,18 +8,8 @@
 ```csharp
 public bool DisableEditInPlace { get; set; }
 ```
-```vb
-Public Property DisableEditInPlace As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DisableEditInPlace {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

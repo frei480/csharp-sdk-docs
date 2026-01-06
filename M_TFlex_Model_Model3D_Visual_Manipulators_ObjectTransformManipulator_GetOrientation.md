@@ -14,25 +14,8 @@ public bool GetOrientation(
 	ref Direction dirZ
 )
 ```
-```vb
-Public Function GetOrientation ( 
-	dynamic As Boolean,
-	ByRef origin As Point3D,
-	ByRef dirX As Direction,
-	ByRef dirY As Direction,
-	ByRef dirZ As Direction
-) As Boolean
-```
-```cpp
-public:
-bool GetOrientation(
-	bool dynamic, 
-	Point3D^% origin, 
-	Direction^% dirX, 
-	Direction^% dirY, 
-	Direction^% dirZ
-)
-```
+
+
 
 
 #### Параметры

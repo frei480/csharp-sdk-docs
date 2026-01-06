@@ -11,16 +11,8 @@
 ```csharp
 public ModelPoint3D ArcTangentIntersectPoint { get; }
 ```
-```vb
-Public ReadOnly Property ArcTangentIntersectPoint As ModelPoint3D
-	Get
-```
-```cpp
-public:
-property ModelPoint3D^ ArcTangentIntersectPoint {
-	ModelPoint3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void DeleteAttribute(
 	string attribName
 )
 ```
-```vb
-Public Sub DeleteAttribute ( 
-	attribName As String
-)
-```
-```cpp
-public:
-void DeleteAttribute(
-	String^ attribName
-)
-```
+
+
 
 
 #### Параметры

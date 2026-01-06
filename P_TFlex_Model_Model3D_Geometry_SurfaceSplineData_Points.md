@@ -11,16 +11,8 @@
 ```csharp
 public SurfaceSplineDataControlNet Points { get; }
 ```
-```vb
-Public ReadOnly Property Points As SurfaceSplineDataControlNet
-	Get
-```
-```cpp
-public:
-property SurfaceSplineDataControlNet^ Points {
-	SurfaceSplineDataControlNet^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

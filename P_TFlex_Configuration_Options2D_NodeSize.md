@@ -8,18 +8,8 @@
 ```csharp
 public int NodeSize { get; set; }
 ```
-```vb
-Public Property NodeSize As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int NodeSize {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

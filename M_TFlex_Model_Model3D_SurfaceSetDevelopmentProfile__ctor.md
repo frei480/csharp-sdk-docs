@@ -13,17 +13,8 @@ public SurfaceSetDevelopmentProfile(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-SurfaceSetDevelopmentProfile(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

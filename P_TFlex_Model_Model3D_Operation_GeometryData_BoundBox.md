@@ -11,16 +11,8 @@
 ```csharp
 public ModelBox BoundBox { get; }
 ```
-```vb
-Public ReadOnly Property BoundBox As ModelBox
-	Get
-```
-```cpp
-public:
-property ModelBox^ BoundBox {
-	ModelBox^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

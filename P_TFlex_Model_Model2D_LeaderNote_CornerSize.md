@@ -11,18 +11,8 @@
 ```csharp
 public Parameter CornerSize { get; set; }
 ```
-```vb
-Public Property CornerSize As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ CornerSize {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

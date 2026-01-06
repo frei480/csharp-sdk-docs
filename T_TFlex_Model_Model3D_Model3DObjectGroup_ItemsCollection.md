@@ -13,13 +13,8 @@
 ```csharp
 public class ItemsCollection : IEnumerable<Object3D>
 ```
-```vb
-Public Class ItemsCollection
-	Implements IEnumerable(Of Object3D)
-```
-```cpp
-public ref class ItemsCollection : IEnumerable<Object3D^>
-```
+
+
 
 
 Тип Model3DObjectGroupItemsCollection предоставляет следующие члены.

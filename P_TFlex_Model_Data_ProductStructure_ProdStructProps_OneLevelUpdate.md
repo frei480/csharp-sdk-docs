@@ -8,18 +8,8 @@
 ```csharp
 public bool OneLevelUpdate { get; set; }
 ```
-```vb
-Public Property OneLevelUpdate As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OneLevelUpdate {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

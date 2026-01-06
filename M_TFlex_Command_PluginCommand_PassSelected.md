@@ -11,13 +11,8 @@
 ```csharp
 protected void PassSelected()
 ```
-```vb
-Protected Sub PassSelected
-```
-```cpp
-protected:
-void PassSelected()
-```
+
+
 
 
 Вызов данного метода имитирует выбор объекта в режиме ожидания.

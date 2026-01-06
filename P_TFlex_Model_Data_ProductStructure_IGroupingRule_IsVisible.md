@@ -12,20 +12,8 @@
 [ObsoleteAttribute]
 public bool IsVisible { get; set; }
 ```
-```vb
-<ObsoleteAttribute>
-Public Property IsVisible As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute]
-property bool IsVisible {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

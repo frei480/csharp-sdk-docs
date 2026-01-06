@@ -11,18 +11,8 @@
 ```csharp
 public PageType PageType { get; set; }
 ```
-```vb
-Public Property PageType As PageType
-	Get
-	Set
-```
-```cpp
-public:
-property PageType PageType {
-	PageType get ();
-	void set (PageType value);
-}
-```
+
+
 
 
 #### Значение свойства

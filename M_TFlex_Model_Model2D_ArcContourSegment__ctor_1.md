@@ -14,19 +14,8 @@ public ArcContourSegment(
 	int index
 )
 ```
-```vb
-Public Sub New ( 
-	source As Contour,
-	index As Integer
-)
-```
-```cpp
-public:
-ArcContourSegment(
-	Contour^ source, 
-	int index
-)
-```
+
+
 
 
 #### Параметры

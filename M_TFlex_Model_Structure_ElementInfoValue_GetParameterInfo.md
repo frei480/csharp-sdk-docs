@@ -8,13 +8,8 @@
 ```csharp
 public override ParameterInfo GetParameterInfo()
 ```
-```vb
-Public Overrides Function GetParameterInfo As ParameterInfo
-```
-```cpp
-public:
-virtual ParameterInfo^ GetParameterInfo() override
-```
+
+
 
 
 #### Возвращаемое значение

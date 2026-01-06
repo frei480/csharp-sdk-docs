@@ -11,13 +11,8 @@
 ```csharp
 public bool CanSetBasePoint()
 ```
-```vb
-Public Function CanSetBasePoint As Boolean
-```
-```cpp
-public:
-bool CanSetBasePoint()
-```
+
+
 
 
 #### Возвращаемое значение

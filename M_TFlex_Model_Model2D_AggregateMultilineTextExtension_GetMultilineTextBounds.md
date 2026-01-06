@@ -14,21 +14,8 @@ public static Rectangle GetMultilineTextBounds(
 	int idx
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetMultilineTextBounds ( 
-	__unnamed000 As ModelObject,
-	idx As Integer
-) As Rectangle
-```
-```cpp
-public:
-[ExtensionAttribute]
-static Rectangle GetMultilineTextBounds(
-	ModelObject^ __unnamed000, 
-	int idx
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class TerminalPoint : BasePoint
 ```
-```vb
-Public Class TerminalPoint
-	Inherits BasePoint
-```
-```cpp
-public ref class TerminalPoint : public BasePoint
-```
+
+
 
 
 Тип TerminalPoint предоставляет следующие члены.

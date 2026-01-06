@@ -11,18 +11,8 @@
 ```csharp
 public bool AlignAtStartPoint { get; set; }
 ```
-```vb
-Public Property AlignAtStartPoint As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AlignAtStartPoint {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

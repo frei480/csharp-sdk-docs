@@ -11,13 +11,8 @@
 ```csharp
 public EventSuppressor SuppressEvents()
 ```
-```vb
-Public Function SuppressEvents As EventSuppressor
-```
-```cpp
-public:
-EventSuppressor^ SuppressEvents()
-```
+
+
 
 
 #### Возвращаемое значение

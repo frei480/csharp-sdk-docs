@@ -11,12 +11,8 @@
 ```csharp
 public enum MoveType
 ```
-```vb
-Public Enumeration MoveType
-```
-```cpp
-public enum class MoveType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,17 +13,8 @@ public VertexPoint(
 	ModelVertex vertex
 )
 ```
-```vb
-Public Sub New ( 
-	vertex As ModelVertex
-)
-```
-```cpp
-public:
-VertexPoint(
-	ModelVertex^ vertex
-)
-```
+
+
 
 
 #### Параметры

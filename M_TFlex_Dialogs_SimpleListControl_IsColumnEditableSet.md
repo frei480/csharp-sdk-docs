@@ -10,17 +10,8 @@ public bool IsColumnEditableSet(
 	int column
 )
 ```
-```vb
-Public Function IsColumnEditableSet ( 
-	column As Integer
-) As Boolean
-```
-```cpp
-public:
-bool IsColumnEditableSet(
-	int column
-)
-```
+
+
 
 
 #### Параметры

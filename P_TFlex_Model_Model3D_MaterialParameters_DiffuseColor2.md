@@ -11,18 +11,8 @@
 ```csharp
 public Color DiffuseColor2 { get; set; }
 ```
-```vb
-Public Property DiffuseColor2 As Color
-	Get
-	Set
-```
-```cpp
-public:
-property Color DiffuseColor2 {
-	Color get ();
-	void set (Color value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public PointOnPathManipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PointOnPathManipulator()
-```
+
+
 
 
 #### Ссылки

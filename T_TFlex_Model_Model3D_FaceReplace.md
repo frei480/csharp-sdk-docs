@@ -13,13 +13,8 @@
 ```csharp
 public class FaceReplace : Operation
 ```
-```vb
-Public Class FaceReplace
-	Inherits Operation
-```
-```cpp
-public ref class FaceReplace : public Operation
-```
+
+
 
 
 Тип FaceReplace предоставляет следующие члены.

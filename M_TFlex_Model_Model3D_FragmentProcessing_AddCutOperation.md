@@ -8,13 +8,8 @@
 ```csharp
 public CutOperation AddCutOperation()
 ```
-```vb
-Public Function AddCutOperation As CutOperation
-```
-```cpp
-public:
-CutOperation^ AddCutOperation()
-```
+
+
 
 
 #### Возвращаемое значение

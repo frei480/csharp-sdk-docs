@@ -11,12 +11,8 @@
 ```csharp
 public class SystemCommandFinishedResult
 ```
-```vb
-Public Class SystemCommandFinishedResult
-```
-```cpp
-public ref class SystemCommandFinishedResult
-```
+
+
 
 
 Тип SystemCommandFinishedResult предоставляет следующие члены.

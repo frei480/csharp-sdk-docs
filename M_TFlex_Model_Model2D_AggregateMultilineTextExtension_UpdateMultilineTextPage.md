@@ -13,19 +13,8 @@ public static void UpdateMultilineTextPage(
 	this ModelObject A_0
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub UpdateMultilineTextPage ( 
-	A_0 As ModelObject
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void UpdateMultilineTextPage(
-	ModelObject^ A_0
-)
-```
+
+
 
 
 #### Параметры

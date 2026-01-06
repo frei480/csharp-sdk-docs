@@ -13,17 +13,8 @@ public void UndoChanges(
 	uint n
 )
 ```
-```vb
-Public Sub UndoChanges ( 
-	n As UInteger
-)
-```
-```cpp
-public:
-void UndoChanges(
-	unsigned int n
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public void DeleteLinkToObject(
 	LinkedObjectInfo obj
 )
 ```
-```vb
-Public Sub DeleteLinkToObject ( 
-	obj As LinkedObjectInfo
-)
-```
-```cpp
-public:
-void DeleteLinkToObject(
-	LinkedObjectInfo^ obj
-)
-```
+
+
 
 
 #### Параметры

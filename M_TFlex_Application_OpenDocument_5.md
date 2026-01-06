@@ -14,19 +14,8 @@ public static Document OpenDocument(
 	bool visible
 )
 ```
-```vb
-Public Shared Function OpenDocument ( 
-	link As FileLink,
-	visible As Boolean
-) As Document
-```
-```cpp
-public:
-static Document^ OpenDocument(
-	FileLink^ link, 
-	bool visible
-)
-```
+
+
 
 
 #### Параметры

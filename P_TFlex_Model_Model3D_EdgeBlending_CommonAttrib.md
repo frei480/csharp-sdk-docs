@@ -11,18 +11,8 @@
 ```csharp
 public EdgeBlendingAttribute CommonAttrib { get; set; }
 ```
-```vb
-Public Property CommonAttrib As EdgeBlendingAttribute
-	Get
-	Set
-```
-```cpp
-public:
-property EdgeBlendingAttribute^ CommonAttrib {
-	EdgeBlendingAttribute^ get ();
-	void set (EdgeBlendingAttribute^ value);
-}
-```
+
+
 
 
 #### Значение свойства

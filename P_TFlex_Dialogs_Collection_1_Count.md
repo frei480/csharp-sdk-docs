@@ -11,16 +11,8 @@
 ```csharp
 public virtual int Count { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Count As Integer
-	Get
-```
-```cpp
-public:
-virtual property int Count {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public ExtensionType EndExtensionType { get; set; }
 ```
-```vb
-Public Property EndExtensionType As ExtensionType
-	Get
-	Set
-```
-```cpp
-public:
-property ExtensionType EndExtensionType {
-	ExtensionType get ();
-	void set (ExtensionType value);
-}
-```
+
+
 
 
 #### Значение свойства

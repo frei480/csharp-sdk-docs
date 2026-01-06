@@ -11,18 +11,8 @@
 ```csharp
 public bool CreateOneBody { get; set; }
 ```
-```vb
-Public Property CreateOneBody As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CreateOneBody {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public ObjectId Add(
 	Camera camera
 )
 ```
-```vb
-Public Function Add ( 
-	camera As Camera
-) As ObjectId
-```
-```cpp
-public:
-ObjectId^ Add(
-	Camera^ camera
-)
-```
+
+
 
 
 #### Параметры

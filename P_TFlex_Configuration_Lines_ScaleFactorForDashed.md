@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter ScaleFactorForDashed { get; set; }
 ```
-```vb
-Public Property ScaleFactorForDashed As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ ScaleFactorForDashed {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

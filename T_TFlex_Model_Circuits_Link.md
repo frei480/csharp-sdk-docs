@@ -13,13 +13,8 @@
 ```csharp
 public class Link : LinkBase
 ```
-```vb
-Public Class Link
-	Inherits LinkBase
-```
-```cpp
-public ref class Link : public LinkBase
-```
+
+
 
 
 Тип Link предоставляет следующие члены.

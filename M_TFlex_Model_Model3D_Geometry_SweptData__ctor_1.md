@@ -14,19 +14,8 @@ public SweptData(
 	Direction direction
 )
 ```
-```vb
-Public Sub New ( 
-	curve As BaseCurve,
-	direction As Direction
-)
-```
-```cpp
-public:
-SweptData(
-	BaseCurve^ curve, 
-	Direction^ direction
-)
-```
+
+
 
 
 #### Параметры

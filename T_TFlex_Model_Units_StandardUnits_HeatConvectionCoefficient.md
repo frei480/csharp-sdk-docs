@@ -13,12 +13,8 @@
 ```csharp
 public sealed class HeatConvectionCoefficient
 ```
-```vb
-Public NotInheritable Class HeatConvectionCoefficient
-```
-```cpp
-public ref class HeatConvectionCoefficient sealed
-```
+
+
 
 
 Тип StandardUnitsHeatConvectionCoefficient предоставляет следующие члены.

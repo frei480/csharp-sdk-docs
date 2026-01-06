@@ -10,16 +10,8 @@ bool Generate(
 	ReportGenerationContext generationContext
 )
 ```
-```vb
-Function Generate ( 
-	generationContext As ReportGenerationContext
-) As Boolean
-```
-```cpp
-bool Generate(
-	ReportGenerationContext^ generationContext
-)
-```
+
+
 
 
 #### Параметры

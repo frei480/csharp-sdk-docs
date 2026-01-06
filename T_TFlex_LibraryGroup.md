@@ -13,13 +13,8 @@
 ```csharp
 public class LibraryGroup : IDisposable
 ```
-```vb
-Public Class LibraryGroup
-	Implements IDisposable
-```
-```cpp
-public ref class LibraryGroup : IDisposable
-```
+
+
 
 
 Тип LibraryGroup предоставляет следующие члены.

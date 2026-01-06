@@ -11,18 +11,8 @@
 ```csharp
 public Bodies IntBody { get; set; }
 ```
-```vb
-Public Property IntBody As Bodies
-	Get
-	Set
-```
-```cpp
-public:
-property Bodies^ IntBody {
-	Bodies^ get ();
-	void set (Bodies^ value);
-}
-```
+
+
 
 
 #### Значение свойства

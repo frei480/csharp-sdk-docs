@@ -11,16 +11,8 @@
 ```csharp
 public ModelAxis LineAxis { get; }
 ```
-```vb
-Public ReadOnly Property LineAxis As ModelAxis
-	Get
-```
-```cpp
-public:
-property ModelAxis^ LineAxis {
-	ModelAxis^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

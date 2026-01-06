@@ -15,21 +15,8 @@ public void Scale(
 	double zscale
 )
 ```
-```vb
-Public Sub Scale ( 
-	xscale As Double,
-	yscale As Double,
-	zscale As Double
-)
-```
-```cpp
-public:
-void Scale(
-	double xscale, 
-	double yscale, 
-	double zscale
-)
-```
+
+
 
 
 #### Параметры

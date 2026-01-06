@@ -13,17 +13,8 @@ public PolylineGeometry(
 	IEnumerable<Point> points
 )
 ```
-```vb
-Public Sub New ( 
-	points As IEnumerable(Of Point)
-)
-```
-```cpp
-public:
-PolylineGeometry(
-	IEnumerable<Point>^ points
-)
-```
+
+
 
 
 #### Параметры

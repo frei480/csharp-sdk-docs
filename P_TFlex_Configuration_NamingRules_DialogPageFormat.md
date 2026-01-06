@@ -8,18 +8,8 @@
 ```csharp
 public string DialogPageFormat { get; set; }
 ```
-```vb
-Public Property DialogPageFormat As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ DialogPageFormat {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

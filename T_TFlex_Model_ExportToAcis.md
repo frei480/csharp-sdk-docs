@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToAcis : ExportTo3dCommon
 ```
-```vb
-Public NotInheritable Class ExportToAcis
-	Inherits ExportTo3dCommon
-```
-```cpp
-public ref class ExportToAcis sealed : public ExportTo3dCommon
-```
+
+
 
 
 Тип ExportToAcis предоставляет следующие члены.

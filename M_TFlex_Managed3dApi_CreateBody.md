@@ -10,17 +10,8 @@ public virtual Object CreateBody(
 	IntPtr pTFObject
 )
 ```
-```vb
-Public Overridable Function CreateBody ( 
-	pTFObject As IntPtr
-) As Object
-```
-```cpp
-public:
-virtual Object^ CreateBody(
-	IntPtr pTFObject
-)
-```
+
+
 
 
 #### Параметры

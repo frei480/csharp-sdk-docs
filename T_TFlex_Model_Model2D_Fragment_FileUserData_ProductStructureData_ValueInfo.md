@@ -13,12 +13,8 @@
 ```csharp
 public class ValueInfo
 ```
-```vb
-Public Class ValueInfo
-```
-```cpp
-public ref class ValueInfo
-```
+
+
 
 
 Тип FragmentFileUserDataProductStructureDataValueInfo предоставляет следующие члены.

@@ -14,14 +14,8 @@
 public class SegmentsSet : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class SegmentsSet
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class SegmentsSet : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип PathBy2DElemsSegmentsSet предоставляет следующие члены.

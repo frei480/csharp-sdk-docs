@@ -11,18 +11,8 @@
 ```csharp
 public FaceBlendingCrossSectionPlaneType CrossSectionPlaneMethod { get; set; }
 ```
-```vb
-Public Property CrossSectionPlaneMethod As FaceBlendingCrossSectionPlaneType
-	Get
-	Set
-```
-```cpp
-public:
-property FaceBlendingCrossSectionPlaneType CrossSectionPlaneMethod {
-	FaceBlendingCrossSectionPlaneType get ();
-	void set (FaceBlendingCrossSectionPlaneType value);
-}
-```
+
+
 
 
 #### Значение свойства

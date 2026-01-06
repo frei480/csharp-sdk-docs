@@ -8,16 +8,8 @@
 ```csharp
 public Direction TangentOnFirstTrack { get; }
 ```
-```vb
-Public ReadOnly Property TangentOnFirstTrack As Direction
-	Get
-```
-```cpp
-public:
-property Direction^ TangentOnFirstTrack {
-	Direction^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,19 +11,8 @@ public DialogResult ShowDialog(
 	FileBrowserDialogMode mode
 )
 ```
-```vb
-Public Function ShowDialog ( 
-	parentWindow As IntPtr,
-	mode As FileBrowserDialogMode
-) As DialogResult
-```
-```cpp
-public:
-DialogResult ShowDialog(
-	IntPtr parentWindow, 
-	FileBrowserDialogMode mode
-)
-```
+
+
 
 
 #### Параметры

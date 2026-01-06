@@ -11,18 +11,8 @@
 ```csharp
 public TransformationLCSType SourceCSType { get; set; }
 ```
-```vb
-Public Property SourceCSType As TransformationLCSType
-	Get
-	Set
-```
-```cpp
-public:
-property TransformationLCSType SourceCSType {
-	TransformationLCSType get ();
-	void set (TransformationLCSType value);
-}
-```
+
+
 
 
 #### Значение свойства

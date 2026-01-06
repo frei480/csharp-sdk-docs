@@ -8,12 +8,8 @@
 ```csharp
 public enum FacetType
 ```
-```vb
-Public Enumeration FacetType
-```
-```cpp
-public enum class FacetType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

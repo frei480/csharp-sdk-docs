@@ -11,12 +11,8 @@
 ```csharp
 public enum IncludeInBom
 ```
-```vb
-Public Enumeration IncludeInBom
-```
-```cpp
-public enum class IncludeInBom
-```
+
+
 
 
 | Имя члена | Значение | Описание |

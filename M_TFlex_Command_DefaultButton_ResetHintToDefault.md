@@ -11,13 +11,8 @@
 ```csharp
 public void ResetHintToDefault()
 ```
-```vb
-Public Sub ResetHintToDefault
-```
-```cpp
-public:
-void ResetHintToDefault()
-```
+
+
 
 
 #### Ссылки

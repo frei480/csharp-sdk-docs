@@ -13,17 +13,8 @@ public virtual bool Add(
 	T item
 )
 ```
-```vb
-Public Overridable Function Add ( 
-	item As T
-) As Boolean
-```
-```cpp
-public:
-virtual bool Add(
-	T item
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public ModelEdge EdgeTangentToWorkplane { get; set; }
 ```
-```vb
-Public Property EdgeTangentToWorkplane As ModelEdge
-	Get
-	Set
-```
-```cpp
-public:
-property ModelEdge^ EdgeTangentToWorkplane {
-	ModelEdge^ get ();
-	void set (ModelEdge^ value);
-}
-```
+
+
 
 
 #### Значение свойства

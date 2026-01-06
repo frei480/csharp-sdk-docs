@@ -8,16 +8,8 @@
 ```csharp
 public ScenarioTransformations Transformations { get; }
 ```
-```vb
-Public ReadOnly Property Transformations As ScenarioTransformations
-	Get
-```
-```cpp
-public:
-property ScenarioTransformations^ Transformations {
-	ScenarioTransformations^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

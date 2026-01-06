@@ -11,18 +11,8 @@
 ```csharp
 public Parameter AngularDimensionPrecision { get; set; }
 ```
-```vb
-Public Property AngularDimensionPrecision As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ AngularDimensionPrecision {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

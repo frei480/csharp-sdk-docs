@@ -16,14 +16,8 @@
 [ObsoleteAttribute("This class is obsolete, use 'TFlex.Configuration.Settings' instead")]
 public sealed class Options
 ```
-```vb
-<ObsoleteAttribute("This class is obsolete, use 'TFlex.Configuration.Settings' instead")>
-Public NotInheritable Class Options
-```
-```cpp
-[ObsoleteAttribute(L"This class is obsolete, use 'TFlex.Configuration.Settings' instead")]
-public ref class Options sealed
-```
+
+
 
 
 Тип Options предоставляет следующие члены.

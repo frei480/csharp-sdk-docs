@@ -11,13 +11,8 @@
 ```csharp
 public int CountSecondElements()
 ```
-```vb
-Public Function CountSecondElements As Integer
-```
-```cpp
-public:
-int CountSecondElements()
-```
+
+
 
 
 #### Возвращаемое значение

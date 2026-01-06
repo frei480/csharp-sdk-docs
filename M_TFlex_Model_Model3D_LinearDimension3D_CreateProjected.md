@@ -13,17 +13,8 @@ public ProjectedLinearDimension CreateProjected(
 	Projection projection
 )
 ```
-```vb
-Public Function CreateProjected ( 
-	projection As Projection
-) As ProjectedLinearDimension
-```
-```cpp
-public:
-ProjectedLinearDimension^ CreateProjected(
-	Projection^ projection
-)
-```
+
+
 
 
 #### Параметры

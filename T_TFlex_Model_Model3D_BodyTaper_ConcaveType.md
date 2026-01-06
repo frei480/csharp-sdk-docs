@@ -8,12 +8,8 @@
 ```csharp
 public enum ConcaveType
 ```
-```vb
-Public Enumeration ConcaveType
-```
-```cpp
-public enum class ConcaveType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

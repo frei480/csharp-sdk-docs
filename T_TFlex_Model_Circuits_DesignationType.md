@@ -8,12 +8,8 @@
 ```csharp
 public enum DesignationType
 ```
-```vb
-Public Enumeration DesignationType
-```
-```cpp
-public enum class DesignationType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

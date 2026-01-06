@@ -16,23 +16,8 @@ public RibbonTab(
 	Guid neighborGuid
 )
 ```
-```vb
-Public Sub New ( 
-	caption As String,
-	guid As Guid,
-	plugin As Plugin,
-	neighborGuid As Guid
-)
-```
-```cpp
-public:
-RibbonTab(
-	String^ caption, 
-	Guid guid, 
-	Plugin^ plugin, 
-	Guid neighborGuid
-)
-```
+
+
 
 
 #### Параметры

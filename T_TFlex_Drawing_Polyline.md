@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Polyline
 ```
-```vb
-Public NotInheritable Class Polyline
-```
-```cpp
-public ref class Polyline sealed
-```
+
+
 
 
 Тип Polyline предоставляет следующие члены.

@@ -14,19 +14,8 @@ public void SetLastBody(
 	double sc
 )
 ```
-```vb
-Public Sub SetLastBody ( 
-	b As BaseBody,
-	sc As Double
-)
-```
-```cpp
-public:
-void SetLastBody(
-	BaseBody^ b, 
-	double sc
-)
-```
+
+
 
 
 #### Параметры

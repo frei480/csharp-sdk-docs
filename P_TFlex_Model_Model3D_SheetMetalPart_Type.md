@@ -11,18 +11,8 @@
 ```csharp
 public SheetMetalPartExtrusionType Type { get; set; }
 ```
-```vb
-Public Property Type As SheetMetalPartExtrusionType
-	Get
-	Set
-```
-```cpp
-public:
-property SheetMetalPartExtrusionType Type {
-	SheetMetalPartExtrusionType get ();
-	void set (SheetMetalPartExtrusionType value);
-}
-```
+
+
 
 
 #### Значение свойства

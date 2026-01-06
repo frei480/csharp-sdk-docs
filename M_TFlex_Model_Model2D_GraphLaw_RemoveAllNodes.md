@@ -11,13 +11,8 @@
 ```csharp
 public bool RemoveAllNodes()
 ```
-```vb
-Public Function RemoveAllNodes As Boolean
-```
-```cpp
-public:
-bool RemoveAllNodes()
-```
+
+
 
 
 #### Возвращаемое значение

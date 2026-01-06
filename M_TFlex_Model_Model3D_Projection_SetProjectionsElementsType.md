@@ -11,19 +11,8 @@ public void SetProjectionsElementsType(
 	ProjectionProjectionsElements element
 )
 ```
-```vb
-Public Sub SetProjectionsElementsType ( 
-	type As ProjectionProjectionsElementsType,
-	element As ProjectionProjectionsElements
-)
-```
-```cpp
-public:
-void SetProjectionsElementsType(
-	ProjectionProjectionsElementsType type, 
-	ProjectionProjectionsElements element
-)
-```
+
+
 
 
 #### Параметры

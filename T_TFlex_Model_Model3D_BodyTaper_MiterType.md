@@ -11,12 +11,8 @@
 ```csharp
 public enum MiterType
 ```
-```vb
-Public Enumeration MiterType
-```
-```cpp
-public enum class MiterType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

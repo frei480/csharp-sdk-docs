@@ -13,17 +13,8 @@ public void AddPiercedFace(
 	BaseTopol face
 )
 ```
-```vb
-Public Sub AddPiercedFace ( 
-	face As BaseTopol
-)
-```
-```cpp
-public:
-void AddPiercedFace(
-	BaseTopol^ face
-)
-```
+
+
 
 
 #### Параметры

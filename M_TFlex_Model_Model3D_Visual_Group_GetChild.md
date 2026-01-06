@@ -13,17 +13,8 @@ public SceneNode GetChild(
 	int index
 )
 ```
-```vb
-Public Function GetChild ( 
-	index As Integer
-) As SceneNode
-```
-```cpp
-public:
-SceneNode^ GetChild(
-	int index
-)
-```
+
+
 
 
 #### Параметры

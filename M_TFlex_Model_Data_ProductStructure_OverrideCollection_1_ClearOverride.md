@@ -10,17 +10,8 @@ public void ClearOverride(
 	Guid key
 )
 ```
-```vb
-Public Sub ClearOverride ( 
-	key As Guid
-)
-```
-```cpp
-public:
-void ClearOverride(
-	Guid key
-)
-```
+
+
 
 
 #### Параметры

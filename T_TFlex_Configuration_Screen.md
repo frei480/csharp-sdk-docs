@@ -11,13 +11,8 @@
 ```csharp
 public class Screen : SettingsGroup
 ```
-```vb
-Public Class Screen
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Screen : public SettingsGroup
-```
+
+
 
 
 Тип Screen предоставляет следующие члены.

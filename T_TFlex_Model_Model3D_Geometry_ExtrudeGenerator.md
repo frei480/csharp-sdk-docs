@@ -13,13 +13,8 @@
 ```csharp
 public class ExtrudeGenerator : BodyGenerator
 ```
-```vb
-Public Class ExtrudeGenerator
-	Inherits BodyGenerator
-```
-```cpp
-public ref class ExtrudeGenerator : public BodyGenerator
-```
+
+
 
 
 Тип ExtrudeGenerator предоставляет следующие члены.

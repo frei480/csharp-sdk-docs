@@ -11,18 +11,8 @@
 ```csharp
 public Point Origin { get; set; }
 ```
-```vb
-Public Property Origin As Point
-	Get
-	Set
-```
-```cpp
-public:
-property Point Origin {
-	Point get ();
-	void set (Point value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public virtual bool RemoveSplice(
 	int index
 )
 ```
-```vb
-Public Overridable Function RemoveSplice ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-virtual bool RemoveSplice(
-	int index
-)
-```
+
+
 
 
 #### Параметры

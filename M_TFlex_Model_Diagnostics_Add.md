@@ -13,17 +13,8 @@ public DiagnosticsMessageId Add(
 	DiagnosticsMessage message
 )
 ```
-```vb
-Public Function Add ( 
-	message As DiagnosticsMessage
-) As DiagnosticsMessageId
-```
-```cpp
-public:
-DiagnosticsMessageId^ Add(
-	DiagnosticsMessage^ message
-)
-```
+
+
 
 
 #### Параметры

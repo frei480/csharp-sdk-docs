@@ -8,18 +8,8 @@
 ```csharp
 public double ShellDiameter { get; set; }
 ```
-```vb
-Public Property ShellDiameter As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double ShellDiameter {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

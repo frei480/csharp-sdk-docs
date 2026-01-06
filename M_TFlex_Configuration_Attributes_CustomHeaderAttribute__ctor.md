@@ -14,19 +14,8 @@ public CustomHeaderAttribute(
 	string header2
 )
 ```
-```vb
-Public Sub New ( 
-	header1 As String,
-	header2 As String
-)
-```
-```cpp
-public:
-CustomHeaderAttribute(
-	String^ header1, 
-	String^ header2
-)
-```
+
+
 
 
 #### Параметры

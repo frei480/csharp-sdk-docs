@@ -8,13 +8,8 @@
 ```csharp
 public ParamConditionTerm Copy()
 ```
-```vb
-Public Function Copy As ParamConditionTerm
-```
-```cpp
-public:
-ParamConditionTerm^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -16,23 +16,8 @@ public TorusSurface(
 	BaseDirection referencedirection
 )
 ```
-```vb
-Public Sub New ( 
-	minorradius As Double,
-	majorradius As Double,
-	axis As BaseAxis,
-	referencedirection As BaseDirection
-)
-```
-```cpp
-public:
-TorusSurface(
-	double minorradius, 
-	double majorradius, 
-	BaseAxis^ axis, 
-	BaseDirection^ referencedirection
-)
-```
+
+
 
 
 #### Параметры

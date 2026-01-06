@@ -10,17 +10,8 @@ public bool InsertTextWithHyperlinks(
 	string text
 )
 ```
-```vb
-Public Function InsertTextWithHyperlinks ( 
-	text As String
-) As Boolean
-```
-```cpp
-public:
-bool InsertTextWithHyperlinks(
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public ImageSizeType PreviewSize { get; set; }
 ```
-```vb
-Public Property PreviewSize As ImageSizeType
-	Get
-	Set
-```
-```cpp
-public:
-property ImageSizeType PreviewSize {
-	ImageSizeType get ();
-	void set (ImageSizeType value);
-}
-```
+
+
 
 
 #### Значение свойства

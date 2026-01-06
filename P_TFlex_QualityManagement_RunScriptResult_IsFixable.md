@@ -11,16 +11,8 @@
 ```csharp
 public bool IsFixable { get; }
 ```
-```vb
-Public ReadOnly Property IsFixable As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsFixable {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

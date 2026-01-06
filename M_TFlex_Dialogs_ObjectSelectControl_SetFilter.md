@@ -11,19 +11,8 @@ public void SetFilter(
 	Document doc
 )
 ```
-```vb
-Public Sub SetFilter ( 
-	canMatchDelegate As Func(Of ObjectSelectControlPlainObject, Boolean),
-	doc As Document
-)
-```
-```cpp
-public:
-void SetFilter(
-	Func<ObjectSelectControlPlainObject, bool>^ canMatchDelegate, 
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

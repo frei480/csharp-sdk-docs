@@ -8,18 +8,8 @@
 ```csharp
 public string BooleanOperation { get; set; }
 ```
-```vb
-Public Property BooleanOperation As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ BooleanOperation {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

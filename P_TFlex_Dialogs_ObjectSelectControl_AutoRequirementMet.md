@@ -11,18 +11,8 @@
 ```csharp
 public bool AutoRequirementMet { get; set; }
 ```
-```vb
-Public Property AutoRequirementMet As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoRequirementMet {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

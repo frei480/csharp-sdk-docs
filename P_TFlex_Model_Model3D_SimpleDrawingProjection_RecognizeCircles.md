@@ -11,18 +11,8 @@
 ```csharp
 public bool RecognizeCircles { get; set; }
 ```
-```vb
-Public Property RecognizeCircles As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RecognizeCircles {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

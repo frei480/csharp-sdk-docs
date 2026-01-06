@@ -15,21 +15,8 @@ public void SetLinearDimension(
 	Parameter offset
 )
 ```
-```vb
-Public Sub SetLinearDimension ( 
-	dim As LinearDimension,
-	onSecondLine As Boolean,
-	offset As Parameter
-)
-```
-```cpp
-public:
-void SetLinearDimension(
-	LinearDimension^ dim, 
-	bool onSecondLine, 
-	Parameter^ offset
-)
-```
+
+
 
 
 #### Параметры

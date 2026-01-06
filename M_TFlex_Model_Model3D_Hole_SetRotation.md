@@ -14,19 +14,8 @@ public bool SetRotation(
 	ModelTopol topol
 )
 ```
-```vb
-Public Function SetRotation ( 
-	hole As Integer,
-	topol As ModelTopol
-) As Boolean
-```
-```cpp
-public:
-bool SetRotation(
-	int hole, 
-	ModelTopol^ topol
-)
-```
+
+
 
 
 #### Параметры

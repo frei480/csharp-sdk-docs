@@ -13,17 +13,8 @@ public bool IsModeAvailable(
 	CopyBaseOperation2Mode mode
 )
 ```
-```vb
-Public Function IsModeAvailable ( 
-	mode As CopyBaseOperation2Mode
-) As Boolean
-```
-```cpp
-public:
-bool IsModeAvailable(
-	CopyBaseOperation2Mode mode
-)
-```
+
+
 
 
 #### Параметры

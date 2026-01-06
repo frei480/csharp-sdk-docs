@@ -11,12 +11,8 @@
 ```csharp
 public enum LineType
 ```
-```vb
-Public Enumeration LineType
-```
-```cpp
-public enum class LineType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

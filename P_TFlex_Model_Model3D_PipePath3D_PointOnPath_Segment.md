@@ -11,16 +11,8 @@
 ```csharp
 public PipePath3DSegmentOnPath Segment { get; }
 ```
-```vb
-Public ReadOnly Property Segment As PipePath3DSegmentOnPath
-	Get
-```
-```cpp
-public:
-property PipePath3DSegmentOnPath^ Segment {
-	PipePath3DSegmentOnPath^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public enum LabelPadding
 ```
-```vb
-Public Enumeration LabelPadding
-```
-```cpp
-public enum class LabelPadding
-```
+
+
 
 
 | Имя члена | Значение | Описание |

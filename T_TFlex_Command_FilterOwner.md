@@ -11,13 +11,8 @@
 ```csharp
 public abstract class FilterOwner : IFilterOwner
 ```
-```vb
-Public MustInherit Class FilterOwner
-	Implements IFilterOwner
-```
-```cpp
-public ref class FilterOwner abstract : IFilterOwner
-```
+
+
 
 
 Тип FilterOwner предоставляет следующие члены.

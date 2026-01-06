@@ -9,14 +9,8 @@
 [FlagsAttribute]
 public enum CopyValuesMode
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration CopyValuesMode
-```
-```cpp
-[FlagsAttribute]
-public enum class CopyValuesMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

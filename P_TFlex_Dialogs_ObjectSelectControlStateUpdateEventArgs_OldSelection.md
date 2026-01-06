@@ -11,16 +11,8 @@
 ```csharp
 public Collection<int> OldSelection { get; }
 ```
-```vb
-Public ReadOnly Property OldSelection As Collection(Of Integer)
-	Get
-```
-```cpp
-public:
-property Collection<int>^ OldSelection {
-	Collection<int>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

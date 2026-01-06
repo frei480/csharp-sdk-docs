@@ -12,21 +12,8 @@ public static void AddAttributes(
 	params Attribute[] attributes
 )
 ```
-```vb
-Public Shared Sub AddAttributes ( 
-	type As Type,
-	propName As String,
-	ParamArray attributes As Attribute()
-)
-```
-```cpp
-public:
-static void AddAttributes(
-	Type^ type, 
-	String^ propName, 
-	... array<Attribute^>^ attributes
-)
-```
+
+
 
 
 #### Параметры

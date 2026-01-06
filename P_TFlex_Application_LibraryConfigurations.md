@@ -11,16 +11,8 @@
 ```csharp
 public static LibraryConfigurations LibraryConfigurations { get; }
 ```
-```vb
-Public Shared ReadOnly Property LibraryConfigurations As LibraryConfigurations
-	Get
-```
-```cpp
-public:
-static property LibraryConfigurations^ LibraryConfigurations {
-	LibraryConfigurations^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

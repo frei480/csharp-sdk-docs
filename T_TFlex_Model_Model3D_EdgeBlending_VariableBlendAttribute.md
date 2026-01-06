@@ -13,13 +13,8 @@
 ```csharp
 public class VariableBlendAttribute : EdgeBlendingAttribute
 ```
-```vb
-Public Class VariableBlendAttribute
-	Inherits EdgeBlendingAttribute
-```
-```cpp
-public ref class VariableBlendAttribute : public EdgeBlendingAttribute
-```
+
+
 
 
 Тип EdgeBlendingVariableBlendAttribute предоставляет следующие члены.

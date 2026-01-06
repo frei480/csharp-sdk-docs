@@ -11,13 +11,8 @@
 ```csharp
 public class ConditionalGroupingRule : IGroupingRule
 ```
-```vb
-Public Class ConditionalGroupingRule
-	Inherits IGroupingRule
-```
-```cpp
-public ref class ConditionalGroupingRule : public IGroupingRule
-```
+
+
 
 
 Тип ConditionalGroupingRule предоставляет следующие члены.

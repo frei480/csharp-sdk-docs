@@ -13,17 +13,8 @@ public void Add(
 	TermGroupItem item
 )
 ```
-```vb
-Public Sub Add ( 
-	item As TermGroupItem
-)
-```
-```cpp
-public:
-virtual void Add(
-	TermGroupItem^ item
-) sealed
-```
+
+
 
 
 #### Параметры

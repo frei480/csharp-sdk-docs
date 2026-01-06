@@ -13,16 +13,8 @@
 ```csharp
 public static Unit TonnePerCubicMeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property TonnePerCubicMeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ TonnePerCubicMeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

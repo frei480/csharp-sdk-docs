@@ -8,13 +8,8 @@
 ```csharp
 public void GoToPrevState()
 ```
-```vb
-Public Sub GoToPrevState
-```
-```cpp
-public:
-void GoToPrevState()
-```
+
+
 
 
 #### Ссылки

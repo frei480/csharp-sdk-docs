@@ -11,13 +11,8 @@
 ```csharp
 public class VariableEditor : SettingsGroup
 ```
-```vb
-Public Class VariableEditor
-	Inherits SettingsGroup
-```
-```cpp
-public ref class VariableEditor : public SettingsGroup
-```
+
+
 
 
 Тип VariableEditor предоставляет следующие члены.

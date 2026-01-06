@@ -13,17 +13,8 @@ public void GetVariablesFromFragment(
 	Fragment3D sourceFragment
 )
 ```
-```vb
-Public Sub GetVariablesFromFragment ( 
-	sourceFragment As Fragment3D
-)
-```
-```cpp
-public:
-void GetVariablesFromFragment(
-	Fragment3D^ sourceFragment
-)
-```
+
+
 
 
 #### Параметры

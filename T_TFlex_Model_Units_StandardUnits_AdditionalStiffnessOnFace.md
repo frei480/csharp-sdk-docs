@@ -13,12 +13,8 @@
 ```csharp
 public sealed class AdditionalStiffnessOnFace
 ```
-```vb
-Public NotInheritable Class AdditionalStiffnessOnFace
-```
-```cpp
-public ref class AdditionalStiffnessOnFace sealed
-```
+
+
 
 
 Тип StandardUnitsAdditionalStiffnessOnFace предоставляет следующие члены.

@@ -13,17 +13,8 @@ public void AddElement(
 	ModelTopol A_0
 )
 ```
-```vb
-Public Sub AddElement ( 
-	A_0 As ModelTopol
-)
-```
-```cpp
-public:
-void AddElement(
-	ModelTopol^ A_0
-)
-```
+
+
 
 
 #### Параметры

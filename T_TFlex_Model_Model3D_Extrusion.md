@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Extrusion : Sweep
 ```
-```vb
-Public MustInherit Class Extrusion
-	Inherits Sweep
-```
-```cpp
-public ref class Extrusion abstract : public Sweep
-```
+
+
 
 
 Тип Extrusion предоставляет следующие члены.

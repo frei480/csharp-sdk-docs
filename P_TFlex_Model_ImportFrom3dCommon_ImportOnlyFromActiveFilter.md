@@ -11,18 +11,8 @@
 ```csharp
 public bool ImportOnlyFromActiveFilter { get; set; }
 ```
-```vb
-Public Property ImportOnlyFromActiveFilter As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ImportOnlyFromActiveFilter {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

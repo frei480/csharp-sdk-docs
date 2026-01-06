@@ -8,16 +8,8 @@
 ```csharp
 public bool DashedPattern { set; }
 ```
-```vb
-Public WriteOnly Property DashedPattern As Boolean
-	Set
-```
-```cpp
-public:
-property bool DashedPattern {
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

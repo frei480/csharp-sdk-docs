@@ -14,19 +14,8 @@ public bool SetTextValueLength(
 	int length
 )
 ```
-```vb
-Public Function SetTextValueLength ( 
-	column As Integer,
-	length As Integer
-) As Boolean
-```
-```cpp
-public:
-bool SetTextValueLength(
-	int column, 
-	int length
-)
-```
+
+
 
 
 #### Параметры

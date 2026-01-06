@@ -8,18 +8,8 @@
 ```csharp
 public SynchronizationMode TypesSynchronizationMode { get; set; }
 ```
-```vb
-Public Property TypesSynchronizationMode As SynchronizationMode
-	Get
-	Set
-```
-```cpp
-public:
-property SynchronizationMode TypesSynchronizationMode {
-	SynchronizationMode get ();
-	void set (SynchronizationMode value);
-}
-```
+
+
 
 
 #### Значение свойства

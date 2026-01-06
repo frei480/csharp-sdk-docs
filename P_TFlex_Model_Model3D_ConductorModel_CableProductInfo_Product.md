@@ -8,16 +8,8 @@
 ```csharp
 public ProductType Product { get; }
 ```
-```vb
-Public ReadOnly Property Product As ProductType
-	Get
-```
-```cpp
-public:
-property ProductType Product {
-	ProductType get ();
-}
-```
+
+
 
 
 #### Значение свойства

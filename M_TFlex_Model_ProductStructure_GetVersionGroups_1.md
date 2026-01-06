@@ -10,17 +10,8 @@ public VersionGroupingResult GetVersionGroups(
 	VersionGroupingType type
 )
 ```
-```vb
-Public Function GetVersionGroups ( 
-	type As VersionGroupingType
-) As VersionGroupingResult
-```
-```cpp
-public:
-VersionGroupingResult^ GetVersionGroups(
-	VersionGroupingType type
-)
-```
+
+
 
 
 #### Параметры

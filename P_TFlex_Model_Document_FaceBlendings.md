@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetFaceBlendings' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer FaceBlendings { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetFaceBlendings' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property FaceBlendings As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetFaceBlendings' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ FaceBlendings {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

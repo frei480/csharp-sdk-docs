@@ -13,17 +13,8 @@ public MeshPoint FindByCoords(
 	Point3D point
 )
 ```
-```vb
-Public Function FindByCoords ( 
-	point As Point3D
-) As MeshPoint
-```
-```cpp
-public:
-MeshPoint^ FindByCoords(
-	Point3D^ point
-)
-```
+
+
 
 
 #### Параметры

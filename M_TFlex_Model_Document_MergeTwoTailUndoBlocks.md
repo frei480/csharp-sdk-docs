@@ -11,13 +11,8 @@
 ```csharp
 public void MergeTwoTailUndoBlocks()
 ```
-```vb
-Public Sub MergeTwoTailUndoBlocks
-```
-```cpp
-public:
-void MergeTwoTailUndoBlocks()
-```
+
+
 
 
 #### Ссылки

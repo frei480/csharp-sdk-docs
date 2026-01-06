@@ -11,16 +11,8 @@
 ```csharp
 public virtual ControlType ControlType { get; }
 ```
-```vb
-Public Overridable ReadOnly Property ControlType As ControlType
-	Get
-```
-```cpp
-public:
-virtual property ControlType ControlType {
-	ControlType get ();
-}
-```
+
+
 
 
 #### Значение свойства

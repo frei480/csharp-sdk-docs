@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Gap { get; set; }
 ```
-```vb
-Public Property Gap As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Gap {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,15 +13,8 @@
 ```csharp
 public sealed class Loop : Topol, BaseLoop
 ```
-```vb
-Public NotInheritable Class Loop
-	Inherits Topol
-	Implements BaseLoop
-```
-```cpp
-public ref class Loop sealed : public Topol, 
-	BaseLoop
-```
+
+
 
 
 Тип Loop предоставляет следующие члены.

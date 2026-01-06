@@ -10,16 +10,8 @@ Dictionary<string, Object> GetMainLCS(
 	Document document
 )
 ```
-```vb
-Function GetMainLCS ( 
-	document As Document
-) As Dictionary(Of String, Object)
-```
-```cpp
-Dictionary<String^, Object^>^ GetMainLCS(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

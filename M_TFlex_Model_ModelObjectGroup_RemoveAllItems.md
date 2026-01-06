@@ -11,13 +11,8 @@
 ```csharp
 public bool RemoveAllItems()
 ```
-```vb
-Public Function RemoveAllItems As Boolean
-```
-```cpp
-public:
-bool RemoveAllItems()
-```
+
+
 
 
 #### Возвращаемое значение

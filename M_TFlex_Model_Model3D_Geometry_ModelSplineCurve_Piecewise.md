@@ -13,17 +13,8 @@ public PiecewiseData Piecewise(
 	PiecewiseRepresentation representation
 )
 ```
-```vb
-Public Function Piecewise ( 
-	representation As PiecewiseRepresentation
-) As PiecewiseData
-```
-```cpp
-public:
-virtual PiecewiseData^ Piecewise(
-	PiecewiseRepresentation representation
-) sealed
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public static ProductStructure CreateProductStructure(
 	FileLink schemeFileLink
 )
 ```
-```vb
-Public Shared Function CreateProductStructure ( 
-	doc As Document,
-	schemeFileLink As FileLink
-) As ProductStructure
-```
-```cpp
-public:
-static ProductStructure^ CreateProductStructure(
-	Document^ doc, 
-	FileLink^ schemeFileLink
-)
-```
+
+
 
 
 #### Параметры

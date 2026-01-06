@@ -13,17 +13,8 @@ public void AddDirectionalLight(
 	View3DDirectionalLight value
 )
 ```
-```vb
-Public Sub AddDirectionalLight ( 
-	value As View3DDirectionalLight
-)
-```
-```cpp
-public:
-void AddDirectionalLight(
-	View3DDirectionalLight value
-)
-```
+
+
 
 
 #### Параметры

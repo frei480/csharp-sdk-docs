@@ -11,18 +11,8 @@
 ```csharp
 public FormlimitsSymbolSettingMethodType SettingMethod { get; set; }
 ```
-```vb
-Public Property SettingMethod As FormlimitsSymbolSettingMethodType
-	Get
-	Set
-```
-```cpp
-public:
-property FormlimitsSymbolSettingMethodType SettingMethod {
-	FormlimitsSymbolSettingMethodType get ();
-	void set (FormlimitsSymbolSettingMethodType value);
-}
-```
+
+
 
 
 #### Значение свойства

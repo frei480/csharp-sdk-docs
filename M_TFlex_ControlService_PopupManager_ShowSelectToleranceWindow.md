@@ -12,21 +12,8 @@ public static bool ShowSelectToleranceWindow(
 	out ToleranceProperties properties
 )
 ```
-```vb
-Public Shared Function ShowSelectToleranceWindow ( 
-	nominal As Double,
-	unit As Unit,
-	<OutAttribute> ByRef properties As ToleranceProperties
-) As Boolean
-```
-```cpp
-public:
-static bool ShowSelectToleranceWindow(
-	double nominal, 
-	Unit^ unit, 
-	[OutAttribute] ToleranceProperties^% properties
-)
-```
+
+
 
 
 #### Параметры

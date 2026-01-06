@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Offset_Y { get; set; }
 ```
-```vb
-Public Property Offset_Y As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Offset_Y {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

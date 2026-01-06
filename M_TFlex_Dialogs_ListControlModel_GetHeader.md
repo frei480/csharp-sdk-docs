@@ -14,19 +14,8 @@ public abstract Object GetHeader(
 	ListItemRole role
 )
 ```
-```vb
-Public MustOverride Function GetHeader ( 
-	column As Integer,
-	role As ListItemRole
-) As Object
-```
-```cpp
-public:
-virtual Object^ GetHeader(
-	int column, 
-	ListItemRole role
-) abstract
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum LeaderNoteAttachmentType
 ```
-```vb
-Public Enumeration LeaderNoteAttachmentType
-```
-```cpp
-public enum class LeaderNoteAttachmentType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

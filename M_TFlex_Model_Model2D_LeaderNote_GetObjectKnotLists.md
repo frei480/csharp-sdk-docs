@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerator<ObjectKnotList> GetObjectKnotLists()
 ```
-```vb
-Public Function GetObjectKnotLists As IEnumerator(Of ObjectKnotList)
-```
-```cpp
-public:
-IEnumerator<ObjectKnotList^>^ GetObjectKnotLists()
-```
+
+
 
 
 #### Возвращаемое значение

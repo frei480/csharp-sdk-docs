@@ -11,18 +11,8 @@
 ```csharp
 public uint RecordFlags { get; set; }
 ```
-```vb
-Public Property RecordFlags As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int RecordFlags {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

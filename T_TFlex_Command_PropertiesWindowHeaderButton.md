@@ -11,12 +11,8 @@
 ```csharp
 public enum PropertiesWindowHeaderButton
 ```
-```vb
-Public Enumeration PropertiesWindowHeaderButton
-```
-```cpp
-public enum class PropertiesWindowHeaderButton
-```
+
+
 
 
 | Имя члена | Значение | Описание |

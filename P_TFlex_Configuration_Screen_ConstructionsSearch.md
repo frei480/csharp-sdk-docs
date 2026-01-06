@@ -8,18 +8,8 @@
 ```csharp
 public SearchConstructionMode ConstructionsSearch { get; set; }
 ```
-```vb
-Public Property ConstructionsSearch As SearchConstructionMode
-	Get
-	Set
-```
-```cpp
-public:
-property SearchConstructionMode ConstructionsSearch {
-	SearchConstructionMode get ();
-	void set (SearchConstructionMode value);
-}
-```
+
+
 
 
 #### Значение свойства

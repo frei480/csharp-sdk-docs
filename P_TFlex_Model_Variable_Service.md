@@ -11,16 +11,8 @@ true, если переменная является вспомогательн�
 ```csharp
 public bool Service { get; }
 ```
-```vb
-Public ReadOnly Property Service As Boolean
-	Get
-```
-```cpp
-public:
-property bool Service {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public ImportFrom3dCommonConfiguration Configurations
 ```
-```vb
-Public Configurations As ImportFrom3dCommonConfiguration
-```
-```cpp
-public:
-ImportFrom3dCommonConfiguration^ Configurations
-```
+
+
 
 
 #### Значение поля

@@ -11,16 +11,8 @@
 ```csharp
 public double HighU { get; }
 ```
-```vb
-Public ReadOnly Property HighU As Double
-	Get
-```
-```cpp
-public:
-property double HighU {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

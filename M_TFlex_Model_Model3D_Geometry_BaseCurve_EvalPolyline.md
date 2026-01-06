@@ -12,21 +12,8 @@ public bool EvalPolyline(
 	ref List<Point3D> points
 )
 ```
-```vb
-Public Function EvalPolyline ( 
-	tolerance As Double,
-	segmentLengthFactor As Double,
-	ByRef points As List(Of Point3D)
-) As Boolean
-```
-```cpp
-public:
-bool EvalPolyline(
-	double tolerance, 
-	double segmentLengthFactor, 
-	List<Point3D^>^% points
-)
-```
+
+
 
 
 #### Параметры

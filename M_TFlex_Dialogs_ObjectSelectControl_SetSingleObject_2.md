@@ -13,17 +13,8 @@ public void SetSingleObject(
 	ModelObject modelObject
 )
 ```
-```vb
-Public Sub SetSingleObject ( 
-	modelObject As ModelObject
-)
-```
-```cpp
-public:
-void SetSingleObject(
-	ModelObject^ modelObject
-)
-```
+
+
 
 
 #### Параметры

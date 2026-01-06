@@ -8,18 +8,8 @@
 ```csharp
 public Vector3 Translation { get; set; }
 ```
-```vb
-Public Property Translation As Vector3
-	Get
-	Set
-```
-```cpp
-public:
-property Vector3 Translation {
-	Vector3 get ();
-	void set (Vector3 value);
-}
-```
+
+
 
 
 #### Значение свойства

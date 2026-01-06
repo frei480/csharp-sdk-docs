@@ -11,18 +11,8 @@
 ```csharp
 public ModelPlane ConstraintLimit1 { get; set; }
 ```
-```vb
-Public Property ConstraintLimit1 As ModelPlane
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPlane^ ConstraintLimit1 {
-	ModelPlane^ get ();
-	void set (ModelPlane^ value);
-}
-```
+
+
 
 
 #### Значение свойства

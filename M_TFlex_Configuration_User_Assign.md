@@ -10,17 +10,8 @@ public void Assign(
 	User source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As User
-)
-```
-```cpp
-public:
-void Assign(
-	User^ source
-)
-```
+
+
 
 
 #### Параметры

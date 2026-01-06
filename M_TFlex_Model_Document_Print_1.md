@@ -15,21 +15,8 @@ public void Print(
 	bool fitAndCenter
 )
 ```
-```vb
-Public Sub Print ( 
-	window As IntPtr,
-	selectAllPages As Boolean,
-	fitAndCenter As Boolean
-)
-```
-```cpp
-public:
-void Print(
-	IntPtr window, 
-	bool selectAllPages, 
-	bool fitAndCenter
-)
-```
+
+
 
 
 #### Параметры

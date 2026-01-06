@@ -11,16 +11,8 @@
 ```csharp
 public bool IsError { get; }
 ```
-```vb
-Public ReadOnly Property IsError As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsError {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

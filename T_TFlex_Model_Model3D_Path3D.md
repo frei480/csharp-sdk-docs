@@ -13,13 +13,8 @@
 ```csharp
 public class Path3D : Construction3D
 ```
-```vb
-Public Class Path3D
-	Inherits Construction3D
-```
-```cpp
-public ref class Path3D : public Construction3D
-```
+
+
 
 
 Тип Path3D предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public SplinewiseData()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SplinewiseData()
-```
+
+
 
 
 #### Ссылки

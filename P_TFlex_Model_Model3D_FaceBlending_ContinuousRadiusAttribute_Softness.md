@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Softness { get; set; }
 ```
-```vb
-Public Property Softness As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Softness {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public Node TieNode2D { get; set; }
 ```
-```vb
-Public Property TieNode2D As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ TieNode2D {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

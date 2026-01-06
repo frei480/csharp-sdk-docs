@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<ListControlSelectionChangedEventArgs> SelectionChanged
 ```
-```vb
-Public Event SelectionChanged As EventHandler(Of ListControlSelectionChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<ListControlSelectionChangedEventArgs^>^ SelectionChanged {
-	void add (EventHandler<ListControlSelectionChangedEventArgs^>^ value);
-	void remove (EventHandler<ListControlSelectionChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

@@ -13,13 +13,8 @@
 ```csharp
 public class ExportToDXF3D : ExportToACAD
 ```
-```vb
-Public Class ExportToDXF3D
-	Inherits ExportToACAD
-```
-```cpp
-public ref class ExportToDXF3D : public ExportToACAD
-```
+
+
 
 
 Тип ExportToDXF3D предоставляет следующие члены.

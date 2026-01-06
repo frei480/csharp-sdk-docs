@@ -13,17 +13,8 @@ public static Document NewDocument(
 	bool b3D
 )
 ```
-```vb
-Public Shared Function NewDocument ( 
-	b3D As Boolean
-) As Document
-```
-```cpp
-public:
-static Document^ NewDocument(
-	bool b3D
-)
-```
+
+
 
 
 #### Параметры

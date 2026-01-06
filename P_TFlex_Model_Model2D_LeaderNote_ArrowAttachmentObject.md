@@ -11,16 +11,8 @@
 ```csharp
 public Object2D ArrowAttachmentObject { get; }
 ```
-```vb
-Public ReadOnly Property ArrowAttachmentObject As Object2D
-	Get
-```
-```cpp
-public:
-property Object2D^ ArrowAttachmentObject {
-	Object2D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

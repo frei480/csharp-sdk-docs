@@ -8,18 +8,8 @@
 ```csharp
 public Conductor LinkedConductor { get; set; }
 ```
-```vb
-Public Property LinkedConductor As Conductor
-	Get
-	Set
-```
-```cpp
-public:
-property Conductor^ LinkedConductor {
-	Conductor^ get ();
-	void set (Conductor^ value);
-}
-```
+
+
 
 
 #### Значение свойства

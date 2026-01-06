@@ -11,16 +11,8 @@
 ```csharp
 public ICollection<RibbonTab> Tabs { get; }
 ```
-```vb
-Public ReadOnly Property Tabs As ICollection(Of RibbonTab)
-	Get
-```
-```cpp
-public:
-property ICollection<RibbonTab^>^ Tabs {
-	ICollection<RibbonTab^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<ExternalObject> GetExternalObjects()
 ```
-```vb
-Public Function GetExternalObjects As ICollection(Of ExternalObject)
-```
-```cpp
-public:
-ICollection<ExternalObject^>^ GetExternalObjects()
-```
+
+
 
 
 #### Возвращаемое значение

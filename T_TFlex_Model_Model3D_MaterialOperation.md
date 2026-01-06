@@ -13,13 +13,8 @@
 ```csharp
 public class MaterialOperation : Operation
 ```
-```vb
-Public Class MaterialOperation
-	Inherits Operation
-```
-```cpp
-public ref class MaterialOperation : public Operation
-```
+
+
 
 
 Тип MaterialOperation предоставляет следующие члены.

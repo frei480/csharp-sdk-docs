@@ -11,18 +11,8 @@
 ```csharp
 public DimensionViewType AltTextParameters { get; set; }
 ```
-```vb
-Public Property AltTextParameters As DimensionViewType
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionViewType AltTextParameters {
-	DimensionViewType get ();
-	void set (DimensionViewType value);
-}
-```
+
+
 
 
 #### Значение свойства

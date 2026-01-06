@@ -11,18 +11,8 @@
 ```csharp
 public BaseTopol Spine { get; set; }
 ```
-```vb
-Public Property Spine As BaseTopol
-	Get
-	Set
-```
-```cpp
-public:
-property BaseTopol^ Spine {
-	BaseTopol^ get ();
-	void set (BaseTopol^ value);
-}
-```
+
+
 
 
 #### Значение свойства

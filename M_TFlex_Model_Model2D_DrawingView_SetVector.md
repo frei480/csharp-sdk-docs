@@ -15,21 +15,8 @@ public void SetVector(
 	Point point2
 )
 ```
-```vb
-Public Sub SetVector ( 
-	vector As FixingVector,
-	point1 As Point,
-	point2 As Point
-)
-```
-```cpp
-public:
-void SetVector(
-	FixingVector^ vector, 
-	Point point1, 
-	Point point2
-)
-```
+
+
 
 
 #### Параметры

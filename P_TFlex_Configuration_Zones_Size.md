@@ -8,16 +8,8 @@
 ```csharp
 public SizeInt Size { get; }
 ```
-```vb
-Public ReadOnly Property Size As SizeInt
-	Get
-```
-```cpp
-public:
-property SizeInt^ Size {
-	SizeInt^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

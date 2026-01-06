@@ -11,12 +11,8 @@
 ```csharp
 public enum Just
 ```
-```vb
-Public Enumeration Just
-```
-```cpp
-public enum class Just
-```
+
+
 
 
 | Имя члена | Значение | Описание |

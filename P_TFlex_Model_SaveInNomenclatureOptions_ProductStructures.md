@@ -11,18 +11,8 @@
 ```csharp
 public IReadOnlyCollection<ProductStructure> ProductStructures { get; set; }
 ```
-```vb
-Public Property ProductStructures As IReadOnlyCollection(Of ProductStructure)
-	Get
-	Set
-```
-```cpp
-public:
-property IReadOnlyCollection<ProductStructure^>^ ProductStructures {
-	IReadOnlyCollection<ProductStructure^>^ get ();
-	void set (IReadOnlyCollection<ProductStructure^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

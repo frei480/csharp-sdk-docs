@@ -16,23 +16,8 @@ public BaseUVBox(
 	double highv
 )
 ```
-```vb
-Public Sub New ( 
-	lowu As Double,
-	lowv As Double,
-	highu As Double,
-	highv As Double
-)
-```
-```cpp
-public:
-BaseUVBox(
-	double lowu, 
-	double lowv, 
-	double highu, 
-	double highv
-)
-```
+
+
 
 
 #### Параметры

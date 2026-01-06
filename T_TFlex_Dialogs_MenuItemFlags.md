@@ -12,14 +12,8 @@
 [FlagsAttribute]
 public enum MenuItemFlags
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration MenuItemFlags
-```
-```cpp
-[FlagsAttribute]
-public enum class MenuItemFlags
-```
+
+
 
 
 | Имя члена | Значение | Описание |

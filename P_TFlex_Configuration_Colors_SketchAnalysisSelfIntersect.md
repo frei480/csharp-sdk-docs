@@ -8,18 +8,8 @@
 ```csharp
 public int SketchAnalysisSelfIntersect { get; set; }
 ```
-```vb
-Public Property SketchAnalysisSelfIntersect As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SketchAnalysisSelfIntersect {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

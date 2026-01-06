@@ -13,17 +13,8 @@ public Sphere(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Sphere(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

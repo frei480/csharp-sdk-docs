@@ -13,17 +13,8 @@ public ConstructionContourSegment(
 	Contour source
 )
 ```
-```vb
-Public Sub New ( 
-	source As Contour
-)
-```
-```cpp
-public:
-ConstructionContourSegment(
-	Contour^ source
-)
-```
+
+
 
 
 #### Параметры

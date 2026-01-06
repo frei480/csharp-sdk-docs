@@ -14,19 +14,8 @@ public bool Replace(
 	bool deleteSource
 )
 ```
-```vb
-Public Function Replace ( 
-	source As ModelObject,
-	deleteSource As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool Replace(
-	ModelObject^ source, 
-	bool deleteSource
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public ContinuousRadiusAttribute(
 	Parameter softness
 )
 ```
-```vb
-Public Sub New ( 
-	radius As Parameter,
-	softness As Parameter
-)
-```
-```cpp
-public:
-ContinuousRadiusAttribute(
-	Parameter^ radius, 
-	Parameter^ softness
-)
-```
+
+
 
 
 #### Параметры

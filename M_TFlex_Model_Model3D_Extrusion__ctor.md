@@ -13,17 +13,8 @@ public Extrusion(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Extrusion(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

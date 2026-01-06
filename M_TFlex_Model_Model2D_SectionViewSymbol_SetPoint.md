@@ -14,19 +14,8 @@ public void SetPoint(
 	Point point
 )
 ```
-```vb
-Public Sub SetPoint ( 
-	i As UInteger,
-	point As Point
-)
-```
-```cpp
-public:
-void SetPoint(
-	unsigned int i, 
-	Point point
-)
-```
+
+
 
 
 #### Параметры

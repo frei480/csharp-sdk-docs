@@ -8,18 +8,8 @@
 ```csharp
 public bool fAscending { get; set; }
 ```
-```vb
-Public Property fAscending As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool fAscending {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

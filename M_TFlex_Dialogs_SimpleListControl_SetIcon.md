@@ -15,21 +15,8 @@ public void SetIcon(
 	Icon icon
 )
 ```
-```vb
-Public Sub SetIcon ( 
-	row As Integer,
-	column As Integer,
-	icon As Icon
-)
-```
-```cpp
-public:
-void SetIcon(
-	int row, 
-	int column, 
-	Icon^ icon
-)
-```
+
+
 
 
 #### Параметры

@@ -11,19 +11,8 @@ public static void Fatal(
 	Object arg
 )
 ```
-```vb
-Public Shared Sub Fatal ( 
-	format As String,
-	arg As Object
-)
-```
-```cpp
-public:
-static void Fatal(
-	String^ format, 
-	Object^ arg
-)
-```
+
+
 
 
 #### Параметры

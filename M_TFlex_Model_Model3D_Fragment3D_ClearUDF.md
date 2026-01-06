@@ -11,13 +11,8 @@
 ```csharp
 public void ClearUDF()
 ```
-```vb
-Public Sub ClearUDF
-```
-```cpp
-public:
-void ClearUDF()
-```
+
+
 
 
 #### Ссылки

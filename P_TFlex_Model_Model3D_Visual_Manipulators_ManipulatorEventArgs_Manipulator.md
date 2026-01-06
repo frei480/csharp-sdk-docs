@@ -8,18 +8,8 @@
 ```csharp
 public Manipulator Manipulator { get; set; }
 ```
-```vb
-Public Property Manipulator As Manipulator
-	Get
-	Set
-```
-```cpp
-public:
-property Manipulator^ Manipulator {
-	Manipulator^ get ();
-	void set (Manipulator^ value);
-}
-```
+
+
 
 
 #### Значение свойства

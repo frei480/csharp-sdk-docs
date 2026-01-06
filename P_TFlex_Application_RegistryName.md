@@ -11,16 +11,8 @@
 ```csharp
 public static string RegistryName { get; }
 ```
-```vb
-Public Shared ReadOnly Property RegistryName As String
-	Get
-```
-```cpp
-public:
-static property String^ RegistryName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

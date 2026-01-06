@@ -11,18 +11,8 @@
 ```csharp
 public bool KeepFacesMaterial { get; set; }
 ```
-```vb
-Public Property KeepFacesMaterial As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool KeepFacesMaterial {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

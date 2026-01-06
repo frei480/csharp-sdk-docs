@@ -8,18 +8,8 @@
 ```csharp
 public InheritChainsType InheritChainsWhenInsertComponent { get; set; }
 ```
-```vb
-Public Property InheritChainsWhenInsertComponent As InheritChainsType
-	Get
-	Set
-```
-```cpp
-public:
-property InheritChainsType InheritChainsWhenInsertComponent {
-	InheritChainsType get ();
-	void set (InheritChainsType value);
-}
-```
+
+
 
 
 #### Значение свойства

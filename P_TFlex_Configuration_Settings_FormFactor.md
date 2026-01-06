@@ -8,16 +8,8 @@
 ```csharp
 public FormFactor FormFactor { get; }
 ```
-```vb
-Public ReadOnly Property FormFactor As FormFactor
-	Get
-```
-```cpp
-public:
-property FormFactor^ FormFactor {
-	FormFactor^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

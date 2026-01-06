@@ -13,13 +13,8 @@
 ```csharp
 public class NativeWindow : UiObject
 ```
-```vb
-Public Class NativeWindow
-	Inherits UiObject
-```
-```cpp
-public ref class NativeWindow : public UiObject
-```
+
+
 
 
 Тип NativeWindow предоставляет следующие члены.

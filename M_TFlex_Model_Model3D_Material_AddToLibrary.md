@@ -11,13 +11,8 @@
 ```csharp
 public void AddToLibrary()
 ```
-```vb
-Public Sub AddToLibrary
-```
-```cpp
-public:
-void AddToLibrary()
-```
+
+
 
 
 #### Ссылки

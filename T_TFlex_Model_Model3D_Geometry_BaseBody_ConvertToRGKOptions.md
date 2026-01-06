@@ -13,12 +13,8 @@
 ```csharp
 public class ConvertToRGKOptions
 ```
-```vb
-Public Class ConvertToRGKOptions
-```
-```cpp
-public ref class ConvertToRGKOptions
-```
+
+
 
 
 Тип BaseBodyConvertToRGKOptions предоставляет следующие члены.

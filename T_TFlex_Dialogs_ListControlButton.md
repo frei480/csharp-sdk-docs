@@ -13,13 +13,8 @@
 ```csharp
 public class ListControlButton : ToolButton
 ```
-```vb
-Public Class ListControlButton
-	Inherits ToolButton
-```
-```cpp
-public ref class ListControlButton : public ToolButton
-```
+
+
 
 
 Тип ListControlButton предоставляет следующие члены.

@@ -16,23 +16,8 @@ protected void RegisterAutomenuIcons(
 	int[] CmdIDs
 )
 ```
-```vb
-<ObsoleteAttribute("Not fully supported. Specify icons in RegisterAutomenuCommand instead.")>
-Protected Sub RegisterAutomenuIcons ( 
-	BmpSmall As Bitmap,
-	BmpLarge As Bitmap,
-	CmdIDs As Integer()
-)
-```
-```cpp
-protected:
-[ObsoleteAttribute(L"Not fully supported. Specify icons in RegisterAutomenuCommand instead.")]
-void RegisterAutomenuIcons(
-	Bitmap^ BmpSmall, 
-	Bitmap^ BmpLarge, 
-	array<int>^ CmdIDs
-)
-```
+
+
 
 
 #### Параметры

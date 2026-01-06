@@ -8,16 +8,8 @@
 ```csharp
 public BaseTopol ToolTopol { get; }
 ```
-```vb
-Public ReadOnly Property ToolTopol As BaseTopol
-	Get
-```
-```cpp
-public:
-property BaseTopol^ ToolTopol {
-	BaseTopol^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public TerminalPoint CreateTerminalPoint(
 	PinInfo pinOfSocket
 )
 ```
-```vb
-Public Function CreateTerminalPoint ( 
-	pinOfSocket As PinInfo
-) As TerminalPoint
-```
-```cpp
-public:
-TerminalPoint^ CreateTerminalPoint(
-	PinInfo^ pinOfSocket
-)
-```
+
+
 
 
 #### Параметры

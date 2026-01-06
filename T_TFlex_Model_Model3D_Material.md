@@ -13,13 +13,8 @@
 ```csharp
 public class Material : ModelObject
 ```
-```vb
-Public Class Material
-	Inherits ModelObject
-```
-```cpp
-public ref class Material : public ModelObject
-```
+
+
 
 
 Тип Material предоставляет следующие члены.

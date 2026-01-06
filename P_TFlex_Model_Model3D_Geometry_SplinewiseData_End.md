@@ -11,18 +11,8 @@
 ```csharp
 public SplinewiseDataEndType End { get; set; }
 ```
-```vb
-Public Property End As SplinewiseDataEndType
-	Get
-	Set
-```
-```cpp
-public:
-property SplinewiseDataEndType End {
-	SplinewiseDataEndType get ();
-	void set (SplinewiseDataEndType value);
-}
-```
+
+
 
 
 #### Значение свойства

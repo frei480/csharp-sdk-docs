@@ -8,18 +8,8 @@
 ```csharp
 public bool ShowStartupDlg { get; set; }
 ```
-```vb
-Public Property ShowStartupDlg As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowStartupDlg {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

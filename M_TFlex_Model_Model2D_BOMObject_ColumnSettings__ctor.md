@@ -11,13 +11,8 @@
 ```csharp
 public ColumnSettings()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ColumnSettings()
-```
+
+
 
 
 #### Ссылки

@@ -11,16 +11,8 @@
 ```csharp
 public static Document ActiveDocument { get; }
 ```
-```vb
-Public Shared ReadOnly Property ActiveDocument As Document
-	Get
-```
-```cpp
-public:
-static property Document^ ActiveDocument {
-	Document^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

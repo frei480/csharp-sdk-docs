@@ -13,13 +13,8 @@
 ```csharp
 public class ListControl : BaseControl
 ```
-```vb
-Public Class ListControl
-	Inherits BaseControl
-```
-```cpp
-public ref class ListControl : public BaseControl
-```
+
+
 
 
 Тип ListControl предоставляет следующие члены.

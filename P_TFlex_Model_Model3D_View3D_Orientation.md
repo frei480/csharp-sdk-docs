@@ -8,18 +8,8 @@
 ```csharp
 public Quaternion Orientation { get; set; }
 ```
-```vb
-Public Property Orientation As Quaternion
-	Get
-	Set
-```
-```cpp
-public:
-property Quaternion Orientation {
-	Quaternion get ();
-	void set (Quaternion value);
-}
-```
+
+
 
 
 #### Значение свойства

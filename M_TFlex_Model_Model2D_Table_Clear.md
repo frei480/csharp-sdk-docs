@@ -13,17 +13,8 @@ public void Clear(
 	uint cell
 )
 ```
-```vb
-Public Sub Clear ( 
-	cell As UInteger
-)
-```
-```cpp
-public:
-void Clear(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

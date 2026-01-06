@@ -11,13 +11,8 @@
 ```csharp
 public double GetCommitedOffset()
 ```
-```vb
-Public Function GetCommitedOffset As Double
-```
-```cpp
-public:
-double GetCommitedOffset()
-```
+
+
 
 
 #### Возвращаемое значение

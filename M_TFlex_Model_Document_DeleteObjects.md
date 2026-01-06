@@ -14,19 +14,8 @@ public bool DeleteObjects(
 	DeleteOptions options
 )
 ```
-```vb
-Public Function DeleteObjects ( 
-	objects As ObjectArray,
-	options As DeleteOptions
-) As Boolean
-```
-```cpp
-public:
-bool DeleteObjects(
-	ObjectArray^ objects, 
-	DeleteOptions^ options
-)
-```
+
+
 
 
 #### Параметры

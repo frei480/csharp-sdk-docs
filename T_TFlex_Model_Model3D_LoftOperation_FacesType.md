@@ -11,12 +11,8 @@
 ```csharp
 public enum FacesType
 ```
-```vb
-Public Enumeration FacesType
-```
-```cpp
-public enum class FacesType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -8,16 +8,8 @@
 ```csharp
 public FirstCharacter FirstCharacter { get; }
 ```
-```vb
-Public ReadOnly Property FirstCharacter As FirstCharacter
-	Get
-```
-```cpp
-public:
-property FirstCharacter^ FirstCharacter {
-	FirstCharacter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

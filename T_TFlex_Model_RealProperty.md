@@ -13,12 +13,8 @@
 ```csharp
 public class RealProperty
 ```
-```vb
-Public Class RealProperty
-```
-```cpp
-public ref class RealProperty
-```
+
+
 
 
 Тип RealProperty предоставляет следующие члены.

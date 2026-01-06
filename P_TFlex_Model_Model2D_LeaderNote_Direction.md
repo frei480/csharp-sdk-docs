@@ -11,18 +11,8 @@
 ```csharp
 public LeaderNoteDirection Direction { get; set; }
 ```
-```vb
-Public Property Direction As LeaderNoteDirection
-	Get
-	Set
-```
-```cpp
-public:
-property LeaderNoteDirection Direction {
-	LeaderNoteDirection get ();
-	void set (LeaderNoteDirection value);
-}
-```
+
+
 
 
 #### Значение свойства

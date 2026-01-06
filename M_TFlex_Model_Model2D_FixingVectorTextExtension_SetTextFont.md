@@ -12,23 +12,8 @@ public static void SetTextFont(
 	FontOptions __unnamed002
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SetTextFont ( 
-	__unnamed000 As FixingVector,
-	iText As Integer,
-	__unnamed002 As FontOptions
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SetTextFont(
-	FixingVector^ __unnamed000, 
-	int iText, 
-	FontOptions^ __unnamed002
-)
-```
+
+
 
 
 #### Параметры

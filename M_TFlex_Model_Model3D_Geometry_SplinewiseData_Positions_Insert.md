@@ -14,19 +14,8 @@ public void Insert(
 	SplinewiseDataPositionsPosition point
 )
 ```
-```vb
-Public Sub Insert ( 
-	Index As UInteger,
-	point As SplinewiseDataPositionsPosition
-)
-```
-```cpp
-public:
-void Insert(
-	unsigned int Index, 
-	SplinewiseDataPositionsPosition^ point
-)
-```
+
+
 
 
 #### Параметры

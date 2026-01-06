@@ -11,13 +11,8 @@
 ```csharp
 public virtual bool ShowDialog()
 ```
-```vb
-Public Overridable Function ShowDialog As Boolean
-```
-```cpp
-public:
-virtual bool ShowDialog()
-```
+
+
 
 
 #### Возвращаемое значение

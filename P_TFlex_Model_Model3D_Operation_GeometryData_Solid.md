@@ -11,16 +11,8 @@
 ```csharp
 public ModelSolid Solid { get; }
 ```
-```vb
-Public ReadOnly Property Solid As ModelSolid
-	Get
-```
-```cpp
-public:
-property ModelSolid^ Solid {
-	ModelSolid^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

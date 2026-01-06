@@ -11,16 +11,8 @@
 ```csharp
 public BasePipePipeSegmentType Type { get; }
 ```
-```vb
-Public ReadOnly Property Type As BasePipePipeSegmentType
-	Get
-```
-```cpp
-public:
-property BasePipePipeSegmentType Type {
-	BasePipePipeSegmentType get ();
-}
-```
+
+
 
 
 #### Значение свойства

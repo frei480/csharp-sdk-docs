@@ -11,13 +11,8 @@
 ```csharp
 public MaterialPopupProperties()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MaterialPopupProperties()
-```
+
+
 
 
 #### Ссылки

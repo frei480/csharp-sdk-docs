@@ -13,17 +13,8 @@ public static Document NewDocument(
 	string prototype
 )
 ```
-```vb
-Public Shared Function NewDocument ( 
-	prototype As String
-) As Document
-```
-```cpp
-public:
-static Document^ NewDocument(
-	String^ prototype
-)
-```
+
+
 
 
 #### Параметры

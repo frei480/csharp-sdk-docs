@@ -11,13 +11,8 @@
 ```csharp
 public void AddRegenerate3DAction()
 ```
-```vb
-Public Sub AddRegenerate3DAction
-```
-```cpp
-public:
-void AddRegenerate3DAction()
-```
+
+
 
 
 #### Ссылки

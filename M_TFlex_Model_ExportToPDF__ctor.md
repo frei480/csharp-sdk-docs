@@ -13,17 +13,8 @@ public ExportToPDF(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToPDF(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

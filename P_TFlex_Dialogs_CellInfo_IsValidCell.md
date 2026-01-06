@@ -8,16 +8,8 @@
 ```csharp
 public bool IsValidCell { get; }
 ```
-```vb
-Public ReadOnly Property IsValidCell As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsValidCell {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

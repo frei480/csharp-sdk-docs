@@ -8,18 +8,8 @@
 ```csharp
 public SceneNode Hires { get; set; }
 ```
-```vb
-Public Property Hires As SceneNode
-	Get
-	Set
-```
-```cpp
-public:
-property SceneNode^ Hires {
-	SceneNode^ get ();
-	void set (SceneNode^ value);
-}
-```
+
+
 
 
 #### Значение свойства

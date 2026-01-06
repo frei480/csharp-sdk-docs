@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Torque
 ```
-```vb
-Public NotInheritable Class Torque
-```
-```cpp
-public ref class Torque sealed
-```
+
+
 
 
 Тип StandardUnitsTorque предоставляет следующие члены.

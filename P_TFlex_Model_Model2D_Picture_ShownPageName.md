@@ -11,18 +11,8 @@
 ```csharp
 public string ShownPageName { get; set; }
 ```
-```vb
-Public Property ShownPageName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ShownPageName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

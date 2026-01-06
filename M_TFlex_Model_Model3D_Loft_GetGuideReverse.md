@@ -13,17 +13,8 @@ public bool GetGuideReverse(
 	int guideIndex
 )
 ```
-```vb
-Public Function GetGuideReverse ( 
-	guideIndex As Integer
-) As Boolean
-```
-```cpp
-public:
-bool GetGuideReverse(
-	int guideIndex
-)
-```
+
+
 
 
 #### Параметры

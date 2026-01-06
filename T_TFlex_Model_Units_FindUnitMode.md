@@ -9,14 +9,8 @@
 [FlagsAttribute]
 public enum FindUnitMode
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration FindUnitMode
-```
-```cpp
-[FlagsAttribute]
-public enum class FindUnitMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -14,15 +14,8 @@
 public sealed class ModelTorusSurface : ModelSurface, 
 	BaseTorusSurface
 ```
-```vb
-Public NotInheritable Class ModelTorusSurface
-	Inherits ModelSurface
-	Implements BaseTorusSurface
-```
-```cpp
-public ref class ModelTorusSurface sealed : public ModelSurface, 
-	BaseTorusSurface
-```
+
+
 
 
 Тип ModelTorusSurface предоставляет следующие члены.

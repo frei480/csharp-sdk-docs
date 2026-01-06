@@ -15,21 +15,8 @@ public void SetValue(
 	Unit unit
 )
 ```
-```vb
-Public Sub SetValue ( 
-	value As Double,
-	variable As Variable,
-	unit As Unit
-)
-```
-```cpp
-public:
-void SetValue(
-	double value, 
-	Variable^ variable, 
-	Unit^ unit
-)
-```
+
+
 
 
 #### Параметры

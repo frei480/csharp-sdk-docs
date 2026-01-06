@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Volume
 ```
-```vb
-Public NotInheritable Class Volume
-```
-```cpp
-public ref class Volume sealed
-```
+
+
 
 
 Тип StandardUnitsVolume предоставляет следующие члены.

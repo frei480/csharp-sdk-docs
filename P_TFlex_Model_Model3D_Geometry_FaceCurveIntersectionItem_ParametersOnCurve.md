@@ -11,16 +11,8 @@
 ```csharp
 public double ParametersOnCurve { get; }
 ```
-```vb
-Public ReadOnly Property ParametersOnCurve As Double
-	Get
-```
-```cpp
-public:
-property double ParametersOnCurve {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

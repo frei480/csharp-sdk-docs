@@ -11,13 +11,8 @@
 ```csharp
 public bool SaveModified()
 ```
-```vb
-Public Function SaveModified As Boolean
-```
-```cpp
-public:
-bool SaveModified()
-```
+
+
 
 
 #### Возвращаемое значение

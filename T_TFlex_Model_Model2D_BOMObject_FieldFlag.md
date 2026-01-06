@@ -8,12 +8,8 @@
 ```csharp
 public enum FieldFlag
 ```
-```vb
-Public Enumeration FieldFlag
-```
-```cpp
-public enum class FieldFlag
-```
+
+
 
 
 | Имя члена | Значение | Описание |

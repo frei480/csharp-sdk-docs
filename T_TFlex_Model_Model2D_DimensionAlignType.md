@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionAlignType
 ```
-```vb
-Public Enumeration DimensionAlignType
-```
-```cpp
-public enum class DimensionAlignType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,12 +11,8 @@
 ```csharp
 public class Node
 ```
-```vb
-Public Class Node
-```
-```cpp
-public ref class Node
-```
+
+
 
 
 Тип Node предоставляет следующие члены.

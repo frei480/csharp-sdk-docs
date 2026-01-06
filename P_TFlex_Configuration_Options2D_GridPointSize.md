@@ -12,20 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'PageProperties.PageGrid.PointSize' property.")]
 public int GridPointSize { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'PageProperties.PageGrid.PointSize' property.")>
-Public Property GridPointSize As Integer
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'PageProperties.PageGrid.PointSize' property.")]
-property int GridPointSize {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

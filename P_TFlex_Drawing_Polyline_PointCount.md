@@ -13,18 +13,8 @@ public int this[
 	int Contour
 ] { get; }
 ```
-```vb
-Public ReadOnly Property PointCount ( 
-	Contour As Integer
-) As Integer
-	Get
-```
-```cpp
-public:
-property int PointCount[int Contour] {
-	int get (int Contour);
-}
-```
+
+
 
 
 #### Параметры

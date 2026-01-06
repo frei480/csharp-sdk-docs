@@ -11,16 +11,8 @@ X-координата второй точки прямой или конц�
 ```csharp
 public double X2 { get; }
 ```
-```vb
-Public ReadOnly Property X2 As Double
-	Get
-```
-```cpp
-public:
-property double X2 {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,16 +8,8 @@
 ```csharp
 public SnapInfo Image { get; }
 ```
-```vb
-Public ReadOnly Property Image As SnapInfo
-	Get
-```
-```cpp
-public:
-property SnapInfo^ Image {
-	SnapInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

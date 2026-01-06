@@ -11,18 +11,8 @@
 ```csharp
 public string OutlinePatternName { get; set; }
 ```
-```vb
-Public Property OutlinePatternName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ OutlinePatternName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

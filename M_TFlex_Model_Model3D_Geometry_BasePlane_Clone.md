@@ -8,13 +8,8 @@
 ```csharp
 public Object Clone()
 ```
-```vb
-Public Function Clone As Object
-```
-```cpp
-public:
-Object^ Clone()
-```
+
+
 
 
 #### Возвращаемое значение

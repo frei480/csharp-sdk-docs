@@ -10,16 +10,8 @@ public delegate void GeometricArrayAfterAdd(
 	Geometry geometry
 )
 ```
-```vb
-Public Delegate Sub GeometricArrayAfterAdd ( 
-	geometry As Geometry
-)
-```
-```cpp
-public delegate void GeometricArrayAfterAdd(
-	Geometry^ geometry
-)
-```
+
+
 
 
 #### Параметры

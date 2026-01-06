@@ -11,13 +11,8 @@
 ```csharp
 public LibraryConfigurations()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LibraryConfigurations()
-```
+
+
 
 
 #### Ссылки

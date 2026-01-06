@@ -11,13 +11,8 @@
 ```csharp
 public GroupingNode()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-GroupingNode()
-```
+
+
 
 
 #### Ссылки

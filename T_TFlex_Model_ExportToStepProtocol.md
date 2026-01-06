@@ -11,12 +11,8 @@
 ```csharp
 public enum ExportToStepProtocol
 ```
-```vb
-Public Enumeration ExportToStepProtocol
-```
-```cpp
-public enum class ExportToStepProtocol
-```
+
+
 
 
 | Имя члена | Значение | Описание |

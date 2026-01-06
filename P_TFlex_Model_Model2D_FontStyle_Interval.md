@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Interval { get; set; }
 ```
-```vb
-Public Property Interval As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Interval {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

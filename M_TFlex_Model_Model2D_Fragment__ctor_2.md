@@ -16,23 +16,8 @@ public Fragment(
 	bool autoSave
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	filePath As String,
-	copy As Boolean,
-	autoSave As Boolean
-)
-```
-```cpp
-public:
-Fragment(
-	Document^ document, 
-	String^ filePath, 
-	bool copy, 
-	bool autoSave
-)
-```
+
+
 
 
 #### Параметры

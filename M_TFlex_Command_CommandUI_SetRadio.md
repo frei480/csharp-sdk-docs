@@ -11,13 +11,8 @@
 ```csharp
 public void SetRadio()
 ```
-```vb
-Public Sub SetRadio
-```
-```cpp
-public:
-void SetRadio()
-```
+
+
 
 
 #### Ссылки

@@ -11,18 +11,8 @@
 ```csharp
 public SweepGeneratorTopologyFormType TopologyForm { get; set; }
 ```
-```vb
-Public Property TopologyForm As SweepGeneratorTopologyFormType
-	Get
-	Set
-```
-```cpp
-public:
-property SweepGeneratorTopologyFormType TopologyForm {
-	SweepGeneratorTopologyFormType get ();
-	void set (SweepGeneratorTopologyFormType value);
-}
-```
+
+
 
 
 #### Значение свойства

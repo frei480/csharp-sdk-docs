@@ -14,19 +14,8 @@ public void SetSingleObject(
 	bool endUserEdit
 )
 ```
-```vb
-Public Sub SetSingleObject ( 
-	modelObject As ModelObject,
-	endUserEdit As Boolean
-)
-```
-```cpp
-public:
-void SetSingleObject(
-	ModelObject^ modelObject, 
-	bool endUserEdit
-)
-```
+
+
 
 
 #### Параметры

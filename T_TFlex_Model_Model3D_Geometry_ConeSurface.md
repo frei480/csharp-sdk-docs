@@ -14,15 +14,8 @@
 public class ConeSurface : Surface, 
 	BaseConeSurface
 ```
-```vb
-Public Class ConeSurface
-	Inherits Surface
-	Implements BaseConeSurface
-```
-```cpp
-public ref class ConeSurface : public Surface, 
-	BaseConeSurface
-```
+
+
 
 
 Тип ConeSurface предоставляет следующие члены.

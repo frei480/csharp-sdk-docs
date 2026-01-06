@@ -11,13 +11,8 @@
 ```csharp
 public CellInfo()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CellInfo()
-```
+
+
 
 
 #### Ссылки

@@ -11,19 +11,8 @@ protected void SetRadialDimensionType(
 	bool is_3d
 )
 ```
-```vb
-Protected Sub SetRadialDimensionType ( 
-	type As RadialDimensionType,
-	is_3d As Boolean
-)
-```
-```cpp
-protected:
-void SetRadialDimensionType(
-	RadialDimensionType type, 
-	bool is_3d
-)
-```
+
+
 
 
 #### Параметры

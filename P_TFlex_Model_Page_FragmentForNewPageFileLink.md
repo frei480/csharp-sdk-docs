@@ -11,18 +11,8 @@
 ```csharp
 public FileLink FragmentForNewPageFileLink { get; set; }
 ```
-```vb
-Public Property FragmentForNewPageFileLink As FileLink
-	Get
-	Set
-```
-```cpp
-public:
-property FileLink^ FragmentForNewPageFileLink {
-	FileLink^ get ();
-	void set (FileLink^ value);
-}
-```
+
+
 
 
 #### Значение свойства

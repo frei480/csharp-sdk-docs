@@ -11,18 +11,8 @@
 ```csharp
 public Parameter OutlineWidth { get; set; }
 ```
-```vb
-Public Property OutlineWidth As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ OutlineWidth {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public bool AssemblyMode { get; set; }
 ```
-```vb
-Public Property AssemblyMode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AssemblyMode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

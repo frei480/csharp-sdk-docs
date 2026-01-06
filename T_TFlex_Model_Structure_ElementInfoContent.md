@@ -9,14 +9,8 @@
 [FlagsAttribute]
 public enum ElementInfoContent
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration ElementInfoContent
-```
-```cpp
-[FlagsAttribute]
-public enum class ElementInfoContent
-```
+
+
 
 
 | Имя члена | Значение | Описание |

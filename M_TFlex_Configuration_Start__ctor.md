@@ -11,13 +11,8 @@
 ```csharp
 public Start()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Start()
-```
+
+
 
 
 #### Ссылки

@@ -8,18 +8,8 @@
 ```csharp
 public RotationMouseButtonType RotationMouseButton { get; set; }
 ```
-```vb
-Public Property RotationMouseButton As RotationMouseButtonType
-	Get
-	Set
-```
-```cpp
-public:
-property RotationMouseButtonType RotationMouseButton {
-	RotationMouseButtonType get ();
-	void set (RotationMouseButtonType value);
-}
-```
+
+
 
 
 #### Значение свойства

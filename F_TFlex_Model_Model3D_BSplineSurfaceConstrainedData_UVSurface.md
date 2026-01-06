@@ -8,13 +8,8 @@
 ```csharp
 public Surface UVSurface
 ```
-```vb
-Public UVSurface As Surface
-```
-```cpp
-public:
-Surface^ UVSurface
-```
+
+
 
 
 #### Значение поля

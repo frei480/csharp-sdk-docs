@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool AutoSize { get; set; }
 ```
-```vb
-Public Overridable Property AutoSize As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool AutoSize {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

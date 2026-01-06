@@ -8,18 +8,8 @@
 ```csharp
 public int FindConstrainsLimitNumber { get; set; }
 ```
-```vb
-Public Property FindConstrainsLimitNumber As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int FindConstrainsLimitNumber {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

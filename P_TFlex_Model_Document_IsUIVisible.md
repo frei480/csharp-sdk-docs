@@ -11,16 +11,8 @@
 ```csharp
 public bool IsUIVisible { get; }
 ```
-```vb
-Public ReadOnly Property IsUIVisible As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsUIVisible {
-	bool get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

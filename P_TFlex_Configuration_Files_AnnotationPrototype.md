@@ -8,18 +8,8 @@
 ```csharp
 public string AnnotationPrototype { get; set; }
 ```
-```vb
-Public Property AnnotationPrototype As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ AnnotationPrototype {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

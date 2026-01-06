@@ -11,18 +11,8 @@
 ```csharp
 public int ConvertMultitext { get; set; }
 ```
-```vb
-Public Property ConvertMultitext As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ConvertMultitext {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

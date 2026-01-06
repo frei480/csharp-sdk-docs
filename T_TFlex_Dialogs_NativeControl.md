@@ -13,13 +13,8 @@
 ```csharp
 public class NativeControl : BaseControl
 ```
-```vb
-Public Class NativeControl
-	Inherits BaseControl
-```
-```cpp
-public ref class NativeControl : public BaseControl
-```
+
+
 
 
 Тип NativeControl предоставляет следующие члены.

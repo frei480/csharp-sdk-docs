@@ -13,12 +13,8 @@
 ```csharp
 public class FileUserData
 ```
-```vb
-Public Class FileUserData
-```
-```cpp
-public ref class FileUserData
-```
+
+
 
 
 Тип FragmentFileUserData предоставляет следующие члены.

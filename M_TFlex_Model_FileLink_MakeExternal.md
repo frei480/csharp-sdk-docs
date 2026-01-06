@@ -13,17 +13,8 @@ public void MakeExternal(
 	string filePath
 )
 ```
-```vb
-Public Sub MakeExternal ( 
-	filePath As String
-)
-```
-```cpp
-public:
-void MakeExternal(
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

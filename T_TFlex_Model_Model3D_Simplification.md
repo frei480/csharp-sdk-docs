@@ -13,13 +13,8 @@
 ```csharp
 public class Simplification : Operation
 ```
-```vb
-Public Class Simplification
-	Inherits Operation
-```
-```cpp
-public ref class Simplification : public Operation
-```
+
+
 
 
 Тип Simplification предоставляет следующие члены.

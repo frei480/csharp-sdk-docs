@@ -10,17 +10,8 @@ public ElementType FindType(
 	Guid typeID
 )
 ```
-```vb
-Public Function FindType ( 
-	typeID As Guid
-) As ElementType
-```
-```cpp
-public:
-ElementType^ FindType(
-	Guid typeID
-)
-```
+
+
 
 
 #### Параметры

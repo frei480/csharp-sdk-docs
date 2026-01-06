@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Menu : IDisposable
 ```
-```vb
-Public NotInheritable Class Menu
-	Implements IDisposable
-```
-```cpp
-public ref class Menu sealed : IDisposable
-```
+
+
 
 
 Тип Menu предоставляет следующие члены.

@@ -13,17 +13,8 @@ protected virtual void ShowingImportDialogEventHandler(
 	ShowingImportExportDialogEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub ShowingImportDialogEventHandler ( 
-	args As ShowingImportExportDialogEventArgs
-)
-```
-```cpp
-protected:
-virtual void ShowingImportDialogEventHandler(
-	ShowingImportExportDialogEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

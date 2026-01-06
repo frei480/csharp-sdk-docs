@@ -11,13 +11,8 @@
 ```csharp
 public bool CanSetAutomaticCouplingPoint()
 ```
-```vb
-Public Function CanSetAutomaticCouplingPoint As Boolean
-```
-```cpp
-public:
-bool CanSetAutomaticCouplingPoint()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,13 +11,8 @@
 ```csharp
 public RadiusDragger()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RadiusDragger()
-```
+
+
 
 
 #### Ссылки

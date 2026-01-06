@@ -13,13 +13,8 @@
 ```csharp
 public class OnPointsWorkplane : Model3DWorkplane
 ```
-```vb
-Public Class OnPointsWorkplane
-	Inherits Model3DWorkplane
-```
-```cpp
-public ref class OnPointsWorkplane : public Model3DWorkplane
-```
+
+
 
 
 Тип OnPointsWorkplane предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public override Point3D Position { get; }
 ```
-```vb
-Public Overrides ReadOnly Property Position As Point3D
-	Get
-```
-```cpp
-public:
-virtual property Point3D^ Position {
-	Point3D^ get () override;
-}
-```
+
+
 
 
 #### Значение свойства

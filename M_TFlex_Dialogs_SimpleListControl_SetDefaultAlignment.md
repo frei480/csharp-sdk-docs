@@ -11,19 +11,8 @@ public void SetDefaultAlignment(
 	ListItemAlignment? alignment
 )
 ```
-```vb
-Public Sub SetDefaultAlignment ( 
-	column As Integer,
-	alignment As ListItemAlignment?
-)
-```
-```cpp
-public:
-void SetDefaultAlignment(
-	int column, 
-	Nullable<ListItemAlignment> alignment
-)
-```
+
+
 
 
 #### Параметры

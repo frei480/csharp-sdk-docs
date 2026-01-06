@@ -11,13 +11,8 @@
 ```csharp
 public class CompoundStringParameter : BaseParameter
 ```
-```vb
-Public Class CompoundStringParameter
-	Inherits BaseParameter
-```
-```cpp
-public ref class CompoundStringParameter : public BaseParameter
-```
+
+
 
 
 Тип CompoundStringParameter предоставляет следующие члены.

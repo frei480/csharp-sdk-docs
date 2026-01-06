@@ -14,19 +14,8 @@ public SelectControl(
 	SelectControlMode mode
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	mode As SelectControlMode
-)
-```
-```cpp
-public:
-SelectControl(
-	String^ id, 
-	SelectControlMode mode
-)
-```
+
+
 
 
 #### Параметры

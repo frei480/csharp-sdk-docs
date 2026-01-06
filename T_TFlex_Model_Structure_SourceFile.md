@@ -11,13 +11,8 @@
 ```csharp
 public sealed class SourceFile : IDisposable
 ```
-```vb
-Public NotInheritable Class SourceFile
-	Implements IDisposable
-```
-```cpp
-public ref class SourceFile sealed : IDisposable
-```
+
+
 
 
 Тип SourceFile предоставляет следующие члены.

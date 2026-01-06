@@ -8,18 +8,8 @@
 ```csharp
 public HorizontalDirection LeftToRight { get; set; }
 ```
-```vb
-Public Property LeftToRight As HorizontalDirection
-	Get
-	Set
-```
-```cpp
-public:
-property HorizontalDirection LeftToRight {
-	HorizontalDirection get ();
-	void set (HorizontalDirection value);
-}
-```
+
+
 
 
 #### Значение свойства

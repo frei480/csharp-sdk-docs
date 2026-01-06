@@ -15,21 +15,8 @@ public void SetRowSpan(
 	int rowSpan
 )
 ```
-```vb
-Public Sub SetRowSpan ( 
-	row As Integer,
-	column As Integer,
-	rowSpan As Integer
-)
-```
-```cpp
-public:
-void SetRowSpan(
-	int row, 
-	int column, 
-	int rowSpan
-)
-```
+
+
 
 
 #### Параметры

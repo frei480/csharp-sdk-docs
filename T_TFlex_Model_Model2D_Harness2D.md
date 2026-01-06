@@ -13,13 +13,8 @@
 ```csharp
 public class Harness2D : Object2D
 ```
-```vb
-Public Class Harness2D
-	Inherits Object2D
-```
-```cpp
-public ref class Harness2D : public Object2D
-```
+
+
 
 
 Тип Harness2D предоставляет следующие члены.

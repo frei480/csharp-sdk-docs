@@ -8,18 +8,8 @@
 ```csharp
 public Explode2DFragmentType Explode2DFragment { get; set; }
 ```
-```vb
-Public Property Explode2DFragment As Explode2DFragmentType
-	Get
-	Set
-```
-```cpp
-public:
-property Explode2DFragmentType Explode2DFragment {
-	Explode2DFragmentType get ();
-	void set (Explode2DFragmentType value);
-}
-```
+
+
 
 
 #### Значение свойства

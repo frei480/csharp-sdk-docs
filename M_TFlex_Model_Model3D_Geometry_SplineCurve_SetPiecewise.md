@@ -13,17 +13,8 @@ public void SetPiecewise(
 	PiecewiseData data
 )
 ```
-```vb
-Public Sub SetPiecewise ( 
-	data As PiecewiseData
-)
-```
-```cpp
-public:
-void SetPiecewise(
-	PiecewiseData^ data
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public static void Trace(
 	string message
 )
 ```
-```vb
-Public Shared Sub Trace ( 
-	message As String
-)
-```
-```cpp
-public:
-static void Trace(
-	String^ message
-)
-```
+
+
 
 
 #### Параметры

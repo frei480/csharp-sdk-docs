@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Thickness2 { get; set; }
 ```
-```vb
-Public Property Thickness2 As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Thickness2 {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

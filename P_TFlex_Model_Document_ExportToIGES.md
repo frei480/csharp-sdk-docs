@@ -11,16 +11,8 @@
 ```csharp
 public ExportToIGES ExportToIGES { get; }
 ```
-```vb
-Public ReadOnly Property ExportToIGES As ExportToIGES
-	Get
-```
-```cpp
-public:
-property ExportToIGES^ ExportToIGES {
-	ExportToIGES^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

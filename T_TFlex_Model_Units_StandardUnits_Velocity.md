@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Velocity
 ```
-```vb
-Public NotInheritable Class Velocity
-```
-```cpp
-public ref class Velocity sealed
-```
+
+
 
 
 Тип StandardUnitsVelocity предоставляет следующие члены.

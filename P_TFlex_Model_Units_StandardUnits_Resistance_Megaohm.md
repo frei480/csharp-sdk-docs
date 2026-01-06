@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Megaohm { get; }
 ```
-```vb
-Public Shared ReadOnly Property Megaohm As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Megaohm {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

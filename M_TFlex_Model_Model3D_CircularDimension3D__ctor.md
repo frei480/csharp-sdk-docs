@@ -13,17 +13,8 @@ public CircularDimension3D(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-CircularDimension3D(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

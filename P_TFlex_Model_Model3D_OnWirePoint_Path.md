@@ -11,18 +11,8 @@
 ```csharp
 public Wire Path { get; set; }
 ```
-```vb
-Public Property Path As Wire
-	Get
-	Set
-```
-```cpp
-public:
-property Wire^ Path {
-	Wire^ get ();
-	void set (Wire^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void AddRow(
 	Object data
 )
 ```
-```vb
-Public Sub AddRow ( 
-	data As Object
-)
-```
-```cpp
-public:
-void AddRow(
-	Object^ data
-)
-```
+
+
 
 
 #### Параметры

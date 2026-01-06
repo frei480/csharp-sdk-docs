@@ -11,18 +11,8 @@
 ```csharp
 public IDisposable DecorationManager { get; set; }
 ```
-```vb
-Public Property DecorationManager As IDisposable
-	Get
-	Set
-```
-```cpp
-public:
-property IDisposable^ DecorationManager {
-	IDisposable^ get ();
-	void set (IDisposable^ value);
-}
-```
+
+
 
 
 #### Значение свойства

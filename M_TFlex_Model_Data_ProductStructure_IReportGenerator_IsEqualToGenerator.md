@@ -10,16 +10,8 @@ bool IsEqualToGenerator(
 	IReportGenerator other
 )
 ```
-```vb
-Function IsEqualToGenerator ( 
-	other As IReportGenerator
-) As Boolean
-```
-```cpp
-bool IsEqualToGenerator(
-	IReportGenerator^ other
-)
-```
+
+
 
 
 #### Параметры

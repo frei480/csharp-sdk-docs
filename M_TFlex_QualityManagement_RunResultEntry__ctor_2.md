@@ -13,17 +13,8 @@ public RunResultEntry(
 	IEnumerable<ObjectId> ids
 )
 ```
-```vb
-Public Sub New ( 
-	ids As IEnumerable(Of ObjectId)
-)
-```
-```cpp
-public:
-RunResultEntry(
-	IEnumerable<ObjectId^>^ ids
-)
-```
+
+
 
 
 #### Параметры

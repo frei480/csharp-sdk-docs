@@ -11,12 +11,8 @@
 ```csharp
 public class MenuItem
 ```
-```vb
-Public Class MenuItem
-```
-```cpp
-public ref class MenuItem
-```
+
+
 
 
 Тип MenuItem предоставляет следующие члены.

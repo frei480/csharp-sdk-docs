@@ -10,16 +10,8 @@ public static implicit operator string (
 	RowElementGroupMergedCellValue val
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	val As RowElementGroupMergedCellValue
-) As String
-```
-```cpp
-static implicit operator String^ (
-	RowElementGroupMergedCellValue^ val
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public void SwitchAroundY()
 ```
-```vb
-Public Sub SwitchAroundY
-```
-```cpp
-public:
-void SwitchAroundY()
-```
+
+
 
 
 #### Ссылки

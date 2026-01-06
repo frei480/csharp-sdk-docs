@@ -11,12 +11,8 @@
 ```csharp
 public enum Fitting
 ```
-```vb
-Public Enumeration Fitting
-```
-```cpp
-public enum class Fitting
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,17 +13,8 @@ public UDF EditAssocParams(
 	bool check
 )
 ```
-```vb
-Public Function EditAssocParams ( 
-	check As Boolean
-) As UDF
-```
-```cpp
-public:
-UDF^ EditAssocParams(
-	bool check
-)
-```
+
+
 
 
 #### Параметры

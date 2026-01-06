@@ -13,17 +13,8 @@ public Direction PrincipalDirection1(
 	UV uv
 )
 ```
-```vb
-Public Function PrincipalDirection1 ( 
-	uv As UV
-) As Direction
-```
-```cpp
-public:
-Direction^ PrincipalDirection1(
-	UV uv
-)
-```
+
+
 
 
 #### Параметры

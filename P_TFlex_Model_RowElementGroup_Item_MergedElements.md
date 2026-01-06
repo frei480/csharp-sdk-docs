@@ -11,16 +11,8 @@
 ```csharp
 public List<RowElement> MergedElements { get; }
 ```
-```vb
-Public ReadOnly Property MergedElements As List(Of RowElement)
-	Get
-```
-```cpp
-public:
-property List<RowElement^>^ MergedElements {
-	List<RowElement^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

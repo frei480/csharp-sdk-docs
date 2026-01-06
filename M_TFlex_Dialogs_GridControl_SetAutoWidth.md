@@ -13,17 +13,8 @@ public void SetAutoWidth(
 	int columnIndex
 )
 ```
-```vb
-Public Sub SetAutoWidth ( 
-	columnIndex As Integer
-)
-```
-```cpp
-public:
-void SetAutoWidth(
-	int columnIndex
-)
-```
+
+
 
 
 #### Параметры

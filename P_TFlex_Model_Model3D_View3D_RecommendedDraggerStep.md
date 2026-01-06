@@ -11,16 +11,8 @@
 ```csharp
 public double RecommendedDraggerStep { get; }
 ```
-```vb
-Public ReadOnly Property RecommendedDraggerStep As Double
-	Get
-```
-```cpp
-public:
-property double RecommendedDraggerStep {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

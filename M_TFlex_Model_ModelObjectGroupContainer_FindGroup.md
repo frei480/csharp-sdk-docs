@@ -13,17 +13,8 @@ public ModelObjectGroup FindGroup(
 	string sName
 )
 ```
-```vb
-Public Function FindGroup ( 
-	sName As String
-) As ModelObjectGroup
-```
-```cpp
-public:
-ModelObjectGroup^ FindGroup(
-	String^ sName
-)
-```
+
+
 
 
 #### Параметры

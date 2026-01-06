@@ -13,17 +13,8 @@ public OnFaceOffsetPoint(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-OnFaceOffsetPoint(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

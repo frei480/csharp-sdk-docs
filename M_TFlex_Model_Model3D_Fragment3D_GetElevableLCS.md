@@ -11,13 +11,8 @@
 ```csharp
 public List<string> GetElevableLCS()
 ```
-```vb
-Public Function GetElevableLCS As List(Of String)
-```
-```cpp
-public:
-List<String^>^ GetElevableLCS()
-```
+
+
 
 
 #### Возвращаемое значение

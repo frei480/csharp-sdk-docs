@@ -13,17 +13,8 @@ public Transformation GetAt(
 	int index
 )
 ```
-```vb
-Public Function GetAt ( 
-	index As Integer
-) As Transformation
-```
-```cpp
-public:
-Transformation^ GetAt(
-	int index
-)
-```
+
+
 
 
 #### Параметры

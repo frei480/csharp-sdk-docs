@@ -14,19 +14,8 @@ public NodeSection(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	page As Page
-)
-```
-```cpp
-public:
-NodeSection(
-	Document^ Doc, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public RunResultEntryObjectIdsCollection ObjectIds { get; }
 ```
-```vb
-Public ReadOnly Property ObjectIds As RunResultEntryObjectIdsCollection
-	Get
-```
-```cpp
-public:
-property RunResultEntryObjectIdsCollection^ ObjectIds {
-	RunResultEntryObjectIdsCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

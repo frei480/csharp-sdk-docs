@@ -13,17 +13,8 @@ public GeomReference(
 	ModelAxis axis
 )
 ```
-```vb
-Public Sub New ( 
-	axis As ModelAxis
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelAxis^ axis
-)
-```
+
+
 
 
 #### Параметры

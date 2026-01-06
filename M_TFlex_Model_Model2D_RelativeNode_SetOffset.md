@@ -15,21 +15,8 @@ public void SetOffset(
 	Parameter dY
 )
 ```
-```vb
-Public Sub SetOffset ( 
-	parentNode As Node,
-	dX As Parameter,
-	dY As Parameter
-)
-```
-```cpp
-public:
-void SetOffset(
-	Node^ parentNode, 
-	Parameter^ dX, 
-	Parameter^ dY
-)
-```
+
+
 
 
 #### Параметры

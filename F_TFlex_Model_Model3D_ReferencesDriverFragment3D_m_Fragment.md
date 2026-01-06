@@ -8,13 +8,8 @@
 ```csharp
 protected Fragment3D m_Fragment
 ```
-```vb
-Protected m_Fragment As Fragment3D
-```
-```cpp
-protected:
-Fragment3D^ m_Fragment
-```
+
+
 
 
 #### Значение поля

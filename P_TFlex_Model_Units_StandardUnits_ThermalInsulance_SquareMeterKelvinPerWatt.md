@@ -13,16 +13,8 @@
 ```csharp
 public static Unit SquareMeterKelvinPerWatt { get; }
 ```
-```vb
-Public Shared ReadOnly Property SquareMeterKelvinPerWatt As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ SquareMeterKelvinPerWatt {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

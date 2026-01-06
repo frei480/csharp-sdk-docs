@@ -11,13 +11,8 @@
 ```csharp
 public void ExpandAll()
 ```
-```vb
-Public Sub ExpandAll
-```
-```cpp
-public:
-void ExpandAll()
-```
+
+
 
 
 #### Ссылки

@@ -10,17 +10,8 @@ public void Assign(
 	TreeSettings source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As TreeSettings
-)
-```
-```cpp
-public:
-void Assign(
-	TreeSettings^ source
-)
-```
+
+
 
 
 #### Параметры

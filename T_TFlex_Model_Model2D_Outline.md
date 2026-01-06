@@ -13,15 +13,8 @@
 ```csharp
 public class Outline : Object2D, IModelObjectWithLayer
 ```
-```vb
-Public Class Outline
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class Outline : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип Outline предоставляет следующие члены.

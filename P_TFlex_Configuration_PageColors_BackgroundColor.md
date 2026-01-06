@@ -8,18 +8,8 @@
 ```csharp
 public int BackgroundColor { get; set; }
 ```
-```vb
-Public Property BackgroundColor As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int BackgroundColor {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,12 +8,8 @@
 ```csharp
 public enum ImageSizeType
 ```
-```vb
-Public Enumeration ImageSizeType
-```
-```cpp
-public enum class ImageSizeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

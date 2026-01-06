@@ -11,13 +11,8 @@
 ```csharp
 public InsertVariableDialog()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-InsertVariableDialog()
-```
+
+
 
 
 #### Ссылки

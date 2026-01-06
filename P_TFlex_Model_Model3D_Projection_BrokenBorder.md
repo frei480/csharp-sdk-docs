@@ -11,18 +11,8 @@
 ```csharp
 public Parameter BrokenBorder { get; set; }
 ```
-```vb
-Public Property BrokenBorder As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ BrokenBorder {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public MassCenterNode3D(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-MassCenterNode3D(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

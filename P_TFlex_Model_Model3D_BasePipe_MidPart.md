@@ -11,18 +11,8 @@
 ```csharp
 public string MidPart { get; set; }
 ```
-```vb
-Public Property MidPart As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ MidPart {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

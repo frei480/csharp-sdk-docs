@@ -11,13 +11,8 @@
 ```csharp
 public ObjectSelectControlFilterFromDoc()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ObjectSelectControlFilterFromDoc()
-```
+
+
 
 
 #### Ссылки

@@ -11,19 +11,8 @@ protected virtual void AdjustPopupToolBarButtonSet(
 	PopupToolBarButtonSet buttonSet
 )
 ```
-```vb
-Protected Overridable Sub AdjustPopupToolBarButtonSet ( 
-	view As View,
-	buttonSet As PopupToolBarButtonSet
-)
-```
-```cpp
-protected:
-virtual void AdjustPopupToolBarButtonSet(
-	View^ view, 
-	PopupToolBarButtonSet^ buttonSet
-)
-```
+
+
 
 
 #### Параметры

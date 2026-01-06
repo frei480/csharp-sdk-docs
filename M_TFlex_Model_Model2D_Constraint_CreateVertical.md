@@ -14,19 +14,8 @@ public static Constraint CreateVertical(
 	Object2D iObject
 )
 ```
-```vb
-Public Shared Function CreateVertical ( 
-	iDoc As Document,
-	iObject As Object2D
-) As Constraint
-```
-```cpp
-public:
-static Constraint^ CreateVertical(
-	Document^ iDoc, 
-	Object2D^ iObject
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum FixingType
 ```
-```vb
-Public Enumeration FixingType
-```
-```cpp
-public enum class FixingType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

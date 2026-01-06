@@ -11,13 +11,8 @@
 ```csharp
 public class FirstCharacter : SettingsGroup
 ```
-```vb
-Public Class FirstCharacter
-	Inherits SettingsGroup
-```
-```cpp
-public ref class FirstCharacter : public SettingsGroup
-```
+
+
 
 
 Тип FirstCharacter предоставляет следующие члены.

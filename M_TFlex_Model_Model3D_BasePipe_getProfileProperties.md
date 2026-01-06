@@ -8,13 +8,8 @@
 ```csharp
 protected virtual BasePipeBaseProfileProperties getProfileProperties()
 ```
-```vb
-Protected Overridable Function getProfileProperties As BasePipeBaseProfileProperties
-```
-```cpp
-protected:
-virtual BasePipeBaseProfileProperties^ getProfileProperties()
-```
+
+
 
 
 #### Возвращаемое значение

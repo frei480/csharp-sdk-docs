@@ -8,16 +8,8 @@
 ```csharp
 public CommonUnits CommonUnits { get; }
 ```
-```vb
-Public ReadOnly Property CommonUnits As CommonUnits
-	Get
-```
-```cpp
-public:
-property CommonUnits^ CommonUnits {
-	CommonUnits^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public BaseCurve MakeReverseCurve()
 ```
-```vb
-Public Function MakeReverseCurve As BaseCurve
-```
-```cpp
-public:
-BaseCurve^ MakeReverseCurve()
-```
+
+
 
 
 #### Возвращаемое значение

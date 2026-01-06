@@ -13,19 +13,8 @@ public static ICollection<Extrusion> GetExtrusions(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetExtrusions ( 
-	document As Document
-) As ICollection(Of Extrusion)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Extrusion^>^ GetExtrusions(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

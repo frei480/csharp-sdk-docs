@@ -13,13 +13,8 @@
 ```csharp
 public class FaceSeparate : Operation
 ```
-```vb
-Public Class FaceSeparate
-	Inherits Operation
-```
-```cpp
-public ref class FaceSeparate : public Operation
-```
+
+
 
 
 Тип FaceSeparate предоставляет следующие члены.

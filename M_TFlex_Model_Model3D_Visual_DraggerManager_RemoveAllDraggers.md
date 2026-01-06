@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllDraggers()
 ```
-```vb
-Public Sub RemoveAllDraggers
-```
-```cpp
-public:
-void RemoveAllDraggers()
-```
+
+
 
 
 После удаления манипулятора из диспетчера обращение к нему недопустимо. 

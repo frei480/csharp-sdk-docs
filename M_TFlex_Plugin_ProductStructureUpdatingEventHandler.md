@@ -13,17 +13,8 @@ protected virtual void ProductStructureUpdatingEventHandler(
 	ProductStructureUpdatingEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub ProductStructureUpdatingEventHandler ( 
-	args As ProductStructureUpdatingEventArgs
-)
-```
-```cpp
-protected:
-virtual void ProductStructureUpdatingEventHandler(
-	ProductStructureUpdatingEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

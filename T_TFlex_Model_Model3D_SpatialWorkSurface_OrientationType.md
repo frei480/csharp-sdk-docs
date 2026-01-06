@@ -11,12 +11,8 @@ Cоответствие координатных осей и параметр�
 ```csharp
 public enum OrientationType
 ```
-```vb
-Public Enumeration OrientationType
-```
-```cpp
-public enum class OrientationType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

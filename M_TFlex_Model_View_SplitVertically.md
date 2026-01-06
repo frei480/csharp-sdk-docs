@@ -14,19 +14,8 @@ public void SplitVertically(
 	ViewType right
 )
 ```
-```vb
-Public Sub SplitVertically ( 
-	left As ViewType,
-	right As ViewType
-)
-```
-```cpp
-public:
-void SplitVertically(
-	ViewType left, 
-	ViewType right
-)
-```
+
+
 
 
 #### Параметры

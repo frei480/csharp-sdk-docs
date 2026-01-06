@@ -14,20 +14,8 @@
 [ObsoleteAttribute]
 public ModelSurface IntSurface { get; set; }
 ```
-```vb
-<ObsoleteAttribute>
-Public Property IntSurface As ModelSurface
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute]
-property ModelSurface^ IntSurface {
-	ModelSurface^ get ();
-	void set (ModelSurface^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,14 +14,8 @@
 public abstract class GeometricArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public MustInherit Class GeometricArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class GeometricArray abstract : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип GeometricArray предоставляет следующие члены.

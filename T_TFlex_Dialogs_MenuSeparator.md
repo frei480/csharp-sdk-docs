@@ -13,13 +13,8 @@
 ```csharp
 public class MenuSeparator : MenuItemBase
 ```
-```vb
-Public Class MenuSeparator
-	Inherits MenuItemBase
-```
-```cpp
-public ref class MenuSeparator : public MenuItemBase
-```
+
+
 
 
 Тип MenuSeparator предоставляет следующие члены.

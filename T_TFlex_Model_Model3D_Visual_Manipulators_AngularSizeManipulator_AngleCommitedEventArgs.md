@@ -11,13 +11,8 @@
 ```csharp
 public class AngleCommitedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class AngleCommitedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class AngleCommitedEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип AngularSizeManipulatorAngleCommitedEventArgs предоставляет следующие члены.

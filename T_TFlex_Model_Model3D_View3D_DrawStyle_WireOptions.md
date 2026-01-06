@@ -13,12 +13,8 @@
 ```csharp
 public struct WireOptions
 ```
-```vb
-Public Structure WireOptions
-```
-```cpp
-public value class WireOptions
-```
+
+
 
 
 Тип View3DDrawStyleWireOptions предоставляет следующие члены.

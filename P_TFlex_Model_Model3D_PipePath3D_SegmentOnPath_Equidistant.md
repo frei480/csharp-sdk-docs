@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Equidistant { get; set; }
 ```
-```vb
-Public Property Equidistant As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Equidistant {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

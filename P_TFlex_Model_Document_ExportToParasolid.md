@@ -11,16 +11,8 @@
 ```csharp
 public ExportToParasolid ExportToParasolid { get; }
 ```
-```vb
-Public ReadOnly Property ExportToParasolid As ExportToParasolid
-	Get
-```
-```cpp
-public:
-property ExportToParasolid^ ExportToParasolid {
-	ExportToParasolid^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

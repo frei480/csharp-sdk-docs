@@ -11,19 +11,8 @@ public void CopyTo(
 	int num
 )
 ```
-```vb
-Public Sub CopyTo ( 
-	arr As PageType(),
-	num As Integer
-)
-```
-```cpp
-public:
-virtual void CopyTo(
-	array<PageType>^ arr, 
-	int num
-) sealed
-```
+
+
 
 
 #### Параметры

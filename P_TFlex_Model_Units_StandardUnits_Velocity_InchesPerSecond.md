@@ -13,16 +13,8 @@
 ```csharp
 public static Unit InchesPerSecond { get; }
 ```
-```vb
-Public Shared ReadOnly Property InchesPerSecond As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ InchesPerSecond {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

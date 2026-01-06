@@ -8,18 +8,8 @@
 ```csharp
 public bool UseRoundUp { get; set; }
 ```
-```vb
-Public Property UseRoundUp As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseRoundUp {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

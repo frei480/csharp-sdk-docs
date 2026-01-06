@@ -11,16 +11,8 @@
 ```csharp
 public event ControlPageChanged PageChanged
 ```
-```vb
-Public Event PageChanged As ControlPageChanged
-```
-```cpp
-public:
- event ControlPageChanged^ PageChanged {
-	void add (ControlPageChanged^ value);
-	void remove (ControlPageChanged^ value);
-}
-```
+
+
 
 
 #### Значение

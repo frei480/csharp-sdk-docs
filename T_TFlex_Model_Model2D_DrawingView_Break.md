@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Break
 ```
-```vb
-Public NotInheritable Class Break
-```
-```cpp
-public ref class Break sealed
-```
+
+
 
 
 Тип DrawingViewBreak предоставляет следующие члены.

@@ -14,19 +14,8 @@ public int SetPosition(
 	FaceBlendingPositionData data
 )
 ```
-```vb
-Public Function SetPosition ( 
-	positionIndex As Integer,
-	data As FaceBlendingPositionData
-) As Integer
-```
-```cpp
-public:
-int SetPosition(
-	int positionIndex, 
-	FaceBlendingPositionData^ data
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public FontStyle FontStyle { get; }
 ```
-```vb
-Public ReadOnly Property FontStyle As FontStyle
-	Get
-```
-```cpp
-public:
-property FontStyle^ FontStyle {
-	FontStyle^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

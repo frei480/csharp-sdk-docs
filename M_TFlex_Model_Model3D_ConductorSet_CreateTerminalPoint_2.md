@@ -11,19 +11,8 @@ public TerminalPoint CreateTerminalPoint(
 	Guid key
 )
 ```
-```vb
-Public Function CreateTerminalPoint ( 
-	cs As LCS,
-	key As Guid
-) As TerminalPoint
-```
-```cpp
-public:
-TerminalPoint^ CreateTerminalPoint(
-	LCS^ cs, 
-	Guid key
-)
-```
+
+
 
 
 #### Параметры

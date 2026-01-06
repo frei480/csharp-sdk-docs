@@ -13,17 +13,8 @@ public FloatVector(
 	BaseDirection vector
 )
 ```
-```vb
-Public Sub New ( 
-	vector As BaseDirection
-)
-```
-```cpp
-public:
-FloatVector(
-	BaseDirection^ vector
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class PolylineContourSegment : ContourSegment
 ```
-```vb
-Public Class PolylineContourSegment
-	Inherits ContourSegment
-```
-```cpp
-public ref class PolylineContourSegment : public ContourSegment
-```
+
+
 
 
 Тип PolylineContourSegment предоставляет следующие члены.

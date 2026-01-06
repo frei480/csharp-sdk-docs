@@ -11,18 +11,8 @@
 ```csharp
 public string BOMPrototypesPath { get; set; }
 ```
-```vb
-Public Property BOMPrototypesPath As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ BOMPrototypesPath {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

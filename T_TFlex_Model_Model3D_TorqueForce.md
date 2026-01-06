@@ -13,13 +13,8 @@
 ```csharp
 public class TorqueForce : Restraint
 ```
-```vb
-Public Class TorqueForce
-	Inherits Restraint
-```
-```cpp
-public ref class TorqueForce : public Restraint
-```
+
+
 
 
 Тип TorqueForce предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public bool IsTopol { get; }
 ```
-```vb
-Public ReadOnly Property IsTopol As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsTopol {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

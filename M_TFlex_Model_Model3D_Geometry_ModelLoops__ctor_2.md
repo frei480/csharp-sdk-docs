@@ -13,17 +13,8 @@ public ModelLoops(
 	ModelTopol Topol
 )
 ```
-```vb
-Public Sub New ( 
-	Topol As ModelTopol
-)
-```
-```cpp
-public:
-ModelLoops(
-	ModelTopol^ Topol
-)
-```
+
+
 
 
 #### Параметры

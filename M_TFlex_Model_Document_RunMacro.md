@@ -13,17 +13,8 @@ public bool RunMacro(
 	string macro
 )
 ```
-```vb
-Public Function RunMacro ( 
-	macro As String
-) As Boolean
-```
-```cpp
-public:
-bool RunMacro(
-	String^ macro
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public sealed class ExportToECT : ExportToFacet
 ```
-```vb
-Public NotInheritable Class ExportToECT
-	Inherits ExportToFacet
-```
-```cpp
-public ref class ExportToECT sealed : public ExportToFacet
-```
+
+
 
 
 Тип ExportToECT предоставляет следующие члены.

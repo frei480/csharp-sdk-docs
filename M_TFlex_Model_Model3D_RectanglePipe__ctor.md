@@ -13,17 +13,8 @@ public RectanglePipe(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-RectanglePipe(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

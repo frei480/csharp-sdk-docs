@@ -13,15 +13,8 @@
 ```csharp
 public class Dimension : Object2D, IModelObjectWithLayer
 ```
-```vb
-Public Class Dimension
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class Dimension : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип Dimension предоставляет следующие члены.

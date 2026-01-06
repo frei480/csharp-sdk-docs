@@ -11,19 +11,8 @@ public static bool operator !=(
 	SortRuleItem right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As SortRuleItem,
-	right As SortRuleItem
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	SortRuleItem^ left, 
-	SortRuleItem^ right
-)
-```
+
+
 
 
 #### Параметры

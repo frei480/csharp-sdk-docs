@@ -10,17 +10,8 @@ public bool GetCommitedResultPoints(
 	ref BasePoint3D[] points
 )
 ```
-```vb
-Public Function GetCommitedResultPoints ( 
-	ByRef points As BasePoint3D()
-) As Boolean
-```
-```cpp
-public:
-bool GetCommitedResultPoints(
-	array<BasePoint3D^>^% points
-)
-```
+
+
 
 
 #### Параметры

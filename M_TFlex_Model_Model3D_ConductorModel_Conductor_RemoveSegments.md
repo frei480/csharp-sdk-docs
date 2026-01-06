@@ -8,13 +8,8 @@
 ```csharp
 public void RemoveSegments()
 ```
-```vb
-Public Sub RemoveSegments
-```
-```cpp
-public:
-void RemoveSegments()
-```
+
+
 
 
 #### Ссылки

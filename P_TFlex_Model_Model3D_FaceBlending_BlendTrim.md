@@ -11,18 +11,8 @@
 ```csharp
 public FaceBlendingTrimType BlendTrim { get; set; }
 ```
-```vb
-Public Property BlendTrim As FaceBlendingTrimType
-	Get
-	Set
-```
-```cpp
-public:
-property FaceBlendingTrimType BlendTrim {
-	FaceBlendingTrimType get ();
-	void set (FaceBlendingTrimType value);
-}
-```
+
+
 
 
 #### Значение свойства

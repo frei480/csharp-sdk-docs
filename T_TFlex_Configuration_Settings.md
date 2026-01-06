@@ -11,13 +11,8 @@
 ```csharp
 public class Settings : SettingsGroup
 ```
-```vb
-Public Class Settings
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Settings : public SettingsGroup
-```
+
+
 
 
 Тип Settings предоставляет следующие члены.

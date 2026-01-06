@@ -13,13 +13,8 @@
 ```csharp
 public class TopolReference : Object3D
 ```
-```vb
-Public Class TopolReference
-	Inherits Object3D
-```
-```cpp
-public ref class TopolReference : public Object3D
-```
+
+
 
 
 Тип TopolReference предоставляет следующие члены.

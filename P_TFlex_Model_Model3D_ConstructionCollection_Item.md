@@ -10,20 +10,8 @@ public Construction3D this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As Integer
-) As Construction3D
-	Get
-	Set
-```
-```cpp
-public:
-property Construction3D^ default[int index] {
-	Construction3D^ get (int index);
-	void set (int index, Construction3D^ value);
-}
-```
+
+
 
 
 #### Параметры

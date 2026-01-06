@@ -11,18 +11,8 @@
 ```csharp
 public bool AllowWrapToolBarMode { get; set; }
 ```
-```vb
-Public Property AllowWrapToolBarMode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AllowWrapToolBarMode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

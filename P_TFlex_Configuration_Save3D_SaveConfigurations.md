@@ -8,18 +8,8 @@
 ```csharp
 public SaveConfigurationsType SaveConfigurations { get; set; }
 ```
-```vb
-Public Property SaveConfigurations As SaveConfigurationsType
-	Get
-	Set
-```
-```cpp
-public:
-property SaveConfigurationsType SaveConfigurations {
-	SaveConfigurationsType get ();
-	void set (SaveConfigurationsType value);
-}
-```
+
+
 
 
 #### Значение свойства

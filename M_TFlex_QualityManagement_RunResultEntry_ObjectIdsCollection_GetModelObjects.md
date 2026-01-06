@@ -13,17 +13,8 @@ public IEnumerable<ModelObject> GetModelObjects(
 	Document document
 )
 ```
-```vb
-Public Function GetModelObjects ( 
-	document As Document
-) As IEnumerable(Of ModelObject)
-```
-```cpp
-public:
-IEnumerable<ModelObject^>^ GetModelObjects(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public BodyTaperConcaveType Concave { get; set; }
 ```
-```vb
-Public Property Concave As BodyTaperConcaveType
-	Get
-	Set
-```
-```cpp
-public:
-property BodyTaperConcaveType Concave {
-	BodyTaperConcaveType get ();
-	void set (BodyTaperConcaveType value);
-}
-```
+
+
 
 
 #### Значение свойства

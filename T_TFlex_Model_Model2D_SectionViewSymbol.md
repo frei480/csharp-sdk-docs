@@ -13,13 +13,8 @@
 ```csharp
 public class SectionViewSymbol : ViewSymbol
 ```
-```vb
-Public Class SectionViewSymbol
-	Inherits ViewSymbol
-```
-```cpp
-public ref class SectionViewSymbol : public ViewSymbol
-```
+
+
 
 
 Тип SectionViewSymbol предоставляет следующие члены.

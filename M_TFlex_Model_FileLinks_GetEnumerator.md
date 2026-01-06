@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerator<FileLink> GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As IEnumerator(Of FileLink)
-```
-```cpp
-public:
-virtual IEnumerator<FileLink^>^ GetEnumerator() sealed
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,18 +11,8 @@
 ```csharp
 public bool SemitransparentMode { get; set; }
 ```
-```vb
-Public Property SemitransparentMode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SemitransparentMode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

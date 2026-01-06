@@ -13,17 +13,8 @@ public int GetRowById(
 	long id
 )
 ```
-```vb
-Public Function GetRowById ( 
-	id As Long
-) As Integer
-```
-```cpp
-public:
-int GetRowById(
-	long long id
-)
-```
+
+
 
 
 #### Параметры

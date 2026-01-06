@@ -11,13 +11,8 @@
 ```csharp
 public MethodInfo()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MethodInfo()
-```
+
+
 
 
 #### Ссылки

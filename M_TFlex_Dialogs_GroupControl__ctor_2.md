@@ -14,19 +14,8 @@ public GroupControl(
 	GroupControlOrientation orientation
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	orientation As GroupControlOrientation
-)
-```
-```cpp
-public:
-GroupControl(
-	String^ id, 
-	GroupControlOrientation orientation
-)
-```
+
+
 
 
 #### Параметры

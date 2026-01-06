@@ -11,18 +11,8 @@
 ```csharp
 public int HintDelay { get; set; }
 ```
-```vb
-Public Property HintDelay As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int HintDelay {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

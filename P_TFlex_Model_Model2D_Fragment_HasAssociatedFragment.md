@@ -8,16 +8,8 @@
 ```csharp
 public bool HasAssociatedFragment { get; }
 ```
-```vb
-Public ReadOnly Property HasAssociatedFragment As Boolean
-	Get
-```
-```cpp
-public:
-property bool HasAssociatedFragment {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

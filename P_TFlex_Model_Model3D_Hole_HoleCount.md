@@ -11,16 +11,8 @@
 ```csharp
 public int HoleCount { get; }
 ```
-```vb
-Public ReadOnly Property HoleCount As Integer
-	Get
-```
-```cpp
-public:
-property int HoleCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

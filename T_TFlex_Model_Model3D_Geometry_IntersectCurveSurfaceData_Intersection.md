@@ -13,12 +13,8 @@
 ```csharp
 public class Intersection
 ```
-```vb
-Public Class Intersection
-```
-```cpp
-public ref class Intersection
-```
+
+
 
 
 Тип IntersectCurveSurfaceDataIntersection предоставляет следующие члены.

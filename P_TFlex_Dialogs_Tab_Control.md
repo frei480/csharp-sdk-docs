@@ -11,18 +11,8 @@
 ```csharp
 public BaseControl Control { get; set; }
 ```
-```vb
-Public Property Control As BaseControl
-	Get
-	Set
-```
-```cpp
-public:
-property BaseControl^ Control {
-	BaseControl^ get ();
-	void set (BaseControl^ value);
-}
-```
+
+
 
 
 #### Значение свойства

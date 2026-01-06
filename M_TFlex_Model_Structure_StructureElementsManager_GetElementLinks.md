@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<ElementLink> GetElementLinks()
 ```
-```vb
-Public Function GetElementLinks As ICollection(Of ElementLink)
-```
-```cpp
-public:
-ICollection<ElementLink^>^ GetElementLinks()
-```
+
+
 
 
 #### Возвращаемое значение

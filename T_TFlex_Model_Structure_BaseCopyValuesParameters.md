@@ -11,12 +11,8 @@
 ```csharp
 public class BaseCopyValuesParameters
 ```
-```vb
-Public Class BaseCopyValuesParameters
-```
-```cpp
-public ref class BaseCopyValuesParameters
-```
+
+
 
 
 Тип BaseCopyValuesParameters предоставляет следующие члены.

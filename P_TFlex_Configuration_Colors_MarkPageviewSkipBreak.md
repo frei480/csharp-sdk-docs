@@ -8,18 +8,8 @@
 ```csharp
 public int MarkPageviewSkipBreak { get; set; }
 ```
-```vb
-Public Property MarkPageviewSkipBreak As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int MarkPageviewSkipBreak {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

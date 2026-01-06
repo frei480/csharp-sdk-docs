@@ -11,13 +11,8 @@
 ```csharp
 public void EndSelection()
 ```
-```vb
-Public Sub EndSelection
-```
-```cpp
-public:
-void EndSelection()
-```
+
+
 
 
 #### Ссылки

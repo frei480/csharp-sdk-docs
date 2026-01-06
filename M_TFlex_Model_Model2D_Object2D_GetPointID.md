@@ -13,17 +13,8 @@ public uint GetPointID(
 	int index
 )
 ```
-```vb
-Public Function GetPointID ( 
-	index As Integer
-) As UInteger
-```
-```cpp
-public:
-unsigned int GetPointID(
-	int index
-)
-```
+
+
 
 
 #### Параметры

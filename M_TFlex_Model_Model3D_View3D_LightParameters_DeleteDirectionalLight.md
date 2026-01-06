@@ -13,17 +13,8 @@ public void DeleteDirectionalLight(
 	int index
 )
 ```
-```vb
-Public Sub DeleteDirectionalLight ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void DeleteDirectionalLight(
-	int index
-)
-```
+
+
 
 
 #### Параметры

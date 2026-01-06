@@ -13,17 +13,8 @@ public ProxyObject3D(
 	IntPtr ownerHandle
 )
 ```
-```vb
-Public Sub New ( 
-	ownerHandle As IntPtr
-)
-```
-```cpp
-public:
-ProxyObject3D(
-	IntPtr ownerHandle
-)
-```
+
+
 
 
 #### Параметры

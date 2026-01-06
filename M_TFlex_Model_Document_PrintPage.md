@@ -14,19 +14,8 @@ public void PrintPage(
 	Page page
 )
 ```
-```vb
-Public Sub PrintPage ( 
-	window As IntPtr,
-	page As Page
-)
-```
-```cpp
-public:
-void PrintPage(
-	IntPtr window, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@ Cобытие перемещения мыши при вызове метода P
 ```csharp
 public event PickPointMouseMove MouseMove
 ```
-```vb
-Public Event MouseMove As PickPointMouseMove
-```
-```cpp
-public:
- event PickPointMouseMove^ MouseMove {
-	void add (PickPointMouseMove^ value);
-	void remove (PickPointMouseMove^ value);
-}
-```
+
+
 
 
 #### Значение

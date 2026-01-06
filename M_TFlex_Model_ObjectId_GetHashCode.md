@@ -11,13 +11,8 @@
 ```csharp
 public override sealed int GetHashCode()
 ```
-```vb
-Public Overrides NotOverridable Function GetHashCode As Integer
-```
-```cpp
-public:
-virtual int GetHashCode() override sealed
-```
+
+
 
 
 #### Возвращаемое значение

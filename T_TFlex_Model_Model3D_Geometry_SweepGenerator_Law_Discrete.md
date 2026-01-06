@@ -13,14 +13,8 @@
 ```csharp
 public class Discrete : IEnumerator, IEnumerable
 ```
-```vb
-Public Class Discrete
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class Discrete : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип SweepGeneratorLawDiscrete предоставляет следующие члены.

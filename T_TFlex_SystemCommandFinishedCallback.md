@@ -10,16 +10,8 @@ public delegate void SystemCommandFinishedCallback(
 	SystemCommandFinishedResult result
 )
 ```
-```vb
-Public Delegate Sub SystemCommandFinishedCallback ( 
-	result As SystemCommandFinishedResult
-)
-```
-```cpp
-public delegate void SystemCommandFinishedCallback(
-	SystemCommandFinishedResult^ result
-)
-```
+
+
 
 
 #### Параметры

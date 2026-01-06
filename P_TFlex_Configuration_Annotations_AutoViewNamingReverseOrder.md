@@ -8,18 +8,8 @@
 ```csharp
 public bool AutoViewNamingReverseOrder { get; set; }
 ```
-```vb
-Public Property AutoViewNamingReverseOrder As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoViewNamingReverseOrder {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

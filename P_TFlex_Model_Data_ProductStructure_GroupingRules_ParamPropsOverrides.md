@@ -8,16 +8,8 @@
 ```csharp
 public ParametersPropertiesOverrides ParamPropsOverrides { get; }
 ```
-```vb
-Public ReadOnly Property ParamPropsOverrides As ParametersPropertiesOverrides
-	Get
-```
-```cpp
-public:
-property ParametersPropertiesOverrides^ ParamPropsOverrides {
-	ParametersPropertiesOverrides^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

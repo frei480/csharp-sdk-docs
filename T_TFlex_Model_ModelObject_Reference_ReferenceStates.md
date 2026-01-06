@@ -11,12 +11,8 @@
 ```csharp
 public enum ReferenceStates
 ```
-```vb
-Public Enumeration ReferenceStates
-```
-```cpp
-public enum class ReferenceStates
-```
+
+
 
 
 | Имя члена | Значение | Описание |

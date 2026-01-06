@@ -8,13 +8,8 @@
 ```csharp
 public bool Show()
 ```
-```vb
-Public Function Show As Boolean
-```
-```cpp
-public:
-bool Show()
-```
+
+
 
 
 #### Возвращаемое значение

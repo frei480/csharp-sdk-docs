@@ -11,18 +11,8 @@
 ```csharp
 public Parameter HatchAngle2 { get; set; }
 ```
-```vb
-Public Property HatchAngle2 As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ HatchAngle2 {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

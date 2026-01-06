@@ -11,16 +11,8 @@
 ```csharp
 public Scene Scene { get; }
 ```
-```vb
-Public ReadOnly Property Scene As Scene
-	Get
-```
-```cpp
-public:
-property Scene^ Scene {
-	Scene^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

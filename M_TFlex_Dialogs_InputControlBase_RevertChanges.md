@@ -11,13 +11,8 @@
 ```csharp
 public void RevertChanges()
 ```
-```vb
-Public Sub RevertChanges
-```
-```cpp
-public:
-void RevertChanges()
-```
+
+
 
 
 #### Ссылки

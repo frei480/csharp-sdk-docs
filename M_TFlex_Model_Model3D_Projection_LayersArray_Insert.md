@@ -14,19 +14,8 @@ public void Insert(
 	string layer
 )
 ```
-```vb
-Public Sub Insert ( 
-	index As Integer,
-	layer As String
-)
-```
-```cpp
-public:
-void Insert(
-	int index, 
-	String^ layer
-)
-```
+
+
 
 
 #### Параметры

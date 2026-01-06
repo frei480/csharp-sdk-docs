@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<SpliceWireSetManipulatorSpliceCommandEventArgs> OnSpliceCommand
 ```
-```vb
-Public Event OnSpliceCommand As EventHandler(Of SpliceWireSetManipulatorSpliceCommandEventArgs)
-```
-```cpp
-public:
- event EventHandler<SpliceWireSetManipulatorSpliceCommandEventArgs^>^ OnSpliceCommand {
-	void add (EventHandler<SpliceWireSetManipulatorSpliceCommandEventArgs^>^ value);
-	void remove (EventHandler<SpliceWireSetManipulatorSpliceCommandEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

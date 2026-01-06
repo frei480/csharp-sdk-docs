@@ -10,17 +10,8 @@ public IEnumerable<ModelBody> Find(
 	List<ObjectId> fragmentChainIds
 )
 ```
-```vb
-Public Function Find ( 
-	fragmentChainIds As List(Of ObjectId)
-) As IEnumerable(Of ModelBody)
-```
-```cpp
-public:
-IEnumerable<ModelBody^>^ Find(
-	List<ObjectId^>^ fragmentChainIds
-)
-```
+
+
 
 
 #### Параметры

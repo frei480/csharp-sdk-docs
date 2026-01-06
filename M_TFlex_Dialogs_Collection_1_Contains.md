@@ -13,17 +13,8 @@ public virtual bool Contains(
 	T item
 )
 ```
-```vb
-Public Overridable Function Contains ( 
-	item As T
-) As Boolean
-```
-```cpp
-public:
-virtual bool Contains(
-	T item
-)
-```
+
+
 
 
 #### Параметры

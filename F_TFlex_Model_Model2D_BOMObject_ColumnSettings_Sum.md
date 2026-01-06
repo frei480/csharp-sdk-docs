@@ -11,13 +11,8 @@
 ```csharp
 public bool Sum
 ```
-```vb
-Public Sum As Boolean
-```
-```cpp
-public:
-bool Sum
-```
+
+
 
 
 #### Значение поля

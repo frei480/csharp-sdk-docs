@@ -11,13 +11,8 @@
 ```csharp
 protected Term()
 ```
-```vb
-Protected Sub New
-```
-```cpp
-protected:
-Term()
-```
+
+
 
 
 #### Ссылки

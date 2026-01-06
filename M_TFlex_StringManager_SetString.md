@@ -14,19 +14,8 @@ public bool SetString(
 	string value
 )
 ```
-```vb
-Public Function SetString ( 
-	key As String,
-	value As String
-) As Boolean
-```
-```cpp
-public:
-bool SetString(
-	String^ key, 
-	String^ value
-)
-```
+
+
 
 
 #### Параметры

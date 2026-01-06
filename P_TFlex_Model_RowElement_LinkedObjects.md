@@ -11,16 +11,8 @@
 ```csharp
 public RowElementLinkedObjects LinkedObjects { get; }
 ```
-```vb
-Public ReadOnly Property LinkedObjects As RowElementLinkedObjects
-	Get
-```
-```cpp
-public:
-property RowElementLinkedObjects^ LinkedObjects {
-	RowElementLinkedObjects^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

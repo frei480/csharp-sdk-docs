@@ -11,13 +11,8 @@
 ```csharp
 public BaseCopyValuesParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-BaseCopyValuesParameters()
-```
+
+
 
 
 #### Ссылки

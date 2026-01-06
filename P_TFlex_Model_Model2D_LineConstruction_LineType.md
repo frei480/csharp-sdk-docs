@@ -11,16 +11,8 @@
 ```csharp
 public LineTypes LineType { get; }
 ```
-```vb
-Public ReadOnly Property LineType As LineTypes
-	Get
-```
-```cpp
-public:
-property LineTypes LineType {
-	LineTypes get ();
-}
-```
+
+
 
 
 #### Значение свойства

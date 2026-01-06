@@ -11,18 +11,8 @@
 ```csharp
 public bool QuickTranformationDisabled { get; set; }
 ```
-```vb
-Public Property QuickTranformationDisabled As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool QuickTranformationDisabled {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

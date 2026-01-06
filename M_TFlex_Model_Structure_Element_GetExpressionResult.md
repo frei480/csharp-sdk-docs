@@ -10,17 +10,8 @@ public string GetExpressionResult(
 	string expression
 )
 ```
-```vb
-Public Function GetExpressionResult ( 
-	expression As String
-) As String
-```
-```cpp
-public:
-String^ GetExpressionResult(
-	String^ expression
-)
-```
+
+
 
 
 #### Параметры

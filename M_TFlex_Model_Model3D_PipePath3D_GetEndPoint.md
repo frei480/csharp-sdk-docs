@@ -11,13 +11,8 @@
 ```csharp
 public Construction3D GetEndPoint()
 ```
-```vb
-Public Function GetEndPoint As Construction3D
-```
-```cpp
-public:
-Construction3D^ GetEndPoint()
-```
+
+
 
 
 #### Возвращаемое значение

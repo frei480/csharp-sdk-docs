@@ -12,21 +12,8 @@ public void Initalize(
 	double length
 )
 ```
-```vb
-Public Sub Initalize ( 
-	object As Object3D,
-	diameter As Double,
-	length As Double
-)
-```
-```cpp
-public:
-void Initalize(
-	Object3D^ object, 
-	double diameter, 
-	double length
-)
-```
+
+
 
 
 #### Параметры

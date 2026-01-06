@@ -11,16 +11,8 @@
 ```csharp
 public VariableParametricCoords Origin { get; }
 ```
-```vb
-Public ReadOnly Property Origin As VariableParametricCoords
-	Get
-```
-```cpp
-public:
-property VariableParametricCoords^ Origin {
-	VariableParametricCoords^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

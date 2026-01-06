@@ -13,13 +13,8 @@
 ```csharp
 public class ConstructionDimension : Dimension
 ```
-```vb
-Public Class ConstructionDimension
-	Inherits Dimension
-```
-```cpp
-public ref class ConstructionDimension : public Dimension
-```
+
+
 
 
 Тип ConstructionDimension предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public LinkBase PrimaryLink { get; }
 ```
-```vb
-Public ReadOnly Property PrimaryLink As LinkBase
-	Get
-```
-```cpp
-public:
-property LinkBase^ PrimaryLink {
-	LinkBase^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,21 +15,8 @@ public Segment(
 	uint id
 )
 ```
-```vb
-Public Sub New ( 
-	curve As BaseCurve,
-	interval As BaseInterval,
-	id As UInteger
-)
-```
-```cpp
-public:
-Segment(
-	BaseCurve^ curve, 
-	BaseInterval^ interval, 
-	unsigned int id
-)
-```
+
+
 
 
 #### Параметры

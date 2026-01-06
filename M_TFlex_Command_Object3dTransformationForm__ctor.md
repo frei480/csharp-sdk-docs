@@ -13,17 +13,8 @@ public Object3dTransformationForm(
 	Object3D object3d
 )
 ```
-```vb
-Public Sub New ( 
-	object3d As Object3D
-)
-```
-```cpp
-public:
-Object3dTransformationForm(
-	Object3D^ object3d
-)
-```
+
+
 
 
 #### Параметры

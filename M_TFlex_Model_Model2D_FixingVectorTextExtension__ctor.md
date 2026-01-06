@@ -11,13 +11,8 @@
 ```csharp
 public FixingVectorTextExtension()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FixingVectorTextExtension()
-```
+
+
 
 
 #### Ссылки

@@ -13,13 +13,8 @@
 ```csharp
 public class Surface : BaseSurface
 ```
-```vb
-Public Class Surface
-	Inherits BaseSurface
-```
-```cpp
-public ref class Surface : public BaseSurface
-```
+
+
 
 
 Тип Surface предоставляет следующие члены.

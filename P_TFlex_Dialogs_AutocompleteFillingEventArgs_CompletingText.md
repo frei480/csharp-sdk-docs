@@ -11,16 +11,8 @@
 ```csharp
 public string CompletingText { get; }
 ```
-```vb
-Public ReadOnly Property CompletingText As String
-	Get
-```
-```cpp
-public:
-property String^ CompletingText {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

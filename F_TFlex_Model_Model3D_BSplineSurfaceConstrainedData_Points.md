@@ -8,13 +8,8 @@
 ```csharp
 public List<BasePoint3D> Points
 ```
-```vb
-Public Points As List(Of BasePoint3D)
-```
-```cpp
-public:
-List<BasePoint3D^>^ Points
-```
+
+
 
 
 #### Значение поля

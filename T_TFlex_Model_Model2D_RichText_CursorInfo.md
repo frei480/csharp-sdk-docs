@@ -13,12 +13,8 @@
 ```csharp
 public struct CursorInfo
 ```
-```vb
-Public Structure CursorInfo
-```
-```cpp
-public value class CursorInfo
-```
+
+
 
 
 Тип RichTextCursorInfo предоставляет следующие члены.

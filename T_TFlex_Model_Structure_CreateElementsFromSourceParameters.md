@@ -11,13 +11,8 @@
 ```csharp
 public sealed class CreateElementsFromSourceParameters : BaseCreateElementsParameters
 ```
-```vb
-Public NotInheritable Class CreateElementsFromSourceParameters
-	Inherits BaseCreateElementsParameters
-```
-```cpp
-public ref class CreateElementsFromSourceParameters sealed : public BaseCreateElementsParameters
-```
+
+
 
 
 Тип CreateElementsFromSourceParameters предоставляет следующие члены.

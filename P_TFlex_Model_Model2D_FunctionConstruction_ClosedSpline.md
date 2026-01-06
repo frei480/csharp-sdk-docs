@@ -11,18 +11,8 @@
 ```csharp
 public bool ClosedSpline { get; set; }
 ```
-```vb
-Public Property ClosedSpline As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ClosedSpline {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

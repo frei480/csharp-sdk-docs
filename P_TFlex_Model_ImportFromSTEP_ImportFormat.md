@@ -11,18 +11,8 @@
 ```csharp
 public ImportSTEPFormat ImportFormat { get; set; }
 ```
-```vb
-Public Property ImportFormat As ImportSTEPFormat
-	Get
-	Set
-```
-```cpp
-public:
-property ImportSTEPFormat ImportFormat {
-	ImportSTEPFormat get ();
-	void set (ImportSTEPFormat value);
-}
-```
+
+
 
 
 #### Значение свойства

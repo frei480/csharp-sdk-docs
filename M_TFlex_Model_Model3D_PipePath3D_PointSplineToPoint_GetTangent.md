@@ -14,19 +14,8 @@ public void GetTangent(
 	ref Parameter pParam
 )
 ```
-```vb
-Public Sub GetTangent ( 
-	ByRef pDirection As Point3D,
-	ByRef pParam As Parameter
-)
-```
-```cpp
-public:
-void GetTangent(
-	Point3D^% pDirection, 
-	Parameter^% pParam
-)
-```
+
+
 
 
 #### Параметры

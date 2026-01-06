@@ -8,18 +8,8 @@
 ```csharp
 public OverrideBool IgnoreOrderWhenUnite { get; set; }
 ```
-```vb
-Public Property IgnoreOrderWhenUnite As OverrideBool
-	Get
-	Set
-```
-```cpp
-public:
-property OverrideBool IgnoreOrderWhenUnite {
-	OverrideBool get ();
-	void set (OverrideBool value);
-}
-```
+
+
 
 
 #### Значение свойства

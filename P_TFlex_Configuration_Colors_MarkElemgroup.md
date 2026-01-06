@@ -8,18 +8,8 @@
 ```csharp
 public int MarkElemgroup { get; set; }
 ```
-```vb
-Public Property MarkElemgroup As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int MarkElemgroup {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public Polyline()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Polyline()
-```
+
+
 
 
 #### Ссылки

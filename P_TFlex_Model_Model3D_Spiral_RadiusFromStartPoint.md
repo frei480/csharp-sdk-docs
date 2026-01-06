@@ -11,18 +11,8 @@
 ```csharp
 public bool RadiusFromStartPoint { get; set; }
 ```
-```vb
-Public Property RadiusFromStartPoint As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RadiusFromStartPoint {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

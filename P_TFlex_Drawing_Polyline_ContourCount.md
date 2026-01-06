@@ -11,16 +11,8 @@
 ```csharp
 public int ContourCount { get; }
 ```
-```vb
-Public ReadOnly Property ContourCount As Integer
-	Get
-```
-```cpp
-public:
-property int ContourCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

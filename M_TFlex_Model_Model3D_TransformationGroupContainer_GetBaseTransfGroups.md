@@ -11,13 +11,8 @@
 ```csharp
 public List<TransformationGroup> GetBaseTransfGroups()
 ```
-```vb
-Public Function GetBaseTransfGroups As List(Of TransformationGroup)
-```
-```cpp
-public:
-List<TransformationGroup^>^ GetBaseTransfGroups()
-```
+
+
 
 
 #### Возвращаемое значение

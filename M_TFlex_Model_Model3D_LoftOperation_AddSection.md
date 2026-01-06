@@ -13,17 +13,8 @@ public LoftOperationSection AddSection(
 	ModelContour contour
 )
 ```
-```vb
-Public Function AddSection ( 
-	contour As ModelContour
-) As LoftOperationSection
-```
-```cpp
-public:
-LoftOperationSection^ AddSection(
-	ModelContour^ contour
-)
-```
+
+
 
 
 #### Параметры

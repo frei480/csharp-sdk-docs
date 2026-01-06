@@ -13,13 +13,8 @@
 ```csharp
 public class LineSurfaceDevelopmentProfile : Profile
 ```
-```vb
-Public Class LineSurfaceDevelopmentProfile
-	Inherits Profile
-```
-```cpp
-public ref class LineSurfaceDevelopmentProfile : public Profile
-```
+
+
 
 
 Тип LineSurfaceDevelopmentProfile предоставляет следующие члены.

@@ -10,17 +10,8 @@ public override void CopyProperties(
 	IGroupingRule other
 )
 ```
-```vb
-Public Overrides Sub CopyProperties ( 
-	other As IGroupingRule
-)
-```
-```cpp
-public:
-virtual void CopyProperties(
-	IGroupingRule^ other
-) override
-```
+
+
 
 
 #### Параметры

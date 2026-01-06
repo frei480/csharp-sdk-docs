@@ -8,18 +8,8 @@
 ```csharp
 public IntParameter PointSize { get; set; }
 ```
-```vb
-Public Property PointSize As IntParameter
-	Get
-	Set
-```
-```cpp
-public:
-property IntParameter^ PointSize {
-	IntParameter^ get ();
-	void set (IntParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

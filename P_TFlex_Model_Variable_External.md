@@ -11,18 +11,8 @@ true, если переменная является помеченной (в�
 ```csharp
 public bool External { get; set; }
 ```
-```vb
-Public Property External As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool External {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

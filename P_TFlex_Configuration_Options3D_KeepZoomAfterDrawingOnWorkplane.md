@@ -8,18 +8,8 @@
 ```csharp
 public bool KeepZoomAfterDrawingOnWorkplane { get; set; }
 ```
-```vb
-Public Property KeepZoomAfterDrawingOnWorkplane As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool KeepZoomAfterDrawingOnWorkplane {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

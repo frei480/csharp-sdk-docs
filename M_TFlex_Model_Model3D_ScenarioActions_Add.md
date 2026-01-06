@@ -8,13 +8,8 @@
 ```csharp
 public ScenarioAction Add()
 ```
-```vb
-Public Function Add As ScenarioAction
-```
-```cpp
-public:
-ScenarioAction^ Add()
-```
+
+
 
 
 #### Возвращаемое значение

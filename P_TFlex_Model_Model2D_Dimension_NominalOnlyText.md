@@ -11,16 +11,8 @@
 ```csharp
 public string NominalOnlyText { get; }
 ```
-```vb
-Public ReadOnly Property NominalOnlyText As String
-	Get
-```
-```cpp
-public:
-property String^ NominalOnlyText {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

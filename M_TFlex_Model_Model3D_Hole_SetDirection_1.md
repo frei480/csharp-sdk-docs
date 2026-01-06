@@ -14,19 +14,8 @@ public bool SetDirection(
 	LCS lcs
 )
 ```
-```vb
-Public Function SetDirection ( 
-	hole As Integer,
-	lcs As LCS
-) As Boolean
-```
-```cpp
-public:
-bool SetDirection(
-	int hole, 
-	LCS^ lcs
-)
-```
+
+
 
 
 #### Параметры

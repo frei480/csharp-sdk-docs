@@ -11,12 +11,8 @@
 ```csharp
 public enum PositionProperties
 ```
-```vb
-Public Enumeration PositionProperties
-```
-```cpp
-public enum class PositionProperties
-```
+
+
 
 
 | Имя члена | Значение | Описание |

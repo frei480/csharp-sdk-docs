@@ -13,12 +13,8 @@
 ```csharp
 public class BorderInfo
 ```
-```vb
-Public Class BorderInfo
-```
-```cpp
-public ref class BorderInfo
-```
+
+
 
 
 Тип BasePipeBorderInfo предоставляет следующие члены.

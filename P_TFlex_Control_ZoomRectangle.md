@@ -11,18 +11,8 @@
 ```csharp
 public virtual Rectangle ZoomRectangle { get; set; }
 ```
-```vb
-Public Overridable Property ZoomRectangle As Rectangle
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Rectangle ZoomRectangle {
-	Rectangle get ();
-	void set (Rectangle value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,20 +10,8 @@ public ModelEdge this[
 	int Index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	Index As Integer
-) As ModelEdge
-	Get
-	Set
-```
-```cpp
-public:
-property ModelEdge^ default[int Index] {
-	ModelEdge^ get (int Index);
-	void set (int Index, ModelEdge^ value);
-}
-```
+
+
 
 
 #### Параметры

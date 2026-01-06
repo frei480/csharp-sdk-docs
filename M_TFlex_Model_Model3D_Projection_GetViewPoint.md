@@ -11,13 +11,8 @@
 ```csharp
 public Point3D GetViewPoint()
 ```
-```vb
-Public Function GetViewPoint As Point3D
-```
-```cpp
-public:
-Point3D^ GetViewPoint()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -14,19 +14,8 @@ public Knot(
 	uint multiplicity
 )
 ```
-```vb
-Public Sub New ( 
-	value As Double,
-	multiplicity As UInteger
-)
-```
-```cpp
-public:
-Knot(
-	double value, 
-	unsigned int multiplicity
-)
-```
+
+
 
 
 #### Параметры

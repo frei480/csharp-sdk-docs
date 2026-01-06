@@ -13,17 +13,8 @@ public void ResetOffset(
 	double offset
 )
 ```
-```vb
-Public Sub ResetOffset ( 
-	offset As Double
-)
-```
-```cpp
-public:
-void ResetOffset(
-	double offset
-)
-```
+
+
 
 
 #### Параметры

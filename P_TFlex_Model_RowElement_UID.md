@@ -11,16 +11,8 @@
 ```csharp
 public Guid UID { get; }
 ```
-```vb
-Public ReadOnly Property UID As Guid
-	Get
-```
-```cpp
-public:
-property Guid UID {
-	Guid get ();
-}
-```
+
+
 
 
 #### Значение свойства

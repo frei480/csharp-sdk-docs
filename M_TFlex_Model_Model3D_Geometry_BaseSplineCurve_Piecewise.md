@@ -13,16 +13,8 @@ PiecewiseData Piecewise(
 	PiecewiseRepresentation representation
 )
 ```
-```vb
-Function Piecewise ( 
-	representation As PiecewiseRepresentation
-) As PiecewiseData
-```
-```cpp
-PiecewiseData^ Piecewise(
-	PiecewiseRepresentation representation
-)
-```
+
+
 
 
 #### Параметры

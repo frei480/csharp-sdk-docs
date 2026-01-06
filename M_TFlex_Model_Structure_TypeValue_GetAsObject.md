@@ -8,13 +8,8 @@
 ```csharp
 public override Object GetAsObject()
 ```
-```vb
-Public Overrides Function GetAsObject As Object
-```
-```cpp
-public:
-virtual Object^ GetAsObject() override
-```
+
+
 
 
 #### Возвращаемое значение

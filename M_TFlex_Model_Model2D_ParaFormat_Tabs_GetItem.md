@@ -13,17 +13,8 @@ public double GetItem(
 	int idx
 )
 ```
-```vb
-Public Function GetItem ( 
-	idx As Integer
-) As Double
-```
-```cpp
-public:
-double GetItem(
-	int idx
-)
-```
+
+
 
 
 #### Параметры

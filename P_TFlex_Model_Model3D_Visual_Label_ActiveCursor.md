@@ -8,18 +8,8 @@
 ```csharp
 public Cursor ActiveCursor { get; set; }
 ```
-```vb
-Public Property ActiveCursor As Cursor
-	Get
-	Set
-```
-```cpp
-public:
-property Cursor^ ActiveCursor {
-	Cursor^ get ();
-	void set (Cursor^ value);
-}
-```
+
+
 
 
 #### Значение свойства

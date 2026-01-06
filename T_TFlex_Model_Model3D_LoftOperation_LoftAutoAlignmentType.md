@@ -11,12 +11,8 @@
 ```csharp
 public enum LoftAutoAlignmentType
 ```
-```vb
-Public Enumeration LoftAutoAlignmentType
-```
-```cpp
-public enum class LoftAutoAlignmentType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

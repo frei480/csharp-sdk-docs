@@ -13,17 +13,8 @@ public SimpleViewSymbol(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-SimpleViewSymbol(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

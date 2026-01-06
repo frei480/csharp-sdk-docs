@@ -11,12 +11,8 @@
 ```csharp
 public enum TextVAlign
 ```
-```vb
-Public Enumeration TextVAlign
-```
-```cpp
-public enum class TextVAlign
-```
+
+
 
 
 | Имя члена | Значение | Описание |

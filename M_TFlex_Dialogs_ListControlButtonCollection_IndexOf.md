@@ -13,17 +13,8 @@ public int IndexOf(
 	ListControlStandardButton standardButton
 )
 ```
-```vb
-Public Function IndexOf ( 
-	standardButton As ListControlStandardButton
-) As Integer
-```
-```cpp
-public:
-int IndexOf(
-	ListControlStandardButton standardButton
-)
-```
+
+
 
 
 #### Параметры

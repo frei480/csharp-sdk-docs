@@ -11,16 +11,8 @@
 ```csharp
 public Parameter SetbackEnd { get; }
 ```
-```vb
-Public ReadOnly Property SetbackEnd As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ SetbackEnd {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

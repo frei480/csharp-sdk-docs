@@ -13,14 +13,8 @@
 ```csharp
 public class Positions : IEnumerator, IEnumerable
 ```
-```vb
-Public Class Positions
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class Positions : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип SurfaceSplinewiseDataPositions предоставляет следующие члены.

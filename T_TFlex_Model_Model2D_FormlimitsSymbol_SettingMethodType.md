@@ -11,12 +11,8 @@
 ```csharp
 public enum SettingMethodType
 ```
-```vb
-Public Enumeration SettingMethodType
-```
-```cpp
-public enum class SettingMethodType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -8,16 +8,8 @@
 ```csharp
 public bool IsOnSleeve { get; }
 ```
-```vb
-Public ReadOnly Property IsOnSleeve As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsOnSleeve {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<FocusChangedEventArgs> FocusChanged
 ```
-```vb
-Public Event FocusChanged As EventHandler(Of FocusChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<FocusChangedEventArgs^>^ FocusChanged {
-	void add (EventHandler<FocusChangedEventArgs^>^ value);
-	void remove (EventHandler<FocusChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

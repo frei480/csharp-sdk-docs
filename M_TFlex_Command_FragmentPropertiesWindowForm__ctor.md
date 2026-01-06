@@ -13,17 +13,8 @@ public FragmentPropertiesWindowForm(
 	ModelObject fragment
 )
 ```
-```vb
-Public Sub New ( 
-	fragment As ModelObject
-)
-```
-```cpp
-public:
-FragmentPropertiesWindowForm(
-	ModelObject^ fragment
-)
-```
+
+
 
 
 #### Параметры

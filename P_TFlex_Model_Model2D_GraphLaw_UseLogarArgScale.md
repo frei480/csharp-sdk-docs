@@ -11,18 +11,8 @@
 ```csharp
 public bool UseLogarArgScale { get; set; }
 ```
-```vb
-Public Property UseLogarArgScale As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseLogarArgScale {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

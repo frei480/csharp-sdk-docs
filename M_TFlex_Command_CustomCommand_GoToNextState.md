@@ -10,17 +10,8 @@ public void GoToNextState(
 	CommandState state
 )
 ```
-```vb
-Public Sub GoToNextState ( 
-	state As CommandState
-)
-```
-```cpp
-public:
-void GoToNextState(
-	CommandState^ state
-)
-```
+
+
 
 
 #### Параметры

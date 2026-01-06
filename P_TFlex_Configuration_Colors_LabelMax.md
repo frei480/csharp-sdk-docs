@@ -8,18 +8,8 @@
 ```csharp
 public int LabelMax { get; set; }
 ```
-```vb
-Public Property LabelMax As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int LabelMax {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

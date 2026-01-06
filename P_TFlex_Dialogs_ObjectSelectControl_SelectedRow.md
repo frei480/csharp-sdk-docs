@@ -11,18 +11,8 @@
 ```csharp
 public int SelectedRow { get; set; }
 ```
-```vb
-Public Property SelectedRow As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SelectedRow {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

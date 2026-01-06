@@ -8,16 +8,8 @@
 ```csharp
 public Dictionary<uint, double> TrackLengths { get; }
 ```
-```vb
-Public ReadOnly Property TrackLengths As Dictionary(Of UInteger, Double)
-	Get
-```
-```cpp
-public:
-property Dictionary<unsigned int, double>^ TrackLengths {
-	Dictionary<unsigned int, double>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

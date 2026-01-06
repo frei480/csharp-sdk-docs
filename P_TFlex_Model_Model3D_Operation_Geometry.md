@@ -11,16 +11,8 @@
 ```csharp
 public OperationGeometryData Geometry { get; }
 ```
-```vb
-Public ReadOnly Property Geometry As OperationGeometryData
-	Get
-```
-```cpp
-public:
-property OperationGeometryData^ Geometry {
-	OperationGeometryData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

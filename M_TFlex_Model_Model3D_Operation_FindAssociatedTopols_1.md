@@ -13,17 +13,8 @@ public List<ModelTopol> FindAssociatedTopols(
 	LCS lcs
 )
 ```
-```vb
-Public Function FindAssociatedTopols ( 
-	lcs As LCS
-) As List(Of ModelTopol)
-```
-```cpp
-public:
-List<ModelTopol^>^ FindAssociatedTopols(
-	LCS^ lcs
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public PropertyArrayReasonType Reason { get; }
 ```
-```vb
-Public ReadOnly Property Reason As PropertyArrayReasonType
-	Get
-```
-```cpp
-public:
-property PropertyArrayReasonType Reason {
-	PropertyArrayReasonType get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,21 +15,8 @@ public void SetTangentToCircle(
 	int variant
 )
 ```
-```vb
-Public Sub SetTangentToCircle ( 
-	srcNode As Node,
-	srcCircle As Construction,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetTangentToCircle(
-	Node^ srcNode, 
-	Construction^ srcCircle, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

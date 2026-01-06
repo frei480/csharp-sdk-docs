@@ -13,13 +13,8 @@
 ```csharp
 public class ReferenceProfile : Profile
 ```
-```vb
-Public Class ReferenceProfile
-	Inherits Profile
-```
-```cpp
-public ref class ReferenceProfile : public Profile
-```
+
+
 
 
 Тип ReferenceProfile предоставляет следующие члены.

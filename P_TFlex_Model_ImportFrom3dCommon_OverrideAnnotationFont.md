@@ -11,18 +11,8 @@
 ```csharp
 public bool OverrideAnnotationFont { get; set; }
 ```
-```vb
-Public Property OverrideAnnotationFont As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OverrideAnnotationFont {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

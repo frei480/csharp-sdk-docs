@@ -11,18 +11,8 @@
 ```csharp
 public Solid SecondSolid { get; set; }
 ```
-```vb
-Public Property SecondSolid As Solid
-	Get
-	Set
-```
-```cpp
-public:
-property Solid^ SecondSolid {
-	Solid^ get ();
-	void set (Solid^ value);
-}
-```
+
+
 
 
 #### Значение свойства

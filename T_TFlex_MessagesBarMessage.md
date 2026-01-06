@@ -13,12 +13,8 @@
 ```csharp
 public sealed class MessagesBarMessage
 ```
-```vb
-Public NotInheritable Class MessagesBarMessage
-```
-```cpp
-public ref class MessagesBarMessage sealed
-```
+
+
 
 
 Тип MessagesBarMessage предоставляет следующие члены.

@@ -11,12 +11,8 @@
 ```csharp
 public class LinkedObjectInfo
 ```
-```vb
-Public Class LinkedObjectInfo
-```
-```cpp
-public ref class LinkedObjectInfo
-```
+
+
 
 
 Тип LinkedObjectInfo предоставляет следующие члены.

@@ -10,16 +10,8 @@ public static implicit operator MaterialParameter (
 	string Name
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	Name As String
-) As MaterialParameter
-```
-```cpp
-static implicit operator MaterialParameter^ (
-	String^ Name
-)
-```
+
+
 
 
 #### Параметры

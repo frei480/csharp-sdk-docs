@@ -8,18 +8,8 @@
 ```csharp
 public bool UseLegacyPrintDialog { get; set; }
 ```
-```vb
-Public Property UseLegacyPrintDialog As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseLegacyPrintDialog {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

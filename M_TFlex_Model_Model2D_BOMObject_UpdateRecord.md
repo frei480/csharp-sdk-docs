@@ -11,13 +11,8 @@
 ```csharp
 public void UpdateRecord()
 ```
-```vb
-Public Sub UpdateRecord
-```
-```cpp
-public:
-void UpdateRecord()
-```
+
+
 
 
 #### Ссылки

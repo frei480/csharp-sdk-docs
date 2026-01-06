@@ -13,13 +13,8 @@
 ```csharp
 public class WireConnectionInfo : IComparable<WireConnectionInfo>
 ```
-```vb
-Public Class WireConnectionInfo
-	Implements IComparable(Of WireConnectionInfo)
-```
-```cpp
-public ref class WireConnectionInfo : IComparable<WireConnectionInfo^>
-```
+
+
 
 
 Тип WireConnectionInfo предоставляет следующие члены.

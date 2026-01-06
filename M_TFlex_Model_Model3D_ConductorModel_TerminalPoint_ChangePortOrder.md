@@ -10,17 +10,8 @@ public bool ChangePortOrder(
 	int index
 )
 ```
-```vb
-Public Function ChangePortOrder ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool ChangePortOrder(
-	int index
-)
-```
+
+
 
 
 #### Параметры

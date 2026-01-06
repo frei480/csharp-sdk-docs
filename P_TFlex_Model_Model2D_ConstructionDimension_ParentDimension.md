@@ -11,16 +11,8 @@
 ```csharp
 public ConstructionDimension ParentDimension { set; }
 ```
-```vb
-Public WriteOnly Property ParentDimension As ConstructionDimension
-	Set
-```
-```cpp
-public:
-property ConstructionDimension^ ParentDimension {
-	void set (ConstructionDimension^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public RotateSocketEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RotateSocketEventArgs()
-```
+
+
 
 
 #### Ссылки

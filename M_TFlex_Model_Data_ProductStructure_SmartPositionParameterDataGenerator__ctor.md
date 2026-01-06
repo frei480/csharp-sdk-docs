@@ -11,13 +11,8 @@
 ```csharp
 public SmartPositionParameterDataGenerator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SmartPositionParameterDataGenerator()
-```
+
+
 
 
 #### Ссылки

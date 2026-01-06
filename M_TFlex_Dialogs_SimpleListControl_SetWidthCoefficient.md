@@ -14,19 +14,8 @@ public void SetWidthCoefficient(
 	double widthCoefficient
 )
 ```
-```vb
-Public Sub SetWidthCoefficient ( 
-	column As Integer,
-	widthCoefficient As Double
-)
-```
-```cpp
-public:
-void SetWidthCoefficient(
-	int column, 
-	double widthCoefficient
-)
-```
+
+
 
 
 #### Параметры

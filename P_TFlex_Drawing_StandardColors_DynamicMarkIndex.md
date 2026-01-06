@@ -11,16 +11,8 @@
 ```csharp
 public static int DynamicMarkIndex { get; }
 ```
-```vb
-Public Shared ReadOnly Property DynamicMarkIndex As Integer
-	Get
-```
-```cpp
-public:
-static property int DynamicMarkIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

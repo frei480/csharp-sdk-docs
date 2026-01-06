@@ -11,13 +11,8 @@
 ```csharp
 public ElectricProperties()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ElectricProperties()
-```
+
+
 
 
 #### Ссылки

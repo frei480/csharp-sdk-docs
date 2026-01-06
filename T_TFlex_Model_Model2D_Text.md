@@ -14,15 +14,8 @@
 public abstract class Text : Object2D, 
 	IModelObjectWithLayer
 ```
-```vb
-Public MustInherit Class Text
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class Text abstract : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип Text предоставляет следующие члены.

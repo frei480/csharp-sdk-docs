@@ -11,13 +11,8 @@
 ```csharp
 public ObjectIdChain3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ObjectIdChain3D()
-```
+
+
 
 
 #### Ссылки

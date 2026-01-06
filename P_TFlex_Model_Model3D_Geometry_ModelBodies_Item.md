@@ -10,18 +10,8 @@ public ModelBody this[
 	int index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As Integer
-) As ModelBody
-	Get
-```
-```cpp
-public:
-property ModelBody^ default[int index] {
-	ModelBody^ get (int index);
-}
-```
+
+
 
 
 #### Параметры

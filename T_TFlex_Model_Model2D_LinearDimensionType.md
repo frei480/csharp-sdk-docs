@@ -11,12 +11,8 @@
 ```csharp
 public enum LinearDimensionType
 ```
-```vb
-Public Enumeration LinearDimensionType
-```
-```cpp
-public enum class LinearDimensionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

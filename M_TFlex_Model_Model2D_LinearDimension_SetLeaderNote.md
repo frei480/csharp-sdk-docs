@@ -17,25 +17,8 @@ public void SetLeaderNote(
 	double dY
 )
 ```
-```vb
-Public Sub SetLeaderNote ( 
-	fixNode1 As Node,
-	offset1 As Double,
-	fixLeaderNode As Node,
-	dX As Double,
-	dY As Double
-)
-```
-```cpp
-public:
-void SetLeaderNote(
-	Node^ fixNode1, 
-	double offset1, 
-	Node^ fixLeaderNode, 
-	double dX, 
-	double dY
-)
-```
+
+
 
 
 #### Параметры

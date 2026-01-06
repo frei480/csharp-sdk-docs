@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<CopyOperation> GetCopies()
 ```
-```vb
-Public Function GetCopies As ICollection(Of CopyOperation)
-```
-```cpp
-public:
-ICollection<CopyOperation^>^ GetCopies()
-```
+
+
 
 
 #### Возвращаемое значение

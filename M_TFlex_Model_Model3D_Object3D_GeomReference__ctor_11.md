@@ -14,19 +14,8 @@ public GeomReference(
 	uint states
 )
 ```
-```vb
-Public Sub New ( 
-	plane As ModelPlane,
-	states As UInteger
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelPlane^ plane, 
-	unsigned int states
-)
-```
+
+
 
 
 #### Параметры

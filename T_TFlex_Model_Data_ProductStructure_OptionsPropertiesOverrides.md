@@ -11,13 +11,8 @@
 ```csharp
 public class OptionsPropertiesOverrides : ICloneable
 ```
-```vb
-Public Class OptionsPropertiesOverrides
-	Implements ICloneable
-```
-```cpp
-public ref class OptionsPropertiesOverrides : ICloneable
-```
+
+
 
 
 Тип OptionsPropertiesOverrides предоставляет следующие члены.

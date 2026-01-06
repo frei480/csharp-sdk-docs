@@ -11,18 +11,8 @@
 ```csharp
 public string TempName { get; set; }
 ```
-```vb
-Public Property TempName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TempName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

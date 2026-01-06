@@ -11,18 +11,8 @@
 ```csharp
 public bool OverflowSmooth { get; set; }
 ```
-```vb
-Public Property OverflowSmooth As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OverflowSmooth {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

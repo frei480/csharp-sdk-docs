@@ -11,13 +11,8 @@
 ```csharp
 public class CableProducts : SettingsGroup
 ```
-```vb
-Public Class CableProducts
-	Inherits SettingsGroup
-```
-```cpp
-public ref class CableProducts : public SettingsGroup
-```
+
+
 
 
 Тип CableProducts предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public ModelPoint3D PointNearToSurface { get; set; }
 ```
-```vb
-Public Property PointNearToSurface As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ PointNearToSurface {
-	ModelPoint3D^ get ();
-	void set (ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

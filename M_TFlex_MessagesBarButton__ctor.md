@@ -11,13 +11,8 @@
 ```csharp
 public MessagesBarButton()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MessagesBarButton()
-```
+
+
 
 
 #### Ссылки

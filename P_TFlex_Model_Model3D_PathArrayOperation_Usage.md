@@ -11,18 +11,8 @@
 ```csharp
 public PathUsage Usage { get; set; }
 ```
-```vb
-Public Property Usage As PathUsage
-	Get
-	Set
-```
-```cpp
-public:
-property PathUsage Usage {
-	PathUsage get ();
-	void set (PathUsage value);
-}
-```
+
+
 
 
 #### Значение свойства

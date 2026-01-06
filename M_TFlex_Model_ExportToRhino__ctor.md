@@ -13,17 +13,8 @@ public ExportToRhino(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToRhino(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

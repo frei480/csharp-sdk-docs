@@ -12,21 +12,8 @@ public static bool TransformSymm(
 	ValueType p1
 )
 ```
-```vb
-Public Shared Function TransformSymm ( 
-	Objects As List(Of Object2D),
-	p0 As ValueType,
-	p1 As ValueType
-) As Boolean
-```
-```cpp
-public:
-static bool TransformSymm(
-	List<Object2D^>^ Objects, 
-	ValueType^ p0, 
-	ValueType^ p1
-)
-```
+
+
 
 
 #### Параметры

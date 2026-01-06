@@ -11,13 +11,8 @@
 ```csharp
 public ParametersPropertiesOverrides()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ParametersPropertiesOverrides()
-```
+
+
 
 
 #### Ссылки

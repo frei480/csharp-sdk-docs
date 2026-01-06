@@ -13,17 +13,8 @@ public void Add(
 	PiecewiseDataSegmentsSetSegment segment
 )
 ```
-```vb
-Public Sub Add ( 
-	segment As PiecewiseDataSegmentsSetSegment
-)
-```
-```cpp
-public:
-void Add(
-	PiecewiseDataSegmentsSetSegment^ segment
-)
-```
+
+
 
 
 #### Параметры

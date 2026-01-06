@@ -13,13 +13,8 @@
 ```csharp
 public class Variable : ModelObject
 ```
-```vb
-Public Class Variable
-	Inherits ModelObject
-```
-```cpp
-public ref class Variable : public ModelObject
-```
+
+
 
 
 Тип Variable предоставляет следующие члены.

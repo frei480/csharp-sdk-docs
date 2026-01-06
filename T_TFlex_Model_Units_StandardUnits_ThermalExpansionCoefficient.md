@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ThermalExpansionCoefficient
 ```
-```vb
-Public NotInheritable Class ThermalExpansionCoefficient
-```
-```cpp
-public ref class ThermalExpansionCoefficient sealed
-```
+
+
 
 
 Тип StandardUnitsThermalExpansionCoefficient предоставляет следующие члены.

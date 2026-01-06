@@ -11,13 +11,8 @@
 ```csharp
 public TempFileLinkParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-TempFileLinkParameters()
-```
+
+
 
 
 #### Ссылки

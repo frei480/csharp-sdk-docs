@@ -13,17 +13,8 @@ public bool ExportIcon(
 	string pathName
 )
 ```
-```vb
-Public Function ExportIcon ( 
-	pathName As String
-) As Boolean
-```
-```cpp
-public:
-bool ExportIcon(
-	String^ pathName
-)
-```
+
+
 
 
 #### Параметры

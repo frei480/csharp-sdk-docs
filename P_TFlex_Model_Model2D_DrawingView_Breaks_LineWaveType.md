@@ -11,18 +11,8 @@
 ```csharp
 public DrawingViewBreaksLineWaveTypes LineWaveType { get; set; }
 ```
-```vb
-Public Property LineWaveType As DrawingViewBreaksLineWaveTypes
-	Get
-	Set
-```
-```cpp
-public:
-property DrawingViewBreaksLineWaveTypes LineWaveType {
-	DrawingViewBreaksLineWaveTypes get ();
-	void set (DrawingViewBreaksLineWaveTypes value);
-}
-```
+
+
 
 
 #### Значение свойства

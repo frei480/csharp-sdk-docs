@@ -13,17 +13,8 @@ public OffsetProfile(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-OffsetProfile(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

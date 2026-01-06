@@ -11,16 +11,8 @@
 ```csharp
 public ModelEdge Edge { get; }
 ```
-```vb
-Public ReadOnly Property Edge As ModelEdge
-	Get
-```
-```cpp
-public:
-property ModelEdge^ Edge {
-	ModelEdge^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public void SetStepPath(
 	Path3D path
 )
 ```
-```vb
-Public Sub SetStepPath ( 
-	faceIndex As Integer,
-	path As Path3D
-)
-```
-```cpp
-public:
-void SetStepPath(
-	int faceIndex, 
-	Path3D^ path
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool UseWorkingArea { get; set; }
 ```
-```vb
-Public Property UseWorkingArea As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseWorkingArea {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ protected LinearDimensionBase(
 	Document Doc
 )
 ```
-```vb
-Protected Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-protected:
-LinearDimensionBase(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

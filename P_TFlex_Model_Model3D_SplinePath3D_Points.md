@@ -11,16 +11,8 @@
 ```csharp
 public PointsArray Points { get; }
 ```
-```vb
-Public ReadOnly Property Points As PointsArray
-	Get
-```
-```cpp
-public:
-property PointsArray^ Points {
-	PointsArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

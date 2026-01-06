@@ -11,13 +11,8 @@
 ```csharp
 public class CustomDoubleRangeAttribute : Attribute
 ```
-```vb
-Public Class CustomDoubleRangeAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomDoubleRangeAttribute : public Attribute
-```
+
+
 
 
 Тип CustomDoubleRangeAttribute предоставляет следующие члены.

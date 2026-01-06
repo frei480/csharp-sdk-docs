@@ -8,12 +8,8 @@
 ```csharp
 public enum DecimalDelimiterType
 ```
-```vb
-Public Enumeration DecimalDelimiterType
-```
-```cpp
-public enum class DecimalDelimiterType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

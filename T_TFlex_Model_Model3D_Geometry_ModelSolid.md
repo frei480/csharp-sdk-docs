@@ -14,15 +14,8 @@
 public sealed class ModelSolid : ModelBodies, 
 	Solid
 ```
-```vb
-Public NotInheritable Class ModelSolid
-	Inherits ModelBodies
-	Implements Solid
-```
-```cpp
-public ref class ModelSolid sealed : public ModelBodies, 
-	Solid
-```
+
+
 
 
 Тип ModelSolid предоставляет следующие члены.

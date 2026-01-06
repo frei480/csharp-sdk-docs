@@ -11,18 +11,8 @@
 ```csharp
 public IncludeInBom IncludeInNewBom { get; set; }
 ```
-```vb
-Public Property IncludeInNewBom As IncludeInBom
-	Get
-	Set
-```
-```cpp
-public:
-property IncludeInBom IncludeInNewBom {
-	IncludeInBom get ();
-	void set (IncludeInBom value);
-}
-```
+
+
 
 
 #### Значение свойства

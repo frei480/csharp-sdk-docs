@@ -13,17 +13,8 @@ public void RemoveRightFace(
 	int faceIndex
 )
 ```
-```vb
-Public Sub RemoveRightFace ( 
-	faceIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveRightFace(
-	int faceIndex
-)
-```
+
+
 
 
 #### Параметры

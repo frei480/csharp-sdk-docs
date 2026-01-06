@@ -11,13 +11,8 @@
 ```csharp
 public TransformationGroup AddBaseTransfGroup()
 ```
-```vb
-Public Function AddBaseTransfGroup As TransformationGroup
-```
-```cpp
-public:
-TransformationGroup^ AddBaseTransfGroup()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Millimole { get; }
 ```
-```vb
-Public Shared ReadOnly Property Millimole As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Millimole {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public EdgeBlendingPositionData GetPosition(
 	int positionIndex
 )
 ```
-```vb
-Public Function GetPosition ( 
-	positionIndex As Integer
-) As EdgeBlendingPositionData
-```
-```cpp
-public:
-EdgeBlendingPositionData^ GetPosition(
-	int positionIndex
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public virtual void OnExit(
 	ExitEventArgs e
 )
 ```
-```vb
-Public Overridable Sub OnExit ( 
-	e As ExitEventArgs
-)
-```
-```cpp
-public:
-virtual void OnExit(
-	ExitEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

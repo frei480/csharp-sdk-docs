@@ -11,18 +11,8 @@
 ```csharp
 public bool MinimiseTolerance { get; set; }
 ```
-```vb
-Public Property MinimiseTolerance As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool MinimiseTolerance {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

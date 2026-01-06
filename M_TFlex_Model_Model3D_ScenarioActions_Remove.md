@@ -10,17 +10,8 @@ public void Remove(
 	ScenarioAction action
 )
 ```
-```vb
-Public Sub Remove ( 
-	action As ScenarioAction
-)
-```
-```cpp
-public:
-void Remove(
-	ScenarioAction^ action
-)
-```
+
+
 
 
 #### Параметры

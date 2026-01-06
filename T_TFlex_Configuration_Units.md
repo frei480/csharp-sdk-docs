@@ -8,12 +8,8 @@
 ```csharp
 public enum Units
 ```
-```vb
-Public Enumeration Units
-```
-```cpp
-public enum class Units
-```
+
+
 
 
 | Имя члена | Значение | Описание |

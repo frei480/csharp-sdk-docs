@@ -11,18 +11,8 @@
 ```csharp
 public FormlimitsFitViewType AltFitView { get; set; }
 ```
-```vb
-Public Property AltFitView As FormlimitsFitViewType
-	Get
-	Set
-```
-```cpp
-public:
-property FormlimitsFitViewType AltFitView {
-	FormlimitsFitViewType get ();
-	void set (FormlimitsFitViewType value);
-}
-```
+
+
 
 
 #### Значение свойства

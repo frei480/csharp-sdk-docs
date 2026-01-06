@@ -11,12 +11,8 @@
 ```csharp
 public class MaterialPropertiesDistributionLaw
 ```
-```vb
-Public Class MaterialPropertiesDistributionLaw
-```
-```cpp
-public ref class MaterialPropertiesDistributionLaw
-```
+
+
 
 
 Тип MaterialPropertiesDistributionLaw предоставляет следующие члены.

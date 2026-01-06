@@ -11,16 +11,8 @@
 ```csharp
 public PipeCircleProfileProperties ProfileProps { get; }
 ```
-```vb
-Public ReadOnly Property ProfileProps As PipeCircleProfileProperties
-	Get
-```
-```cpp
-public:
-property PipeCircleProfileProperties^ ProfileProps {
-	PipeCircleProfileProperties^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

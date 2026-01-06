@@ -11,18 +11,8 @@
 ```csharp
 public PageTabAlignment TabAlignment { get; set; }
 ```
-```vb
-Public Property TabAlignment As PageTabAlignment
-	Get
-	Set
-```
-```cpp
-public:
-property PageTabAlignment TabAlignment {
-	PageTabAlignment get ();
-	void set (PageTabAlignment value);
-}
-```
+
+
 
 
 #### Значение свойства

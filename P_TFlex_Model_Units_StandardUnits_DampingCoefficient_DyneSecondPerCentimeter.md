@@ -13,16 +13,8 @@
 ```csharp
 public static Unit DyneSecondPerCentimeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property DyneSecondPerCentimeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ DyneSecondPerCentimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

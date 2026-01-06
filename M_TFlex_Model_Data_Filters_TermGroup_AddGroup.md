@@ -13,17 +13,8 @@ public TermGroup AddGroup(
 	LogicalOperator logicalOperator
 )
 ```
-```vb
-Public Function AddGroup ( 
-	logicalOperator As LogicalOperator
-) As TermGroup
-```
-```cpp
-public:
-TermGroup^ AddGroup(
-	LogicalOperator logicalOperator
-)
-```
+
+
 
 
 #### Параметры

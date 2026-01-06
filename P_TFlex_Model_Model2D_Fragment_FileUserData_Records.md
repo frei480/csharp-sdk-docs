@@ -14,18 +14,8 @@
 [ObsoleteAttribute("The property is obsolete. Content is formed by conversion from product structure. Use ProductStructures property instead.")]
 public IEnumerable<FragmentFileUserDataRecordUserData> Records { get; }
 ```
-```vb
-<ObsoleteAttribute("The property is obsolete. Content is formed by conversion from product structure. Use ProductStructures property instead.")>
-Public ReadOnly Property Records As IEnumerable(Of FragmentFileUserDataRecordUserData)
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"The property is obsolete. Content is formed by conversion from product structure. Use ProductStructures property instead.")]
-property IEnumerable<FragmentFileUserDataRecordUserData^>^ Records {
-	IEnumerable<FragmentFileUserDataRecordUserData^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public int SketchConstraintDefined { get; set; }
 ```
-```vb
-Public Property SketchConstraintDefined As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SketchConstraintDefined {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

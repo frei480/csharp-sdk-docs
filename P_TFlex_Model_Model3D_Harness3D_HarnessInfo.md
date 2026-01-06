@@ -8,16 +8,8 @@
 ```csharp
 public Harness3DHarness3DInfo HarnessInfo { get; }
 ```
-```vb
-Public ReadOnly Property HarnessInfo As Harness3DHarness3DInfo
-	Get
-```
-```cpp
-public:
-property Harness3DHarness3DInfo^ HarnessInfo {
-	Harness3DHarness3DInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public WPFWindow(
 	FrameworkElement element
 )
 ```
-```vb
-Public Sub New ( 
-	element As FrameworkElement
-)
-```
-```cpp
-public:
-WPFWindow(
-	FrameworkElement^ element
-)
-```
+
+
 
 
 #### Параметры

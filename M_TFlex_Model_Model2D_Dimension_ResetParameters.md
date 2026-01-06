@@ -11,13 +11,8 @@
 ```csharp
 public void ResetParameters()
 ```
-```vb
-Public Sub ResetParameters
-```
-```cpp
-public:
-void ResetParameters()
-```
+
+
 
 
 #### Ссылки

@@ -14,19 +14,8 @@ public RibbonButton AddChildButton(
 	RibbonButtonStyle style
 )
 ```
-```vb
-Public Function AddChildButton ( 
-	id As Integer,
-	style As RibbonButtonStyle
-) As RibbonButton
-```
-```cpp
-public:
-RibbonButton^ AddChildButton(
-	int id, 
-	RibbonButtonStyle style
-)
-```
+
+
 
 
 #### Параметры

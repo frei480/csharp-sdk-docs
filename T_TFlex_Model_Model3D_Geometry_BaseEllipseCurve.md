@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseEllipseCurve
 ```
-```vb
-Public Interface BaseEllipseCurve
-```
-```cpp
-public interface class BaseEllipseCurve
-```
+
+
 
 
 Тип BaseEllipseCurve предоставляет следующие члены.

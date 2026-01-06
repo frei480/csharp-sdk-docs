@@ -11,13 +11,8 @@
 ```csharp
 public int Columns
 ```
-```vb
-Public Columns As Integer
-```
-```cpp
-public:
-int Columns
-```
+
+
 
 
 #### Значение поля

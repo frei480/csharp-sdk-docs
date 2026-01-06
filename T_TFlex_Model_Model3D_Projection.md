@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Projection : Object3D
 ```
-```vb
-Public MustInherit Class Projection
-	Inherits Object3D
-```
-```cpp
-public ref class Projection abstract : public Object3D
-```
+
+
 
 
 Тип Projection предоставляет следующие члены.

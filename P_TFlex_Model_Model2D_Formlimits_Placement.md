@@ -11,18 +11,8 @@
 ```csharp
 public int Placement { get; set; }
 ```
-```vb
-Public Property Placement As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int Placement {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

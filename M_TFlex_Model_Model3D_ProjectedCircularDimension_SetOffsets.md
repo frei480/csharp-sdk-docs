@@ -15,21 +15,8 @@ public void SetOffsets(
 	double offset
 )
 ```
-```vb
-Public Sub SetOffsets ( 
-	fixNode As Node,
-	angle As Double,
-	offset As Double
-)
-```
-```cpp
-public:
-void SetOffsets(
-	Node^ fixNode, 
-	double angle, 
-	double offset
-)
-```
+
+
 
 
 #### Параметры

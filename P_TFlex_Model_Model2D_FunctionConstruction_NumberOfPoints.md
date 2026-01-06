@@ -11,18 +11,8 @@
 ```csharp
 public Parameter NumberOfPoints { get; set; }
 ```
-```vb
-Public Property NumberOfPoints As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ NumberOfPoints {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

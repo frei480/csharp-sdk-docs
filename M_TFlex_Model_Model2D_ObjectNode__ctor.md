@@ -15,21 +15,8 @@ public ObjectNode(
 	ModelObject parentObject
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	index As UInteger,
-	parentObject As ModelObject
-)
-```
-```cpp
-public:
-ObjectNode(
-	Document^ document, 
-	unsigned int index, 
-	ModelObject^ parentObject
-)
-```
+
+
 
 
 #### Параметры

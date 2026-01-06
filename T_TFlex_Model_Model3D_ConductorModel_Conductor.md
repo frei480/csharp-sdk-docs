@@ -11,12 +11,8 @@
 ```csharp
 public class Conductor
 ```
-```vb
-Public Class Conductor
-```
-```cpp
-public ref class Conductor
-```
+
+
 
 
 Тип Conductor предоставляет следующие члены.

@@ -13,17 +13,8 @@ public ExportToDWG(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToDWG(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

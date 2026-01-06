@@ -13,13 +13,8 @@
 ```csharp
 public class BipolarElement : Restraint
 ```
-```vb
-Public Class BipolarElement
-	Inherits Restraint
-```
-```cpp
-public ref class BipolarElement : public Restraint
-```
+
+
 
 
 Тип BipolarElement предоставляет следующие члены.

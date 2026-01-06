@@ -11,18 +11,8 @@
 ```csharp
 public uint Division { get; set; }
 ```
-```vb
-Public Property Division As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int Division {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

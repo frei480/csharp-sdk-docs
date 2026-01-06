@@ -13,13 +13,8 @@
 ```csharp
 public class PolylineGeometry : ObjectGeometry
 ```
-```vb
-Public Class PolylineGeometry
-	Inherits ObjectGeometry
-```
-```cpp
-public ref class PolylineGeometry : public ObjectGeometry
-```
+
+
 
 
 Тип PolylineGeometry предоставляет следующие члены.

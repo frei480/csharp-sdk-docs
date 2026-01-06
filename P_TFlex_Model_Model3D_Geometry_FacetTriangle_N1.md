@@ -11,16 +11,8 @@
 ```csharp
 public Direction N1 { get; }
 ```
-```vb
-Public ReadOnly Property N1 As Direction
-	Get
-```
-```cpp
-public:
-property Direction^ N1 {
-	Direction^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

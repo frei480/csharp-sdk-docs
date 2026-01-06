@@ -10,16 +10,8 @@ Dictionary<string, Object> GetBooleanOperation(
 	Document document
 )
 ```
-```vb
-Function GetBooleanOperation ( 
-	document As Document
-) As Dictionary(Of String, Object)
-```
-```cpp
-Dictionary<String^, Object^>^ GetBooleanOperation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

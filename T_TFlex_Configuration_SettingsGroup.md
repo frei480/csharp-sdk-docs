@@ -11,13 +11,8 @@
 ```csharp
 public class SettingsGroup : IDisposable
 ```
-```vb
-Public Class SettingsGroup
-	Implements IDisposable
-```
-```cpp
-public ref class SettingsGroup : IDisposable
-```
+
+
 
 
 Тип SettingsGroup предоставляет следующие члены.

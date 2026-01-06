@@ -8,18 +8,8 @@
 ```csharp
 public string FragmentFileFolder { get; set; }
 ```
-```vb
-Public Property FragmentFileFolder As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ FragmentFileFolder {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

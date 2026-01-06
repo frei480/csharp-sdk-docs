@@ -11,13 +11,8 @@
 ```csharp
 public abstract class GeometryModification : IDisposable
 ```
-```vb
-Public MustInherit Class GeometryModification
-	Implements IDisposable
-```
-```cpp
-public ref class GeometryModification abstract : IDisposable
-```
+
+
 
 
 Тип GeometryModification предоставляет следующие члены.

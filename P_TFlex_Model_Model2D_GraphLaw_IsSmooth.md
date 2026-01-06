@@ -11,16 +11,8 @@
 ```csharp
 public bool IsSmooth { get; }
 ```
-```vb
-Public ReadOnly Property IsSmooth As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsSmooth {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

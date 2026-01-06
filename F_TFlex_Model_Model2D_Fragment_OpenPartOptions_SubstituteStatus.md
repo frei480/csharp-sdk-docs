@@ -11,13 +11,8 @@
 ```csharp
 public bool SubstituteStatus
 ```
-```vb
-Public SubstituteStatus As Boolean
-```
-```cpp
-public:
-bool SubstituteStatus
-```
+
+
 
 
 #### Значение поля

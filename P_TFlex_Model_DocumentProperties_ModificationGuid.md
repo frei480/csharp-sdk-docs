@@ -11,16 +11,8 @@ Guid модификации документа
 ```csharp
 public Guid ModificationGuid { get; }
 ```
-```vb
-Public ReadOnly Property ModificationGuid As Guid
-	Get
-```
-```cpp
-public:
-property Guid ModificationGuid {
-	Guid get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public virtual Point GetModelPoint(
 	Point pt
 )
 ```
-```vb
-Public Overridable Function GetModelPoint ( 
-	pt As Point
-) As Point
-```
-```cpp
-public:
-virtual Point GetModelPoint(
-	Point pt
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public LeaderNoteExtension3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LeaderNoteExtension3D()
-```
+
+
 
 
 #### Ссылки

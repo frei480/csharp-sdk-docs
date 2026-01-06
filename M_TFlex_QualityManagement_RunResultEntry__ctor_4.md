@@ -13,17 +13,8 @@ public RunResultEntry(
 	ObjectId objectId
 )
 ```
-```vb
-Public Sub New ( 
-	objectId As ObjectId
-)
-```
-```cpp
-public:
-RunResultEntry(
-	ObjectId^ objectId
-)
-```
+
+
 
 
 #### Параметры

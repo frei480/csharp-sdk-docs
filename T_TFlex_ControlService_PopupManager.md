@@ -11,12 +11,8 @@
 ```csharp
 public class PopupManager
 ```
-```vb
-Public Class PopupManager
-```
-```cpp
-public ref class PopupManager
-```
+
+
 
 
 Тип PopupManager предоставляет следующие члены.

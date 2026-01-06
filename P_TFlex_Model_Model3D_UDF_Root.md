@@ -11,16 +11,8 @@
 ```csharp
 public UDFFolderParameter Root { get; }
 ```
-```vb
-Public ReadOnly Property Root As UDFFolderParameter
-	Get
-```
-```cpp
-public:
-property UDFFolderParameter^ Root {
-	UDFFolderParameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

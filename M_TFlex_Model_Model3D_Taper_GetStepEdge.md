@@ -13,17 +13,8 @@ public ModelEdge GetStepEdge(
 	int stepEdgeIndex
 )
 ```
-```vb
-Public Function GetStepEdge ( 
-	stepEdgeIndex As Integer
-) As ModelEdge
-```
-```cpp
-public:
-ModelEdge^ GetStepEdge(
-	int stepEdgeIndex
-)
-```
+
+
 
 
 #### Параметры

@@ -14,14 +14,8 @@
 public abstract class BaseLoops : IEnumerator, 
 	IEnumerable, IDisposable
 ```
-```vb
-Public MustInherit Class BaseLoops
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class BaseLoops abstract : IEnumerator, 
-	IEnumerable, IDisposable
-```
+
+
 
 
 Тип BaseLoops предоставляет следующие члены.

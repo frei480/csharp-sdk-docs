@@ -11,18 +11,8 @@
 ```csharp
 public OnWirePointReferenceType Reference { get; set; }
 ```
-```vb
-Public Property Reference As OnWirePointReferenceType
-	Get
-	Set
-```
-```cpp
-public:
-property OnWirePointReferenceType Reference {
-	OnWirePointReferenceType get ();
-	void set (OnWirePointReferenceType value);
-}
-```
+
+
 
 
 #### Значение свойства

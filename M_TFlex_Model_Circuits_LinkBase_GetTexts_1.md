@@ -12,21 +12,8 @@ public abstract IEnumerable<Tuple<MultilineText, string>> GetTexts(
 	DesignationType type
 )
 ```
-```vb
-Public MustOverride Function GetTexts ( 
-	edit As Boolean,
-	point As FixingVector,
-	type As DesignationType
-) As IEnumerable(Of Tuple(Of MultilineText, String))
-```
-```cpp
-public:
-virtual IEnumerable<Tuple<MultilineText^, String^>^>^ GetTexts(
-	bool edit, 
-	FixingVector^ point, 
-	DesignationType type
-) abstract
-```
+
+
 
 
 #### Параметры

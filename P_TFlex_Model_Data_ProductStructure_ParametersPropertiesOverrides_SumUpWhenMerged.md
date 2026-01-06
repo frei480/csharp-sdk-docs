@@ -8,16 +8,8 @@
 ```csharp
 public BoolOverrideCollection SumUpWhenMerged { get; }
 ```
-```vb
-Public ReadOnly Property SumUpWhenMerged As BoolOverrideCollection
-	Get
-```
-```cpp
-public:
-property BoolOverrideCollection^ SumUpWhenMerged {
-	BoolOverrideCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

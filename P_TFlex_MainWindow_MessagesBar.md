@@ -11,16 +11,8 @@
 ```csharp
 public MessagesBar MessagesBar { get; }
 ```
-```vb
-Public ReadOnly Property MessagesBar As MessagesBar
-	Get
-```
-```cpp
-public:
-property MessagesBar^ MessagesBar {
-	MessagesBar^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

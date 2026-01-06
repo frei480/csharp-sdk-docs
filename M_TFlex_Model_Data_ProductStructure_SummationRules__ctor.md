@@ -11,13 +11,8 @@
 ```csharp
 public SummationRules()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SummationRules()
-```
+
+
 
 
 #### Ссылки

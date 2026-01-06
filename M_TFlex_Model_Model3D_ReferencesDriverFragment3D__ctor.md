@@ -13,17 +13,8 @@ public ReferencesDriverFragment3D(
 	Fragment3D Owner
 )
 ```
-```vb
-Public Sub New ( 
-	Owner As Fragment3D
-)
-```
-```cpp
-public:
-ReferencesDriverFragment3D(
-	Fragment3D^ Owner
-)
-```
+
+
 
 
 #### Параметры

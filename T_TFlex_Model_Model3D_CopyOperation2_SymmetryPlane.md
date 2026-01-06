@@ -11,12 +11,8 @@
 ```csharp
 public enum SymmetryPlane
 ```
-```vb
-Public Enumeration SymmetryPlane
-```
-```cpp
-public enum class SymmetryPlane
-```
+
+
 
 
 | Имя члена | Значение | Описание |

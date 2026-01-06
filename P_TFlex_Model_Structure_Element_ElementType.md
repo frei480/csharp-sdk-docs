@@ -8,18 +8,8 @@
 ```csharp
 public ElementType ElementType { get; set; }
 ```
-```vb
-Public Property ElementType As ElementType
-	Get
-	Set
-```
-```cpp
-public:
-property ElementType^ ElementType {
-	ElementType^ get ();
-	void set (ElementType^ value);
-}
-```
+
+
 
 
 #### Значение свойства

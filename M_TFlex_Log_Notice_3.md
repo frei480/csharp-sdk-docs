@@ -11,19 +11,8 @@ public static void Notice(
 	params Object[] args
 )
 ```
-```vb
-Public Shared Sub Notice ( 
-	format As String,
-	ParamArray args As Object()
-)
-```
-```cpp
-public:
-static void Notice(
-	String^ format, 
-	... array<Object^>^ args
-)
-```
+
+
 
 
 #### Параметры

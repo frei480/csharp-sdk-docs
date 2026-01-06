@@ -11,16 +11,8 @@
 ```csharp
 public ExportToMetafile ExportToMetafile { get; }
 ```
-```vb
-Public ReadOnly Property ExportToMetafile As ExportToMetafile
-	Get
-```
-```cpp
-public:
-property ExportToMetafile^ ExportToMetafile {
-	ExportToMetafile^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

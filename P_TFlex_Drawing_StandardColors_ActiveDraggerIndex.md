@@ -11,16 +11,8 @@
 ```csharp
 public static int ActiveDraggerIndex { get; }
 ```
-```vb
-Public Shared ReadOnly Property ActiveDraggerIndex As Integer
-	Get
-```
-```cpp
-public:
-static property int ActiveDraggerIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

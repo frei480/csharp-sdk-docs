@@ -11,18 +11,8 @@
 ```csharp
 public PrimitiveThicknessType ThicknessMethod { get; set; }
 ```
-```vb
-Public Property ThicknessMethod As PrimitiveThicknessType
-	Get
-	Set
-```
-```cpp
-public:
-property PrimitiveThicknessType ThicknessMethod {
-	PrimitiveThicknessType get ();
-	void set (PrimitiveThicknessType value);
-}
-```
+
+
 
 
 #### Значение свойства

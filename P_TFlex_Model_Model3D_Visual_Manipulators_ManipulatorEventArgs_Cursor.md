@@ -11,16 +11,8 @@
 ```csharp
 public Point Cursor { get; }
 ```
-```vb
-Public ReadOnly Property Cursor As Point
-	Get
-```
-```cpp
-public:
-property Point Cursor {
-	Point get ();
-}
-```
+
+
 
 
 #### Значение свойства

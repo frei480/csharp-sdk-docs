@@ -8,16 +8,8 @@
 ```csharp
 public ProdStructProps Properties { get; }
 ```
-```vb
-Public ReadOnly Property Properties As ProdStructProps
-	Get
-```
-```cpp
-public:
-property ProdStructProps^ Properties {
-	ProdStructProps^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

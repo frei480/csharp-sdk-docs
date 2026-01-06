@@ -11,13 +11,8 @@
 ```csharp
 public class CustomUserControlAttribute : Attribute
 ```
-```vb
-Public Class CustomUserControlAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomUserControlAttribute : public Attribute
-```
+
+
 
 
 Тип CustomUserControlAttribute предоставляет следующие члены.

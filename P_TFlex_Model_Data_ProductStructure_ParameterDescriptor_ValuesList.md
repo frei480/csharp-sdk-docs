@@ -8,18 +8,8 @@
 ```csharp
 public ObservableCollection<string> ValuesList { get; set; }
 ```
-```vb
-Public Property ValuesList As ObservableCollection(Of String)
-	Get
-	Set
-```
-```cpp
-public:
-property ObservableCollection<String^>^ ValuesList {
-	ObservableCollection<String^>^ get ();
-	void set (ObservableCollection<String^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

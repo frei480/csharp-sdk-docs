@@ -11,13 +11,8 @@
 ```csharp
 protected virtual int GetNodeCount()
 ```
-```vb
-Protected Overridable Function GetNodeCount As Integer
-```
-```cpp
-protected:
-virtual int GetNodeCount()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,13 +11,8 @@
 ```csharp
 public ICollection<RowElementGroup> GetRowElementGroups()
 ```
-```vb
-Public Function GetRowElementGroups As ICollection(Of RowElementGroup)
-```
-```cpp
-public:
-ICollection<RowElementGroup^>^ GetRowElementGroups()
-```
+
+
 
 
 #### Возвращаемое значение

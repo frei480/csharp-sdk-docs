@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Tilt { get; set; }
 ```
-```vb
-Public Property Tilt As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Tilt {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public bool IsClosedIfWire { get; }
 ```
-```vb
-Public ReadOnly Property IsClosedIfWire As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsClosedIfWire {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

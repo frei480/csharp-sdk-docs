@@ -11,13 +11,8 @@
 ```csharp
 public class AltDimension : SettingsGroup
 ```
-```vb
-Public Class AltDimension
-	Inherits SettingsGroup
-```
-```cpp
-public ref class AltDimension : public SettingsGroup
-```
+
+
 
 
 Тип AltDimension предоставляет следующие члены.

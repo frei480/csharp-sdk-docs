@@ -12,21 +12,8 @@ public static void ForceWrite(
 	Object arg
 )
 ```
-```vb
-Public Shared Sub ForceWrite ( 
-	severity As LogSeverity,
-	format As String,
-	arg As Object
-)
-```
-```cpp
-public:
-static void ForceWrite(
-	LogSeverity severity, 
-	String^ format, 
-	Object^ arg
-)
-```
+
+
 
 
 #### Параметры

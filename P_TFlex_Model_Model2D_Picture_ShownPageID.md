@@ -11,18 +11,8 @@ ID отображаемой страницы чертежа
 ```csharp
 public uint ShownPageID { get; set; }
 ```
-```vb
-Public Property ShownPageID As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int ShownPageID {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

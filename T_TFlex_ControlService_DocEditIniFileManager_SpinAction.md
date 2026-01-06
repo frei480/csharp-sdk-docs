@@ -8,12 +8,8 @@
 ```csharp
 public enum SpinAction
 ```
-```vb
-Public Enumeration SpinAction
-```
-```cpp
-public enum class SpinAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

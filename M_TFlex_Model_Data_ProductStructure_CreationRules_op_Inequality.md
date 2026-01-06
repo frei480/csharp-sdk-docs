@@ -11,19 +11,8 @@ public static bool operator !=(
 	CreationRules right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As CreationRules,
-	right As CreationRules
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	CreationRules^ left, 
-	CreationRules^ right
-)
-```
+
+
 
 
 #### Параметры

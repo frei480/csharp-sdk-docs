@@ -13,12 +13,8 @@
 ```csharp
 public struct FloatVector
 ```
-```vb
-Public Structure FloatVector
-```
-```cpp
-public value class FloatVector
-```
+
+
 
 
 Тип FloatVector предоставляет следующие члены.

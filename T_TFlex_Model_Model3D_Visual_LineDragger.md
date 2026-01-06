@@ -16,15 +16,8 @@
 [ObsoleteAttribute("This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")]
 public class LineDragger : Dragger
 ```
-```vb
-<ObsoleteAttribute("This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")>
-Public Class LineDragger
-	Inherits Dragger
-```
-```cpp
-[ObsoleteAttribute(L"This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")]
-public ref class LineDragger : public Dragger
-```
+
+
 
 
 Тип LineDragger предоставляет следующие члены.

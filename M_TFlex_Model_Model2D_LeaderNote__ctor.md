@@ -13,17 +13,8 @@ public LeaderNote(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-LeaderNote(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

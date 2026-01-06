@@ -11,12 +11,8 @@
 ```csharp
 public enum LoftType
 ```
-```vb
-Public Enumeration LoftType
-```
-```cpp
-public enum class LoftType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,13 +11,8 @@
 ```csharp
 public class Enumerator : IEnumerator<ExternalOperation>
 ```
-```vb
-Public Class Enumerator
-	Implements IEnumerator(Of ExternalOperation)
-```
-```cpp
-public ref class Enumerator : IEnumerator<ExternalOperation^>
-```
+
+
 
 
 Тип ExternalOperationCollectionEnumerator предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public abstract class BodyGenerator : BaseGenerator
 ```
-```vb
-Public MustInherit Class BodyGenerator
-	Inherits BaseGenerator
-```
-```cpp
-public ref class BodyGenerator abstract : public BaseGenerator
-```
+
+
 
 
 Тип BodyGenerator предоставляет следующие члены.

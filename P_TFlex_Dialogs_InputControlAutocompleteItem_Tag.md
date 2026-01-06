@@ -8,18 +8,8 @@
 ```csharp
 public string Tag { get; set; }
 ```
-```vb
-Public Property Tag As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Tag {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

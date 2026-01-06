@@ -11,13 +11,8 @@
 ```csharp
 public class ShellWireSetManipulator : WireSetManipulator
 ```
-```vb
-Public Class ShellWireSetManipulator
-	Inherits WireSetManipulator
-```
-```cpp
-public ref class ShellWireSetManipulator : public WireSetManipulator
-```
+
+
 
 
 Тип ShellWireSetManipulator предоставляет следующие члены.

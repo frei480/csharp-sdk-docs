@@ -10,16 +10,8 @@ public delegate void DraggerEventHandler(
 	DraggerEventArgs args
 )
 ```
-```vb
-Public Delegate Sub DraggerEventHandler ( 
-	args As DraggerEventArgs
-)
-```
-```cpp
-public delegate void DraggerEventHandler(
-	DraggerEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

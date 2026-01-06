@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ScaleFactor { get; set; }
 ```
-```vb
-Public Property ScaleFactor As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ScaleFactor {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,13 +8,8 @@
 ```csharp
 public abstract void RemoveChainDesignations()
 ```
-```vb
-Public MustOverride Sub RemoveChainDesignations
-```
-```cpp
-public:
-virtual void RemoveChainDesignations() abstract
-```
+
+
 
 
 #### Ссылки

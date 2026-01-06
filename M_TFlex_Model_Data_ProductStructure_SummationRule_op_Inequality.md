@@ -11,19 +11,8 @@ public static bool operator !=(
 	SummationRule right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As SummationRule,
-	right As SummationRule
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	SummationRule^ left, 
-	SummationRule^ right
-)
-```
+
+
 
 
 #### Параметры

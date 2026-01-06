@@ -15,21 +15,8 @@ public void SetDividingNodes(
 	Parameter param
 )
 ```
-```vb
-Public Sub SetDividingNodes ( 
-	srcNode1 As Node,
-	srcNode2 As Node,
-	param As Parameter
-)
-```
-```cpp
-public:
-void SetDividingNodes(
-	Node^ srcNode1, 
-	Node^ srcNode2, 
-	Parameter^ param
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public void SetNormal(
 	bool norm
 )
 ```
-```vb
-Public Sub SetNormal ( 
-	i As Integer,
-	norm As Boolean
-)
-```
-```cpp
-public:
-void SetNormal(
-	int i, 
-	bool norm
-)
-```
+
+
 
 
 #### Параметры

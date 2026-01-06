@@ -14,19 +14,8 @@ public void SplitHorizontally(
 	ViewType bottom
 )
 ```
-```vb
-Public Sub SplitHorizontally ( 
-	top As ViewType,
-	bottom As ViewType
-)
-```
-```cpp
-public:
-void SplitHorizontally(
-	ViewType top, 
-	ViewType bottom
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public Parameter GetPositionOnSurface(
 	Coordinate indCoord
 )
 ```
-```vb
-Public Function GetPositionOnSurface ( 
-	indCoord As Coordinate
-) As Parameter
-```
-```cpp
-public:
-Parameter^ GetPositionOnSurface(
-	Coordinate indCoord
-)
-```
+
+
 
 
 #### Параметры

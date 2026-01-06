@@ -13,17 +13,8 @@ public ButtonControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-ButtonControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

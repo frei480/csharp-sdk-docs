@@ -11,13 +11,8 @@
 ```csharp
 public int TextRectangleIndex
 ```
-```vb
-Public TextRectangleIndex As Integer
-```
-```cpp
-public:
-int TextRectangleIndex
-```
+
+
 
 
 #### Значение поля

@@ -8,18 +8,8 @@
 ```csharp
 public ParamConditionTermSortLogicOper LogicOper { get; set; }
 ```
-```vb
-Public Property LogicOper As ParamConditionTermSortLogicOper
-	Get
-	Set
-```
-```cpp
-public:
-property ParamConditionTermSortLogicOper LogicOper {
-	ParamConditionTermSortLogicOper get ();
-	void set (ParamConditionTermSortLogicOper value);
-}
-```
+
+
 
 
 #### Значение свойства

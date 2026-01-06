@@ -11,16 +11,8 @@
 ```csharp
 public LinearDimensionLinkedObjectLineType LinkedLineType { get; }
 ```
-```vb
-Public ReadOnly Property LinkedLineType As LinearDimensionLinkedObjectLineType
-	Get
-```
-```cpp
-public:
-property LinearDimensionLinkedObjectLineType LinkedLineType {
-	LinearDimensionLinkedObjectLineType get ();
-}
-```
+
+
 
 
 #### Значение свойства

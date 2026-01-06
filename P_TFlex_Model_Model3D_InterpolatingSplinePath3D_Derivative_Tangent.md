@@ -11,18 +11,8 @@
 ```csharp
 public bool Tangent { get; set; }
 ```
-```vb
-Public Property Tangent As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Tangent {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

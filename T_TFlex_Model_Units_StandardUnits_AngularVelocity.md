@@ -13,12 +13,8 @@
 ```csharp
 public sealed class AngularVelocity
 ```
-```vb
-Public NotInheritable Class AngularVelocity
-```
-```cpp
-public ref class AngularVelocity sealed
-```
+
+
 
 
 Тип StandardUnitsAngularVelocity предоставляет следующие члены.

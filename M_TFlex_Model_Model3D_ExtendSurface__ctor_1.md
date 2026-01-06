@@ -13,17 +13,8 @@ public ExtendSurface(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-ExtendSurface(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

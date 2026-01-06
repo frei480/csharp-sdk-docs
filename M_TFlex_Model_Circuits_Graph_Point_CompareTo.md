@@ -10,17 +10,8 @@ public virtual int CompareTo(
 	Point obj
 )
 ```
-```vb
-Public Overridable Function CompareTo ( 
-	obj As Point
-) As Integer
-```
-```cpp
-public:
-virtual int CompareTo(
-	Point^ obj
-)
-```
+
+
 
 
 #### Параметры

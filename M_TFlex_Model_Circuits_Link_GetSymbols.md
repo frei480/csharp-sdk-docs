@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerable<LinkSymbol> GetSymbols()
 ```
-```vb
-Public Function GetSymbols As IEnumerable(Of LinkSymbol)
-```
-```cpp
-public:
-IEnumerable<LinkSymbol^>^ GetSymbols()
-```
+
+
 
 
 #### Возвращаемое значение

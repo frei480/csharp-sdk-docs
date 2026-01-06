@@ -11,13 +11,8 @@
 ```csharp
 public Contour AppendContour()
 ```
-```vb
-Public Function AppendContour As Contour
-```
-```cpp
-public:
-Contour^ AppendContour()
-```
+
+
 
 
 #### Возвращаемое значение

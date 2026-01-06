@@ -8,18 +8,8 @@
 ```csharp
 public bool StartAsServer { get; set; }
 ```
-```vb
-Public Property StartAsServer As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool StartAsServer {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

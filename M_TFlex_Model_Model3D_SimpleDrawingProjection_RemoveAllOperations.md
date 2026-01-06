@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllOperations()
 ```
-```vb
-Public Sub RemoveAllOperations
-```
-```cpp
-public:
-void RemoveAllOperations()
-```
+
+
 
 
 #### Ссылки

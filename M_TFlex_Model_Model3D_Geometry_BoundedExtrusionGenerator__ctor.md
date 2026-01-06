@@ -17,25 +17,8 @@ public BoundedExtrusionGenerator(
 	BoundedExtrusionGeneratorBound end
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	vector As BaseDirection,
-	profile As Body,
-	start As BoundedExtrusionGeneratorBound,
-	end As BoundedExtrusionGeneratorBound
-)
-```
-```cpp
-public:
-BoundedExtrusionGenerator(
-	ProxyObject3D^ object, 
-	BaseDirection^ vector, 
-	Body^ profile, 
-	BoundedExtrusionGeneratorBound^ start, 
-	BoundedExtrusionGeneratorBound^ end
-)
-```
+
+
 
 
 #### Параметры

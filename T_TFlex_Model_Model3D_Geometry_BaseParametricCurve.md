@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseParametricCurve
 ```
-```vb
-Public Interface BaseParametricCurve
-```
-```cpp
-public interface class BaseParametricCurve
-```
+
+
 
 
 Тип BaseParametricCurve предоставляет следующие члены.

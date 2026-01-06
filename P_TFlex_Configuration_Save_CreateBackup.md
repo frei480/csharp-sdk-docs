@@ -8,18 +8,8 @@
 ```csharp
 public BackupMode CreateBackup { get; set; }
 ```
-```vb
-Public Property CreateBackup As BackupMode
-	Get
-	Set
-```
-```cpp
-public:
-property BackupMode CreateBackup {
-	BackupMode get ();
-	void set (BackupMode value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ThreadLineColor { get; set; }
 ```
-```vb
-Public Property ThreadLineColor As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ThreadLineColor {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -17,25 +17,8 @@ protected Decoration FindClosestPoint(
 	ref FloatVector closestPoint
 )
 ```
-```vb
-Protected Function FindClosestPoint ( 
-	view As View3D,
-	x As Integer,
-	y As Integer,
-	tolerance As Single,
-	ByRef closestPoint As FloatVector
-) As Decoration
-```
-```cpp
-protected:
-Decoration^ FindClosestPoint(
-	View3D^ view, 
-	int x, 
-	int y, 
-	float tolerance, 
-	FloatVector% closestPoint
-)
-```
+
+
 
 
 #### Параметры

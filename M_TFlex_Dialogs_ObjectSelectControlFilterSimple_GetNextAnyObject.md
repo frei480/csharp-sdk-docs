@@ -11,13 +11,8 @@
 ```csharp
 public abstract ObjectSelectControlPlainObject GetNextAnyObject()
 ```
-```vb
-Public MustOverride Function GetNextAnyObject As ObjectSelectControlPlainObject
-```
-```cpp
-public:
-virtual ObjectSelectControlPlainObject GetNextAnyObject() abstract
-```
+
+
 
 
 #### Возвращаемое значение

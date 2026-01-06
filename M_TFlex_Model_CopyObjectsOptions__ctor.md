@@ -11,13 +11,8 @@
 ```csharp
 public CopyObjectsOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CopyObjectsOptions()
-```
+
+
 
 
 #### Ссылки

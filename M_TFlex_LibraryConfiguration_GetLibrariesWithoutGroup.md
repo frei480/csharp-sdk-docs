@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerator<Library> GetLibrariesWithoutGroup()
 ```
-```vb
-Public Function GetLibrariesWithoutGroup As IEnumerator(Of Library)
-```
-```cpp
-public:
-virtual IEnumerator<Library^>^ GetLibrariesWithoutGroup() sealed
-```
+
+
 
 
 #### Возвращаемое значение

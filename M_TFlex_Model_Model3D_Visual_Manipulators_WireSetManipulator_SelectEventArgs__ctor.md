@@ -11,13 +11,8 @@
 ```csharp
 public SelectEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SelectEventArgs()
-```
+
+
 
 
 #### Ссылки

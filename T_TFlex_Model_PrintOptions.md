@@ -13,12 +13,8 @@
 ```csharp
 public sealed class PrintOptions
 ```
-```vb
-Public NotInheritable Class PrintOptions
-```
-```cpp
-public ref class PrintOptions sealed
-```
+
+
 
 
 Тип PrintOptions предоставляет следующие члены.

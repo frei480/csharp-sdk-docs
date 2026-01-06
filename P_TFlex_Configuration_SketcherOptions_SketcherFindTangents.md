@@ -8,18 +8,8 @@
 ```csharp
 public bool SketcherFindTangents { get; set; }
 ```
-```vb
-Public Property SketcherFindTangents As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SketcherFindTangents {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

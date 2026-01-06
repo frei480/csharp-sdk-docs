@@ -8,18 +8,8 @@
 ```csharp
 public LCS LCS { get; set; }
 ```
-```vb
-Public Property LCS As LCS
-	Get
-	Set
-```
-```cpp
-public:
-property LCS^ LCS {
-	LCS^ get ();
-	void set (LCS^ value);
-}
-```
+
+
 
 
 #### Значение свойства

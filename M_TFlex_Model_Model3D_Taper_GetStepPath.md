@@ -13,17 +13,8 @@ public Path3D GetStepPath(
 	int faceIndex
 )
 ```
-```vb
-Public Function GetStepPath ( 
-	faceIndex As Integer
-) As Path3D
-```
-```cpp
-public:
-Path3D^ GetStepPath(
-	int faceIndex
-)
-```
+
+
 
 
 #### Параметры

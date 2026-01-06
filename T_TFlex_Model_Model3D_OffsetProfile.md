@@ -13,13 +13,8 @@
 ```csharp
 public class OffsetProfile : Profile
 ```
-```vb
-Public Class OffsetProfile
-	Inherits Profile
-```
-```cpp
-public ref class OffsetProfile : public Profile
-```
+
+
 
 
 Тип OffsetProfile предоставляет следующие члены.

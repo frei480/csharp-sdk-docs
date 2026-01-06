@@ -8,18 +8,8 @@
 ```csharp
 public int GeometricReferenceSourceType { get; set; }
 ```
-```vb
-Public Property GeometricReferenceSourceType As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int GeometricReferenceSourceType {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

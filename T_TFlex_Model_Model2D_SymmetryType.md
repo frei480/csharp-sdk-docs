@@ -11,12 +11,8 @@
 ```csharp
 public enum SymmetryType
 ```
-```vb
-Public Enumeration SymmetryType
-```
-```cpp
-public enum class SymmetryType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

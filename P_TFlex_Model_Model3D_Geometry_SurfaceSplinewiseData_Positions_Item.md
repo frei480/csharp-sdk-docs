@@ -10,18 +10,8 @@ public SurfaceSplinewiseDataPositionsPositionsRow this[
 	uint index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As UInteger
-) As SurfaceSplinewiseDataPositionsPositionsRow
-	Get
-```
-```cpp
-public:
-property SurfaceSplinewiseDataPositionsPositionsRow^ default[unsigned int index] {
-	SurfaceSplinewiseDataPositionsPositionsRow^ get (unsigned int index);
-}
-```
+
+
 
 
 #### Параметры

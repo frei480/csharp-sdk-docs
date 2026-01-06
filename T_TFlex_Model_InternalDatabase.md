@@ -13,13 +13,8 @@
 ```csharp
 public class InternalDatabase : Database
 ```
-```vb
-Public Class InternalDatabase
-	Inherits Database
-```
-```cpp
-public ref class InternalDatabase : public Database
-```
+
+
 
 
 Тип InternalDatabase предоставляет следующие члены.

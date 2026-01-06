@@ -13,13 +13,8 @@
 ```csharp
 public class PathArrayOperation : ArrayOperation
 ```
-```vb
-Public Class PathArrayOperation
-	Inherits ArrayOperation
-```
-```cpp
-public ref class PathArrayOperation : public ArrayOperation
-```
+
+
 
 
 Тип PathArrayOperation предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public UnitsExtensions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-UnitsExtensions()
-```
+
+
 
 
 #### Ссылки

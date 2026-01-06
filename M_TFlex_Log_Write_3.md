@@ -12,21 +12,8 @@ public static void Write(
 	params Object[] args
 )
 ```
-```vb
-Public Shared Sub Write ( 
-	severity As LogSeverity,
-	format As String,
-	ParamArray args As Object()
-)
-```
-```cpp
-public:
-static void Write(
-	LogSeverity severity, 
-	String^ format, 
-	... array<Object^>^ args
-)
-```
+
+
 
 
 #### Параметры

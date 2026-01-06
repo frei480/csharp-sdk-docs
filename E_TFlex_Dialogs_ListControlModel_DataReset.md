@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<EventArgs> DataReset
 ```
-```vb
-Public Event DataReset As EventHandler(Of EventArgs)
-```
-```cpp
-public:
- event EventHandler<EventArgs^>^ DataReset {
-	void add (EventHandler<EventArgs^>^ value);
-	void remove (EventHandler<EventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

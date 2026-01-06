@@ -8,18 +8,8 @@
 ```csharp
 public bool ResultByBoundBox { get; set; }
 ```
-```vb
-Public Property ResultByBoundBox As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ResultByBoundBox {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void RemoveContour(
 	int contourIndex
 )
 ```
-```vb
-Public Sub RemoveContour ( 
-	contourIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveContour(
-	int contourIndex
-)
-```
+
+
 
 
 #### Параметры

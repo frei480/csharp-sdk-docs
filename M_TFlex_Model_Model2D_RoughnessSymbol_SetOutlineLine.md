@@ -15,21 +15,8 @@ public void SetOutlineLine(
 	Parameter offset
 )
 ```
-```vb
-Public Sub SetOutlineLine ( 
-	line As Outline,
-	isOnEnd As Boolean,
-	offset As Parameter
-)
-```
-```cpp
-public:
-void SetOutlineLine(
-	Outline^ line, 
-	bool isOnEnd, 
-	Parameter^ offset
-)
-```
+
+
 
 
 #### Параметры

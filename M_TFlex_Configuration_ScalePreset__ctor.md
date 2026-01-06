@@ -11,13 +11,8 @@
 ```csharp
 public ScalePreset()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ScalePreset()
-```
+
+
 
 
 #### Ссылки

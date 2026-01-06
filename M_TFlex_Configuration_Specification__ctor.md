@@ -11,13 +11,8 @@
 ```csharp
 public Specification()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Specification()
-```
+
+
 
 
 #### Ссылки

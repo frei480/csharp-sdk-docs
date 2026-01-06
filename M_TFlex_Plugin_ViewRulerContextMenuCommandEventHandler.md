@@ -13,17 +13,8 @@ protected virtual void ViewRulerContextMenuCommandEventHandler(
 	ViewRulerContextMenuCommandEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub ViewRulerContextMenuCommandEventHandler ( 
-	args As ViewRulerContextMenuCommandEventArgs
-)
-```
-```cpp
-protected:
-virtual void ViewRulerContextMenuCommandEventHandler(
-	ViewRulerContextMenuCommandEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

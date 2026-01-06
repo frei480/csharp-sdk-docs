@@ -13,19 +13,8 @@ public static ICollection<Rebend> GetRebends(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetRebends ( 
-	document As Document
-) As ICollection(Of Rebend)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Rebend^>^ GetRebends(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

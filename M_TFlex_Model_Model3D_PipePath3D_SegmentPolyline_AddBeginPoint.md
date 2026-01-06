@@ -11,13 +11,8 @@
 ```csharp
 public PipePath3DPointPolyline AddBeginPoint()
 ```
-```vb
-Public Function AddBeginPoint As PipePath3DPointPolyline
-```
-```cpp
-public:
-PipePath3DPointPolyline^ AddBeginPoint()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,18 +11,8 @@
 ```csharp
 public double FaceTolerance { get; set; }
 ```
-```vb
-Public Property FaceTolerance As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double FaceTolerance {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

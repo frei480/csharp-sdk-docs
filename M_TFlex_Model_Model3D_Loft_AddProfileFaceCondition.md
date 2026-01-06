@@ -14,19 +14,8 @@ public void AddProfileFaceCondition(
 	LoftFaceCondition condition
 )
 ```
-```vb
-Public Sub AddProfileFaceCondition ( 
-	profileIndex As Integer,
-	condition As LoftFaceCondition
-)
-```
-```cpp
-public:
-void AddProfileFaceCondition(
-	int profileIndex, 
-	LoftFaceCondition^ condition
-)
-```
+
+
 
 
 #### Параметры

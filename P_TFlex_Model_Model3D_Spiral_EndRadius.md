@@ -11,18 +11,8 @@
 ```csharp
 public Parameter EndRadius { get; set; }
 ```
-```vb
-Public Property EndRadius As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ EndRadius {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

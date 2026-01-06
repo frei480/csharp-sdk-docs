@@ -11,16 +11,8 @@
 ```csharp
 public EdgesArray FixedEdges { get; }
 ```
-```vb
-Public ReadOnly Property FixedEdges As EdgesArray
-	Get
-```
-```cpp
-public:
-property EdgesArray^ FixedEdges {
-	EdgesArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

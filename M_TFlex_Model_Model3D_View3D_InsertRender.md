@@ -10,17 +10,8 @@ public void InsertRender(
 	IntPtr Handle
 )
 ```
-```vb
-Public Sub InsertRender ( 
-	Handle As IntPtr
-)
-```
-```cpp
-public:
-void InsertRender(
-	IntPtr Handle
-)
-```
+
+
 
 
 #### Параметры

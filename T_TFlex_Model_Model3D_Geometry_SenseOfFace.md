@@ -11,12 +11,8 @@
 ```csharp
 public enum SenseOfFace
 ```
-```vb
-Public Enumeration SenseOfFace
-```
-```cpp
-public enum class SenseOfFace
-```
+
+
 
 
 | Имя члена | Значение | Описание |

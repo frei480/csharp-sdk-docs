@@ -16,25 +16,8 @@ public static bool GetSelectionFilterButtonState(
 	ref bool disabled
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetSelectionFilterButtonState ( 
-	owner As IFilterOwner,
-	objectType As ObjectType,
-	ByRef checked As Boolean,
-	ByRef disabled As Boolean
-) As Boolean
-```
-```cpp
-public:
-[ExtensionAttribute]
-static bool GetSelectionFilterButtonState(
-	IFilterOwner^ owner, 
-	ObjectType objectType, 
-	bool% checked, 
-	bool% disabled
-)
-```
+
+
 
 
 #### Параметры

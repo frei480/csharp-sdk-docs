@@ -11,18 +11,8 @@
 ```csharp
 public BodyTaperMethodType Method { get; set; }
 ```
-```vb
-Public Property Method As BodyTaperMethodType
-	Get
-	Set
-```
-```cpp
-public:
-property BodyTaperMethodType Method {
-	BodyTaperMethodType get ();
-	void set (BodyTaperMethodType value);
-}
-```
+
+
 
 
 #### Значение свойства

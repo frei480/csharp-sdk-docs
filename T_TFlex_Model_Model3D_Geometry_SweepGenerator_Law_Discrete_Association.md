@@ -13,13 +13,8 @@
 ```csharp
 public class Association : ICloneable
 ```
-```vb
-Public Class Association
-	Implements ICloneable
-```
-```cpp
-public ref class Association : ICloneable
-```
+
+
 
 
 Тип SweepGeneratorLawDiscreteAssociation предоставляет следующие члены.

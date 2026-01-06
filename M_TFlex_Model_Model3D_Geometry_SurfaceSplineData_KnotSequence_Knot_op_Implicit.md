@@ -10,16 +10,8 @@ public static implicit operator SurfaceSplineDataKnotSequenceKnot (
 	double value
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	value As Double
-) As SurfaceSplineDataKnotSequenceKnot
-```
-```cpp
-static implicit operator SurfaceSplineDataKnotSequenceKnot^ (
-	double value
-)
-```
+
+
 
 
 #### Параметры

@@ -15,21 +15,8 @@ protected SelectionFilterButton CreateSelectionFilterButton(
 	ObjectType neighbor
 )
 ```
-```vb
-Protected Function CreateSelectionFilterButton ( 
-	iconId As Guid,
-	toolTip As String,
-	neighbor As ObjectType
-) As SelectionFilterButton
-```
-```cpp
-protected:
-SelectionFilterButton^ CreateSelectionFilterButton(
-	Guid iconId, 
-	String^ toolTip, 
-	ObjectType neighbor
-)
-```
+
+
 
 
 #### Параметры

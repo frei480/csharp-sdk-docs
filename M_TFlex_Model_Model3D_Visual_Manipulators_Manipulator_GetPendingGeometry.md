@@ -8,13 +8,8 @@
 ```csharp
 public Geometry GetPendingGeometry()
 ```
-```vb
-Public Function GetPendingGeometry As Geometry
-```
-```cpp
-public:
-Geometry^ GetPendingGeometry()
-```
+
+
 
 
 #### Возвращаемое значение

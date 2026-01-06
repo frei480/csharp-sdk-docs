@@ -11,12 +11,8 @@
 ```csharp
 public enum Color
 ```
-```vb
-Public Enumeration Color
-```
-```cpp
-public enum class Color
-```
+
+
 
 
 | Имя члена | Значение | Описание |

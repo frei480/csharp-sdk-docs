@@ -15,21 +15,8 @@ public FolderParameter(
 	bool deletable
 )
 ```
-```vb
-Public Sub New ( 
-	udf As UDF,
-	item As IntPtr,
-	deletable As Boolean
-)
-```
-```cpp
-public:
-FolderParameter(
-	UDF^ udf, 
-	IntPtr item, 
-	bool deletable
-)
-```
+
+
 
 
 #### Параметры

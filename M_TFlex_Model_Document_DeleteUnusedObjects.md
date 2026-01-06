@@ -13,17 +13,8 @@ public bool DeleteUnusedObjects(
 	DeleteUnusedOptions options
 )
 ```
-```vb
-Public Function DeleteUnusedObjects ( 
-	options As DeleteUnusedOptions
-) As Boolean
-```
-```cpp
-public:
-bool DeleteUnusedObjects(
-	DeleteUnusedOptions^ options
-)
-```
+
+
 
 
 #### Параметры

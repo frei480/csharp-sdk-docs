@@ -13,17 +13,8 @@ public PathBy2DElems(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-PathBy2DElems(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@ DPI
 ```csharp
 public int DPI { get; set; }
 ```
-```vb
-Public Property DPI As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int DPI {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

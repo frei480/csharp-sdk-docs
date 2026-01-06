@@ -8,18 +8,8 @@
 ```csharp
 public bool UseLevelOfDetail { get; set; }
 ```
-```vb
-Public Property UseLevelOfDetail As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseLevelOfDetail {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

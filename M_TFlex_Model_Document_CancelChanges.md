@@ -11,13 +11,8 @@
 ```csharp
 public void CancelChanges()
 ```
-```vb
-Public Sub CancelChanges
-```
-```cpp
-public:
-void CancelChanges()
-```
+
+
 
 
 Функция закрывает блок изменения документа, открытый при помощи функции [BeginChanges(String)](M_TFlex_Model_Document_BeginChanges.md) с отменой всех произведённых изменений.

@@ -11,16 +11,8 @@
 ```csharp
 public abstract BaseBody BaseBody { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property BaseBody As BaseBody
-	Get
-```
-```cpp
-public:
-virtual property BaseBody^ BaseBody {
-	BaseBody^ get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

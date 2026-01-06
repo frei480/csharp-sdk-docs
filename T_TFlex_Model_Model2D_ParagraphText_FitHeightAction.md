@@ -11,12 +11,8 @@
 ```csharp
 public enum FitHeightAction
 ```
-```vb
-Public Enumeration FitHeightAction
-```
-```cpp
-public enum class FitHeightAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

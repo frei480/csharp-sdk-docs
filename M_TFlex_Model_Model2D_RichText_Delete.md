@@ -11,13 +11,8 @@
 ```csharp
 public void Delete()
 ```
-```vb
-Public Sub Delete
-```
-```cpp
-public:
-void Delete()
-```
+
+
 
 
 #### Ссылки

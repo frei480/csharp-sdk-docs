@@ -13,23 +13,8 @@ public static ImportedOperation Create(
 	List<Point> points
 )
 ```
-```vb
-Public Shared Function Create ( 
-	document As Document,
-	curves As List(Of BaseCurve),
-	intervals As List(Of BaseInterval),
-	points As List(Of Point)
-) As ImportedOperation
-```
-```cpp
-public:
-static ImportedOperation^ Create(
-	Document^ document, 
-	List<BaseCurve^>^ curves, 
-	List<BaseInterval^>^ intervals, 
-	List<Point>^ points
-)
-```
+
+
 
 
 #### Параметры

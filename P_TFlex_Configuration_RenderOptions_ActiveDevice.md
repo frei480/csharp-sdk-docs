@@ -8,18 +8,8 @@
 ```csharp
 public ActiveDeviceType ActiveDevice { get; set; }
 ```
-```vb
-Public Property ActiveDevice As ActiveDeviceType
-	Get
-	Set
-```
-```cpp
-public:
-property ActiveDeviceType ActiveDevice {
-	ActiveDeviceType get ();
-	void set (ActiveDeviceType value);
-}
-```
+
+
 
 
 #### Значение свойства

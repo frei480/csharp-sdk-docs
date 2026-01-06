@@ -11,12 +11,8 @@
 ```csharp
 public enum WallsType
 ```
-```vb
-Public Enumeration WallsType
-```
-```cpp
-public enum class WallsType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

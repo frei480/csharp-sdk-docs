@@ -13,13 +13,8 @@
 ```csharp
 public sealed class FileLink : IDisposable
 ```
-```vb
-Public NotInheritable Class FileLink
-	Implements IDisposable
-```
-```cpp
-public ref class FileLink sealed : IDisposable
-```
+
+
 
 
 Тип FileLink предоставляет следующие члены.

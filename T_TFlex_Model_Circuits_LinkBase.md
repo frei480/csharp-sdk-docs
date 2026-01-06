@@ -11,13 +11,8 @@
 ```csharp
 public abstract class LinkBase : Object2D
 ```
-```vb
-Public MustInherit Class LinkBase
-	Inherits Object2D
-```
-```cpp
-public ref class LinkBase abstract : public Object2D
-```
+
+
 
 
 Тип LinkBase предоставляет следующие члены.

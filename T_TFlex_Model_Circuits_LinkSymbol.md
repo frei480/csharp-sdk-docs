@@ -13,13 +13,8 @@
 ```csharp
 public class LinkSymbol : Object2D
 ```
-```vb
-Public Class LinkSymbol
-	Inherits Object2D
-```
-```cpp
-public ref class LinkSymbol : public Object2D
-```
+
+
 
 
 Тип LinkSymbol предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public ModelVertex Vertex { get; }
 ```
-```vb
-Public ReadOnly Property Vertex As ModelVertex
-	Get
-```
-```cpp
-public:
-property ModelVertex^ Vertex {
-	ModelVertex^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public GeomReference(
 	ModelBox box
 )
 ```
-```vb
-Public Sub New ( 
-	box As ModelBox
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelBox^ box
-)
-```
+
+
 
 
 #### Параметры

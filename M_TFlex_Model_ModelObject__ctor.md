@@ -14,19 +14,8 @@ protected ModelObject(
 	bool addToContainer
 )
 ```
-```vb
-Protected Sub New ( 
-	handle As IntPtr,
-	addToContainer As Boolean
-)
-```
-```cpp
-protected:
-ModelObject(
-	IntPtr handle, 
-	bool addToContainer
-)
-```
+
+
 
 
 #### Параметры

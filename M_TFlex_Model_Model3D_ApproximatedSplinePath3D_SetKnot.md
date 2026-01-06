@@ -14,19 +14,8 @@ public void SetKnot(
 	Parameter param
 )
 ```
-```vb
-Public Sub SetKnot ( 
-	index As Integer,
-	param As Parameter
-)
-```
-```cpp
-public:
-void SetKnot(
-	int index, 
-	Parameter^ param
-)
-```
+
+
 
 
 #### Параметры

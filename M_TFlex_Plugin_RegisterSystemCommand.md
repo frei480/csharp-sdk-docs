@@ -13,17 +13,8 @@ protected bool RegisterSystemCommand(
 	int id
 )
 ```
-```vb
-Protected Function RegisterSystemCommand ( 
-	id As Integer
-) As Boolean
-```
-```cpp
-protected:
-bool RegisterSystemCommand(
-	int id
-)
-```
+
+
 
 
 #### Параметры

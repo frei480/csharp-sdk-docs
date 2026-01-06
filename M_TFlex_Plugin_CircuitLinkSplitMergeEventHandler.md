@@ -13,17 +13,8 @@ protected virtual void CircuitLinkSplitMergeEventHandler(
 	CircuitLinkSplitMergeEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub CircuitLinkSplitMergeEventHandler ( 
-	args As CircuitLinkSplitMergeEventArgs
-)
-```
-```cpp
-protected:
-virtual void CircuitLinkSplitMergeEventHandler(
-	CircuitLinkSplitMergeEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum LocalCommands
 ```
-```vb
-Public Enumeration LocalCommands
-```
-```cpp
-public enum class LocalCommands
-```
+
+
 
 
 | Имя члена | Значение | Описание |

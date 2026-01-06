@@ -10,17 +10,8 @@ public IEnumerable<ModelBody> FindByChain(
 	List<ObjectId> chainIds
 )
 ```
-```vb
-Public Function FindByChain ( 
-	chainIds As List(Of ObjectId)
-) As IEnumerable(Of ModelBody)
-```
-```cpp
-public:
-IEnumerable<ModelBody^>^ FindByChain(
-	List<ObjectId^>^ chainIds
-)
-```
+
+
 
 
 #### Параметры

@@ -8,12 +8,8 @@
 ```csharp
 public enum FrustumCullingType
 ```
-```vb
-Public Enumeration FrustumCullingType
-```
-```cpp
-public enum class FrustumCullingType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

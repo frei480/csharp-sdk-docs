@@ -11,18 +11,8 @@
 ```csharp
 public float Resolution { get; set; }
 ```
-```vb
-Public Property Resolution As Single
-	Get
-	Set
-```
-```cpp
-public:
-property float Resolution {
-	float get ();
-	void set (float value);
-}
-```
+
+
 
 
 #### Значение свойства

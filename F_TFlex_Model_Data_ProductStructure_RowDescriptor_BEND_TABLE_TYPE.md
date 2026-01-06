@@ -8,13 +8,8 @@
 ```csharp
 public const int BEND_TABLE_TYPE = 20001
 ```
-```vb
-Public Const BEND_TABLE_TYPE As Integer = 20001
-```
-```cpp
-public:
-literal int BEND_TABLE_TYPE = 20001
-```
+
+
 
 
 #### Значение поля

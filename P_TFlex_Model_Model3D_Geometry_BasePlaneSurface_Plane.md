@@ -11,15 +11,8 @@
 ```csharp
 BasePlane Plane { get; }
 ```
-```vb
-ReadOnly Property Plane As BasePlane
-	Get
-```
-```cpp
-property BasePlane^ Plane {
-	BasePlane^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

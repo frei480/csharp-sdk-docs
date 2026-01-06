@@ -11,13 +11,8 @@
 ```csharp
 public class Fragments : SettingsGroup
 ```
-```vb
-Public Class Fragments
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Fragments : public SettingsGroup
-```
+
+
 
 
 Тип Fragments предоставляет следующие члены.

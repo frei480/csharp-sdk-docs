@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetPathArrays' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer PathArrays { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetPathArrays' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property PathArrays As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetPathArrays' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ PathArrays {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

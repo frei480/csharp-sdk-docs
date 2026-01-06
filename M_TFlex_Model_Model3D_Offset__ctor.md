@@ -13,17 +13,8 @@ public Offset(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-Offset(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

@@ -11,19 +11,8 @@ public double ConvertTo(
 	double value
 )
 ```
-```vb
-Public Function ConvertTo ( 
-	trgUnit As Unit,
-	value As Double
-) As Double
-```
-```cpp
-public:
-double ConvertTo(
-	Unit^ trgUnit, 
-	double value
-)
-```
+
+
 
 
 #### Параметры

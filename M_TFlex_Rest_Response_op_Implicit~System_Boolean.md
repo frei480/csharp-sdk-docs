@@ -8,12 +8,8 @@
 ```csharp
 public implicit operator bool ()
 ```
-```vb
-Public Widening Operator CType As Boolean
-```
-```cpp
-implicit operator bool ()
-```
+
+
 
 
 #### Возвращаемое значение

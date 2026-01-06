@@ -11,18 +11,8 @@
 ```csharp
 public ThreadLimitsMeasure EndLimitMeasure { get; set; }
 ```
-```vb
-Public Property EndLimitMeasure As ThreadLimitsMeasure
-	Get
-	Set
-```
-```cpp
-public:
-property ThreadLimitsMeasure EndLimitMeasure {
-	ThreadLimitsMeasure get ();
-	void set (ThreadLimitsMeasure value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public BasePoint3D End { get; }
 ```
-```vb
-Public ReadOnly Property End As BasePoint3D
-	Get
-```
-```cpp
-public:
-property BasePoint3D^ End {
-	BasePoint3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class Box : BaseBox
 ```
-```vb
-Public Class Box
-	Inherits BaseBox
-```
-```cpp
-public ref class Box : public BaseBox
-```
+
+
 
 
 Тип Box предоставляет следующие члены.

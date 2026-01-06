@@ -8,18 +8,8 @@
 ```csharp
 public OverrideBool UniteElements { get; set; }
 ```
-```vb
-Public Property UniteElements As OverrideBool
-	Get
-	Set
-```
-```cpp
-public:
-property OverrideBool UniteElements {
-	OverrideBool get ();
-	void set (OverrideBool value);
-}
-```
+
+
 
 
 #### Значение свойства

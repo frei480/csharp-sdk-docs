@@ -11,13 +11,8 @@
 ```csharp
 public class SingleObjectRepresentation : ObjectRepresentation
 ```
-```vb
-Public Class SingleObjectRepresentation
-	Inherits ObjectRepresentation
-```
-```cpp
-public ref class SingleObjectRepresentation : public ObjectRepresentation
-```
+
+
 
 
 Тип SingleObjectRepresentation предоставляет следующие члены.

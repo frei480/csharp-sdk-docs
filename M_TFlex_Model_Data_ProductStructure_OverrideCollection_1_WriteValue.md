@@ -11,19 +11,8 @@ protected abstract void WriteValue(
 	T value
 )
 ```
-```vb
-Protected MustOverride Sub WriteValue ( 
-	writer As XmlWriter,
-	value As T
-)
-```
-```cpp
-protected:
-virtual void WriteValue(
-	XmlWriter^ writer, 
-	T value
-) abstract
-```
+
+
 
 
 #### Параметры

@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetLights' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer Lights { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetLights' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property Lights As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetLights' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ Lights {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

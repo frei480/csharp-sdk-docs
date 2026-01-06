@@ -11,16 +11,8 @@
 ```csharp
 protected virtual bool IsAlwaysDrawing { get; }
 ```
-```vb
-Protected Overridable ReadOnly Property IsAlwaysDrawing As Boolean
-	Get
-```
-```cpp
-protected:
-virtual property bool IsAlwaysDrawing {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

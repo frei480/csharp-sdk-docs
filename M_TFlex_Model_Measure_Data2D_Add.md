@@ -11,19 +11,8 @@ public static bool Add(
 	Data data
 )
 ```
-```vb
-Public Shared Function Add ( 
-	ctrl As UIntPtr,
-	data As Data
-) As Boolean
-```
-```cpp
-public:
-static bool Add(
-	UIntPtr ctrl, 
-	Data^ data
-)
-```
+
+
 
 
 #### Параметры

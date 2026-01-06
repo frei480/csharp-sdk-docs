@@ -8,12 +8,8 @@
 ```csharp
 public enum ObjectDoubleClickAction
 ```
-```vb
-Public Enumeration ObjectDoubleClickAction
-```
-```cpp
-public enum class ObjectDoubleClickAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

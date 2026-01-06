@@ -8,18 +8,8 @@
 ```csharp
 public string EditorArgument { get; set; }
 ```
-```vb
-Public Property EditorArgument As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ EditorArgument {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

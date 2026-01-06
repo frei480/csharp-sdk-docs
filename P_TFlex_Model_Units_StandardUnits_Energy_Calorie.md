@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Calorie { get; }
 ```
-```vb
-Public Shared ReadOnly Property Calorie As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Calorie {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

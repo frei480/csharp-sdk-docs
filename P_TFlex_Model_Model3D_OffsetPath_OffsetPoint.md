@@ -11,18 +11,8 @@
 ```csharp
 public ModelPoint3D OffsetPoint { get; set; }
 ```
-```vb
-Public Property OffsetPoint As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ OffsetPoint {
-	ModelPoint3D^ get ();
-	void set (ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

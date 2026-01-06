@@ -11,13 +11,8 @@
 ```csharp
 public ModelObject GetDrawingNotes()
 ```
-```vb
-Public Function GetDrawingNotes As ModelObject
-```
-```cpp
-public:
-ModelObject^ GetDrawingNotes()
-```
+
+
 
 
 #### Возвращаемое значение

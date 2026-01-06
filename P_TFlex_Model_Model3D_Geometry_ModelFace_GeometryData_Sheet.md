@@ -11,16 +11,8 @@
 ```csharp
 public TopolSheet Sheet { get; }
 ```
-```vb
-Public ReadOnly Property Sheet As TopolSheet
-	Get
-```
-```cpp
-public:
-property TopolSheet^ Sheet {
-	TopolSheet^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

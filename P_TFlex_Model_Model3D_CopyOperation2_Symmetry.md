@@ -11,18 +11,8 @@
 ```csharp
 public CopyOperation2SymmetryPlane Symmetry { get; set; }
 ```
-```vb
-Public Property Symmetry As CopyOperation2SymmetryPlane
-	Get
-	Set
-```
-```cpp
-public:
-property CopyOperation2SymmetryPlane Symmetry {
-	CopyOperation2SymmetryPlane get ();
-	void set (CopyOperation2SymmetryPlane value);
-}
-```
+
+
 
 
 #### Значение свойства

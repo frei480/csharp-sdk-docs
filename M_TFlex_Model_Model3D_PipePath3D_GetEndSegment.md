@@ -11,13 +11,8 @@
 ```csharp
 public PipePath3DBaseSegment GetEndSegment()
 ```
-```vb
-Public Function GetEndSegment As PipePath3DBaseSegment
-```
-```cpp
-public:
-PipePath3DBaseSegment^ GetEndSegment()
-```
+
+
 
 
 #### Возвращаемое значение

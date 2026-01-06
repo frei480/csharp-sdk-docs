@@ -13,13 +13,8 @@
 ```csharp
 public class ShowingFullRegenerationDialogEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class ShowingFullRegenerationDialogEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class ShowingFullRegenerationDialogEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип ShowingFullRegenerationDialogEventArgs предоставляет следующие члены.

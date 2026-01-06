@@ -13,13 +13,8 @@
 ```csharp
 public class OutlinesIntersection : Object2D
 ```
-```vb
-Public Class OutlinesIntersection
-	Inherits Object2D
-```
-```cpp
-public ref class OutlinesIntersection : public Object2D
-```
+
+
 
 
 Тип OutlinesIntersection предоставляет следующие члены.

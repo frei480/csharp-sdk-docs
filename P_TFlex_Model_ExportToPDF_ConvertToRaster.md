@@ -11,18 +11,8 @@
 ```csharp
 public bool ConvertToRaster { get; set; }
 ```
-```vb
-Public Property ConvertToRaster As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ConvertToRaster {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

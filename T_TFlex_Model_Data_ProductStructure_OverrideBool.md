@@ -8,12 +8,8 @@
 ```csharp
 public enum OverrideBool
 ```
-```vb
-Public Enumeration OverrideBool
-```
-```cpp
-public enum class OverrideBool
-```
+
+
 
 
 | Имя члена | Значение | Описание |

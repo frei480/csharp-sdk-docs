@@ -8,18 +8,8 @@
 ```csharp
 public int PrintPreviewTimeout { get; set; }
 ```
-```vb
-Public Property PrintPreviewTimeout As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int PrintPreviewTimeout {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

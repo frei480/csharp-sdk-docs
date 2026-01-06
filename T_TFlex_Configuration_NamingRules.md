@@ -11,13 +11,8 @@
 ```csharp
 public class NamingRules : SettingsGroup
 ```
-```vb
-Public Class NamingRules
-	Inherits SettingsGroup
-```
-```cpp
-public ref class NamingRules : public SettingsGroup
-```
+
+
 
 
 Тип NamingRules предоставляет следующие члены.

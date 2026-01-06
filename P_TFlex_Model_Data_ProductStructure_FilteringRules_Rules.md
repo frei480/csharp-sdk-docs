@@ -8,18 +8,8 @@
 ```csharp
 public ObservableCollection<IFilteringRule> Rules { get; set; }
 ```
-```vb
-Public Property Rules As ObservableCollection(Of IFilteringRule)
-	Get
-	Set
-```
-```cpp
-public:
-property ObservableCollection<IFilteringRule^>^ Rules {
-	ObservableCollection<IFilteringRule^>^ get ();
-	void set (ObservableCollection<IFilteringRule^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

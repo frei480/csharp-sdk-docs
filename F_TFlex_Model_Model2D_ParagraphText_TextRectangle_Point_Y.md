@@ -11,13 +11,8 @@
 ```csharp
 public double Y
 ```
-```vb
-Public Y As Double
-```
-```cpp
-public:
-double Y
-```
+
+
 
 
 #### Значение поля

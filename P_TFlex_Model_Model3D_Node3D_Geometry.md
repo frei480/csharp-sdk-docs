@@ -11,16 +11,8 @@
 ```csharp
 public Node3DGeometryData Geometry { get; }
 ```
-```vb
-Public ReadOnly Property Geometry As Node3DGeometryData
-	Get
-```
-```cpp
-public:
-property Node3DGeometryData^ Geometry {
-	Node3DGeometryData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

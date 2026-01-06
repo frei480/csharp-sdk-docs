@@ -13,17 +13,8 @@ public void Deselect(
 	ModelObject obj
 )
 ```
-```vb
-Public Sub Deselect ( 
-	obj As ModelObject
-)
-```
-```cpp
-public:
-void Deselect(
-	ModelObject^ obj
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public Surface ApplyTransform(
 	TransformationMatrix transformation
 )
 ```
-```vb
-Public Function ApplyTransform ( 
-	transformation As TransformationMatrix
-) As Surface
-```
-```cpp
-public:
-Surface^ ApplyTransform(
-	TransformationMatrix^ transformation
-)
-```
+
+
 
 
 #### Параметры

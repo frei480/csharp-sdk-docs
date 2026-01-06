@@ -13,12 +13,8 @@
 ```csharp
 public sealed class TemperatureGradient
 ```
-```vb
-Public NotInheritable Class TemperatureGradient
-```
-```cpp
-public ref class TemperatureGradient sealed
-```
+
+
 
 
 Тип StandardUnitsTemperatureGradient предоставляет следующие члены.

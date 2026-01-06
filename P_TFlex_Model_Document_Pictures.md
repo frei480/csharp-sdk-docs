@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetPictures' method.")]
 public ObjectContainer Pictures { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetPictures' method.")>
-Public ReadOnly Property Pictures As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetPictures' method.")]
-property ObjectContainer^ Pictures {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

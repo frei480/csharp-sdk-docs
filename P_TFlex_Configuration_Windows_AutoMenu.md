@@ -8,18 +8,8 @@
 ```csharp
 public AutoMenuPosition AutoMenu { get; set; }
 ```
-```vb
-Public Property AutoMenu As AutoMenuPosition
-	Get
-	Set
-```
-```cpp
-public:
-property AutoMenuPosition AutoMenu {
-	AutoMenuPosition get ();
-	void set (AutoMenuPosition value);
-}
-```
+
+
 
 
 #### Значение свойства

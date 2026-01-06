@@ -13,17 +13,8 @@ public ContourSegment GetSegment(
 	int index
 )
 ```
-```vb
-Public Function GetSegment ( 
-	index As Integer
-) As ContourSegment
-```
-```cpp
-public:
-ContourSegment^ GetSegment(
-	int index
-)
-```
+
+
 
 
 #### Параметры

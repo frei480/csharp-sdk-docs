@@ -11,16 +11,8 @@ Cпособ привязки 3D Фрагмента
 ```csharp
 public Fragment3DFixingType Fixing { get; }
 ```
-```vb
-Public ReadOnly Property Fixing As Fragment3DFixingType
-	Get
-```
-```cpp
-public:
-property Fragment3DFixingType Fixing {
-	Fragment3DFixingType get ();
-}
-```
+
+
 
 
 #### Значение свойства

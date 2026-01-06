@@ -13,13 +13,8 @@
 ```csharp
 public abstract class BaseGenerator : IDisposable
 ```
-```vb
-Public MustInherit Class BaseGenerator
-	Implements IDisposable
-```
-```cpp
-public ref class BaseGenerator abstract : IDisposable
-```
+
+
 
 
 Тип BaseGenerator предоставляет следующие члены.

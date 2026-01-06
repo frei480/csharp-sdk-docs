@@ -14,19 +14,8 @@ public void SetColumnTree(
 	bool isTree
 )
 ```
-```vb
-Public Sub SetColumnTree ( 
-	column As Integer,
-	isTree As Boolean
-)
-```
-```cpp
-public:
-void SetColumnTree(
-	int column, 
-	bool isTree
-)
-```
+
+
 
 
 #### Параметры

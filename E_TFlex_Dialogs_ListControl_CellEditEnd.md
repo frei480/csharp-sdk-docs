@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<ListControlCellEditEventArgs> CellEditEnd
 ```
-```vb
-Public Event CellEditEnd As EventHandler(Of ListControlCellEditEventArgs)
-```
-```cpp
-public:
- event EventHandler<ListControlCellEditEventArgs^>^ CellEditEnd {
-	void add (EventHandler<ListControlCellEditEventArgs^>^ value);
-	void remove (EventHandler<ListControlCellEditEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

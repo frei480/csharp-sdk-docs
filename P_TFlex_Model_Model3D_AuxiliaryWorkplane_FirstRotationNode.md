@@ -11,18 +11,8 @@
 ```csharp
 public Node FirstRotationNode { get; set; }
 ```
-```vb
-Public Property FirstRotationNode As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ FirstRotationNode {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

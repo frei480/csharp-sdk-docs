@@ -13,13 +13,8 @@
 ```csharp
 public class SimpleListControl : ListControl
 ```
-```vb
-Public Class SimpleListControl
-	Inherits ListControl
-```
-```cpp
-public ref class SimpleListControl : public ListControl
-```
+
+
 
 
 Тип SimpleListControl предоставляет следующие члены.

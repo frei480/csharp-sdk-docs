@@ -10,17 +10,8 @@ public void CopyProtpertiesFrom(
 	ParameterDescriptor src
 )
 ```
-```vb
-Public Sub CopyProtpertiesFrom ( 
-	src As ParameterDescriptor
-)
-```
-```cpp
-public:
-void CopyProtpertiesFrom(
-	ParameterDescriptor^ src
-)
-```
+
+
 
 
 #### Параметры

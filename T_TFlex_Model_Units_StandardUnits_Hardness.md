@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Hardness
 ```
-```vb
-Public NotInheritable Class Hardness
-```
-```cpp
-public ref class Hardness sealed
-```
+
+
 
 
 Тип StandardUnitsHardness предоставляет следующие члены.

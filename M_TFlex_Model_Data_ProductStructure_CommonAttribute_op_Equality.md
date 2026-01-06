@@ -11,19 +11,8 @@ public static bool operator ==(
 	CommonAttribute right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As CommonAttribute,
-	right As CommonAttribute
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	CommonAttribute^ left, 
-	CommonAttribute^ right
-)
-```
+
+
 
 
 #### Параметры

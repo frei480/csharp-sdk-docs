@@ -15,19 +15,8 @@ public Type AddBackSegment<Type>(
 where Type : PipePath3DBaseSegment
 
 ```
-```vb
-Public Function AddBackSegment(Of Type As PipePath3DBaseSegment) ( 
-	type As SegmentPipePathType
-) As Type
-```
-```cpp
-public:
-generic<typename Type>
-where Type : PipePath3DBaseSegment
-Type AddBackSegment(
-	SegmentPipePathType type
-)
-```
+
+
 
 
 #### Параметры

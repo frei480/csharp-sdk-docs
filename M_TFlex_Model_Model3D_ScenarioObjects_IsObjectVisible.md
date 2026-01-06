@@ -10,17 +10,8 @@ public bool IsObjectVisible(
 	ObjectId id
 )
 ```
-```vb
-Public Function IsObjectVisible ( 
-	id As ObjectId
-) As Boolean
-```
-```cpp
-public:
-bool IsObjectVisible(
-	ObjectId^ id
-)
-```
+
+
 
 
 #### Параметры

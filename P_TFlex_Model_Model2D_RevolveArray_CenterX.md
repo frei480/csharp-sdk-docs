@@ -11,18 +11,8 @@ X-координата центра массива
 ```csharp
 public double CenterX { get; set; }
 ```
-```vb
-Public Property CenterX As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double CenterX {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

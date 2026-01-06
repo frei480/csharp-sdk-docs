@@ -8,18 +8,8 @@
 ```csharp
 public bool ApplyAdaptiveParametersToDocuments { get; set; }
 ```
-```vb
-Public Property ApplyAdaptiveParametersToDocuments As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ApplyAdaptiveParametersToDocuments {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

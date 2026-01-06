@@ -11,18 +11,8 @@
 ```csharp
 public AffineMap AffineMap { get; set; }
 ```
-```vb
-Public Property AffineMap As AffineMap
-	Get
-	Set
-```
-```cpp
-public:
-property AffineMap^ AffineMap {
-	AffineMap^ get ();
-	void set (AffineMap^ value);
-}
-```
+
+
 
 
 #### Значение свойства

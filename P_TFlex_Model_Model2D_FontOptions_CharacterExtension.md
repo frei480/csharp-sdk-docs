@@ -8,18 +8,8 @@
 ```csharp
 public virtual Parameter CharacterExtension { get; set; }
 ```
-```vb
-Public Overridable Property CharacterExtension As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Parameter^ CharacterExtension {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

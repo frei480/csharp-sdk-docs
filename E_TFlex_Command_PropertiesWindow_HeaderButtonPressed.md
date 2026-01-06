@@ -11,16 +11,8 @@
 ```csharp
 public event PropetiesWindowHeaderButtonPressedEventHandler HeaderButtonPressed
 ```
-```vb
-Public Event HeaderButtonPressed As PropetiesWindowHeaderButtonPressedEventHandler
-```
-```cpp
-public:
- event PropetiesWindowHeaderButtonPressedEventHandler^ HeaderButtonPressed {
-	void add (PropetiesWindowHeaderButtonPressedEventHandler^ value);
-	void remove (PropetiesWindowHeaderButtonPressedEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

@@ -13,13 +13,8 @@
 ```csharp
 public class Shell : Operation
 ```
-```vb
-Public Class Shell
-	Inherits Operation
-```
-```cpp
-public ref class Shell : public Operation
-```
+
+
 
 
 Тип Shell предоставляет следующие члены.

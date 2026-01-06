@@ -11,13 +11,8 @@
 ```csharp
 public MenuItem()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MenuItem()
-```
+
+
 
 
 #### Ссылки

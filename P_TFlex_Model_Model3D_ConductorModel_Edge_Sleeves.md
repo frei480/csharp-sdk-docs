@@ -8,16 +8,8 @@
 ```csharp
 public IEnumerable<SleeveInfo> Sleeves { get; }
 ```
-```vb
-Public ReadOnly Property Sleeves As IEnumerable(Of SleeveInfo)
-	Get
-```
-```cpp
-public:
-property IEnumerable<SleeveInfo^>^ Sleeves {
-	IEnumerable<SleeveInfo^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

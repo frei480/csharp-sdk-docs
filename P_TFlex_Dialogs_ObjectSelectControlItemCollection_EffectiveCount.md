@@ -11,16 +11,8 @@
 ```csharp
 public int EffectiveCount { get; }
 ```
-```vb
-Public ReadOnly Property EffectiveCount As Integer
-	Get
-```
-```cpp
-public:
-property int EffectiveCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

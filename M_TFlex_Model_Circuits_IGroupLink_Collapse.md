@@ -11,18 +11,8 @@ void Collapse(
 	FixingVector point
 )
 ```
-```vb
-Sub Collapse ( 
-	points As IEnumerable(Of FixingVector),
-	point As FixingVector
-)
-```
-```cpp
-void Collapse(
-	IEnumerable<FixingVector^>^ points, 
-	FixingVector^ point
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public virtual BaseAxis Line { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Line As BaseAxis
-	Get
-```
-```cpp
-public:
-virtual property BaseAxis^ Line {
-	BaseAxis^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

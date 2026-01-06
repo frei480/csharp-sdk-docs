@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Capacitance
 ```
-```vb
-Public NotInheritable Class Capacitance
-```
-```cpp
-public ref class Capacitance sealed
-```
+
+
 
 
 Тип StandardUnitsCapacitance предоставляет следующие члены.

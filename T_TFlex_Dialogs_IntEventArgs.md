@@ -13,13 +13,8 @@
 ```csharp
 public class IntEventArgs : BaseEventArgs
 ```
-```vb
-Public Class IntEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class IntEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип IntEventArgs предоставляет следующие члены.

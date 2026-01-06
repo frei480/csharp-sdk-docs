@@ -14,19 +14,8 @@ public bool RegisterFactory(
 	ILogicFactory factory
 )
 ```
-```vb
-Public Function RegisterFactory ( 
-	logicUid As Guid,
-	factory As ILogicFactory
-) As Boolean
-```
-```cpp
-public:
-bool RegisterFactory(
-	Guid logicUid, 
-	ILogicFactory^ factory
-)
-```
+
+
 
 
 #### Параметры

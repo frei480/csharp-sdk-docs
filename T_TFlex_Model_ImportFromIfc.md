@@ -13,12 +13,8 @@
 ```csharp
 public class ImportFromIfc
 ```
-```vb
-Public Class ImportFromIfc
-```
-```cpp
-public ref class ImportFromIfc
-```
+
+
 
 
 Тип ImportFromIfc предоставляет следующие члены.

@@ -8,12 +8,8 @@
 ```csharp
 public enum ObjectCreateAction
 ```
-```vb
-Public Enumeration ObjectCreateAction
-```
-```cpp
-public enum class ObjectCreateAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

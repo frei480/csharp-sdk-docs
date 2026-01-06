@@ -11,13 +11,8 @@
 ```csharp
 public string[] GetVisibleFields()
 ```
-```vb
-Public Function GetVisibleFields As String()
-```
-```cpp
-public:
-array<String^>^ GetVisibleFields()
-```
+
+
 
 
 #### Возвращаемое значение

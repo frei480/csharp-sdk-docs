@@ -13,13 +13,8 @@
 ```csharp
 public class ProjectedAngularDimension : AngularDimensionBase
 ```
-```vb
-Public Class ProjectedAngularDimension
-	Inherits AngularDimensionBase
-```
-```cpp
-public ref class ProjectedAngularDimension : public AngularDimensionBase
-```
+
+
 
 
 Тип ProjectedAngularDimension предоставляет следующие члены.

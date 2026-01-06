@@ -13,17 +13,8 @@ public void Disable(
 	ObjectType type
 )
 ```
-```vb
-Public Sub Disable ( 
-	type As ObjectType
-)
-```
-```cpp
-public:
-void Disable(
-	ObjectType type
-)
-```
+
+
 
 
 #### Параметры

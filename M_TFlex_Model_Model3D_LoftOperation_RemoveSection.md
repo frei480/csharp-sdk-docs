@@ -13,17 +13,8 @@ public void RemoveSection(
 	int sectionIndex
 )
 ```
-```vb
-Public Sub RemoveSection ( 
-	sectionIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveSection(
-	int sectionIndex
-)
-```
+
+
 
 
 #### Параметры

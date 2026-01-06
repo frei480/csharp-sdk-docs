@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseSweptSurface
 ```
-```vb
-Public Interface BaseSweptSurface
-```
-```cpp
-public interface class BaseSweptSurface
-```
+
+
 
 
 Тип BaseSweptSurface предоставляет следующие члены.

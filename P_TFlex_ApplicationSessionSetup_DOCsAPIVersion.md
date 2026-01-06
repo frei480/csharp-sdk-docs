@@ -14,20 +14,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'DOCsProductName' property.")]
 public ApplicationSessionSetupDOCsVersion DOCsAPIVersion { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'DOCsProductName' property.")>
-Public Property DOCsAPIVersion As ApplicationSessionSetupDOCsVersion
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'DOCsProductName' property.")]
-property ApplicationSessionSetupDOCsVersion DOCsAPIVersion {
-	ApplicationSessionSetupDOCsVersion get ();
-	void set (ApplicationSessionSetupDOCsVersion value);
-}
-```
+
+
 
 
 #### Значение свойства

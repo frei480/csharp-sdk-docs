@@ -11,18 +11,8 @@
 ```csharp
 public bool HideBreaksLines { get; set; }
 ```
-```vb
-Public Property HideBreaksLines As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool HideBreaksLines {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

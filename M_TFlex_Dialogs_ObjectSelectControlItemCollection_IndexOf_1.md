@@ -14,19 +14,8 @@ public int IndexOf(
 	int offset
 )
 ```
-```vb
-Public Function IndexOf ( 
-	modelObject As ModelObject,
-	offset As Integer
-) As Integer
-```
-```cpp
-public:
-int IndexOf(
-	ModelObject^ modelObject, 
-	int offset
-)
-```
+
+
 
 
 #### Параметры

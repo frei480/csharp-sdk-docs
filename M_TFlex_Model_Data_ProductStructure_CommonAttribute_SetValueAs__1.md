@@ -11,18 +11,8 @@ public void SetValueAs<T>(
 )
 
 ```
-```vb
-Public Sub SetValueAs(Of T) ( 
-	newValue As T
-)
-```
-```cpp
-public:
-generic<typename T>
-void SetValueAs(
-	T newValue
-)
-```
+
+
 
 
 #### Параметры

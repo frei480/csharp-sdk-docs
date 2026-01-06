@@ -14,19 +14,8 @@ public Library(
 	string path
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	path As String
-)
-```
-```cpp
-public:
-Library(
-	String^ name, 
-	String^ path
-)
-```
+
+
 
 
 #### Параметры

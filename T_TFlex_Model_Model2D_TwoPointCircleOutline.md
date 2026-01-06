@@ -13,13 +13,8 @@
 ```csharp
 public class TwoPointCircleOutline : Outline
 ```
-```vb
-Public Class TwoPointCircleOutline
-	Inherits Outline
-```
-```cpp
-public ref class TwoPointCircleOutline : public Outline
-```
+
+
 
 
 Тип TwoPointCircleOutline предоставляет следующие члены.

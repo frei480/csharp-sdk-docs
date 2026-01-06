@@ -11,13 +11,8 @@
 ```csharp
 public void ResetName()
 ```
-```vb
-Public Sub ResetName
-```
-```cpp
-public:
-void ResetName()
-```
+
+
 
 
 Актуально после смены типа страницы

@@ -8,18 +8,8 @@
 ```csharp
 public bool IsHideGroups { get; set; }
 ```
-```vb
-Public Property IsHideGroups As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsHideGroups {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

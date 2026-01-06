@@ -11,19 +11,8 @@ public static void Trace(
 	Object arg
 )
 ```
-```vb
-Public Shared Sub Trace ( 
-	format As String,
-	arg As Object
-)
-```
-```cpp
-public:
-static void Trace(
-	String^ format, 
-	Object^ arg
-)
-```
+
+
 
 
 #### Параметры

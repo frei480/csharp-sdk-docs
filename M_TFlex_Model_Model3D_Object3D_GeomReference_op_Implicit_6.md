@@ -10,16 +10,8 @@ public static implicit operator Object3DGeomReference (
 	ModelPoint3D point
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	point As ModelPoint3D
-) As Object3DGeomReference
-```
-```cpp
-static implicit operator Object3DGeomReference^ (
-	ModelPoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

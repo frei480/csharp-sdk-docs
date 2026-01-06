@@ -11,19 +11,8 @@ public bool Show(
 	int initialSelectionLength
 )
 ```
-```vb
-Public Function Show ( 
-	initialSelectionStart As Integer,
-	initialSelectionLength As Integer
-) As Boolean
-```
-```cpp
-public:
-bool Show(
-	int initialSelectionStart, 
-	int initialSelectionLength
-)
-```
+
+
 
 
 #### Параметры

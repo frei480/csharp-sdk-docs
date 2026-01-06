@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<TabControlSelectedTabChangedEventArgs> SelectedTabChanged
 ```
-```vb
-Public Event SelectedTabChanged As EventHandler(Of TabControlSelectedTabChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<TabControlSelectedTabChangedEventArgs^>^ SelectedTabChanged {
-	void add (EventHandler<TabControlSelectedTabChangedEventArgs^>^ value);
-	void remove (EventHandler<TabControlSelectedTabChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

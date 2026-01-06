@@ -11,16 +11,8 @@
 ```csharp
 public ModelDirection PlaneDirection { get; }
 ```
-```vb
-Public ReadOnly Property PlaneDirection As ModelDirection
-	Get
-```
-```cpp
-public:
-property ModelDirection^ PlaneDirection {
-	ModelDirection^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

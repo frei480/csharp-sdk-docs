@@ -11,18 +11,8 @@
 ```csharp
 public bool ExportParametricLinks { get; set; }
 ```
-```vb
-Public Property ExportParametricLinks As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ExportParametricLinks {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

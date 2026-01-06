@@ -11,16 +11,8 @@
 ```csharp
 public Size ControlBaseSize { get; }
 ```
-```vb
-Public ReadOnly Property ControlBaseSize As Size
-	Get
-```
-```cpp
-public:
-property Size ControlBaseSize {
-	Size get ();
-}
-```
+
+
 
 
 #### Значение свойства

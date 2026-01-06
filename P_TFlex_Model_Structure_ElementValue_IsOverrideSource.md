@@ -8,18 +8,8 @@
 ```csharp
 public bool IsOverrideSource { get; set; }
 ```
-```vb
-Public Property IsOverrideSource As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsOverrideSource {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

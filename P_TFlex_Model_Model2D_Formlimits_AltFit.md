@@ -11,18 +11,8 @@
 ```csharp
 public bool AltFit { get; set; }
 ```
-```vb
-Public Property AltFit As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AltFit {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

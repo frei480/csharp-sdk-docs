@@ -13,17 +13,8 @@ public FillHoleOperationContour AddContour(
 	ModelWire wire
 )
 ```
-```vb
-Public Function AddContour ( 
-	wire As ModelWire
-) As FillHoleOperationContour
-```
-```cpp
-public:
-FillHoleOperationContour^ AddContour(
-	ModelWire^ wire
-)
-```
+
+
 
 
 #### Параметры

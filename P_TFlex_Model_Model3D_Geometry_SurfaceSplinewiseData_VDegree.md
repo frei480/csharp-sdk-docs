@@ -11,18 +11,8 @@
 ```csharp
 public uint VDegree { get; set; }
 ```
-```vb
-Public Property VDegree As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int VDegree {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void SetVariable(
 	Variable variable
 )
 ```
-```vb
-Public Sub SetVariable ( 
-	variable As Variable
-)
-```
-```cpp
-public:
-void SetVariable(
-	Variable^ variable
-)
-```
+
+
 
 
 #### Параметры

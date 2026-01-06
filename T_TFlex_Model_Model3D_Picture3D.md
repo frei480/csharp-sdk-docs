@@ -13,13 +13,8 @@
 ```csharp
 public class Picture3D : Object3D
 ```
-```vb
-Public Class Picture3D
-	Inherits Object3D
-```
-```cpp
-public ref class Picture3D : public Object3D
-```
+
+
 
 
 Тип Picture3D предоставляет следующие члены.

@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionFitViewType
 ```
-```vb
-Public Enumeration DimensionFitViewType
-```
-```cpp
-public enum class DimensionFitViewType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

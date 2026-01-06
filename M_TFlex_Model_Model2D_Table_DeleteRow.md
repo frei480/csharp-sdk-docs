@@ -13,17 +13,8 @@ public void DeleteRow(
 	uint cell
 )
 ```
-```vb
-Public Sub DeleteRow ( 
-	cell As UInteger
-)
-```
-```cpp
-public:
-void DeleteRow(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

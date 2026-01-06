@@ -11,13 +11,8 @@
 ```csharp
 public abstract class Label : IDisposable
 ```
-```vb
-Public MustInherit Class Label
-	Implements IDisposable
-```
-```cpp
-public ref class Label abstract : IDisposable
-```
+
+
 
 
 Тип Label предоставляет следующие члены.

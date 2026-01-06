@@ -10,19 +10,8 @@ public static Fragment3D FindAssociatedFragment(
 	this Fragment fragment2D
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function FindAssociatedFragment ( 
-	fragment2D As Fragment
-) As Fragment3D
-```
-```cpp
-public:
-[ExtensionAttribute]
-static Fragment3D^ FindAssociatedFragment(
-	Fragment^ fragment2D
-)
-```
+
+
 
 
 #### Параметры

@@ -8,13 +8,8 @@
 ```csharp
 public Icon GetTypeIcon()
 ```
-```vb
-Public Function GetTypeIcon As Icon
-```
-```cpp
-public:
-Icon^ GetTypeIcon()
-```
+
+
 
 
 #### Возвращаемое значение

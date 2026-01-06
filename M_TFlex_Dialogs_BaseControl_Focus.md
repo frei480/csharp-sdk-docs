@@ -11,13 +11,8 @@
 ```csharp
 public void Focus()
 ```
-```vb
-Public Sub Focus
-```
-```cpp
-public:
-void Focus()
-```
+
+
 
 
 #### Ссылки

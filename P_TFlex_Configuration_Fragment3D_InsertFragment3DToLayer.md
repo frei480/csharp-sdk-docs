@@ -8,18 +8,8 @@
 ```csharp
 public string InsertFragment3DToLayer { get; set; }
 ```
-```vb
-Public Property InsertFragment3DToLayer As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ InsertFragment3DToLayer {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

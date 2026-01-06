@@ -11,12 +11,8 @@
 ```csharp
 public enum RadialDimensionType
 ```
-```vb
-Public Enumeration RadialDimensionType
-```
-```cpp
-public enum class RadialDimensionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

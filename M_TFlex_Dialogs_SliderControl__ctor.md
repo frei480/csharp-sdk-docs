@@ -11,13 +11,8 @@
 ```csharp
 public SliderControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SliderControl()
-```
+
+
 
 
 #### Ссылки

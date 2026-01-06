@@ -11,16 +11,8 @@
 ```csharp
 public IList<PropertiesWindowFormBase> Forms { get; }
 ```
-```vb
-Public ReadOnly Property Forms As IList(Of PropertiesWindowFormBase)
-	Get
-```
-```cpp
-public:
-property IList<PropertiesWindowFormBase^>^ Forms {
-	IList<PropertiesWindowFormBase^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public LCS LocalSystem { get; }
 ```
-```vb
-Public ReadOnly Property LocalSystem As LCS
-	Get
-```
-```cpp
-public:
-property LCS^ LocalSystem {
-	LCS^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

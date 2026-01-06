@@ -11,16 +11,8 @@
 ```csharp
 public static Color EdgesInShading { get; }
 ```
-```vb
-Public Shared ReadOnly Property EdgesInShading As Color
-	Get
-```
-```cpp
-public:
-static property Color EdgesInShading {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

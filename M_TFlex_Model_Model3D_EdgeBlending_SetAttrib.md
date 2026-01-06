@@ -14,19 +14,8 @@ public void SetAttrib(
 	EdgeBlendingAttribute attrib
 )
 ```
-```vb
-Public Sub SetAttrib ( 
-	topolIndex As Integer,
-	attrib As EdgeBlendingAttribute
-)
-```
-```cpp
-public:
-void SetAttrib(
-	int topolIndex, 
-	EdgeBlendingAttribute^ attrib
-)
-```
+
+
 
 
 #### Параметры

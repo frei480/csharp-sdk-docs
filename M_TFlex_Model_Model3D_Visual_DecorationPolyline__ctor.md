@@ -14,19 +14,8 @@ public DecorationPolyline(
 	FloatVector[] points
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	points As FloatVector()
-)
-```
-```cpp
-public:
-DecorationPolyline(
-	String^ name, 
-	array<FloatVector>^ points
-)
-```
+
+
 
 
 #### Параметры

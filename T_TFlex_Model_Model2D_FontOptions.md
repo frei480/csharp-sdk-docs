@@ -11,12 +11,8 @@
 ```csharp
 public class FontOptions
 ```
-```vb
-Public Class FontOptions
-```
-```cpp
-public ref class FontOptions
-```
+
+
 
 
 Тип FontOptions предоставляет следующие члены.

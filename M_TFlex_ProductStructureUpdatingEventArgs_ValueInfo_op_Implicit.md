@@ -10,16 +10,8 @@ public static implicit operator ProductStructureUpdatingEventArgsValueInfo (
 	Object val
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	val As Object
-) As ProductStructureUpdatingEventArgsValueInfo
-```
-```cpp
-static implicit operator ProductStructureUpdatingEventArgsValueInfo^ (
-	Object^ val
-)
-```
+
+
 
 
 #### Параметры

@@ -13,16 +13,8 @@
 ```csharp
 public static Unit MillimeterOfMercury { get; }
 ```
-```vb
-Public Shared ReadOnly Property MillimeterOfMercury As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ MillimeterOfMercury {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

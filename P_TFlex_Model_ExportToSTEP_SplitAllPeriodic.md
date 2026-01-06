@@ -11,18 +11,8 @@
 ```csharp
 public bool SplitAllPeriodic { get; set; }
 ```
-```vb
-Public Property SplitAllPeriodic As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SplitAllPeriodic {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

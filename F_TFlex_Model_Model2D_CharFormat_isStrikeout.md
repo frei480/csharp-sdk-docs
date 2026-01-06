@@ -11,13 +11,8 @@
 ```csharp
 public bool isStrikeout
 ```
-```vb
-Public isStrikeout As Boolean
-```
-```cpp
-public:
-bool isStrikeout
-```
+
+
 
 
 #### Значение поля

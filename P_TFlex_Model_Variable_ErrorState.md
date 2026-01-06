@@ -11,16 +11,8 @@
 ```csharp
 public bool ErrorState { get; }
 ```
-```vb
-Public ReadOnly Property ErrorState As Boolean
-	Get
-```
-```cpp
-public:
-property bool ErrorState {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

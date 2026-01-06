@@ -11,12 +11,8 @@
 ```csharp
 public class CommonUnits
 ```
-```vb
-Public Class CommonUnits
-```
-```cpp
-public ref class CommonUnits
-```
+
+
 
 
 Тип CommonUnits предоставляет следующие члены.

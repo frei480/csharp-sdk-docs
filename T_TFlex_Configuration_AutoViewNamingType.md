@@ -8,12 +8,8 @@
 ```csharp
 public enum AutoViewNamingType
 ```
-```vb
-Public Enumeration AutoViewNamingType
-```
-```cpp
-public enum class AutoViewNamingType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,13 +13,8 @@
 ```csharp
 public class SphereVector : LoftVectorDirection
 ```
-```vb
-Public Class SphereVector
-	Inherits LoftVectorDirection
-```
-```cpp
-public ref class SphereVector : public LoftVectorDirection
-```
+
+
 
 
 Тип LoftSphereVector предоставляет следующие члены.

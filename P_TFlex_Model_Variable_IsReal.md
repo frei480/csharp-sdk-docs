@@ -11,16 +11,8 @@ true, если переменная является вещественной
 ```csharp
 public bool IsReal { get; }
 ```
-```vb
-Public ReadOnly Property IsReal As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsReal {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public ThreadStartLimit StartLimitType { get; set; }
 ```
-```vb
-Public Property StartLimitType As ThreadStartLimit
-	Get
-	Set
-```
-```cpp
-public:
-property ThreadStartLimit StartLimitType {
-	ThreadStartLimit get ();
-	void set (ThreadStartLimit value);
-}
-```
+
+
 
 
 #### Значение свойства

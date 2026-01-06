@@ -11,16 +11,8 @@
 ```csharp
 public NumericInputControlState State { get; }
 ```
-```vb
-Public ReadOnly Property State As NumericInputControlState
-	Get
-```
-```cpp
-public:
-property NumericInputControlState State {
-	NumericInputControlState get ();
-}
-```
+
+
 
 
 #### Значение свойства

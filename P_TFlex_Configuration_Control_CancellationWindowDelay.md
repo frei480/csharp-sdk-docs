@@ -8,18 +8,8 @@
 ```csharp
 public int CancellationWindowDelay { get; set; }
 ```
-```vb
-Public Property CancellationWindowDelay As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int CancellationWindowDelay {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

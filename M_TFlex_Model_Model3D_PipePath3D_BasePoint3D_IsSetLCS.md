@@ -11,13 +11,8 @@
 ```csharp
 public bool IsSetLCS()
 ```
-```vb
-Public Function IsSetLCS As Boolean
-```
-```cpp
-public:
-bool IsSetLCS()
-```
+
+
 
 
 #### Возвращаемое значение

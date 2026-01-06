@@ -8,13 +8,8 @@
 ```csharp
 public void Reset()
 ```
-```vb
-Public Sub Reset
-```
-```cpp
-public:
-virtual void Reset() sealed
-```
+
+
 
 
 #### Ссылки

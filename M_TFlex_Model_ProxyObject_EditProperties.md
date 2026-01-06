@@ -11,13 +11,8 @@
 ```csharp
 protected virtual ProxyObjectPropertyChange EditProperties()
 ```
-```vb
-Protected Overridable Function EditProperties As ProxyObjectPropertyChange
-```
-```cpp
-protected:
-virtual ProxyObjectPropertyChange EditProperties()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<FragmentPropertiesWindowFormChangedEventArgs> Changed
 ```
-```vb
-Public Event Changed As EventHandler(Of FragmentPropertiesWindowFormChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<FragmentPropertiesWindowFormChangedEventArgs^>^ Changed {
-	void add (EventHandler<FragmentPropertiesWindowFormChangedEventArgs^>^ value);
-	void remove (EventHandler<FragmentPropertiesWindowFormChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

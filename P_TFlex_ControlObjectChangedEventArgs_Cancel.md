@@ -8,18 +8,8 @@
 ```csharp
 public bool Cancel { get; set; }
 ```
-```vb
-Public Property Cancel As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Cancel {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

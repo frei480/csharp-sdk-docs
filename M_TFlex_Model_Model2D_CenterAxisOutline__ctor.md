@@ -15,21 +15,8 @@ public CenterAxisOutline(
 	bool horizontal
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	source As Outline,
-	horizontal As Boolean
-)
-```
-```cpp
-public:
-CenterAxisOutline(
-	Document^ document, 
-	Outline^ source, 
-	bool horizontal
-)
-```
+
+
 
 
 #### Параметры

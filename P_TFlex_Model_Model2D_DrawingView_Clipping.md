@@ -11,18 +11,8 @@
 ```csharp
 public bool Clipping { get; set; }
 ```
-```vb
-Public Property Clipping As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Clipping {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

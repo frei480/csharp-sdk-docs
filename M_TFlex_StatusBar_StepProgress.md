@@ -11,13 +11,8 @@
 ```csharp
 public void StepProgress()
 ```
-```vb
-Public Sub StepProgress
-```
-```cpp
-public:
-void StepProgress()
-```
+
+
 
 
 #### Ссылки

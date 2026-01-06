@@ -11,13 +11,8 @@
 ```csharp
 public ManipulatorEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ManipulatorEventArgs()
-```
+
+
 
 
 #### Ссылки

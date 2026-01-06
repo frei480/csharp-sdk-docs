@@ -8,18 +8,8 @@
 ```csharp
 public static int NextSpliceIndex { get; set; }
 ```
-```vb
-Public Shared Property NextSpliceIndex As Integer
-	Get
-	Set
-```
-```cpp
-public:
-static property int NextSpliceIndex {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

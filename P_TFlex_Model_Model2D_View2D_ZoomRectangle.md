@@ -11,18 +11,8 @@
 ```csharp
 public Rectangle ZoomRectangle { get; set; }
 ```
-```vb
-Public Property ZoomRectangle As Rectangle
-	Get
-	Set
-```
-```cpp
-public:
-property Rectangle ZoomRectangle {
-	Rectangle get ();
-	void set (Rectangle value);
-}
-```
+
+
 
 
 #### Значение свойства

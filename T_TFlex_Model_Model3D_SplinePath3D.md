@@ -14,15 +14,8 @@
 public abstract class SplinePath3D : Path3D, 
 	IDisposable
 ```
-```vb
-Public MustInherit Class SplinePath3D
-	Inherits Path3D
-	Implements IDisposable
-```
-```cpp
-public ref class SplinePath3D abstract : public Path3D, 
-	IDisposable
-```
+
+
 
 
 Тип SplinePath3D предоставляет следующие члены.

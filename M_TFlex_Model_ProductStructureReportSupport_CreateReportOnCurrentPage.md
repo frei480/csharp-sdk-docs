@@ -17,31 +17,8 @@ public static bool CreateReportOnCurrentPage(
 	ref bool userCanceled
 )
 ```
-```vb
-Public Shared Function CreateReportOnCurrentPage ( 
-	document As Document,
-	templateDocument As Document,
-	textName As String,
-	searchKnots As Boolean,
-	quietMode As Boolean,
-	prevRect As ParagraphTextTextRectangle?,
-	ByRef isCommandStarted As Boolean,
-	ByRef userCanceled As Boolean
-) As Boolean
-```
-```cpp
-public:
-static bool CreateReportOnCurrentPage(
-	Document^ document, 
-	Document^ templateDocument, 
-	String^ textName, 
-	bool searchKnots, 
-	bool quietMode, 
-	Nullable<ParagraphTextTextRectangle> prevRect, 
-	bool% isCommandStarted, 
-	bool% userCanceled
-)
-```
+
+
 
 
 #### Параметры

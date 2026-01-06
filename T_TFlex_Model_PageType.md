@@ -11,12 +11,8 @@
 ```csharp
 public enum PageType
 ```
-```vb
-Public Enumeration PageType
-```
-```cpp
-public enum class PageType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

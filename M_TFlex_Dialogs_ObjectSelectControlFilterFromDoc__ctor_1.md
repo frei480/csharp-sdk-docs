@@ -13,17 +13,8 @@ public ObjectSelectControlFilterFromDoc(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-ObjectSelectControlFilterFromDoc(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

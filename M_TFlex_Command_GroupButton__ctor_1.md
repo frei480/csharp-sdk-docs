@@ -15,21 +15,8 @@ public GroupButton(
 	int active
 )
 ```
-```vb
-Public Sub New ( 
-	groupName As String,
-	buttonArray As Button(),
-	active As Integer
-)
-```
-```cpp
-public:
-GroupButton(
-	String^ groupName, 
-	array<Button^>^ buttonArray, 
-	int active
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class Operand : ICloneable
 ```
-```vb
-Public Class Operand
-	Implements ICloneable
-```
-```cpp
-public ref class Operand : ICloneable
-```
+
+
 
 
 Тип BooleanOperationOperandsArrayOperand предоставляет следующие члены.

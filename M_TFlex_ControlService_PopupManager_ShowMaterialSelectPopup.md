@@ -10,17 +10,8 @@ public static bool ShowMaterialSelectPopup(
 	MaterialPopupProperties properties
 )
 ```
-```vb
-Public Shared Function ShowMaterialSelectPopup ( 
-	properties As MaterialPopupProperties
-) As Boolean
-```
-```cpp
-public:
-static bool ShowMaterialSelectPopup(
-	MaterialPopupProperties^ properties
-)
-```
+
+
 
 
 #### Параметры

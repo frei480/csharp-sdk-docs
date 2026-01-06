@@ -13,12 +13,8 @@
 ```csharp
 public class FaceCurveIntersectionItem
 ```
-```vb
-Public Class FaceCurveIntersectionItem
-```
-```cpp
-public ref class FaceCurveIntersectionItem
-```
+
+
 
 
 Тип FaceCurveIntersectionItem предоставляет следующие члены.

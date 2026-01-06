@@ -10,17 +10,8 @@ public void Assign(
 	ShowPages source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As ShowPages
-)
-```
-```cpp
-public:
-void Assign(
-	ShowPages^ source
-)
-```
+
+
 
 
 #### Параметры

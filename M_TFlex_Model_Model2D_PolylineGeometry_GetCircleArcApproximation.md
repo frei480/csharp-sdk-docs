@@ -13,17 +13,8 @@ public CircleArcGeometry[] GetCircleArcApproximation(
 	double accuracy
 )
 ```
-```vb
-Public Function GetCircleArcApproximation ( 
-	accuracy As Double
-) As CircleArcGeometry()
-```
-```cpp
-public:
-array<CircleArcGeometry^>^ GetCircleArcApproximation(
-	double accuracy
-)
-```
+
+
 
 
 #### Параметры

@@ -11,19 +11,8 @@ public static void Error(
 	params Object[] args
 )
 ```
-```vb
-Public Shared Sub Error ( 
-	format As String,
-	ParamArray args As Object()
-)
-```
-```cpp
-public:
-static void Error(
-	String^ format, 
-	... array<Object^>^ args
-)
-```
+
+
 
 
 #### Параметры

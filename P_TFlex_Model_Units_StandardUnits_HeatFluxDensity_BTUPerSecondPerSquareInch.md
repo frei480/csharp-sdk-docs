@@ -13,16 +13,8 @@
 ```csharp
 public static Unit BTUPerSecondPerSquareInch { get; }
 ```
-```vb
-Public Shared ReadOnly Property BTUPerSecondPerSquareInch As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ BTUPerSecondPerSquareInch {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

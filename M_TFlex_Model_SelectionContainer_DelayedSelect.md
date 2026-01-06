@@ -13,17 +13,8 @@ public void DelayedSelect(
 	ModelObject obj
 )
 ```
-```vb
-Public Sub DelayedSelect ( 
-	obj As ModelObject
-)
-```
-```cpp
-public:
-void DelayedSelect(
-	ModelObject^ obj
-)
-```
+
+
 
 
 #### Параметры

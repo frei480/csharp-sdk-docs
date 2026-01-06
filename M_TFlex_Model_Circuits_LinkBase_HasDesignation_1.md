@@ -11,19 +11,8 @@ public abstract bool HasDesignation(
 	DesignationType type
 )
 ```
-```vb
-Public MustOverride Function HasDesignation ( 
-	point As FixingVector,
-	type As DesignationType
-) As Boolean
-```
-```cpp
-public:
-virtual bool HasDesignation(
-	FixingVector^ point, 
-	DesignationType type
-) abstract
-```
+
+
 
 
 #### Параметры

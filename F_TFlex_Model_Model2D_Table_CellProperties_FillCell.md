@@ -11,13 +11,8 @@
 ```csharp
 public bool FillCell
 ```
-```vb
-Public FillCell As Boolean
-```
-```cpp
-public:
-bool FillCell
-```
+
+
 
 
 #### Значение поля

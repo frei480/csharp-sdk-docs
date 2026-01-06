@@ -14,18 +14,8 @@ public delegate void InitializeEventHandler(
 	InitializeEventArgs e
 )
 ```
-```vb
-Public Delegate Sub InitializeEventHandler ( 
-	sender As Object,
-	e As InitializeEventArgs
-)
-```
-```cpp
-public delegate void InitializeEventHandler(
-	Object^ sender, 
-	InitializeEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

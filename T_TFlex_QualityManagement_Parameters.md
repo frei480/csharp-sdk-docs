@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Parameters : IDisposable
 ```
-```vb
-Public NotInheritable Class Parameters
-	Implements IDisposable
-```
-```cpp
-public ref class Parameters sealed : IDisposable
-```
+
+
 
 
 Тип Parameters предоставляет следующие члены.

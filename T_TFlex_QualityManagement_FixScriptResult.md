@@ -13,13 +13,8 @@
 ```csharp
 public sealed class FixScriptResult : IEnumerable<FixResult>
 ```
-```vb
-Public NotInheritable Class FixScriptResult
-	Implements IEnumerable(Of FixResult)
-```
-```cpp
-public ref class FixScriptResult sealed : IEnumerable<FixResult^>
-```
+
+
 
 
 Тип FixScriptResult предоставляет следующие члены.

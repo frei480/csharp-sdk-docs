@@ -13,17 +13,8 @@ public Loops(
 	Loops loops
 )
 ```
-```vb
-Public Sub New ( 
-	loops As Loops
-)
-```
-```cpp
-public:
-Loops(
-	Loops^ loops
-)
-```
+
+
 
 
 #### Параметры

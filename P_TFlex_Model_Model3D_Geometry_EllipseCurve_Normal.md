@@ -11,18 +11,8 @@
 ```csharp
 public virtual BaseDirection Normal { get; set; }
 ```
-```vb
-Public Overridable Property Normal As BaseDirection
-	Get
-	Set
-```
-```cpp
-public:
-virtual property BaseDirection^ Normal {
-	BaseDirection^ get ();
-	void set (BaseDirection^ value);
-}
-```
+
+
 
 
 #### Значение свойства

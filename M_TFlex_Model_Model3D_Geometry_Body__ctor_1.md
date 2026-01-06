@@ -13,17 +13,8 @@ public Body(
 	BaseBody body
 )
 ```
-```vb
-Public Sub New ( 
-	body As BaseBody
-)
-```
-```cpp
-public:
-Body(
-	BaseBody^ body
-)
-```
+
+
 
 
 #### Параметры

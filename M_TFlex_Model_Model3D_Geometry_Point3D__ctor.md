@@ -15,21 +15,8 @@ public Point3D(
 	double z
 )
 ```
-```vb
-Public Sub New ( 
-	x As Double,
-	y As Double,
-	z As Double
-)
-```
-```cpp
-public:
-Point3D(
-	double x, 
-	double y, 
-	double z
-)
-```
+
+
 
 
 #### Параметры

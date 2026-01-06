@@ -11,18 +11,8 @@
 ```csharp
 public Object2D ParentObject { get; set; }
 ```
-```vb
-Public Property ParentObject As Object2D
-	Get
-	Set
-```
-```cpp
-public:
-property Object2D^ ParentObject {
-	Object2D^ get ();
-	void set (Object2D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

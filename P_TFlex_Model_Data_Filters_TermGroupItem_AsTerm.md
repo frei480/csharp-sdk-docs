@@ -11,16 +11,8 @@
 ```csharp
 public virtual Term AsTerm { get; }
 ```
-```vb
-Public Overridable ReadOnly Property AsTerm As Term
-	Get
-```
-```cpp
-public:
-virtual property Term^ AsTerm {
-	Term^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

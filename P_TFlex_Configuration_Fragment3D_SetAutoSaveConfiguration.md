@@ -8,18 +8,8 @@
 ```csharp
 public bool SetAutoSaveConfiguration { get; set; }
 ```
-```vb
-Public Property SetAutoSaveConfiguration As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SetAutoSaveConfiguration {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public class PinInfo
 ```
-```vb
-Public Class PinInfo
-```
-```cpp
-public ref class PinInfo
-```
+
+
 
 
 Тип PinInfo предоставляет следующие члены.

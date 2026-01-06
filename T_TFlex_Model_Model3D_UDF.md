@@ -13,13 +13,8 @@
 ```csharp
 public sealed class UDF : IDisposable
 ```
-```vb
-Public NotInheritable Class UDF
-	Implements IDisposable
-```
-```cpp
-public ref class UDF sealed : IDisposable
-```
+
+
 
 
 Тип UDF предоставляет следующие члены.

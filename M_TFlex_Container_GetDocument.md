@@ -13,17 +13,8 @@ public Document GetDocument(
 	IntPtr Source
 )
 ```
-```vb
-Public Function GetDocument ( 
-	Source As IntPtr
-) As Document
-```
-```cpp
-public:
-Document^ GetDocument(
-	IntPtr Source
-)
-```
+
+
 
 
 #### Параметры

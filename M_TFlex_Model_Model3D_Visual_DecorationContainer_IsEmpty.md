@@ -11,13 +11,8 @@
 ```csharp
 public bool IsEmpty()
 ```
-```vb
-Public Function IsEmpty As Boolean
-```
-```cpp
-public:
-bool IsEmpty()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,13 +8,8 @@
 ```csharp
 public const int FROM_APP_TYPE = 20002
 ```
-```vb
-Public Const FROM_APP_TYPE As Integer = 20002
-```
-```cpp
-public:
-literal int FROM_APP_TYPE = 20002
-```
+
+
 
 
 #### Значение поля

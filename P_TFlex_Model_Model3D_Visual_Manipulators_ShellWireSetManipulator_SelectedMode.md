@@ -8,18 +8,8 @@
 ```csharp
 public ShellWireSetManipulatorSelectMode SelectedMode { get; set; }
 ```
-```vb
-Public Property SelectedMode As ShellWireSetManipulatorSelectMode
-	Get
-	Set
-```
-```cpp
-public:
-property ShellWireSetManipulatorSelectMode SelectedMode {
-	ShellWireSetManipulatorSelectMode get ();
-	void set (ShellWireSetManipulatorSelectMode value);
-}
-```
+
+
 
 
 #### Значение свойства

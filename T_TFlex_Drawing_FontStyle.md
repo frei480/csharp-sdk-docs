@@ -11,12 +11,8 @@
 ```csharp
 public enum FontStyle
 ```
-```vb
-Public Enumeration FontStyle
-```
-```cpp
-public enum class FontStyle
-```
+
+
 
 
 | Имя члена | Значение | Описание |

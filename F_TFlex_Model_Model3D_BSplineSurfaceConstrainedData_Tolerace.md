@@ -8,13 +8,8 @@
 ```csharp
 public double Tolerace
 ```
-```vb
-Public Tolerace As Double
-```
-```cpp
-public:
-double Tolerace
-```
+
+
 
 
 #### Значение поля

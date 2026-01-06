@@ -8,12 +8,8 @@
 ```csharp
 protected enum FilterRuleFlags
 ```
-```vb
-Protected Enumeration FilterRuleFlags
-```
-```cpp
-protected enum class FilterRuleFlags
-```
+
+
 
 
 | Имя члена | Значение | Описание |

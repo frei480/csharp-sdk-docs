@@ -11,19 +11,8 @@ public UnitType FindUnitType(
 	bool ignoreCase
 )
 ```
-```vb
-Public Function FindUnitType ( 
-	unitTypeName As String,
-	ignoreCase As Boolean
-) As UnitType
-```
-```cpp
-public:
-UnitType^ FindUnitType(
-	String^ unitTypeName, 
-	bool ignoreCase
-)
-```
+
+
 
 
 #### Параметры

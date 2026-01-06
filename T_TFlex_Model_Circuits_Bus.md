@@ -13,13 +13,8 @@
 ```csharp
 public class Bus : Link
 ```
-```vb
-Public Class Bus
-	Inherits Link
-```
-```cpp
-public ref class Bus : public Link
-```
+
+
 
 
 Тип Bus предоставляет следующие члены.

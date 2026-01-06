@@ -11,18 +11,8 @@
 ```csharp
 public VariableDocumentPropertyType DocumentProperty { get; set; }
 ```
-```vb
-Public Property DocumentProperty As VariableDocumentPropertyType
-	Get
-	Set
-```
-```cpp
-public:
-property VariableDocumentPropertyType DocumentProperty {
-	VariableDocumentPropertyType get ();
-	void set (VariableDocumentPropertyType value);
-}
-```
+
+
 
 
 #### Значение свойства

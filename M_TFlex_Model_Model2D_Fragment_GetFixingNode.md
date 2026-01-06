@@ -13,17 +13,8 @@ public Node GetFixingNode(
 	int index
 )
 ```
-```vb
-Public Function GetFixingNode ( 
-	index As Integer
-) As Node
-```
-```cpp
-public:
-Node^ GetFixingNode(
-	int index
-)
-```
+
+
 
 
 #### Параметры

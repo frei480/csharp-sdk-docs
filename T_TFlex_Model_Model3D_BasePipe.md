@@ -13,13 +13,8 @@
 ```csharp
 public abstract class BasePipe : Operation
 ```
-```vb
-Public MustInherit Class BasePipe
-	Inherits Operation
-```
-```cpp
-public ref class BasePipe abstract : public Operation
-```
+
+
 
 
 Тип BasePipe предоставляет следующие члены.

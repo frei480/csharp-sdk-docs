@@ -8,13 +8,8 @@
 ```csharp
 public double InvisibleLength
 ```
-```vb
-Public InvisibleLength As Double
-```
-```cpp
-public:
-double InvisibleLength
-```
+
+
 
 
 #### Значение поля

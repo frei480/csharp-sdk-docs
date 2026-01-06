@@ -11,13 +11,8 @@
 ```csharp
 public class ElementInfo : IDisposable
 ```
-```vb
-Public Class ElementInfo
-	Implements IDisposable
-```
-```cpp
-public ref class ElementInfo : IDisposable
-```
+
+
 
 
 Тип ElementInfo предоставляет следующие члены.

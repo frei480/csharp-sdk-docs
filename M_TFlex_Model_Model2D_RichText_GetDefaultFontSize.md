@@ -11,13 +11,8 @@
 ```csharp
 public double GetDefaultFontSize()
 ```
-```vb
-Public Function GetDefaultFontSize As Double
-```
-```cpp
-public:
-double GetDefaultFontSize()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -10,17 +10,8 @@ public void Assign(
 	UserCamera source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As UserCamera
-)
-```
-```cpp
-public:
-void Assign(
-	UserCamera^ source
-)
-```
+
+
 
 
 #### Параметры

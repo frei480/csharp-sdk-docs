@@ -14,19 +14,8 @@ protected LinearDimensionBase(
 	bool fAddToContainer
 )
 ```
-```vb
-Protected Sub New ( 
-	Handle As IntPtr,
-	fAddToContainer As Boolean
-)
-```
-```cpp
-protected:
-LinearDimensionBase(
-	IntPtr Handle, 
-	bool fAddToContainer
-)
-```
+
+
 
 
 #### Параметры

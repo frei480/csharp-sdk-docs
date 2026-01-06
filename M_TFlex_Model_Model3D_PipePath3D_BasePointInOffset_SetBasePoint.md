@@ -13,17 +13,8 @@ public void SetBasePoint(
 	PipePath3DBasePointInOffset pPoint
 )
 ```
-```vb
-Public Sub SetBasePoint ( 
-	pPoint As PipePath3DBasePointInOffset
-)
-```
-```cpp
-public:
-void SetBasePoint(
-	PipePath3DBasePointInOffset^ pPoint
-)
-```
+
+
 
 
 #### Параметры

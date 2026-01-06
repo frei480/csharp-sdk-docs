@@ -13,17 +13,8 @@ public static ComparisonOperator GetOperator(
 	ComparisonOperatorType type
 )
 ```
-```vb
-Public Shared Function GetOperator ( 
-	type As ComparisonOperatorType
-) As ComparisonOperator
-```
-```cpp
-public:
-static ComparisonOperator^ GetOperator(
-	ComparisonOperatorType type
-)
-```
+
+
 
 
 #### Параметры

@@ -10,18 +10,8 @@ public RowElementCell this[
 	ParameterDescriptor parameter
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	parameter As ParameterDescriptor
-) As RowElementCell
-	Get
-```
-```cpp
-public:
-property RowElementCell^ default[ParameterDescriptor^ parameter] {
-	RowElementCell^ get (ParameterDescriptor^ parameter);
-}
-```
+
+
 
 
 #### Параметры

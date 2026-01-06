@@ -13,17 +13,8 @@ public Operation FindBodyOwner(
 	bool any
 )
 ```
-```vb
-Public Function FindBodyOwner ( 
-	any As Boolean
-) As Operation
-```
-```cpp
-public:
-Operation^ FindBodyOwner(
-	bool any
-)
-```
+
+
 
 
 #### Параметры

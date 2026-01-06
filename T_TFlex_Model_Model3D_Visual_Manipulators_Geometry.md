@@ -12,14 +12,8 @@
 public abstract class Geometry : IDisposable, 
 	ICloneable
 ```
-```vb
-Public MustInherit Class Geometry
-	Implements IDisposable, ICloneable
-```
-```cpp
-public ref class Geometry abstract : IDisposable, 
-	ICloneable
-```
+
+
 
 
 Тип Geometry предоставляет следующие члены.

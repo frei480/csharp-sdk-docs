@@ -13,13 +13,8 @@
 ```csharp
 public class ArrowViewSymbol : ViewSymbol
 ```
-```vb
-Public Class ArrowViewSymbol
-	Inherits ViewSymbol
-```
-```cpp
-public ref class ArrowViewSymbol : public ViewSymbol
-```
+
+
 
 
 Тип ArrowViewSymbol предоставляет следующие члены.

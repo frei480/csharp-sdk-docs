@@ -11,19 +11,8 @@ public static bool operator ==(
 	ParamProviderMap right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As ParamProviderMap,
-	right As ParamProviderMap
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	ParamProviderMap^ left, 
-	ParamProviderMap^ right
-)
-```
+
+
 
 
 #### Параметры

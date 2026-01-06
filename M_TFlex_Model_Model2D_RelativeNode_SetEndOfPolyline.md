@@ -14,19 +14,8 @@ public void SetEndOfPolyline(
 	bool alignToStart
 )
 ```
-```vb
-Public Sub SetEndOfPolyline ( 
-	srcConstruction As Construction,
-	alignToStart As Boolean
-)
-```
-```cpp
-public:
-void SetEndOfPolyline(
-	Construction^ srcConstruction, 
-	bool alignToStart
-)
-```
+
+
 
 
 #### Параметры

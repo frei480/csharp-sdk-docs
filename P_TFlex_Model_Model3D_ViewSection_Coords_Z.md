@@ -11,18 +11,8 @@ Z-координата точки или вектора
 ```csharp
 public double Z { get; set; }
 ```
-```vb
-Public Property Z As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Z {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 protected virtual IEnumerable<ModelObject> GetMarkObjects()
 ```
-```vb
-Protected Overridable Function GetMarkObjects As IEnumerable(Of ModelObject)
-```
-```cpp
-protected:
-virtual IEnumerable<ModelObject^>^ GetMarkObjects()
-```
+
+
 
 
 #### Возвращаемое значение

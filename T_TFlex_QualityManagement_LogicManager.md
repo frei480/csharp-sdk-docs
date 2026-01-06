@@ -13,13 +13,8 @@
 ```csharp
 public sealed class LogicManager : IDisposable
 ```
-```vb
-Public NotInheritable Class LogicManager
-	Implements IDisposable
-```
-```cpp
-public ref class LogicManager sealed : IDisposable
-```
+
+
 
 
 Тип LogicManager предоставляет следующие члены.

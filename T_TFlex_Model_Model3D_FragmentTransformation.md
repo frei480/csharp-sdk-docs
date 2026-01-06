@@ -13,13 +13,8 @@
 ```csharp
 public class FragmentTransformation : MoveRotateTransformation
 ```
-```vb
-Public Class FragmentTransformation
-	Inherits MoveRotateTransformation
-```
-```cpp
-public ref class FragmentTransformation : public MoveRotateTransformation
-```
+
+
 
 
 Тип FragmentTransformation предоставляет следующие члены.

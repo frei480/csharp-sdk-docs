@@ -13,17 +13,8 @@ public Guid GetFieldGuidValueIndirect(
 	uint fieldIndex
 )
 ```
-```vb
-Public Function GetFieldGuidValueIndirect ( 
-	fieldIndex As UInteger
-) As Guid
-```
-```cpp
-public:
-Guid GetFieldGuidValueIndirect(
-	unsigned int fieldIndex
-)
-```
+
+
 
 
 #### Параметры

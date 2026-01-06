@@ -13,17 +13,8 @@ public void Add(
 	ModelPoint3D geom
 )
 ```
-```vb
-Public Sub Add ( 
-	geom As ModelPoint3D
-)
-```
-```cpp
-public:
-void Add(
-	ModelPoint3D^ geom
-)
-```
+
+
 
 
 #### Параметры

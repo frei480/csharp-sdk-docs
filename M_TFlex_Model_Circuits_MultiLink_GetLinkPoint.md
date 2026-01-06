@@ -10,17 +10,8 @@ public override Point GetLinkPoint(
 	FixingVector fixingPoint
 )
 ```
-```vb
-Public Overrides Function GetLinkPoint ( 
-	fixingPoint As FixingVector
-) As Point
-```
-```cpp
-public:
-virtual Point^ GetLinkPoint(
-	FixingVector^ fixingPoint
-) override
-```
+
+
 
 
 #### Параметры

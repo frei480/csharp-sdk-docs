@@ -11,12 +11,8 @@
 ```csharp
 public enum PdmParameterType
 ```
-```vb
-Public Enumeration PdmParameterType
-```
-```cpp
-public enum class PdmParameterType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

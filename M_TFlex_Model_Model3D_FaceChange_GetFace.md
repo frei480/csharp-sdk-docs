@@ -17,25 +17,8 @@ public bool GetFace(
 	ref bool commonParameter
 )
 ```
-```vb
-Public Function GetFace ( 
-	nFace As Integer,
-	ByRef face As ModelFace,
-	ByRef parameter1 As Parameter,
-	ByRef parameter2 As Parameter,
-	ByRef commonParameter As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool GetFace(
-	int nFace, 
-	ModelFace^% face, 
-	Parameter^% parameter1, 
-	Parameter^% parameter2, 
-	bool% commonParameter
-)
-```
+
+
 
 
 #### Параметры

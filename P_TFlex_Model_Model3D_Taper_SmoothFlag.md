@@ -11,18 +11,8 @@
 ```csharp
 public bool SmoothFlag { get; set; }
 ```
-```vb
-Public Property SmoothFlag As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SmoothFlag {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

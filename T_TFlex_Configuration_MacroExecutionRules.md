@@ -8,12 +8,8 @@
 ```csharp
 public enum MacroExecutionRules
 ```
-```vb
-Public Enumeration MacroExecutionRules
-```
-```cpp
-public enum class MacroExecutionRules
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,13 +13,8 @@
 ```csharp
 public class FacetTriangle : IDisposable
 ```
-```vb
-Public Class FacetTriangle
-	Implements IDisposable
-```
-```cpp
-public ref class FacetTriangle : IDisposable
-```
+
+
 
 
 Тип FacetTriangle предоставляет следующие члены.

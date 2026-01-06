@@ -11,18 +11,8 @@
 ```csharp
 public ConePrimaryParameters PrimaryParameters { get; set; }
 ```
-```vb
-Public Property PrimaryParameters As ConePrimaryParameters
-	Get
-	Set
-```
-```cpp
-public:
-property ConePrimaryParameters PrimaryParameters {
-	ConePrimaryParameters get ();
-	void set (ConePrimaryParameters value);
-}
-```
+
+
 
 
 #### Значение свойства

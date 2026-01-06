@@ -11,13 +11,8 @@
 ```csharp
 public class ForcedCultureResourcesTypeAttribute : Attribute
 ```
-```vb
-Public Class ForcedCultureResourcesTypeAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class ForcedCultureResourcesTypeAttribute : public Attribute
-```
+
+
 
 
 Тип ForcedCultureResourcesTypeAttribute предоставляет следующие члены.

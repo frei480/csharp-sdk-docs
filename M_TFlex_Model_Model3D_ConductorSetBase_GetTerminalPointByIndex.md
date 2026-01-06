@@ -10,17 +10,8 @@ public TerminalPoint GetTerminalPointByIndex(
 	int pointIndex
 )
 ```
-```vb
-Public Function GetTerminalPointByIndex ( 
-	pointIndex As Integer
-) As TerminalPoint
-```
-```cpp
-public:
-TerminalPoint^ GetTerminalPointByIndex(
-	int pointIndex
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool TextVariableOn { get; set; }
 ```
-```vb
-Public Property TextVariableOn As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool TextVariableOn {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

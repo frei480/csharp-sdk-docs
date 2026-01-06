@@ -11,13 +11,8 @@
 ```csharp
 public class Manipulator : IDisposable
 ```
-```vb
-Public Class Manipulator
-	Implements IDisposable
-```
-```cpp
-public ref class Manipulator : IDisposable
-```
+
+
 
 
 Тип Manipulator предоставляет следующие члены.

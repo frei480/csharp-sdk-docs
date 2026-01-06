@@ -13,12 +13,8 @@
 ```csharp
 protected class TexturedBody
 ```
-```vb
-Protected Class TexturedBody
-```
-```cpp
-protected ref class TexturedBody
-```
+
+
 
 
 Тип ProxyOperationTexturedBody предоставляет следующие члены.

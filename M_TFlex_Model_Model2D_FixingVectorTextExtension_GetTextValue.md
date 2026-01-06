@@ -11,21 +11,8 @@ public static string GetTextValue(
 	int iText
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetTextValue ( 
-	__unnamed000 As FixingVector,
-	iText As Integer
-) As String
-```
-```cpp
-public:
-[ExtensionAttribute]
-static String^ GetTextValue(
-	FixingVector^ __unnamed000, 
-	int iText
-)
-```
+
+
 
 
 #### Параметры

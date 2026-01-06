@@ -13,17 +13,8 @@ public ElementInfo(
 	Element elem
 )
 ```
-```vb
-Public Sub New ( 
-	elem As Element
-)
-```
-```cpp
-public:
-ElementInfo(
-	Element^ elem
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public List<string> PagesNames { get; }
 ```
-```vb
-Public ReadOnly Property PagesNames As List(Of String)
-	Get
-```
-```cpp
-public:
-property List<String^>^ PagesNames {
-	List<String^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

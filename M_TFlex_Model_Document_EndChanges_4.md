@@ -13,17 +13,8 @@ public ChangesResult EndChanges(
 	EndChangesOptions options
 )
 ```
-```vb
-Public Function EndChanges ( 
-	options As EndChangesOptions
-) As ChangesResult
-```
-```cpp
-public:
-ChangesResult EndChanges(
-	EndChangesOptions^ options
-)
-```
+
+
 
 
 #### Параметры

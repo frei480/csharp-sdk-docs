@@ -11,13 +11,8 @@
 ```csharp
 public class BasePartialLoadParameters : BaseLoadParameters
 ```
-```vb
-Public Class BasePartialLoadParameters
-	Inherits BaseLoadParameters
-```
-```cpp
-public ref class BasePartialLoadParameters : public BaseLoadParameters
-```
+
+
 
 
 Тип BasePartialLoadParameters предоставляет следующие члены.

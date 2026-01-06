@@ -11,16 +11,8 @@
 ```csharp
 public PropertiesWindowHeaderButton Button { get; }
 ```
-```vb
-Public ReadOnly Property Button As PropertiesWindowHeaderButton
-	Get
-```
-```cpp
-public:
-property PropertiesWindowHeaderButton Button {
-	PropertiesWindowHeaderButton get ();
-}
-```
+
+
 
 
 #### Значение свойства

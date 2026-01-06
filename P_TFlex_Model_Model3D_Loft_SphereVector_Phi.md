@@ -11,16 +11,8 @@
 ```csharp
 public Parameter Phi { get; }
 ```
-```vb
-Public ReadOnly Property Phi As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ Phi {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

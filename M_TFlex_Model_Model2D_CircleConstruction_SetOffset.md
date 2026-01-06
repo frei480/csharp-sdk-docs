@@ -14,19 +14,8 @@ public void SetOffset(
 	Parameter offset
 )
 ```
-```vb
-Public Sub SetOffset ( 
-	srcCircle As Construction,
-	offset As Parameter
-)
-```
-```cpp
-public:
-void SetOffset(
-	Construction^ srcCircle, 
-	Parameter^ offset
-)
-```
+
+
 
 
 #### Параметры

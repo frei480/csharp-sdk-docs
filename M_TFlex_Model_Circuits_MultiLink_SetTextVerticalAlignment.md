@@ -10,17 +10,8 @@ public override void SetTextVerticalAlignment(
 	TextVerticalAlignment A_0
 )
 ```
-```vb
-Public Overrides Sub SetTextVerticalAlignment ( 
-	A_0 As TextVerticalAlignment
-)
-```
-```cpp
-public:
-virtual void SetTextVerticalAlignment(
-	TextVerticalAlignment A_0
-) override
-```
+
+
 
 
 #### Параметры

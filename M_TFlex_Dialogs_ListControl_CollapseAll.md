@@ -11,13 +11,8 @@
 ```csharp
 public void CollapseAll()
 ```
-```vb
-Public Sub CollapseAll
-```
-```cpp
-public:
-void CollapseAll()
-```
+
+
 
 
 #### Ссылки

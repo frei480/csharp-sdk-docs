@@ -13,13 +13,8 @@
 ```csharp
 public class BOMObject : RichText
 ```
-```vb
-Public Class BOMObject
-	Inherits RichText
-```
-```cpp
-public ref class BOMObject : public RichText
-```
+
+
 
 
 Тип BOMObject предоставляет следующие члены.

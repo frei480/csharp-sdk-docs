@@ -13,16 +13,8 @@
 ```csharp
 public static Unit InchOfMercury { get; }
 ```
-```vb
-Public Shared ReadOnly Property InchOfMercury As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ InchOfMercury {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

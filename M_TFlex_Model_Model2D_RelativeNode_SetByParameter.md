@@ -14,19 +14,8 @@ public void SetByParameter(
 	Parameter param
 )
 ```
-```vb
-Public Sub SetByParameter ( 
-	srcConstruction As Construction,
-	param As Parameter
-)
-```
-```cpp
-public:
-void SetByParameter(
-	Construction^ srcConstruction, 
-	Parameter^ param
-)
-```
+
+
 
 
 #### Параметры

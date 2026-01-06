@@ -13,17 +13,8 @@ public ExportToFacet(
 	Document A_0
 )
 ```
-```vb
-Public Sub New ( 
-	A_0 As Document
-)
-```
-```cpp
-public:
-ExportToFacet(
-	Document^ A_0
-)
-```
+
+
 
 
 #### Параметры

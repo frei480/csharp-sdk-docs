@@ -11,13 +11,8 @@
 ```csharp
 public class LinearSizeEnqueuedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class LinearSizeEnqueuedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class LinearSizeEnqueuedEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип LinearSizeManipulatorLinearSizeEnqueuedEventArgs предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public class NamedFragmentNode : Node
 ```
-```vb
-Public Class NamedFragmentNode
-	Inherits Node
-```
-```cpp
-public ref class NamedFragmentNode : public Node
-```
+
+
 
 
 Тип NamedFragmentNode предоставляет следующие члены.

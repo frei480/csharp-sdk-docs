@@ -11,18 +11,8 @@
 ```csharp
 public ListControlEditMode EditMode { get; set; }
 ```
-```vb
-Public Property EditMode As ListControlEditMode
-	Get
-	Set
-```
-```cpp
-public:
-property ListControlEditMode EditMode {
-	ListControlEditMode get ();
-	void set (ListControlEditMode value);
-}
-```
+
+
 
 
 #### Значение свойства

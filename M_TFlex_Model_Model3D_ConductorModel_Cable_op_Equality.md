@@ -11,19 +11,8 @@ public static bool operator ==(
 	Cable right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As Cable,
-	right As Cable
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	Cable^ left, 
-	Cable^ right
-)
-```
+
+
 
 
 #### Параметры

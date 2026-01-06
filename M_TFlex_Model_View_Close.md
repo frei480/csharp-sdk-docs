@@ -11,13 +11,8 @@
 ```csharp
 public bool Close()
 ```
-```vb
-Public Function Close As Boolean
-```
-```cpp
-public:
-bool Close()
-```
+
+
 
 
 #### Возвращаемое значение

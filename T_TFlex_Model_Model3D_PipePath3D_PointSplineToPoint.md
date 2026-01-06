@@ -11,13 +11,8 @@
 ```csharp
 public class PointSplineToPoint : PipePath3DBasePoint3D
 ```
-```vb
-Public Class PointSplineToPoint
-	Inherits PipePath3DBasePoint3D
-```
-```cpp
-public ref class PointSplineToPoint : public PipePath3DBasePoint3D
-```
+
+
 
 
 Тип PipePath3DPointSplineToPoint предоставляет следующие члены.

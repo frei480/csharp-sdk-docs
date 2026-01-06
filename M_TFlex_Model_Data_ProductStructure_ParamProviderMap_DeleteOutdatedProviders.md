@@ -10,17 +10,8 @@ public void DeleteOutdatedProviders(
 	IEnumerable<RowDescriptor> rowInfos
 )
 ```
-```vb
-Public Sub DeleteOutdatedProviders ( 
-	rowInfos As IEnumerable(Of RowDescriptor)
-)
-```
-```cpp
-public:
-void DeleteOutdatedProviders(
-	IEnumerable<RowDescriptor^>^ rowInfos
-)
-```
+
+
 
 
 #### Параметры

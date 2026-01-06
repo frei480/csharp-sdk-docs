@@ -11,13 +11,8 @@
 ```csharp
 public class DefaultGroupingRule : IGroupingRule
 ```
-```vb
-Public Class DefaultGroupingRule
-	Inherits IGroupingRule
-```
-```cpp
-public ref class DefaultGroupingRule : public IGroupingRule
-```
+
+
 
 
 Тип DefaultGroupingRule предоставляет следующие члены.

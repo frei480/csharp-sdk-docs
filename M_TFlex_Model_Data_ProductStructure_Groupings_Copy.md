@@ -8,13 +8,8 @@
 ```csharp
 public Groupings Copy()
 ```
-```vb
-Public Function Copy As Groupings
-```
-```cpp
-public:
-Groupings^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

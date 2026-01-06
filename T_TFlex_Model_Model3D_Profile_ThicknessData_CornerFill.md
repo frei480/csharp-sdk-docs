@@ -11,12 +11,8 @@
 ```csharp
 public enum CornerFill
 ```
-```vb
-Public Enumeration CornerFill
-```
-```cpp
-public enum class CornerFill
-```
+
+
 
 
 | Имя члена | Значение | Описание |

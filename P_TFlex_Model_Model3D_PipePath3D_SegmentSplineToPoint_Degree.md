@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Degree { get; set; }
 ```
-```vb
-Public Property Degree As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Degree {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

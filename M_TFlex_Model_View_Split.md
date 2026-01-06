@@ -16,23 +16,8 @@ public void Split(
 	ViewType bottomRight
 )
 ```
-```vb
-Public Sub Split ( 
-	topLeft As ViewType,
-	topRight As ViewType,
-	bottomLeft As ViewType,
-	bottomRight As ViewType
-)
-```
-```cpp
-public:
-void Split(
-	ViewType topLeft, 
-	ViewType topRight, 
-	ViewType bottomLeft, 
-	ViewType bottomRight
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public override void Release()
 ```
-```vb
-Public Overrides Sub Release
-```
-```cpp
-public:
-virtual void Release() override
-```
+
+
 
 
 #### Ссылки

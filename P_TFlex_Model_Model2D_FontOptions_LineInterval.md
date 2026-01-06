@@ -8,18 +8,8 @@
 ```csharp
 public virtual Parameter LineInterval { get; set; }
 ```
-```vb
-Public Overridable Property LineInterval As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Parameter^ LineInterval {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public MaterialSelectMode SelectMode { get; set; }
 ```
-```vb
-Public Property SelectMode As MaterialSelectMode
-	Get
-	Set
-```
-```cpp
-public:
-property MaterialSelectMode SelectMode {
-	MaterialSelectMode get ();
-	void set (MaterialSelectMode value);
-}
-```
+
+
 
 
 #### Значение свойства

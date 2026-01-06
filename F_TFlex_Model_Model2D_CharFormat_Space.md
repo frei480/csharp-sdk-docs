@@ -11,13 +11,8 @@
 ```csharp
 public double Space
 ```
-```vb
-Public Space As Double
-```
-```cpp
-public:
-double Space
-```
+
+
 
 
 #### Значение поля

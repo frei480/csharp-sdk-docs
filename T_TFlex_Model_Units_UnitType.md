@@ -11,12 +11,8 @@
 ```csharp
 public class UnitType
 ```
-```vb
-Public Class UnitType
-```
-```cpp
-public ref class UnitType
-```
+
+
 
 
 Тип UnitType предоставляет следующие члены.

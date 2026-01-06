@@ -14,15 +14,8 @@
 public class SplineCurve : Curve, 
 	BaseSplineCurve
 ```
-```vb
-Public Class SplineCurve
-	Inherits Curve
-	Implements BaseSplineCurve
-```
-```cpp
-public ref class SplineCurve : public Curve, 
-	BaseSplineCurve
-```
+
+
 
 
 Тип SplineCurve предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public ModelAttributes GetAttributes()
 ```
-```vb
-Public Function GetAttributes As ModelAttributes
-```
-```cpp
-public:
-ModelAttributes^ GetAttributes()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,16 +11,8 @@
 ```csharp
 public BaseBody Target { get; }
 ```
-```vb
-Public ReadOnly Property Target As BaseBody
-	Get
-```
-```cpp
-public:
-property BaseBody^ Target {
-	BaseBody^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

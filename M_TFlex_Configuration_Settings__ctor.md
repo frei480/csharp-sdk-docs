@@ -11,13 +11,8 @@
 ```csharp
 public Settings()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Settings()
-```
+
+
 
 
 #### Ссылки

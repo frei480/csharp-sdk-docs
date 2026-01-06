@@ -14,19 +14,8 @@ public ValueInfo(
 	Unit unit
 )
 ```
-```vb
-Public Sub New ( 
-	value As Object,
-	unit As Unit
-)
-```
-```cpp
-public:
-ValueInfo(
-	Object^ value, 
-	Unit^ unit
-)
-```
+
+
 
 
 #### Параметры

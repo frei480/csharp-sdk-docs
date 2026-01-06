@@ -11,12 +11,8 @@
 ```csharp
 public enum SaveMaterialType
 ```
-```vb
-Public Enumeration SaveMaterialType
-```
-```cpp
-public enum class SaveMaterialType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

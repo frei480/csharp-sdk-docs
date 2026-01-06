@@ -8,18 +8,8 @@
 ```csharp
 public bool LoadFilesOnStart { get; set; }
 ```
-```vb
-Public Property LoadFilesOnStart As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool LoadFilesOnStart {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

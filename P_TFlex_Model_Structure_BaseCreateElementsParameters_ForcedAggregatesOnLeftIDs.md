@@ -8,18 +8,8 @@
 ```csharp
 public IEnumerable<Guid> ForcedAggregatesOnLeftIDs { get; set; }
 ```
-```vb
-Public Property ForcedAggregatesOnLeftIDs As IEnumerable(Of Guid)
-	Get
-	Set
-```
-```cpp
-public:
-property IEnumerable<Guid>^ ForcedAggregatesOnLeftIDs {
-	IEnumerable<Guid>^ get ();
-	void set (IEnumerable<Guid>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

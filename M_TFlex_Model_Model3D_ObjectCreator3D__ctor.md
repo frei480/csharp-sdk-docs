@@ -11,13 +11,8 @@
 ```csharp
 public ObjectCreator3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ObjectCreator3D()
-```
+
+
 
 
 #### Ссылки

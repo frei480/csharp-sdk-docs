@@ -13,17 +13,8 @@ public void AddParent(
 	ModelObject parentObject
 )
 ```
-```vb
-Public Sub AddParent ( 
-	parentObject As ModelObject
-)
-```
-```cpp
-public:
-void AddParent(
-	ModelObject^ parentObject
-)
-```
+
+
 
 
 #### Параметры

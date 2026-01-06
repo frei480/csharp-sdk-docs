@@ -11,13 +11,8 @@
 ```csharp
 public class SnapItems : SettingsGroup
 ```
-```vb
-Public Class SnapItems
-	Inherits SettingsGroup
-```
-```cpp
-public ref class SnapItems : public SettingsGroup
-```
+
+
 
 
 Тип SnapItems предоставляет следующие члены.

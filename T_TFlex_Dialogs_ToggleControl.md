@@ -13,13 +13,8 @@
 ```csharp
 public class ToggleControl : BaseControl
 ```
-```vb
-Public Class ToggleControl
-	Inherits BaseControl
-```
-```cpp
-public ref class ToggleControl : public BaseControl
-```
+
+
 
 
 Тип ToggleControl предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public int GroupsCount { get; }
 ```
-```vb
-Public ReadOnly Property GroupsCount As Integer
-	Get
-```
-```cpp
-public:
-property int GroupsCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

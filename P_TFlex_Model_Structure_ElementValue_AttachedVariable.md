@@ -8,18 +8,8 @@
 ```csharp
 public Variable AttachedVariable { get; set; }
 ```
-```vb
-Public Property AttachedVariable As Variable
-	Get
-	Set
-```
-```cpp
-public:
-property Variable^ AttachedVariable {
-	Variable^ get ();
-	void set (Variable^ value);
-}
-```
+
+
 
 
 #### Значение свойства

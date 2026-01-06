@@ -11,16 +11,8 @@
 ```csharp
 protected virtual int Version { get; }
 ```
-```vb
-Protected Overridable ReadOnly Property Version As Integer
-	Get
-```
-```cpp
-protected:
-virtual property int Version {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

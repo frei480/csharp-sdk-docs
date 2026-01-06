@@ -11,13 +11,8 @@
 ```csharp
 public class WireSetManipulator : Manipulator
 ```
-```vb
-Public Class WireSetManipulator
-	Inherits Manipulator
-```
-```cpp
-public ref class WireSetManipulator : public Manipulator
-```
+
+
 
 
 Тип WireSetManipulator предоставляет следующие члены.

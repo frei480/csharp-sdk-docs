@@ -13,13 +13,8 @@
 ```csharp
 public sealed class FileHyperlinkProperties : HyperlinkPropertiesWithUserText
 ```
-```vb
-Public NotInheritable Class FileHyperlinkProperties
-	Inherits HyperlinkPropertiesWithUserText
-```
-```cpp
-public ref class FileHyperlinkProperties sealed : public HyperlinkPropertiesWithUserText
-```
+
+
 
 
 Тип FileHyperlinkProperties предоставляет следующие члены.

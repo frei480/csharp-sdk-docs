@@ -8,16 +8,8 @@
 ```csharp
 public Parameters GlobalParameters { get; }
 ```
-```vb
-Public ReadOnly Property GlobalParameters As Parameters
-	Get
-```
-```cpp
-public:
-property Parameters^ GlobalParameters {
-	Parameters^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

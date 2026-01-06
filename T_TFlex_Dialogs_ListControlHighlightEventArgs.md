@@ -13,13 +13,8 @@
 ```csharp
 public class ListControlHighlightEventArgs : IntEventArgs
 ```
-```vb
-Public Class ListControlHighlightEventArgs
-	Inherits IntEventArgs
-```
-```cpp
-public ref class ListControlHighlightEventArgs : public IntEventArgs
-```
+
+
 
 
 Тип ListControlHighlightEventArgs предоставляет следующие члены.

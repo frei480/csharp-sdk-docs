@@ -14,19 +14,8 @@ public bool SetDirection(
 	ModelTopol topol
 )
 ```
-```vb
-Public Function SetDirection ( 
-	hole As Integer,
-	topol As ModelTopol
-) As Boolean
-```
-```cpp
-public:
-bool SetDirection(
-	int hole, 
-	ModelTopol^ topol
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public double ColumnsWidth
 ```
-```vb
-Public ColumnsWidth As Double
-```
-```cpp
-public:
-double ColumnsWidth
-```
+
+
 
 
 #### Значение поля

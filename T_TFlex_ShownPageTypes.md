@@ -11,13 +11,8 @@
 ```csharp
 public sealed class ShownPageTypes : ICollection<PageType>
 ```
-```vb
-Public NotInheritable Class ShownPageTypes
-	Implements ICollection(Of PageType)
-```
-```cpp
-public ref class ShownPageTypes sealed : ICollection<PageType>
-```
+
+
 
 
 Тип ShownPageTypes предоставляет следующие члены.

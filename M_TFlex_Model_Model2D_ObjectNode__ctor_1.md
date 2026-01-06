@@ -15,21 +15,8 @@ public ObjectNode(
 	uint index
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	parentObject As Object2D,
-	index As UInteger
-)
-```
-```cpp
-public:
-ObjectNode(
-	Document^ document, 
-	Object2D^ parentObject, 
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

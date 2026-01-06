@@ -8,18 +8,8 @@
 ```csharp
 public int ProjectionImageMaxSize { get; set; }
 ```
-```vb
-Public Property ProjectionImageMaxSize As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ProjectionImageMaxSize {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

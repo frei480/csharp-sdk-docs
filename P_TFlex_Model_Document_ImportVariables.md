@@ -11,16 +11,8 @@
 ```csharp
 public ImportVariables ImportVariables { get; }
 ```
-```vb
-Public ReadOnly Property ImportVariables As ImportVariables
-	Get
-```
-```cpp
-public:
-property ImportVariables^ ImportVariables {
-	ImportVariables^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

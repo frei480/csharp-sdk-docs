@@ -11,18 +11,8 @@
 ```csharp
 public Node3D TiePoint3D { get; set; }
 ```
-```vb
-Public Property TiePoint3D As Node3D
-	Get
-	Set
-```
-```cpp
-public:
-property Node3D^ TiePoint3D {
-	Node3D^ get ();
-	void set (Node3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

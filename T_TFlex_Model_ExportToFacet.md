@@ -11,13 +11,8 @@
 ```csharp
 public class ExportToFacet : ExportTo
 ```
-```vb
-Public Class ExportToFacet
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportToFacet : public ExportTo
-```
+
+
 
 
 Тип ExportToFacet предоставляет следующие члены.

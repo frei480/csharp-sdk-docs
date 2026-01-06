@@ -13,12 +13,8 @@
 ```csharp
 public sealed class FixTask
 ```
-```vb
-Public NotInheritable Class FixTask
-```
-```cpp
-public ref class FixTask sealed
-```
+
+
 
 
 Тип FixTask предоставляет следующие члены.

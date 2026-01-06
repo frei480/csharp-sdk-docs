@@ -11,13 +11,8 @@
 ```csharp
 public class Control : SettingsGroup
 ```
-```vb
-Public Class Control
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Control : public SettingsGroup
-```
+
+
 
 
 Тип Control предоставляет следующие члены.

@@ -13,17 +13,8 @@ public Simplification(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-Simplification(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

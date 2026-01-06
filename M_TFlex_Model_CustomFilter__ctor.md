@@ -11,13 +11,8 @@
 ```csharp
 public CustomFilter()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CustomFilter()
-```
+
+
 
 
 #### Ссылки

@@ -11,13 +11,8 @@
 ```csharp
 public class ModificationEnqueuedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class ModificationEnqueuedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class ModificationEnqueuedEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип ModificationEnqueuedEventArgs предоставляет следующие члены.

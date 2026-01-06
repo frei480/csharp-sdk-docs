@@ -14,14 +14,8 @@
 public class ProjectionOutlineArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ProjectionOutlineArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ProjectionOutlineArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип ProjectionOutlineArray предоставляет следующие члены.

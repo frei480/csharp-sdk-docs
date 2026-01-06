@@ -8,12 +8,8 @@
 ```csharp
 public enum PageViewOnLbtnDblClkAction
 ```
-```vb
-Public Enumeration PageViewOnLbtnDblClkAction
-```
-```cpp
-public enum class PageViewOnLbtnDblClkAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

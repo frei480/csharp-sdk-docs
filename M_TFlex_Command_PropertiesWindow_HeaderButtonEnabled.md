@@ -13,17 +13,8 @@ public bool HeaderButtonEnabled(
 	PropertiesWindowHeaderButton button
 )
 ```
-```vb
-Public Function HeaderButtonEnabled ( 
-	button As PropertiesWindowHeaderButton
-) As Boolean
-```
-```cpp
-public:
-bool HeaderButtonEnabled(
-	PropertiesWindowHeaderButton button
-)
-```
+
+
 
 
 #### Параметры

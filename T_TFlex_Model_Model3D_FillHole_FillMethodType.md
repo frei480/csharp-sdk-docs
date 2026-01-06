@@ -11,12 +11,8 @@
 ```csharp
 public enum FillMethodType
 ```
-```vb
-Public Enumeration FillMethodType
-```
-```cpp
-public enum class FillMethodType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

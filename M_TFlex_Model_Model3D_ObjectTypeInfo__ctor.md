@@ -11,13 +11,8 @@
 ```csharp
 public ObjectTypeInfo()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ObjectTypeInfo()
-```
+
+
 
 
 #### Ссылки

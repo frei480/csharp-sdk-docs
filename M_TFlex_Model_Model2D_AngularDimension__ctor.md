@@ -13,17 +13,8 @@ public AngularDimension(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-AngularDimension(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public void SetSelection(
 	uint cell2
 )
 ```
-```vb
-Public Sub SetSelection ( 
-	cell1 As UInteger,
-	cell2 As UInteger
-)
-```
-```cpp
-public:
-void SetSelection(
-	unsigned int cell1, 
-	unsigned int cell2
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public override sealed IEnumerator GetEnumerator()
 ```
-```vb
-Public Overrides NotOverridable Function GetEnumerator As IEnumerator
-```
-```cpp
-public:
-virtual IEnumerator^ GetEnumerator() override sealed
-```
+
+
 
 
 #### Возвращаемое значение

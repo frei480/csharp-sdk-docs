@@ -14,19 +14,8 @@ public void CreateCustomColumn(
 	BOMObjectColumnSettings settings
 )
 ```
-```vb
-Public Sub CreateCustomColumn ( 
-	name As String,
-	settings As BOMObjectColumnSettings
-)
-```
-```cpp
-public:
-void CreateCustomColumn(
-	String^ name, 
-	BOMObjectColumnSettings^ settings
-)
-```
+
+
 
 
 #### Параметры

@@ -13,19 +13,8 @@ public static void ResumeSelectionFilterNotifications(
 	this IFilterOwner owner
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub ResumeSelectionFilterNotifications ( 
-	owner As IFilterOwner
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void ResumeSelectionFilterNotifications(
-	IFilterOwner^ owner
-)
-```
+
+
 
 
 #### Параметры

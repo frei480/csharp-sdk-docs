@@ -8,18 +8,8 @@
 ```csharp
 public bool SetColors { get; set; }
 ```
-```vb
-Public Property SetColors As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SetColors {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

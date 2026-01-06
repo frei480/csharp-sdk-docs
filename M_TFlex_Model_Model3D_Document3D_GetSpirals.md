@@ -13,19 +13,8 @@ public static ICollection<Spiral> GetSpirals(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetSpirals ( 
-	document As Document
-) As ICollection(Of Spiral)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Spiral^>^ GetSpirals(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public bool TrySetTableOnly(
 	bool tableOnly
 )
 ```
-```vb
-Public Function TrySetTableOnly ( 
-	tableOnly As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool TrySetTableOnly(
-	bool tableOnly
-)
-```
+
+
 
 
 #### Параметры

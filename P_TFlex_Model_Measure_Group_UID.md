@@ -8,18 +8,8 @@
 ```csharp
 public Guid UID { get; set; }
 ```
-```vb
-Public Property UID As Guid
-	Get
-	Set
-```
-```cpp
-public:
-property Guid UID {
-	Guid get ();
-	void set (Guid value);
-}
-```
+
+
 
 
 #### Значение свойства

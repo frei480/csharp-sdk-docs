@@ -11,16 +11,8 @@
 ```csharp
 public ModelObject ParentObject3D { get; }
 ```
-```vb
-Public ReadOnly Property ParentObject3D As ModelObject
-	Get
-```
-```cpp
-public:
-property ModelObject^ ParentObject3D {
-	ModelObject^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

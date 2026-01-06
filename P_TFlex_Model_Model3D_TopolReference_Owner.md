@@ -11,16 +11,8 @@
 ```csharp
 public Object3D Owner { get; }
 ```
-```vb
-Public ReadOnly Property Owner As Object3D
-	Get
-```
-```cpp
-public:
-property Object3D^ Owner {
-	Object3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

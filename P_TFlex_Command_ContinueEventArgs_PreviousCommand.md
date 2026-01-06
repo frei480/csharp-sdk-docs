@@ -11,16 +11,8 @@
 ```csharp
 public PluginCommand PreviousCommand { get; }
 ```
-```vb
-Public ReadOnly Property PreviousCommand As PluginCommand
-	Get
-```
-```cpp
-public:
-property PluginCommand^ PreviousCommand {
-	PluginCommand^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

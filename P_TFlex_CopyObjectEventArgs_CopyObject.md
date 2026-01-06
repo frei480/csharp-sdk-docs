@@ -8,16 +8,8 @@
 ```csharp
 public ModelObject CopyObject { get; }
 ```
-```vb
-Public ReadOnly Property CopyObject As ModelObject
-	Get
-```
-```cpp
-public:
-property ModelObject^ CopyObject {
-	ModelObject^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

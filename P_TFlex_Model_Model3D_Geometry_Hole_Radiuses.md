@@ -8,16 +8,8 @@
 ```csharp
 public List<double> Radiuses { get; }
 ```
-```vb
-Public ReadOnly Property Radiuses As List(Of Double)
-	Get
-```
-```cpp
-public:
-property List<double>^ Radiuses {
-	List<double>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

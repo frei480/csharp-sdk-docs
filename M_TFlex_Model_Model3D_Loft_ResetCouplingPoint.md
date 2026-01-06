@@ -14,19 +14,8 @@ public void ResetCouplingPoint(
 	int profileIndex
 )
 ```
-```vb
-Public Sub ResetCouplingPoint ( 
-	couplingIndex As Integer,
-	profileIndex As Integer
-)
-```
-```cpp
-public:
-void ResetCouplingPoint(
-	int couplingIndex, 
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

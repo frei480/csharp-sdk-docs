@@ -14,19 +14,8 @@ public static Document OpenDocument(
 	OpenDocumentOptions options
 )
 ```
-```vb
-Public Shared Function OpenDocument ( 
-	fileName As String,
-	options As OpenDocumentOptions
-) As Document
-```
-```cpp
-public:
-static Document^ OpenDocument(
-	String^ fileName, 
-	OpenDocumentOptions^ options
-)
-```
+
+
 
 
 #### Параметры

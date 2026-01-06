@@ -14,19 +14,8 @@ public static string GetShortPathName(
 	string directoryName
 )
 ```
-```vb
-Public Shared Function GetShortPathName ( 
-	fileName As String,
-	directoryName As String
-) As String
-```
-```cpp
-public:
-static String^ GetShortPathName(
-	String^ fileName, 
-	String^ directoryName
-)
-```
+
+
 
 
 #### Параметры

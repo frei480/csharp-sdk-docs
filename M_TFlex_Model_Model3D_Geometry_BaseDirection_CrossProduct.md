@@ -13,17 +13,8 @@ public Direction CrossProduct(
 	BaseDirection direction
 )
 ```
-```vb
-Public Function CrossProduct ( 
-	direction As BaseDirection
-) As Direction
-```
-```cpp
-public:
-Direction^ CrossProduct(
-	BaseDirection^ direction
-)
-```
+
+
 
 
 #### Параметры

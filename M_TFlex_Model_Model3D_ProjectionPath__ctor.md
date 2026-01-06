@@ -13,17 +13,8 @@ public ProjectionPath(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-ProjectionPath(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

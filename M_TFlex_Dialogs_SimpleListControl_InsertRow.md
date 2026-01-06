@@ -13,17 +13,8 @@ public void InsertRow(
 	int pos
 )
 ```
-```vb
-Public Sub InsertRow ( 
-	pos As Integer
-)
-```
-```cpp
-public:
-void InsertRow(
-	int pos
-)
-```
+
+
 
 
 #### Параметры

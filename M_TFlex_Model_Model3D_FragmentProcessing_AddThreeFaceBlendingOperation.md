@@ -8,13 +8,8 @@
 ```csharp
 public ThreeFaceBlending AddThreeFaceBlendingOperation()
 ```
-```vb
-Public Function AddThreeFaceBlendingOperation As ThreeFaceBlending
-```
-```cpp
-public:
-ThreeFaceBlending^ AddThreeFaceBlendingOperation()
-```
+
+
 
 
 #### Возвращаемое значение

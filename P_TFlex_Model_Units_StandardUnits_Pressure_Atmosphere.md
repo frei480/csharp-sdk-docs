@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Atmosphere { get; }
 ```
-```vb
-Public Shared ReadOnly Property Atmosphere As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Atmosphere {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

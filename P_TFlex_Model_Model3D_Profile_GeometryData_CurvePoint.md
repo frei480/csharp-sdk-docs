@@ -11,16 +11,8 @@
 ```csharp
 public ModelPoint3D CurvePoint { get; }
 ```
-```vb
-Public ReadOnly Property CurvePoint As ModelPoint3D
-	Get
-```
-```cpp
-public:
-property ModelPoint3D^ CurvePoint {
-	ModelPoint3D^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,18 +8,8 @@
 ```csharp
 public uint DoubleDisplayPrecision { get; set; }
 ```
-```vb
-Public Property DoubleDisplayPrecision As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int DoubleDisplayPrecision {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

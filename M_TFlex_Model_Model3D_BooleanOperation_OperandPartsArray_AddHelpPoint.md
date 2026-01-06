@@ -10,17 +10,8 @@ public void AddHelpPoint(
 	ModelPoint3D A_0
 )
 ```
-```vb
-Public Sub AddHelpPoint ( 
-	A_0 As ModelPoint3D
-)
-```
-```cpp
-public:
-void AddHelpPoint(
-	ModelPoint3D^ A_0
-)
-```
+
+
 
 
 #### Параметры

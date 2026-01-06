@@ -13,17 +13,8 @@ public ThickenExtrusion(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ThickenExtrusion(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

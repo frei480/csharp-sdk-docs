@@ -13,17 +13,8 @@ public ICollection<FragmentVariableValue> GetVariables(
 	int hole
 )
 ```
-```vb
-Public Function GetVariables ( 
-	hole As Integer
-) As ICollection(Of FragmentVariableValue)
-```
-```cpp
-public:
-ICollection<FragmentVariableValue^>^ GetVariables(
-	int hole
-)
-```
+
+
 
 
 #### Параметры

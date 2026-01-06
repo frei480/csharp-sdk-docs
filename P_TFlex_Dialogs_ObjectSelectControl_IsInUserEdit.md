@@ -11,16 +11,8 @@
 ```csharp
 public bool IsInUserEdit { get; }
 ```
-```vb
-Public ReadOnly Property IsInUserEdit As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsInUserEdit {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

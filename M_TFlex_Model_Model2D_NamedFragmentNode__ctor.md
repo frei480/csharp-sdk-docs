@@ -15,21 +15,8 @@ public NamedFragmentNode(
 	string name
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	fragment As Fragment,
-	name As String
-)
-```
-```cpp
-public:
-NamedFragmentNode(
-	Document^ document, 
-	Fragment^ fragment, 
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

@@ -16,23 +16,8 @@ public void AddSetVariableValueAction(
 	bool regenerate
 )
 ```
-```vb
-Public Sub AddSetVariableValueAction ( 
-	variableName As String,
-	realValue As Double,
-	textValue As String,
-	regenerate As Boolean
-)
-```
-```cpp
-public:
-void AddSetVariableValueAction(
-	String^ variableName, 
-	double realValue, 
-	String^ textValue, 
-	bool regenerate
-)
-```
+
+
 
 
 #### Параметры

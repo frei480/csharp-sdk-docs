@@ -11,18 +11,8 @@
 ```csharp
 public bool UseFragmentName { get; set; }
 ```
-```vb
-Public Property UseFragmentName As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseFragmentName {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

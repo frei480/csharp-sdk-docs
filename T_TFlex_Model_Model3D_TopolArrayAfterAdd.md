@@ -10,16 +10,8 @@ public delegate void TopolArrayAfterAdd(
 	ModelTopol topol
 )
 ```
-```vb
-Public Delegate Sub TopolArrayAfterAdd ( 
-	topol As ModelTopol
-)
-```
-```cpp
-public delegate void TopolArrayAfterAdd(
-	ModelTopol^ topol
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public ICollection<RowElementGroup> GetRowElementGroups(
 	Guid groupingID
 )
 ```
-```vb
-Public Function GetRowElementGroups ( 
-	groupingID As Guid
-) As ICollection(Of RowElementGroup)
-```
-```cpp
-public:
-ICollection<RowElementGroup^>^ GetRowElementGroups(
-	Guid groupingID
-)
-```
+
+
 
 
 #### Параметры

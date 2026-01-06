@@ -13,17 +13,8 @@ public GuidePathParametric(
 	Object3D object
 )
 ```
-```vb
-Public Sub New ( 
-	object As Object3D
-)
-```
-```cpp
-public:
-GuidePathParametric(
-	Object3D^ object
-)
-```
+
+
 
 
 #### Параметры

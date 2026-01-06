@@ -13,13 +13,8 @@
 ```csharp
 public sealed class SurfacePiecewiseData : IDisposable
 ```
-```vb
-Public NotInheritable Class SurfacePiecewiseData
-	Implements IDisposable
-```
-```cpp
-public ref class SurfacePiecewiseData sealed : IDisposable
-```
+
+
 
 
 Тип SurfacePiecewiseData предоставляет следующие члены.

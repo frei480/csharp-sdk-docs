@@ -11,18 +11,8 @@
 ```csharp
 public Connector Connector { get; set; }
 ```
-```vb
-Public Property Connector As Connector
-	Get
-	Set
-```
-```cpp
-public:
-property Connector^ Connector {
-	Connector^ get ();
-	void set (Connector^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public BaseDirection Tangent { get; set; }
 ```
-```vb
-Public Property Tangent As BaseDirection
-	Get
-	Set
-```
-```cpp
-public:
-property BaseDirection^ Tangent {
-	BaseDirection^ get ();
-	void set (BaseDirection^ value);
-}
-```
+
+
 
 
 #### Значение свойства

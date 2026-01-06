@@ -11,18 +11,8 @@
 ```csharp
 public bool Nearest { get; set; }
 ```
-```vb
-Public Property Nearest As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Nearest {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

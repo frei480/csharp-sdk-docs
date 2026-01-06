@@ -13,17 +13,8 @@ protected CircularDimensionBase(
 	IntPtr Handle
 )
 ```
-```vb
-Protected Sub New ( 
-	Handle As IntPtr
-)
-```
-```cpp
-protected:
-CircularDimensionBase(
-	IntPtr Handle
-)
-```
+
+
 
 
 #### Параметры

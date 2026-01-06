@@ -10,17 +10,8 @@ public static void Warn(
 	string message
 )
 ```
-```vb
-Public Shared Sub Warn ( 
-	message As String
-)
-```
-```cpp
-public:
-static void Warn(
-	String^ message
-)
-```
+
+
 
 
 #### Параметры

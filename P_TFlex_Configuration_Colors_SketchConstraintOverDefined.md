@@ -8,18 +8,8 @@
 ```csharp
 public int SketchConstraintOverDefined { get; set; }
 ```
-```vb
-Public Property SketchConstraintOverDefined As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SketchConstraintOverDefined {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public Parameter DutyFactor { get; set; }
 ```
-```vb
-Public Property DutyFactor As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ DutyFactor {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

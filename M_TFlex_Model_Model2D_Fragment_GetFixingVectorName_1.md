@@ -13,17 +13,8 @@ public string GetFixingVectorName(
 	int index
 )
 ```
-```vb
-Public Function GetFixingVectorName ( 
-	index As Integer
-) As String
-```
-```cpp
-public:
-String^ GetFixingVectorName(
-	int index
-)
-```
+
+
 
 
 #### Параметры

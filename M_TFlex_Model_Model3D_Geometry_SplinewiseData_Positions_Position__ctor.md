@@ -14,19 +14,8 @@ public Position(
 	double knot
 )
 ```
-```vb
-Public Sub New ( 
-	point As BasePoint3D,
-	knot As Double
-)
-```
-```cpp
-public:
-Position(
-	BasePoint3D^ point, 
-	double knot
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public string Folder { get; set; }
 ```
-```vb
-Public Property Folder As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Folder {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

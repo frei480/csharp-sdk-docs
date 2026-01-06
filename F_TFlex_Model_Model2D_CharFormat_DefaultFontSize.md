@@ -11,13 +11,8 @@
 ```csharp
 public bool DefaultFontSize
 ```
-```vb
-Public DefaultFontSize As Boolean
-```
-```cpp
-public:
-bool DefaultFontSize
-```
+
+
 
 
 #### Значение поля

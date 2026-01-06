@@ -13,12 +13,8 @@
 ```csharp
 public struct TextRectangle
 ```
-```vb
-Public Structure TextRectangle
-```
-```cpp
-public value class TextRectangle
-```
+
+
 
 
 Тип ParagraphTextTextRectangle предоставляет следующие члены.

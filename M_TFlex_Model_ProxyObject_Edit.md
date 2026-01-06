@@ -13,17 +13,8 @@ protected virtual bool Edit(
 	View View
 )
 ```
-```vb
-Protected Overridable Function Edit ( 
-	View As View
-) As Boolean
-```
-```cpp
-protected:
-virtual bool Edit(
-	View^ View
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public string FirstVertexPinName { get; }
 ```
-```vb
-Public ReadOnly Property FirstVertexPinName As String
-	Get
-```
-```cpp
-public:
-property String^ FirstVertexPinName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

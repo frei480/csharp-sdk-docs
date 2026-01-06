@@ -8,12 +8,8 @@
 ```csharp
 public enum SearchConstructionMode
 ```
-```vb
-Public Enumeration SearchConstructionMode
-```
-```cpp
-public enum class SearchConstructionMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

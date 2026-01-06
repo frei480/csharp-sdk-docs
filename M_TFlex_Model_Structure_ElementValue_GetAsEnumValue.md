@@ -8,13 +8,8 @@
 ```csharp
 public override TypeValue GetAsEnumValue()
 ```
-```vb
-Public Overrides Function GetAsEnumValue As TypeValue
-```
-```cpp
-public:
-virtual TypeValue^ GetAsEnumValue() override
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,12 +11,8 @@
 ```csharp
 public enum MappingType
 ```
-```vb
-Public Enumeration MappingType
-```
-```cpp
-public enum class MappingType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

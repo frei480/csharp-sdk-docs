@@ -11,18 +11,8 @@ V - параметр узла на поверхности
 ```csharp
 public Parameter ParameterV { get; set; }
 ```
-```vb
-Public Property ParameterV As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ParameterV {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

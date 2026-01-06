@@ -11,16 +11,8 @@
 ```csharp
 protected virtual bool IsConstruction { get; }
 ```
-```vb
-Protected Overridable ReadOnly Property IsConstruction As Boolean
-	Get
-```
-```cpp
-protected:
-virtual property bool IsConstruction {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

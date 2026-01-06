@@ -13,17 +13,8 @@ public void InsetRtfText(
 	string text
 )
 ```
-```vb
-Public Sub InsetRtfText ( 
-	text As String
-)
-```
-```cpp
-public:
-void InsetRtfText(
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

@@ -13,12 +13,8 @@
 ```csharp
 public class ProductStructureData
 ```
-```vb
-Public Class ProductStructureData
-```
-```cpp
-public ref class ProductStructureData
-```
+
+
 
 
 Тип FragmentFileUserDataProductStructureData предоставляет следующие члены.

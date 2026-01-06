@@ -13,17 +13,8 @@ public void RedoChanges(
 	uint n
 )
 ```
-```vb
-Public Sub RedoChanges ( 
-	n As UInteger
-)
-```
-```cpp
-public:
-void RedoChanges(
-	unsigned int n
-)
-```
+
+
 
 
 #### Параметры

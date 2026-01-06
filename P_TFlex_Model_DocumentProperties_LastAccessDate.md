@@ -11,16 +11,8 @@
 ```csharp
 public string LastAccessDate { get; }
 ```
-```vb
-Public ReadOnly Property LastAccessDate As String
-	Get
-```
-```cpp
-public:
-property String^ LastAccessDate {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

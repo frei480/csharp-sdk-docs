@@ -11,18 +11,8 @@
 ```csharp
 public bool ShowLastErrorDialog { get; set; }
 ```
-```vb
-Public Property ShowLastErrorDialog As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowLastErrorDialog {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

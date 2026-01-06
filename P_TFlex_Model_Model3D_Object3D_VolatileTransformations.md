@@ -14,18 +14,8 @@
 [ObsoleteAttribute("The property is obsolete. Will throw exception in runtime. Use Transformations instead.")]
 public TransformationContainer VolatileTransformations { get; }
 ```
-```vb
-<ObsoleteAttribute("The property is obsolete. Will throw exception in runtime. Use Transformations instead.")>
-Public ReadOnly Property VolatileTransformations As TransformationContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"The property is obsolete. Will throw exception in runtime. Use Transformations instead.")]
-property TransformationContainer^ VolatileTransformations {
-	TransformationContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

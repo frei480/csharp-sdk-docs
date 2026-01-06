@@ -11,18 +11,8 @@
 ```csharp
 public bool Screen { get; set; }
 ```
-```vb
-Public Property Screen As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Screen {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

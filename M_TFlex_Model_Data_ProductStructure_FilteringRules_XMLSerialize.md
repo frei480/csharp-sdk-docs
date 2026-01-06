@@ -10,17 +10,8 @@ public void XMLSerialize(
 	XmlWriter writer
 )
 ```
-```vb
-Public Sub XMLSerialize ( 
-	writer As XmlWriter
-)
-```
-```cpp
-public:
-void XMLSerialize(
-	XmlWriter^ writer
-)
-```
+
+
 
 
 #### Параметры

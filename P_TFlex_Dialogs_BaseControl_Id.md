@@ -11,18 +11,8 @@
 ```csharp
 public string Id { get; set; }
 ```
-```vb
-Public Property Id As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Id {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

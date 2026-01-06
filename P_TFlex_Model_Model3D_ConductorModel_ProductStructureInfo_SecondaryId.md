@@ -8,18 +8,8 @@
 ```csharp
 public int SecondaryId { get; set; }
 ```
-```vb
-Public Property SecondaryId As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SecondaryId {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

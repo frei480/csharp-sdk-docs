@@ -11,18 +11,8 @@
 ```csharp
 public LoftDegenerateProfileCondition FirstDegenerateProfileCondition { get; set; }
 ```
-```vb
-Public Property FirstDegenerateProfileCondition As LoftDegenerateProfileCondition
-	Get
-	Set
-```
-```cpp
-public:
-property LoftDegenerateProfileCondition^ FirstDegenerateProfileCondition {
-	LoftDegenerateProfileCondition^ get ();
-	void set (LoftDegenerateProfileCondition^ value);
-}
-```
+
+
 
 
 #### Значение свойства

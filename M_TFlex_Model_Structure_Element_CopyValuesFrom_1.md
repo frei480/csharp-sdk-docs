@@ -10,17 +10,8 @@ public void CopyValuesFrom(
 	ElementCopyValuesParameters parameters
 )
 ```
-```vb
-Public Sub CopyValuesFrom ( 
-	parameters As ElementCopyValuesParameters
-)
-```
-```cpp
-public:
-void CopyValuesFrom(
-	ElementCopyValuesParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

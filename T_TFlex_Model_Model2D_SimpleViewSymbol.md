@@ -13,13 +13,8 @@
 ```csharp
 public class SimpleViewSymbol : ViewSymbol
 ```
-```vb
-Public Class SimpleViewSymbol
-	Inherits ViewSymbol
-```
-```cpp
-public ref class SimpleViewSymbol : public ViewSymbol
-```
+
+
 
 
 Тип SimpleViewSymbol предоставляет следующие члены.

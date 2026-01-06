@@ -14,19 +14,8 @@ public void SetArrowPolyline(
 	Parameter parameter
 )
 ```
-```vb
-Public Sub SetArrowPolyline ( 
-	polyline As Object2D,
-	parameter As Parameter
-)
-```
-```cpp
-public:
-void SetArrowPolyline(
-	Object2D^ polyline, 
-	Parameter^ parameter
-)
-```
+
+
 
 
 #### Параметры

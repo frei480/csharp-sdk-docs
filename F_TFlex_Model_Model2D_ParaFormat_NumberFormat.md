@@ -11,13 +11,8 @@
 ```csharp
 public CharFormat NumberFormat
 ```
-```vb
-Public NumberFormat As CharFormat
-```
-```cpp
-public:
-CharFormat NumberFormat
-```
+
+
 
 
 #### Значение поля

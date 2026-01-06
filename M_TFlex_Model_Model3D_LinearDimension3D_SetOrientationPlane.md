@@ -13,17 +13,8 @@ public void SetOrientationPlane(
 	Object3D Plane
 )
 ```
-```vb
-Public Sub SetOrientationPlane ( 
-	Plane As Object3D
-)
-```
-```cpp
-public:
-void SetOrientationPlane(
-	Object3D^ Plane
-)
-```
+
+
 
 
 #### Параметры

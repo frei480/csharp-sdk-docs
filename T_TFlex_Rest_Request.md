@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Request
 ```
-```vb
-Public NotInheritable Class Request
-```
-```cpp
-public ref class Request sealed
-```
+
+
 
 
 Тип Request предоставляет следующие члены.

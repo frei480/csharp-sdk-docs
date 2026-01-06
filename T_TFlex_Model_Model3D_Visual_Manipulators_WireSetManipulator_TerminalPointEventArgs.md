@@ -11,13 +11,8 @@
 ```csharp
 public class TerminalPointEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class TerminalPointEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class TerminalPointEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип WireSetManipulatorTerminalPointEventArgs предоставляет следующие члены.

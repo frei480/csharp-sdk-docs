@@ -11,12 +11,8 @@
 ```csharp
 public class VersionSummaryInfo
 ```
-```vb
-Public Class VersionSummaryInfo
-```
-```cpp
-public ref class VersionSummaryInfo
-```
+
+
 
 
 Тип VersionSummaryInfo предоставляет следующие члены.

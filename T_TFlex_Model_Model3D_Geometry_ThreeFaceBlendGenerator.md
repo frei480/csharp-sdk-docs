@@ -13,13 +13,8 @@
 ```csharp
 public class ThreeFaceBlendGenerator : BodyGenerator
 ```
-```vb
-Public Class ThreeFaceBlendGenerator
-	Inherits BodyGenerator
-```
-```cpp
-public ref class ThreeFaceBlendGenerator : public BodyGenerator
-```
+
+
 
 
 Тип ThreeFaceBlendGenerator предоставляет следующие члены.

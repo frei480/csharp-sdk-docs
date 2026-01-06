@@ -13,17 +13,8 @@ public void SetCustomLocalizationId(
 	string completeLocalizationId
 )
 ```
-```vb
-Public Sub SetCustomLocalizationId ( 
-	completeLocalizationId As String
-)
-```
-```cpp
-public:
-void SetCustomLocalizationId(
-	String^ completeLocalizationId
-)
-```
+
+
 
 
 #### Параметры

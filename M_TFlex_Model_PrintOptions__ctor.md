@@ -11,13 +11,8 @@
 ```csharp
 public PrintOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PrintOptions()
-```
+
+
 
 
 #### Ссылки

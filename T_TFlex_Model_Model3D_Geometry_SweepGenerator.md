@@ -14,15 +14,8 @@
 public class SweepGenerator : BodyGenerator, 
 	IDisposable
 ```
-```vb
-Public Class SweepGenerator
-	Inherits BodyGenerator
-	Implements IDisposable
-```
-```cpp
-public ref class SweepGenerator : public BodyGenerator, 
-	IDisposable
-```
+
+
 
 
 Тип SweepGenerator предоставляет следующие члены.

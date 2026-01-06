@@ -11,12 +11,8 @@
 ```csharp
 public enum LcsExternalType
 ```
-```vb
-Public Enumeration LcsExternalType
-```
-```cpp
-public enum class LcsExternalType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

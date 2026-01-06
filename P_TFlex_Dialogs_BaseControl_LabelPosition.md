@@ -11,18 +11,8 @@
 ```csharp
 public LabelPosition LabelPosition { get; set; }
 ```
-```vb
-Public Property LabelPosition As LabelPosition
-	Get
-	Set
-```
-```cpp
-public:
-property LabelPosition LabelPosition {
-	LabelPosition get ();
-	void set (LabelPosition value);
-}
-```
+
+
 
 
 #### Значение свойства

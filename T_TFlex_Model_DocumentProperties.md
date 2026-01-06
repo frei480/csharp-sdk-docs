@@ -13,12 +13,8 @@
 ```csharp
 public sealed class DocumentProperties
 ```
-```vb
-Public NotInheritable Class DocumentProperties
-```
-```cpp
-public ref class DocumentProperties sealed
-```
+
+
 
 
 Тип DocumentProperties предоставляет следующие члены.

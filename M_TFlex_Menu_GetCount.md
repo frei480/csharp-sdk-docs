@@ -11,13 +11,8 @@
 ```csharp
 public int GetCount()
 ```
-```vb
-Public Function GetCount As Integer
-```
-```cpp
-public:
-int GetCount()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,13 +13,8 @@
 ```csharp
 public class LinearArrayOperation : ArrayOperation
 ```
-```vb
-Public Class LinearArrayOperation
-	Inherits ArrayOperation
-```
-```cpp
-public ref class LinearArrayOperation : public ArrayOperation
-```
+
+
 
 
 Тип LinearArrayOperation предоставляет следующие члены.

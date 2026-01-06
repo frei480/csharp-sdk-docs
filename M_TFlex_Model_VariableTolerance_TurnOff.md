@@ -8,13 +8,8 @@
 ```csharp
 public void TurnOff()
 ```
-```vb
-Public Sub TurnOff
-```
-```cpp
-public:
-void TurnOff()
-```
+
+
 
 
 #### Ссылки

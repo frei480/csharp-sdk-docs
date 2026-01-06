@@ -13,17 +13,8 @@ public ObjectSelectControlPlainObject(
 	string name
 )
 ```
-```vb
-Public Sub New ( 
-	name As String
-)
-```
-```cpp
-public:
-ObjectSelectControlPlainObject(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

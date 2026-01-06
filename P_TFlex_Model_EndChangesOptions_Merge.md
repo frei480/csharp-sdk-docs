@@ -11,18 +11,8 @@
 ```csharp
 public bool Merge { get; set; }
 ```
-```vb
-Public Property Merge As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Merge {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

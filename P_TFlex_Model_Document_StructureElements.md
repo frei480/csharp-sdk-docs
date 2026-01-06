@@ -11,16 +11,8 @@
 ```csharp
 public StructureElementsManager StructureElements { get; }
 ```
-```vb
-Public ReadOnly Property StructureElements As StructureElementsManager
-	Get
-```
-```cpp
-public:
-property StructureElementsManager^ StructureElements {
-	StructureElementsManager^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

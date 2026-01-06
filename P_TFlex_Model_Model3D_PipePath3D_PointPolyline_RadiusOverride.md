@@ -11,18 +11,8 @@
 ```csharp
 public bool RadiusOverride { get; set; }
 ```
-```vb
-Public Property RadiusOverride As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RadiusOverride {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllTopEdges()
 ```
-```vb
-Public Sub RemoveAllTopEdges
-```
-```cpp
-public:
-void RemoveAllTopEdges()
-```
+
+
 
 
 #### Ссылки

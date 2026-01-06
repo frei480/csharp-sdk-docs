@@ -13,12 +13,8 @@
 ```csharp
 public sealed class PropertyArray
 ```
-```vb
-Public NotInheritable Class PropertyArray
-```
-```cpp
-public ref class PropertyArray sealed
-```
+
+
 
 
 Тип PropertyArray предоставляет следующие члены.

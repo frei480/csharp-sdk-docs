@@ -13,13 +13,8 @@
 ```csharp
 public class ArcContourSegment : ContourSegment
 ```
-```vb
-Public Class ArcContourSegment
-	Inherits ContourSegment
-```
-```cpp
-public ref class ArcContourSegment : public ContourSegment
-```
+
+
 
 
 Тип ArcContourSegment предоставляет следующие члены.

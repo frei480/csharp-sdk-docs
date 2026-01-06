@@ -10,17 +10,8 @@ public void Assign(
 	Save3D source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Save3D
-)
-```
-```cpp
-public:
-void Assign(
-	Save3D^ source
-)
-```
+
+
 
 
 #### Параметры

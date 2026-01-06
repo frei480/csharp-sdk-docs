@@ -11,18 +11,8 @@
 ```csharp
 public bool TableOnly { get; set; }
 ```
-```vb
-Public Property TableOnly As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool TableOnly {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

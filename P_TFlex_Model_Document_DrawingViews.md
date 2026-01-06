@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetDrawingViews' method.")]
 public ObjectContainer DrawingViews { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetDrawingViews' method.")>
-Public ReadOnly Property DrawingViews As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetDrawingViews' method.")]
-property ObjectContainer^ DrawingViews {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

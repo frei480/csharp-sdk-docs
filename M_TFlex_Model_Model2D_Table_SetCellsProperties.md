@@ -15,21 +15,8 @@ public void SetCellsProperties(
 	TableCellProperties props
 )
 ```
-```vb
-Public Sub SetCellsProperties ( 
-	cell1 As UInteger,
-	cell2 As UInteger,
-	props As TableCellProperties
-)
-```
-```cpp
-public:
-void SetCellsProperties(
-	unsigned int cell1, 
-	unsigned int cell2, 
-	TableCellProperties props
-)
-```
+
+
 
 
 #### Параметры

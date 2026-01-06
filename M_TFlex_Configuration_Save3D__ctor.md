@@ -11,13 +11,8 @@
 ```csharp
 public Save3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Save3D()
-```
+
+
 
 
 #### Ссылки

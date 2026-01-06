@@ -10,17 +10,8 @@ public void SetImportedDocument(
 	Document document
 )
 ```
-```vb
-Public Sub SetImportedDocument ( 
-	document As Document
-)
-```
-```cpp
-public:
-void SetImportedDocument(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

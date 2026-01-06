@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionLinearUnits
 ```
-```vb
-Public Enumeration DimensionLinearUnits
-```
-```cpp
-public enum class DimensionLinearUnits
-```
+
+
 
 
 | Имя члена | Значение | Описание |

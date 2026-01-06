@@ -10,17 +10,8 @@ public static void InitNextSpliceIndex(
 	Document doc
 )
 ```
-```vb
-Public Shared Sub InitNextSpliceIndex ( 
-	doc As Document
-)
-```
-```cpp
-public:
-static void InitNextSpliceIndex(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

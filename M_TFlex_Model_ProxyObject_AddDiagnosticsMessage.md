@@ -13,17 +13,8 @@ protected virtual void AddDiagnosticsMessage(
 	DiagnosticsMessage message
 )
 ```
-```vb
-Protected Overridable Sub AddDiagnosticsMessage ( 
-	message As DiagnosticsMessage
-)
-```
-```cpp
-protected:
-virtual void AddDiagnosticsMessage(
-	DiagnosticsMessage^ message
-)
-```
+
+
 
 
 #### Параметры

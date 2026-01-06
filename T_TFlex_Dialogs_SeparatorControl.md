@@ -13,13 +13,8 @@
 ```csharp
 public class SeparatorControl : BaseControl
 ```
-```vb
-Public Class SeparatorControl
-	Inherits BaseControl
-```
-```cpp
-public ref class SeparatorControl : public BaseControl
-```
+
+
 
 
 Тип SeparatorControl предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public SolverType MateRegenerationSolverType { get; set; }
 ```
-```vb
-Public Property MateRegenerationSolverType As SolverType
-	Get
-	Set
-```
-```cpp
-public:
-property SolverType MateRegenerationSolverType {
-	SolverType get ();
-	void set (SolverType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,16 +15,8 @@
 public sealed class ObjectEnumerator : IEnumerable, 
 	IEnumerator, IDisposable
 ```
-```vb
-<ObsoleteAttribute("This class is obsolete and will be removed. Please use corresponding 'Document' class methods")>
-Public NotInheritable Class ObjectEnumerator
-	Implements IEnumerable, IEnumerator, IDisposable
-```
-```cpp
-[ObsoleteAttribute(L"This class is obsolete and will be removed. Please use corresponding 'Document' class methods")]
-public ref class ObjectEnumerator sealed : IEnumerable, 
-	IEnumerator, IDisposable
-```
+
+
 
 
 Тип ObjectEnumerator предоставляет следующие члены.

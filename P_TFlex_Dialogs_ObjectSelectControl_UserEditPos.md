@@ -11,16 +11,8 @@
 ```csharp
 public int UserEditPos { get; }
 ```
-```vb
-Public ReadOnly Property UserEditPos As Integer
-	Get
-```
-```cpp
-public:
-property int UserEditPos {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

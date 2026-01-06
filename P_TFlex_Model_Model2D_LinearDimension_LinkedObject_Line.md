@@ -11,18 +11,8 @@
 ```csharp
 public Object2D Line { get; set; }
 ```
-```vb
-Public Property Line As Object2D
-	Get
-	Set
-```
-```cpp
-public:
-property Object2D^ Line {
-	Object2D^ get ();
-	void set (Object2D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

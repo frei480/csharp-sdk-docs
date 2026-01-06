@@ -14,19 +14,8 @@ public Segment(
 	Construction path
 )
 ```
-```vb
-Public Sub New ( 
-	surface As WorkSurface,
-	path As Construction
-)
-```
-```cpp
-public:
-Segment(
-	WorkSurface^ surface, 
-	Construction^ path
-)
-```
+
+
 
 
 #### Параметры

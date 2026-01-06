@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Denier { get; }
 ```
-```vb
-Public Shared ReadOnly Property Denier As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Denier {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public double ToMeter(
 	double scale
 )
 ```
-```vb
-Public Function ToMeter ( 
-	scale As Double
-) As Double
-```
-```cpp
-public:
-double ToMeter(
-	double scale
-)
-```
+
+
 
 
 #### Параметры

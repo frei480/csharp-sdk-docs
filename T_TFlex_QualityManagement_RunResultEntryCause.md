@@ -11,12 +11,8 @@
 ```csharp
 public enum RunResultEntryCause
 ```
-```vb
-Public Enumeration RunResultEntryCause
-```
-```cpp
-public enum class RunResultEntryCause
-```
+
+
 
 
 | Имя члена | Значение | Описание |

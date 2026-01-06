@@ -11,13 +11,8 @@
 ```csharp
 protected ObjectSelectControlFilter()
 ```
-```vb
-Protected Sub New
-```
-```cpp
-protected:
-ObjectSelectControlFilter()
-```
+
+
 
 
 #### Ссылки

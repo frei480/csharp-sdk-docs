@@ -13,17 +13,8 @@ public void AddRow(
 	IList data
 )
 ```
-```vb
-Public Sub AddRow ( 
-	data As IList
-)
-```
-```cpp
-public:
-void AddRow(
-	IList^ data
-)
-```
+
+
 
 
 #### Параметры

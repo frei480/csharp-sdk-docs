@@ -13,17 +13,8 @@ public void Increment(
 	bool respectRange
 )
 ```
-```vb
-Public Sub Increment ( 
-	respectRange As Boolean
-)
-```
-```cpp
-public:
-void Increment(
-	bool respectRange
-)
-```
+
+
 
 
 #### Параметры

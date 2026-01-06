@@ -13,19 +13,8 @@ public static ICollection<BasePipe> GetPipes(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetPipes ( 
-	document As Document
-) As ICollection(Of BasePipe)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<BasePipe^>^ GetPipes(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

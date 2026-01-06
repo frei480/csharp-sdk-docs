@@ -11,13 +11,8 @@
 ```csharp
 public FormFactor()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FormFactor()
-```
+
+
 
 
 #### Ссылки

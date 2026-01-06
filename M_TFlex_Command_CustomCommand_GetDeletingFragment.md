@@ -10,19 +10,8 @@ public static Fragment GetDeletingFragment(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetDeletingFragment ( 
-	document As Document
-) As Fragment
-```
-```cpp
-public:
-[ExtensionAttribute]
-static Fragment^ GetDeletingFragment(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

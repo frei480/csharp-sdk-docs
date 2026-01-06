@@ -11,16 +11,8 @@
 ```csharp
 public LinearDimensionType LinearDimType { get; }
 ```
-```vb
-Public ReadOnly Property LinearDimType As LinearDimensionType
-	Get
-```
-```cpp
-public:
-property LinearDimensionType LinearDimType {
-	LinearDimensionType get ();
-}
-```
+
+
 
 
 #### Значение свойства

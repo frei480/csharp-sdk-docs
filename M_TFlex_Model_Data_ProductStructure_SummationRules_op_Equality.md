@@ -11,19 +11,8 @@ public static bool operator ==(
 	SummationRules right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As SummationRules,
-	right As SummationRules
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	SummationRules^ left, 
-	SummationRules^ right
-)
-```
+
+
 
 
 #### Параметры

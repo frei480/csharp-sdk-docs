@@ -11,16 +11,8 @@
 ```csharp
 public WorkplaneNode3DProjection SecondProjection { get; }
 ```
-```vb
-Public ReadOnly Property SecondProjection As WorkplaneNode3DProjection
-	Get
-```
-```cpp
-public:
-property WorkplaneNode3DProjection^ SecondProjection {
-	WorkplaneNode3DProjection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

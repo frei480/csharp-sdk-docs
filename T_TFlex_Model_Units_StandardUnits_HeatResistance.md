@@ -13,12 +13,8 @@
 ```csharp
 public sealed class HeatResistance
 ```
-```vb
-Public NotInheritable Class HeatResistance
-```
-```cpp
-public ref class HeatResistance sealed
-```
+
+
 
 
 Тип StandardUnitsHeatResistance предоставляет следующие члены.

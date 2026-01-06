@@ -13,19 +13,8 @@ public static ICollection<Rotation> GetRotations(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetRotations ( 
-	document As Document
-) As ICollection(Of Rotation)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Rotation^>^ GetRotations(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

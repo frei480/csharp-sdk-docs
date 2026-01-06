@@ -8,18 +8,8 @@
 ```csharp
 public bool DrawProfileOrPathArrows { get; set; }
 ```
-```vb
-Public Property DrawProfileOrPathArrows As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DrawProfileOrPathArrows {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

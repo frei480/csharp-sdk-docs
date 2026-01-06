@@ -8,13 +8,8 @@
 ```csharp
 public void CommitModification()
 ```
-```vb
-Public Sub CommitModification
-```
-```cpp
-public:
-void CommitModification()
-```
+
+
 
 
 #### Ссылки

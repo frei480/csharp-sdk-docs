@@ -13,17 +13,8 @@ public void Delete(
 	int idx
 )
 ```
-```vb
-Public Sub Delete ( 
-	idx As Integer
-)
-```
-```cpp
-public:
-void Delete(
-	int idx
-)
-```
+
+
 
 
 #### Параметры

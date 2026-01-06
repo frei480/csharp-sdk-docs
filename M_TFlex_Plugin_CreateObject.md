@@ -15,21 +15,8 @@ protected virtual ProxyObject CreateObject(
 	int TypeID
 )
 ```
-```vb
-Protected Overridable Function CreateObject ( 
-	__unnamed000 As Document,
-	OwnerHandle As IntPtr,
-	TypeID As Integer
-) As ProxyObject
-```
-```cpp
-protected:
-virtual ProxyObject^ CreateObject(
-	Document^ __unnamed000, 
-	IntPtr OwnerHandle, 
-	int TypeID
-)
-```
+
+
 
 
 #### Параметры

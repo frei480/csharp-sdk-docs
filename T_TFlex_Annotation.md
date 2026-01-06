@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Annotation : IDisposable
 ```
-```vb
-Public NotInheritable Class Annotation
-	Implements IDisposable
-```
-```cpp
-public ref class Annotation sealed : IDisposable
-```
+
+
 
 
 Тип Annotation предоставляет следующие члены.

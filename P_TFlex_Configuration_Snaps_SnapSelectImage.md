@@ -8,18 +8,8 @@
 ```csharp
 public bool SnapSelectImage { get; set; }
 ```
-```vb
-Public Property SnapSelectImage As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SnapSelectImage {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

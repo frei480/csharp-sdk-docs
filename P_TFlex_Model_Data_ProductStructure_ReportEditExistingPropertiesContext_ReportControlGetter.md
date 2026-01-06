@@ -8,18 +8,8 @@
 ```csharp
 public Func<ReportGenerationContext, Object> ReportControlGetter { get; set; }
 ```
-```vb
-Public Property ReportControlGetter As Func(Of ReportGenerationContext, Object)
-	Get
-	Set
-```
-```cpp
-public:
-property Func<ReportGenerationContext^, Object^>^ ReportControlGetter {
-	Func<ReportGenerationContext^, Object^>^ get ();
-	void set (Func<ReportGenerationContext^, Object^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

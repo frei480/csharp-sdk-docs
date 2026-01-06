@@ -13,17 +13,8 @@ public static bool IsNullOrEmpty(
 	DiagnosticsMessageId id
 )
 ```
-```vb
-Public Shared Function IsNullOrEmpty ( 
-	id As DiagnosticsMessageId
-) As Boolean
-```
-```cpp
-public:
-static bool IsNullOrEmpty(
-	DiagnosticsMessageId^ id
-)
-```
+
+
 
 
 #### Параметры

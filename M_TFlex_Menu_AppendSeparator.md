@@ -11,13 +11,8 @@
 ```csharp
 public void AppendSeparator()
 ```
-```vb
-Public Sub AppendSeparator
-```
-```cpp
-public:
-void AppendSeparator()
-```
+
+
 
 
 #### Ссылки

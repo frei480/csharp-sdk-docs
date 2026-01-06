@@ -14,19 +14,8 @@ public double GetDistance(
 	double y
 )
 ```
-```vb
-Public Function GetDistance ( 
-	x As Double,
-	y As Double
-) As Double
-```
-```cpp
-public:
-double GetDistance(
-	double x, 
-	double y
-)
-```
+
+
 
 
 #### Параметры

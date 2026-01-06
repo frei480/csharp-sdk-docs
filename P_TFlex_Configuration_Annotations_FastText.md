@@ -8,18 +8,8 @@
 ```csharp
 public bool FastText { get; set; }
 ```
-```vb
-Public Property FastText As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool FastText {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

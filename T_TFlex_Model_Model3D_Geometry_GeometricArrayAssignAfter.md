@@ -11,18 +11,8 @@ public delegate void GeometricArrayAssignAfter(
 	Geometry geometry
 )
 ```
-```vb
-Public Delegate Sub GeometricArrayAssignAfter ( 
-	to As Integer,
-	geometry As Geometry
-)
-```
-```cpp
-public delegate void GeometricArrayAssignAfter(
-	int to, 
-	Geometry^ geometry
-)
-```
+
+
 
 
 #### Параметры

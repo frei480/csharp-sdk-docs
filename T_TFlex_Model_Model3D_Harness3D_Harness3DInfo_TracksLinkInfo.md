@@ -11,12 +11,8 @@
 ```csharp
 public class TracksLinkInfo
 ```
-```vb
-Public Class TracksLinkInfo
-```
-```cpp
-public ref class TracksLinkInfo
-```
+
+
 
 
 Тип Harness3DHarness3DInfoTracksLinkInfo предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public int SelectedIndex { get; }
 ```
-```vb
-Public ReadOnly Property SelectedIndex As Integer
-	Get
-```
-```cpp
-public:
-property int SelectedIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

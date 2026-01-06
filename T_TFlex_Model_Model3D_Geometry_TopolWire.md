@@ -13,15 +13,8 @@
 ```csharp
 public class TopolWire : TopolContour, Wire
 ```
-```vb
-Public Class TopolWire
-	Inherits TopolContour
-	Implements Wire
-```
-```cpp
-public ref class TopolWire : public TopolContour, 
-	Wire
-```
+
+
 
 
 Тип TopolWire предоставляет следующие члены.

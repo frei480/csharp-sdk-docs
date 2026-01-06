@@ -8,18 +8,8 @@
 ```csharp
 public TKey Key { get; set; }
 ```
-```vb
-Public Property Key As TKey
-	Get
-	Set
-```
-```cpp
-public:
-property TKey Key {
-	TKey get ();
-	void set (TKey value);
-}
-```
+
+
 
 
 #### Значение свойства

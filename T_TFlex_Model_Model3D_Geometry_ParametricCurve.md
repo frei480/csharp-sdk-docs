@@ -14,15 +14,8 @@
 public class ParametricCurve : Curve, 
 	BaseParametricCurve
 ```
-```vb
-Public Class ParametricCurve
-	Inherits Curve
-	Implements BaseParametricCurve
-```
-```cpp
-public ref class ParametricCurve : public Curve, 
-	BaseParametricCurve
-```
+
+
 
 
 Тип ParametricCurve предоставляет следующие члены.

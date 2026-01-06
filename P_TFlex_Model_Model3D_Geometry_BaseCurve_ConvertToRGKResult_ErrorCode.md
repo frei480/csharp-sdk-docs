@@ -11,16 +11,8 @@
 ```csharp
 public int ErrorCode { get; }
 ```
-```vb
-Public ReadOnly Property ErrorCode As Integer
-	Get
-```
-```cpp
-public:
-property int ErrorCode {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

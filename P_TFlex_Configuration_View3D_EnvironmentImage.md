@@ -8,18 +8,8 @@
 ```csharp
 public FileLinkParameter EnvironmentImage { get; set; }
 ```
-```vb
-Public Property EnvironmentImage As FileLinkParameter
-	Get
-	Set
-```
-```cpp
-public:
-property FileLinkParameter^ EnvironmentImage {
-	FileLinkParameter^ get ();
-	void set (FileLinkParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

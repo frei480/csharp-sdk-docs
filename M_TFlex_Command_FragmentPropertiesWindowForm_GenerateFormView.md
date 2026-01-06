@@ -8,13 +8,8 @@
 ```csharp
 public override IntPtr GenerateFormView()
 ```
-```vb
-Public Overrides Function GenerateFormView As IntPtr
-```
-```cpp
-public:
-virtual IntPtr GenerateFormView() override
-```
+
+
 
 
 #### Возвращаемое значение

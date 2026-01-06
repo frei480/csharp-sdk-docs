@@ -17,25 +17,8 @@ public EllipseArcOutline(
 	Node arcNode
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	center As Node,
-	startNode As Node,
-	endNode As Node,
-	arcNode As Node
-)
-```
-```cpp
-public:
-EllipseArcOutline(
-	Document^ document, 
-	Node^ center, 
-	Node^ startNode, 
-	Node^ endNode, 
-	Node^ arcNode
-)
-```
+
+
 
 
 #### Параметры

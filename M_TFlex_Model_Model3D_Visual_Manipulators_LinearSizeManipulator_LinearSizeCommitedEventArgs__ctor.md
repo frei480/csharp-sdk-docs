@@ -11,13 +11,8 @@
 ```csharp
 public LinearSizeCommitedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LinearSizeCommitedEventArgs()
-```
+
+
 
 
 #### Ссылки

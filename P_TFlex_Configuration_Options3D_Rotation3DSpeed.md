@@ -8,18 +8,8 @@
 ```csharp
 public double Rotation3DSpeed { get; set; }
 ```
-```vb
-Public Property Rotation3DSpeed As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Rotation3DSpeed {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

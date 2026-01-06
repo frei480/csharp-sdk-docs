@@ -8,18 +8,8 @@
 ```csharp
 public IEnumerable<FragmentFileUserDataProductStructureData> ProductStructures { get; set; }
 ```
-```vb
-Public Property ProductStructures As IEnumerable(Of FragmentFileUserDataProductStructureData)
-	Get
-	Set
-```
-```cpp
-public:
-property IEnumerable<FragmentFileUserDataProductStructureData^>^ ProductStructures {
-	IEnumerable<FragmentFileUserDataProductStructureData^>^ get ();
-	void set (IEnumerable<FragmentFileUserDataProductStructureData^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

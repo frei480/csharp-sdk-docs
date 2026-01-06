@@ -11,15 +11,8 @@
 ```csharp
 double MajorRadius { get; }
 ```
-```vb
-ReadOnly Property MajorRadius As Double
-	Get
-```
-```cpp
-property double MajorRadius {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

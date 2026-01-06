@@ -14,19 +14,8 @@ public void AddMoveToCurveTransf(
 	ModelCurve curve
 )
 ```
-```vb
-Public Sub AddMoveToCurveTransf ( 
-	axis As TransformationCoordinate,
-	curve As ModelCurve
-)
-```
-```cpp
-public:
-void AddMoveToCurveTransf(
-	TransformationCoordinate axis, 
-	ModelCurve^ curve
-)
-```
+
+
 
 
 #### Параметры

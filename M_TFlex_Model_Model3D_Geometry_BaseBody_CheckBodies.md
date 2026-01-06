@@ -10,17 +10,8 @@ public static ICollection<BaseBodyCheckBodyResults> CheckBodies(
 	ICollection<BaseBody> bodies
 )
 ```
-```vb
-Public Shared Function CheckBodies ( 
-	bodies As ICollection(Of BaseBody)
-) As ICollection(Of BaseBodyCheckBodyResults)
-```
-```cpp
-public:
-static ICollection<BaseBodyCheckBodyResults^>^ CheckBodies(
-	ICollection<BaseBody^>^ bodies
-)
-```
+
+
 
 
 #### Параметры

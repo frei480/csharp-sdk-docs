@@ -8,12 +8,8 @@
 ```csharp
 public enum PageTabAlignment
 ```
-```vb
-Public Enumeration PageTabAlignment
-```
-```cpp
-public enum class PageTabAlignment
-```
+
+
 
 
 | Имя члена | Значение | Описание |

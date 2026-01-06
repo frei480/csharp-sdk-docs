@@ -13,17 +13,8 @@ public bool IsPageTypeVisible(
 	PageType type
 )
 ```
-```vb
-Public Function IsPageTypeVisible ( 
-	type As PageType
-) As Boolean
-```
-```cpp
-public:
-bool IsPageTypeVisible(
-	PageType type
-)
-```
+
+
 
 
 #### Параметры

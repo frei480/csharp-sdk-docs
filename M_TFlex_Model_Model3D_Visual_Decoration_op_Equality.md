@@ -11,19 +11,8 @@ public static bool operator ==(
 	Decoration second
 )
 ```
-```vb
-Public Shared Operator = ( 
-	first As Decoration,
-	second As Decoration
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	Decoration^ first, 
-	Decoration^ second
-)
-```
+
+
 
 
 #### Параметры

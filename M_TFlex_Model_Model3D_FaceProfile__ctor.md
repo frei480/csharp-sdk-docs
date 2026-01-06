@@ -13,17 +13,8 @@ public FaceProfile(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-FaceProfile(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

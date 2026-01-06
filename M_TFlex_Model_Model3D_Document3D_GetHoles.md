@@ -13,19 +13,8 @@ public static ICollection<Hole> GetHoles(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetHoles ( 
-	document As Document
-) As ICollection(Of Hole)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Hole^>^ GetHoles(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

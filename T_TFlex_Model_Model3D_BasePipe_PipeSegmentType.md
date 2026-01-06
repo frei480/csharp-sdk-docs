@@ -11,12 +11,8 @@
 ```csharp
 public enum PipeSegmentType
 ```
-```vb
-Public Enumeration PipeSegmentType
-```
-```cpp
-public enum class PipeSegmentType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

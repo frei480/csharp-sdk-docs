@@ -13,23 +13,8 @@ public abstract void RebaseDesignation(
 	HashSet<IntPtr> replacedRefs
 )
 ```
-```vb
-Public MustOverride Sub RebaseDesignation ( 
-	originPoint As FixingVector,
-	destinationPoint As FixingVector,
-	type As DesignationType,
-	replacedRefs As HashSet(Of IntPtr)
-)
-```
-```cpp
-public:
-virtual void RebaseDesignation(
-	FixingVector^ originPoint, 
-	FixingVector^ destinationPoint, 
-	DesignationType type, 
-	HashSet<IntPtr>^ replacedRefs
-) abstract
-```
+
+
 
 
 #### Параметры

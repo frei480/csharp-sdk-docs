@@ -14,19 +14,8 @@ protected PluginFloatingWindow CreateFloatingWindow(
 	string title
 )
 ```
-```vb
-Protected Function CreateFloatingWindow ( 
-	id As UInteger,
-	title As String
-) As PluginFloatingWindow
-```
-```cpp
-protected:
-PluginFloatingWindow^ CreateFloatingWindow(
-	unsigned int id, 
-	String^ title
-)
-```
+
+
 
 
 #### Параметры

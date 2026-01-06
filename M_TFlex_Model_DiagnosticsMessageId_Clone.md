@@ -11,13 +11,8 @@
 ```csharp
 public Object Clone()
 ```
-```vb
-Public Function Clone As Object
-```
-```cpp
-public:
-virtual Object^ Clone() sealed
-```
+
+
 
 
 #### Возвращаемое значение

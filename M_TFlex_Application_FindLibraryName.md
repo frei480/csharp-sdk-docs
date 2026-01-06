@@ -13,17 +13,8 @@ public static string FindLibraryName(
 	string fileName
 )
 ```
-```vb
-Public Shared Function FindLibraryName ( 
-	fileName As String
-) As String
-```
-```cpp
-public:
-static String^ FindLibraryName(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

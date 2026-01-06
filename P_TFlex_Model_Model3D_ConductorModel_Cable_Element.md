@@ -8,16 +8,8 @@
 ```csharp
 public Element Element { get; }
 ```
-```vb
-Public ReadOnly Property Element As Element
-	Get
-```
-```cpp
-public:
-property Element^ Element {
-	Element^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

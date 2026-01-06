@@ -12,23 +12,8 @@ public static void WriteBoolAttribute(
 	bool bVal
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub WriteBoolAttribute ( 
-	writer As XmlWriter,
-	attrName As String,
-	bVal As Boolean
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void WriteBoolAttribute(
-	XmlWriter^ writer, 
-	String^ attrName, 
-	bool bVal
-)
-```
+
+
 
 
 #### Параметры

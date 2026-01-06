@@ -15,21 +15,8 @@ public Point3D FindExtreme(
 	BaseDirection direction3
 )
 ```
-```vb
-Public Function FindExtreme ( 
-	direction1 As BaseDirection,
-	direction2 As BaseDirection,
-	direction3 As BaseDirection
-) As Point3D
-```
-```cpp
-public:
-Point3D^ FindExtreme(
-	BaseDirection^ direction1, 
-	BaseDirection^ direction2, 
-	BaseDirection^ direction3
-)
-```
+
+
 
 
 #### Параметры

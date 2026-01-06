@@ -13,17 +13,8 @@ public bool DeleteHole(
 	int index
 )
 ```
-```vb
-Public Function DeleteHole ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool DeleteHole(
-	int index
-)
-```
+
+
 
 
 #### Параметры

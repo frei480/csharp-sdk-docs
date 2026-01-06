@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Node> GetNodes()
 ```
-```vb
-Public Function GetNodes As ICollection(Of Node)
-```
-```cpp
-public:
-ICollection<Node^>^ GetNodes()
-```
+
+
 
 
 #### Возвращаемое значение

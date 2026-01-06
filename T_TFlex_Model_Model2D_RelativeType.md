@@ -11,12 +11,8 @@
 ```csharp
 public enum RelativeType
 ```
-```vb
-Public Enumeration RelativeType
-```
-```cpp
-public enum class RelativeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,12 +13,8 @@
 ```csharp
 public struct Position
 ```
-```vb
-Public Structure Position
-```
-```cpp
-public value class Position
-```
+
+
 
 
 Тип Position предоставляет следующие члены.

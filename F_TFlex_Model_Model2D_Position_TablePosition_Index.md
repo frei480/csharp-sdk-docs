@@ -11,13 +11,8 @@
 ```csharp
 public int Index
 ```
-```vb
-Public Index As Integer
-```
-```cpp
-public:
-int Index
-```
+
+
 
 
 #### Значение поля

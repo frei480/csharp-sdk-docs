@@ -13,17 +13,8 @@ public void RemoveSecondElement(
 	int index
 )
 ```
-```vb
-Public Sub RemoveSecondElement ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void RemoveSecondElement(
-	int index
-)
-```
+
+
 
 
 #### Параметры

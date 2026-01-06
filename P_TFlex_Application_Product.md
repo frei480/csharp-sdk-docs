@@ -11,16 +11,8 @@
 ```csharp
 public static ApplicationProductType Product { get; }
 ```
-```vb
-Public Shared ReadOnly Property Product As ApplicationProductType
-	Get
-```
-```cpp
-public:
-static property ApplicationProductType Product {
-	ApplicationProductType get ();
-}
-```
+
+
 
 
 #### Значение свойства

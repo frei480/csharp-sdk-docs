@@ -11,18 +11,8 @@
 ```csharp
 public bool IsColor { get; set; }
 ```
-```vb
-Public Property IsColor As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsColor {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

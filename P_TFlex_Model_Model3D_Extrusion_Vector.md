@@ -11,18 +11,8 @@
 ```csharp
 public ModelDirection Vector { get; set; }
 ```
-```vb
-Public Property Vector As ModelDirection
-	Get
-	Set
-```
-```cpp
-public:
-property ModelDirection^ Vector {
-	ModelDirection^ get ();
-	void set (ModelDirection^ value);
-}
-```
+
+
 
 
 #### Значение свойства

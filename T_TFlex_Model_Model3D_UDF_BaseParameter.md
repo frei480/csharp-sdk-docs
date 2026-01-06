@@ -13,13 +13,8 @@
 ```csharp
 public abstract class BaseParameter : UDFParameter
 ```
-```vb
-Public MustInherit Class BaseParameter
-	Inherits UDFParameter
-```
-```cpp
-public ref class BaseParameter abstract : public UDFParameter
-```
+
+
 
 
 Тип UDFBaseParameter предоставляет следующие члены.

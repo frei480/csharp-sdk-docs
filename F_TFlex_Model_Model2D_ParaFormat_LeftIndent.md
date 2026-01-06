@@ -11,13 +11,8 @@
 ```csharp
 public double LeftIndent
 ```
-```vb
-Public LeftIndent As Double
-```
-```cpp
-public:
-double LeftIndent
-```
+
+
 
 
 #### Значение поля

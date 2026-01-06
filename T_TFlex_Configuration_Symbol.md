@@ -11,13 +11,8 @@
 ```csharp
 public class Symbol : SettingsGroup
 ```
-```vb
-Public Class Symbol
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Symbol : public SettingsGroup
-```
+
+
 
 
 Тип Symbol предоставляет следующие члены.

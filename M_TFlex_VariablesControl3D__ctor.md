@@ -11,13 +11,8 @@
 ```csharp
 public VariablesControl3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-VariablesControl3D()
-```
+
+
 
 
 #### Ссылки

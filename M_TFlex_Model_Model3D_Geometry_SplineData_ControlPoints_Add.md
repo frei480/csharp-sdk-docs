@@ -13,17 +13,8 @@ public void Add(
 	SplineDataControlPointsControlPoint point
 )
 ```
-```vb
-Public Sub Add ( 
-	point As SplineDataControlPointsControlPoint
-)
-```
-```cpp
-public:
-void Add(
-	SplineDataControlPointsControlPoint^ point
-)
-```
+
+
 
 
 #### Параметры

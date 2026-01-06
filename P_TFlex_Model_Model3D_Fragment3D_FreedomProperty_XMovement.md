@@ -11,18 +11,8 @@
 ```csharp
 public bool XMovement { get; set; }
 ```
-```vb
-Public Property XMovement As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool XMovement {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

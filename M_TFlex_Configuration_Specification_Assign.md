@@ -10,17 +10,8 @@ public void Assign(
 	Specification source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Specification
-)
-```
-```cpp
-public:
-void Assign(
-	Specification^ source
-)
-```
+
+
 
 
 #### Параметры

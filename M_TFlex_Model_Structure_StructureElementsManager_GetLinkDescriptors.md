@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<LinkDescriptor> GetLinkDescriptors()
 ```
-```vb
-Public Function GetLinkDescriptors As ICollection(Of LinkDescriptor)
-```
-```cpp
-public:
-ICollection<LinkDescriptor^>^ GetLinkDescriptors()
-```
+
+
 
 
 #### Возвращаемое значение

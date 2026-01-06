@@ -11,19 +11,8 @@ public Rectangle Move(
 	double dy
 )
 ```
-```vb
-Public Function Move ( 
-	dx As Double,
-	dy As Double
-) As Rectangle
-```
-```cpp
-public:
-Rectangle Move(
-	double dx, 
-	double dy
-)
-```
+
+
 
 
 #### Параметры

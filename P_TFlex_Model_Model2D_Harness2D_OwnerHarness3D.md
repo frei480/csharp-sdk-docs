@@ -11,16 +11,8 @@
 ```csharp
 public ModelObject OwnerHarness3D { get; }
 ```
-```vb
-Public ReadOnly Property OwnerHarness3D As ModelObject
-	Get
-```
-```cpp
-public:
-property ModelObject^ OwnerHarness3D {
-	ModelObject^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

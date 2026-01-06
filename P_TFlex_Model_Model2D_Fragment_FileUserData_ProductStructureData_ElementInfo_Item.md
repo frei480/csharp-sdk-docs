@@ -10,18 +10,8 @@ public string this[
 	Guid paramId
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	paramId As Guid
-) As String
-	Get
-```
-```cpp
-public:
-property String^ default[Guid paramId] {
-	String^ get (Guid paramId);
-}
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public static void Info(
 	string message
 )
 ```
-```vb
-Public Shared Sub Info ( 
-	message As String
-)
-```
-```cpp
-public:
-static void Info(
-	String^ message
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public void UpdateStandardFieldValue(
 	string value
 )
 ```
-```vb
-Public Sub UpdateStandardFieldValue ( 
-	field As BOMObjectStandardField,
-	value As String
-)
-```
-```cpp
-public:
-void UpdateStandardFieldValue(
-	BOMObjectStandardField field, 
-	String^ value
-)
-```
+
+
 
 
 #### Параметры

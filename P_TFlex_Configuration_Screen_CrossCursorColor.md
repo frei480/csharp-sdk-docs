@@ -8,18 +8,8 @@
 ```csharp
 public int CrossCursorColor { get; set; }
 ```
-```vb
-Public Property CrossCursorColor As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int CrossCursorColor {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

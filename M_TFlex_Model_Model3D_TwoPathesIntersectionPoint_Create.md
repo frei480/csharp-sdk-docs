@@ -13,17 +13,8 @@ public Node3D Create(
 	Node3D sourceNode
 )
 ```
-```vb
-Public Function Create ( 
-	sourceNode As Node3D
-) As Node3D
-```
-```cpp
-public:
-Node3D^ Create(
-	Node3D^ sourceNode
-)
-```
+
+
 
 
 #### Параметры

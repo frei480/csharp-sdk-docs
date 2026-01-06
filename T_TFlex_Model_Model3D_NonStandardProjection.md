@@ -13,13 +13,8 @@
 ```csharp
 public class NonStandardProjection : SimpleDrawingProjection
 ```
-```vb
-Public Class NonStandardProjection
-	Inherits SimpleDrawingProjection
-```
-```cpp
-public ref class NonStandardProjection : public SimpleDrawingProjection
-```
+
+
 
 
 Тип NonStandardProjection предоставляет следующие члены.

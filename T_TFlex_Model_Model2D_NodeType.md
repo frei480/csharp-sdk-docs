@@ -11,12 +11,8 @@
 ```csharp
 public enum NodeType
 ```
-```vb
-Public Enumeration NodeType
-```
-```cpp
-public enum class NodeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

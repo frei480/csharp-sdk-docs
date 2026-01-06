@@ -11,13 +11,8 @@
 ```csharp
 public FaceCurveIntersectionItem()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FaceCurveIntersectionItem()
-```
+
+
 
 
 #### Ссылки

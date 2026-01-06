@@ -11,18 +11,8 @@
 ```csharp
 public ICollection<ModelObject> Objects { get; set; }
 ```
-```vb
-Public Property Objects As ICollection(Of ModelObject)
-	Get
-	Set
-```
-```cpp
-public:
-property ICollection<ModelObject^>^ Objects {
-	ICollection<ModelObject^>^ get ();
-	void set (ICollection<ModelObject^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

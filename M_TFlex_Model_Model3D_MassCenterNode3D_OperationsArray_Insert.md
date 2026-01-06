@@ -14,19 +14,8 @@ public void Insert(
 	Operation operation
 )
 ```
-```vb
-Public Sub Insert ( 
-	index As Integer,
-	operation As Operation
-)
-```
-```cpp
-public:
-void Insert(
-	int index, 
-	Operation^ operation
-)
-```
+
+
 
 
 #### Параметры

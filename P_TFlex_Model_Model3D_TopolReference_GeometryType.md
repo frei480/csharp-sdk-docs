@@ -11,16 +11,8 @@
 ```csharp
 public GeometryType GeometryType { get; }
 ```
-```vb
-Public ReadOnly Property GeometryType As GeometryType
-	Get
-```
-```cpp
-public:
-property GeometryType GeometryType {
-	GeometryType get ();
-}
-```
+
+
 
 
 #### Значение свойства

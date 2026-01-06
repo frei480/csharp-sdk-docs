@@ -13,13 +13,8 @@
 ```csharp
 public sealed class RibbonButton : IDisposable
 ```
-```vb
-Public NotInheritable Class RibbonButton
-	Implements IDisposable
-```
-```cpp
-public ref class RibbonButton sealed : IDisposable
-```
+
+
 
 
 Тип RibbonButton предоставляет следующие члены.

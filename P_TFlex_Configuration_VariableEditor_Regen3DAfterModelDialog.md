@@ -8,18 +8,8 @@
 ```csharp
 public bool Regen3DAfterModelDialog { get; set; }
 ```
-```vb
-Public Property Regen3DAfterModelDialog As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Regen3DAfterModelDialog {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

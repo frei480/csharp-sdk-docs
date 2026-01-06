@@ -13,17 +13,8 @@ public PipePath3DBaseSegment GetSegment(
 	int indexSegment
 )
 ```
-```vb
-Public Function GetSegment ( 
-	indexSegment As Integer
-) As PipePath3DBaseSegment
-```
-```cpp
-public:
-PipePath3DBaseSegment^ GetSegment(
-	int indexSegment
-)
-```
+
+
 
 
 #### Параметры

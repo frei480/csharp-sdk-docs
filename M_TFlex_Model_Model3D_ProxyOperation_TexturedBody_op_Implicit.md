@@ -10,16 +10,8 @@ public static implicit operator ProxyOperationTexturedBody (
 	BaseBody solid
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	solid As BaseBody
-) As ProxyOperationTexturedBody
-```
-```cpp
-static implicit operator ProxyOperationTexturedBody^ (
-	BaseBody^ solid
-)
-```
+
+
 
 
 #### Параметры

@@ -13,16 +13,8 @@
 public class KeyValuePairS<TKey, TValue> : INotifyPropertyChanged
 
 ```
-```vb
-<SerializableAttribute>
-Public Class KeyValuePairS(Of TKey, TValue)
-	Implements INotifyPropertyChanged
-```
-```cpp
-[SerializableAttribute]
-generic<typename TKey, typename TValue>
-public ref class KeyValuePairS : INotifyPropertyChanged
-```
+
+
 
 
 #### Параметры типа

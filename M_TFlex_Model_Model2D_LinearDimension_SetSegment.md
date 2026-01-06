@@ -14,19 +14,8 @@ public void SetSegment(
 	DimensionAlignType align
 )
 ```
-```vb
-Public Sub SetSegment ( 
-	line1 As Outline,
-	align As DimensionAlignType
-)
-```
-```cpp
-public:
-void SetSegment(
-	Outline^ line1, 
-	DimensionAlignType align
-)
-```
+
+
 
 
 #### Параметры

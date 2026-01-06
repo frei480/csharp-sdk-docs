@@ -13,19 +13,8 @@ public static ICollection<BaseHarness3D> GetHarnesses(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetHarnesses ( 
-	document As Document
-) As ICollection(Of BaseHarness3D)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<BaseHarness3D^>^ GetHarnesses(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

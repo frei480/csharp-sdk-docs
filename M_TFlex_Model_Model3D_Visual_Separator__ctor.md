@@ -11,13 +11,8 @@
 ```csharp
 public Separator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Separator()
-```
+
+
 
 
 #### Ссылки

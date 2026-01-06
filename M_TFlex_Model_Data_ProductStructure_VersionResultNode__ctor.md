@@ -11,13 +11,8 @@
 ```csharp
 public VersionResultNode()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-VersionResultNode()
-```
+
+
 
 
 #### Ссылки

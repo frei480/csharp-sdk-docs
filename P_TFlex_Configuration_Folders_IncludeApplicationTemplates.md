@@ -8,18 +8,8 @@
 ```csharp
 public bool IncludeApplicationTemplates { get; set; }
 ```
-```vb
-Public Property IncludeApplicationTemplates As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IncludeApplicationTemplates {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

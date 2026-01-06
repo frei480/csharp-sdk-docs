@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter CoaxSize { get; set; }
 ```
-```vb
-Public Property CoaxSize As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ CoaxSize {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

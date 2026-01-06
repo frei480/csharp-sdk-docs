@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToRGP : ExportWithApplication
 ```
-```vb
-Public NotInheritable Class ExportToRGP
-	Inherits ExportWithApplication
-```
-```cpp
-public ref class ExportToRGP sealed : public ExportWithApplication
-```
+
+
 
 
 Тип ExportToRGP предоставляет следующие члены.

@@ -11,12 +11,8 @@
 ```csharp
 public class Value
 ```
-```vb
-Public Class Value
-```
-```cpp
-public ref class Value
-```
+
+
 
 
 Тип Value предоставляет следующие члены.

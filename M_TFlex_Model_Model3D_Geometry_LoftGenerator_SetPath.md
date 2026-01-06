@@ -13,17 +13,8 @@ public void SetPath(
 	BaseBody p
 )
 ```
-```vb
-Public Sub SetPath ( 
-	p As BaseBody
-)
-```
-```cpp
-public:
-void SetPath(
-	BaseBody^ p
-)
-```
+
+
 
 
 #### Параметры

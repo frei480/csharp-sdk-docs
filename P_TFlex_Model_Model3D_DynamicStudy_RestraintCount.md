@@ -11,16 +11,8 @@
 ```csharp
 public int RestraintCount { get; }
 ```
-```vb
-Public ReadOnly Property RestraintCount As Integer
-	Get
-```
-```cpp
-public:
-property int RestraintCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,13 +8,8 @@
 ```csharp
 public virtual IEnumerable<Link> GetAllLinks()
 ```
-```vb
-Public Overridable Function GetAllLinks As IEnumerable(Of Link)
-```
-```cpp
-public:
-virtual IEnumerable<Link^>^ GetAllLinks()
-```
+
+
 
 
 #### Возвращаемое значение

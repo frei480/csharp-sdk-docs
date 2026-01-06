@@ -11,19 +11,8 @@ public static bool operator !=(
 	Splice right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As Splice,
-	right As Splice
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	Splice^ left, 
-	Splice^ right
-)
-```
+
+
 
 
 #### Параметры

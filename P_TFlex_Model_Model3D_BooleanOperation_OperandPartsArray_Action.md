@@ -8,18 +8,8 @@
 ```csharp
 public BooleanOperationActionType Action { get; set; }
 ```
-```vb
-Public Property Action As BooleanOperationActionType
-	Get
-	Set
-```
-```cpp
-public:
-property BooleanOperationActionType Action {
-	BooleanOperationActionType get ();
-	void set (BooleanOperationActionType value);
-}
-```
+
+
 
 
 #### Значение свойства

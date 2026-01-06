@@ -10,17 +10,8 @@ public void Polyline(
 	BasePoint3D[] points
 )
 ```
-```vb
-Public Sub Polyline ( 
-	points As BasePoint3D()
-)
-```
-```cpp
-public:
-void Polyline(
-	array<BasePoint3D^>^ points
-)
-```
+
+
 
 
 #### Параметры

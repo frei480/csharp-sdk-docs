@@ -8,13 +8,8 @@
 ```csharp
 public virtual I3DManagedFuncImpl Create3DManagedFuncImpl()
 ```
-```vb
-Public Overridable Function Create3DManagedFuncImpl As I3DManagedFuncImpl
-```
-```cpp
-public:
-virtual I3DManagedFuncImpl^ Create3DManagedFuncImpl()
-```
+
+
 
 
 #### Возвращаемое значение

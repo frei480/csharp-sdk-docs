@@ -11,18 +11,8 @@
 ```csharp
 public ToolVisibility AllowUserAdd { get; set; }
 ```
-```vb
-Public Property AllowUserAdd As ToolVisibility
-	Get
-	Set
-```
-```cpp
-public:
-property ToolVisibility AllowUserAdd {
-	ToolVisibility get ();
-	void set (ToolVisibility value);
-}
-```
+
+
 
 
 #### Значение свойства

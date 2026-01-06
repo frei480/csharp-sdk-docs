@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Degree { get; }
 ```
-```vb
-Public Shared ReadOnly Property Degree As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Degree {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

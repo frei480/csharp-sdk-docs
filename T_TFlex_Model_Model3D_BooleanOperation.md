@@ -13,13 +13,8 @@
 ```csharp
 public class BooleanOperation : Operation
 ```
-```vb
-Public Class BooleanOperation
-	Inherits Operation
-```
-```cpp
-public ref class BooleanOperation : public Operation
-```
+
+
 
 
 Тип BooleanOperation предоставляет следующие члены.

@@ -13,17 +13,8 @@ public static Icon GetDocumentIcon(
 	string fileName
 )
 ```
-```vb
-Public Shared Function GetDocumentIcon ( 
-	fileName As String
-) As Icon
-```
-```cpp
-public:
-static Icon^ GetDocumentIcon(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

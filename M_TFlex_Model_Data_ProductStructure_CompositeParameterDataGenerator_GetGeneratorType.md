@@ -8,13 +8,8 @@
 ```csharp
 public override ParamDataGenerType GetGeneratorType()
 ```
-```vb
-Public Overrides Function GetGeneratorType As ParamDataGenerType
-```
-```cpp
-public:
-virtual ParamDataGenerType GetGeneratorType() override
-```
+
+
 
 
 #### Возвращаемое значение

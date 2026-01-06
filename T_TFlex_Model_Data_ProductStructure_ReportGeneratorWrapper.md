@@ -11,13 +11,8 @@
 ```csharp
 public class ReportGeneratorWrapper : ICloneable
 ```
-```vb
-Public Class ReportGeneratorWrapper
-	Implements ICloneable
-```
-```cpp
-public ref class ReportGeneratorWrapper : ICloneable
-```
+
+
 
 
 Тип ReportGeneratorWrapper предоставляет следующие члены.

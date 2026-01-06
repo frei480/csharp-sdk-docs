@@ -11,16 +11,8 @@
 ```csharp
 public double End { set; }
 ```
-```vb
-Public WriteOnly Property End As Double
-	Set
-```
-```cpp
-public:
-property double End {
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

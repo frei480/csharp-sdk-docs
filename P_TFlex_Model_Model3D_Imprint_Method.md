@@ -11,18 +11,8 @@
 ```csharp
 public ImprintImprintMethod Method { get; set; }
 ```
-```vb
-Public Property Method As ImprintImprintMethod
-	Get
-	Set
-```
-```cpp
-public:
-property ImprintImprintMethod Method {
-	ImprintImprintMethod get ();
-	void set (ImprintImprintMethod value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class Light : Object3D
 ```
-```vb
-Public Class Light
-	Inherits Object3D
-```
-```cpp
-public ref class Light : public Object3D
-```
+
+
 
 
 Тип Light предоставляет следующие члены.

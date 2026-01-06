@@ -11,18 +11,8 @@
 ```csharp
 public HoleEndType End { get; set; }
 ```
-```vb
-Public Property End As HoleEndType
-	Get
-	Set
-```
-```cpp
-public:
-property HoleEndType End {
-	HoleEndType get ();
-	void set (HoleEndType value);
-}
-```
+
+
 
 
 #### Значение свойства

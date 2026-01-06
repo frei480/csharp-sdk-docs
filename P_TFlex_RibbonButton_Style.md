@@ -8,16 +8,8 @@
 ```csharp
 public RibbonButtonStyle Style { get; }
 ```
-```vb
-Public ReadOnly Property Style As RibbonButtonStyle
-	Get
-```
-```cpp
-public:
-property RibbonButtonStyle Style {
-	RibbonButtonStyle get ();
-}
-```
+
+
 
 
 #### Значение свойства

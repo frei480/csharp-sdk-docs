@@ -13,17 +13,8 @@ public bool SeekToRecordID(
 	uint id
 )
 ```
-```vb
-Public Function SeekToRecordID ( 
-	id As UInteger
-) As Boolean
-```
-```cpp
-public:
-bool SeekToRecordID(
-	unsigned int id
-)
-```
+
+
 
 
 #### Параметры

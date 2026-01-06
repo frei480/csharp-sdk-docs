@@ -10,17 +10,8 @@ public PipePath3DPointOnSurface GetNextPoint(
 	PipePath3DPointOnSurface pPoint
 )
 ```
-```vb
-Public Function GetNextPoint ( 
-	pPoint As PipePath3DPointOnSurface
-) As PipePath3DPointOnSurface
-```
-```cpp
-public:
-PipePath3DPointOnSurface^ GetNextPoint(
-	PipePath3DPointOnSurface^ pPoint
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public Result()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Result()
-```
+
+
 
 
 #### Ссылки

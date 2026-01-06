@@ -11,16 +11,8 @@
 ```csharp
 public ThreadStandardCollection Standards { get; }
 ```
-```vb
-Public ReadOnly Property Standards As ThreadStandardCollection
-	Get
-```
-```cpp
-public:
-property ThreadStandardCollection^ Standards {
-	ThreadStandardCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

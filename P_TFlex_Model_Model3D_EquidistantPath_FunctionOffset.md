@@ -11,16 +11,8 @@
 ```csharp
 public TableFunction FunctionOffset { get; }
 ```
-```vb
-Public ReadOnly Property FunctionOffset As TableFunction
-	Get
-```
-```cpp
-public:
-property TableFunction^ FunctionOffset {
-	TableFunction^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

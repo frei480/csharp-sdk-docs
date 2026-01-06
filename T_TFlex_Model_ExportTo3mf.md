@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportTo3mf : ExportTo3dCommon
 ```
-```vb
-Public NotInheritable Class ExportTo3mf
-	Inherits ExportTo3dCommon
-```
-```cpp
-public ref class ExportTo3mf sealed : public ExportTo3dCommon
-```
+
+
 
 
 Тип ExportTo3mf предоставляет следующие члены.

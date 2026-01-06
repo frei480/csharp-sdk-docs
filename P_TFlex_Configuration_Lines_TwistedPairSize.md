@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter TwistedPairSize { get; set; }
 ```
-```vb
-Public Property TwistedPairSize As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ TwistedPairSize {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

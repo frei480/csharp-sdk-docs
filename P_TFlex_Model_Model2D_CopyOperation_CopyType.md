@@ -11,16 +11,8 @@
 ```csharp
 public virtual CopyType CopyType { get; }
 ```
-```vb
-Public Overridable ReadOnly Property CopyType As CopyType
-	Get
-```
-```cpp
-public:
-virtual property CopyType CopyType {
-	CopyType get ();
-}
-```
+
+
 
 
 #### Значение свойства

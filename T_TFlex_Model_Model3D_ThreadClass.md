@@ -13,12 +13,8 @@
 ```csharp
 public struct ThreadClass
 ```
-```vb
-Public Structure ThreadClass
-```
-```cpp
-public value class ThreadClass
-```
+
+
 
 
 Тип ThreadClass предоставляет следующие члены.

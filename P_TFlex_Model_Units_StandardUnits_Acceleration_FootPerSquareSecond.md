@@ -13,16 +13,8 @@
 ```csharp
 public static Unit FootPerSquareSecond { get; }
 ```
-```vb
-Public Shared ReadOnly Property FootPerSquareSecond As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ FootPerSquareSecond {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

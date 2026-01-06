@@ -13,17 +13,8 @@ public bool DeleteCustomItem(
 	int index
 )
 ```
-```vb
-Public Function DeleteCustomItem ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool DeleteCustomItem(
-	int index
-)
-```
+
+
 
 
 #### Параметры

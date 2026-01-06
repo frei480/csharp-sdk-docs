@@ -11,16 +11,8 @@
 ```csharp
 public ThreadFacesArray Faces { get; }
 ```
-```vb
-Public ReadOnly Property Faces As ThreadFacesArray
-	Get
-```
-```cpp
-public:
-property ThreadFacesArray^ Faces {
-	ThreadFacesArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

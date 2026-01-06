@@ -11,13 +11,8 @@
 ```csharp
 public Picture InsertImage()
 ```
-```vb
-Public Function InsertImage As Picture
-```
-```cpp
-public:
-Picture^ InsertImage()
-```
+
+
 
 
 #### Возвращаемое значение

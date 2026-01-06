@@ -11,16 +11,8 @@
 ```csharp
 public View Window { get; }
 ```
-```vb
-Public ReadOnly Property Window As View
-	Get
-```
-```cpp
-public:
-property View^ Window {
-	View^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

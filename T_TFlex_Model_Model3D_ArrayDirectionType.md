@@ -11,12 +11,8 @@
 ```csharp
 public enum ArrayDirectionType
 ```
-```vb
-Public Enumeration ArrayDirectionType
-```
-```cpp
-public enum class ArrayDirectionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

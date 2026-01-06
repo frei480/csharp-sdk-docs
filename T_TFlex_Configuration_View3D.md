@@ -11,13 +11,8 @@
 ```csharp
 public class View3D : SettingsGroup
 ```
-```vb
-Public Class View3D
-	Inherits SettingsGroup
-```
-```cpp
-public ref class View3D : public SettingsGroup
-```
+
+
 
 
 Тип View3D предоставляет следующие члены.

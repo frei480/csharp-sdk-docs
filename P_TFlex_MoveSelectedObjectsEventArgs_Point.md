@@ -8,18 +8,8 @@
 ```csharp
 public Point Point { get; set; }
 ```
-```vb
-Public Property Point As Point
-	Get
-	Set
-```
-```cpp
-public:
-property Point Point {
-	Point get ();
-	void set (Point value);
-}
-```
+
+
 
 
 #### Значение свойства

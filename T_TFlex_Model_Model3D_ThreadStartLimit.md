@@ -11,12 +11,8 @@
 ```csharp
 public enum ThreadStartLimit
 ```
-```vb
-Public Enumeration ThreadStartLimit
-```
-```cpp
-public enum class ThreadStartLimit
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -8,16 +8,8 @@
 ```csharp
 public bool HasSocket { get; }
 ```
-```vb
-Public ReadOnly Property HasSocket As Boolean
-	Get
-```
-```cpp
-public:
-property bool HasSocket {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public EdgeBlendingGenerator(
 	Body body
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	body As Body
-)
-```
-```cpp
-public:
-EdgeBlendingGenerator(
-	ProxyObject3D^ object, 
-	Body^ body
-)
-```
+
+
 
 
 #### Параметры

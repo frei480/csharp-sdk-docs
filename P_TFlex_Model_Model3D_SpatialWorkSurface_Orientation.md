@@ -11,18 +11,8 @@
 ```csharp
 public SpatialWorkSurfaceOrientationType Orientation { get; set; }
 ```
-```vb
-Public Property Orientation As SpatialWorkSurfaceOrientationType
-	Get
-	Set
-```
-```cpp
-public:
-property SpatialWorkSurfaceOrientationType Orientation {
-	SpatialWorkSurfaceOrientationType get ();
-	void set (SpatialWorkSurfaceOrientationType value);
-}
-```
+
+
 
 
 #### Значение свойства

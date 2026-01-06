@@ -13,17 +13,8 @@ public void Enable(
 	bool fEnable
 )
 ```
-```vb
-Public Sub Enable ( 
-	fEnable As Boolean
-)
-```
-```cpp
-public:
-void Enable(
-	bool fEnable
-)
-```
+
+
 
 
 #### Параметры

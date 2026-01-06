@@ -13,13 +13,8 @@
 ```csharp
 public sealed class VerticesArray : TopolArray
 ```
-```vb
-Public NotInheritable Class VerticesArray
-	Inherits TopolArray
-```
-```cpp
-public ref class VerticesArray sealed : public TopolArray
-```
+
+
 
 
 Тип VerticesArray предоставляет следующие члены.

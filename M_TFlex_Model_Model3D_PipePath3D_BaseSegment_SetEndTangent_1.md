@@ -14,19 +14,8 @@ public void SetEndTangent(
 	bool AnalysisReverseFlag
 )
 ```
-```vb
-Public Sub SetEndTangent ( 
-	Magnitude As Double,
-	AnalysisReverseFlag As Boolean
-)
-```
-```cpp
-public:
-void SetEndTangent(
-	double Magnitude, 
-	bool AnalysisReverseFlag
-)
-```
+
+
 
 
 #### Параметры

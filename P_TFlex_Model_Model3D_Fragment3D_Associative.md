@@ -8,16 +8,8 @@
 ```csharp
 public bool Associative { get; }
 ```
-```vb
-Public ReadOnly Property Associative As Boolean
-	Get
-```
-```cpp
-public:
-property bool Associative {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public ExportToBitmap3D(
 	View view
 )
 ```
-```vb
-Public Sub New ( 
-	view As View
-)
-```
-```cpp
-public:
-ExportToBitmap3D(
-	View^ view
-)
-```
+
+
 
 
 #### Параметры

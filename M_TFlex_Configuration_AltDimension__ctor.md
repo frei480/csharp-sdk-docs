@@ -11,13 +11,8 @@
 ```csharp
 public AltDimension()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-AltDimension()
-```
+
+
 
 
 #### Ссылки

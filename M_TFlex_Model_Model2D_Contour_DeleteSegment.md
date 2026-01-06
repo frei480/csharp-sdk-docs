@@ -13,17 +13,8 @@ public void DeleteSegment(
 	int index
 )
 ```
-```vb
-Public Sub DeleteSegment ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void DeleteSegment(
-	int index
-)
-```
+
+
 
 
 #### Параметры

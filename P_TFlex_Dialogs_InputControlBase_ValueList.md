@@ -11,16 +11,8 @@
 ```csharp
 public Collection<ValueListItem> ValueList { get; }
 ```
-```vb
-Public ReadOnly Property ValueList As Collection(Of ValueListItem)
-	Get
-```
-```cpp
-public:
-property Collection<ValueListItem>^ ValueList {
-	Collection<ValueListItem>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

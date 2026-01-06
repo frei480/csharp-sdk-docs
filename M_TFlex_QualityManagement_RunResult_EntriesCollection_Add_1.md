@@ -13,17 +13,8 @@ public void Add(
 	RunResultEntry entry
 )
 ```
-```vb
-Public Sub Add ( 
-	entry As RunResultEntry
-)
-```
-```cpp
-public:
-void Add(
-	RunResultEntry^ entry
-)
-```
+
+
 
 
 #### Параметры

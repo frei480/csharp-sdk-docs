@@ -11,13 +11,8 @@
 ```csharp
 public CustomUpdatePropertiesAttribute()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CustomUpdatePropertiesAttribute()
-```
+
+
 
 
 #### Ссылки

@@ -13,17 +13,8 @@ public void AddRunMacroAction(
 	string name
 )
 ```
-```vb
-Public Sub AddRunMacroAction ( 
-	name As String
-)
-```
-```cpp
-public:
-void AddRunMacroAction(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

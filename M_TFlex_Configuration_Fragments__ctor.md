@@ -11,13 +11,8 @@
 ```csharp
 public Fragments()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Fragments()
-```
+
+
 
 
 #### Ссылки

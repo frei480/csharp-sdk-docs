@@ -11,13 +11,8 @@
 ```csharp
 public uint Numbering
 ```
-```vb
-Public Numbering As UInteger
-```
-```cpp
-public:
-unsigned int Numbering
-```
+
+
 
 
 #### Значение поля

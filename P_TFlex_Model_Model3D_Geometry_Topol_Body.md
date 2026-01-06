@@ -11,16 +11,8 @@
 ```csharp
 public Body Body { get; }
 ```
-```vb
-Public ReadOnly Property Body As Body
-	Get
-```
-```cpp
-public:
-property Body^ Body {
-	Body^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public void Insert(
 	ModelTopol geom
 )
 ```
-```vb
-Public Sub Insert ( 
-	Index As Integer,
-	geom As ModelTopol
-)
-```
-```cpp
-public:
-void Insert(
-	int Index, 
-	ModelTopol^ geom
-)
-```
+
+
 
 
 #### Параметры

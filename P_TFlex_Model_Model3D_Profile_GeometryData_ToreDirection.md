@@ -11,16 +11,8 @@
 ```csharp
 public ModelDirection ToreDirection { get; }
 ```
-```vb
-Public ReadOnly Property ToreDirection As ModelDirection
-	Get
-```
-```cpp
-public:
-property ModelDirection^ ToreDirection {
-	ModelDirection^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

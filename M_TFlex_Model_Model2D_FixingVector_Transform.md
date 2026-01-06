@@ -10,17 +10,8 @@ public void Transform(
 	ValueType offset
 )
 ```
-```vb
-Public Sub Transform ( 
-	offset As ValueType
-)
-```
-```cpp
-public:
-void Transform(
-	ValueType^ offset
-)
-```
+
+
 
 
 #### Параметры

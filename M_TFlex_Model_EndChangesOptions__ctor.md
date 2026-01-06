@@ -11,13 +11,8 @@
 ```csharp
 public EndChangesOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-EndChangesOptions()
-```
+
+
 
 
 #### Ссылки

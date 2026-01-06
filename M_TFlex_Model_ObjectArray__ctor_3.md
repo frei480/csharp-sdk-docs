@@ -13,17 +13,8 @@ public ObjectArray(
 	SelectionContainer selection
 )
 ```
-```vb
-Public Sub New ( 
-	selection As SelectionContainer
-)
-```
-```cpp
-public:
-ObjectArray(
-	SelectionContainer^ selection
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public int AddPoint(
 	Node node
 )
 ```
-```vb
-Public Function AddPoint ( 
-	node As Node
-) As Integer
-```
-```cpp
-public:
-int AddPoint(
-	Node^ node
-)
-```
+
+
 
 
 #### Параметры

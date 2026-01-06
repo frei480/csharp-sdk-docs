@@ -13,17 +13,8 @@ public SelectControlItem(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-SelectControlItem(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public uint nTo { get; set; }
 ```
-```vb
-Public Property nTo As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int nTo {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

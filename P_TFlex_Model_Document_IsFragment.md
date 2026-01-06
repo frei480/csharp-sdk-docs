@@ -11,16 +11,8 @@
 ```csharp
 public bool IsFragment { get; }
 ```
-```vb
-Public ReadOnly Property IsFragment As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsFragment {
-	bool get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

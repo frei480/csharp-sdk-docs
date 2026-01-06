@@ -11,12 +11,8 @@
 ```csharp
 public class BaseParameter
 ```
-```vb
-Public Class BaseParameter
-```
-```cpp
-public ref class BaseParameter
-```
+
+
 
 
 Тип BaseParameter предоставляет следующие члены.

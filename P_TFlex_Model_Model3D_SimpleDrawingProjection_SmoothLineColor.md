@@ -11,18 +11,8 @@
 ```csharp
 public Parameter SmoothLineColor { get; set; }
 ```
-```vb
-Public Property SmoothLineColor As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ SmoothLineColor {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

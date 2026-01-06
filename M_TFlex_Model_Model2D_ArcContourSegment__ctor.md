@@ -13,17 +13,8 @@ public ArcContourSegment(
 	Contour source
 )
 ```
-```vb
-Public Sub New ( 
-	source As Contour
-)
-```
-```cpp
-public:
-ArcContourSegment(
-	Contour^ source
-)
-```
+
+
 
 
 #### Параметры

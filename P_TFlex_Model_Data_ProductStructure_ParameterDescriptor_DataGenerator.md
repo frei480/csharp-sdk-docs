@@ -8,18 +8,8 @@
 ```csharp
 public IParameterDataGenerator DataGenerator { get; set; }
 ```
-```vb
-Public Property DataGenerator As IParameterDataGenerator
-	Get
-	Set
-```
-```cpp
-public:
-property IParameterDataGenerator^ DataGenerator {
-	IParameterDataGenerator^ get ();
-	void set (IParameterDataGenerator^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,15 +11,8 @@
 ```csharp
 BaseVertices Vertices { get; }
 ```
-```vb
-ReadOnly Property Vertices As BaseVertices
-	Get
-```
-```cpp
-property BaseVertices^ Vertices {
-	BaseVertices^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

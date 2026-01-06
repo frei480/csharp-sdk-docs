@@ -8,18 +8,8 @@
 ```csharp
 public bool IsFromStatus { get; set; }
 ```
-```vb
-Public Property IsFromStatus As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsFromStatus {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

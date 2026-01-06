@@ -13,17 +13,8 @@ public bool Explode(
 	bool createConstructions
 )
 ```
-```vb
-Public Function Explode ( 
-	createConstructions As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool Explode(
-	bool createConstructions
-)
-```
+
+
 
 
 #### Параметры

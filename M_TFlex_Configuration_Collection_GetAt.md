@@ -10,17 +10,8 @@ public SettingsGroup GetAt(
 	int i
 )
 ```
-```vb
-Public Function GetAt ( 
-	i As Integer
-) As SettingsGroup
-```
-```cpp
-public:
-SettingsGroup^ GetAt(
-	int i
-)
-```
+
+
 
 
 #### Параметры

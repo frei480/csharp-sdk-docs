@@ -14,19 +14,8 @@ public int SetRealValue(
 	Parameter value
 )
 ```
-```vb
-Public Function SetRealValue ( 
-	name As String,
-	value As Parameter
-) As Integer
-```
-```cpp
-public:
-int SetRealValue(
-	String^ name, 
-	Parameter^ value
-)
-```
+
+
 
 
 #### Параметры

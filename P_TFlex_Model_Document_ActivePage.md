@@ -11,16 +11,8 @@
 ```csharp
 public Page ActivePage { get; }
 ```
-```vb
-Public ReadOnly Property ActivePage As Page
-	Get
-```
-```cpp
-public:
-property Page^ ActivePage {
-	Page^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

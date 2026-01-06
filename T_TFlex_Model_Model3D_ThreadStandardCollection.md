@@ -14,14 +14,8 @@
 public class ThreadStandardCollection : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ThreadStandardCollection
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ThreadStandardCollection : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип ThreadStandardCollection предоставляет следующие члены.

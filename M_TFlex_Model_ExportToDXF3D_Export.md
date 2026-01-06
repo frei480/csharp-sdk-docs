@@ -13,17 +13,8 @@ public override bool Export(
 	string fileName
 )
 ```
-```vb
-Public Overrides Function Export ( 
-	fileName As String
-) As Boolean
-```
-```cpp
-public:
-virtual bool Export(
-	String^ fileName
-) override
-```
+
+
 
 
 #### Параметры

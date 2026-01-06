@@ -13,17 +13,8 @@ public void AddActivatePageAction(
 	Page page
 )
 ```
-```vb
-Public Sub AddActivatePageAction ( 
-	page As Page
-)
-```
-```cpp
-public:
-void AddActivatePageAction(
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

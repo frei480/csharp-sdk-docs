@@ -13,17 +13,8 @@ public Axis FromMeter(
 	BaseAxis axis
 )
 ```
-```vb
-Public Function FromMeter ( 
-	axis As BaseAxis
-) As Axis
-```
-```cpp
-public:
-Axis^ FromMeter(
-	BaseAxis^ axis
-)
-```
+
+
 
 
 #### Параметры

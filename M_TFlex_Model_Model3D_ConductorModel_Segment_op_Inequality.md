@@ -11,19 +11,8 @@ public static bool operator !=(
 	Segment right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As Segment,
-	right As Segment
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	Segment^ left, 
-	Segment^ right
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public LCSWorkplaneOrientationType Orientation { get; set; }
 ```
-```vb
-Public Property Orientation As LCSWorkplaneOrientationType
-	Get
-	Set
-```
-```cpp
-public:
-property LCSWorkplaneOrientationType Orientation {
-	LCSWorkplaneOrientationType get ();
-	void set (LCSWorkplaneOrientationType value);
-}
-```
+
+
 
 
 #### Значение свойства

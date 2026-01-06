@@ -8,18 +8,8 @@
 ```csharp
 public ValueListSource ValueListSource { get; set; }
 ```
-```vb
-Public Property ValueListSource As ValueListSource
-	Get
-	Set
-```
-```cpp
-public:
-property ValueListSource ValueListSource {
-	ValueListSource get ();
-	void set (ValueListSource value);
-}
-```
+
+
 
 
 #### Значение свойства

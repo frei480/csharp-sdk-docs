@@ -11,18 +11,8 @@
 ```csharp
 public string SmoothLineName { get; set; }
 ```
-```vb
-Public Property SmoothLineName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ SmoothLineName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

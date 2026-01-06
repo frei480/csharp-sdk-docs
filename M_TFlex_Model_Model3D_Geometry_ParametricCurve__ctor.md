@@ -14,19 +14,8 @@ public ParametricCurve(
 	BaseSplineCurve curve
 )
 ```
-```vb
-Public Sub New ( 
-	surface As BaseSurface,
-	curve As BaseSplineCurve
-)
-```
-```cpp
-public:
-ParametricCurve(
-	BaseSurface^ surface, 
-	BaseSplineCurve^ curve
-)
-```
+
+
 
 
 #### Параметры

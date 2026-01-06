@@ -13,12 +13,8 @@
 ```csharp
 public sealed class DeleteUnusedOptions
 ```
-```vb
-Public NotInheritable Class DeleteUnusedOptions
-```
-```cpp
-public ref class DeleteUnusedOptions sealed
-```
+
+
 
 
 Тип DeleteUnusedOptions предоставляет следующие члены.

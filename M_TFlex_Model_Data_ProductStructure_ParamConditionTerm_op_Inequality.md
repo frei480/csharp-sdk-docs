@@ -11,19 +11,8 @@ public static bool operator !=(
 	ParamConditionTerm right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As ParamConditionTerm,
-	right As ParamConditionTerm
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	ParamConditionTerm^ left, 
-	ParamConditionTerm^ right
-)
-```
+
+
 
 
 #### Параметры

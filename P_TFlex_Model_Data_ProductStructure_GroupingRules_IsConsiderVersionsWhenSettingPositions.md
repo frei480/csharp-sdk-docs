@@ -8,18 +8,8 @@
 ```csharp
 public bool IsConsiderVersionsWhenSettingPositions { get; set; }
 ```
-```vb
-Public Property IsConsiderVersionsWhenSettingPositions As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsConsiderVersionsWhenSettingPositions {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

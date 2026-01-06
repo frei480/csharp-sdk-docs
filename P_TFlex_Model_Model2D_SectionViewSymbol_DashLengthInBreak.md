@@ -11,18 +11,8 @@
 ```csharp
 public double DashLengthInBreak { get; set; }
 ```
-```vb
-Public Property DashLengthInBreak As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double DashLengthInBreak {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

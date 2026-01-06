@@ -11,12 +11,8 @@
 ```csharp
 public enum CircleToCircleAxisType
 ```
-```vb
-Public Enumeration CircleToCircleAxisType
-```
-```cpp
-public enum class CircleToCircleAxisType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

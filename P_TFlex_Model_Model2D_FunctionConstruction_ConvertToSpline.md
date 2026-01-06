@@ -11,18 +11,8 @@
 ```csharp
 public bool ConvertToSpline { get; set; }
 ```
-```vb
-Public Property ConvertToSpline As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ConvertToSpline {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

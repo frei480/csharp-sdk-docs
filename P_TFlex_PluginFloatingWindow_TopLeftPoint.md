@@ -11,18 +11,8 @@
 ```csharp
 public Point TopLeftPoint { get; set; }
 ```
-```vb
-Public Property TopLeftPoint As Point
-	Get
-	Set
-```
-```cpp
-public:
-property Point TopLeftPoint {
-	Point get ();
-	void set (Point value);
-}
-```
+
+
 
 
 #### Значение свойства

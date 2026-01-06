@@ -15,22 +15,8 @@
 	false)]
 public bool External { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete. Please use ExternalType.", 
-	false)>
-Public Property External As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete. Please use ExternalType.", 
-	false)]
-property bool External {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

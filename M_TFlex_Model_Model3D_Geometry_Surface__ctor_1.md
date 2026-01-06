@@ -14,19 +14,8 @@ public Surface(
 	bool canCopy
 )
 ```
-```vb
-Public Sub New ( 
-	surface As Integer,
-	canCopy As Boolean
-)
-```
-```cpp
-public:
-Surface(
-	int surface, 
-	bool canCopy
-)
-```
+
+
 
 
 #### Параметры

@@ -11,14 +11,8 @@
 ```csharp
 public class SelectionContainerExtensions
 ```
-```vb
-<ExtensionAttribute>
-Public Class SelectionContainerExtensions
-```
-```cpp
-[ExtensionAttribute]
-public ref class SelectionContainerExtensions
-```
+
+
 
 
 Тип SelectionContainerExtensions предоставляет следующие члены.

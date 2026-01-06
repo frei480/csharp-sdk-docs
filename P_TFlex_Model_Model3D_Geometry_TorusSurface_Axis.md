@@ -11,18 +11,8 @@
 ```csharp
 public virtual BaseAxis Axis { get; set; }
 ```
-```vb
-Public Overridable Property Axis As BaseAxis
-	Get
-	Set
-```
-```cpp
-public:
-virtual property BaseAxis^ Axis {
-	BaseAxis^ get ();
-	void set (BaseAxis^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public class SerializationContex
 ```
-```vb
-Public Class SerializationContex
-```
-```cpp
-public ref class SerializationContex
-```
+
+
 
 
 Тип SerializationContex предоставляет следующие члены.

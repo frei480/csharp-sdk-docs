@@ -13,17 +13,8 @@ public AffineMap(
 	AffineMap source
 )
 ```
-```vb
-Public Sub New ( 
-	source As AffineMap
-)
-```
-```cpp
-public:
-AffineMap(
-	AffineMap^ source
-)
-```
+
+
 
 
 #### Параметры

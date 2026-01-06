@@ -12,20 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'FilePath' property.")]
 public string FileName { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'FilePath' property.")>
-Public Property FileName As String
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'FilePath' property.")]
-property String^ FileName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

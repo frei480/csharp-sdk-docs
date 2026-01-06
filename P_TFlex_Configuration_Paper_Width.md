@@ -8,16 +8,8 @@
 ```csharp
 public double Width { get; }
 ```
-```vb
-Public ReadOnly Property Width As Double
-	Get
-```
-```cpp
-public:
-property double Width {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

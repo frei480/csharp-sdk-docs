@@ -11,13 +11,8 @@
 ```csharp
 public bool fHighlight
 ```
-```vb
-Public fHighlight As Boolean
-```
-```cpp
-public:
-bool fHighlight
-```
+
+
 
 
 #### Значение поля

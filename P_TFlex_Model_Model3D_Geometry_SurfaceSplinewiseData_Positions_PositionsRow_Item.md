@@ -10,20 +10,8 @@ public BasePoint3D this[
 	uint index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As UInteger
-) As BasePoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property BasePoint3D^ default[unsigned int index] {
-	BasePoint3D^ get (unsigned int index);
-	void set (unsigned int index, BasePoint3D^ value);
-}
-```
+
+
 
 
 #### Параметры

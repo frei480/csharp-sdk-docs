@@ -8,18 +8,8 @@
 ```csharp
 public BomValueType ValueType { get; set; }
 ```
-```vb
-Public Property ValueType As BomValueType
-	Get
-	Set
-```
-```cpp
-public:
-property BomValueType ValueType {
-	BomValueType get ();
-	void set (BomValueType value);
-}
-```
+
+
 
 
 #### Значение свойства

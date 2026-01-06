@@ -11,12 +11,8 @@
 ```csharp
 public sealed class FragmentProcessing
 ```
-```vb
-Public NotInheritable Class FragmentProcessing
-```
-```cpp
-public ref class FragmentProcessing sealed
-```
+
+
 
 
 Тип FragmentProcessing предоставляет следующие члены.

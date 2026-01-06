@@ -11,19 +11,8 @@ public static void CopyVariablesToFrag(
 	RowElement element
 )
 ```
-```vb
-Public Shared Sub CopyVariablesToFrag ( 
-	fragment As Fragment,
-	element As RowElement
-)
-```
-```cpp
-public:
-static void CopyVariablesToFrag(
-	Fragment^ fragment, 
-	RowElement^ element
-)
-```
+
+
 
 
 #### Параметры

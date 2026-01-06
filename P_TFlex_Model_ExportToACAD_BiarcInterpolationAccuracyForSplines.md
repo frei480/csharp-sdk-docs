@@ -11,18 +11,8 @@
 ```csharp
 public double BiarcInterpolationAccuracyForSplines { get; set; }
 ```
-```vb
-Public Property BiarcInterpolationAccuracyForSplines As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double BiarcInterpolationAccuracyForSplines {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

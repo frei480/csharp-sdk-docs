@@ -11,13 +11,8 @@
 ```csharp
 public bool IsHiddenLine()
 ```
-```vb
-Public Function IsHiddenLine As Boolean
-```
-```cpp
-public:
-bool IsHiddenLine()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,13 +11,8 @@
 ```csharp
 public ICollection<Object2D> Get2DObjects()
 ```
-```vb
-Public Function Get2DObjects As ICollection(Of Object2D)
-```
-```cpp
-public:
-ICollection<Object2D^>^ Get2DObjects()
-```
+
+
 
 
 #### Возвращаемое значение

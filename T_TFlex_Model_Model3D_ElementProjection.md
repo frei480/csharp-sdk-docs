@@ -13,13 +13,8 @@
 ```csharp
 public class ElementProjection : NonStandardProjection
 ```
-```vb
-Public Class ElementProjection
-	Inherits NonStandardProjection
-```
-```cpp
-public ref class ElementProjection : public NonStandardProjection
-```
+
+
 
 
 Тип ElementProjection предоставляет следующие члены.

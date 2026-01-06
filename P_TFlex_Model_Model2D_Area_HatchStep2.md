@@ -11,18 +11,8 @@
 ```csharp
 public Parameter HatchStep2 { get; set; }
 ```
-```vb
-Public Property HatchStep2 As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ HatchStep2 {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

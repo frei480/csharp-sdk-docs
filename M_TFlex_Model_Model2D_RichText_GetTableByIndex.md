@@ -13,17 +13,8 @@ public Table GetTableByIndex(
 	uint index
 )
 ```
-```vb
-Public Function GetTableByIndex ( 
-	index As UInteger
-) As Table
-```
-```cpp
-public:
-Table GetTableByIndex(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

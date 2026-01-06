@@ -11,18 +11,8 @@
 ```csharp
 public LogicalOperator LogicalOperator { get; set; }
 ```
-```vb
-Public Property LogicalOperator As LogicalOperator
-	Get
-	Set
-```
-```cpp
-public:
-property LogicalOperator LogicalOperator {
-	LogicalOperator get ();
-	void set (LogicalOperator value);
-}
-```
+
+
 
 
 #### Значение свойства

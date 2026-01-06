@@ -10,17 +10,8 @@ protected virtual void XMLSerializeSpecific(
 	XmlWriter writer
 )
 ```
-```vb
-Protected Overridable Sub XMLSerializeSpecific ( 
-	writer As XmlWriter
-)
-```
-```cpp
-protected:
-virtual void XMLSerializeSpecific(
-	XmlWriter^ writer
-)
-```
+
+
 
 
 #### Параметры

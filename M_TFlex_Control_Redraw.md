@@ -11,13 +11,8 @@
 ```csharp
 public virtual void Redraw()
 ```
-```vb
-Public Overridable Sub Redraw
-```
-```cpp
-public:
-virtual void Redraw()
-```
+
+
 
 
 #### Ссылки

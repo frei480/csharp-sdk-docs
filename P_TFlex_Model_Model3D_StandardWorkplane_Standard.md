@@ -11,18 +11,8 @@
 ```csharp
 public StandardWorkplaneStandardType Standard { get; set; }
 ```
-```vb
-Public Property Standard As StandardWorkplaneStandardType
-	Get
-	Set
-```
-```cpp
-public:
-property StandardWorkplaneStandardType Standard {
-	StandardWorkplaneStandardType get ();
-	void set (StandardWorkplaneStandardType value);
-}
-```
+
+
 
 
 #### Значение свойства

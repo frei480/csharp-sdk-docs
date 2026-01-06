@@ -8,18 +8,8 @@
 ```csharp
 public Units Measure { get; set; }
 ```
-```vb
-Public Property Measure As Units
-	Get
-	Set
-```
-```cpp
-public:
-property Units Measure {
-	Units get ();
-	void set (Units value);
-}
-```
+
+
 
 
 #### Значение свойства

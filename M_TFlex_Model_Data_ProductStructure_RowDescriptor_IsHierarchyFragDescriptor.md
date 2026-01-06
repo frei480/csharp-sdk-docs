@@ -8,13 +8,8 @@
 ```csharp
 public bool IsHierarchyFragDescriptor()
 ```
-```vb
-Public Function IsHierarchyFragDescriptor As Boolean
-```
-```cpp
-public:
-bool IsHierarchyFragDescriptor()
-```
+
+
 
 
 #### Возвращаемое значение

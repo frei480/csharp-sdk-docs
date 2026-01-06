@@ -15,21 +15,8 @@ public bool InsertTextWithHyperlinks(
 	string text
 )
 ```
-```vb
-Public Function InsertTextWithHyperlinks ( 
-	cell As UInteger,
-	position As UInteger,
-	text As String
-) As Boolean
-```
-```cpp
-public:
-bool InsertTextWithHyperlinks(
-	unsigned int cell, 
-	unsigned int position, 
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

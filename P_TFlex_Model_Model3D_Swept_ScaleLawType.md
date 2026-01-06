@@ -11,18 +11,8 @@
 ```csharp
 public SweptLawType ScaleLawType { get; set; }
 ```
-```vb
-Public Property ScaleLawType As SweptLawType
-	Get
-	Set
-```
-```cpp
-public:
-property SweptLawType ScaleLawType {
-	SweptLawType get ();
-	void set (SweptLawType value);
-}
-```
+
+
 
 
 #### Значение свойства

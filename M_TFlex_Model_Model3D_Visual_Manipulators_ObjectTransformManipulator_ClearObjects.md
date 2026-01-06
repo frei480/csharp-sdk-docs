@@ -8,13 +8,8 @@
 ```csharp
 public void ClearObjects()
 ```
-```vb
-Public Sub ClearObjects
-```
-```cpp
-public:
-void ClearObjects()
-```
+
+
 
 
 #### Ссылки

@@ -13,13 +13,8 @@
 ```csharp
 public class ViewRulerContextMenuCommandEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class ViewRulerContextMenuCommandEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class ViewRulerContextMenuCommandEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип ViewRulerContextMenuCommandEventArgs предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public bool DrawnLast { get; set; }
 ```
-```vb
-Public Property DrawnLast As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DrawnLast {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

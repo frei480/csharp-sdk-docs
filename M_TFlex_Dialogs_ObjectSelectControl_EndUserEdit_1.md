@@ -13,17 +13,8 @@ public void EndUserEdit(
 	ObjectSelectControlItem result
 )
 ```
-```vb
-Public Sub EndUserEdit ( 
-	result As ObjectSelectControlItem
-)
-```
-```cpp
-public:
-void EndUserEdit(
-	ObjectSelectControlItem^ result
-)
-```
+
+
 
 
 #### Параметры

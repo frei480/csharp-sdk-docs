@@ -13,16 +13,8 @@
 public class WrapperS<TObj> : INotifyPropertyChanged
 
 ```
-```vb
-<SerializableAttribute>
-Public Class WrapperS(Of TObj)
-	Implements INotifyPropertyChanged
-```
-```cpp
-[SerializableAttribute]
-generic<typename TObj>
-public ref class WrapperS : INotifyPropertyChanged
-```
+
+
 
 
 #### Параметры типа

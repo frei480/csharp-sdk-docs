@@ -13,17 +13,8 @@ public virtual bool Insert(
 	FixingVector point
 )
 ```
-```vb
-Public Overridable Function Insert ( 
-	point As FixingVector
-) As Boolean
-```
-```cpp
-public:
-virtual bool Insert(
-	FixingVector^ point
-)
-```
+
+
 
 
 #### Параметры

@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<FixingVector> GetFixingVectors()
 ```
-```vb
-Public Function GetFixingVectors As ICollection(Of FixingVector)
-```
-```cpp
-public:
-ICollection<FixingVector^>^ GetFixingVectors()
-```
+
+
 
 
 #### Возвращаемое значение

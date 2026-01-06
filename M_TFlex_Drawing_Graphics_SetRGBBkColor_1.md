@@ -15,21 +15,8 @@ public int SetRGBBkColor(
 	int b
 )
 ```
-```vb
-Public Function SetRGBBkColor ( 
-	r As Integer,
-	g As Integer,
-	b As Integer
-) As Integer
-```
-```cpp
-public:
-int SetRGBBkColor(
-	int r, 
-	int g, 
-	int b
-)
-```
+
+
 
 
 #### Параметры

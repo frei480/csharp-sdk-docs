@@ -11,18 +11,8 @@
 ```csharp
 public bool KeepVisible { get; set; }
 ```
-```vb
-Public Property KeepVisible As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool KeepVisible {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

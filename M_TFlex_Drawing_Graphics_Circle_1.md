@@ -14,19 +14,8 @@ public void Circle(
 	Point point
 )
 ```
-```vb
-Public Sub Circle ( 
-	center As Point,
-	point As Point
-)
-```
-```cpp
-public:
-void Circle(
-	Point center, 
-	Point point
-)
-```
+
+
 
 
 #### Параметры

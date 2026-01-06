@@ -11,13 +11,8 @@
 ```csharp
 public virtual Splice AddSplice()
 ```
-```vb
-Public Overridable Function AddSplice As Splice
-```
-```cpp
-public:
-virtual Splice^ AddSplice()
-```
+
+
 
 
 #### Возвращаемое значение

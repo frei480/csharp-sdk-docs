@@ -13,13 +13,8 @@
 ```csharp
 public class LineGeometry : ObjectGeometry
 ```
-```vb
-Public Class LineGeometry
-	Inherits ObjectGeometry
-```
-```cpp
-public ref class LineGeometry : public ObjectGeometry
-```
+
+
 
 
 Тип LineGeometry предоставляет следующие члены.

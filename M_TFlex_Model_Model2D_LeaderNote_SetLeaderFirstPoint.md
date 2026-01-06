@@ -14,19 +14,8 @@ public void SetLeaderFirstPoint(
 	Parameter dY
 )
 ```
-```vb
-Public Sub SetLeaderFirstPoint ( 
-	dX As Parameter,
-	dY As Parameter
-)
-```
-```cpp
-public:
-void SetLeaderFirstPoint(
-	Parameter^ dX, 
-	Parameter^ dY
-)
-```
+
+
 
 
 #### Параметры

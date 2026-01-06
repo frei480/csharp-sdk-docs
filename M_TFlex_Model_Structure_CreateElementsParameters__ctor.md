@@ -11,13 +11,8 @@
 ```csharp
 public CreateElementsParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CreateElementsParameters()
-```
+
+
 
 
 #### Ссылки

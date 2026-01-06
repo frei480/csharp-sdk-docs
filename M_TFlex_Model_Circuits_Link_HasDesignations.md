@@ -10,17 +10,8 @@ public override bool HasDesignations(
 	DesignationType type
 )
 ```
-```vb
-Public Overrides Function HasDesignations ( 
-	type As DesignationType
-) As Boolean
-```
-```cpp
-public:
-virtual bool HasDesignations(
-	DesignationType type
-) override
-```
+
+
 
 
 #### Параметры

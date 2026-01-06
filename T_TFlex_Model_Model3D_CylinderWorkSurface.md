@@ -13,13 +13,8 @@
 ```csharp
 public class CylinderWorkSurface : SpatialWorkSurface
 ```
-```vb
-Public Class CylinderWorkSurface
-	Inherits SpatialWorkSurface
-```
-```cpp
-public ref class CylinderWorkSurface : public SpatialWorkSurface
-```
+
+
 
 
 Тип CylinderWorkSurface предоставляет следующие члены.

@@ -15,21 +15,8 @@ public IntPtr AddMessage(
 	Document document
 )
 ```
-```vb
-Public Function AddMessage ( 
-	title As String,
-	text As String,
-	document As Document
-) As IntPtr
-```
-```cpp
-public:
-IntPtr AddMessage(
-	String^ title, 
-	String^ text, 
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

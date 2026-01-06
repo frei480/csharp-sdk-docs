@@ -11,18 +11,8 @@
 ```csharp
 public Parameter CornerThickness { get; set; }
 ```
-```vb
-Public Property CornerThickness As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ CornerThickness {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

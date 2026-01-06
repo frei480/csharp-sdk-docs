@@ -11,13 +11,8 @@
 ```csharp
 public string GetSelectedText()
 ```
-```vb
-Public Function GetSelectedText As String
-```
-```cpp
-public:
-String^ GetSelectedText()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,18 +11,8 @@
 ```csharp
 public SelectControlMode Mode { get; set; }
 ```
-```vb
-Public Property Mode As SelectControlMode
-	Get
-	Set
-```
-```cpp
-public:
-property SelectControlMode Mode {
-	SelectControlMode get ();
-	void set (SelectControlMode value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public virtual void RefreshTabs()
 ```
-```vb
-Public Overridable Sub RefreshTabs
-```
-```cpp
-public:
-virtual void RefreshTabs()
-```
+
+
 
 
 #### Ссылки

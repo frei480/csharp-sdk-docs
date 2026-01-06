@@ -14,19 +14,8 @@ public MacroHyperlinkProperties(
 	string text
 )
 ```
-```vb
-Public Sub New ( 
-	macroName As String,
-	text As String
-)
-```
-```cpp
-public:
-MacroHyperlinkProperties(
-	String^ macroName, 
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Page : ModelObject
 ```
-```vb
-Public NotInheritable Class Page
-	Inherits ModelObject
-```
-```cpp
-public ref class Page sealed : public ModelObject
-```
+
+
 
 
 Тип Page предоставляет следующие члены.

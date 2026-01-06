@@ -15,21 +15,8 @@ public VariableBlendAttribute(
 	Parameter rho
 )
 ```
-```vb
-Public Sub New ( 
-	radius1 As Parameter,
-	radius2 As Parameter,
-	rho As Parameter
-)
-```
-```cpp
-public:
-VariableBlendAttribute(
-	Parameter^ radius1, 
-	Parameter^ radius2, 
-	Parameter^ rho
-)
-```
+
+
 
 
 #### Параметры

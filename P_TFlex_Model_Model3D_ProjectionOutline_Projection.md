@@ -11,16 +11,8 @@
 ```csharp
 public Projection Projection { get; }
 ```
-```vb
-Public ReadOnly Property Projection As Projection
-	Get
-```
-```cpp
-public:
-property Projection^ Projection {
-	Projection^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

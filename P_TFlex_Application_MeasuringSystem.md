@@ -11,16 +11,8 @@
 ```csharp
 public static ApplicationMeasure MeasuringSystem { get; }
 ```
-```vb
-Public Shared ReadOnly Property MeasuringSystem As ApplicationMeasure
-	Get
-```
-```cpp
-public:
-static property ApplicationMeasure MeasuringSystem {
-	ApplicationMeasure get ();
-}
-```
+
+
 
 
 #### Значение свойства

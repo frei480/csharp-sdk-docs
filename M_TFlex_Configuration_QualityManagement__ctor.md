@@ -11,13 +11,8 @@
 ```csharp
 public QualityManagement()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-QualityManagement()
-```
+
+
 
 
 #### Ссылки

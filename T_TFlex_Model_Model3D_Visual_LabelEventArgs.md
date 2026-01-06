@@ -13,13 +13,8 @@
 ```csharp
 public class LabelEventArgs : VisualEventArgs
 ```
-```vb
-Public Class LabelEventArgs
-	Inherits VisualEventArgs
-```
-```cpp
-public ref class LabelEventArgs : public VisualEventArgs
-```
+
+
 
 
 Тип LabelEventArgs предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public class Offset : Operation
 ```
-```vb
-Public Class Offset
-	Inherits Operation
-```
-```cpp
-public ref class Offset : public Operation
-```
+
+
 
 
 Тип Offset предоставляет следующие члены.

@@ -11,12 +11,8 @@
 ```csharp
 public enum DrawMode
 ```
-```vb
-Public Enumeration DrawMode
-```
-```cpp
-public enum class DrawMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

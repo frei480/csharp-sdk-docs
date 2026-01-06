@@ -8,13 +8,8 @@
 ```csharp
 public List<UV> UVs
 ```
-```vb
-Public UVs As List(Of UV)
-```
-```cpp
-public:
-List<UV>^ UVs
-```
+
+
 
 
 #### Значение поля

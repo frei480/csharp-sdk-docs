@@ -13,16 +13,8 @@
 ```csharp
 public static Unit MillimeterPerSecond { get; }
 ```
-```vb
-Public Shared ReadOnly Property MillimeterPerSecond As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ MillimeterPerSecond {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

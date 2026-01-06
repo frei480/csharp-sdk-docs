@@ -11,13 +11,8 @@
 ```csharp
 public Document OpenPart()
 ```
-```vb
-Public Function OpenPart As Document
-```
-```cpp
-public:
-Document^ OpenPart()
-```
+
+
 
 
 #### Возвращаемое значение

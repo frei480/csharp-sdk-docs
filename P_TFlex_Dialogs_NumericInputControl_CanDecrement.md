@@ -11,16 +11,8 @@
 ```csharp
 public bool CanDecrement { get; }
 ```
-```vb
-Public ReadOnly Property CanDecrement As Boolean
-	Get
-```
-```cpp
-public:
-property bool CanDecrement {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

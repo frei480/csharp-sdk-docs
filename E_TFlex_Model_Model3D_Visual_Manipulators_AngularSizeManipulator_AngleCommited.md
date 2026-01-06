@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<AngularSizeManipulatorAngleCommitedEventArgs> AngleCommited
 ```
-```vb
-Public Event AngleCommited As EventHandler(Of AngularSizeManipulatorAngleCommitedEventArgs)
-```
-```cpp
-public:
- event EventHandler<AngularSizeManipulatorAngleCommitedEventArgs^>^ AngleCommited {
-	void add (EventHandler<AngularSizeManipulatorAngleCommitedEventArgs^>^ value);
-	void remove (EventHandler<AngularSizeManipulatorAngleCommitedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

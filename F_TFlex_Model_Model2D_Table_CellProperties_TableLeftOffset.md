@@ -11,13 +11,8 @@
 ```csharp
 public double TableLeftOffset
 ```
-```vb
-Public TableLeftOffset As Double
-```
-```cpp
-public:
-double TableLeftOffset
-```
+
+
 
 
 #### Значение поля

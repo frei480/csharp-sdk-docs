@@ -11,12 +11,8 @@
 ```csharp
 public enum ToleranceTypes
 ```
-```vb
-Public Enumeration ToleranceTypes
-```
-```cpp
-public enum class ToleranceTypes
-```
+
+
 
 
 | Имя члена | Значение | Описание |

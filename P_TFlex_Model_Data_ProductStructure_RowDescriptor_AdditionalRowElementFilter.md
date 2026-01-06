@@ -8,18 +8,8 @@
 ```csharp
 public RowElementFilterType AdditionalRowElementFilter { get; set; }
 ```
-```vb
-Public Property AdditionalRowElementFilter As RowElementFilterType
-	Get
-	Set
-```
-```cpp
-public:
-property RowElementFilterType AdditionalRowElementFilter {
-	RowElementFilterType get ();
-	void set (RowElementFilterType value);
-}
-```
+
+
 
 
 #### Значение свойства

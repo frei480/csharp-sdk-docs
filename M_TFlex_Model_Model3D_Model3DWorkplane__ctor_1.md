@@ -14,19 +14,8 @@ protected Model3DWorkplane(
 	Page page
 )
 ```
-```vb
-Protected Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-protected:
-Model3DWorkplane(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

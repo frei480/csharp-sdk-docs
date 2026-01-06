@@ -8,18 +8,8 @@
 ```csharp
 public string UserWeldTypeSourcePath { get; set; }
 ```
-```vb
-Public Property UserWeldTypeSourcePath As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ UserWeldTypeSourcePath {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

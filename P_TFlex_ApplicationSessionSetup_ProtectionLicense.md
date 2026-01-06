@@ -11,18 +11,8 @@
 ```csharp
 public ApplicationSessionSetupLicense ProtectionLicense { get; set; }
 ```
-```vb
-Public Property ProtectionLicense As ApplicationSessionSetupLicense
-	Get
-	Set
-```
-```cpp
-public:
-property ApplicationSessionSetupLicense ProtectionLicense {
-	ApplicationSessionSetupLicense get ();
-	void set (ApplicationSessionSetupLicense value);
-}
-```
+
+
 
 
 #### Значение свойства

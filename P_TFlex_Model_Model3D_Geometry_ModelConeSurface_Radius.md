@@ -11,16 +11,8 @@
 ```csharp
 public virtual double Radius { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Radius As Double
-	Get
-```
-```cpp
-public:
-virtual property double Radius {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

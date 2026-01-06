@@ -13,17 +13,8 @@ public int GetBOMQuantity(
 	bool onlyVisible
 )
 ```
-```vb
-Public Function GetBOMQuantity ( 
-	onlyVisible As Boolean
-) As Integer
-```
-```cpp
-public:
-int GetBOMQuantity(
-	bool onlyVisible
-)
-```
+
+
 
 
 #### Параметры

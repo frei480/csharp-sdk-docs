@@ -11,16 +11,8 @@
 ```csharp
 public bool IsUsedForSetupPositions { get; }
 ```
-```vb
-Public ReadOnly Property IsUsedForSetupPositions As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsUsedForSetupPositions {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

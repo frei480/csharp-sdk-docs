@@ -11,18 +11,8 @@
 ```csharp
 public Parameter PatternScale { get; set; }
 ```
-```vb
-Public Property PatternScale As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ PatternScale {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

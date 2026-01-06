@@ -11,18 +11,8 @@
 ```csharp
 public double ModelSize { get; set; }
 ```
-```vb
-Public Property ModelSize As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double ModelSize {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

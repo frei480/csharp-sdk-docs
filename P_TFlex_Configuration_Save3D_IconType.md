@@ -8,18 +8,8 @@
 ```csharp
 public IconSaveType IconType { get; set; }
 ```
-```vb
-Public Property IconType As IconSaveType
-	Get
-	Set
-```
-```cpp
-public:
-property IconSaveType IconType {
-	IconSaveType get ();
-	void set (IconSaveType value);
-}
-```
+
+
 
 
 #### Значение свойства

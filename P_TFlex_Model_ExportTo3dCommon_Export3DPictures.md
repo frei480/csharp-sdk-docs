@@ -11,18 +11,8 @@
 ```csharp
 public bool Export3DPictures { get; set; }
 ```
-```vb
-Public Property Export3DPictures As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Export3DPictures {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

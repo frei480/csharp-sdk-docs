@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Energy
 ```
-```vb
-Public NotInheritable Class Energy
-```
-```cpp
-public ref class Energy sealed
-```
+
+
 
 
 Тип StandardUnitsEnergy предоставляет следующие члены.

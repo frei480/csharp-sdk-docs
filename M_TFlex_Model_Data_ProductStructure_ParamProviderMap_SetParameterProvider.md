@@ -11,19 +11,8 @@ public void SetParameterProvider(
 	IParameterProvider pParamProvider
 )
 ```
-```vb
-Public Sub SetParameterProvider ( 
-	rowID As Guid,
-	pParamProvider As IParameterProvider
-)
-```
-```cpp
-public:
-void SetParameterProvider(
-	Guid rowID, 
-	IParameterProvider^ pParamProvider
-)
-```
+
+
 
 
 #### Параметры

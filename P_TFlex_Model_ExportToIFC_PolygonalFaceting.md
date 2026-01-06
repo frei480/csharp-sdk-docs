@@ -11,18 +11,8 @@
 ```csharp
 public bool PolygonalFaceting { get; set; }
 ```
-```vb
-Public Property PolygonalFaceting As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool PolygonalFaceting {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

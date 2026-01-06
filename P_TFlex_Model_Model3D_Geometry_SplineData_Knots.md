@@ -11,16 +11,8 @@
 ```csharp
 public SplineDataKnotSequence Knots { get; }
 ```
-```vb
-Public ReadOnly Property Knots As SplineDataKnotSequence
-	Get
-```
-```cpp
-public:
-property SplineDataKnotSequence^ Knots {
-	SplineDataKnotSequence^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

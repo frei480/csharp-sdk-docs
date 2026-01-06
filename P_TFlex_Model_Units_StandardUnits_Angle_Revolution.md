@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Revolution { get; }
 ```
-```vb
-Public Shared ReadOnly Property Revolution As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Revolution {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

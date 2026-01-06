@@ -8,12 +8,8 @@
 ```csharp
 public enum HoleTypeClass
 ```
-```vb
-Public Enumeration HoleTypeClass
-```
-```cpp
-public enum class HoleTypeClass
-```
+
+
 
 
 | Имя члена | Значение | Описание |

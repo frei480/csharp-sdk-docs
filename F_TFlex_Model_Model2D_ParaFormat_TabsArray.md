@@ -11,13 +11,8 @@
 ```csharp
 public ParaFormatTabs TabsArray
 ```
-```vb
-Public TabsArray As ParaFormatTabs
-```
-```cpp
-public:
-ParaFormatTabs^ TabsArray
-```
+
+
 
 
 #### Значение поля

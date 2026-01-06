@@ -11,12 +11,8 @@
 ```csharp
 public enum StandardBOMItemType
 ```
-```vb
-Public Enumeration StandardBOMItemType
-```
-```cpp
-public enum class StandardBOMItemType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

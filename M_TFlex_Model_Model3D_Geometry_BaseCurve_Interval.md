@@ -14,19 +14,8 @@ public BaseInterval Interval(
 	BasePoint3D point2
 )
 ```
-```vb
-Public Function Interval ( 
-	point1 As BasePoint3D,
-	point2 As BasePoint3D
-) As BaseInterval
-```
-```cpp
-public:
-BaseInterval^ Interval(
-	BasePoint3D^ point1, 
-	BasePoint3D^ point2
-)
-```
+
+
 
 
 #### Параметры

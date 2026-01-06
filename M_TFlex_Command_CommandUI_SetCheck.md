@@ -11,13 +11,8 @@
 ```csharp
 public void SetCheck()
 ```
-```vb
-Public Sub SetCheck
-```
-```cpp
-public:
-void SetCheck()
-```
+
+
 
 
 #### Ссылки

@@ -11,12 +11,8 @@
 ```csharp
 public enum TextType
 ```
-```vb
-Public Enumeration TextType
-```
-```cpp
-public enum class TextType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

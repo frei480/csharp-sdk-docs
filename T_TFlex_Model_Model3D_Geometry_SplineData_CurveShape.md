@@ -11,12 +11,8 @@
 ```csharp
 public enum CurveShape
 ```
-```vb
-Public Enumeration CurveShape
-```
-```cpp
-public enum class CurveShape
-```
+
+
 
 
 | Имя члена | Значение | Описание |

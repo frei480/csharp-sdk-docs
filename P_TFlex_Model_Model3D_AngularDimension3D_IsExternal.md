@@ -11,18 +11,8 @@
 ```csharp
 public bool IsExternal { get; set; }
 ```
-```vb
-Public Property IsExternal As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsExternal {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

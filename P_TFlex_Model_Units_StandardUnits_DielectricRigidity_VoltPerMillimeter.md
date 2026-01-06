@@ -13,16 +13,8 @@
 ```csharp
 public static Unit VoltPerMillimeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property VoltPerMillimeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ VoltPerMillimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

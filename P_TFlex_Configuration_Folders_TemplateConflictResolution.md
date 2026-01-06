@@ -8,18 +8,8 @@
 ```csharp
 public TemplateConflictAction TemplateConflictResolution { get; set; }
 ```
-```vb
-Public Property TemplateConflictResolution As TemplateConflictAction
-	Get
-	Set
-```
-```cpp
-public:
-property TemplateConflictAction TemplateConflictResolution {
-	TemplateConflictAction get ();
-	void set (TemplateConflictAction value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,19 +11,8 @@ public void InsertRange(
 	IEnumerable<CommonAttribute> items
 )
 ```
-```vb
-Public Sub InsertRange ( 
-	index As Integer,
-	items As IEnumerable(Of CommonAttribute)
-)
-```
-```cpp
-public:
-void InsertRange(
-	int index, 
-	IEnumerable<CommonAttribute^>^ items
-)
-```
+
+
 
 
 #### Параметры

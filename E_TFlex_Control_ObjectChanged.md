@@ -11,16 +11,8 @@
 ```csharp
 public event ControlObjectChanged ObjectChanged
 ```
-```vb
-Public Event ObjectChanged As ControlObjectChanged
-```
-```cpp
-public:
- event ControlObjectChanged^ ObjectChanged {
-	void add (ControlObjectChanged^ value);
-	void remove (ControlObjectChanged^ value);
-}
-```
+
+
 
 
 #### Значение

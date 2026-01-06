@@ -13,12 +13,8 @@
 ```csharp
 public class LinkedObject
 ```
-```vb
-Public Class LinkedObject
-```
-```cpp
-public ref class LinkedObject
-```
+
+
 
 
 Тип LinearDimensionLinkedObject предоставляет следующие члены.

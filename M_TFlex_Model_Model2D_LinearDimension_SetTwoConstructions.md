@@ -16,23 +16,8 @@ public void SetTwoConstructions(
 	Node node2
 )
 ```
-```vb
-Public Sub SetTwoConstructions ( 
-	line1 As Construction,
-	node1 As Node,
-	line2 As Construction,
-	node2 As Node
-)
-```
-```cpp
-public:
-void SetTwoConstructions(
-	Construction^ line1, 
-	Node^ node1, 
-	Construction^ line2, 
-	Node^ node2
-)
-```
+
+
 
 
 #### Параметры

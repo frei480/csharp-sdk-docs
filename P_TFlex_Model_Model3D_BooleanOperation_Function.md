@@ -11,18 +11,8 @@
 ```csharp
 public BooleanOperationFunctionType Function { get; set; }
 ```
-```vb
-Public Property Function As BooleanOperationFunctionType
-	Get
-	Set
-```
-```cpp
-public:
-property BooleanOperationFunctionType Function {
-	BooleanOperationFunctionType get ();
-	void set (BooleanOperationFunctionType value);
-}
-```
+
+
 
 
 #### Значение свойства

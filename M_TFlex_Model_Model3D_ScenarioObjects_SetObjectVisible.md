@@ -11,19 +11,8 @@ public void SetObjectVisible(
 	bool visible
 )
 ```
-```vb
-Public Sub SetObjectVisible ( 
-	id As ObjectId,
-	visible As Boolean
-)
-```
-```cpp
-public:
-void SetObjectVisible(
-	ObjectId^ id, 
-	bool visible
-)
-```
+
+
 
 
 #### Параметры

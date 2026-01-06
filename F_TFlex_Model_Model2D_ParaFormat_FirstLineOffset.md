@@ -11,13 +11,8 @@
 ```csharp
 public double FirstLineOffset
 ```
-```vb
-Public FirstLineOffset As Double
-```
-```cpp
-public:
-double FirstLineOffset
-```
+
+
 
 
 #### Значение поля

@@ -8,18 +8,8 @@
 ```csharp
 public bool ReplaceOldAggregatedElements { get; set; }
 ```
-```vb
-Public Property ReplaceOldAggregatedElements As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ReplaceOldAggregatedElements {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

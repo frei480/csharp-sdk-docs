@@ -13,23 +13,8 @@ public SpliceInfo AddSpliceInfo(
 	Segment baseSegment
 )
 ```
-```vb
-Public Function AddSpliceInfo ( 
-	link As LinkBase,
-	index As Integer,
-	basePoint As TerminalPoint,
-	baseSegment As Segment
-) As SpliceInfo
-```
-```cpp
-public:
-SpliceInfo^ AddSpliceInfo(
-	LinkBase^ link, 
-	int index, 
-	TerminalPoint^ basePoint, 
-	Segment^ baseSegment
-)
-```
+
+
 
 
 #### Параметры

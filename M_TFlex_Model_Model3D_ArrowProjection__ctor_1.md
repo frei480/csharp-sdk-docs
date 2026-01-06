@@ -14,19 +14,8 @@ public ArrowProjection(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-public:
-ArrowProjection(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

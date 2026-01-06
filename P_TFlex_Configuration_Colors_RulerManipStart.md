@@ -8,18 +8,8 @@
 ```csharp
 public int RulerManipStart { get; set; }
 ```
-```vb
-Public Property RulerManipStart As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int RulerManipStart {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,13 +8,8 @@
 ```csharp
 public bool FreezeDistance
 ```
-```vb
-Public FreezeDistance As Boolean
-```
-```cpp
-public:
-bool FreezeDistance
-```
+
+
 
 
 #### Значение поля

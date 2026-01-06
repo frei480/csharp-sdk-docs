@@ -11,18 +11,8 @@
 ```csharp
 public PiecewiseRepresentation Representation { get; set; }
 ```
-```vb
-Public Property Representation As PiecewiseRepresentation
-	Get
-	Set
-```
-```cpp
-public:
-property PiecewiseRepresentation Representation {
-	PiecewiseRepresentation get ();
-	void set (PiecewiseRepresentation value);
-}
-```
+
+
 
 
 #### Значение свойства

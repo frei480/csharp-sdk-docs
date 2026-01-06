@@ -13,17 +13,8 @@ public Point PointToClient(
 	Point screenPoint
 )
 ```
-```vb
-Public Function PointToClient ( 
-	screenPoint As Point
-) As Point
-```
-```cpp
-public:
-Point PointToClient(
-	Point screenPoint
-)
-```
+
+
 
 
 #### Параметры

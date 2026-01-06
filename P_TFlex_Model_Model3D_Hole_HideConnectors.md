@@ -11,18 +11,8 @@
 ```csharp
 public bool HideConnectors { get; set; }
 ```
-```vb
-Public Property HideConnectors As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool HideConnectors {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,15 +15,8 @@ public abstract class SortedCollection<T> : ICollection<T>,
 	IReadOnlyList<T>
 
 ```
-```vb
-Public MustInherit Class SortedCollection(Of T)
-	Implements ICollection(Of T), IReadOnlyList(Of T)
-```
-```cpp
-generic<typename T>
-public ref class SortedCollection abstract : ICollection<T>, 
-	IReadOnlyList<T>
-```
+
+
 
 
 #### Параметры типа

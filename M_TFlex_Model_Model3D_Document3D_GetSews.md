@@ -13,19 +13,8 @@ public static ICollection<Sew> GetSews(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetSews ( 
-	document As Document
-) As ICollection(Of Sew)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Sew^>^ GetSews(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

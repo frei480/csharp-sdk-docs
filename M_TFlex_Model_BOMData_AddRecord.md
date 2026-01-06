@@ -8,13 +8,8 @@
 ```csharp
 public BOMRecord AddRecord()
 ```
-```vb
-Public Function AddRecord As BOMRecord
-```
-```cpp
-public:
-BOMRecord^ AddRecord()
-```
+
+
 
 
 #### Возвращаемое значение

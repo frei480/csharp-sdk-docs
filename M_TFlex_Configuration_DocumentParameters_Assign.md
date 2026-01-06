@@ -10,17 +10,8 @@ public void Assign(
 	DocumentParameters source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As DocumentParameters
-)
-```
-```cpp
-public:
-void Assign(
-	DocumentParameters^ source
-)
-```
+
+
 
 
 #### Параметры

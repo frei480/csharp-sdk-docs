@@ -13,13 +13,8 @@
 ```csharp
 public class WorkplaneCommandEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class WorkplaneCommandEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class WorkplaneCommandEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип WorkplaneCommandEventArgs предоставляет следующие члены.

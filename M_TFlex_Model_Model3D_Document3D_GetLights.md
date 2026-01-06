@@ -13,19 +13,8 @@ public static ICollection<Light> GetLights(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetLights ( 
-	document As Document
-) As ICollection(Of Light)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Light^>^ GetLights(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

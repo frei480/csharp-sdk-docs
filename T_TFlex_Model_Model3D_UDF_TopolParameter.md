@@ -13,13 +13,8 @@
 ```csharp
 public sealed class TopolParameter : UDFBaseParameter
 ```
-```vb
-Public NotInheritable Class TopolParameter
-	Inherits UDFBaseParameter
-```
-```cpp
-public ref class TopolParameter sealed : public UDFBaseParameter
-```
+
+
 
 
 Тип UDFTopolParameter предоставляет следующие члены.

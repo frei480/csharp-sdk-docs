@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Copeck { get; }
 ```
-```vb
-Public Shared ReadOnly Property Copeck As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Copeck {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public virtual ModelObject CreateObject(
 	IntPtr pTFObject
 )
 ```
-```vb
-Public Overridable Function CreateObject ( 
-	pTFObject As IntPtr
-) As ModelObject
-```
-```cpp
-public:
-virtual ModelObject^ CreateObject(
-	IntPtr pTFObject
-)
-```
+
+
 
 
 #### Параметры

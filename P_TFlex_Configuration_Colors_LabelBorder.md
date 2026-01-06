@@ -8,18 +8,8 @@
 ```csharp
 public int LabelBorder { get; set; }
 ```
-```vb
-Public Property LabelBorder As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int LabelBorder {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

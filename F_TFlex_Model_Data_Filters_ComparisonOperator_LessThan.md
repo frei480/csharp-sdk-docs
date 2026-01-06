@@ -11,13 +11,8 @@
 ```csharp
 public static readonly ComparisonOperator LessThan
 ```
-```vb
-Public Shared ReadOnly LessThan As ComparisonOperator
-```
-```cpp
-public:
-static initonly ComparisonOperator^ LessThan
-```
+
+
 
 
 #### Значение поля

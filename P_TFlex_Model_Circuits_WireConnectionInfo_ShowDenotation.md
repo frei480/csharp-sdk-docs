@@ -11,18 +11,8 @@
 ```csharp
 public bool ShowDenotation { get; set; }
 ```
-```vb
-Public Property ShowDenotation As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowDenotation {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ElectricalConductivity
 ```
-```vb
-Public NotInheritable Class ElectricalConductivity
-```
-```cpp
-public ref class ElectricalConductivity sealed
-```
+
+
 
 
 Тип StandardUnitsElectricalConductivity предоставляет следующие члены.

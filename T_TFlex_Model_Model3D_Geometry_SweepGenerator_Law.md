@@ -13,12 +13,8 @@
 ```csharp
 public class Law
 ```
-```vb
-Public Class Law
-```
-```cpp
-public ref class Law
-```
+
+
 
 
 Тип SweepGeneratorLaw предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public void DeactivateWorkplane()
 ```
-```vb
-Public Sub DeactivateWorkplane
-```
-```cpp
-public:
-void DeactivateWorkplane()
-```
+
+
 
 
 #### Ссылки

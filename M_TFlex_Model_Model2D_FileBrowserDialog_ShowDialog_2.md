@@ -12,21 +12,8 @@ public DialogResult ShowDialog(
 	Rect popupMenuExclusionRect
 )
 ```
-```vb
-Public Function ShowDialog ( 
-	parentWindow As IntPtr,
-	popupMenuPosition As Point,
-	popupMenuExclusionRect As Rect
-) As DialogResult
-```
-```cpp
-public:
-DialogResult ShowDialog(
-	IntPtr parentWindow, 
-	Point popupMenuPosition, 
-	Rect popupMenuExclusionRect
-)
-```
+
+
 
 
 #### Параметры

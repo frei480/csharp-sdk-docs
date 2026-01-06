@@ -13,17 +13,8 @@ public ModelObjectGroupGroupItem FindItem(
 	ModelObjectGroup group
 )
 ```
-```vb
-Public Function FindItem ( 
-	group As ModelObjectGroup
-) As ModelObjectGroupGroupItem
-```
-```cpp
-public:
-ModelObjectGroupGroupItem^ FindItem(
-	ModelObjectGroup^ group
-)
-```
+
+
 
 
 #### Параметры

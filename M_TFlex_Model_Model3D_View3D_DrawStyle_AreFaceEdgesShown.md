@@ -11,13 +11,8 @@
 ```csharp
 public bool AreFaceEdgesShown()
 ```
-```vb
-Public Function AreFaceEdgesShown As Boolean
-```
-```cpp
-public:
-bool AreFaceEdgesShown()
-```
+
+
 
 
 #### Возвращаемое значение

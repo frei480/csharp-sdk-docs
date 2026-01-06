@@ -11,13 +11,8 @@
 ```csharp
 protected Dragger()
 ```
-```vb
-Protected Sub New
-```
-```cpp
-protected:
-Dragger()
-```
+
+
 
 
 #### Ссылки

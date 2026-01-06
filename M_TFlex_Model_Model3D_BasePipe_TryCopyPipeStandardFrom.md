@@ -13,17 +13,8 @@ public bool TryCopyPipeStandardFrom(
 	BasePipe source
 )
 ```
-```vb
-Public Function TryCopyPipeStandardFrom ( 
-	source As BasePipe
-) As Boolean
-```
-```cpp
-public:
-bool TryCopyPipeStandardFrom(
-	BasePipe^ source
-)
-```
+
+
 
 
 #### Параметры

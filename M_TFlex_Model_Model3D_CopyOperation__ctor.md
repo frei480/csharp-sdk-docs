@@ -16,19 +16,8 @@ public CopyOperation(
 	Document Doc
 )
 ```
-```vb
-<ObsoleteAttribute("You should not create CopyOperation objects in new code. Please, use class CopyOperation2 instead.")>
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-[ObsoleteAttribute(L"You should not create CopyOperation objects in new code. Please, use class CopyOperation2 instead.")]
-CopyOperation(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

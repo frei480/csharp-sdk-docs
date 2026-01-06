@@ -8,18 +8,8 @@
 ```csharp
 public int MaxPickObjectCount { get; set; }
 ```
-```vb
-Public Property MaxPickObjectCount As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int MaxPickObjectCount {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

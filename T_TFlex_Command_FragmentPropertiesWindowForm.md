@@ -11,13 +11,8 @@
 ```csharp
 public class FragmentPropertiesWindowForm : PropertiesWindowForm
 ```
-```vb
-Public Class FragmentPropertiesWindowForm
-	Inherits PropertiesWindowForm
-```
-```cpp
-public ref class FragmentPropertiesWindowForm : public PropertiesWindowForm
-```
+
+
 
 
 Тип FragmentPropertiesWindowForm предоставляет следующие члены.

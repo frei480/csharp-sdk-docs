@@ -8,12 +8,8 @@
 ```csharp
 public enum ClipPlaneColor
 ```
-```vb
-Public Enumeration ClipPlaneColor
-```
-```cpp
-public enum class ClipPlaneColor
-```
+
+
 
 
 | Имя члена | Значение | Описание |

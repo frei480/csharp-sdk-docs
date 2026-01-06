@@ -15,21 +15,8 @@ public void Append(
 	Plugin plugin
 )
 ```
-```vb
-Public Sub Append ( 
-	command As Integer,
-	caption As String,
-	plugin As Plugin
-)
-```
-```cpp
-public:
-void Append(
-	int command, 
-	String^ caption, 
-	Plugin^ plugin
-)
-```
+
+
 
 
 #### Параметры

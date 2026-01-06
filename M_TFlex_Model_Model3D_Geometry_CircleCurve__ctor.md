@@ -16,23 +16,8 @@ public CircleCurve(
 	Direction semiaxis
 )
 ```
-```vb
-Public Sub New ( 
-	radius As Double,
-	center As Point3D,
-	normal As Direction,
-	semiaxis As Direction
-)
-```
-```cpp
-public:
-CircleCurve(
-	double radius, 
-	Point3D^ center, 
-	Direction^ normal, 
-	Direction^ semiaxis
-)
-```
+
+
 
 
 #### Параметры

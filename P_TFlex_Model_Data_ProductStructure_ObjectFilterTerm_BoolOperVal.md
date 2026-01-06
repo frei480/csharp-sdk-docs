@@ -8,18 +8,8 @@
 ```csharp
 public BoolOper BoolOperVal { get; set; }
 ```
-```vb
-Public Property BoolOperVal As BoolOper
-	Get
-	Set
-```
-```cpp
-public:
-property BoolOper BoolOperVal {
-	BoolOper get ();
-	void set (BoolOper value);
-}
-```
+
+
 
 
 #### Значение свойства

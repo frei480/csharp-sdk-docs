@@ -13,17 +13,8 @@ public Formlimits(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-Formlimits(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

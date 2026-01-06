@@ -11,16 +11,8 @@
 ```csharp
 public ArrowViewSymbolAttachmentType AttachmentType { get; }
 ```
-```vb
-Public ReadOnly Property AttachmentType As ArrowViewSymbolAttachmentType
-	Get
-```
-```cpp
-public:
-property ArrowViewSymbolAttachmentType AttachmentType {
-	ArrowViewSymbolAttachmentType get ();
-}
-```
+
+
 
 
 #### Значение свойства

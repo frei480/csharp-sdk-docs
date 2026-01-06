@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Accuracy { get; set; }
 ```
-```vb
-Public Property Accuracy As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Accuracy {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public List<FixingVector> GetConnectors()
 ```
-```vb
-Public Function GetConnectors As List(Of FixingVector)
-```
-```cpp
-public:
-List<FixingVector^>^ GetConnectors()
-```
+
+
 
 
 #### Возвращаемое значение

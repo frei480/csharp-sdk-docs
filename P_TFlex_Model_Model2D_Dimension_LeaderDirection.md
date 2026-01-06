@@ -11,18 +11,8 @@
 ```csharp
 public DimensionLeaderDirection LeaderDirection { get; set; }
 ```
-```vb
-Public Property LeaderDirection As DimensionLeaderDirection
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionLeaderDirection LeaderDirection {
-	DimensionLeaderDirection get ();
-	void set (DimensionLeaderDirection value);
-}
-```
+
+
 
 
 #### Значение свойства

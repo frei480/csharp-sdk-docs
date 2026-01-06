@@ -13,12 +13,8 @@
 ```csharp
 public sealed class MomentOfInertia
 ```
-```vb
-Public NotInheritable Class MomentOfInertia
-```
-```cpp
-public ref class MomentOfInertia sealed
-```
+
+
 
 
 Тип StandardUnitsMomentOfInertia предоставляет следующие члены.

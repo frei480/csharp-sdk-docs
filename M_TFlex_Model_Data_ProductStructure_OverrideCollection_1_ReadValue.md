@@ -10,17 +10,8 @@ protected abstract T ReadValue(
 	XmlElement element
 )
 ```
-```vb
-Protected MustOverride Function ReadValue ( 
-	element As XmlElement
-) As T
-```
-```cpp
-protected:
-virtual T ReadValue(
-	XmlElement^ element
-) abstract
-```
+
+
 
 
 #### Параметры

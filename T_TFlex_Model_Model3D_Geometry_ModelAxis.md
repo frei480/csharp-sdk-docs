@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ModelAxis : BaseAxis
 ```
-```vb
-Public NotInheritable Class ModelAxis
-	Inherits BaseAxis
-```
-```cpp
-public ref class ModelAxis sealed : public BaseAxis
-```
+
+
 
 
 Тип ModelAxis предоставляет следующие члены.

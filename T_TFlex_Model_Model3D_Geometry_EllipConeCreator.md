@@ -11,12 +11,8 @@
 ```csharp
 public class EllipConeCreator
 ```
-```vb
-Public Class EllipConeCreator
-```
-```cpp
-public ref class EllipConeCreator
-```
+
+
 
 
 Тип EllipConeCreator предоставляет следующие члены.

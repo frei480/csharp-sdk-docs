@@ -11,18 +11,8 @@
 ```csharp
 public string PdmParameterFormat { get; set; }
 ```
-```vb
-Public Property PdmParameterFormat As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ PdmParameterFormat {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public HorizontalToolBarPosition SplitViewToolBar { get; set; }
 ```
-```vb
-Public Property SplitViewToolBar As HorizontalToolBarPosition
-	Get
-	Set
-```
-```cpp
-public:
-property HorizontalToolBarPosition SplitViewToolBar {
-	HorizontalToolBarPosition get ();
-	void set (HorizontalToolBarPosition value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public enum MovingDirectionType
 ```
-```vb
-Public Enumeration MovingDirectionType
-```
-```cpp
-public enum class MovingDirectionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

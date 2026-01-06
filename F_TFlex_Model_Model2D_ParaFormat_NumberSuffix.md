@@ -11,13 +11,8 @@
 ```csharp
 public string NumberSuffix
 ```
-```vb
-Public NumberSuffix As String
-```
-```cpp
-public:
-String^ NumberSuffix
-```
+
+
 
 
 #### Значение поля

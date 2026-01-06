@@ -13,17 +13,8 @@ protected virtual void CopyPropertiesCommandEventHandler(
 	CopyPropertiesCommandEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub CopyPropertiesCommandEventHandler ( 
-	args As CopyPropertiesCommandEventArgs
-)
-```
-```cpp
-protected:
-virtual void CopyPropertiesCommandEventHandler(
-	CopyPropertiesCommandEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

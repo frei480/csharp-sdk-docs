@@ -13,17 +13,8 @@ public bool DeleteRow(
 	int index
 )
 ```
-```vb
-Public Function DeleteRow ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool DeleteRow(
-	int index
-)
-```
+
+
 
 
 #### Параметры

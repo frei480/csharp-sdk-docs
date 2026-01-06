@@ -15,21 +15,8 @@ public ModelObject Select(
 	double maxdist
 )
 ```
-```vb
-Public Function Select ( 
-	point As Point,
-	filter As SelectionFilter,
-	maxdist As Double
-) As ModelObject
-```
-```cpp
-public:
-ModelObject^ Select(
-	Point point, 
-	SelectionFilter^ filter, 
-	double maxdist
-)
-```
+
+
 
 
 #### Параметры

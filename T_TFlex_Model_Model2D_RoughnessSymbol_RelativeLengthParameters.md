@@ -13,12 +13,8 @@
 ```csharp
 public struct RelativeLengthParameters
 ```
-```vb
-Public Structure RelativeLengthParameters
-```
-```cpp
-public value class RelativeLengthParameters
-```
+
+
 
 
 Тип RoughnessSymbolRelativeLengthParameters предоставляет следующие члены.

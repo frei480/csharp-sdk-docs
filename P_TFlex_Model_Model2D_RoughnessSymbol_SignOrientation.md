@@ -11,18 +11,8 @@
 ```csharp
 public int SignOrientation { get; set; }
 ```
-```vb
-Public Property SignOrientation As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SignOrientation {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

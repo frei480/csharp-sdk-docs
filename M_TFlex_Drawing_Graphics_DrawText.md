@@ -14,19 +14,8 @@ public void DrawText(
 	string text
 )
 ```
-```vb
-Public Sub DrawText ( 
-	point As Point,
-	text As String
-)
-```
-```cpp
-public:
-void DrawText(
-	Point point, 
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

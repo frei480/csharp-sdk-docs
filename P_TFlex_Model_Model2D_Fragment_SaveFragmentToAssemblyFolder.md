@@ -11,18 +11,8 @@ Cохранять файл фрагмента в папку сборки
 ```csharp
 public bool SaveFragmentToAssemblyFolder { get; set; }
 ```
-```vb
-Public Property SaveFragmentToAssemblyFolder As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SaveFragmentToAssemblyFolder {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

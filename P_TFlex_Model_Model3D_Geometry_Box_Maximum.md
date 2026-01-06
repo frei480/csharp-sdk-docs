@@ -11,18 +11,8 @@
 ```csharp
 public override BasePoint3D Maximum { get; set; }
 ```
-```vb
-Public Overrides Property Maximum As BasePoint3D
-	Get
-	Set
-```
-```cpp
-public:
-virtual property BasePoint3D^ Maximum {
-	BasePoint3D^ get () override;
-	void set (BasePoint3D^ value) override;
-}
-```
+
+
 
 
 #### Значение свойства

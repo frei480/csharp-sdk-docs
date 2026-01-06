@@ -11,18 +11,8 @@
 ```csharp
 public bool PropagateFlag { get; set; }
 ```
-```vb
-Public Property PropagateFlag As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool PropagateFlag {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

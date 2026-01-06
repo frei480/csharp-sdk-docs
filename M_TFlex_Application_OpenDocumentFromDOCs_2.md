@@ -19,25 +19,8 @@ public static Document OpenDocumentFromDOCs(
 	bool visible
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. T-FLEX DOCs 11 no longer supported.", 
-	true)>
-Public Shared Function OpenDocumentFromDOCs ( 
-	id As Integer,
-	forView As Boolean,
-	visible As Boolean
-) As Document
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. T-FLEX DOCs 11 no longer supported.", 
-	true)]
-static Document^ OpenDocumentFromDOCs(
-	int id, 
-	bool forView, 
-	bool visible
-)
-```
+
+
 
 
 #### Параметры

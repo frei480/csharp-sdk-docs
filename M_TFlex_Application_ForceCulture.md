@@ -11,13 +11,8 @@
 ```csharp
 public static IDisposable ForceCulture()
 ```
-```vb
-Public Shared Function ForceCulture As IDisposable
-```
-```cpp
-public:
-static IDisposable^ ForceCulture()
-```
+
+
 
 
 #### Возвращаемое значение

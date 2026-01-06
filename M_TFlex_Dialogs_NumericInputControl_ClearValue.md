@@ -11,13 +11,8 @@
 ```csharp
 public void ClearValue()
 ```
-```vb
-Public Sub ClearValue
-```
-```cpp
-public:
-void ClearValue()
-```
+
+
 
 
 #### Ссылки

@@ -11,18 +11,8 @@
 ```csharp
 public bool PierceSmoothingSurfaces { get; set; }
 ```
-```vb
-Public Property PierceSmoothingSurfaces As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool PierceSmoothingSurfaces {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

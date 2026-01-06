@@ -13,17 +13,8 @@ public static void InitializeCustomLicense(
 	uint license
 )
 ```
-```vb
-Public Shared Sub InitializeCustomLicense ( 
-	license As UInteger
-)
-```
-```cpp
-public:
-static void InitializeCustomLicense(
-	unsigned int license
-)
-```
+
+
 
 
 #### Параметры

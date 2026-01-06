@@ -11,18 +11,8 @@
 ```csharp
 public Parameter HiddenLineColor { get; set; }
 ```
-```vb
-Public Property HiddenLineColor As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ HiddenLineColor {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,14 +14,8 @@
 public abstract class BaseFaces : IEnumerator, 
 	IEnumerable, IDisposable
 ```
-```vb
-Public MustInherit Class BaseFaces
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class BaseFaces abstract : IEnumerator, 
-	IEnumerable, IDisposable
-```
+
+
 
 
 Тип BaseFaces предоставляет следующие члены.

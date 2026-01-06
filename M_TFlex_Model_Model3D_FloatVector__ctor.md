@@ -15,21 +15,8 @@ public FloatVector(
 	float i_z
 )
 ```
-```vb
-Public Sub New ( 
-	i_x As Single,
-	i_y As Single,
-	i_z As Single
-)
-```
-```cpp
-public:
-FloatVector(
-	float i_x, 
-	float i_y, 
-	float i_z
-)
-```
+
+
 
 
 #### Параметры

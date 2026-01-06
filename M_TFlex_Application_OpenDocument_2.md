@@ -15,21 +15,8 @@ public static Document OpenDocument(
 	bool readOnly
 )
 ```
-```vb
-Public Shared Function OpenDocument ( 
-	fileName As String,
-	visible As Boolean,
-	readOnly As Boolean
-) As Document
-```
-```cpp
-public:
-static Document^ OpenDocument(
-	String^ fileName, 
-	bool visible, 
-	bool readOnly
-)
-```
+
+
 
 
 #### Параметры

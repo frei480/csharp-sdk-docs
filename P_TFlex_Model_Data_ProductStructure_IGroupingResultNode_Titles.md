@@ -8,15 +8,8 @@
 ```csharp
 ReadOnlyCollection<string> Titles { get; }
 ```
-```vb
-ReadOnly Property Titles As ReadOnlyCollection(Of String)
-	Get
-```
-```cpp
-property ReadOnlyCollection<String^>^ Titles {
-	ReadOnlyCollection<String^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

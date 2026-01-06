@@ -11,16 +11,8 @@
 ```csharp
 public abstract BaseVertices Vertices { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property Vertices As BaseVertices
-	Get
-```
-```cpp
-public:
-virtual property BaseVertices^ Vertices {
-	BaseVertices^ get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

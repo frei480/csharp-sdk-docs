@@ -14,19 +14,8 @@ public void SetProperty(
 	Parameter parameter
 )
 ```
-```vb
-Public Sub SetProperty ( 
-	prop As MaterialParametersPhysicalProperty,
-	parameter As Parameter
-)
-```
-```cpp
-public:
-void SetProperty(
-	MaterialParametersPhysicalProperty prop, 
-	Parameter^ parameter
-)
-```
+
+
 
 
 #### Параметры

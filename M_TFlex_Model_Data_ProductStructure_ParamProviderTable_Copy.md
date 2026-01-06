@@ -8,13 +8,8 @@
 ```csharp
 public ParamProviderTable Copy()
 ```
-```vb
-Public Function Copy As ParamProviderTable
-```
-```cpp
-public:
-ParamProviderTable^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

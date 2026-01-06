@@ -11,13 +11,8 @@
 ```csharp
 public ElementInfo()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ElementInfo()
-```
+
+
 
 
 #### Ссылки

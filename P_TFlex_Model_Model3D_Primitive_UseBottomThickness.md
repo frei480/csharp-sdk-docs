@@ -11,18 +11,8 @@
 ```csharp
 public bool UseBottomThickness { get; set; }
 ```
-```vb
-Public Property UseBottomThickness As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseBottomThickness {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

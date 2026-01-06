@@ -11,13 +11,8 @@
 ```csharp
 protected IntPtr m_Handle
 ```
-```vb
-Protected m_Handle As IntPtr
-```
-```cpp
-protected:
-IntPtr m_Handle
-```
+
+
 
 
 #### Значение поля

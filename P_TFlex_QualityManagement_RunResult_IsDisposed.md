@@ -8,16 +8,8 @@
 ```csharp
 public virtual bool IsDisposed { get; }
 ```
-```vb
-Public Overridable ReadOnly Property IsDisposed As Boolean
-	Get
-```
-```cpp
-public:
-virtual property bool IsDisposed {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public void Insert3DFragment(
 	string path
 )
 ```
-```vb
-Public Sub Insert3DFragment ( 
-	path As String
-)
-```
-```cpp
-public:
-void Insert3DFragment(
-	String^ path
-)
-```
+
+
 
 
 #### Параметры

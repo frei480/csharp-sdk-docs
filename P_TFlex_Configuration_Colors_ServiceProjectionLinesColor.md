@@ -8,18 +8,8 @@
 ```csharp
 public int ServiceProjectionLinesColor { get; set; }
 ```
-```vb
-Public Property ServiceProjectionLinesColor As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int ServiceProjectionLinesColor {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

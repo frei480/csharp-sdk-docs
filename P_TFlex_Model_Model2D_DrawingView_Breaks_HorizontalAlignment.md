@@ -11,18 +11,8 @@
 ```csharp
 public DrawingViewBreakPositionsAlignment HorizontalAlignment { get; set; }
 ```
-```vb
-Public Property HorizontalAlignment As DrawingViewBreakPositionsAlignment
-	Get
-	Set
-```
-```cpp
-public:
-property DrawingViewBreakPositionsAlignment HorizontalAlignment {
-	DrawingViewBreakPositionsAlignment get ();
-	void set (DrawingViewBreakPositionsAlignment value);
-}
-```
+
+
 
 
 #### Значение свойства

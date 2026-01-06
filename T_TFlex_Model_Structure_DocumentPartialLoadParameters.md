@@ -11,13 +11,8 @@
 ```csharp
 public sealed class DocumentPartialLoadParameters : BasePartialLoadParameters
 ```
-```vb
-Public NotInheritable Class DocumentPartialLoadParameters
-	Inherits BasePartialLoadParameters
-```
-```cpp
-public ref class DocumentPartialLoadParameters sealed : public BasePartialLoadParameters
-```
+
+
 
 
 Тип DocumentPartialLoadParameters предоставляет следующие члены.

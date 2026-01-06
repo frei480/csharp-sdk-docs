@@ -8,13 +8,8 @@
 ```csharp
 protected abstract int Format()
 ```
-```vb
-Protected MustOverride Function Format As Integer
-```
-```cpp
-protected:
-virtual int Format() abstract
-```
+
+
 
 
 #### Возвращаемое значение

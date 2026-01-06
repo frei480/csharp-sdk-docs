@@ -13,17 +13,8 @@ public virtual void SetViewPoint(
 	ControlViewPoint point
 )
 ```
-```vb
-Public Overridable Sub SetViewPoint ( 
-	point As ControlViewPoint
-)
-```
-```cpp
-public:
-virtual void SetViewPoint(
-	ControlViewPoint point
-)
-```
+
+
 
 
 #### Параметры

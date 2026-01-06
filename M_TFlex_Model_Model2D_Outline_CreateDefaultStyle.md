@@ -10,17 +10,8 @@ protected void CreateDefaultStyle(
 	Document doc
 )
 ```
-```vb
-Protected Sub CreateDefaultStyle ( 
-	doc As Document
-)
-```
-```cpp
-protected:
-void CreateDefaultStyle(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

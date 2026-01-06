@@ -8,13 +8,8 @@
 ```csharp
 public bool TableOnly
 ```
-```vb
-Public TableOnly As Boolean
-```
-```cpp
-public:
-bool TableOnly
-```
+
+
 
 
 #### Значение поля

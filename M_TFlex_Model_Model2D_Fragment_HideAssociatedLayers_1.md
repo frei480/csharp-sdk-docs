@@ -13,17 +13,8 @@ public void HideAssociatedLayers(
 	Document document
 )
 ```
-```vb
-Public Sub HideAssociatedLayers ( 
-	document As Document
-)
-```
-```cpp
-public:
-void HideAssociatedLayers(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

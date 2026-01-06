@@ -8,13 +8,8 @@
 ```csharp
 public Imprint AddImprintOperation()
 ```
-```vb
-Public Function AddImprintOperation As Imprint
-```
-```cpp
-public:
-Imprint^ AddImprintOperation()
-```
+
+
 
 
 #### Возвращаемое значение

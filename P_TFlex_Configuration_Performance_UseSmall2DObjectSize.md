@@ -8,18 +8,8 @@
 ```csharp
 public bool UseSmall2DObjectSize { get; set; }
 ```
-```vb
-Public Property UseSmall2DObjectSize As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseSmall2DObjectSize {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

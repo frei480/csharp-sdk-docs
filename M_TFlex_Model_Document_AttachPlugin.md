@@ -13,17 +13,8 @@ public void AttachPlugin(
 	Plugin plugin
 )
 ```
-```vb
-Public Sub AttachPlugin ( 
-	plugin As Plugin
-)
-```
-```cpp
-public:
-void AttachPlugin(
-	Plugin^ plugin
-)
-```
+
+
 
 
 #### Параметры

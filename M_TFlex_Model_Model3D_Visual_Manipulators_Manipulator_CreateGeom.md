@@ -8,13 +8,8 @@
 ```csharp
 protected virtual void CreateGeom()
 ```
-```vb
-Protected Overridable Sub CreateGeom
-```
-```cpp
-protected:
-virtual void CreateGeom()
-```
+
+
 
 
 #### Ссылки

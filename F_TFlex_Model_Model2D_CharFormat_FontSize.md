@@ -11,13 +11,8 @@
 ```csharp
 public double FontSize
 ```
-```vb
-Public FontSize As Double
-```
-```cpp
-public:
-double FontSize
-```
+
+
 
 
 #### Значение поля

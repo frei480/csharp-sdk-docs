@@ -11,13 +11,8 @@
 ```csharp
 public void Activate()
 ```
-```vb
-Public Sub Activate
-```
-```cpp
-public:
-void Activate()
-```
+
+
 
 
 #### Ссылки

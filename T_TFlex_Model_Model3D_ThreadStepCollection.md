@@ -14,14 +14,8 @@
 public class ThreadStepCollection : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ThreadStepCollection
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ThreadStepCollection : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип ThreadStepCollection предоставляет следующие члены.

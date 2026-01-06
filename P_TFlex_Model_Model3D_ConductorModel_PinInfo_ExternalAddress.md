@@ -8,18 +8,8 @@
 ```csharp
 public string ExternalAddress { get; set; }
 ```
-```vb
-Public Property ExternalAddress As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ExternalAddress {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

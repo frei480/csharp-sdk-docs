@@ -8,13 +8,8 @@
 ```csharp
 protected virtual Object GetValue()
 ```
-```vb
-Protected Overridable Function GetValue As Object
-```
-```cpp
-protected:
-virtual Object^ GetValue()
-```
+
+
 
 
 #### Возвращаемое значение

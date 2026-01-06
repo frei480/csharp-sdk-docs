@@ -11,13 +11,8 @@
 ```csharp
 public void PasteProperties()
 ```
-```vb
-Public Sub PasteProperties
-```
-```cpp
-public:
-void PasteProperties()
-```
+
+
 
 
 #### Ссылки

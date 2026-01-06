@@ -11,12 +11,8 @@
 ```csharp
 public enum RangePointGeometryParameters
 ```
-```vb
-Public Enumeration RangePointGeometryParameters
-```
-```cpp
-public enum class RangePointGeometryParameters
-```
+
+
 
 
 | Имя члена | Значение | Описание |

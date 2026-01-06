@@ -10,20 +10,8 @@ public PathBy2DElemsSegmentsSetSegment this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As Integer
-) As PathBy2DElemsSegmentsSetSegment
-	Get
-	Set
-```
-```cpp
-public:
-property PathBy2DElemsSegmentsSetSegment^ default[int index] {
-	PathBy2DElemsSegmentsSetSegment^ get (int index);
-	void set (int index, PathBy2DElemsSegmentsSetSegment^ value);
-}
-```
+
+
 
 
 #### Параметры

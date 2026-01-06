@@ -11,18 +11,8 @@
 ```csharp
 public Parameter AxisLineScale { get; set; }
 ```
-```vb
-Public Property AxisLineScale As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ AxisLineScale {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

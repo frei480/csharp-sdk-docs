@@ -13,13 +13,8 @@
 ```csharp
 public sealed class View2D : View
 ```
-```vb
-Public NotInheritable Class View2D
-	Inherits View
-```
-```cpp
-public ref class View2D sealed : public View
-```
+
+
 
 
 Тип View2D предоставляет следующие члены.

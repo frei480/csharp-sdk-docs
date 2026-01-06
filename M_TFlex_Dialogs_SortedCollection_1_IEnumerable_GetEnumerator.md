@@ -8,13 +8,8 @@
 ```csharp
 internal virtual IEnumerator IEnumerable_GetEnumerator()
 ```
-```vb
-Friend Overridable Function IEnumerable_GetEnumerator As IEnumerator
-```
-```cpp
-internal:
-virtual IEnumerator^ IEnumerable_GetEnumerator()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,16 +8,8 @@
 ```csharp
 public HoleHoleTypeClass HoleType { get; }
 ```
-```vb
-Public ReadOnly Property HoleType As HoleHoleTypeClass
-	Get
-```
-```cpp
-public:
-property HoleHoleTypeClass HoleType {
-	HoleHoleTypeClass get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void SetDegree(
 	int value
 )
 ```
-```vb
-Public Sub SetDegree ( 
-	value As Integer
-)
-```
-```cpp
-public:
-void SetDegree(
-	int value
-)
-```
+
+
 
 
 #### Параметры

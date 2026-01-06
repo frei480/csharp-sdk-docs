@@ -10,17 +10,8 @@ public void RemoveParameters(
 	List<uint> parameters
 )
 ```
-```vb
-Public Sub RemoveParameters ( 
-	parameters As List(Of UInteger)
-)
-```
-```cpp
-public:
-void RemoveParameters(
-	List<unsigned int>^ parameters
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public TangentToSurfaceWorkplane(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-TangentToSurfaceWorkplane(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -13,12 +13,8 @@
 ```csharp
 public sealed class CustomBOMItem
 ```
-```vb
-Public NotInheritable Class CustomBOMItem
-```
-```cpp
-public ref class CustomBOMItem sealed
-```
+
+
 
 
 Тип CustomBOMItem предоставляет следующие члены.

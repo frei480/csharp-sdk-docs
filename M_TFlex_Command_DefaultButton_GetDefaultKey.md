@@ -13,17 +13,8 @@ public static KeyCode GetDefaultKey(
 	DefaultButtonKind kind
 )
 ```
-```vb
-Public Shared Function GetDefaultKey ( 
-	kind As DefaultButtonKind
-) As KeyCode
-```
-```cpp
-public:
-static KeyCode GetDefaultKey(
-	DefaultButtonKind kind
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public SweptSurface(
 	SweptData data
 )
 ```
-```vb
-Public Sub New ( 
-	data As SweptData
-)
-```
-```cpp
-public:
-SweptSurface(
-	SweptData^ data
-)
-```
+
+
 
 
 #### Параметры

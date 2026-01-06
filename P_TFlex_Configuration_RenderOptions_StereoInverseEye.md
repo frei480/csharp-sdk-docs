@@ -8,18 +8,8 @@
 ```csharp
 public bool StereoInverseEye { get; set; }
 ```
-```vb
-Public Property StereoInverseEye As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool StereoInverseEye {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

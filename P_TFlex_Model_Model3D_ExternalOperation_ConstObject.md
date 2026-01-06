@@ -11,16 +11,8 @@
 ```csharp
 public ProxyOperation ConstObject { get; }
 ```
-```vb
-Public ReadOnly Property ConstObject As ProxyOperation
-	Get
-```
-```cpp
-public:
-property ProxyOperation^ ConstObject {
-	ProxyOperation^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

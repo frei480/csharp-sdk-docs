@@ -17,25 +17,8 @@ public EllipseCurve(
 	Direction semiaxis
 )
 ```
-```vb
-Public Sub New ( 
-	minorradius As Double,
-	majorradius As Double,
-	center As Point3D,
-	normal As Direction,
-	semiaxis As Direction
-)
-```
-```cpp
-public:
-EllipseCurve(
-	double minorradius, 
-	double majorradius, 
-	Point3D^ center, 
-	Direction^ normal, 
-	Direction^ semiaxis
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public void AddLinkedObject(
 	LinkedObjectInfo obj
 )
 ```
-```vb
-Public Sub AddLinkedObject ( 
-	obj As LinkedObjectInfo
-)
-```
-```cpp
-public:
-void AddLinkedObject(
-	LinkedObjectInfo^ obj
-)
-```
+
+
 
 
 #### Параметры

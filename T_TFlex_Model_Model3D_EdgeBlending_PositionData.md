@@ -13,12 +13,8 @@
 ```csharp
 public class PositionData
 ```
-```vb
-Public Class PositionData
-```
-```cpp
-public ref class PositionData
-```
+
+
 
 
 Тип EdgeBlendingPositionData предоставляет следующие члены.

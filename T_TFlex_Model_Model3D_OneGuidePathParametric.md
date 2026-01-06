@@ -13,13 +13,8 @@
 ```csharp
 public sealed class OneGuidePathParametric : GuidePathParametric
 ```
-```vb
-Public NotInheritable Class OneGuidePathParametric
-	Inherits GuidePathParametric
-```
-```cpp
-public ref class OneGuidePathParametric sealed : public GuidePathParametric
-```
+
+
 
 
 Тип OneGuidePathParametric предоставляет следующие члены.

@@ -13,12 +13,8 @@
 ```csharp
 public sealed class EnergyDensity
 ```
-```vb
-Public NotInheritable Class EnergyDensity
-```
-```cpp
-public ref class EnergyDensity sealed
-```
+
+
 
 
 Тип StandardUnitsEnergyDensity предоставляет следующие члены.

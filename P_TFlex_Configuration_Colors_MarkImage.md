@@ -8,18 +8,8 @@
 ```csharp
 public int MarkImage { get; set; }
 ```
-```vb
-Public Property MarkImage As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int MarkImage {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

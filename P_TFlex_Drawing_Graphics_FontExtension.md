@@ -11,18 +11,8 @@
 ```csharp
 public double FontExtension { get; set; }
 ```
-```vb
-Public Property FontExtension As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double FontExtension {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

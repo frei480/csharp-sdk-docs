@@ -8,18 +8,8 @@
 ```csharp
 public TerminalPoint Start { get; set; }
 ```
-```vb
-Public Property Start As TerminalPoint
-	Get
-	Set
-```
-```cpp
-public:
-property TerminalPoint^ Start {
-	TerminalPoint^ get ();
-	void set (TerminalPoint^ value);
-}
-```
+
+
 
 
 #### Значение свойства

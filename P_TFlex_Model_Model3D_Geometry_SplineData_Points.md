@@ -11,16 +11,8 @@
 ```csharp
 public SplineDataControlPoints Points { get; }
 ```
-```vb
-Public ReadOnly Property Points As SplineDataControlPoints
-	Get
-```
-```cpp
-public:
-property SplineDataControlPoints^ Points {
-	SplineDataControlPoints^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

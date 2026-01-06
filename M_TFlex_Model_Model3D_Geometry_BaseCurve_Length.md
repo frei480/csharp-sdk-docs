@@ -13,17 +13,8 @@ public double Length(
 	BaseInterval interval
 )
 ```
-```vb
-Public Function Length ( 
-	interval As BaseInterval
-) As Double
-```
-```cpp
-public:
-double Length(
-	BaseInterval^ interval
-)
-```
+
+
 
 
 #### Параметры

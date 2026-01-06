@@ -11,13 +11,8 @@
 ```csharp
 public void Clear()
 ```
-```vb
-Public Sub Clear
-```
-```cpp
-public:
-void Clear()
-```
+
+
 
 
 #### Ссылки

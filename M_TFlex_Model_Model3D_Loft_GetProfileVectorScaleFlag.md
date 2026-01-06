@@ -13,17 +13,8 @@ public bool GetProfileVectorScaleFlag(
 	int profileIndex
 )
 ```
-```vb
-Public Function GetProfileVectorScaleFlag ( 
-	profileIndex As Integer
-) As Boolean
-```
-```cpp
-public:
-bool GetProfileVectorScaleFlag(
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

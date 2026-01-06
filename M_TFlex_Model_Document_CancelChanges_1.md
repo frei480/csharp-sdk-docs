@@ -13,17 +13,8 @@ public void CancelChanges(
 	bool regenerate
 )
 ```
-```vb
-Public Sub CancelChanges ( 
-	regenerate As Boolean
-)
-```
-```cpp
-public:
-void CancelChanges(
-	bool regenerate
-)
-```
+
+
 
 
 #### Параметры

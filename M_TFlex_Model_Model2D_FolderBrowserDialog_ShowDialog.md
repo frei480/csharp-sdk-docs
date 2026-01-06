@@ -12,15 +12,8 @@
 [ObsoleteAttribute("Use ShowDialog(System.IntPtr)")]
 public DialogResult ShowDialog()
 ```
-```vb
-<ObsoleteAttribute("Use ShowDialog(System.IntPtr)")>
-Public Function ShowDialog As DialogResult
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Use ShowDialog(System.IntPtr)")]
-DialogResult ShowDialog()
-```
+
+
 
 
 #### Возвращаемое значение

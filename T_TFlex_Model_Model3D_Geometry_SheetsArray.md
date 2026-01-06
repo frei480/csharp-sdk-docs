@@ -13,13 +13,8 @@
 ```csharp
 public sealed class SheetsArray : GeometricArray
 ```
-```vb
-Public NotInheritable Class SheetsArray
-	Inherits GeometricArray
-```
-```cpp
-public ref class SheetsArray sealed : public GeometricArray
-```
+
+
 
 
 Тип SheetsArray предоставляет следующие члены.

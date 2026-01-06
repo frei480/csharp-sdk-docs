@@ -11,12 +11,8 @@
 ```csharp
 public enum FaceCurveIntersectionType
 ```
-```vb
-Public Enumeration FaceCurveIntersectionType
-```
-```cpp
-public enum class FaceCurveIntersectionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

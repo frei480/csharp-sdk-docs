@@ -11,16 +11,8 @@
 ```csharp
 public override LoftPointType Type { get; }
 ```
-```vb
-Public Overrides ReadOnly Property Type As LoftPointType
-	Get
-```
-```cpp
-public:
-virtual property LoftPointType Type {
-	LoftPointType get () override;
-}
-```
+
+
 
 
 #### Значение свойства

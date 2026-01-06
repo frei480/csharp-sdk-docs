@@ -8,13 +8,8 @@
 ```csharp
 public float Near
 ```
-```vb
-Public Near As Single
-```
-```cpp
-public:
-float Near
-```
+
+
 
 
 #### Значение поля

@@ -11,13 +11,8 @@
 ```csharp
 public bool IsIntegratedPosition()
 ```
-```vb
-Public Function IsIntegratedPosition As Boolean
-```
-```cpp
-public:
-bool IsIntegratedPosition()
-```
+
+
 
 
 #### Возвращаемое значение

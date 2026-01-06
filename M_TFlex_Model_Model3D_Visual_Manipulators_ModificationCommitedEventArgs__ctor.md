@@ -11,13 +11,8 @@
 ```csharp
 public ModificationCommitedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ModificationCommitedEventArgs()
-```
+
+
 
 
 #### Ссылки

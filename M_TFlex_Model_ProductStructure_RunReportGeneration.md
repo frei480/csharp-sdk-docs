@@ -14,19 +14,8 @@ public void RunReportGeneration(
 	ProductStructureReportOptions options
 )
 ```
-```vb
-Public Sub RunReportGeneration ( 
-	reportID As Guid,
-	options As ProductStructureReportOptions
-)
-```
-```cpp
-public:
-void RunReportGeneration(
-	Guid reportID, 
-	ProductStructureReportOptions^ options
-)
-```
+
+
 
 
 #### Параметры

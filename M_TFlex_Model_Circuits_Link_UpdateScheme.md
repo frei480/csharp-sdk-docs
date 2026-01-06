@@ -13,23 +13,8 @@ public static void UpdateScheme(
 	Dictionary<Page, Page> pages
 )
 ```
-```vb
-Public Shared Sub UpdateScheme ( 
-	targetDocument As Document,
-	links As Dictionary(Of LinkBase, LinkBase),
-	connectors As Dictionary(Of ModelObject, ModelObject),
-	pages As Dictionary(Of Page, Page)
-)
-```
-```cpp
-public:
-static void UpdateScheme(
-	Document^ targetDocument, 
-	Dictionary<LinkBase^, LinkBase^>^ links, 
-	Dictionary<ModelObject^, ModelObject^>^ connectors, 
-	Dictionary<Page^, Page^>^ pages
-)
-```
+
+
 
 
 #### Параметры

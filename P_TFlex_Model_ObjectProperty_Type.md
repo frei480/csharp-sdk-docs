@@ -11,16 +11,8 @@
 ```csharp
 public ObjectPropertyType Type { get; }
 ```
-```vb
-Public ReadOnly Property Type As ObjectPropertyType
-	Get
-```
-```cpp
-public:
-property ObjectPropertyType Type {
-	ObjectPropertyType get ();
-}
-```
+
+
 
 
 #### Значение свойства

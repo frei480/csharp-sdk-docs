@@ -8,18 +8,8 @@
 ```csharp
 public bool fEmptyRecordToBegin { get; set; }
 ```
-```vb
-Public Property fEmptyRecordToBegin As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool fEmptyRecordToBegin {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

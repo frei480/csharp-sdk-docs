@@ -8,18 +8,8 @@
 ```csharp
 public bool OnlyVisibleColumns { get; set; }
 ```
-```vb
-Public Property OnlyVisibleColumns As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OnlyVisibleColumns {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

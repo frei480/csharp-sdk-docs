@@ -13,17 +13,8 @@ protected virtual double GetRealProp(
 	string name
 )
 ```
-```vb
-Protected Overridable Function GetRealProp ( 
-	name As String
-) As Double
-```
-```cpp
-protected:
-virtual double GetRealProp(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

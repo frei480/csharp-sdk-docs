@@ -10,17 +10,8 @@ public void Assign(
 	PageFragments source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As PageFragments
-)
-```
-```cpp
-public:
-void Assign(
-	PageFragments^ source
-)
-```
+
+
 
 
 #### Параметры

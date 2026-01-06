@@ -8,13 +8,8 @@
 ```csharp
 public void RemoveEmptyConductors()
 ```
-```vb
-Public Sub RemoveEmptyConductors
-```
-```cpp
-public:
-void RemoveEmptyConductors()
-```
+
+
 
 
 #### Ссылки

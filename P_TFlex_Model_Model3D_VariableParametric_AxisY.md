@@ -11,16 +11,8 @@
 ```csharp
 public VariableParametricCoords AxisY { get; }
 ```
-```vb
-Public ReadOnly Property AxisY As VariableParametricCoords
-	Get
-```
-```cpp
-public:
-property VariableParametricCoords^ AxisY {
-	VariableParametricCoords^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public Parameter TangentFirstPoint { get; set; }
 ```
-```vb
-Public Property TangentFirstPoint As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ TangentFirstPoint {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public List<MessagesBarButton> Buttons { get; set; }
 ```
-```vb
-Public Property Buttons As List(Of MessagesBarButton)
-	Get
-	Set
-```
-```cpp
-public:
-property List<MessagesBarButton^>^ Buttons {
-	List<MessagesBarButton^>^ get ();
-	void set (List<MessagesBarButton^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public ExportVariables(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportVariables(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

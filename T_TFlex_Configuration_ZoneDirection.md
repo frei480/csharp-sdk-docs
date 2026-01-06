@@ -11,13 +11,8 @@
 ```csharp
 public class ZoneDirection : SettingsGroup
 ```
-```vb
-Public Class ZoneDirection
-	Inherits SettingsGroup
-```
-```cpp
-public ref class ZoneDirection : public SettingsGroup
-```
+
+
 
 
 Тип ZoneDirection предоставляет следующие члены.

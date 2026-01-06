@@ -13,17 +13,8 @@ public Imprint(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-Imprint(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

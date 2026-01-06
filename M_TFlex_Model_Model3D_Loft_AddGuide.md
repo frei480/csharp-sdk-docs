@@ -13,17 +13,8 @@ public void AddGuide(
 	ModelContour contour
 )
 ```
-```vb
-Public Sub AddGuide ( 
-	contour As ModelContour
-)
-```
-```cpp
-public:
-void AddGuide(
-	ModelContour^ contour
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public string Synonym { get; set; }
 ```
-```vb
-Public Property Synonym As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Synonym {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

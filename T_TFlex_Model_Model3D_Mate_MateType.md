@@ -8,12 +8,8 @@
 ```csharp
 public enum MateType
 ```
-```vb
-Public Enumeration MateType
-```
-```cpp
-public enum class MateType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,17 +13,8 @@ protected virtual void AlterColorButtonPressedHandler(
 	AlterColorButtonPressedEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub AlterColorButtonPressedHandler ( 
-	args As AlterColorButtonPressedEventArgs
-)
-```
-```cpp
-protected:
-virtual void AlterColorButtonPressedHandler(
-	AlterColorButtonPressedEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

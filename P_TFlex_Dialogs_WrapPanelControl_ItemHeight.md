@@ -11,18 +11,8 @@
 ```csharp
 public double ItemHeight { get; set; }
 ```
-```vb
-Public Property ItemHeight As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double ItemHeight {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

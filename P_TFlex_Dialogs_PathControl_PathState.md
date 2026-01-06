@@ -11,16 +11,8 @@
 ```csharp
 public PathControlState PathState { get; }
 ```
-```vb
-Public ReadOnly Property PathState As PathControlState
-	Get
-```
-```cpp
-public:
-property PathControlState PathState {
-	PathControlState get ();
-}
-```
+
+
 
 
 #### Значение свойства

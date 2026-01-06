@@ -11,19 +11,8 @@ public static bool operator !=(
 	CellInfo right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As CellInfo,
-	right As CellInfo
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	CellInfo^ left, 
-	CellInfo^ right
-)
-```
+
+
 
 
 #### Параметры

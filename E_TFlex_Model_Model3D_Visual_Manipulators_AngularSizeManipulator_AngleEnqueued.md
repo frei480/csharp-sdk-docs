@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<AngularSizeManipulatorAngleEnqueuedEventArgs> AngleEnqueued
 ```
-```vb
-Public Event AngleEnqueued As EventHandler(Of AngularSizeManipulatorAngleEnqueuedEventArgs)
-```
-```cpp
-public:
- event EventHandler<AngularSizeManipulatorAngleEnqueuedEventArgs^>^ AngleEnqueued {
-	void add (EventHandler<AngularSizeManipulatorAngleEnqueuedEventArgs^>^ value);
-	void remove (EventHandler<AngularSizeManipulatorAngleEnqueuedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

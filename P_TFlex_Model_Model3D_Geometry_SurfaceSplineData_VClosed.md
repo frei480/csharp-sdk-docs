@@ -11,18 +11,8 @@
 ```csharp
 public bool VClosed { get; set; }
 ```
-```vb
-Public Property VClosed As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool VClosed {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

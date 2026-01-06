@@ -13,13 +13,8 @@
 ```csharp
 public class CopyNode : Node
 ```
-```vb
-Public Class CopyNode
-	Inherits Node
-```
-```cpp
-public ref class CopyNode : public Node
-```
+
+
 
 
 Тип CopyNode предоставляет следующие члены.

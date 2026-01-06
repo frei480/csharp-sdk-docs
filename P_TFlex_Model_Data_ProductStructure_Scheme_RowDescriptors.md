@@ -8,16 +8,8 @@
 ```csharp
 public ObservableCollection<RowDescriptor> RowDescriptors { get; }
 ```
-```vb
-Public ReadOnly Property RowDescriptors As ObservableCollection(Of RowDescriptor)
-	Get
-```
-```cpp
-public:
-property ObservableCollection<RowDescriptor^>^ RowDescriptors {
-	ObservableCollection<RowDescriptor^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

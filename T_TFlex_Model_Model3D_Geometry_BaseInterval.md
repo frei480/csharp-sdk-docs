@@ -13,13 +13,8 @@
 ```csharp
 public class BaseInterval : IDisposable
 ```
-```vb
-Public Class BaseInterval
-	Implements IDisposable
-```
-```cpp
-public ref class BaseInterval : IDisposable
-```
+
+
 
 
 Тип BaseInterval предоставляет следующие члены.

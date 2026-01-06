@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Topol : BaseTopol
 ```
-```vb
-Public MustInherit Class Topol
-	Inherits BaseTopol
-```
-```cpp
-public ref class Topol abstract : public BaseTopol
-```
+
+
 
 
 Тип Topol предоставляет следующие члены.

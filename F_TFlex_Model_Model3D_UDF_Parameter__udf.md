@@ -8,13 +8,8 @@
 ```csharp
 protected UDF _udf
 ```
-```vb
-Protected _udf As UDF
-```
-```cpp
-protected:
-UDF^ _udf
-```
+
+
 
 
 #### Значение поля

@@ -10,17 +10,8 @@ public static Scheme LoadSchemeFromString(
 	string sScheme
 )
 ```
-```vb
-Public Shared Function LoadSchemeFromString ( 
-	sScheme As String
-) As Scheme
-```
-```cpp
-public:
-static Scheme^ LoadSchemeFromString(
-	String^ sScheme
-)
-```
+
+
 
 
 #### Параметры

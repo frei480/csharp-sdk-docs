@@ -11,13 +11,8 @@
 ```csharp
 public SceneNode()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SceneNode()
-```
+
+
 
 
 #### Ссылки

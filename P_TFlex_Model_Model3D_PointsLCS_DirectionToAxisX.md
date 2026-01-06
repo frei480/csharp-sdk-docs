@@ -11,18 +11,8 @@
 ```csharp
 public ModelDirection DirectionToAxisX { get; set; }
 ```
-```vb
-Public Property DirectionToAxisX As ModelDirection
-	Get
-	Set
-```
-```cpp
-public:
-property ModelDirection^ DirectionToAxisX {
-	ModelDirection^ get ();
-	void set (ModelDirection^ value);
-}
-```
+
+
 
 
 #### Значение свойства

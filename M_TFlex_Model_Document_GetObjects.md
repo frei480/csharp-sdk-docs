@@ -11,13 +11,8 @@
 ```csharp
 public ICollection<ModelObject> GetObjects()
 ```
-```vb
-Public Function GetObjects As ICollection(Of ModelObject)
-```
-```cpp
-public:
-ICollection<ModelObject^>^ GetObjects()
-```
+
+
 
 
 #### Возвращаемое значение

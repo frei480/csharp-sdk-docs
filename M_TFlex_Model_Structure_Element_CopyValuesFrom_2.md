@@ -10,17 +10,8 @@ public void CopyValuesFrom(
 	PrototypeCopyValuesParameters parameters
 )
 ```
-```vb
-Public Sub CopyValuesFrom ( 
-	parameters As PrototypeCopyValuesParameters
-)
-```
-```cpp
-public:
-void CopyValuesFrom(
-	PrototypeCopyValuesParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

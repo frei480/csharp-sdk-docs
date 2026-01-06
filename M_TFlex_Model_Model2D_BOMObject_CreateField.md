@@ -14,19 +14,8 @@ public void CreateField(
 	BOMObjectFieldType type
 )
 ```
-```vb
-Public Sub CreateField ( 
-	name As String,
-	type As BOMObjectFieldType
-)
-```
-```cpp
-public:
-void CreateField(
-	String^ name, 
-	BOMObjectFieldType type
-)
-```
+
+
 
 
 #### Параметры

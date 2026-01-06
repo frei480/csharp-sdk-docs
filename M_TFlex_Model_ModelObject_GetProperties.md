@@ -11,13 +11,8 @@
 ```csharp
 public ObjectProperty[] GetProperties()
 ```
-```vb
-Public Function GetProperties As ObjectProperty()
-```
-```cpp
-public:
-array<ObjectProperty^>^ GetProperties()
-```
+
+
 
 
 #### Возвращаемое значение

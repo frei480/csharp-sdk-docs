@@ -14,18 +14,8 @@
 [ObsoleteAttribute("The property is obsolete. Use Transformations instead.")]
 public TransformationContainer ConstTransformations { get; }
 ```
-```vb
-<ObsoleteAttribute("The property is obsolete. Use Transformations instead.")>
-Public ReadOnly Property ConstTransformations As TransformationContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"The property is obsolete. Use Transformations instead.")]
-property TransformationContainer^ ConstTransformations {
-	TransformationContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

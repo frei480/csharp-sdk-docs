@@ -17,25 +17,8 @@ public void SetTwoConstructions(
 	AnglePosition position
 )
 ```
-```vb
-Public Sub SetTwoConstructions ( 
-	line1 As Construction,
-	node1 As Node,
-	line2 As Construction,
-	node2 As Node,
-	position As AnglePosition
-)
-```
-```cpp
-public:
-void SetTwoConstructions(
-	Construction^ line1, 
-	Node^ node1, 
-	Construction^ line2, 
-	Node^ node2, 
-	AnglePosition position
-)
-```
+
+
 
 
 #### Параметры

@@ -10,20 +10,8 @@ protected Operation this[
 	int index
 ] { get; set; }
 ```
-```vb
-Protected Default Property Item ( 
-	index As Integer
-) As Operation
-	Get
-	Set
-```
-```cpp
-protected:
-property Operation^ default[int index] {
-	Operation^ get (int index);
-	void set (int index, Operation^ value);
-}
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Size { get; set; }
 ```
-```vb
-Public Property Size As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Size {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

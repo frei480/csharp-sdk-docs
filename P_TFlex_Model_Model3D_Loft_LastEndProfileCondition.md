@@ -11,18 +11,8 @@
 ```csharp
 public LoftEndProfileCondition LastEndProfileCondition { get; set; }
 ```
-```vb
-Public Property LastEndProfileCondition As LoftEndProfileCondition
-	Get
-	Set
-```
-```cpp
-public:
-property LoftEndProfileCondition^ LastEndProfileCondition {
-	LoftEndProfileCondition^ get ();
-	void set (LoftEndProfileCondition^ value);
-}
-```
+
+
 
 
 #### Значение свойства

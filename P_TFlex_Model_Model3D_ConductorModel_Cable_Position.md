@@ -8,16 +8,8 @@
 ```csharp
 public int Position { get; }
 ```
-```vb
-Public ReadOnly Property Position As Integer
-	Get
-```
-```cpp
-public:
-property int Position {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

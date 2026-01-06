@@ -11,13 +11,8 @@
 ```csharp
 public FragVarParameterProvider()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FragVarParameterProvider()
-```
+
+
 
 
 #### Ссылки

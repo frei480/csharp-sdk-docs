@@ -11,18 +11,8 @@
 ```csharp
 public ThreadStandard Standard { get; set; }
 ```
-```vb
-Public Property Standard As ThreadStandard
-	Get
-	Set
-```
-```cpp
-public:
-property ThreadStandard^ Standard {
-	ThreadStandard^ get ();
-	void set (ThreadStandard^ value);
-}
-```
+
+
 
 
 #### Значение свойства

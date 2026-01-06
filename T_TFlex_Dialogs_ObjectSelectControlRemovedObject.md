@@ -13,12 +13,8 @@
 ```csharp
 public struct ObjectSelectControlRemovedObject
 ```
-```vb
-Public Structure ObjectSelectControlRemovedObject
-```
-```cpp
-public value class ObjectSelectControlRemovedObject
-```
+
+
 
 
 Тип ObjectSelectControlRemovedObject предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public string FitLetters { get; set; }
 ```
-```vb
-Public Property FitLetters As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ FitLetters {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

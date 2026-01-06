@@ -11,16 +11,8 @@
 ```csharp
 public WiresArray TwistPath { get; }
 ```
-```vb
-Public ReadOnly Property TwistPath As WiresArray
-	Get
-```
-```cpp
-public:
-property WiresArray^ TwistPath {
-	WiresArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

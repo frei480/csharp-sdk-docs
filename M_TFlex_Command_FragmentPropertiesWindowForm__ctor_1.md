@@ -14,19 +14,8 @@ public FragmentPropertiesWindowForm(
 	bool hideParametersList
 )
 ```
-```vb
-Public Sub New ( 
-	fragment As ModelObject,
-	hideParametersList As Boolean
-)
-```
-```cpp
-public:
-FragmentPropertiesWindowForm(
-	ModelObject^ fragment, 
-	bool hideParametersList
-)
-```
+
+
 
 
 #### Параметры

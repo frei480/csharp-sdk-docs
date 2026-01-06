@@ -11,16 +11,8 @@
 ```csharp
 public Point3D Coord2 { get; }
 ```
-```vb
-Public ReadOnly Property Coord2 As Point3D
-	Get
-```
-```cpp
-public:
-property Point3D^ Coord2 {
-	Point3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

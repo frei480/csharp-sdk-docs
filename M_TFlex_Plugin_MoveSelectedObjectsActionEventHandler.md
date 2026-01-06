@@ -11,17 +11,8 @@ protected virtual void MoveSelectedObjectsActionEventHandler(
 	MoveSelectedObjectsEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub MoveSelectedObjectsActionEventHandler ( 
-	args As MoveSelectedObjectsEventArgs
-)
-```
-```cpp
-protected:
-virtual void MoveSelectedObjectsActionEventHandler(
-	MoveSelectedObjectsEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

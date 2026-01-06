@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ThreadLineWidth { get; set; }
 ```
-```vb
-Public Property ThreadLineWidth As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ThreadLineWidth {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,21 +15,8 @@ public DecorationLine(
 	FloatVector endPoint
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	startPoint As FloatVector,
-	endPoint As FloatVector
-)
-```
-```cpp
-public:
-DecorationLine(
-	String^ name, 
-	FloatVector startPoint, 
-	FloatVector endPoint
-)
-```
+
+
 
 
 #### Параметры

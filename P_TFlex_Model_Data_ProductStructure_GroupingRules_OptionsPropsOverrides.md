@@ -8,16 +8,8 @@
 ```csharp
 public OptionsPropertiesOverrides OptionsPropsOverrides { get; }
 ```
-```vb
-Public ReadOnly Property OptionsPropsOverrides As OptionsPropertiesOverrides
-	Get
-```
-```cpp
-public:
-property OptionsPropertiesOverrides^ OptionsPropsOverrides {
-	OptionsPropertiesOverrides^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

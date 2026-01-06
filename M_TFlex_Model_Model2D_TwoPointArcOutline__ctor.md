@@ -16,23 +16,8 @@ public TwoPointArcOutline(
 	double radius
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	startNode As Node,
-	endNode As Node,
-	radius As Double
-)
-```
-```cpp
-public:
-TwoPointArcOutline(
-	Document^ document, 
-	Node^ startNode, 
-	Node^ endNode, 
-	double radius
-)
-```
+
+
 
 
 #### Параметры

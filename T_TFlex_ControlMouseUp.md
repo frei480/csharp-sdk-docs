@@ -14,18 +14,8 @@ public delegate void ControlMouseUp(
 	ControlEventArgs e
 )
 ```
-```vb
-Public Delegate Sub ControlMouseUp ( 
-	sender As Object,
-	e As ControlEventArgs
-)
-```
-```cpp
-public delegate void ControlMouseUp(
-	Object^ sender, 
-	ControlEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

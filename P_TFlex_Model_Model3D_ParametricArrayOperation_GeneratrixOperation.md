@@ -11,18 +11,8 @@
 ```csharp
 public Operation GeneratrixOperation { get; set; }
 ```
-```vb
-Public Property GeneratrixOperation As Operation
-	Get
-	Set
-```
-```cpp
-public:
-property Operation^ GeneratrixOperation {
-	Operation^ get ();
-	void set (Operation^ value);
-}
-```
+
+
 
 
 #### Значение свойства

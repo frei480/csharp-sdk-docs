@@ -11,16 +11,8 @@
 ```csharp
 public event KeyEventHandler KeyPressed
 ```
-```vb
-Public Event KeyPressed As KeyEventHandler
-```
-```cpp
-public:
- event KeyEventHandler^ KeyPressed {
-	void add (KeyEventHandler^ value);
-	void remove (KeyEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

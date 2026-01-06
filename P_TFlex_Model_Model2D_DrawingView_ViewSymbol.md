@@ -11,18 +11,8 @@
 ```csharp
 public SimpleViewSymbol ViewSymbol { get; set; }
 ```
-```vb
-Public Property ViewSymbol As SimpleViewSymbol
-	Get
-	Set
-```
-```cpp
-public:
-property SimpleViewSymbol^ ViewSymbol {
-	SimpleViewSymbol^ get ();
-	void set (SimpleViewSymbol^ value);
-}
-```
+
+
 
 
 #### Значение свойства

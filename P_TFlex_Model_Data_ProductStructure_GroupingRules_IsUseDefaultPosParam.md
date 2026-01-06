@@ -8,18 +8,8 @@
 ```csharp
 public bool IsUseDefaultPosParam { get; set; }
 ```
-```vb
-Public Property IsUseDefaultPosParam As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsUseDefaultPosParam {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

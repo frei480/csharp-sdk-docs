@@ -15,17 +15,8 @@ public sealed class TermGroup : TermGroupItem,
 	IList<TermGroupItem>, ICollection<TermGroupItem>, IEnumerable<TermGroupItem>, 
 	IEnumerable
 ```
-```vb
-Public NotInheritable Class TermGroup
-	Inherits TermGroupItem
-	Implements IList(Of TermGroupItem), ICollection(Of TermGroupItem), 
-	IEnumerable(Of TermGroupItem), IEnumerable
-```
-```cpp
-public ref class TermGroup sealed : public TermGroupItem, 
-	IList<TermGroupItem^>, ICollection<TermGroupItem^>, IEnumerable<TermGroupItem^>, 
-	IEnumerable
-```
+
+
 
 
 Тип TermGroup предоставляет следующие члены.

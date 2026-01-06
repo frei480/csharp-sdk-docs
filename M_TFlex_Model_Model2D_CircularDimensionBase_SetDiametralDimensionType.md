@@ -11,19 +11,8 @@ protected void SetDiametralDimensionType(
 	bool is_3d
 )
 ```
-```vb
-Protected Sub SetDiametralDimensionType ( 
-	type As DiametralDimensionType,
-	is_3d As Boolean
-)
-```
-```cpp
-protected:
-void SetDiametralDimensionType(
-	DiametralDimensionType type, 
-	bool is_3d
-)
-```
+
+
 
 
 #### Параметры

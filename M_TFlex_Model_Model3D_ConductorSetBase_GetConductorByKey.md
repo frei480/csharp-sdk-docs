@@ -10,17 +10,8 @@ public Conductor GetConductorByKey(
 	Guid key
 )
 ```
-```vb
-Public Function GetConductorByKey ( 
-	key As Guid
-) As Conductor
-```
-```cpp
-public:
-Conductor^ GetConductorByKey(
-	Guid key
-)
-```
+
+
 
 
 #### Параметры

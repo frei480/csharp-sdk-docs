@@ -8,18 +8,8 @@
 ```csharp
 public bool KeepCommandRunning { get; set; }
 ```
-```vb
-Public Property KeepCommandRunning As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool KeepCommandRunning {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

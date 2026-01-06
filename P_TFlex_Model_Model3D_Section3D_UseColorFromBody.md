@@ -11,18 +11,8 @@
 ```csharp
 public bool UseColorFromBody { get; set; }
 ```
-```vb
-Public Property UseColorFromBody As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseColorFromBody {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

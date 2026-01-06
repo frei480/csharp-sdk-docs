@@ -14,21 +14,8 @@ public static void RemoveMultilineText(
 	int A_1
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub RemoveMultilineText ( 
-	A_0 As ModelObject,
-	A_1 As Integer
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void RemoveMultilineText(
-	ModelObject^ A_0, 
-	int A_1
-)
-```
+
+
 
 
 #### Параметры

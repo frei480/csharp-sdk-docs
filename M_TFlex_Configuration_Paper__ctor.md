@@ -11,13 +11,8 @@
 ```csharp
 public Paper()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Paper()
-```
+
+
 
 
 #### Ссылки

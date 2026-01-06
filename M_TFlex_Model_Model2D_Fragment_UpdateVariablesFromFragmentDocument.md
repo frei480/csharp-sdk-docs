@@ -11,13 +11,8 @@
 ```csharp
 public bool UpdateVariablesFromFragmentDocument()
 ```
-```vb
-Public Function UpdateVariablesFromFragmentDocument As Boolean
-```
-```cpp
-public:
-bool UpdateVariablesFromFragmentDocument()
-```
+
+
 
 
 #### Возвращаемое значение

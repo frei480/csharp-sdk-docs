@@ -13,17 +13,8 @@ public LinearDimension(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-LinearDimension(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

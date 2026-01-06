@@ -14,19 +14,8 @@ public CopyOperation2(
 	CopyBaseOperation2Type type
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	type As CopyBaseOperation2Type
-)
-```
-```cpp
-public:
-CopyOperation2(
-	Document^ document, 
-	CopyBaseOperation2Type type
-)
-```
+
+
 
 
 #### Параметры

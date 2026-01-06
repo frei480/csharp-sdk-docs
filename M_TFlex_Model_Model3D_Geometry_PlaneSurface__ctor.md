@@ -13,17 +13,8 @@ public PlaneSurface(
 	BasePlane plane
 )
 ```
-```vb
-Public Sub New ( 
-	plane As BasePlane
-)
-```
-```cpp
-public:
-PlaneSurface(
-	BasePlane^ plane
-)
-```
+
+
 
 
 #### Параметры

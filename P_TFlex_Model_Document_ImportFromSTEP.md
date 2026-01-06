@@ -11,16 +11,8 @@
 ```csharp
 public ImportFromSTEP ImportFromSTEP { get; }
 ```
-```vb
-Public ReadOnly Property ImportFromSTEP As ImportFromSTEP
-	Get
-```
-```cpp
-public:
-property ImportFromSTEP^ ImportFromSTEP {
-	ImportFromSTEP^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

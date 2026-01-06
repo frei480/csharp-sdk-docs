@@ -11,13 +11,8 @@
 ```csharp
 public PendingGeometryChangedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PendingGeometryChangedEventArgs()
-```
+
+
 
 
 #### Ссылки

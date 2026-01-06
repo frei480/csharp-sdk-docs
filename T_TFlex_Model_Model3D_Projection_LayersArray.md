@@ -14,14 +14,8 @@
 public class LayersArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class LayersArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class LayersArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип ProjectionLayersArray предоставляет следующие члены.

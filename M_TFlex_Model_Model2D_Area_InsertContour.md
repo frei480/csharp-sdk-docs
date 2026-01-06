@@ -13,17 +13,8 @@ public Contour InsertContour(
 	int index
 )
 ```
-```vb
-Public Function InsertContour ( 
-	index As Integer
-) As Contour
-```
-```cpp
-public:
-Contour^ InsertContour(
-	int index
-)
-```
+
+
 
 
 #### Параметры

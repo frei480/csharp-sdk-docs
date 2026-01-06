@@ -15,21 +15,8 @@ public GridControl(
 	int columnCount
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	rowCount As Integer,
-	columnCount As Integer
-)
-```
-```cpp
-public:
-GridControl(
-	String^ id, 
-	int rowCount, 
-	int columnCount
-)
-```
+
+
 
 
 #### Параметры

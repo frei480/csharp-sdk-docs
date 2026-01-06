@@ -11,18 +11,8 @@
 ```csharp
 public bool UniteInGroup { get; set; }
 ```
-```vb
-Public Property UniteInGroup As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UniteInGroup {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

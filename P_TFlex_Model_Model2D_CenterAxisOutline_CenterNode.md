@@ -11,18 +11,8 @@
 ```csharp
 public Node CenterNode { get; set; }
 ```
-```vb
-Public Property CenterNode As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ CenterNode {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

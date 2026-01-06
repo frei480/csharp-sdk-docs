@@ -11,18 +11,8 @@
 ```csharp
 public virtual ComparisonOperator Operator { get; set; }
 ```
-```vb
-Public Overridable Property Operator As ComparisonOperator
-	Get
-	Set
-```
-```cpp
-public:
-virtual property ComparisonOperator^ Operator {
-	ComparisonOperator^ get ();
-	void set (ComparisonOperator^ value);
-}
-```
+
+
 
 
 #### Значение свойства

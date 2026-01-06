@@ -13,17 +13,8 @@ public void RemoveAllEventHandlers(
 	bool recursive
 )
 ```
-```vb
-Public Sub RemoveAllEventHandlers ( 
-	recursive As Boolean
-)
-```
-```cpp
-public:
-void RemoveAllEventHandlers(
-	bool recursive
-)
-```
+
+
 
 
 #### Параметры

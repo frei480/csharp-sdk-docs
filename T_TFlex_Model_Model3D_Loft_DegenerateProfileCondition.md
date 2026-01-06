@@ -13,12 +13,8 @@
 ```csharp
 public abstract class DegenerateProfileCondition
 ```
-```vb
-Public MustInherit Class DegenerateProfileCondition
-```
-```cpp
-public ref class DegenerateProfileCondition abstract
-```
+
+
 
 
 Тип LoftDegenerateProfileCondition предоставляет следующие члены.

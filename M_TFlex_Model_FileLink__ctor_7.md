@@ -13,17 +13,8 @@ public FileLink(
 	FileLink link
 )
 ```
-```vb
-Public Sub New ( 
-	link As FileLink
-)
-```
-```cpp
-public:
-FileLink(
-	FileLink^ link
-)
-```
+
+
 
 
 #### Параметры

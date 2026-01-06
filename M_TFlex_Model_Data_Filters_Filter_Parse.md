@@ -14,19 +14,8 @@ public static Filter Parse(
 	Term termTemplate
 )
 ```
-```vb
-Public Shared Function Parse ( 
-	str As String,
-	termTemplate As Term
-) As Filter
-```
-```cpp
-public:
-static Filter^ Parse(
-	String^ str, 
-	Term^ termTemplate
-)
-```
+
+
 
 
 #### Параметры

@@ -15,21 +15,8 @@ public abstract Object GetData(
 	ListItemRole role
 )
 ```
-```vb
-Public MustOverride Function GetData ( 
-	row As Integer,
-	column As Integer,
-	role As ListItemRole
-) As Object
-```
-```cpp
-public:
-virtual Object^ GetData(
-	int row, 
-	int column, 
-	ListItemRole role
-) abstract
-```
+
+
 
 
 #### Параметры

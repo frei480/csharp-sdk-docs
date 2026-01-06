@@ -11,13 +11,8 @@
 ```csharp
 public FirstCharacter()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FirstCharacter()
-```
+
+
 
 
 #### Ссылки

@@ -8,12 +8,8 @@
 ```csharp
 public enum GroupRulesFlags
 ```
-```vb
-Public Enumeration GroupRulesFlags
-```
-```cpp
-public enum class GroupRulesFlags
-```
+
+
 
 
 | Имя члена | Значение | Описание |

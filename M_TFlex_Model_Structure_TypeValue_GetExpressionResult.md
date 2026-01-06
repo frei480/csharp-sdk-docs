@@ -8,13 +8,8 @@
 ```csharp
 public override string GetExpressionResult()
 ```
-```vb
-Public Overrides Function GetExpressionResult As String
-```
-```cpp
-public:
-virtual String^ GetExpressionResult() override
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,16 +8,8 @@
 ```csharp
 public string Label { get; }
 ```
-```vb
-Public ReadOnly Property Label As String
-	Get
-```
-```cpp
-public:
-property String^ Label {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

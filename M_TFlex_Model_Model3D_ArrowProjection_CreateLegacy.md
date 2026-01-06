@@ -11,19 +11,8 @@ public static ArrowProjection CreateLegacy(
 	Page page
 )
 ```
-```vb
-Public Shared Function CreateLegacy ( 
-	document As Document,
-	page As Page
-) As ArrowProjection
-```
-```cpp
-public:
-static ArrowProjection^ CreateLegacy(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

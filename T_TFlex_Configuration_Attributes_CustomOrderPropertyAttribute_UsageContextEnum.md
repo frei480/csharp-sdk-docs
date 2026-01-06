@@ -8,12 +8,8 @@
 ```csharp
 public enum UsageContextEnum
 ```
-```vb
-Public Enumeration UsageContextEnum
-```
-```cpp
-public enum class UsageContextEnum
-```
+
+
 
 
 | Имя члена | Значение | Описание |

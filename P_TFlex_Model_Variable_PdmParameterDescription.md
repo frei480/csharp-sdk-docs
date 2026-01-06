@@ -11,18 +11,8 @@
 ```csharp
 public string PdmParameterDescription { get; set; }
 ```
-```vb
-Public Property PdmParameterDescription As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ PdmParameterDescription {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

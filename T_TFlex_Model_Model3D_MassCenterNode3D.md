@@ -13,13 +13,8 @@
 ```csharp
 public class MassCenterNode3D : Node3D
 ```
-```vb
-Public Class MassCenterNode3D
-	Inherits Node3D
-```
-```cpp
-public ref class MassCenterNode3D : public Node3D
-```
+
+
 
 
 Тип MassCenterNode3D предоставляет следующие члены.

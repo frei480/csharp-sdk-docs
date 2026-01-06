@@ -8,13 +8,8 @@
 ```csharp
 public double GetRotationAngleScale()
 ```
-```vb
-Public Function GetRotationAngleScale As Double
-```
-```cpp
-public:
-double GetRotationAngleScale()
-```
+
+
 
 
 #### Возвращаемое значение

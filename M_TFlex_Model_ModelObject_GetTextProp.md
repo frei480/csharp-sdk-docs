@@ -17,21 +17,8 @@ public string GetTextProp(
 	ref bool exist
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. Please use 'GetTextProperty' method.")>
-Public Function GetTextProp ( 
-	prop As String,
-	ByRef exist As Boolean
-) As String
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. Please use 'GetTextProperty' method.")]
-String^ GetTextProp(
-	String^ prop, 
-	bool% exist
-)
-```
+
+
 
 
 #### Параметры

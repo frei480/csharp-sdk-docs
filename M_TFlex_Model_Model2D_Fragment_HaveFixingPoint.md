@@ -13,17 +13,8 @@ public bool HaveFixingPoint(
 	int index
 )
 ```
-```vb
-Public Function HaveFixingPoint ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool HaveFixingPoint(
-	int index
-)
-```
+
+
 
 
 #### Параметры

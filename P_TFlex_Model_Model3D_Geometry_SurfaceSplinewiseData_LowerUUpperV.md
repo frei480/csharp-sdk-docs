@@ -11,16 +11,8 @@
 ```csharp
 public SurfaceSplinewiseDataTwist LowerUUpperV { get; }
 ```
-```vb
-Public ReadOnly Property LowerUUpperV As SurfaceSplinewiseDataTwist
-	Get
-```
-```cpp
-public:
-property SurfaceSplinewiseDataTwist^ LowerUUpperV {
-	SurfaceSplinewiseDataTwist^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

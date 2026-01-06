@@ -13,17 +13,8 @@ public static ObjectId Create(
 	ulong idData
 )
 ```
-```vb
-Public Shared Function Create ( 
-	idData As ULong
-) As ObjectId
-```
-```cpp
-public:
-static ObjectId^ Create(
-	unsigned long long idData
-)
-```
+
+
 
 
 #### Параметры

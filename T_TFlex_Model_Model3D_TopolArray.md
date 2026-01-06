@@ -13,14 +13,8 @@
 ```csharp
 public class TopolArray : IEnumerator, IEnumerable
 ```
-```vb
-Public Class TopolArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class TopolArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип TopolArray предоставляет следующие члены.

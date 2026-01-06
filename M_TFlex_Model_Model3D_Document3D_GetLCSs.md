@@ -13,19 +13,8 @@ public static ICollection<LCS> GetLCSs(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetLCSs ( 
-	document As Document
-) As ICollection(Of LCS)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<LCS^>^ GetLCSs(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

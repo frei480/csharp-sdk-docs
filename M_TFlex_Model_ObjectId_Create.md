@@ -13,17 +13,8 @@ public static ObjectId Create(
 	uint oldId
 )
 ```
-```vb
-Public Shared Function Create ( 
-	oldId As UInteger
-) As ObjectId
-```
-```cpp
-public:
-static ObjectId^ Create(
-	unsigned int oldId
-)
-```
+
+
 
 
 #### Параметры

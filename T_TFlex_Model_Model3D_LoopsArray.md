@@ -13,13 +13,8 @@
 ```csharp
 public sealed class LoopsArray : TopolArray
 ```
-```vb
-Public NotInheritable Class LoopsArray
-	Inherits TopolArray
-```
-```cpp
-public ref class LoopsArray sealed : public TopolArray
-```
+
+
 
 
 Тип LoopsArray предоставляет следующие члены.

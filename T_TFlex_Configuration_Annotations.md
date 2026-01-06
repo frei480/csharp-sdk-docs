@@ -11,13 +11,8 @@
 ```csharp
 public class Annotations : SettingsGroup
 ```
-```vb
-Public Class Annotations
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Annotations : public SettingsGroup
-```
+
+
 
 
 Тип Annotations предоставляет следующие члены.

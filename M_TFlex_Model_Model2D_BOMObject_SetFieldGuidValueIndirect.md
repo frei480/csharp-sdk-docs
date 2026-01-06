@@ -14,19 +14,8 @@ public void SetFieldGuidValueIndirect(
 	Guid value
 )
 ```
-```vb
-Public Sub SetFieldGuidValueIndirect ( 
-	fieldIndex As UInteger,
-	value As Guid
-)
-```
-```cpp
-public:
-void SetFieldGuidValueIndirect(
-	unsigned int fieldIndex, 
-	Guid value
-)
-```
+
+
 
 
 #### Параметры

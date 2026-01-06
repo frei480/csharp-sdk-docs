@@ -11,16 +11,8 @@
 ```csharp
 public int TopolCount { get; }
 ```
-```vb
-Public ReadOnly Property TopolCount As Integer
-	Get
-```
-```cpp
-public:
-property int TopolCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

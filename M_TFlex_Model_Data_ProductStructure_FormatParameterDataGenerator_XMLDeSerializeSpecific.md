@@ -10,17 +10,8 @@ protected override void XMLDeSerializeSpecific(
 	XmlElement rElement
 )
 ```
-```vb
-Protected Overrides Sub XMLDeSerializeSpecific ( 
-	rElement As XmlElement
-)
-```
-```cpp
-protected:
-virtual void XMLDeSerializeSpecific(
-	XmlElement^ rElement
-) override
-```
+
+
 
 
 #### Параметры

@@ -13,12 +13,8 @@
 ```csharp
 public sealed class CurrentDensity
 ```
-```vb
-Public NotInheritable Class CurrentDensity
-```
-```cpp
-public ref class CurrentDensity sealed
-```
+
+
 
 
 Тип StandardUnitsCurrentDensity предоставляет следующие члены.

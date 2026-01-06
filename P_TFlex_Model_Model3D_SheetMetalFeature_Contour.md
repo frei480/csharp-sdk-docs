@@ -11,18 +11,8 @@
 ```csharp
 public Profile Contour { get; set; }
 ```
-```vb
-Public Property Contour As Profile
-	Get
-	Set
-```
-```cpp
-public:
-property Profile^ Contour {
-	Profile^ get ();
-	void set (Profile^ value);
-}
-```
+
+
 
 
 #### Значение свойства

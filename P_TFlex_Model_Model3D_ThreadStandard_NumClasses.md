@@ -13,18 +13,8 @@ public int this[
 	ThreadSide side
 ] { get; }
 ```
-```vb
-Public ReadOnly Property NumClasses ( 
-	side As ThreadSide
-) As Integer
-	Get
-```
-```cpp
-public:
-property int NumClasses[ThreadSide side] {
-	int get (ThreadSide side);
-}
-```
+
+
 
 
 #### Параметры

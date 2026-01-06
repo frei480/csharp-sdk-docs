@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool MaximalValueEnabled { get; set; }
 ```
-```vb
-Public Overridable Property MaximalValueEnabled As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool MaximalValueEnabled {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

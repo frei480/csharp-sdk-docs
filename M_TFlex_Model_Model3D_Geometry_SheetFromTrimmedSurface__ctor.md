@@ -15,21 +15,8 @@ public SheetFromTrimmedSurface(
 	SheetFromTrimmedSurfaceLump[] lumps
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	surface As BaseSurface,
-	lumps As SheetFromTrimmedSurfaceLump()
-)
-```
-```cpp
-public:
-SheetFromTrimmedSurface(
-	ProxyObject3D^ object, 
-	BaseSurface^ surface, 
-	array<SheetFromTrimmedSurfaceLump^>^ lumps
-)
-```
+
+
 
 
 #### Параметры

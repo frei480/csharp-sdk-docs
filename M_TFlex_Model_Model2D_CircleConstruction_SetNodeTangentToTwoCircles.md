@@ -16,23 +16,8 @@ public void SetNodeTangentToTwoCircles(
 	int variant
 )
 ```
-```vb
-Public Sub SetNodeTangentToTwoCircles ( 
-	srcNode As Node,
-	srcCircle1 As Construction,
-	srcCircle2 As Construction,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetNodeTangentToTwoCircles(
-	Node^ srcNode, 
-	Construction^ srcCircle1, 
-	Construction^ srcCircle2, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

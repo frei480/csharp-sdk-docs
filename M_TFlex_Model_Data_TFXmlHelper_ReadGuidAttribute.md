@@ -11,21 +11,8 @@ public static Guid ReadGuidAttribute(
 	string attrName
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function ReadGuidAttribute ( 
-	element As XmlElement,
-	attrName As String
-) As Guid
-```
-```cpp
-public:
-[ExtensionAttribute]
-static Guid ReadGuidAttribute(
-	XmlElement^ element, 
-	String^ attrName
-)
-```
+
+
 
 
 #### Параметры

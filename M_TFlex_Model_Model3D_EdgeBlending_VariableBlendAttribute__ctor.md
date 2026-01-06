@@ -14,19 +14,8 @@ public VariableBlendAttribute(
 	EdgeBlendingPositionData last
 )
 ```
-```vb
-Public Sub New ( 
-	first As EdgeBlendingPositionData,
-	last As EdgeBlendingPositionData
-)
-```
-```cpp
-public:
-VariableBlendAttribute(
-	EdgeBlendingPositionData^ first, 
-	EdgeBlendingPositionData^ last
-)
-```
+
+
 
 
 #### Параметры

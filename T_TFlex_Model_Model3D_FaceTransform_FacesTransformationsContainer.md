@@ -13,12 +13,8 @@
 ```csharp
 public class FacesTransformationsContainer
 ```
-```vb
-Public Class FacesTransformationsContainer
-```
-```cpp
-public ref class FacesTransformationsContainer
-```
+
+
 
 
 Тип FaceTransformFacesTransformationsContainer предоставляет следующие члены.

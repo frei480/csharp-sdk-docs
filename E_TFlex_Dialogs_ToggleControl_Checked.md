@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<BaseEventArgs> Checked
 ```
-```vb
-Public Event Checked As EventHandler(Of BaseEventArgs)
-```
-```cpp
-public:
- event EventHandler<BaseEventArgs^>^ Checked {
-	void add (EventHandler<BaseEventArgs^>^ value);
-	void remove (EventHandler<BaseEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

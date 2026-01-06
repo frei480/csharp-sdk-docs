@@ -11,16 +11,8 @@
 ```csharp
 public IntPtr HWnd { get; }
 ```
-```vb
-Public ReadOnly Property HWnd As IntPtr
-	Get
-```
-```cpp
-public:
-property IntPtr HWnd {
-	IntPtr get ();
-}
-```
+
+
 
 
 #### Значение свойства

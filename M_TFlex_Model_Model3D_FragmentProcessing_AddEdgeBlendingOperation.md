@@ -8,13 +8,8 @@
 ```csharp
 public EdgeBlending AddEdgeBlendingOperation()
 ```
-```vb
-Public Function AddEdgeBlendingOperation As EdgeBlending
-```
-```cpp
-public:
-EdgeBlending^ AddEdgeBlendingOperation()
-```
+
+
 
 
 #### Возвращаемое значение

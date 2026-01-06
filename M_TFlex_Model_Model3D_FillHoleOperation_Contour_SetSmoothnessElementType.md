@@ -14,19 +14,8 @@ public void SetSmoothnessElementType(
 	FillHoleOperationSmoothnessType type
 )
 ```
-```vb
-Public Sub SetSmoothnessElementType ( 
-	index As Integer,
-	type As FillHoleOperationSmoothnessType
-)
-```
-```cpp
-public:
-void SetSmoothnessElementType(
-	int index, 
-	FillHoleOperationSmoothnessType type
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class AutoReplaceResourcesTypeAttribute : Attribute
 ```
-```vb
-Public Class AutoReplaceResourcesTypeAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class AutoReplaceResourcesTypeAttribute : public Attribute
-```
+
+
 
 
 Тип AutoReplaceResourcesTypeAttribute предоставляет следующие члены.

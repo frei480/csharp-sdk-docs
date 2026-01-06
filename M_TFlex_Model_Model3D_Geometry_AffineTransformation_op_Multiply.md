@@ -11,19 +11,8 @@ public static AffineTransformation operator *(
 	AffineTransformation tr2
 )
 ```
-```vb
-Public Shared Operator * ( 
-	tr1 As AffineTransformation,
-	tr2 As AffineTransformation
-) As AffineTransformation
-```
-```cpp
-public:
-static AffineTransformation^ operator *(
-	AffineTransformation^ tr1, 
-	AffineTransformation^ tr2
-)
-```
+
+
 
 
 #### Параметры

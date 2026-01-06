@@ -11,18 +11,8 @@
 ```csharp
 public Point LinkPoint { get; set; }
 ```
-```vb
-Public Property LinkPoint As Point
-	Get
-	Set
-```
-```cpp
-public:
-property Point^ LinkPoint {
-	Point^ get ();
-	void set (Point^ value);
-}
-```
+
+
 
 
 #### Значение свойства

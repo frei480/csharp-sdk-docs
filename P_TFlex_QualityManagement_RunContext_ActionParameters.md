@@ -8,16 +8,8 @@
 ```csharp
 public Parameters ActionParameters { get; }
 ```
-```vb
-Public ReadOnly Property ActionParameters As Parameters
-	Get
-```
-```cpp
-public:
-property Parameters^ ActionParameters {
-	Parameters^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

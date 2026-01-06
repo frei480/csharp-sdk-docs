@@ -11,13 +11,8 @@
 ```csharp
 public class ScalePreset : SettingsGroup
 ```
-```vb
-Public Class ScalePreset
-	Inherits SettingsGroup
-```
-```cpp
-public ref class ScalePreset : public SettingsGroup
-```
+
+
 
 
 Тип ScalePreset предоставляет следующие члены.

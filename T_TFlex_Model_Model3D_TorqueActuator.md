@@ -13,13 +13,8 @@
 ```csharp
 public class TorqueActuator : Restraint
 ```
-```vb
-Public Class TorqueActuator
-	Inherits Restraint
-```
-```cpp
-public ref class TorqueActuator : public Restraint
-```
+
+
 
 
 Тип TorqueActuator предоставляет следующие члены.

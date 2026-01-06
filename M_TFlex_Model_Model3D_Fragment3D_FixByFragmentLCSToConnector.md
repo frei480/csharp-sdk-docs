@@ -14,19 +14,8 @@ public void FixByFragmentLCSToConnector(
 	LCS targetLCS
 )
 ```
-```vb
-Public Sub FixByFragmentLCSToConnector ( 
-	sourceLCSName As String,
-	targetLCS As LCS
-)
-```
-```cpp
-public:
-void FixByFragmentLCSToConnector(
-	String^ sourceLCSName, 
-	LCS^ targetLCS
-)
-```
+
+
 
 
 #### Параметры

@@ -13,16 +13,8 @@
 ```csharp
 public static Unit MeterToTheFourthPower { get; }
 ```
-```vb
-Public Shared ReadOnly Property MeterToTheFourthPower As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ MeterToTheFourthPower {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

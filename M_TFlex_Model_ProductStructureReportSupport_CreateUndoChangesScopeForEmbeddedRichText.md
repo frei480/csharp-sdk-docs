@@ -11,19 +11,8 @@ public static ProductStructureReportSupportIEmbeddedRichTextChangesScope CreateU
 	RichText embeddedRichText
 )
 ```
-```vb
-Public Shared Function CreateUndoChangesScopeForEmbeddedRichText ( 
-	ownerRichText As RichText,
-	embeddedRichText As RichText
-) As ProductStructureReportSupportIEmbeddedRichTextChangesScope
-```
-```cpp
-public:
-static ProductStructureReportSupportIEmbeddedRichTextChangesScope^ CreateUndoChangesScopeForEmbeddedRichText(
-	RichText^ ownerRichText, 
-	RichText^ embeddedRichText
-)
-```
+
+
 
 
 #### Параметры

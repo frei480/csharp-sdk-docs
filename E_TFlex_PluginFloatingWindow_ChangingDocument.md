@@ -11,16 +11,8 @@
 ```csharp
 public event ChangingFloatingWindowDocumentEventHandler ChangingDocument
 ```
-```vb
-Public Event ChangingDocument As ChangingFloatingWindowDocumentEventHandler
-```
-```cpp
-public:
- event ChangingFloatingWindowDocumentEventHandler^ ChangingDocument {
-	void add (ChangingFloatingWindowDocumentEventHandler^ value);
-	void remove (ChangingFloatingWindowDocumentEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

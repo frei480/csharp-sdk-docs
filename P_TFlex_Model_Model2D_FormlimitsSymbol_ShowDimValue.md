@@ -11,18 +11,8 @@
 ```csharp
 public bool ShowDimValue { get; set; }
 ```
-```vb
-Public Property ShowDimValue As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowDimValue {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

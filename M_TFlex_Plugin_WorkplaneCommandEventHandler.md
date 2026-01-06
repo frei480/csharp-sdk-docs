@@ -13,17 +13,8 @@ protected virtual void WorkplaneCommandEventHandler(
 	WorkplaneCommandEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub WorkplaneCommandEventHandler ( 
-	args As WorkplaneCommandEventArgs
-)
-```
-```cpp
-protected:
-virtual void WorkplaneCommandEventHandler(
-	WorkplaneCommandEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

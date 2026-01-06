@@ -14,20 +14,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'VerticalAlignment' method.")]
 public DrawingViewBreakPositionsAlignment Alignment { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'VerticalAlignment' method.")>
-Public Property Alignment As DrawingViewBreakPositionsAlignment
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'VerticalAlignment' method.")]
-property DrawingViewBreakPositionsAlignment Alignment {
-	DrawingViewBreakPositionsAlignment get ();
-	void set (DrawingViewBreakPositionsAlignment value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public enum ConstructionDimensionType
 ```
-```vb
-Public Enumeration ConstructionDimensionType
-```
-```cpp
-public enum class ConstructionDimensionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

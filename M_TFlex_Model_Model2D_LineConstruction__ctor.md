@@ -13,17 +13,8 @@ public LineConstruction(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-LineConstruction(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

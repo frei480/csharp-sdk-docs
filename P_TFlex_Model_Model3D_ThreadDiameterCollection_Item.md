@@ -10,18 +10,8 @@ public ThreadDiameter this[
 	int index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As Integer
-) As ThreadDiameter
-	Get
-```
-```cpp
-public:
-property ThreadDiameter^ default[int index] {
-	ThreadDiameter^ get (int index);
-}
-```
+
+
 
 
 #### Параметры

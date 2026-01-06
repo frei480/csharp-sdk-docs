@@ -11,18 +11,8 @@
 ```csharp
 public bool HiddenOnFragment { get; set; }
 ```
-```vb
-Public Property HiddenOnFragment As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool HiddenOnFragment {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

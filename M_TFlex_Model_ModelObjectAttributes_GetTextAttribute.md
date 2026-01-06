@@ -13,17 +13,8 @@ public string GetTextAttribute(
 	string attribName
 )
 ```
-```vb
-Public Function GetTextAttribute ( 
-	attribName As String
-) As String
-```
-```cpp
-public:
-String^ GetTextAttribute(
-	String^ attribName
-)
-```
+
+
 
 
 #### Параметры

@@ -12,21 +12,8 @@ public void CopyValuesFrom(
 	CopyValuesMode mode
 )
 ```
-```vb
-Public Sub CopyValuesFrom ( 
-	sourceFile As SourceFile,
-	protoypeId As Guid,
-	mode As CopyValuesMode
-)
-```
-```cpp
-public:
-void CopyValuesFrom(
-	SourceFile^ sourceFile, 
-	Guid protoypeId, 
-	CopyValuesMode mode
-)
-```
+
+
 
 
 #### Параметры

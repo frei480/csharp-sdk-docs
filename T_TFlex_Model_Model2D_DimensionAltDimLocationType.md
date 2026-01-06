@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionAltDimLocationType
 ```
-```vb
-Public Enumeration DimensionAltDimLocationType
-```
-```cpp
-public enum class DimensionAltDimLocationType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

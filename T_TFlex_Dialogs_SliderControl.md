@@ -13,13 +13,8 @@
 ```csharp
 public class SliderControl : BaseControl
 ```
-```vb
-Public Class SliderControl
-	Inherits BaseControl
-```
-```cpp
-public ref class SliderControl : public BaseControl
-```
+
+
 
 
 Тип SliderControl предоставляет следующие члены.

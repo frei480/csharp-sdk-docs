@@ -8,16 +8,8 @@
 ```csharp
 public virtual ReadOnlyCollection<string> Titles { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Titles As ReadOnlyCollection(Of String)
-	Get
-```
-```cpp
-public:
-virtual property ReadOnlyCollection<String^>^ Titles {
-	ReadOnlyCollection<String^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

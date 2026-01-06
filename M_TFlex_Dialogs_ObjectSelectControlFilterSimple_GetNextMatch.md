@@ -10,17 +10,8 @@ public override sealed ObjectSelectControlGetNextMatchResult GetNextMatch(
 	ref ObjectSelectControlPlainObject oResult
 )
 ```
-```vb
-Public Overrides NotOverridable Function GetNextMatch ( 
-	ByRef oResult As ObjectSelectControlPlainObject
-) As ObjectSelectControlGetNextMatchResult
-```
-```cpp
-public:
-virtual ObjectSelectControlGetNextMatchResult GetNextMatch(
-	ObjectSelectControlPlainObject% oResult
-) override sealed
-```
+
+
 
 
 #### Параметры

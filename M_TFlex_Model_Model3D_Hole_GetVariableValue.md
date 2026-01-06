@@ -15,21 +15,8 @@ public FragmentVariableValue GetVariableValue(
 	bool forSet
 )
 ```
-```vb
-Public Function GetVariableValue ( 
-	hole As Integer,
-	name As String,
-	forSet As Boolean
-) As FragmentVariableValue
-```
-```cpp
-public:
-FragmentVariableValue^ GetVariableValue(
-	int hole, 
-	String^ name, 
-	bool forSet
-)
-```
+
+
 
 
 #### Параметры

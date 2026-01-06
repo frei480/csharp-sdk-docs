@@ -11,19 +11,8 @@ public void SetSelection(
 	IntPtr cell2Handle
 )
 ```
-```vb
-Public Sub SetSelection ( 
-	cell1Handle As IntPtr,
-	cell2Handle As IntPtr
-)
-```
-```cpp
-public:
-void SetSelection(
-	IntPtr cell1Handle, 
-	IntPtr cell2Handle
-)
-```
+
+
 
 
 #### Параметры

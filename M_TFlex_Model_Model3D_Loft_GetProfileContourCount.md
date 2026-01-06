@@ -13,17 +13,8 @@ public int GetProfileContourCount(
 	int profileIndex
 )
 ```
-```vb
-Public Function GetProfileContourCount ( 
-	profileIndex As Integer
-) As Integer
-```
-```cpp
-public:
-int GetProfileContourCount(
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

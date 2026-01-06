@@ -14,19 +14,8 @@ public StandardWorkplane(
 	double offset
 )
 ```
-```vb
-Public Sub New ( 
-	plane As Workplane,
-	offset As Double
-)
-```
-```cpp
-public:
-StandardWorkplane(
-	Workplane^ plane, 
-	double offset
-)
-```
+
+
 
 
 #### Параметры

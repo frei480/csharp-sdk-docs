@@ -10,17 +10,8 @@ public bool CanRemoveItem(
 	int index
 )
 ```
-```vb
-Public Function CanRemoveItem ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool CanRemoveItem(
-	int index
-)
-```
+
+
 
 
 #### Параметры

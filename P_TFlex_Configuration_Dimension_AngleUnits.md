@@ -8,18 +8,8 @@
 ```csharp
 public AngleDimensionUnits AngleUnits { get; set; }
 ```
-```vb
-Public Property AngleUnits As AngleDimensionUnits
-	Get
-	Set
-```
-```cpp
-public:
-property AngleDimensionUnits AngleUnits {
-	AngleDimensionUnits get ();
-	void set (AngleDimensionUnits value);
-}
-```
+
+
 
 
 #### Значение свойства

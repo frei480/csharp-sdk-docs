@@ -13,17 +13,8 @@ public void RemovePoint(
 	PipePath3DBasePoint pPoint
 )
 ```
-```vb
-Public Sub RemovePoint ( 
-	pPoint As PipePath3DBasePoint
-)
-```
-```cpp
-public:
-void RemovePoint(
-	PipePath3DBasePoint^ pPoint
-)
-```
+
+
 
 
 #### Параметры

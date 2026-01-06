@@ -14,25 +14,8 @@ public static bool RayTest(
 	ref double distance
 )
 ```
-```vb
-Public Shared Function RayTest ( 
-	operation As Operation,
-	rayOrigin As ValueType,
-	rayDir As ValueType,
-	ByRef intersection As Point3D,
-	ByRef distance As Double
-) As Boolean
-```
-```cpp
-public:
-static bool RayTest(
-	Operation^ operation, 
-	ValueType^ rayOrigin, 
-	ValueType^ rayDir, 
-	Point3D^% intersection, 
-	double% distance
-)
-```
+
+
 
 
 #### Параметры

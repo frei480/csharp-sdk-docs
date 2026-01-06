@@ -11,18 +11,8 @@
 ```csharp
 public ExportToStepProtocol Protocol { get; set; }
 ```
-```vb
-Public Property Protocol As ExportToStepProtocol
-	Get
-	Set
-```
-```cpp
-public:
-property ExportToStepProtocol Protocol {
-	ExportToStepProtocol get ();
-	void set (ExportToStepProtocol value);
-}
-```
+
+
 
 
 #### Значение свойства

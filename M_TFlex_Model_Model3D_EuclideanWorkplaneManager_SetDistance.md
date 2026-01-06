@@ -15,21 +15,8 @@ public static void SetDistance(
 	double dDistance
 )
 ```
-```vb
-Public Shared Sub SetDistance ( 
-	basePlane As Workplane,
-	moveablePlane As Workplane,
-	dDistance As Double
-)
-```
-```cpp
-public:
-static void SetDistance(
-	Workplane^ basePlane, 
-	Workplane^ moveablePlane, 
-	double dDistance
-)
-```
+
+
 
 
 #### Параметры

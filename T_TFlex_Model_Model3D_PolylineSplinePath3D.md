@@ -13,13 +13,8 @@
 ```csharp
 public class PolylineSplinePath3D : SplinePath3D
 ```
-```vb
-Public Class PolylineSplinePath3D
-	Inherits SplinePath3D
-```
-```cpp
-public ref class PolylineSplinePath3D : public SplinePath3D
-```
+
+
 
 
 Тип PolylineSplinePath3D предоставляет следующие члены.

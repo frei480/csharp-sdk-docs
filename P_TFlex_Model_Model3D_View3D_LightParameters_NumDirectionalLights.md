@@ -11,16 +11,8 @@
 ```csharp
 public int NumDirectionalLights { get; }
 ```
-```vb
-Public ReadOnly Property NumDirectionalLights As Integer
-	Get
-```
-```cpp
-public:
-property int NumDirectionalLights {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

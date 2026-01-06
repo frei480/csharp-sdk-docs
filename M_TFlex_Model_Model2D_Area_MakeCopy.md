@@ -18,27 +18,8 @@ public Area MakeCopy(
 	bool invertXaxis
 )
 ```
-```vb
-Public Function MakeCopy ( 
-	document As Document,
-	scale As Double,
-	angle As Double,
-	offsetX As Double,
-	offsetY As Double,
-	invertXaxis As Boolean
-) As Area
-```
-```cpp
-public:
-Area^ MakeCopy(
-	Document^ document, 
-	double scale, 
-	double angle, 
-	double offsetX, 
-	double offsetY, 
-	bool invertXaxis
-)
-```
+
+
 
 
 #### Параметры

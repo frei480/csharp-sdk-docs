@@ -11,16 +11,8 @@
 ```csharp
 public CopyBaseOperation2Type ObjectsType { get; }
 ```
-```vb
-Public ReadOnly Property ObjectsType As CopyBaseOperation2Type
-	Get
-```
-```cpp
-public:
-property CopyBaseOperation2Type ObjectsType {
-	CopyBaseOperation2Type get ();
-}
-```
+
+
 
 
 #### Значение свойства

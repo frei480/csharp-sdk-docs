@@ -12,15 +12,8 @@
 public class Enumerator : IEnumerator<DrawingViewBreak>, 
 	IEnumerator, IDisposable
 ```
-```vb
-Public Class Enumerator
-	Implements IEnumerator(Of DrawingViewBreak), IEnumerator, 
-	IDisposable
-```
-```cpp
-public ref class Enumerator : IEnumerator<DrawingViewBreak^>, 
-	IEnumerator, IDisposable
-```
+
+
 
 
 Тип DrawingViewBreaksEnumerator предоставляет следующие члены.

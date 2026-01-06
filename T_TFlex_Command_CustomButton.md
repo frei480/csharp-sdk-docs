@@ -13,13 +13,8 @@
 ```csharp
 public sealed class CustomButton : Button
 ```
-```vb
-Public NotInheritable Class CustomButton
-	Inherits Button
-```
-```cpp
-public ref class CustomButton sealed : public Button
-```
+
+
 
 
 Тип CustomButton предоставляет следующие члены.

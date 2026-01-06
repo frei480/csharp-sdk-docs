@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool DrawPaperBorder { get; set; }
 ```
-```vb
-Public Overridable Property DrawPaperBorder As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool DrawPaperBorder {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

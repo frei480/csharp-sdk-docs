@@ -13,17 +13,8 @@ public SheetMetalPart(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-SheetMetalPart(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

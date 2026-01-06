@@ -11,12 +11,8 @@
 ```csharp
 public enum OutlineWaveType
 ```
-```vb
-Public Enumeration OutlineWaveType
-```
-```cpp
-public enum class OutlineWaveType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

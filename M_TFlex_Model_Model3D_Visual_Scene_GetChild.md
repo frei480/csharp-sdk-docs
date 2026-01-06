@@ -10,17 +10,8 @@ public ObjectRepresentation GetChild(
 	int index
 )
 ```
-```vb
-Public Function GetChild ( 
-	index As Integer
-) As ObjectRepresentation
-```
-```cpp
-public:
-ObjectRepresentation^ GetChild(
-	int index
-)
-```
+
+
 
 
 #### Параметры

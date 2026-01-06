@@ -13,13 +13,8 @@
 ```csharp
 public class RevolveArray : CopyOperation
 ```
-```vb
-Public Class RevolveArray
-	Inherits CopyOperation
-```
-```cpp
-public ref class RevolveArray : public CopyOperation
-```
+
+
 
 
 Тип RevolveArray предоставляет следующие члены.

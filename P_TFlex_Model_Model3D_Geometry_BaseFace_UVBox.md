@@ -11,15 +11,8 @@
 ```csharp
 UVBox UVBox { get; }
 ```
-```vb
-ReadOnly Property UVBox As UVBox
-	Get
-```
-```cpp
-property UVBox^ UVBox {
-	UVBox^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

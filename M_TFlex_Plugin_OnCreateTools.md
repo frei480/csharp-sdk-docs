@@ -11,13 +11,8 @@
 ```csharp
 protected virtual void OnCreateTools()
 ```
-```vb
-Protected Overridable Sub OnCreateTools
-```
-```cpp
-protected:
-virtual void OnCreateTools()
-```
+
+
 
 
 #### Ссылки

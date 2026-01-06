@@ -11,16 +11,8 @@
 ```csharp
 public int TabCount { get; }
 ```
-```vb
-Public ReadOnly Property TabCount As Integer
-	Get
-```
-```cpp
-public:
-property int TabCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

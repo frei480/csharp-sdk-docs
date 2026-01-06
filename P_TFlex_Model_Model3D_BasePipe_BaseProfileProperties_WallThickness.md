@@ -11,18 +11,8 @@
 ```csharp
 public bool WallThickness { get; set; }
 ```
-```vb
-Public Property WallThickness As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool WallThickness {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public static LinksGroup Create(
 	List<Link> A_0
 )
 ```
-```vb
-Public Shared Function Create ( 
-	A_0 As List(Of Link)
-) As LinksGroup
-```
-```cpp
-public:
-static LinksGroup^ Create(
-	List<Link^>^ A_0
-)
-```
+
+
 
 
 #### Параметры

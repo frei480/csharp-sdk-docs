@@ -11,16 +11,8 @@
 ```csharp
 public LoftPointOnContour Point { get; }
 ```
-```vb
-Public ReadOnly Property Point As LoftPointOnContour
-	Get
-```
-```cpp
-public:
-property LoftPointOnContour^ Point {
-	LoftPointOnContour^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

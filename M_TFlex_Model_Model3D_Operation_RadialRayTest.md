@@ -14,25 +14,8 @@ public static bool RadialRayTest(
 	List<BasePoint3D> points
 )
 ```
-```vb
-Public Shared Function RadialRayTest ( 
-	operation As Operation,
-	rayOrigin As BasePoint3D,
-	rayDir As BaseDirection,
-	distances As List(Of Double),
-	points As List(Of BasePoint3D)
-) As Boolean
-```
-```cpp
-public:
-static bool RadialRayTest(
-	Operation^ operation, 
-	BasePoint3D^ rayOrigin, 
-	BaseDirection^ rayDir, 
-	List<double>^ distances, 
-	List<BasePoint3D^>^ points
-)
-```
+
+
 
 
 #### Параметры

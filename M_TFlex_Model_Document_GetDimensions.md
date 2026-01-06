@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Dimension> GetDimensions()
 ```
-```vb
-Public Function GetDimensions As ICollection(Of Dimension)
-```
-```cpp
-public:
-ICollection<Dimension^>^ GetDimensions()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -10,17 +10,8 @@ public bool TrySetOverrideSource(
 	bool over
 )
 ```
-```vb
-Public Function TrySetOverrideSource ( 
-	over As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool TrySetOverrideSource(
-	bool over
-)
-```
+
+
 
 
 #### Параметры

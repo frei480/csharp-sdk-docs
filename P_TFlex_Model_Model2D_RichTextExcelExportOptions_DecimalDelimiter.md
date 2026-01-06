@@ -8,18 +8,8 @@
 ```csharp
 public RichTextExcelExportOptionsDecimalDelimiterType DecimalDelimiter { get; set; }
 ```
-```vb
-Public Property DecimalDelimiter As RichTextExcelExportOptionsDecimalDelimiterType
-	Get
-	Set
-```
-```cpp
-public:
-property RichTextExcelExportOptionsDecimalDelimiterType DecimalDelimiter {
-	RichTextExcelExportOptionsDecimalDelimiterType get ();
-	void set (RichTextExcelExportOptionsDecimalDelimiterType value);
-}
-```
+
+
 
 
 #### Значение свойства

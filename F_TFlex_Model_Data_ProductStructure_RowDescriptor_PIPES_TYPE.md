@@ -8,13 +8,8 @@
 ```csharp
 public const int PIPES_TYPE = 20005
 ```
-```vb
-Public Const PIPES_TYPE As Integer = 20005
-```
-```cpp
-public:
-literal int PIPES_TYPE = 20005
-```
+
+
 
 
 #### Значение поля

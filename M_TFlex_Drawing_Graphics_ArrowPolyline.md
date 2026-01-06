@@ -17,25 +17,8 @@ public void ArrowPolyline(
 	double endSize
 )
 ```
-```vb
-Public Sub ArrowPolyline ( 
-	polyline As Polyline,
-	startType As Integer,
-	startSize As Double,
-	endType As Integer,
-	endSize As Double
-)
-```
-```cpp
-public:
-void ArrowPolyline(
-	Polyline^ polyline, 
-	int startType, 
-	double startSize, 
-	int endType, 
-	double endSize
-)
-```
+
+
 
 
 #### Параметры

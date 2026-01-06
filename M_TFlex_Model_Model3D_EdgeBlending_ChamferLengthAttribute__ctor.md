@@ -14,19 +14,8 @@ public ChamferLengthAttribute(
 	Parameter angle
 )
 ```
-```vb
-Public Sub New ( 
-	width As Parameter,
-	angle As Parameter
-)
-```
-```cpp
-public:
-ChamferLengthAttribute(
-	Parameter^ width, 
-	Parameter^ angle
-)
-```
+
+
 
 
 #### Параметры

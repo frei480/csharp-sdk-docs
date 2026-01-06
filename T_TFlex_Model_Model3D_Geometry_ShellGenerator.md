@@ -13,13 +13,8 @@
 ```csharp
 public class ShellGenerator : BodyGenerator
 ```
-```vb
-Public Class ShellGenerator
-	Inherits BodyGenerator
-```
-```cpp
-public ref class ShellGenerator : public BodyGenerator
-```
+
+
 
 
 Тип ShellGenerator предоставляет следующие члены.

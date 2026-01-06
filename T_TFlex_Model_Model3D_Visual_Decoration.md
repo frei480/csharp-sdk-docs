@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Decoration : IDisposable
 ```
-```vb
-Public MustInherit Class Decoration
-	Implements IDisposable
-```
-```cpp
-public ref class Decoration abstract : IDisposable
-```
+
+
 
 
 #### Значение поля

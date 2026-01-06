@@ -11,18 +11,8 @@
 ```csharp
 public Projection Projection { get; set; }
 ```
-```vb
-Public Property Projection As Projection
-	Get
-	Set
-```
-```cpp
-public:
-property Projection^ Projection {
-	Projection^ get ();
-	void set (Projection^ value);
-}
-```
+
+
 
 
 #### Значение свойства

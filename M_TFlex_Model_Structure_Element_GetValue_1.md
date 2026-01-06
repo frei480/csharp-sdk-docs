@@ -10,17 +10,8 @@ public ElementValue GetValue(
 	string parameterSystemName
 )
 ```
-```vb
-Public Function GetValue ( 
-	parameterSystemName As String
-) As ElementValue
-```
-```cpp
-public:
-ElementValue^ GetValue(
-	String^ parameterSystemName
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public IncludeInBOMType IncludeInBOM_DOCs { get; set; }
 ```
-```vb
-Public Property IncludeInBOM_DOCs As IncludeInBOMType
-	Get
-	Set
-```
-```cpp
-public:
-property IncludeInBOMType IncludeInBOM_DOCs {
-	IncludeInBOMType get ();
-	void set (IncludeInBOMType value);
-}
-```
+
+
 
 
 #### Значение свойства

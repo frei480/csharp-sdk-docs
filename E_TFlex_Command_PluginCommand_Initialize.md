@@ -11,16 +11,8 @@
 ```csharp
 public event InitializeEventHandler Initialize
 ```
-```vb
-Public Event Initialize As InitializeEventHandler
-```
-```cpp
-public:
- event InitializeEventHandler^ Initialize {
-	void add (InitializeEventHandler^ value);
-	void remove (InitializeEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

@@ -13,17 +13,8 @@ public bool SetUniqueName(
 	string prefix
 )
 ```
-```vb
-Public Function SetUniqueName ( 
-	prefix As String
-) As Boolean
-```
-```cpp
-public:
-bool SetUniqueName(
-	String^ prefix
-)
-```
+
+
 
 
 #### Параметры

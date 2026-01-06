@@ -11,16 +11,8 @@
 ```csharp
 public ModelBox WireBox { get; }
 ```
-```vb
-Public ReadOnly Property WireBox As ModelBox
-	Get
-```
-```cpp
-public:
-property ModelBox^ WireBox {
-	ModelBox^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

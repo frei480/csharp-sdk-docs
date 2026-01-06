@@ -11,12 +11,8 @@
 ```csharp
 public class BaseLoadParameters
 ```
-```vb
-Public Class BaseLoadParameters
-```
-```cpp
-public ref class BaseLoadParameters
-```
+
+
 
 
 Тип BaseLoadParameters предоставляет следующие члены.

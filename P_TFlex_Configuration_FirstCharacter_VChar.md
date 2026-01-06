@@ -8,18 +8,8 @@
 ```csharp
 public string VChar { get; set; }
 ```
-```vb
-Public Property VChar As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ VChar {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

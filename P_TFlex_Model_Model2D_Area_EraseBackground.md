@@ -11,18 +11,8 @@
 ```csharp
 public bool EraseBackground { get; set; }
 ```
-```vb
-Public Property EraseBackground As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool EraseBackground {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

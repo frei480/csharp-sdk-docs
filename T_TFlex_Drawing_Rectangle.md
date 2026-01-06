@@ -13,12 +13,8 @@
 ```csharp
 public struct Rectangle
 ```
-```vb
-Public Structure Rectangle
-```
-```cpp
-public value class Rectangle
-```
+
+
 
 
 Тип Rectangle предоставляет следующие члены.

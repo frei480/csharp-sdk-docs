@@ -11,12 +11,8 @@
 ```csharp
 public enum ListControlStandardButton
 ```
-```vb
-Public Enumeration ListControlStandardButton
-```
-```cpp
-public enum class ListControlStandardButton
-```
+
+
 
 
 | Имя члена | Значение | Описание |

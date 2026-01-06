@@ -14,19 +14,8 @@ public Curve(
 	bool makeCopy
 )
 ```
-```vb
-Public Sub New ( 
-	curve As Integer,
-	makeCopy As Boolean
-)
-```
-```cpp
-public:
-Curve(
-	int curve, 
-	bool makeCopy
-)
-```
+
+
 
 
 #### Параметры

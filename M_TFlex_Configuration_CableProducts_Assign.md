@@ -10,17 +10,8 @@ public void Assign(
 	CableProducts source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As CableProducts
-)
-```
-```cpp
-public:
-void Assign(
-	CableProducts^ source
-)
-```
+
+
 
 
 #### Параметры

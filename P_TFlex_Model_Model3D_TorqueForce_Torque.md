@@ -11,18 +11,8 @@
 ```csharp
 public double Torque { get; set; }
 ```
-```vb
-Public Property Torque As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Torque {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

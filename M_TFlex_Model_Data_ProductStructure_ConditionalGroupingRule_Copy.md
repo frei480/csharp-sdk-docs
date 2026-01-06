@@ -8,13 +8,8 @@
 ```csharp
 public override IGroupingRule Copy()
 ```
-```vb
-Public Overrides Function Copy As IGroupingRule
-```
-```cpp
-public:
-virtual IGroupingRule^ Copy() override
-```
+
+
 
 
 #### Возвращаемое значение

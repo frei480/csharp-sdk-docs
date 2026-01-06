@@ -13,19 +13,8 @@ public static ICollection<Node3D> GetNodes3D(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetNodes3D ( 
-	document As Document
-) As ICollection(Of Node3D)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Node3D^>^ GetNodes3D(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

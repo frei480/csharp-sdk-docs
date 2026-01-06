@@ -13,13 +13,8 @@
 ```csharp
 public class Connector : FixingVector
 ```
-```vb
-Public Class Connector
-	Inherits FixingVector
-```
-```cpp
-public ref class Connector : public FixingVector
-```
+
+
 
 
 Тип Connector предоставляет следующие члены.

@@ -13,17 +13,8 @@ public DefaultButton(
 	DefaultButtonKind kind
 )
 ```
-```vb
-Public Sub New ( 
-	kind As DefaultButtonKind
-)
-```
-```cpp
-public:
-DefaultButton(
-	DefaultButtonKind kind
-)
-```
+
+
 
 
 #### Параметры

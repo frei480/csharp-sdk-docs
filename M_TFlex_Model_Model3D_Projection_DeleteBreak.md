@@ -13,17 +13,8 @@ public void DeleteBreak(
 	int i
 )
 ```
-```vb
-Public Sub DeleteBreak ( 
-	i As Integer
-)
-```
-```cpp
-public:
-void DeleteBreak(
-	int i
-)
-```
+
+
 
 
 #### Параметры

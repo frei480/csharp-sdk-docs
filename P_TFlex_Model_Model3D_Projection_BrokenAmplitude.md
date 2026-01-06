@@ -11,18 +11,8 @@
 ```csharp
 public Parameter BrokenAmplitude { get; set; }
 ```
-```vb
-Public Property BrokenAmplitude As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ BrokenAmplitude {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

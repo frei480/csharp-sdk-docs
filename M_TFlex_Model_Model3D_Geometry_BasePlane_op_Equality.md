@@ -11,19 +11,8 @@ public static bool operator ==(
 	BasePlane plane2
 )
 ```
-```vb
-Public Shared Operator = ( 
-	plane1 As BasePlane,
-	plane2 As BasePlane
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	BasePlane^ plane1, 
-	BasePlane^ plane2
-)
-```
+
+
 
 
 #### Параметры

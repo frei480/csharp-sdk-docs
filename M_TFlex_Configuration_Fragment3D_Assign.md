@@ -10,17 +10,8 @@ public void Assign(
 	Fragment3D source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Fragment3D
-)
-```
-```cpp
-public:
-void Assign(
-	Fragment3D^ source
-)
-```
+
+
 
 
 #### Параметры

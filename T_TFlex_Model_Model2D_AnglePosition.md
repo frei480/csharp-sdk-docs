@@ -11,12 +11,8 @@
 ```csharp
 public enum AnglePosition
 ```
-```vb
-Public Enumeration AnglePosition
-```
-```cpp
-public enum class AnglePosition
-```
+
+
 
 
 | Имя члена | Значение | Описание |

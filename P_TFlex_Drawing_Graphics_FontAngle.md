@@ -11,16 +11,8 @@
 ```csharp
 public double FontAngle { set; }
 ```
-```vb
-Public WriteOnly Property FontAngle As Double
-	Set
-```
-```cpp
-public:
-property double FontAngle {
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public ArrayOperationType ObjectsType { get; }
 ```
-```vb
-Public ReadOnly Property ObjectsType As ArrayOperationType
-	Get
-```
-```cpp
-public:
-property ArrayOperationType ObjectsType {
-	ArrayOperationType get ();
-}
-```
+
+
 
 
 #### Значение свойства

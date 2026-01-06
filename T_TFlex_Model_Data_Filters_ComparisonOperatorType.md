@@ -11,12 +11,8 @@
 ```csharp
 public enum ComparisonOperatorType
 ```
-```vb
-Public Enumeration ComparisonOperatorType
-```
-```cpp
-public enum class ComparisonOperatorType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

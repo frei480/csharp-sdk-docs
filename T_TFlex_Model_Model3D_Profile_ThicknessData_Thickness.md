@@ -11,12 +11,8 @@
 ```csharp
 public enum Thickness
 ```
-```vb
-Public Enumeration Thickness
-```
-```cpp
-public enum class Thickness
-```
+
+
 
 
 | Имя члена | Значение | Описание |

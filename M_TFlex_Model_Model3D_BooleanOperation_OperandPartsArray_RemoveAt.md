@@ -10,17 +10,8 @@ public void RemoveAt(
 	int index
 )
 ```
-```vb
-Public Sub RemoveAt ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void RemoveAt(
-	int index
-)
-```
+
+
 
 
 #### Параметры

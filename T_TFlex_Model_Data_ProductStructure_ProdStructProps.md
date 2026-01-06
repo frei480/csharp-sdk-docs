@@ -11,13 +11,8 @@
 ```csharp
 public class ProdStructProps : ICloneable
 ```
-```vb
-Public Class ProdStructProps
-	Implements ICloneable
-```
-```cpp
-public ref class ProdStructProps : ICloneable
-```
+
+
 
 
 Тип ProdStructProps предоставляет следующие члены.

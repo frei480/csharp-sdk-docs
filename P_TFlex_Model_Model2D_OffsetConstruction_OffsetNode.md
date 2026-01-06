@@ -11,18 +11,8 @@
 ```csharp
 public Node OffsetNode { get; set; }
 ```
-```vb
-Public Property OffsetNode As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ OffsetNode {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

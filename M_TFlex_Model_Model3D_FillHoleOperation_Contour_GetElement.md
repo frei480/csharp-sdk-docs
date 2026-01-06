@@ -13,17 +13,8 @@ public ModelWire GetElement(
 	int index
 )
 ```
-```vb
-Public Function GetElement ( 
-	index As Integer
-) As ModelWire
-```
-```cpp
-public:
-ModelWire^ GetElement(
-	int index
-)
-```
+
+
 
 
 #### Параметры

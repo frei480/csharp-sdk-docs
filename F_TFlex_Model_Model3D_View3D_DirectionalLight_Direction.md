@@ -11,13 +11,8 @@
 ```csharp
 public FloatVector Direction
 ```
-```vb
-Public Direction As FloatVector
-```
-```cpp
-public:
-FloatVector Direction
-```
+
+
 
 
 #### Значение поля

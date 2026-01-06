@@ -11,18 +11,8 @@
 ```csharp
 public Parameter WaveLength { get; set; }
 ```
-```vb
-Public Property WaveLength As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ WaveLength {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

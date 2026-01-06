@@ -13,17 +13,8 @@ public bool Contains(
 	ListControlStandardButton standardButton
 )
 ```
-```vb
-Public Function Contains ( 
-	standardButton As ListControlStandardButton
-) As Boolean
-```
-```cpp
-public:
-bool Contains(
-	ListControlStandardButton standardButton
-)
-```
+
+
 
 
 #### Параметры

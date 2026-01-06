@@ -15,23 +15,8 @@ public static MultilineText GetMultilineText(
 	bool bForSet
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetMultilineText ( 
-	__unnamed000 As ModelObject,
-	idx As Integer,
-	bForSet As Boolean
-) As MultilineText
-```
-```cpp
-public:
-[ExtensionAttribute]
-static MultilineText^ GetMultilineText(
-	ModelObject^ __unnamed000, 
-	int idx, 
-	bool bForSet
-)
-```
+
+
 
 
 #### Параметры

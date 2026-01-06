@@ -11,13 +11,8 @@
 ```csharp
 public ICollection<Page> GetPages()
 ```
-```vb
-Public Function GetPages As ICollection(Of Page)
-```
-```cpp
-public:
-ICollection<Page^>^ GetPages()
-```
+
+
 
 
 #### Возвращаемое значение

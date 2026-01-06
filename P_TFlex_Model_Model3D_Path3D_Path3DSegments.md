@@ -11,16 +11,8 @@
 ```csharp
 public Path3DPath3DSegment[] Path3DSegments { get; }
 ```
-```vb
-Public ReadOnly Property Path3DSegments As Path3DPath3DSegment()
-	Get
-```
-```cpp
-public:
-property array<Path3DPath3DSegment^>^ Path3DSegments {
-	array<Path3DPath3DSegment^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

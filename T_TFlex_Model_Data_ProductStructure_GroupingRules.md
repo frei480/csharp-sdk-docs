@@ -11,13 +11,8 @@
 ```csharp
 public class GroupingRules : ICloneable
 ```
-```vb
-Public Class GroupingRules
-	Implements ICloneable
-```
-```cpp
-public ref class GroupingRules : ICloneable
-```
+
+
 
 
 Тип GroupingRules предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportVariables : ExportTo
 ```
-```vb
-Public NotInheritable Class ExportVariables
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportVariables sealed : public ExportTo
-```
+
+
 
 
 Тип ExportVariables предоставляет следующие члены.

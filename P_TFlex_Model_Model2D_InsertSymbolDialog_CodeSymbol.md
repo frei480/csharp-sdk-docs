@@ -12,20 +12,8 @@
 [ObsoleteAttribute("Use 'Symbol' instead")]
 public int CodeSymbol { get; set; }
 ```
-```vb
-<ObsoleteAttribute("Use 'Symbol' instead")>
-Public Property CodeSymbol As Integer
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Use 'Symbol' instead")]
-property int CodeSymbol {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter StartRadius { get; set; }
 ```
-```vb
-Public Property StartRadius As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ StartRadius {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

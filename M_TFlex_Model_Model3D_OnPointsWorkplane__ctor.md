@@ -13,17 +13,8 @@ public OnPointsWorkplane(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-OnPointsWorkplane(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

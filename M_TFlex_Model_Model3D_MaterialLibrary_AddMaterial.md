@@ -13,17 +13,8 @@ public void AddMaterial(
 	MaterialParameters Parameters
 )
 ```
-```vb
-Public Sub AddMaterial ( 
-	Parameters As MaterialParameters
-)
-```
-```cpp
-public:
-void AddMaterial(
-	MaterialParameters^ Parameters
-)
-```
+
+
 
 
 #### Параметры

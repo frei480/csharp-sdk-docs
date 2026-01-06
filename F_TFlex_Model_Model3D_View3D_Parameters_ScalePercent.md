@@ -11,13 +11,8 @@
 ```csharp
 public float ScalePercent
 ```
-```vb
-Public ScalePercent As Single
-```
-```cpp
-public:
-float ScalePercent
-```
+
+
 
 
 #### Значение поля

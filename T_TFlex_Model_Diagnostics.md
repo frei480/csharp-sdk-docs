@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Diagnostics : IEnumerable<DiagnosticsMessage>
 ```
-```vb
-Public NotInheritable Class Diagnostics
-	Implements IEnumerable(Of DiagnosticsMessage)
-```
-```cpp
-public ref class Diagnostics sealed : IEnumerable<DiagnosticsMessage^>
-```
+
+
 
 
 Тип Diagnostics предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public Object Tag { get; set; }
 ```
-```vb
-Public Property Tag As Object
-	Get
-	Set
-```
-```cpp
-public:
-property Object^ Tag {
-	Object^ get ();
-	void set (Object^ value);
-}
-```
+
+
 
 
 #### Значение свойства

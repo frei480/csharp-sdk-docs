@@ -11,16 +11,8 @@
 ```csharp
 public ExportToDXF ExportToDXF { get; }
 ```
-```vb
-Public ReadOnly Property ExportToDXF As ExportToDXF
-	Get
-```
-```cpp
-public:
-property ExportToDXF^ ExportToDXF {
-	ExportToDXF^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

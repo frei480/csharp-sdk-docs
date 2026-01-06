@@ -11,16 +11,8 @@
 ```csharp
 public TopolArray Topols { get; }
 ```
-```vb
-Public ReadOnly Property Topols As TopolArray
-	Get
-```
-```cpp
-public:
-property TopolArray^ Topols {
-	TopolArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class EdgePath : Path3D
 ```
-```vb
-Public Class EdgePath
-	Inherits Path3D
-```
-```cpp
-public ref class EdgePath : public Path3D
-```
+
+
 
 
 Тип EdgePath предоставляет следующие члены.

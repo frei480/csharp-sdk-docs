@@ -14,19 +14,8 @@ public void SetRealAttribute(
 	double value
 )
 ```
-```vb
-Public Sub SetRealAttribute ( 
-	attribName As String,
-	value As Double
-)
-```
-```cpp
-public:
-void SetRealAttribute(
-	String^ attribName, 
-	double value
-)
-```
+
+
 
 
 #### Параметры

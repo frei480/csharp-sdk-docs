@@ -11,18 +11,8 @@
 ```csharp
 public bool RecognizeAnnotation { get; set; }
 ```
-```vb
-Public Property RecognizeAnnotation As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RecognizeAnnotation {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

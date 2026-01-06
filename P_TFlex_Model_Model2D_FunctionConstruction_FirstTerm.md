@@ -11,18 +11,8 @@
 ```csharp
 public string FirstTerm { get; set; }
 ```
-```vb
-Public Property FirstTerm As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ FirstTerm {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

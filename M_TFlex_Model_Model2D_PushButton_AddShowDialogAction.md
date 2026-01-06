@@ -13,17 +13,8 @@ public void AddShowDialogAction(
 	Page page
 )
 ```
-```vb
-Public Sub AddShowDialogAction ( 
-	page As Page
-)
-```
-```cpp
-public:
-void AddShowDialogAction(
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

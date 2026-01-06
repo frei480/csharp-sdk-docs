@@ -13,13 +13,8 @@
 ```csharp
 public sealed class GroupButton : Button
 ```
-```vb
-Public NotInheritable Class GroupButton
-	Inherits Button
-```
-```cpp
-public ref class GroupButton sealed : public Button
-```
+
+
 
 
 Тип GroupButton предоставляет следующие члены.

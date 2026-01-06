@@ -8,16 +8,8 @@
 ```csharp
 public bool IsValidLink { get; }
 ```
-```vb
-Public ReadOnly Property IsValidLink As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsValidLink {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

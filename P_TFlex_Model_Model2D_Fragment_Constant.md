@@ -11,18 +11,8 @@
 ```csharp
 public bool Constant { get; set; }
 ```
-```vb
-Public Property Constant As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Constant {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

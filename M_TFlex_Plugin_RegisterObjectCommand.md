@@ -15,21 +15,8 @@ protected void RegisterObjectCommand(
 	string prompt
 )
 ```
-```vb
-<ObsoleteAttribute("Use overloaded RegisterObjectCommand to setup icon.")>
-Protected Sub RegisterObjectCommand ( 
-	id As Integer,
-	prompt As String
-)
-```
-```cpp
-protected:
-[ObsoleteAttribute(L"Use overloaded RegisterObjectCommand to setup icon.")]
-void RegisterObjectCommand(
-	int id, 
-	String^ prompt
-)
-```
+
+
 
 
 #### Параметры

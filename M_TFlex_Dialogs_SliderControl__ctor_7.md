@@ -16,23 +16,8 @@ public SliderControl(
 	double step
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	range As Range,
-	value As Double,
-	step As Double
-)
-```
-```cpp
-public:
-SliderControl(
-	String^ id, 
-	Range range, 
-	double value, 
-	double step
-)
-```
+
+
 
 
 #### Параметры

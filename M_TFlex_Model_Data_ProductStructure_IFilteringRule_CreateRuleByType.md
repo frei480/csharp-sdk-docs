@@ -10,17 +10,8 @@ public static IFilteringRule CreateRuleByType(
 	FilteringRuleType type
 )
 ```
-```vb
-Public Shared Function CreateRuleByType ( 
-	type As FilteringRuleType
-) As IFilteringRule
-```
-```cpp
-public:
-static IFilteringRule^ CreateRuleByType(
-	FilteringRuleType type
-)
-```
+
+
 
 
 #### Параметры

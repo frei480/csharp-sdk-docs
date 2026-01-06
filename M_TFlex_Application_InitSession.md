@@ -13,17 +13,8 @@ public static bool InitSession(
 	ApplicationSessionSetup setup
 )
 ```
-```vb
-Public Shared Function InitSession ( 
-	setup As ApplicationSessionSetup
-) As Boolean
-```
-```cpp
-public:
-static bool InitSession(
-	ApplicationSessionSetup^ setup
-)
-```
+
+
 
 
 #### Параметры

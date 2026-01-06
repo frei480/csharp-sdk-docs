@@ -11,16 +11,8 @@
 ```csharp
 public FragmentPathObject FragmentPath { get; }
 ```
-```vb
-Public ReadOnly Property FragmentPath As FragmentPathObject
-	Get
-```
-```cpp
-public:
-property FragmentPathObject^ FragmentPath {
-	FragmentPathObject^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,20 +14,8 @@ U - параметр узла на поверхности
 [ObsoleteAttribute("This property is obsolete and will be removed.")]
 public Parameter U { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed.")>
-Public Property U As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed.")]
-property Parameter^ U {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

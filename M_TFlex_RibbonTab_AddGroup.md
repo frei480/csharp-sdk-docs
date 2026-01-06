@@ -13,17 +13,8 @@ public RibbonGroup AddGroup(
 	string caption
 )
 ```
-```vb
-Public Function AddGroup ( 
-	caption As String
-) As RibbonGroup
-```
-```cpp
-public:
-RibbonGroup^ AddGroup(
-	String^ caption
-)
-```
+
+
 
 
 #### Параметры

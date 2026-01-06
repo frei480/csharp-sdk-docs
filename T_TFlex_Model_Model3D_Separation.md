@@ -13,13 +13,8 @@
 ```csharp
 public class Separation : Operation
 ```
-```vb
-Public Class Separation
-	Inherits Operation
-```
-```cpp
-public ref class Separation : public Operation
-```
+
+
 
 
 Тип Separation предоставляет следующие члены.

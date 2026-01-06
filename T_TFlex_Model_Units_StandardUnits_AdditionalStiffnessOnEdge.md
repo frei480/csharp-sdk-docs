@@ -13,12 +13,8 @@
 ```csharp
 public sealed class AdditionalStiffnessOnEdge
 ```
-```vb
-Public NotInheritable Class AdditionalStiffnessOnEdge
-```
-```cpp
-public ref class AdditionalStiffnessOnEdge sealed
-```
+
+
 
 
 Тип StandardUnitsAdditionalStiffnessOnEdge предоставляет следующие члены.

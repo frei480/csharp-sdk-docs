@@ -14,19 +14,8 @@ protected AngularDimensionBase(
 	bool fAddToContainer
 )
 ```
-```vb
-Protected Sub New ( 
-	Handle As IntPtr,
-	fAddToContainer As Boolean
-)
-```
-```cpp
-protected:
-AngularDimensionBase(
-	IntPtr Handle, 
-	bool fAddToContainer
-)
-```
+
+
 
 
 #### Параметры

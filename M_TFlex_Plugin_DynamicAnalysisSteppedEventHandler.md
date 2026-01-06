@@ -13,17 +13,8 @@ protected virtual void DynamicAnalysisSteppedEventHandler(
 	DynamicAnalysisEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub DynamicAnalysisSteppedEventHandler ( 
-	args As DynamicAnalysisEventArgs
-)
-```
-```cpp
-protected:
-virtual void DynamicAnalysisSteppedEventHandler(
-	DynamicAnalysisEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

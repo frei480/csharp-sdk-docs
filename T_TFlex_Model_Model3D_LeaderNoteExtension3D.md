@@ -11,14 +11,8 @@
 ```csharp
 public class LeaderNoteExtension3D
 ```
-```vb
-<ExtensionAttribute>
-Public Class LeaderNoteExtension3D
-```
-```cpp
-[ExtensionAttribute]
-public ref class LeaderNoteExtension3D
-```
+
+
 
 
 Тип LeaderNoteExtension3D предоставляет следующие члены.

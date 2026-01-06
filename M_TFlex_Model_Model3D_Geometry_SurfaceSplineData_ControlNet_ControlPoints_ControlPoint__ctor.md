@@ -14,19 +14,8 @@ public ControlPoint(
 	double weight
 )
 ```
-```vb
-Public Sub New ( 
-	point As BasePoint3D,
-	weight As Double
-)
-```
-```cpp
-public:
-ControlPoint(
-	BasePoint3D^ point, 
-	double weight
-)
-```
+
+
 
 
 #### Параметры

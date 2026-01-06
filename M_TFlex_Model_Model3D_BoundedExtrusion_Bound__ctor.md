@@ -14,19 +14,8 @@ public Bound(
 	int nBound
 )
 ```
-```vb
-Public Sub New ( 
-	pExtrusion As BoundedExtrusion,
-	nBound As Integer
-)
-```
-```cpp
-public:
-Bound(
-	BoundedExtrusion^ pExtrusion, 
-	int nBound
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public string FragmentInsertMethodString { get; set; }
 ```
-```vb
-Public Property FragmentInsertMethodString As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ FragmentInsertMethodString {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

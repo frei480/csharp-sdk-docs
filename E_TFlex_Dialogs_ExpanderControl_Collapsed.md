@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<BaseEventArgs> Collapsed
 ```
-```vb
-Public Event Collapsed As EventHandler(Of BaseEventArgs)
-```
-```cpp
-public:
- event EventHandler<BaseEventArgs^>^ Collapsed {
-	void add (EventHandler<BaseEventArgs^>^ value);
-	void remove (EventHandler<BaseEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

@@ -11,13 +11,8 @@
 ```csharp
 public virtual void ZoomLimits()
 ```
-```vb
-Public Overridable Sub ZoomLimits
-```
-```cpp
-public:
-virtual void ZoomLimits()
-```
+
+
 
 
 #### Ссылки

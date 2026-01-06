@@ -11,13 +11,8 @@
 ```csharp
 public TopolReference CreateReference()
 ```
-```vb
-Public Function CreateReference As TopolReference
-```
-```cpp
-public:
-TopolReference^ CreateReference()
-```
+
+
 
 
 #### Возвращаемое значение

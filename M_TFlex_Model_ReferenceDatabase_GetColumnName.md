@@ -13,17 +13,8 @@ public string GetColumnName(
 	int index
 )
 ```
-```vb
-Public Function GetColumnName ( 
-	index As Integer
-) As String
-```
-```cpp
-public:
-String^ GetColumnName(
-	int index
-)
-```
+
+
 
 
 #### Параметры

@@ -8,12 +8,8 @@
 ```csharp
 public enum ReportControlTreeStyle
 ```
-```vb
-Public Enumeration ReportControlTreeStyle
-```
-```cpp
-public enum class ReportControlTreeStyle
-```
+
+
 
 
 | Имя члена | Значение | Описание |

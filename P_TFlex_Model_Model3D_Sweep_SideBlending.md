@@ -11,18 +11,8 @@
 ```csharp
 public Parameter SideBlending { get; set; }
 ```
-```vb
-Public Property SideBlending As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ SideBlending {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

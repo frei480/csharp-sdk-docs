@@ -11,18 +11,8 @@
 ```csharp
 public bool BoxAroundText { get; set; }
 ```
-```vb
-Public Property BoxAroundText As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool BoxAroundText {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

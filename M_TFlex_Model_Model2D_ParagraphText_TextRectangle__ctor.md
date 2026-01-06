@@ -16,23 +16,8 @@ public TextRectangle(
 	double angle
 )
 ```
-```vb
-Public Sub New ( 
-	left As ParagraphTextTextRectanglePoint,
-	right As ParagraphTextTextRectanglePoint,
-	page As Page,
-	angle As Double
-)
-```
-```cpp
-public:
-TextRectangle(
-	ParagraphTextTextRectanglePoint left, 
-	ParagraphTextTextRectanglePoint right, 
-	Page^ page, 
-	double angle
-)
-```
+
+
 
 
 #### Параметры

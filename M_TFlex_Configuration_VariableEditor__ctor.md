@@ -11,13 +11,8 @@
 ```csharp
 public VariableEditor()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-VariableEditor()
-```
+
+
 
 
 #### Ссылки

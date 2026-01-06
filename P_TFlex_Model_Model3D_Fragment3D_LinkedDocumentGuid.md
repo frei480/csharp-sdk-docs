@@ -8,16 +8,8 @@
 ```csharp
 public Guid LinkedDocumentGuid { get; }
 ```
-```vb
-Public ReadOnly Property LinkedDocumentGuid As Guid
-	Get
-```
-```cpp
-public:
-property Guid LinkedDocumentGuid {
-	Guid get ();
-}
-```
+
+
 
 
 #### Значение свойства

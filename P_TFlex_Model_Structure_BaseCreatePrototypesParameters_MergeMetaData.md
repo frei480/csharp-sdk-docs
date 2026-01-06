@@ -8,18 +8,8 @@
 ```csharp
 public bool MergeMetaData { get; set; }
 ```
-```vb
-Public Property MergeMetaData As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool MergeMetaData {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public PageFragments()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PageFragments()
-```
+
+
 
 
 #### Ссылки

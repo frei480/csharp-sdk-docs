@@ -13,17 +13,8 @@ public NormalFirstToLastEndProfileCondition(
 	Parameter magnitude
 )
 ```
-```vb
-Public Sub New ( 
-	magnitude As Parameter
-)
-```
-```cpp
-public:
-NormalFirstToLastEndProfileCondition(
-	Parameter^ magnitude
-)
-```
+
+
 
 
 #### Параметры

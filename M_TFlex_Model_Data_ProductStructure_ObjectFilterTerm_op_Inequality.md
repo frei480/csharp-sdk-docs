@@ -11,19 +11,8 @@ public static bool operator !=(
 	ObjectFilterTerm right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As ObjectFilterTerm,
-	right As ObjectFilterTerm
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	ObjectFilterTerm^ left, 
-	ObjectFilterTerm^ right
-)
-```
+
+
 
 
 #### Параметры

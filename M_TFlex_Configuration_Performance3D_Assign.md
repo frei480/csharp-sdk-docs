@@ -10,17 +10,8 @@ public void Assign(
 	Performance3D source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Performance3D
-)
-```
-```cpp
-public:
-void Assign(
-	Performance3D^ source
-)
-```
+
+
 
 
 #### Параметры

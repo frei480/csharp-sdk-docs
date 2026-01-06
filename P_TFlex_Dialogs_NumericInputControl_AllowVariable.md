@@ -11,18 +11,8 @@
 ```csharp
 public bool AllowVariable { get; set; }
 ```
-```vb
-Public Property AllowVariable As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AllowVariable {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

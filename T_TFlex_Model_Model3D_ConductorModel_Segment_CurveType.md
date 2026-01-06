@@ -8,12 +8,8 @@
 ```csharp
 public enum CurveType
 ```
-```vb
-Public Enumeration CurveType
-```
-```cpp
-public enum class CurveType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

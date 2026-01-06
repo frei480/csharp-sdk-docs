@@ -14,19 +14,8 @@ public ControlsWindowForm(
 	string caption
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	caption As String
-)
-```
-```cpp
-public:
-ControlsWindowForm(
-	String^ id, 
-	String^ caption
-)
-```
+
+
 
 
 #### Параметры

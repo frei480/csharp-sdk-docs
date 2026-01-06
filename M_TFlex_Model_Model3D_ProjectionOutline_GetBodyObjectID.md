@@ -11,13 +11,8 @@
 ```csharp
 public ObjectId GetBodyObjectID()
 ```
-```vb
-Public Function GetBodyObjectID As ObjectId
-```
-```cpp
-public:
-ObjectId^ GetBodyObjectID()
-```
+
+
 
 
 #### Возвращаемое значение

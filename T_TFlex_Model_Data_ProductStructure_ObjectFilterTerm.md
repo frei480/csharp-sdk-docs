@@ -14,15 +14,8 @@
 [ObsoleteAttribute]
 public class ObjectFilterTerm : ICloneable
 ```
-```vb
-<ObsoleteAttribute>
-Public Class ObjectFilterTerm
-	Implements ICloneable
-```
-```cpp
-[ObsoleteAttribute]
-public ref class ObjectFilterTerm : ICloneable
-```
+
+
 
 
 Тип ObjectFilterTerm предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public Symbol()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Symbol()
-```
+
+
 
 
 #### Ссылки

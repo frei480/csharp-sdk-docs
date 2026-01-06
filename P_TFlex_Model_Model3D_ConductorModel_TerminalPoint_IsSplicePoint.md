@@ -8,16 +8,8 @@
 ```csharp
 public bool IsSplicePoint { get; }
 ```
-```vb
-Public ReadOnly Property IsSplicePoint As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsSplicePoint {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

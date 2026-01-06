@@ -13,17 +13,8 @@ public virtual void OnKeyPressed(
 	KeyEventArgs e
 )
 ```
-```vb
-Public Overridable Sub OnKeyPressed ( 
-	e As KeyEventArgs
-)
-```
-```cpp
-public:
-virtual void OnKeyPressed(
-	KeyEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

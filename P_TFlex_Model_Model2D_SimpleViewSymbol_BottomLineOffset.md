@@ -11,18 +11,8 @@
 ```csharp
 public double BottomLineOffset { get; set; }
 ```
-```vb
-Public Property BottomLineOffset As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double BottomLineOffset {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

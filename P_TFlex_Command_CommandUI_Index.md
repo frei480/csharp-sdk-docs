@@ -12,18 +12,8 @@
 [ObsoleteAttribute("Not fully supported.")]
 public int Index { get; }
 ```
-```vb
-<ObsoleteAttribute("Not fully supported.")>
-Public ReadOnly Property Index As Integer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Not fully supported.")]
-property int Index {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

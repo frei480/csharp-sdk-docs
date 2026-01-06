@@ -14,15 +14,8 @@
 public sealed class ModelSplineSurface : ModelSurface, 
 	BaseSplineSurface
 ```
-```vb
-Public NotInheritable Class ModelSplineSurface
-	Inherits ModelSurface
-	Implements BaseSplineSurface
-```
-```cpp
-public ref class ModelSplineSurface sealed : public ModelSurface, 
-	BaseSplineSurface
-```
+
+
 
 
 Тип ModelSplineSurface предоставляет следующие члены.

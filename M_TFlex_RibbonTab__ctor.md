@@ -13,17 +13,8 @@ public RibbonTab(
 	string caption
 )
 ```
-```vb
-Public Sub New ( 
-	caption As String
-)
-```
-```cpp
-public:
-RibbonTab(
-	String^ caption
-)
-```
+
+
 
 
 #### Параметры

@@ -15,21 +15,8 @@ public void SetOutlineAndNode(
 	Node node2
 )
 ```
-```vb
-Public Sub SetOutlineAndNode ( 
-	line1 As Outline,
-	isOnEnd1 As Boolean,
-	node2 As Node
-)
-```
-```cpp
-public:
-void SetOutlineAndNode(
-	Outline^ line1, 
-	bool isOnEnd1, 
-	Node^ node2
-)
-```
+
+
 
 
 #### Параметры

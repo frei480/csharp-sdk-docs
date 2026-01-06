@@ -8,18 +8,8 @@
 ```csharp
 public SeparatorType Separator { get; set; }
 ```
-```vb
-Public Property Separator As SeparatorType
-	Get
-	Set
-```
-```cpp
-public:
-property SeparatorType Separator {
-	SeparatorType get ();
-	void set (SeparatorType value);
-}
-```
+
+
 
 
 #### Значение свойства

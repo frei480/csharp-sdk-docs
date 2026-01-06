@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool EnableFragmentEditing { get; set; }
 ```
-```vb
-Public Overridable Property EnableFragmentEditing As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool EnableFragmentEditing {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

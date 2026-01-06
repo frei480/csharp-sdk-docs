@@ -11,13 +11,8 @@
 ```csharp
 public double DefaultBorderWidth
 ```
-```vb
-Public DefaultBorderWidth As Double
-```
-```cpp
-public:
-double DefaultBorderWidth
-```
+
+
 
 
 #### Значение поля

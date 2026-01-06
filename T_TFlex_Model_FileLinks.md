@@ -13,13 +13,8 @@
 ```csharp
 public sealed class FileLinks : IEnumerable<FileLink>
 ```
-```vb
-Public NotInheritable Class FileLinks
-	Implements IEnumerable(Of FileLink)
-```
-```cpp
-public ref class FileLinks sealed : IEnumerable<FileLink^>
-```
+
+
 
 
 Тип FileLinks предоставляет следующие члены.

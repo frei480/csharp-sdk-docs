@@ -14,19 +14,8 @@ public void SetLeaderNote(
 	Parameter offset
 )
 ```
-```vb
-Public Sub SetLeaderNote ( 
-	note As LeaderNote,
-	offset As Parameter
-)
-```
-```cpp
-public:
-void SetLeaderNote(
-	LeaderNote^ note, 
-	Parameter^ offset
-)
-```
+
+
 
 
 #### Параметры

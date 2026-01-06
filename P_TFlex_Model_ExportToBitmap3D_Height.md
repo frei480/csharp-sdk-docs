@@ -11,18 +11,8 @@
 ```csharp
 public int Height { get; set; }
 ```
-```vb
-Public Property Height As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int Height {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

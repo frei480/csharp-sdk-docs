@@ -8,12 +8,8 @@
 ```csharp
 public enum StereoModeType
 ```
-```vb
-Public Enumeration StereoModeType
-```
-```cpp
-public enum class StereoModeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

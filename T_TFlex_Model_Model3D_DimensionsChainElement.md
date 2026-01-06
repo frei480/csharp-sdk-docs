@@ -13,12 +13,8 @@
 ```csharp
 public struct DimensionsChainElement
 ```
-```vb
-Public Structure DimensionsChainElement
-```
-```cpp
-public value class DimensionsChainElement
-```
+
+
 
 
 Тип DimensionsChainElement предоставляет следующие члены.

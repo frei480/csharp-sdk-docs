@@ -8,18 +8,8 @@
 ```csharp
 public BooleanTypes BooleanType { get; set; }
 ```
-```vb
-Public Property BooleanType As BooleanTypes
-	Get
-	Set
-```
-```cpp
-public:
-property BooleanTypes BooleanType {
-	BooleanTypes get ();
-	void set (BooleanTypes value);
-}
-```
+
+
 
 
 #### Значение свойства

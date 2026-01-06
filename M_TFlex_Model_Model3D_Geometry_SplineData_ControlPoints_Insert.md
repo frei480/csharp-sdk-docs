@@ -14,19 +14,8 @@ public void Insert(
 	SplineDataControlPointsControlPoint point
 )
 ```
-```vb
-Public Sub Insert ( 
-	Index As UInteger,
-	point As SplineDataControlPointsControlPoint
-)
-```
-```cpp
-public:
-void Insert(
-	unsigned int Index, 
-	SplineDataControlPointsControlPoint^ point
-)
-```
+
+
 
 
 #### Параметры

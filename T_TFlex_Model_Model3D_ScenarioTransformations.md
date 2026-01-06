@@ -11,12 +11,8 @@
 ```csharp
 public sealed class ScenarioTransformations
 ```
-```vb
-Public NotInheritable Class ScenarioTransformations
-```
-```cpp
-public ref class ScenarioTransformations sealed
-```
+
+
 
 
 Тип ScenarioTransformations предоставляет следующие члены.

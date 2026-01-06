@@ -11,13 +11,8 @@
 ```csharp
 public bool IsUsingSizeParameter()
 ```
-```vb
-Public Function IsUsingSizeParameter As Boolean
-```
-```cpp
-public:
-bool IsUsingSizeParameter()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,18 +11,8 @@
 ```csharp
 public bool Direction { get; set; }
 ```
-```vb
-Public Property Direction As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Direction {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Возвращаемое значение

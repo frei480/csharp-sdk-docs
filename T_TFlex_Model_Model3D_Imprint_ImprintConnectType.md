@@ -11,12 +11,8 @@
 ```csharp
 public enum ImprintConnectType
 ```
-```vb
-Public Enumeration ImprintConnectType
-```
-```cpp
-public enum class ImprintConnectType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

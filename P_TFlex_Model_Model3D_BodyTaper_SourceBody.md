@@ -11,18 +11,8 @@
 ```csharp
 public Operation SourceBody { get; set; }
 ```
-```vb
-Public Property SourceBody As Operation
-	Get
-	Set
-```
-```cpp
-public:
-property Operation^ SourceBody {
-	Operation^ get ();
-	void set (Operation^ value);
-}
-```
+
+
 
 
 #### Значение свойства

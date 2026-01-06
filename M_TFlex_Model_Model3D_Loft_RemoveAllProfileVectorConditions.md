@@ -13,17 +13,8 @@ public void RemoveAllProfileVectorConditions(
 	int profileIndex
 )
 ```
-```vb
-Public Sub RemoveAllProfileVectorConditions ( 
-	profileIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveAllProfileVectorConditions(
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

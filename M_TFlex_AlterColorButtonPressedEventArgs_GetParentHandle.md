@@ -8,13 +8,8 @@
 ```csharp
 public IntPtr GetParentHandle()
 ```
-```vb
-Public Function GetParentHandle As IntPtr
-```
-```cpp
-public:
-IntPtr GetParentHandle()
-```
+
+
 
 
 #### Возвращаемое значение

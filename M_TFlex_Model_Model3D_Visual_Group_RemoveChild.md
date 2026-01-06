@@ -13,17 +13,8 @@ public bool RemoveChild(
 	int index
 )
 ```
-```vb
-Public Function RemoveChild ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool RemoveChild(
-	int index
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public interface Wire
 ```
-```vb
-Public Interface Wire
-```
-```cpp
-public interface class Wire
-```
+
+
 
 
 #### Ссылки

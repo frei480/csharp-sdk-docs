@@ -8,18 +8,8 @@
 ```csharp
 public List<Guid> ParentParamIDs { get; set; }
 ```
-```vb
-Public Property ParentParamIDs As List(Of Guid)
-	Get
-	Set
-```
-```cpp
-public:
-property List<Guid>^ ParentParamIDs {
-	List<Guid>^ get ();
-	void set (List<Guid>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

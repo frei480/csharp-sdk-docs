@@ -11,19 +11,8 @@ public static Curve Create(
 	bool makeCopy
 )
 ```
-```vb
-Public Shared Function Create ( 
-	curve As Integer,
-	makeCopy As Boolean
-) As Curve
-```
-```cpp
-public:
-static Curve^ Create(
-	int curve, 
-	bool makeCopy
-)
-```
+
+
 
 
 #### Параметры

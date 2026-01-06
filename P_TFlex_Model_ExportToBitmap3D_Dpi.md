@@ -8,18 +8,8 @@
 ```csharp
 public int Dpi { get; set; }
 ```
-```vb
-Public Property Dpi As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int Dpi {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

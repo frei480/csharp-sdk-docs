@@ -11,18 +11,8 @@ X-координата начальной точки
 ```csharp
 public double StartX { get; set; }
 ```
-```vb
-Public Property StartX As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double StartX {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

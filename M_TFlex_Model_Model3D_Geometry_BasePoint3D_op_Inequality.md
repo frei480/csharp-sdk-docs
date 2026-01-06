@@ -11,19 +11,8 @@ public static bool operator !=(
 	BasePoint3D point2
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	point1 As BasePoint3D,
-	point2 As BasePoint3D
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	BasePoint3D^ point1, 
-	BasePoint3D^ point2
-)
-```
+
+
 
 
 #### Параметры

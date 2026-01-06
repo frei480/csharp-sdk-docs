@@ -8,12 +8,8 @@
 ```csharp
 public enum SeparatorType
 ```
-```vb
-Public Enumeration SeparatorType
-```
-```cpp
-public enum class SeparatorType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

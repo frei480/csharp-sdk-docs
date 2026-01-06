@@ -13,17 +13,8 @@ public void SuppressEvents(
 	bool suppress
 )
 ```
-```vb
-Public Sub SuppressEvents ( 
-	suppress As Boolean
-)
-```
-```cpp
-public:
-void SuppressEvents(
-	bool suppress
-)
-```
+
+
 
 
 #### Параметры

@@ -13,12 +13,8 @@
 ```csharp
 public class Segment
 ```
-```vb
-Public Class Segment
-```
-```cpp
-public ref class Segment
-```
+
+
 
 
 Тип WireFromCurvesGeneratorSegment предоставляет следующие члены.

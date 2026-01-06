@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ImportFromKompas
 ```
-```vb
-Public NotInheritable Class ImportFromKompas
-```
-```cpp
-public ref class ImportFromKompas sealed
-```
+
+
 
 
 Тип ImportFromKompas предоставляет следующие члены.

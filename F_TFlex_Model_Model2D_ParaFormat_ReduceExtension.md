@@ -11,13 +11,8 @@
 ```csharp
 public double ReduceExtension
 ```
-```vb
-Public ReduceExtension As Double
-```
-```cpp
-public:
-double ReduceExtension
-```
+
+
 
 
 #### Значение поля

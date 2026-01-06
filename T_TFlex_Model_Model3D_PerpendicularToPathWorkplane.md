@@ -13,13 +13,8 @@
 ```csharp
 public class PerpendicularToPathWorkplane : Model3DWorkplane
 ```
-```vb
-Public Class PerpendicularToPathWorkplane
-	Inherits Model3DWorkplane
-```
-```cpp
-public ref class PerpendicularToPathWorkplane : public Model3DWorkplane
-```
+
+
 
 
 Тип PerpendicularToPathWorkplane предоставляет следующие члены.

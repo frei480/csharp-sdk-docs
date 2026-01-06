@@ -8,18 +8,8 @@
 ```csharp
 public bool SnapToFrozenObjects { get; set; }
 ```
-```vb
-Public Property SnapToFrozenObjects As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SnapToFrozenObjects {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

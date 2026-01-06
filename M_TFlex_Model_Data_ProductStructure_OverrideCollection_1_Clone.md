@@ -8,13 +8,8 @@
 ```csharp
 public abstract Object Clone()
 ```
-```vb
-Public MustOverride Function Clone As Object
-```
-```cpp
-public:
-virtual Object^ Clone() abstract
-```
+
+
 
 
 #### Возвращаемое значение

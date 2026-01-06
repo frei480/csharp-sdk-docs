@@ -8,18 +8,8 @@
 ```csharp
 public bool Handled { get; set; }
 ```
-```vb
-Public Property Handled As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Handled {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

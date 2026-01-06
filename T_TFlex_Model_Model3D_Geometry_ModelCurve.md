@@ -13,13 +13,8 @@
 ```csharp
 public class ModelCurve : BaseCurve
 ```
-```vb
-Public Class ModelCurve
-	Inherits BaseCurve
-```
-```cpp
-public ref class ModelCurve : public BaseCurve
-```
+
+
 
 
 Тип ModelCurve предоставляет следующие члены.

@@ -13,17 +13,8 @@ public void SetCheck(
 	bool fSet
 )
 ```
-```vb
-Public Sub SetCheck ( 
-	fSet As Boolean
-)
-```
-```cpp
-public:
-void SetCheck(
-	bool fSet
-)
-```
+
+
 
 
 #### Параметры

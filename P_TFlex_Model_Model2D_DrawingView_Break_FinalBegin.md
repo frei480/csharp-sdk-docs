@@ -11,18 +11,8 @@
 ```csharp
 public double FinalBegin { get; set; }
 ```
-```vb
-Public Property FinalBegin As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double FinalBegin {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

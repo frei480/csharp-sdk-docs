@@ -13,17 +13,8 @@ public void RemoveStepEdge(
 	int stepEdgeIndex
 )
 ```
-```vb
-Public Sub RemoveStepEdge ( 
-	stepEdgeIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveStepEdge(
-	int stepEdgeIndex
-)
-```
+
+
 
 
 #### Параметры

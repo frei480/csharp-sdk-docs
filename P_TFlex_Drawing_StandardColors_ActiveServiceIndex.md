@@ -11,16 +11,8 @@
 ```csharp
 public static int ActiveServiceIndex { get; }
 ```
-```vb
-Public Shared ReadOnly Property ActiveServiceIndex As Integer
-	Get
-```
-```cpp
-public:
-static property int ActiveServiceIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

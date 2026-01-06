@@ -11,16 +11,8 @@
 ```csharp
 public InterpolatingSplinePath3DDerivative StartDerivative { get; }
 ```
-```vb
-Public ReadOnly Property StartDerivative As InterpolatingSplinePath3DDerivative
-	Get
-```
-```cpp
-public:
-property InterpolatingSplinePath3DDerivative^ StartDerivative {
-	InterpolatingSplinePath3DDerivative^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

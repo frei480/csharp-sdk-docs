@@ -10,20 +10,8 @@ public TableFunctionDependence this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As Integer
-) As TableFunctionDependence
-	Get
-	Set
-```
-```cpp
-public:
-property TableFunctionDependence^ default[int index] {
-	TableFunctionDependence^ get (int index);
-	void set (int index, TableFunctionDependence^ value);
-}
-```
+
+
 
 
 #### Параметры

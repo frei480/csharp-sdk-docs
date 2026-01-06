@@ -8,18 +8,8 @@
 ```csharp
 public FormatBackgroundType FormatBackground { get; set; }
 ```
-```vb
-Public Property FormatBackground As FormatBackgroundType
-	Get
-	Set
-```
-```cpp
-public:
-property FormatBackgroundType FormatBackground {
-	FormatBackgroundType get ();
-	void set (FormatBackgroundType value);
-}
-```
+
+
 
 
 #### Значение свойства

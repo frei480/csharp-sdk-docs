@@ -11,18 +11,8 @@
 ```csharp
 protected bool AttributesFromSource { get; set; }
 ```
-```vb
-Protected Property AttributesFromSource As Boolean
-	Get
-	Set
-```
-```cpp
-protected:
-property bool AttributesFromSource {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

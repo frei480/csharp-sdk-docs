@@ -13,17 +13,8 @@ public int AddSource(
 	Object2D addSource
 )
 ```
-```vb
-Public Function AddSource ( 
-	addSource As Object2D
-) As Integer
-```
-```cpp
-public:
-int AddSource(
-	Object2D^ addSource
-)
-```
+
+
 
 
 #### Параметры

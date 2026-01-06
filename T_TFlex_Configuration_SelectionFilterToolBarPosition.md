@@ -8,12 +8,8 @@
 ```csharp
 public enum SelectionFilterToolBarPosition
 ```
-```vb
-Public Enumeration SelectionFilterToolBarPosition
-```
-```cpp
-public enum class SelectionFilterToolBarPosition
-```
+
+
 
 
 | Имя члена | Значение | Описание |

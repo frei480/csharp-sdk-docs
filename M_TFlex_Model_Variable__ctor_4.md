@@ -15,21 +15,8 @@ public Variable(
 	string expression
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	name As String,
-	expression As String
-)
-```
-```cpp
-public:
-Variable(
-	Document^ document, 
-	String^ name, 
-	String^ expression
-)
-```
+
+
 
 
 #### Параметры

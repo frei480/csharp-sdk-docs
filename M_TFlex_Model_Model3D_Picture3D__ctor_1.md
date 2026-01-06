@@ -13,17 +13,8 @@ public Picture3D(
 	FileLink link
 )
 ```
-```vb
-Public Sub New ( 
-	link As FileLink
-)
-```
-```cpp
-public:
-Picture3D(
-	FileLink^ link
-)
-```
+
+
 
 
 #### Параметры

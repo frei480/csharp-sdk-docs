@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToMetafile : ExportTo
 ```
-```vb
-Public NotInheritable Class ExportToMetafile
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportToMetafile sealed : public ExportTo
-```
+
+
 
 
 Тип ExportToMetafile предоставляет следующие члены.

@@ -16,23 +16,8 @@ public BetweenNode(
 	double coeff
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	first As Node,
-	second As Node,
-	coeff As Double
-)
-```
-```cpp
-public:
-BetweenNode(
-	Document^ document, 
-	Node^ first, 
-	Node^ second, 
-	double coeff
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class PlaneSection : Section3D
 ```
-```vb
-Public Class PlaneSection
-	Inherits Section3D
-```
-```cpp
-public ref class PlaneSection : public Section3D
-```
+
+
 
 
 Тип PlaneSection предоставляет следующие члены.

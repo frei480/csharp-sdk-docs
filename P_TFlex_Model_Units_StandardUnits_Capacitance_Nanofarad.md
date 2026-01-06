@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Nanofarad { get; }
 ```
-```vb
-Public Shared ReadOnly Property Nanofarad As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Nanofarad {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

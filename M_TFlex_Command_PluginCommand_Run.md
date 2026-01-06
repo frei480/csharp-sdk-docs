@@ -13,17 +13,8 @@ public void Run(
 	View Window
 )
 ```
-```vb
-Public Sub Run ( 
-	Window As View
-)
-```
-```cpp
-public:
-void Run(
-	View^ Window
-)
-```
+
+
 
 
 #### Параметры

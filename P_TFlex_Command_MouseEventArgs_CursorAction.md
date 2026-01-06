@@ -11,16 +11,8 @@
 ```csharp
 public CursorDrawAction CursorAction { get; }
 ```
-```vb
-Public ReadOnly Property CursorAction As CursorDrawAction
-	Get
-```
-```cpp
-public:
-property CursorDrawAction CursorAction {
-	CursorDrawAction get ();
-}
-```
+
+
 
 
 #### Значение свойства

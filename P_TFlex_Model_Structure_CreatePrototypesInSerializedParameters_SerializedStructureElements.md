@@ -8,18 +8,8 @@
 ```csharp
 public string SerializedStructureElements { get; set; }
 ```
-```vb
-Public Property SerializedStructureElements As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ SerializedStructureElements {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

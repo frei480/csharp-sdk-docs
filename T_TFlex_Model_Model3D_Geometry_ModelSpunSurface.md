@@ -14,15 +14,8 @@
 public sealed class ModelSpunSurface : ModelSurface, 
 	BaseSpunSurface
 ```
-```vb
-Public NotInheritable Class ModelSpunSurface
-	Inherits ModelSurface
-	Implements BaseSpunSurface
-```
-```cpp
-public ref class ModelSpunSurface sealed : public ModelSurface, 
-	BaseSpunSurface
-```
+
+
 
 
 Тип ModelSpunSurface предоставляет следующие члены.

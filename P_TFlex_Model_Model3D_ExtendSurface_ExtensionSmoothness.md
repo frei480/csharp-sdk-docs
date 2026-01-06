@@ -11,18 +11,8 @@
 ```csharp
 public ExtendSurfaceExtensionSmoothnessType ExtensionSmoothness { get; set; }
 ```
-```vb
-Public Property ExtensionSmoothness As ExtendSurfaceExtensionSmoothnessType
-	Get
-	Set
-```
-```cpp
-public:
-property ExtendSurfaceExtensionSmoothnessType ExtensionSmoothness {
-	ExtendSurfaceExtensionSmoothnessType get ();
-	void set (ExtendSurfaceExtensionSmoothnessType value);
-}
-```
+
+
 
 
 #### Значение свойства

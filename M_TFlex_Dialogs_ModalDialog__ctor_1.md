@@ -13,17 +13,8 @@ public ModalDialog(
 	string title
 )
 ```
-```vb
-Public Sub New ( 
-	title As String
-)
-```
-```cpp
-public:
-ModalDialog(
-	String^ title
-)
-```
+
+
 
 
 #### Параметры

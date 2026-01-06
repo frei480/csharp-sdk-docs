@@ -11,16 +11,8 @@
 ```csharp
 public WorkplaneGeometryData Geometry { get; }
 ```
-```vb
-Public ReadOnly Property Geometry As WorkplaneGeometryData
-	Get
-```
-```cpp
-public:
-property WorkplaneGeometryData^ Geometry {
-	WorkplaneGeometryData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public enum ImprintExtendType
 ```
-```vb
-Public Enumeration ImprintExtendType
-```
-```cpp
-public enum class ImprintExtendType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

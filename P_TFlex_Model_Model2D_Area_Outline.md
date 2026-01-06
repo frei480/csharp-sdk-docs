@@ -11,18 +11,8 @@
 ```csharp
 public bool Outline { get; set; }
 ```
-```vb
-Public Property Outline As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Outline {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

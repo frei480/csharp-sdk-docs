@@ -14,19 +14,8 @@ public void SetRange(
 	double maxValue
 )
 ```
-```vb
-Public Sub SetRange ( 
-	minValue As Double,
-	maxValue As Double
-)
-```
-```cpp
-public:
-void SetRange(
-	double minValue, 
-	double maxValue
-)
-```
+
+
 
 
 #### Параметры

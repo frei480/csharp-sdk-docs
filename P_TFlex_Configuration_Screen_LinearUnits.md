@@ -8,18 +8,8 @@
 ```csharp
 public LinearDimensionUnits LinearUnits { get; set; }
 ```
-```vb
-Public Property LinearUnits As LinearDimensionUnits
-	Get
-	Set
-```
-```cpp
-public:
-property LinearDimensionUnits LinearUnits {
-	LinearDimensionUnits get ();
-	void set (LinearDimensionUnits value);
-}
-```
+
+
 
 
 #### Значение свойства

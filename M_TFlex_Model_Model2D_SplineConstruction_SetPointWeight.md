@@ -14,19 +14,8 @@ public void SetPointWeight(
 	Parameter weight
 )
 ```
-```vb
-Public Sub SetPointWeight ( 
-	index As Integer,
-	weight As Parameter
-)
-```
-```cpp
-public:
-void SetPointWeight(
-	int index, 
-	Parameter^ weight
-)
-```
+
+
 
 
 #### Параметры

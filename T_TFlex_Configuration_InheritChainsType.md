@@ -8,12 +8,8 @@
 ```csharp
 public enum InheritChainsType
 ```
-```vb
-Public Enumeration InheritChainsType
-```
-```cpp
-public enum class InheritChainsType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

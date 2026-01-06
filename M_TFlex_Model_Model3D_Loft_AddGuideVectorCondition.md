@@ -14,19 +14,8 @@ public void AddGuideVectorCondition(
 	LoftVectorCondition condition
 )
 ```
-```vb
-Public Sub AddGuideVectorCondition ( 
-	guideIndex As Integer,
-	condition As LoftVectorCondition
-)
-```
-```cpp
-public:
-void AddGuideVectorCondition(
-	int guideIndex, 
-	LoftVectorCondition^ condition
-)
-```
+
+
 
 
 #### Параметры

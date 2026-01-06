@@ -13,17 +13,8 @@ public Point GetPoint(
 	uint id
 )
 ```
-```vb
-Public Function GetPoint ( 
-	id As UInteger
-) As Point
-```
-```cpp
-public:
-Point GetPoint(
-	unsigned int id
-)
-```
+
+
 
 
 #### Параметры

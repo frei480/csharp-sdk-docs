@@ -17,25 +17,8 @@ public void SetTwoOutlines(
 	bool isConusDim
 )
 ```
-```vb
-Public Sub SetTwoOutlines ( 
-	line1 As Outline,
-	isOnEnd1 As Boolean,
-	line2 As Outline,
-	isOnEnd2 As Boolean,
-	isConusDim As Boolean
-)
-```
-```cpp
-public:
-void SetTwoOutlines(
-	Outline^ line1, 
-	bool isOnEnd1, 
-	Outline^ line2, 
-	bool isOnEnd2, 
-	bool isConusDim
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum SideType
 ```
-```vb
-Public Enumeration SideType
-```
-```cpp
-public enum class SideType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,18 +11,8 @@
 ```csharp
 public int BoundQuadrant { get; set; }
 ```
-```vb
-Public Property BoundQuadrant As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int BoundQuadrant {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

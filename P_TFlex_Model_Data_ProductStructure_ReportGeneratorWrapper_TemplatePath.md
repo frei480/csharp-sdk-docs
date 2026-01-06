@@ -11,18 +11,8 @@
 ```csharp
 public string TemplatePath { get; set; }
 ```
-```vb
-Public Property TemplatePath As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TemplatePath {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

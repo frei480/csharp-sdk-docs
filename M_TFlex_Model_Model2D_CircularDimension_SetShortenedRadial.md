@@ -20,31 +20,8 @@ public void SetShortenedRadial(
 	double width
 )
 ```
-```vb
-Public Sub SetShortenedRadial ( 
-	circle As Object2D,
-	fixAngleNode As Node,
-	angle As Double,
-	offset As Double,
-	fixRatioNode As Node,
-	ratio As Double,
-	fixWidthNode As Node,
-	width As Double
-)
-```
-```cpp
-public:
-void SetShortenedRadial(
-	Object2D^ circle, 
-	Node^ fixAngleNode, 
-	double angle, 
-	double offset, 
-	Node^ fixRatioNode, 
-	double ratio, 
-	Node^ fixWidthNode, 
-	double width
-)
-```
+
+
 
 
 #### Параметры

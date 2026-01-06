@@ -8,12 +8,8 @@
 ```csharp
 public enum TracksLinkType
 ```
-```vb
-Public Enumeration TracksLinkType
-```
-```cpp
-public enum class TracksLinkType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,17 +13,8 @@ public double SetLineWidth(
 	double width
 )
 ```
-```vb
-Public Function SetLineWidth ( 
-	width As Double
-) As Double
-```
-```cpp
-public:
-double SetLineWidth(
-	double width
-)
-```
+
+
 
 
 #### Параметры

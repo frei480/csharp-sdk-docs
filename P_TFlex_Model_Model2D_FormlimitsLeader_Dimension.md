@@ -11,16 +11,8 @@
 ```csharp
 public Dimension Dimension { get; }
 ```
-```vb
-Public ReadOnly Property Dimension As Dimension
-	Get
-```
-```cpp
-public:
-property Dimension^ Dimension {
-	Dimension^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

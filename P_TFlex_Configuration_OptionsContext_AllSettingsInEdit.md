@@ -8,18 +8,8 @@
 ```csharp
 public IEnumerable<OptionsContextSettingsGroupInfo> AllSettingsInEdit { get; set; }
 ```
-```vb
-Public Property AllSettingsInEdit As IEnumerable(Of OptionsContextSettingsGroupInfo)
-	Get
-	Set
-```
-```cpp
-public:
-property IEnumerable<OptionsContextSettingsGroupInfo^>^ AllSettingsInEdit {
-	IEnumerable<OptionsContextSettingsGroupInfo^>^ get ();
-	void set (IEnumerable<OptionsContextSettingsGroupInfo^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

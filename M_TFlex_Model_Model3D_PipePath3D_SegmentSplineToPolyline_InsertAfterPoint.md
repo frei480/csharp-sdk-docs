@@ -10,17 +10,8 @@ public PipePath3DPointSplineToPolyline InsertAfterPoint(
 	PipePath3DPointSplineToPolyline pPoint
 )
 ```
-```vb
-Public Function InsertAfterPoint ( 
-	pPoint As PipePath3DPointSplineToPolyline
-) As PipePath3DPointSplineToPolyline
-```
-```cpp
-public:
-PipePath3DPointSplineToPolyline^ InsertAfterPoint(
-	PipePath3DPointSplineToPolyline^ pPoint
-)
-```
+
+
 
 
 #### Параметры

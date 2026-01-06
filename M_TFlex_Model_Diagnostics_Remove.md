@@ -13,17 +13,8 @@ public bool Remove(
 	DiagnosticsMessageId id
 )
 ```
-```vb
-Public Function Remove ( 
-	id As DiagnosticsMessageId
-) As Boolean
-```
-```cpp
-public:
-bool Remove(
-	DiagnosticsMessageId^ id
-)
-```
+
+
 
 
 #### Параметры

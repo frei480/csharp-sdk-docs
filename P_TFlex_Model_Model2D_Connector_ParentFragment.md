@@ -11,16 +11,8 @@
 ```csharp
 public Fragment ParentFragment { get; }
 ```
-```vb
-Public ReadOnly Property ParentFragment As Fragment
-	Get
-```
-```cpp
-public:
-property Fragment^ ParentFragment {
-	Fragment^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

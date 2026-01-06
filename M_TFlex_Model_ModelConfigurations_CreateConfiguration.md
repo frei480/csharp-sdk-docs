@@ -13,17 +13,8 @@ public bool CreateConfiguration(
 	string Name
 )
 ```
-```vb
-Public Function CreateConfiguration ( 
-	Name As String
-) As Boolean
-```
-```cpp
-public:
-bool CreateConfiguration(
-	String^ Name
-)
-```
+
+
 
 
 #### Параметры

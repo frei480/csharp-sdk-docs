@@ -11,13 +11,8 @@
 ```csharp
 public OptionsPropertiesOverrides()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-OptionsPropertiesOverrides()
-```
+
+
 
 
 #### Ссылки

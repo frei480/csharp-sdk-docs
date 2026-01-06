@@ -13,23 +13,8 @@ public static Data CreateObjectMarker(
 	List<ObjectId> objectIDs
 )
 ```
-```vb
-Public Shared Function CreateObjectMarker ( 
-	id As ULong,
-	name As String,
-	page As Page,
-	objectIDs As List(Of ObjectId)
-) As Data
-```
-```cpp
-public:
-static Data^ CreateObjectMarker(
-	unsigned long long id, 
-	String^ name, 
-	Page^ page, 
-	List<ObjectId^>^ objectIDs
-)
-```
+
+
 
 
 #### Параметры

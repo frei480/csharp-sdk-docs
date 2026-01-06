@@ -14,19 +14,8 @@ public static RichText CopyReportTemplateIntoDocument(
 	Document templateDocument
 )
 ```
-```vb
-Public Shared Function CopyReportTemplateIntoDocument ( 
-	document As Document,
-	templateDocument As Document
-) As RichText
-```
-```cpp
-public:
-static RichText^ CopyReportTemplateIntoDocument(
-	Document^ document, 
-	Document^ templateDocument
-)
-```
+
+
 
 
 #### Параметры

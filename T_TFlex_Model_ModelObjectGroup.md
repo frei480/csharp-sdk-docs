@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ModelObjectGroup
 ```
-```vb
-Public NotInheritable Class ModelObjectGroup
-```
-```cpp
-public ref class ModelObjectGroup sealed
-```
+
+
 
 
 Тип ModelObjectGroup предоставляет следующие члены.

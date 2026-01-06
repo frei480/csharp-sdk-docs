@@ -8,13 +8,8 @@
 ```csharp
 protected override bool Complete()
 ```
-```vb
-Protected Overrides Function Complete As Boolean
-```
-```cpp
-protected:
-virtual bool Complete() override
-```
+
+
 
 
 #### Возвращаемое значение

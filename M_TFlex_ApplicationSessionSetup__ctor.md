@@ -11,13 +11,8 @@
 ```csharp
 public ApplicationSessionSetup()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ApplicationSessionSetup()
-```
+
+
 
 
 #### Ссылки

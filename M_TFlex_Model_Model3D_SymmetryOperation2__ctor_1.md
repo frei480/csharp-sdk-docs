@@ -14,19 +14,8 @@ public SymmetryOperation2(
 	CopyBaseOperation2Type type
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	type As CopyBaseOperation2Type
-)
-```
-```cpp
-public:
-SymmetryOperation2(
-	Document^ document, 
-	CopyBaseOperation2Type type
-)
-```
+
+
 
 
 #### Параметры

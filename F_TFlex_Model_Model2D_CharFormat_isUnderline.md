@@ -11,13 +11,8 @@
 ```csharp
 public bool isUnderline
 ```
-```vb
-Public isUnderline As Boolean
-```
-```cpp
-public:
-bool isUnderline
-```
+
+
 
 
 #### Значение поля

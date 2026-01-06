@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ScaleX { get; set; }
 ```
-```vb
-Public Property ScaleX As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ScaleX {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

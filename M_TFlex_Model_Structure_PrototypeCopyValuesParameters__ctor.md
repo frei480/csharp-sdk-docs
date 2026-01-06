@@ -11,13 +11,8 @@
 ```csharp
 public PrototypeCopyValuesParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PrototypeCopyValuesParameters()
-```
+
+
 
 
 #### Ссылки

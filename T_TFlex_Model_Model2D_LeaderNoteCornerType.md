@@ -11,12 +11,8 @@
 ```csharp
 public enum LeaderNoteCornerType
 ```
-```vb
-Public Enumeration LeaderNoteCornerType
-```
-```cpp
-public enum class LeaderNoteCornerType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

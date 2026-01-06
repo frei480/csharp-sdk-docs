@@ -8,18 +8,8 @@
 ```csharp
 public ISet<Guid> OnlyParameters { get; set; }
 ```
-```vb
-Public Property OnlyParameters As ISet(Of Guid)
-	Get
-	Set
-```
-```cpp
-public:
-property ISet<Guid>^ OnlyParameters {
-	ISet<Guid>^ get ();
-	void set (ISet<Guid>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

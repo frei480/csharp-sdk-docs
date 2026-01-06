@@ -12,15 +12,8 @@
 public class Groupings : ObservableCollection<GroupingRules>, 
 	ICloneable
 ```
-```vb
-Public Class Groupings
-	Inherits ObservableCollection(Of GroupingRules)
-	Implements ICloneable
-```
-```cpp
-public ref class Groupings : public ObservableCollection<GroupingRules^>, 
-	ICloneable
-```
+
+
 
 
 Тип Groupings предоставляет следующие члены.

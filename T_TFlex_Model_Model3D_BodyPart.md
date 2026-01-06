@@ -13,13 +13,8 @@
 ```csharp
 public sealed class BodyPart : IDisposable
 ```
-```vb
-Public NotInheritable Class BodyPart
-	Implements IDisposable
-```
-```cpp
-public ref class BodyPart sealed : IDisposable
-```
+
+
 
 
 Тип BodyPart предоставляет следующие члены.

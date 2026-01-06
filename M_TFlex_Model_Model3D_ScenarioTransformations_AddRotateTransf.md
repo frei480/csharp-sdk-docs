@@ -14,19 +14,8 @@ public void AddRotateTransf(
 	double angle
 )
 ```
-```vb
-Public Sub AddRotateTransf ( 
-	axis As TransformationCoordinate,
-	angle As Double
-)
-```
-```cpp
-public:
-void AddRotateTransf(
-	TransformationCoordinate axis, 
-	double angle
-)
-```
+
+
 
 
 #### Параметры

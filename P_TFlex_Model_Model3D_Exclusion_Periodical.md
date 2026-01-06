@@ -11,18 +11,8 @@
 ```csharp
 public bool Periodical { get; set; }
 ```
-```vb
-Public Property Periodical As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Periodical {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

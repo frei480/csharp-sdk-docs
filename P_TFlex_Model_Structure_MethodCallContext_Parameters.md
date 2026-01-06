@@ -8,18 +8,8 @@
 ```csharp
 public Object[] Parameters { get; set; }
 ```
-```vb
-Public Property Parameters As Object()
-	Get
-	Set
-```
-```cpp
-public:
-property array<Object^>^ Parameters {
-	array<Object^>^ get ();
-	void set (array<Object^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

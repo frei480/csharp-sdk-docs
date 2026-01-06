@@ -8,16 +8,8 @@
 ```csharp
 public Curve Curve { get; }
 ```
-```vb
-Public ReadOnly Property Curve As Curve
-	Get
-```
-```cpp
-public:
-property Curve^ Curve {
-	Curve^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

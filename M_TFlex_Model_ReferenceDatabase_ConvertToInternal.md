@@ -13,17 +13,8 @@ public static InternalDatabase ConvertToInternal(
 	ReferenceDatabase sourceDatabase
 )
 ```
-```vb
-Public Shared Function ConvertToInternal ( 
-	sourceDatabase As ReferenceDatabase
-) As InternalDatabase
-```
-```cpp
-public:
-static InternalDatabase^ ConvertToInternal(
-	ReferenceDatabase^ sourceDatabase
-)
-```
+
+
 
 
 #### Параметры

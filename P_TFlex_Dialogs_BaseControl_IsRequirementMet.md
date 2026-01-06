@@ -11,18 +11,8 @@
 ```csharp
 public bool IsRequirementMet { get; set; }
 ```
-```vb
-Public Property IsRequirementMet As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsRequirementMet {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

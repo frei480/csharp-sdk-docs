@@ -8,18 +8,8 @@
 ```csharp
 public bool IsSimpleVersion { get; set; }
 ```
-```vb
-Public Property IsSimpleVersion As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsSimpleVersion {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

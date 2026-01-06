@@ -8,13 +8,8 @@
 ```csharp
 public const int HOLES_TYPE = 20004
 ```
-```vb
-Public Const HOLES_TYPE As Integer = 20004
-```
-```cpp
-public:
-literal int HOLES_TYPE = 20004
-```
+
+
 
 
 #### Значение поля

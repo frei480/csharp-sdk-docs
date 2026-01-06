@@ -11,18 +11,8 @@
 ```csharp
 public string EndArrowNote { get; set; }
 ```
-```vb
-Public Property EndArrowNote As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ EndArrowNote {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

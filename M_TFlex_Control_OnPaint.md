@@ -13,17 +13,8 @@ protected override void OnPaint(
 	PaintEventArgs e
 )
 ```
-```vb
-Protected Overrides Sub OnPaint ( 
-	e As PaintEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnPaint(
-	PaintEventArgs^ e
-) override
-```
+
+
 
 
 #### Параметры

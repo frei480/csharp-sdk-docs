@@ -13,17 +13,8 @@ public ExportToPOV(
 	View view
 )
 ```
-```vb
-Public Sub New ( 
-	view As View
-)
-```
-```cpp
-public:
-ExportToPOV(
-	View^ view
-)
-```
+
+
 
 
 #### Параметры

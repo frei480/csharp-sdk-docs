@@ -11,18 +11,8 @@
 ```csharp
 public ReportContentType ContentType { get; set; }
 ```
-```vb
-Public Property ContentType As ReportContentType
-	Get
-	Set
-```
-```cpp
-public:
-property ReportContentType ContentType {
-	ReportContentType get ();
-	void set (ReportContentType value);
-}
-```
+
+
 
 
 #### Значение свойства

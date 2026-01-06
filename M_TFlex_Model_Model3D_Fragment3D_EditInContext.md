@@ -11,13 +11,8 @@
 ```csharp
 public Document EditInContext()
 ```
-```vb
-Public Function EditInContext As Document
-```
-```cpp
-public:
-Document^ EditInContext()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -10,17 +10,8 @@ public bool AttachBus(
 	Bus bus
 )
 ```
-```vb
-Public Function AttachBus ( 
-	bus As Bus
-) As Boolean
-```
-```cpp
-public:
-bool AttachBus(
-	Bus^ bus
-)
-```
+
+
 
 
 #### Параметры

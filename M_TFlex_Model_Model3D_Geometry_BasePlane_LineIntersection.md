@@ -13,17 +13,8 @@ public Point3D LineIntersection(
 	Axis line
 )
 ```
-```vb
-Public Function LineIntersection ( 
-	line As Axis
-) As Point3D
-```
-```cpp
-public:
-Point3D^ LineIntersection(
-	Axis^ line
-)
-```
+
+
 
 
 #### Параметры

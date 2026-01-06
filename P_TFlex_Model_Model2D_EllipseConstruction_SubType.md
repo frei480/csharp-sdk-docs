@@ -11,16 +11,8 @@
 ```csharp
 public override ConstructionType SubType { get; }
 ```
-```vb
-Public Overrides ReadOnly Property SubType As ConstructionType
-	Get
-```
-```cpp
-public:
-virtual property ConstructionType SubType {
-	ConstructionType get () override;
-}
-```
+
+
 
 
 #### Значение свойства

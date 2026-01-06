@@ -11,13 +11,8 @@
 ```csharp
 public ProxyObject2D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ProxyObject2D()
-```
+
+
 
 
 #### Ссылки

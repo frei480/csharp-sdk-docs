@@ -11,13 +11,8 @@
 ```csharp
 public PageZones()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PageZones()
-```
+
+
 
 
 #### Ссылки

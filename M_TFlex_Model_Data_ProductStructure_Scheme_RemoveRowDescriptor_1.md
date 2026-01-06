@@ -10,17 +10,8 @@ public void RemoveRowDescriptor(
 	int nIndex
 )
 ```
-```vb
-Public Sub RemoveRowDescriptor ( 
-	nIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveRowDescriptor(
-	int nIndex
-)
-```
+
+
 
 
 #### Параметры

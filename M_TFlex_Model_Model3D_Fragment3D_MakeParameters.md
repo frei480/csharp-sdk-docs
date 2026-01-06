@@ -15,27 +15,8 @@ public List<uint> MakeParameters(
 	bool associative
 )
 ```
-```vb
-Public Function MakeParameters ( 
-	objects As List(Of ModelObject),
-	saveFragmentDocument As Boolean,
-	closeFragmentDocument As Boolean,
-	regenerateAssembly As Boolean,
-	copyConnectorInfo As Boolean,
-	associative As Boolean
-) As List(Of UInteger)
-```
-```cpp
-public:
-List<unsigned int>^ MakeParameters(
-	List<ModelObject^>^ objects, 
-	bool saveFragmentDocument, 
-	bool closeFragmentDocument, 
-	bool regenerateAssembly, 
-	bool copyConnectorInfo, 
-	bool associative
-)
-```
+
+
 
 
 #### Параметры

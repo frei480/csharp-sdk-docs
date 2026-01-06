@@ -11,18 +11,8 @@
 ```csharp
 public bool Silent { get; set; }
 ```
-```vb
-Public Property Silent As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Silent {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

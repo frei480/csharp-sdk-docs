@@ -14,19 +14,8 @@ public ProjectionWithSection(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-public:
-ProjectionWithSection(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

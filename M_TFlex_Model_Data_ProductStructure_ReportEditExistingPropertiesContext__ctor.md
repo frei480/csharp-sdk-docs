@@ -11,13 +11,8 @@
 ```csharp
 public ReportEditExistingPropertiesContext()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ReportEditExistingPropertiesContext()
-```
+
+
 
 
 #### Ссылки

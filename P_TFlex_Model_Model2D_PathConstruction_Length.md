@@ -11,16 +11,8 @@
 ```csharp
 public Parameter Length { get; }
 ```
-```vb
-Public ReadOnly Property Length As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ Length {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

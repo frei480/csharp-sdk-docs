@@ -8,18 +8,8 @@
 ```csharp
 public bool TreeColumn { get; set; }
 ```
-```vb
-Public Property TreeColumn As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool TreeColumn {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

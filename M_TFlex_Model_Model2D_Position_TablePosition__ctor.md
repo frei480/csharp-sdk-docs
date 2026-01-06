@@ -14,19 +14,8 @@ public TablePosition(
 	int cellIndex
 )
 ```
-```vb
-Public Sub New ( 
-	tableIndex As Integer,
-	cellIndex As Integer
-)
-```
-```cpp
-public:
-TablePosition(
-	int tableIndex, 
-	int cellIndex
-)
-```
+
+
 
 
 #### Параметры

@@ -16,23 +16,8 @@ public Fragment3D(
 	bool autoSave
 )
 ```
-```vb
-Public Sub New ( 
-	fileName As String,
-	document As Document,
-	copy As Boolean,
-	autoSave As Boolean
-)
-```
-```cpp
-public:
-Fragment3D(
-	String^ fileName, 
-	Document^ document, 
-	bool copy, 
-	bool autoSave
-)
-```
+
+
 
 
 #### Параметры

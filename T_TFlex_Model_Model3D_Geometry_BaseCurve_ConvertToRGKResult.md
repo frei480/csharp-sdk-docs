@@ -13,12 +13,8 @@
 ```csharp
 public class ConvertToRGKResult
 ```
-```vb
-Public Class ConvertToRGKResult
-```
-```cpp
-public ref class ConvertToRGKResult
-```
+
+
 
 
 Тип BaseCurveConvertToRGKResult предоставляет следующие члены.

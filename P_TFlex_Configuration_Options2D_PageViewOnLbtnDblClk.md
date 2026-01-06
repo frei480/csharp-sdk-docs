@@ -8,18 +8,8 @@
 ```csharp
 public PageViewOnLbtnDblClkAction PageViewOnLbtnDblClk { get; set; }
 ```
-```vb
-Public Property PageViewOnLbtnDblClk As PageViewOnLbtnDblClkAction
-	Get
-	Set
-```
-```cpp
-public:
-property PageViewOnLbtnDblClkAction PageViewOnLbtnDblClk {
-	PageViewOnLbtnDblClkAction get ();
-	void set (PageViewOnLbtnDblClkAction value);
-}
-```
+
+
 
 
 #### Значение свойства

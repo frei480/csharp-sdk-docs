@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Pascal { get; }
 ```
-```vb
-Public Shared ReadOnly Property Pascal As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Pascal {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

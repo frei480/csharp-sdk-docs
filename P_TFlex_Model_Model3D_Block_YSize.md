@@ -11,18 +11,8 @@
 ```csharp
 public Parameter YSize { get; set; }
 ```
-```vb
-Public Property YSize As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ YSize {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

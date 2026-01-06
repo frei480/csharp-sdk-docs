@@ -11,13 +11,8 @@
 ```csharp
 public void DeleteMateTransformation()
 ```
-```vb
-Public Sub DeleteMateTransformation
-```
-```cpp
-public:
-void DeleteMateTransformation()
-```
+
+
 
 
 #### Ссылки

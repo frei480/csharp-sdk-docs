@@ -14,19 +14,8 @@ public void AppendSystemCommand(
 	string Caption
 )
 ```
-```vb
-Public Sub AppendSystemCommand ( 
-	CommandID As Integer,
-	Caption As String
-)
-```
-```cpp
-public:
-void AppendSystemCommand(
-	int CommandID, 
-	String^ Caption
-)
-```
+
+
 
 
 #### Параметры

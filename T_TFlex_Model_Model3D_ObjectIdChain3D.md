@@ -11,14 +11,8 @@
 ```csharp
 public class ObjectIdChain3D
 ```
-```vb
-<ExtensionAttribute>
-Public Class ObjectIdChain3D
-```
-```cpp
-[ExtensionAttribute]
-public ref class ObjectIdChain3D
-```
+
+
 
 
 Тип ObjectIdChain3D предоставляет следующие члены.

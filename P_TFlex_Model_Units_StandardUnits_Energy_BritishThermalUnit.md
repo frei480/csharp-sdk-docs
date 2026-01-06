@@ -13,16 +13,8 @@
 ```csharp
 public static Unit BritishThermalUnit { get; }
 ```
-```vb
-Public Shared ReadOnly Property BritishThermalUnit As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ BritishThermalUnit {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

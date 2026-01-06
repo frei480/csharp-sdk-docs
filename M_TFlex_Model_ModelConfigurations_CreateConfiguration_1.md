@@ -15,21 +15,8 @@ public bool CreateConfiguration(
 	bool isVariation
 )
 ```
-```vb
-Public Function CreateConfiguration ( 
-	name As String,
-	variationName As String,
-	isVariation As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool CreateConfiguration(
-	String^ name, 
-	String^ variationName, 
-	bool isVariation
-)
-```
+
+
 
 
 #### Параметры

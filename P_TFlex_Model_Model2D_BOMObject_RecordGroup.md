@@ -11,18 +11,8 @@
 ```csharp
 public uint RecordGroup { get; set; }
 ```
-```vb
-Public Property RecordGroup As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int RecordGroup {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

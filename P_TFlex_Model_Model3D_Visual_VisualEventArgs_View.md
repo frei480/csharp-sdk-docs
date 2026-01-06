@@ -8,16 +8,8 @@
 ```csharp
 public View3D View { get; }
 ```
-```vb
-Public ReadOnly Property View As View3D
-	Get
-```
-```cpp
-public:
-property View3D^ View {
-	View3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

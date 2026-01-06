@@ -13,17 +13,8 @@ public void UserIncrement(
 	int countTimes
 )
 ```
-```vb
-Public Sub UserIncrement ( 
-	countTimes As Integer
-)
-```
-```cpp
-public:
-void UserIncrement(
-	int countTimes
-)
-```
+
+
 
 
 #### Параметры

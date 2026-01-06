@@ -14,19 +14,8 @@ public void Insert(
 	PathBy2DElemsSegmentsSetSegment segment
 )
 ```
-```vb
-Public Sub Insert ( 
-	Index As Integer,
-	segment As PathBy2DElemsSegmentsSetSegment
-)
-```
-```cpp
-public:
-void Insert(
-	int Index, 
-	PathBy2DElemsSegmentsSetSegment^ segment
-)
-```
+
+
 
 
 #### Параметры

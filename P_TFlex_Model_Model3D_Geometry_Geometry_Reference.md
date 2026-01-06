@@ -11,16 +11,8 @@
 ```csharp
 public Object3D Reference { get; }
 ```
-```vb
-Public ReadOnly Property Reference As Object3D
-	Get
-```
-```cpp
-public:
-property Object3D^ Reference {
-	Object3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

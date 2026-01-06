@@ -11,19 +11,8 @@ public static MultiLink CreateFromBuses(
 	Bus bus2
 )
 ```
-```vb
-Public Shared Function CreateFromBuses ( 
-	bus1 As Bus,
-	bus2 As Bus
-) As MultiLink
-```
-```cpp
-public:
-static MultiLink^ CreateFromBuses(
-	Bus^ bus1, 
-	Bus^ bus2
-)
-```
+
+
 
 
 #### Параметры

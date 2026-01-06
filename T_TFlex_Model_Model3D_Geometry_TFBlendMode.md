@@ -11,12 +11,8 @@
 ```csharp
 public enum TFBlendMode
 ```
-```vb
-Public Enumeration TFBlendMode
-```
-```cpp
-public enum class TFBlendMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

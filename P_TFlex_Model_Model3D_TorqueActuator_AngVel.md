@@ -11,18 +11,8 @@
 ```csharp
 public double AngVel { get; set; }
 ```
-```vb
-Public Property AngVel As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double AngVel {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public BaseLoops()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-BaseLoops()
-```
+
+
 
 
 #### Ссылки

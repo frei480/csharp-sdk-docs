@@ -13,16 +13,8 @@
 ```csharp
 public static Unit KilogramPerCubicMeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property KilogramPerCubicMeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ KilogramPerCubicMeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

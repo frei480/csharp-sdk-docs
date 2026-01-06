@@ -13,17 +13,8 @@ public ViewPointsArray(
 	ViewSection pObject
 )
 ```
-```vb
-Public Sub New ( 
-	pObject As ViewSection
-)
-```
-```cpp
-public:
-ViewPointsArray(
-	ViewSection^ pObject
-)
-```
+
+
 
 
 #### Параметры

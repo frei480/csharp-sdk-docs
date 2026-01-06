@@ -11,19 +11,8 @@ public void XMLSerialize(
 	string elemName
 )
 ```
-```vb
-Public Sub XMLSerialize ( 
-	writer As XmlWriter,
-	elemName As String
-)
-```
-```cpp
-public:
-void XMLSerialize(
-	XmlWriter^ writer, 
-	String^ elemName
-)
-```
+
+
 
 
 #### Параметры

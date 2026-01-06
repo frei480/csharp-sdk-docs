@@ -13,13 +13,8 @@
 ```csharp
 public class EditControl : VariableControl
 ```
-```vb
-Public Class EditControl
-	Inherits VariableControl
-```
-```cpp
-public ref class EditControl : public VariableControl
-```
+
+
 
 
 Тип EditControl предоставляет следующие члены.

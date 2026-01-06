@@ -11,18 +11,8 @@
 ```csharp
 public double cx { get; set; }
 ```
-```vb
-Public Property cx As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double cx {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

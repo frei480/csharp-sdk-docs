@@ -14,19 +14,8 @@ public NodeArrayOperation(
 	ArrayOperationType type
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	type As ArrayOperationType
-)
-```
-```cpp
-public:
-NodeArrayOperation(
-	Document^ Doc, 
-	ArrayOperationType type
-)
-```
+
+
 
 
 #### Параметры

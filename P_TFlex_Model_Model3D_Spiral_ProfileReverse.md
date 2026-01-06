@@ -11,18 +11,8 @@
 ```csharp
 public bool ProfileReverse { get; set; }
 ```
-```vb
-Public Property ProfileReverse As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ProfileReverse {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

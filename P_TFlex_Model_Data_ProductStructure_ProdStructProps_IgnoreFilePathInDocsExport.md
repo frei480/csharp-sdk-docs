@@ -8,18 +8,8 @@
 ```csharp
 public bool IgnoreFilePathInDocsExport { get; set; }
 ```
-```vb
-Public Property IgnoreFilePathInDocsExport As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IgnoreFilePathInDocsExport {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public double Stretching { get; set; }
 ```
-```vb
-Public Property Stretching As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Stretching {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

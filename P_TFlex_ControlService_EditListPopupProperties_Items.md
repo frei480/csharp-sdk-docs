@@ -8,18 +8,8 @@
 ```csharp
 public IReadOnlyList<MenuItem> Items { get; set; }
 ```
-```vb
-Public Property Items As IReadOnlyList(Of MenuItem)
-	Get
-	Set
-```
-```cpp
-public:
-property IReadOnlyList<MenuItem^>^ Items {
-	IReadOnlyList<MenuItem^>^ get ();
-	void set (IReadOnlyList<MenuItem^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public TypeValue AsEnumValue { get; set; }
 ```
-```vb
-Public Property AsEnumValue As TypeValue
-	Get
-	Set
-```
-```cpp
-public:
-property TypeValue^ AsEnumValue {
-	TypeValue^ get ();
-	void set (TypeValue^ value);
-}
-```
+
+
 
 
 #### Значение свойства

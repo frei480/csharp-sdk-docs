@@ -13,13 +13,8 @@
 ```csharp
 public class LinearArray : CopyOperation
 ```
-```vb
-Public Class LinearArray
-	Inherits CopyOperation
-```
-```cpp
-public ref class LinearArray : public CopyOperation
-```
+
+
 
 
 Тип LinearArray предоставляет следующие члены.

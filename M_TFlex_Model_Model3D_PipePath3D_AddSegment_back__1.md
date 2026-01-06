@@ -18,21 +18,8 @@ public Type AddSegment_back<Type>(
 where Type : PipePath3DBaseSegment
 
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. Please use 'AddBackSegment' method.")>
-Public Function AddSegment_back(Of Type As PipePath3DBaseSegment) ( 
-	type As SegmentPipePathType
-) As Type
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. Please use 'AddBackSegment' method.")]
-generic<typename Type>
-where Type : PipePath3DBaseSegment
-Type AddSegment_back(
-	SegmentPipePathType type
-)
-```
+
+
 
 
 #### Параметры

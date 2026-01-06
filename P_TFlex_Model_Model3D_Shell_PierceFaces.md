@@ -8,16 +8,8 @@
 ```csharp
 public ShellPierceFacesArray PierceFaces { get; }
 ```
-```vb
-Public ReadOnly Property PierceFaces As ShellPierceFacesArray
-	Get
-```
-```cpp
-public:
-property ShellPierceFacesArray^ PierceFaces {
-	ShellPierceFacesArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

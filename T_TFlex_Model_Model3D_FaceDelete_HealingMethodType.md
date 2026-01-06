@@ -11,12 +11,8 @@
 ```csharp
 public enum HealingMethodType
 ```
-```vb
-Public Enumeration HealingMethodType
-```
-```cpp
-public enum class HealingMethodType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

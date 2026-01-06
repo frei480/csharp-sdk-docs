@@ -11,12 +11,8 @@
 ```csharp
 public enum DatabaseColumnType
 ```
-```vb
-Public Enumeration DatabaseColumnType
-```
-```cpp
-public enum class DatabaseColumnType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,14 +11,8 @@
 ```csharp
 public class Document3D
 ```
-```vb
-<ExtensionAttribute>
-Public Class Document3D
-```
-```cpp
-[ExtensionAttribute]
-public ref class Document3D
-```
+
+
 
 
 Тип Document3D предоставляет следующие члены.

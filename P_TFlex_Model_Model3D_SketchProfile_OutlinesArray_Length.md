@@ -11,16 +11,8 @@
 ```csharp
 public int Length { get; }
 ```
-```vb
-Public ReadOnly Property Length As Integer
-	Get
-```
-```cpp
-public:
-property int Length {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

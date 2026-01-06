@@ -11,13 +11,8 @@
 ```csharp
 public void ReturnIgnore()
 ```
-```vb
-Public Sub ReturnIgnore
-```
-```cpp
-public:
-void ReturnIgnore()
-```
+
+
 
 
 #### Ссылки

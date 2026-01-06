@@ -15,21 +15,8 @@ public void SetRealAttribute(
 	bool change
 )
 ```
-```vb
-Public Sub SetRealAttribute ( 
-	attribName As String,
-	value As Double,
-	change As Boolean
-)
-```
-```cpp
-public:
-void SetRealAttribute(
-	String^ attribName, 
-	double value, 
-	bool change
-)
-```
+
+
 
 
 #### Параметры

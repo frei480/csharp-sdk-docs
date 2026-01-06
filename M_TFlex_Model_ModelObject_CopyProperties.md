@@ -11,13 +11,8 @@
 ```csharp
 public void CopyProperties()
 ```
-```vb
-Public Sub CopyProperties
-```
-```cpp
-public:
-void CopyProperties()
-```
+
+
 
 
 #### Ссылки

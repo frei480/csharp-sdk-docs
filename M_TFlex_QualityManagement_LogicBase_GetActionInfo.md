@@ -13,17 +13,8 @@ public abstract ActionInfo GetActionInfo(
 	GetActionInfoContext context
 )
 ```
-```vb
-Public MustOverride Function GetActionInfo ( 
-	context As GetActionInfoContext
-) As ActionInfo
-```
-```cpp
-public:
-virtual ActionInfo^ GetActionInfo(
-	GetActionInfoContext^ context
-) abstract
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class PropertyParameterProvider : IParameterProvider
 ```
-```vb
-Public Class PropertyParameterProvider
-	Inherits IParameterProvider
-```
-```cpp
-public ref class PropertyParameterProvider : public IParameterProvider
-```
+
+
 
 
 Тип PropertyParameterProvider предоставляет следующие члены.

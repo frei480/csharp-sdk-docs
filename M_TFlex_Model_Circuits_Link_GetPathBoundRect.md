@@ -11,19 +11,8 @@ public override Rectangle GetPathBoundRect(
 	FixingVector point2
 )
 ```
-```vb
-Public Overrides Function GetPathBoundRect ( 
-	point1 As FixingVector,
-	point2 As FixingVector
-) As Rectangle
-```
-```cpp
-public:
-virtual Rectangle GetPathBoundRect(
-	FixingVector^ point1, 
-	FixingVector^ point2
-) override
-```
+
+
 
 
 #### Параметры

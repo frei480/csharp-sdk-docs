@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'FullFilePath' property.")]
 public string PathName { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'FullFilePath' property.")>
-Public ReadOnly Property PathName As String
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'FullFilePath' property.")]
-property String^ PathName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

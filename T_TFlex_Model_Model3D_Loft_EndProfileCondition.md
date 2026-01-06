@@ -13,12 +13,8 @@
 ```csharp
 public abstract class EndProfileCondition
 ```
-```vb
-Public MustInherit Class EndProfileCondition
-```
-```cpp
-public ref class EndProfileCondition abstract
-```
+
+
 
 
 Тип LoftEndProfileCondition предоставляет следующие члены.

@@ -8,13 +8,8 @@
 ```csharp
 protected virtual TabControl CreatePageTabControl()
 ```
-```vb
-Protected Overridable Function CreatePageTabControl As TabControl
-```
-```cpp
-protected:
-virtual TabControl^ CreatePageTabControl()
-```
+
+
 
 
 #### Возвращаемое значение

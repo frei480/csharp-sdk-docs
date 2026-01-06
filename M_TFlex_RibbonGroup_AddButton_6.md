@@ -15,21 +15,8 @@ public RibbonButton AddButton(
 	RibbonButtonStyle style
 )
 ```
-```vb
-Public Function AddButton ( 
-	commandId As Integer,
-	plugin As Plugin,
-	style As RibbonButtonStyle
-) As RibbonButton
-```
-```cpp
-public:
-RibbonButton^ AddButton(
-	int commandId, 
-	Plugin^ plugin, 
-	RibbonButtonStyle style
-)
-```
+
+
 
 
 #### Параметры

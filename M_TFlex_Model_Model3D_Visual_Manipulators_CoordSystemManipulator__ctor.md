@@ -11,13 +11,8 @@
 ```csharp
 public CoordSystemManipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CoordSystemManipulator()
-```
+
+
 
 
 #### Ссылки

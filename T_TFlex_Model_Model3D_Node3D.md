@@ -13,13 +13,8 @@
 ```csharp
 public class Node3D : Construction3D
 ```
-```vb
-Public Class Node3D
-	Inherits Construction3D
-```
-```cpp
-public ref class Node3D : public Construction3D
-```
+
+
 
 
 Тип Node3D предоставляет следующие члены.

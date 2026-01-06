@@ -13,13 +13,8 @@
 ```csharp
 public class Tabs : IEnumerable<double>
 ```
-```vb
-Public Class Tabs
-	Implements IEnumerable(Of Double)
-```
-```cpp
-public ref class Tabs : IEnumerable<double>
-```
+
+
 
 
 Тип ParaFormatTabs предоставляет следующие члены.

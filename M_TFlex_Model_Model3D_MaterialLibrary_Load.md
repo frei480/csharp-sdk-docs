@@ -13,17 +13,8 @@ public void Load(
 	string FileName
 )
 ```
-```vb
-Public Sub Load ( 
-	FileName As String
-)
-```
-```cpp
-public:
-void Load(
-	String^ FileName
-)
-```
+
+
 
 
 #### Параметры

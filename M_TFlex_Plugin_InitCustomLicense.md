@@ -14,19 +14,8 @@ protected void InitCustomLicense(
 	uint license
 )
 ```
-```vb
-<ObsoleteAttribute("Use TFlex.Application.InitializeCustomLicense")>
-Protected Sub InitCustomLicense ( 
-	license As UInteger
-)
-```
-```cpp
-protected:
-[ObsoleteAttribute(L"Use TFlex.Application.InitializeCustomLicense")]
-void InitCustomLicense(
-	unsigned int license
-)
-```
+
+
 
 
 #### Параметры

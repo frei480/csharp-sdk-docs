@@ -13,13 +13,8 @@
 ```csharp
 public class Primitive : Operation
 ```
-```vb
-Public Class Primitive
-	Inherits Operation
-```
-```cpp
-public ref class Primitive : public Operation
-```
+
+
 
 
 Тип Primitive предоставляет следующие члены.

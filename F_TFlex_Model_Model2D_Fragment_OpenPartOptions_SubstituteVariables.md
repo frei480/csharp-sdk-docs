@@ -11,13 +11,8 @@
 ```csharp
 public bool SubstituteVariables
 ```
-```vb
-Public SubstituteVariables As Boolean
-```
-```cpp
-public:
-bool SubstituteVariables
-```
+
+
 
 
 #### Значение поля

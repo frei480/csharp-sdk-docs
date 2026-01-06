@@ -13,17 +13,8 @@ public AffineTransformation(
 	AffineTransformation transformation
 )
 ```
-```vb
-Public Sub New ( 
-	transformation As AffineTransformation
-)
-```
-```cpp
-public:
-AffineTransformation(
-	AffineTransformation^ transformation
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public TransformationCoordinate Axis { get; set; }
 ```
-```vb
-Public Property Axis As TransformationCoordinate
-	Get
-	Set
-```
-```cpp
-public:
-property TransformationCoordinate Axis {
-	TransformationCoordinate get ();
-	void set (TransformationCoordinate value);
-}
-```
+
+
 
 
 #### Значение свойства

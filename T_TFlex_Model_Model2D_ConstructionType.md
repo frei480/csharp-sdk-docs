@@ -11,12 +11,8 @@
 ```csharp
 public enum ConstructionType
 ```
-```vb
-Public Enumeration ConstructionType
-```
-```cpp
-public enum class ConstructionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

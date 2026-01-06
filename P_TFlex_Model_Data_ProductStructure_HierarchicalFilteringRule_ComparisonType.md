@@ -8,18 +8,8 @@
 ```csharp
 public HierarchicalFilteringRuleCompareType ComparisonType { get; set; }
 ```
-```vb
-Public Property ComparisonType As HierarchicalFilteringRuleCompareType
-	Get
-	Set
-```
-```cpp
-public:
-property HierarchicalFilteringRuleCompareType ComparisonType {
-	HierarchicalFilteringRuleCompareType get ();
-	void set (HierarchicalFilteringRuleCompareType value);
-}
-```
+
+
 
 
 #### Значение свойства

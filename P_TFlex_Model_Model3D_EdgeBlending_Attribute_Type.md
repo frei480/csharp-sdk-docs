@@ -11,16 +11,8 @@
 ```csharp
 public abstract EdgeBlendingBlendType Type { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property Type As EdgeBlendingBlendType
-	Get
-```
-```cpp
-public:
-virtual property EdgeBlendingBlendType Type {
-	EdgeBlendingBlendType get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool ClearUnderLines { get; set; }
 ```
-```vb
-Public Property ClearUnderLines As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ClearUnderLines {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

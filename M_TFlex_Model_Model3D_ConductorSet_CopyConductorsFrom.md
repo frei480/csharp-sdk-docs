@@ -11,19 +11,8 @@ public bool CopyConductorsFrom(
 	List<int> indices
 )
 ```
-```vb
-Public Function CopyConductorsFrom ( 
-	source As ConductorSet,
-	indices As List(Of Integer)
-) As Boolean
-```
-```cpp
-public:
-bool CopyConductorsFrom(
-	ConductorSet^ source, 
-	List<int>^ indices
-)
-```
+
+
 
 
 #### Параметры

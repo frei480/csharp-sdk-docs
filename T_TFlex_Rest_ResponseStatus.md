@@ -11,12 +11,8 @@
 ```csharp
 public enum ResponseStatus
 ```
-```vb
-Public Enumeration ResponseStatus
-```
-```cpp
-public enum class ResponseStatus
-```
+
+
 
 
 | Имя члена | Значение | Описание |

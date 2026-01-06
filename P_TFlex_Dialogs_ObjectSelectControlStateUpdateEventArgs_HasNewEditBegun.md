@@ -11,16 +11,8 @@
 ```csharp
 public bool HasNewEditBegun { get; }
 ```
-```vb
-Public ReadOnly Property HasNewEditBegun As Boolean
-	Get
-```
-```cpp
-public:
-property bool HasNewEditBegun {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

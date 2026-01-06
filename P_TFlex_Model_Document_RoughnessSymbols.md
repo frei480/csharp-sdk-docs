@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetRoughnessSymbols' method.")]
 public ObjectContainer RoughnessSymbols { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetRoughnessSymbols' method.")>
-Public ReadOnly Property RoughnessSymbols As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetRoughnessSymbols' method.")]
-property ObjectContainer^ RoughnessSymbols {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public MaterialParameter(
 	string Name
 )
 ```
-```vb
-Public Sub New ( 
-	Name As String
-)
-```
-```cpp
-public:
-MaterialParameter(
-	String^ Name
-)
-```
+
+
 
 
 #### Параметры

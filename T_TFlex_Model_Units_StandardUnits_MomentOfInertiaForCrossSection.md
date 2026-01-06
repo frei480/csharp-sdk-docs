@@ -13,12 +13,8 @@
 ```csharp
 public sealed class MomentOfInertiaForCrossSection
 ```
-```vb
-Public NotInheritable Class MomentOfInertiaForCrossSection
-```
-```cpp
-public ref class MomentOfInertiaForCrossSection sealed
-```
+
+
 
 
 Тип StandardUnitsMomentOfInertiaForCrossSection предоставляет следующие члены.

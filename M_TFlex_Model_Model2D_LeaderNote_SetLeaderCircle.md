@@ -15,21 +15,8 @@ public void SetLeaderCircle(
 	Parameter sinAngle
 )
 ```
-```vb
-Public Sub SetLeaderCircle ( 
-	circle As Object2D,
-	cosAngle As Parameter,
-	sinAngle As Parameter
-)
-```
-```cpp
-public:
-void SetLeaderCircle(
-	Object2D^ circle, 
-	Parameter^ cosAngle, 
-	Parameter^ sinAngle
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public Color PointColor { get; set; }
 ```
-```vb
-Public Property PointColor As Color
-	Get
-	Set
-```
-```cpp
-public:
-property Color PointColor {
-	Color get ();
-	void set (Color value);
-}
-```
+
+
 
 
 #### Значение свойства

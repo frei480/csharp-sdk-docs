@@ -11,18 +11,8 @@
 ```csharp
 public bool Save3DDim { get; set; }
 ```
-```vb
-Public Property Save3DDim As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Save3DDim {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

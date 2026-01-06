@@ -11,16 +11,8 @@
 ```csharp
 public bool CanSymmetrySet { get; }
 ```
-```vb
-Public ReadOnly Property CanSymmetrySet As Boolean
-	Get
-```
-```cpp
-public:
-property bool CanSymmetrySet {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public IntParameter LinearMinimumDigits { get; set; }
 ```
-```vb
-Public Property LinearMinimumDigits As IntParameter
-	Get
-	Set
-```
-```cpp
-public:
-property IntParameter^ LinearMinimumDigits {
-	IntParameter^ get ();
-	void set (IntParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

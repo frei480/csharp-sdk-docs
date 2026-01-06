@@ -13,17 +13,8 @@ public CustomCommand(
 	CommandState firstState
 )
 ```
-```vb
-Public Sub New ( 
-	firstState As CommandState
-)
-```
-```cpp
-public:
-CustomCommand(
-	CommandState^ firstState
-)
-```
+
+
 
 
 #### Параметры

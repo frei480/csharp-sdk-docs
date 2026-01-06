@@ -13,17 +13,8 @@ public void ImportIcon(
 	string pathName
 )
 ```
-```vb
-Public Sub ImportIcon ( 
-	pathName As String
-)
-```
-```cpp
-public:
-void ImportIcon(
-	String^ pathName
-)
-```
+
+
 
 
 #### Параметры

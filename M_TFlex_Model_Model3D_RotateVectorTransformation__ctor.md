@@ -13,17 +13,8 @@ public RotateVectorTransformation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-RotateVectorTransformation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

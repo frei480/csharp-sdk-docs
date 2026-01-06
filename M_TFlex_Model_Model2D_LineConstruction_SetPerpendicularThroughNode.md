@@ -14,19 +14,8 @@ public void SetPerpendicularThroughNode(
 	Node srcNode
 )
 ```
-```vb
-Public Sub SetPerpendicularThroughNode ( 
-	srcLine As Construction,
-	srcNode As Node
-)
-```
-```cpp
-public:
-void SetPerpendicularThroughNode(
-	Construction^ srcLine, 
-	Node^ srcNode
-)
-```
+
+
 
 
 #### Параметры

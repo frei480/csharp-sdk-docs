@@ -12,21 +12,8 @@ public override void ReplaceDesignation(
 	string delimiter
 )
 ```
-```vb
-Public Overrides Sub ReplaceDesignation ( 
-	oldExpression As String,
-	newExpression As String,
-	delimiter As String
-)
-```
-```cpp
-public:
-virtual void ReplaceDesignation(
-	String^ oldExpression, 
-	String^ newExpression, 
-	String^ delimiter
-) override
-```
+
+
 
 
 #### Параметры

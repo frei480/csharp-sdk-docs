@@ -14,25 +14,8 @@ public static bool TryCopyAllReportRowElementsToAssembly(
 	bool silent
 )
 ```
-```vb
-Public Shared Function TryCopyAllReportRowElementsToAssembly ( 
-	docHandle As IntPtr,
-	psID As ULong,
-	generId As Guid,
-	psReportId As String,
-	silent As Boolean
-) As Boolean
-```
-```cpp
-public:
-static bool TryCopyAllReportRowElementsToAssembly(
-	IntPtr docHandle, 
-	unsigned long long psID, 
-	Guid generId, 
-	String^ psReportId, 
-	bool silent
-)
-```
+
+
 
 
 #### Параметры

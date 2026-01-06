@@ -11,13 +11,8 @@
 ```csharp
 public bool RowWrap
 ```
-```vb
-Public RowWrap As Boolean
-```
-```cpp
-public:
-bool RowWrap
-```
+
+
 
 
 #### Значение поля

@@ -11,13 +11,8 @@
 ```csharp
 public ColumnSizeMode CellWidthMode
 ```
-```vb
-Public CellWidthMode As ColumnSizeMode
-```
-```cpp
-public:
-ColumnSizeMode CellWidthMode
-```
+
+
 
 
 #### Значение поля

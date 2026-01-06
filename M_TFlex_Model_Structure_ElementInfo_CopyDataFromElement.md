@@ -10,17 +10,8 @@ public void CopyDataFromElement(
 	Element elem
 )
 ```
-```vb
-Public Sub CopyDataFromElement ( 
-	elem As Element
-)
-```
-```cpp
-public:
-void CopyDataFromElement(
-	Element^ elem
-)
-```
+
+
 
 
 #### Параметры

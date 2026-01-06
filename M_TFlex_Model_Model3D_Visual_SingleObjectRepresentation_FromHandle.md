@@ -10,17 +10,8 @@ public static SingleObjectRepresentation FromHandle(
 	IntPtr handle
 )
 ```
-```vb
-Public Shared Function FromHandle ( 
-	handle As IntPtr
-) As SingleObjectRepresentation
-```
-```cpp
-public:
-static SingleObjectRepresentation^ FromHandle(
-	IntPtr handle
-)
-```
+
+
 
 
 #### Параметры

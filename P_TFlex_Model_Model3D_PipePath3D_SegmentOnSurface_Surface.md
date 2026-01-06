@@ -11,18 +11,8 @@
 ```csharp
 public ModelSurface Surface { get; set; }
 ```
-```vb
-Public Property Surface As ModelSurface
-	Get
-	Set
-```
-```cpp
-public:
-property ModelSurface^ Surface {
-	ModelSurface^ get ();
-	void set (ModelSurface^ value);
-}
-```
+
+
 
 
 #### Значение свойства

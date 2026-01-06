@@ -8,18 +8,8 @@
 ```csharp
 public double HarnessInsideAllowance { get; set; }
 ```
-```vb
-Public Property HarnessInsideAllowance As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double HarnessInsideAllowance {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

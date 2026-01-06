@@ -11,15 +11,8 @@
 ```csharp
 BaseAxis Axis { get; }
 ```
-```vb
-ReadOnly Property Axis As BaseAxis
-	Get
-```
-```cpp
-property BaseAxis^ Axis {
-	BaseAxis^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

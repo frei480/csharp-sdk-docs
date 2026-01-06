@@ -11,18 +11,8 @@
 ```csharp
 public ModelWire SectionCurve { get; set; }
 ```
-```vb
-Public Property SectionCurve As ModelWire
-	Get
-	Set
-```
-```cpp
-public:
-property ModelWire^ SectionCurve {
-	ModelWire^ get ();
-	void set (ModelWire^ value);
-}
-```
+
+
 
 
 #### Значение свойства

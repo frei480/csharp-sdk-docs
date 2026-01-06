@@ -16,19 +16,8 @@ public FragmentVariableValues(
 	Fragment fr
 )
 ```
-```vb
-<ObsoleteAttribute("This class is obsolete and will be removed. Please use 'Fragment.GetVariables' method.")>
-Public Sub New ( 
-	fr As Fragment
-)
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This class is obsolete and will be removed. Please use 'Fragment.GetVariables' method.")]
-FragmentVariableValues(
-	Fragment^ fr
-)
-```
+
+
 
 
 #### Параметры

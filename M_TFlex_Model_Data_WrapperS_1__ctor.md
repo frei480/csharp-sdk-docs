@@ -11,13 +11,8 @@
 ```csharp
 public WrapperS()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-WrapperS()
-```
+
+
 
 
 #### Ссылки

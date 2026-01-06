@@ -17,21 +17,8 @@ public double GetRealProp(
 	ref bool exist
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. Please use 'GetRealProperty' method.")>
-Public Function GetRealProp ( 
-	prop As String,
-	ByRef exist As Boolean
-) As Double
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. Please use 'GetRealProperty' method.")]
-double GetRealProp(
-	String^ prop, 
-	bool% exist
-)
-```
+
+
 
 
 #### Параметры

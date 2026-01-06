@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Section3D : Construction3D
 ```
-```vb
-Public MustInherit Class Section3D
-	Inherits Construction3D
-```
-```cpp
-public ref class Section3D abstract : public Construction3D
-```
+
+
 
 
 Тип Section3D предоставляет следующие члены.

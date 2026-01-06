@@ -11,18 +11,8 @@
 ```csharp
 public IfcExportColorType ColorType { get; set; }
 ```
-```vb
-Public Property ColorType As IfcExportColorType
-	Get
-	Set
-```
-```cpp
-public:
-property IfcExportColorType ColorType {
-	IfcExportColorType get ();
-	void set (IfcExportColorType value);
-}
-```
+
+
 
 
 #### Значение свойства

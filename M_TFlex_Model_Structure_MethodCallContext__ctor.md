@@ -11,13 +11,8 @@
 ```csharp
 public MethodCallContext()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MethodCallContext()
-```
+
+
 
 
 #### Ссылки

@@ -11,13 +11,8 @@
 ```csharp
 public class ParentValueParameterDataGenerator : IParameterDataGenerator
 ```
-```vb
-Public Class ParentValueParameterDataGenerator
-	Inherits IParameterDataGenerator
-```
-```cpp
-public ref class ParentValueParameterDataGenerator : public IParameterDataGenerator
-```
+
+
 
 
 Тип ParentValueParameterDataGenerator предоставляет следующие члены.

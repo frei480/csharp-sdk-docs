@@ -8,18 +8,8 @@
 ```csharp
 public bool AllowStandartInsertionMethod { get; set; }
 ```
-```vb
-Public Property AllowStandartInsertionMethod As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AllowStandartInsertionMethod {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -16,15 +16,8 @@
 [ObsoleteAttribute("This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")]
 public class DraggerEventArgs : VisualEventArgs
 ```
-```vb
-<ObsoleteAttribute("This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")>
-Public Class DraggerEventArgs
-	Inherits VisualEventArgs
-```
-```cpp
-[ObsoleteAttribute(L"This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")]
-public ref class DraggerEventArgs : public VisualEventArgs
-```
+
+
 
 
 Тип DraggerEventArgs предоставляет следующие члены.

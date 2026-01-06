@@ -11,18 +11,8 @@
 ```csharp
 public bool CheckGeometry { get; set; }
 ```
-```vb
-Public Property CheckGeometry As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CheckGeometry {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

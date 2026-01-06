@@ -11,13 +11,8 @@
 ```csharp
 public ToolButton()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ToolButton()
-```
+
+
 
 
 #### Ссылки

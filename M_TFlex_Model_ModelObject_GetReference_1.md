@@ -14,19 +14,8 @@ public virtual ModelObject GetReference(
 	ModelObjectArrayIndices indices
 )
 ```
-```vb
-Public Overridable Function GetReference ( 
-	id As Integer,
-	indices As ModelObjectArrayIndices
-) As ModelObject
-```
-```cpp
-public:
-virtual ModelObject^ GetReference(
-	int id, 
-	ModelObjectArrayIndices^ indices
-)
-```
+
+
 
 
 #### Параметры

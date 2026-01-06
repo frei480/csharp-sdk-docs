@@ -15,21 +15,8 @@ public void InsertText(
 	string text
 )
 ```
-```vb
-Public Sub InsertText ( 
-	cell As UInteger,
-	position As UInteger,
-	text As String
-)
-```
-```cpp
-public:
-void InsertText(
-	unsigned int cell, 
-	unsigned int position, 
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

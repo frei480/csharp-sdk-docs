@@ -10,20 +10,8 @@ public Outline this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As Integer
-) As Outline
-	Get
-	Set
-```
-```cpp
-public:
-property Outline^ default[int index] {
-	Outline^ get (int index);
-	void set (int index, Outline^ value);
-}
-```
+
+
 
 
 #### Параметры

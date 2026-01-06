@@ -14,19 +14,8 @@ public void SetExpanded(
 	bool expanded
 )
 ```
-```vb
-Public Sub SetExpanded ( 
-	rowId As Long,
-	expanded As Boolean
-)
-```
-```cpp
-public:
-void SetExpanded(
-	long long rowId, 
-	bool expanded
-)
-```
+
+
 
 
 #### Параметры

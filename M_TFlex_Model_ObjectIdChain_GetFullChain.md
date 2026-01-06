@@ -8,13 +8,8 @@
 ```csharp
 public IEnumerable<ObjectId> GetFullChain()
 ```
-```vb
-Public Function GetFullChain As IEnumerable(Of ObjectId)
-```
-```cpp
-public:
-IEnumerable<ObjectId^>^ GetFullChain()
-```
+
+
 
 
 #### Возвращаемое значение

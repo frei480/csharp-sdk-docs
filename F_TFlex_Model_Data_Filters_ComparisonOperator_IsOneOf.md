@@ -11,13 +11,8 @@
 ```csharp
 public static readonly ComparisonOperator IsOneOf
 ```
-```vb
-Public Shared ReadOnly IsOneOf As ComparisonOperator
-```
-```cpp
-public:
-static initonly ComparisonOperator^ IsOneOf
-```
+
+
 
 
 #### Значение поля

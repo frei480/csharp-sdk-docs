@@ -11,19 +11,8 @@ public static Direction operator *(
 	double value
 )
 ```
-```vb
-Public Shared Operator * ( 
-	direction As BaseDirection,
-	value As Double
-) As Direction
-```
-```cpp
-public:
-static Direction^ operator *(
-	BaseDirection^ direction, 
-	double value
-)
-```
+
+
 
 
 #### Параметры

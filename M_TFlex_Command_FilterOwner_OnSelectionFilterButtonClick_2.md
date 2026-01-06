@@ -13,17 +13,8 @@ protected virtual void OnSelectionFilterButtonClick(
 	SelectionFilterButtonClickEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub OnSelectionFilterButtonClick ( 
-	args As SelectionFilterButtonClickEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnSelectionFilterButtonClick(
-	SelectionFilterButtonClickEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

@@ -17,25 +17,8 @@ public static Surface CreateSpin(
 	BaseInterval interval
 )
 ```
-```vb
-Public Shared Function CreateSpin ( 
-	curve As BaseCurve,
-	axis As BaseAxis,
-	simplify As Boolean,
-	confine As Boolean,
-	interval As BaseInterval
-) As Surface
-```
-```cpp
-public:
-static Surface^ CreateSpin(
-	BaseCurve^ curve, 
-	BaseAxis^ axis, 
-	bool simplify, 
-	bool confine, 
-	BaseInterval^ interval
-)
-```
+
+
 
 
 #### Параметры

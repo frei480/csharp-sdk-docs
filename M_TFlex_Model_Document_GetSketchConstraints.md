@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Constraint> GetSketchConstraints()
 ```
-```vb
-Public Function GetSketchConstraints As ICollection(Of Constraint)
-```
-```cpp
-public:
-ICollection<Constraint^>^ GetSketchConstraints()
-```
+
+
 
 
 #### Возвращаемое значение

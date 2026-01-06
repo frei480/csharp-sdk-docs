@@ -13,13 +13,8 @@
 ```csharp
 public class SurfaceSetDevelopmentProfile : Profile
 ```
-```vb
-Public Class SurfaceSetDevelopmentProfile
-	Inherits Profile
-```
-```cpp
-public ref class SurfaceSetDevelopmentProfile : public Profile
-```
+
+
 
 
 Тип SurfaceSetDevelopmentProfile предоставляет следующие члены.

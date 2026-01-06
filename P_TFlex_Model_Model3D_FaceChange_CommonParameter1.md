@@ -11,18 +11,8 @@
 ```csharp
 public Parameter CommonParameter1 { get; set; }
 ```
-```vb
-Public Property CommonParameter1 As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ CommonParameter1 {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

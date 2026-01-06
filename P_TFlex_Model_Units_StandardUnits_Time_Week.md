@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Week { get; }
 ```
-```vb
-Public Shared ReadOnly Property Week As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Week {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

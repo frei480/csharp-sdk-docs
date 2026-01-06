@@ -13,17 +13,8 @@ public void Polyline(
 	Polyline polyline
 )
 ```
-```vb
-Public Sub Polyline ( 
-	polyline As Polyline
-)
-```
-```cpp
-public:
-void Polyline(
-	Polyline^ polyline
-)
-```
+
+
 
 
 #### Параметры

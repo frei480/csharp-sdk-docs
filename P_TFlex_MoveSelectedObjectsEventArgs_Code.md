@@ -8,16 +8,8 @@
 ```csharp
 public KeyCode Code { get; }
 ```
-```vb
-Public ReadOnly Property Code As KeyCode
-	Get
-```
-```cpp
-public:
-property KeyCode Code {
-	KeyCode get ();
-}
-```
+
+
 
 
 #### Значение свойства

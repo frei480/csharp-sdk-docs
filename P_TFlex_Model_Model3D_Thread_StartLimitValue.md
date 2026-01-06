@@ -11,18 +11,8 @@
 ```csharp
 public Parameter StartLimitValue { get; set; }
 ```
-```vb
-Public Property StartLimitValue As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ StartLimitValue {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public ModelPlane BasePlane { get; set; }
 ```
-```vb
-Public Property BasePlane As ModelPlane
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPlane^ BasePlane {
-	ModelPlane^ get ();
-	void set (ModelPlane^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public Options3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Options3D()
-```
+
+
 
 
 #### Ссылки

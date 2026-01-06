@@ -14,19 +14,8 @@ public PipePath3DPointSplineToPolyline InsertPoint_before(
 	PipePath3DPointSplineToPolyline pPoint
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. Please use 'InsertBeforePoint' method.")>
-Public Function InsertPoint_before ( 
-	pPoint As PipePath3DPointSplineToPolyline
-) As PipePath3DPointSplineToPolyline
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. Please use 'InsertBeforePoint' method.")]
-PipePath3DPointSplineToPolyline^ InsertPoint_before(
-	PipePath3DPointSplineToPolyline^ pPoint
-)
-```
+
+
 
 
 #### Параметры

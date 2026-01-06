@@ -14,19 +14,8 @@ public void SetCircleAndLine(
 	Construction srcLine
 )
 ```
-```vb
-Public Sub SetCircleAndLine ( 
-	srcCircle As Construction,
-	srcLine As Construction
-)
-```
-```cpp
-public:
-void SetCircleAndLine(
-	Construction^ srcCircle, 
-	Construction^ srcLine
-)
-```
+
+
 
 
 #### Параметры

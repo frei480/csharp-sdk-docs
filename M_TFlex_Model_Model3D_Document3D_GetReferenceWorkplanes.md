@@ -13,19 +13,8 @@ public static ICollection<ReferenceWorkplane> GetReferenceWorkplanes(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetReferenceWorkplanes ( 
-	document As Document
-) As ICollection(Of ReferenceWorkplane)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<ReferenceWorkplane^>^ GetReferenceWorkplanes(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public MarkManager()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MarkManager()
-```
+
+
 
 
 #### Ссылки

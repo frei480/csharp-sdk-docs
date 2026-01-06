@@ -16,15 +16,8 @@
 [ObsoleteAttribute("This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")]
 public sealed class DraggerManager : IDisposable
 ```
-```vb
-<ObsoleteAttribute("This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")>
-Public NotInheritable Class DraggerManager
-	Implements IDisposable
-```
-```cpp
-[ObsoleteAttribute(L"This class is obsolete and will be removed. Please use 'Manipulator' class and types from 'Manipulators' namespace.")]
-public ref class DraggerManager sealed : IDisposable
-```
+
+
 
 
 Тип DraggerManager предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public class AttributeParameterProvider : IParameterProvider
 ```
-```vb
-Public Class AttributeParameterProvider
-	Inherits IParameterProvider
-```
-```cpp
-public ref class AttributeParameterProvider : public IParameterProvider
-```
+
+
 
 
 Тип AttributeParameterProvider предоставляет следующие члены.

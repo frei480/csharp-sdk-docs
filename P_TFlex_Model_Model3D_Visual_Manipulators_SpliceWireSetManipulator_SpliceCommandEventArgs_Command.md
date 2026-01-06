@@ -8,18 +8,8 @@
 ```csharp
 public SpliceWireSetManipulatorSpliceCommand Command { get; set; }
 ```
-```vb
-Public Property Command As SpliceWireSetManipulatorSpliceCommand
-	Get
-	Set
-```
-```cpp
-public:
-property SpliceWireSetManipulatorSpliceCommand Command {
-	SpliceWireSetManipulatorSpliceCommand get ();
-	void set (SpliceWireSetManipulatorSpliceCommand value);
-}
-```
+
+
 
 
 #### Значение свойства

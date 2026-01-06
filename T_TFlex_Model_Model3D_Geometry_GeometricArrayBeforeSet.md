@@ -11,18 +11,8 @@ public delegate void GeometricArrayBeforeSet(
 	Geometry geometry
 )
 ```
-```vb
-Public Delegate Sub GeometricArrayBeforeSet ( 
-	to As Integer,
-	geometry As Geometry
-)
-```
-```cpp
-public delegate void GeometricArrayBeforeSet(
-	int to, 
-	Geometry^ geometry
-)
-```
+
+
 
 
 #### Параметры

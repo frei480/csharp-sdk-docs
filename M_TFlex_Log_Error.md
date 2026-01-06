@@ -10,17 +10,8 @@ public static void Error(
 	string message
 )
 ```
-```vb
-Public Shared Sub Error ( 
-	message As String
-)
-```
-```cpp
-public:
-static void Error(
-	String^ message
-)
-```
+
+
 
 
 #### Параметры

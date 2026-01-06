@@ -13,17 +13,8 @@ public OutlineContourSegment(
 	Contour source
 )
 ```
-```vb
-Public Sub New ( 
-	source As Contour
-)
-```
-```cpp
-public:
-OutlineContourSegment(
-	Contour^ source
-)
-```
+
+
 
 
 #### Параметры

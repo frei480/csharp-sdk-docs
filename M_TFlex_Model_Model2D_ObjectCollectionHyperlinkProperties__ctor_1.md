@@ -14,19 +14,8 @@ public ObjectCollectionHyperlinkProperties(
 	string text
 )
 ```
-```vb
-Public Sub New ( 
-	object As ModelObject,
-	text As String
-)
-```
-```cpp
-public:
-ObjectCollectionHyperlinkProperties(
-	ModelObject^ object, 
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

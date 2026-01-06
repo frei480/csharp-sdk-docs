@@ -11,18 +11,8 @@
 ```csharp
 public double FontSpacing { get; set; }
 ```
-```vb
-Public Property FontSpacing As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double FontSpacing {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

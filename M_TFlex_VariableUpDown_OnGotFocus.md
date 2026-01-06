@@ -10,17 +10,8 @@ protected override void OnGotFocus(
 	EventArgs e
 )
 ```
-```vb
-Protected Overrides Sub OnGotFocus ( 
-	e As EventArgs
-)
-```
-```cpp
-protected:
-virtual void OnGotFocus(
-	EventArgs^ e
-) override
-```
+
+
 
 
 #### Параметры

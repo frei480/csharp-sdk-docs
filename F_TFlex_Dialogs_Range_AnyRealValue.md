@@ -11,13 +11,8 @@
 ```csharp
 public static readonly Range AnyRealValue
 ```
-```vb
-Public Shared ReadOnly AnyRealValue As Range
-```
-```cpp
-public:
-static initonly Range AnyRealValue
-```
+
+
 
 
 #### Значение поля

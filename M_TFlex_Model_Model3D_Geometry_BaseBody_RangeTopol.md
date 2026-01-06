@@ -13,17 +13,8 @@ public RangeResult2 RangeTopol(
 	BaseBody rhs
 )
 ```
-```vb
-Public Function RangeTopol ( 
-	rhs As BaseBody
-) As RangeResult2
-```
-```cpp
-public:
-RangeResult2^ RangeTopol(
-	BaseBody^ rhs
-)
-```
+
+
 
 
 #### Параметры

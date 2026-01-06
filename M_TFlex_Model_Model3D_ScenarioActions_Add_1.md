@@ -10,17 +10,8 @@ public ScenarioAction Add(
 	string actionName
 )
 ```
-```vb
-Public Function Add ( 
-	actionName As String
-) As ScenarioAction
-```
-```cpp
-public:
-ScenarioAction^ Add(
-	String^ actionName
-)
-```
+
+
 
 
 #### Параметры

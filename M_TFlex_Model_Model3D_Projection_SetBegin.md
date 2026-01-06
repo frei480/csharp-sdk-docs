@@ -14,19 +14,8 @@ public void SetBegin(
 	Parameter begin
 )
 ```
-```vb
-Public Sub SetBegin ( 
-	i As Integer,
-	begin As Parameter
-)
-```
-```cpp
-public:
-void SetBegin(
-	int i, 
-	Parameter^ begin
-)
-```
+
+
 
 
 #### Параметры

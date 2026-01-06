@@ -8,18 +8,8 @@
 ```csharp
 public bool UpdateBillOfMaterialsOnAutoSave { get; set; }
 ```
-```vb
-Public Property UpdateBillOfMaterialsOnAutoSave As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UpdateBillOfMaterialsOnAutoSave {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

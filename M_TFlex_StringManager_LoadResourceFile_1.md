@@ -14,19 +14,8 @@ public bool LoadResourceFile(
 	string path
 )
 ```
-```vb
-Public Function LoadResourceFile ( 
-	baseName As String,
-	path As String
-) As Boolean
-```
-```cpp
-public:
-bool LoadResourceFile(
-	String^ baseName, 
-	String^ path
-)
-```
+
+
 
 
 #### Параметры

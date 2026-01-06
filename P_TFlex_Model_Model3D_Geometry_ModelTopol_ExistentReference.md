@@ -11,16 +11,8 @@
 ```csharp
 public TopolReference ExistentReference { get; }
 ```
-```vb
-Public ReadOnly Property ExistentReference As TopolReference
-	Get
-```
-```cpp
-public:
-property TopolReference^ ExistentReference {
-	TopolReference^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

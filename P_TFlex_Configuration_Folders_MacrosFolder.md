@@ -8,18 +8,8 @@
 ```csharp
 public string MacrosFolder { get; set; }
 ```
-```vb
-Public Property MacrosFolder As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ MacrosFolder {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

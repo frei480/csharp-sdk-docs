@@ -10,17 +10,8 @@ public void Assign(
 	Colors source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Colors
-)
-```
-```cpp
-public:
-void Assign(
-	Colors^ source
-)
-```
+
+
 
 
 #### Параметры

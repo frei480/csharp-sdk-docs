@@ -11,13 +11,8 @@
 ```csharp
 public RenderOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RenderOptions()
-```
+
+
 
 
 #### Ссылки

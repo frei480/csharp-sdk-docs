@@ -11,12 +11,8 @@
 ```csharp
 public class BaseCreatePrototypesParameters
 ```
-```vb
-Public Class BaseCreatePrototypesParameters
-```
-```cpp
-public ref class BaseCreatePrototypesParameters
-```
+
+
 
 
 Тип BaseCreatePrototypesParameters предоставляет следующие члены.

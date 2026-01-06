@@ -8,16 +8,8 @@
 ```csharp
 public Settings3D Settings3D { get; }
 ```
-```vb
-Public ReadOnly Property Settings3D As Settings3D
-	Get
-```
-```cpp
-public:
-property Settings3D^ Settings3D {
-	Settings3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Side { get; set; }
 ```
-```vb
-Public Property Side As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Side {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public Object Tag
 ```
-```vb
-Public Tag As Object
-```
-```cpp
-public:
-Object^ Tag
-```
+
+
 
 
 #### Значение поля

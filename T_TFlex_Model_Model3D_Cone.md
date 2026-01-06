@@ -13,13 +13,8 @@
 ```csharp
 public class Cone : Primitive
 ```
-```vb
-Public Class Cone
-	Inherits Primitive
-```
-```cpp
-public ref class Cone : public Primitive
-```
+
+
 
 
 Тип Cone предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public ZonesParameterDataGenerator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ZonesParameterDataGenerator()
-```
+
+
 
 
 #### Ссылки

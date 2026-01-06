@@ -11,12 +11,8 @@
 ```csharp
 public enum RoughnessUnsetViewType
 ```
-```vb
-Public Enumeration RoughnessUnsetViewType
-```
-```cpp
-public enum class RoughnessUnsetViewType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

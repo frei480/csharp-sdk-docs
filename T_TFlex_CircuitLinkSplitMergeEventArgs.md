@@ -11,13 +11,8 @@
 ```csharp
 public class CircuitLinkSplitMergeEventArgs : PluginEventArgs
 ```
-```vb
-Public Class CircuitLinkSplitMergeEventArgs
-	Inherits PluginEventArgs
-```
-```cpp
-public ref class CircuitLinkSplitMergeEventArgs : public PluginEventArgs
-```
+
+
 
 
 Тип CircuitLinkSplitMergeEventArgs предоставляет следующие члены.

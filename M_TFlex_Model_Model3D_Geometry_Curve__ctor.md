@@ -11,13 +11,8 @@
 ```csharp
 public Curve()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Curve()
-```
+
+
 
 
 #### Ссылки

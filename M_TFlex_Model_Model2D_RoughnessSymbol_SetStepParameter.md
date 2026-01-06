@@ -17,25 +17,8 @@ public void SetStepParameter(
 	string basicLength
 )
 ```
-```vb
-Public Sub SetStepParameter ( 
-	parameterType As RoughnessStepParameterType,
-	minimum As String,
-	maximumOrNominal As String,
-	deviation As String,
-	basicLength As String
-)
-```
-```cpp
-public:
-void SetStepParameter(
-	RoughnessStepParameterType parameterType, 
-	String^ minimum, 
-	String^ maximumOrNominal, 
-	String^ deviation, 
-	String^ basicLength
-)
-```
+
+
 
 
 #### Параметры

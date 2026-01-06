@@ -15,21 +15,8 @@ public void SetTwoNodesAndLine(
 	Object2D guideLine
 )
 ```
-```vb
-Public Sub SetTwoNodesAndLine ( 
-	node1 As Node,
-	node2 As Node,
-	guideLine As Object2D
-)
-```
-```cpp
-public:
-void SetTwoNodesAndLine(
-	Node^ node1, 
-	Node^ node2, 
-	Object2D^ guideLine
-)
-```
+
+
 
 
 #### Параметры

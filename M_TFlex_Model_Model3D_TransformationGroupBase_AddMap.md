@@ -13,17 +13,8 @@ public void AddMap(
 	AffineTransformation map
 )
 ```
-```vb
-Public Sub AddMap ( 
-	map As AffineTransformation
-)
-```
-```cpp
-public:
-void AddMap(
-	AffineTransformation^ map
-)
-```
+
+
 
 
 #### Параметры

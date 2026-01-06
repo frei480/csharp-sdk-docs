@@ -14,19 +14,8 @@ public SphereWorkSurface(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	page As Page
-)
-```
-```cpp
-public:
-SphereWorkSurface(
-	Document^ Doc, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

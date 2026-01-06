@@ -11,18 +11,8 @@
 ```csharp
 public UnitType DefaultUnit { get; set; }
 ```
-```vb
-Public Property DefaultUnit As UnitType
-	Get
-	Set
-```
-```cpp
-public:
-property UnitType DefaultUnit {
-	UnitType get ();
-	void set (UnitType value);
-}
-```
+
+
 
 
 #### Значение свойства

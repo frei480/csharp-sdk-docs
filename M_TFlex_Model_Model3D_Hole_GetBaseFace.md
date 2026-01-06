@@ -13,17 +13,8 @@ public ModelFace GetBaseFace(
 	int hole
 )
 ```
-```vb
-Public Function GetBaseFace ( 
-	hole As Integer
-) As ModelFace
-```
-```cpp
-public:
-ModelFace^ GetBaseFace(
-	int hole
-)
-```
+
+
 
 
 #### Параметры

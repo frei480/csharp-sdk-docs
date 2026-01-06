@@ -14,19 +14,8 @@ public Size(
 	double cy
 )
 ```
-```vb
-Public Sub New ( 
-	cx As Double,
-	cy As Double
-)
-```
-```cpp
-public:
-Size(
-	double cx, 
-	double cy
-)
-```
+
+
 
 
 #### Параметры

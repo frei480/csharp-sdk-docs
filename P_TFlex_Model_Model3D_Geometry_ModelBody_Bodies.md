@@ -8,16 +8,8 @@
 ```csharp
 public ModelBodies Bodies { get; }
 ```
-```vb
-Public ReadOnly Property Bodies As ModelBodies
-	Get
-```
-```cpp
-public:
-property ModelBodies^ Bodies {
-	ModelBodies^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public bool Virtual { get; }
 ```
-```vb
-Public ReadOnly Property Virtual As Boolean
-	Get
-```
-```cpp
-public:
-property bool Virtual {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public Loop(
 	uint id
 )
 ```
-```vb
-Public Sub New ( 
-	wire As BaseBody,
-	id As UInteger
-)
-```
-```cpp
-public:
-Loop(
-	BaseBody^ wire, 
-	unsigned int id
-)
-```
+
+
 
 
 #### Параметры

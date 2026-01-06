@@ -8,16 +8,8 @@
 ```csharp
 public ChainsAndSignals ChainsAndSignals { get; }
 ```
-```vb
-Public ReadOnly Property ChainsAndSignals As ChainsAndSignals
-	Get
-```
-```cpp
-public:
-property ChainsAndSignals^ ChainsAndSignals {
-	ChainsAndSignals^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

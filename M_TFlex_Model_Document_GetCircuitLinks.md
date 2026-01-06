@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Link> GetCircuitLinks()
 ```
-```vb
-Public Function GetCircuitLinks As ICollection(Of Link)
-```
-```cpp
-public:
-ICollection<Link^>^ GetCircuitLinks()
-```
+
+
 
 
 #### Возвращаемое значение

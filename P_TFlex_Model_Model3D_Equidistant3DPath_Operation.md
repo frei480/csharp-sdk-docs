@@ -11,18 +11,8 @@
 ```csharp
 public Operation Operation { get; set; }
 ```
-```vb
-Public Property Operation As Operation
-	Get
-	Set
-```
-```cpp
-public:
-property Operation^ Operation {
-	Operation^ get ();
-	void set (Operation^ value);
-}
-```
+
+
 
 
 #### Значение свойства

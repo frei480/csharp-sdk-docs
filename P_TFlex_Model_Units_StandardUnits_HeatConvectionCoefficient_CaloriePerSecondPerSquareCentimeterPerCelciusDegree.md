@@ -13,16 +13,8 @@
 ```csharp
 public static Unit CaloriePerSecondPerSquareCentimeterPerCelciusDegree { get; }
 ```
-```vb
-Public Shared ReadOnly Property CaloriePerSecondPerSquareCentimeterPerCelciusDegree As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ CaloriePerSecondPerSquareCentimeterPerCelciusDegree {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

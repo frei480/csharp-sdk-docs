@@ -14,19 +14,8 @@ public Reference(
 	uint states
 )
 ```
-```vb
-Public Sub New ( 
-	object As ModelObject,
-	states As UInteger
-)
-```
-```cpp
-public:
-Reference(
-	ModelObject^ object, 
-	unsigned int states
-)
-```
+
+
 
 
 #### Параметры

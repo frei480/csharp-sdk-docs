@@ -11,13 +11,8 @@
 ```csharp
 public TableBorder[] Borders
 ```
-```vb
-Public Borders As TableBorder()
-```
-```cpp
-public:
-array<TableBorder>^ Borders
-```
+
+
 
 
 #### Значение поля

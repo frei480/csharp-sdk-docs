@@ -11,13 +11,8 @@
 ```csharp
 public uint Count()
 ```
-```vb
-Public Function Count As UInteger
-```
-```cpp
-public:
-unsigned int Count()
-```
+
+
 
 
 #### Возвращаемое значение

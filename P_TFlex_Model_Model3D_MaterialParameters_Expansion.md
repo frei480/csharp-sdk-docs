@@ -11,18 +11,8 @@
 ```csharp
 public double Expansion { get; set; }
 ```
-```vb
-Public Property Expansion As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Expansion {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

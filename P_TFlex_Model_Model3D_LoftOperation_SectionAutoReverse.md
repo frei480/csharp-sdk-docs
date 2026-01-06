@@ -11,18 +11,8 @@
 ```csharp
 public bool SectionAutoReverse { get; set; }
 ```
-```vb
-Public Property SectionAutoReverse As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SectionAutoReverse {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

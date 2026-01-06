@@ -14,19 +14,8 @@ public void Insert(
 	ModelObject modelObject
 )
 ```
-```vb
-Public Sub Insert ( 
-	pos As Integer,
-	modelObject As ModelObject
-)
-```
-```cpp
-public:
-void Insert(
-	int pos, 
-	ModelObject^ modelObject
-)
-```
+
+
 
 
 #### Параметры

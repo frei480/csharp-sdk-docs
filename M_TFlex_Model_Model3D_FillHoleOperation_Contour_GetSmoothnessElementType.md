@@ -13,17 +13,8 @@ public FillHoleOperationSmoothnessType GetSmoothnessElementType(
 	int index
 )
 ```
-```vb
-Public Function GetSmoothnessElementType ( 
-	index As Integer
-) As FillHoleOperationSmoothnessType
-```
-```cpp
-public:
-FillHoleOperationSmoothnessType GetSmoothnessElementType(
-	int index
-)
-```
+
+
 
 
 #### Параметры

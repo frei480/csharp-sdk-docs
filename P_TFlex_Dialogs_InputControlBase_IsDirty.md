@@ -11,16 +11,8 @@
 ```csharp
 public bool IsDirty { get; }
 ```
-```vb
-Public ReadOnly Property IsDirty As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsDirty {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

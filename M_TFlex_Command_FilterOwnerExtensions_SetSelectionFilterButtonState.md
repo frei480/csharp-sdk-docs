@@ -16,25 +16,8 @@ public static void SetSelectionFilterButtonState(
 	bool disabled
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SetSelectionFilterButtonState ( 
-	owner As IFilterOwner,
-	objectType As ObjectType,
-	checked As Boolean,
-	disabled As Boolean
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SetSelectionFilterButtonState(
-	IFilterOwner^ owner, 
-	ObjectType objectType, 
-	bool checked, 
-	bool disabled
-)
-```
+
+
 
 
 #### Параметры

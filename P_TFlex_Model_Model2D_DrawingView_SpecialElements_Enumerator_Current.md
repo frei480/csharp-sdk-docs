@@ -11,16 +11,8 @@
 ```csharp
 public DrawingViewSpecialElement Current { get; }
 ```
-```vb
-Public ReadOnly Property Current As DrawingViewSpecialElement
-	Get
-```
-```cpp
-public:
-property DrawingViewSpecialElement^ Current {
-	DrawingViewSpecialElement^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

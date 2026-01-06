@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ModelParameter : UDFBaseParameter
 ```
-```vb
-Public NotInheritable Class ModelParameter
-	Inherits UDFBaseParameter
-```
-```cpp
-public ref class ModelParameter sealed : public UDFBaseParameter
-```
+
+
 
 
 Тип UDFModelParameter предоставляет следующие члены.

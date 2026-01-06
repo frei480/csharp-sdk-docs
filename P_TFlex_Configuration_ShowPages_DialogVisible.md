@@ -8,18 +8,8 @@
 ```csharp
 public bool DialogVisible { get; set; }
 ```
-```vb
-Public Property DialogVisible As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DialogVisible {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

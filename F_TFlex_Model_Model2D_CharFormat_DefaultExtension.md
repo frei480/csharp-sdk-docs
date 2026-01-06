@@ -11,13 +11,8 @@
 ```csharp
 public bool DefaultExtension
 ```
-```vb
-Public DefaultExtension As Boolean
-```
-```cpp
-public:
-bool DefaultExtension
-```
+
+
 
 
 #### Значение поля

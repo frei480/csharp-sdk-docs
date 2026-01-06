@@ -14,19 +14,8 @@ public Association(
 	double value
 )
 ```
-```vb
-Public Sub New ( 
-	vertex As Vertex,
-	value As Double
-)
-```
-```cpp
-public:
-Association(
-	Vertex^ vertex, 
-	double value
-)
-```
+
+
 
 
 #### Параметры

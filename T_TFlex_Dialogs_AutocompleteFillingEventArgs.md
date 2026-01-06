@@ -13,13 +13,8 @@
 ```csharp
 public class AutocompleteFillingEventArgs : BaseEventArgs
 ```
-```vb
-Public Class AutocompleteFillingEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class AutocompleteFillingEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип AutocompleteFillingEventArgs предоставляет следующие члены.

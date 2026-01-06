@@ -10,17 +10,8 @@ public void Assign(
 	VariableEditor source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As VariableEditor
-)
-```
-```cpp
-public:
-void Assign(
-	VariableEditor^ source
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class ContainerResultNode : IGroupingResultNode
 ```
-```vb
-Public Class ContainerResultNode
-	Implements IGroupingResultNode
-```
-```cpp
-public ref class ContainerResultNode : IGroupingResultNode
-```
+
+
 
 
 Тип ContainerResultNode предоставляет следующие члены.

@@ -11,12 +11,8 @@
 ```csharp
 public class AssemblyContextData
 ```
-```vb
-Public Class AssemblyContextData
-```
-```cpp
-public ref class AssemblyContextData
-```
+
+
 
 
 Тип AssemblyContextData предоставляет следующие члены.

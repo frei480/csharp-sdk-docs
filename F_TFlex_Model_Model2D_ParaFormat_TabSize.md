@@ -11,13 +11,8 @@
 ```csharp
 public double TabSize
 ```
-```vb
-Public TabSize As Double
-```
-```cpp
-public:
-double TabSize
-```
+
+
 
 
 #### Значение поля

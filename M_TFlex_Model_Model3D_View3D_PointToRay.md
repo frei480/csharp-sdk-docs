@@ -16,23 +16,8 @@ public bool PointToRay(
 	ref FloatVector rayDir
 )
 ```
-```vb
-Public Function PointToRay ( 
-	x As Integer,
-	y As Integer,
-	ByRef rayStart As FloatVector,
-	ByRef rayDir As FloatVector
-) As Boolean
-```
-```cpp
-public:
-bool PointToRay(
-	int x, 
-	int y, 
-	FloatVector% rayStart, 
-	FloatVector% rayDir
-)
-```
+
+
 
 
 #### Параметры

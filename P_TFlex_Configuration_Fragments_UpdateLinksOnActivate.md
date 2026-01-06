@@ -8,18 +8,8 @@
 ```csharp
 public UpdateLinks UpdateLinksOnActivate { get; set; }
 ```
-```vb
-Public Property UpdateLinksOnActivate As UpdateLinks
-	Get
-	Set
-```
-```cpp
-public:
-property UpdateLinks UpdateLinksOnActivate {
-	UpdateLinks get ();
-	void set (UpdateLinks value);
-}
-```
+
+
 
 
 #### Значение свойства

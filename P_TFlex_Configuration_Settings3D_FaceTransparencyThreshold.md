@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter FaceTransparencyThreshold { get; set; }
 ```
-```vb
-Public Property FaceTransparencyThreshold As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ FaceTransparencyThreshold {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

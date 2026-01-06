@@ -13,17 +13,8 @@ public bool SaveModified(
 	SaveOptions options
 )
 ```
-```vb
-Public Function SaveModified ( 
-	options As SaveOptions
-) As Boolean
-```
-```cpp
-public:
-bool SaveModified(
-	SaveOptions^ options
-)
-```
+
+
 
 
 #### Параметры

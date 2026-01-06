@@ -15,21 +15,8 @@ public PageHyperlinkProperties(
 	string text
 )
 ```
-```vb
-Public Sub New ( 
-	page As Page,
-	rectangle As Rectangle,
-	text As String
-)
-```
-```cpp
-public:
-PageHyperlinkProperties(
-	Page^ page, 
-	Rectangle rectangle, 
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

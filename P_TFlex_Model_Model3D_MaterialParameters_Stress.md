@@ -11,18 +11,8 @@
 ```csharp
 public double Stress { get; set; }
 ```
-```vb
-Public Property Stress As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Stress {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public bool EnableLength { get; set; }
 ```
-```vb
-Public Property EnableLength As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool EnableLength {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

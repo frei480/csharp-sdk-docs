@@ -14,19 +14,8 @@ public ContinuousWidthAttribute(
 	Parameter ratio
 )
 ```
-```vb
-Public Sub New ( 
-	width As Parameter,
-	ratio As Parameter
-)
-```
-```cpp
-public:
-ContinuousWidthAttribute(
-	Parameter^ width, 
-	Parameter^ ratio
-)
-```
+
+
 
 
 #### Параметры

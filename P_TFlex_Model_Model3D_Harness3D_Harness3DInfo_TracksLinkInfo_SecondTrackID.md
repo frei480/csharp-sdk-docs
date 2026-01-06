@@ -8,16 +8,8 @@
 ```csharp
 public uint SecondTrackID { get; }
 ```
-```vb
-Public ReadOnly Property SecondTrackID As UInteger
-	Get
-```
-```cpp
-public:
-property unsigned int SecondTrackID {
-	unsigned int get ();
-}
-```
+
+
 
 
 #### Значение свойства

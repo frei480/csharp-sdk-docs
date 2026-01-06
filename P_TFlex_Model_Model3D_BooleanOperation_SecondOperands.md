@@ -11,16 +11,8 @@
 ```csharp
 public BooleanOperationOperandsArray SecondOperands { get; }
 ```
-```vb
-Public ReadOnly Property SecondOperands As BooleanOperationOperandsArray
-	Get
-```
-```cpp
-public:
-property BooleanOperationOperandsArray^ SecondOperands {
-	BooleanOperationOperandsArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

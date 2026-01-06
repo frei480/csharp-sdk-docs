@@ -11,16 +11,8 @@
 ```csharp
 public bool HasSourceLines { get; }
 ```
-```vb
-Public ReadOnly Property HasSourceLines As Boolean
-	Get
-```
-```cpp
-public:
-property bool HasSourceLines {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

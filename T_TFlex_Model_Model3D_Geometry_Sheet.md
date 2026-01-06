@@ -11,12 +11,8 @@
 ```csharp
 public interface Sheet
 ```
-```vb
-Public Interface Sheet
-```
-```cpp
-public interface class Sheet
-```
+
+
 
 
 #### Ссылки

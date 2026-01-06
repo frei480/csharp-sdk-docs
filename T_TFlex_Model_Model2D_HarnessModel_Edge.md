@@ -11,12 +11,8 @@
 ```csharp
 public class Edge
 ```
-```vb
-Public Class Edge
-```
-```cpp
-public ref class Edge
-```
+
+
 
 
 Тип Edge предоставляет следующие члены.

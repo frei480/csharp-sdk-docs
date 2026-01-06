@@ -11,13 +11,8 @@
 ```csharp
 public LinkedObject()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LinkedObject()
-```
+
+
 
 
 #### Ссылки

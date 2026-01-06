@@ -13,17 +13,8 @@ public Loft(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Loft(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

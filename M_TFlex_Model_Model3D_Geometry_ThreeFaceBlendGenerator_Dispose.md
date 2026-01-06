@@ -13,17 +13,8 @@ protected override void Dispose(
 	bool A_0
 )
 ```
-```vb
-Protected Overrides Sub Dispose ( 
-	A_0 As Boolean
-)
-```
-```cpp
-protected:
-virtual void Dispose(
-	bool A_0
-) override
-```
+
+
 
 
 #### Параметры

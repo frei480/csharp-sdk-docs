@@ -11,19 +11,8 @@ public bool BeginCellEditing(
 	int column
 )
 ```
-```vb
-Public Function BeginCellEditing ( 
-	row As Integer,
-	column As Integer
-) As Boolean
-```
-```cpp
-public:
-bool BeginCellEditing(
-	int row, 
-	int column
-)
-```
+
+
 
 
 #### Параметры

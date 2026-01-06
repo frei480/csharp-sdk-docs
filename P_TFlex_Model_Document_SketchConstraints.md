@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetOutlines' method.")]
 public ObjectContainer SketchConstraints { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetOutlines' method.")>
-Public ReadOnly Property SketchConstraints As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetOutlines' method.")]
-property ObjectContainer^ SketchConstraints {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

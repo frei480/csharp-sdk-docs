@@ -11,16 +11,8 @@
 ```csharp
 public Collection<BaseControl> Controls { get; }
 ```
-```vb
-Public ReadOnly Property Controls As Collection(Of BaseControl)
-	Get
-```
-```cpp
-public:
-property Collection<BaseControl^>^ Controls {
-	Collection<BaseControl^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public Tabs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Tabs()
-```
+
+
 
 
 #### Ссылки

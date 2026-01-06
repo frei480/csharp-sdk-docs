@@ -14,19 +14,8 @@ protected bool GetCustomLicenseStatus(
 	uint license
 )
 ```
-```vb
-<ObsoleteAttribute("Use TFlex.Application.GetCustomLicenseStatus")>
-Protected Function GetCustomLicenseStatus ( 
-	license As UInteger
-) As Boolean
-```
-```cpp
-protected:
-[ObsoleteAttribute(L"Use TFlex.Application.GetCustomLicenseStatus")]
-bool GetCustomLicenseStatus(
-	unsigned int license
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public KeyEventArgsKeyState State { get; }
 ```
-```vb
-Public ReadOnly Property State As KeyEventArgsKeyState
-	Get
-```
-```cpp
-public:
-property KeyEventArgsKeyState State {
-	KeyEventArgsKeyState get ();
-}
-```
+
+
 
 
 #### Значение свойства

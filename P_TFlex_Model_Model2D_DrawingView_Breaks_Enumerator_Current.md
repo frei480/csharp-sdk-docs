@@ -11,16 +11,8 @@
 ```csharp
 public DrawingViewBreak Current { get; }
 ```
-```vb
-Public ReadOnly Property Current As DrawingViewBreak
-	Get
-```
-```cpp
-public:
-property DrawingViewBreak^ Current {
-	DrawingViewBreak^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

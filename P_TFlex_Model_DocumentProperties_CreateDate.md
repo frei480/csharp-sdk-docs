@@ -11,16 +11,8 @@
 ```csharp
 public string CreateDate { get; }
 ```
-```vb
-Public ReadOnly Property CreateDate As String
-	Get
-```
-```cpp
-public:
-property String^ CreateDate {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

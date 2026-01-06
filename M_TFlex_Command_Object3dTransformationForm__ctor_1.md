@@ -14,19 +14,8 @@ public Object3dTransformationForm(
 	bool fromPrimaryTransf
 )
 ```
-```vb
-Public Sub New ( 
-	object3d As Object3D,
-	fromPrimaryTransf As Boolean
-)
-```
-```cpp
-public:
-Object3dTransformationForm(
-	Object3D^ object3d, 
-	bool fromPrimaryTransf
-)
-```
+
+
 
 
 #### Параметры

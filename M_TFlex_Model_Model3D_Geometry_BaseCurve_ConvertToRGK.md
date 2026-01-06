@@ -14,19 +14,8 @@ public BaseCurveConvertToRGKResult ConvertToRGK(
 	IntPtr rgkSession
 )
 ```
-```vb
-Public Function ConvertToRGK ( 
-	document As Document,
-	rgkSession As IntPtr
-) As BaseCurveConvertToRGKResult
-```
-```cpp
-public:
-BaseCurveConvertToRGKResult^ ConvertToRGK(
-	Document^ document, 
-	IntPtr rgkSession
-)
-```
+
+
 
 
 #### Параметры

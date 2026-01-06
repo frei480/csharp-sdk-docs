@@ -13,17 +13,8 @@ public void SetRange(
 	Range range
 )
 ```
-```vb
-Public Sub SetRange ( 
-	range As Range
-)
-```
-```cpp
-public:
-void SetRange(
-	Range range
-)
-```
+
+
 
 
 #### Параметры

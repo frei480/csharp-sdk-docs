@@ -14,19 +14,8 @@ public DiagnosticsMessage(
 	string message
 )
 ```
-```vb
-Public Sub New ( 
-	type As DiagnosticsMessageType,
-	message As String
-)
-```
-```cpp
-public:
-DiagnosticsMessage(
-	DiagnosticsMessageType type, 
-	String^ message
-)
-```
+
+
 
 
 #### Параметры

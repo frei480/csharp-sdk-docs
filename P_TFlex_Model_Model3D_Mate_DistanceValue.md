@@ -11,18 +11,8 @@
 ```csharp
 public Parameter DistanceValue { get; set; }
 ```
-```vb
-Public Property DistanceValue As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ DistanceValue {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

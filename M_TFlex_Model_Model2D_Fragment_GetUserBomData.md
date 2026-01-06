@@ -13,17 +13,8 @@ public FragmentFileUserData GetUserBomData(
 	bool onlyVisible
 )
 ```
-```vb
-Public Function GetUserBomData ( 
-	onlyVisible As Boolean
-) As FragmentFileUserData
-```
-```cpp
-public:
-FragmentFileUserData^ GetUserBomData(
-	bool onlyVisible
-)
-```
+
+
 
 
 #### Параметры

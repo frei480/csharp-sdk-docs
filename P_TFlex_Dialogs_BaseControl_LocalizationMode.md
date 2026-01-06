@@ -11,18 +11,8 @@
 ```csharp
 public LocalizationMode LocalizationMode { get; set; }
 ```
-```vb
-Public Property LocalizationMode As LocalizationMode
-	Get
-	Set
-```
-```cpp
-public:
-property LocalizationMode LocalizationMode {
-	LocalizationMode get ();
-	void set (LocalizationMode value);
-}
-```
+
+
 
 
 #### Значение свойства

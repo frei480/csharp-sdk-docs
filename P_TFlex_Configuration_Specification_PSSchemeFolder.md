@@ -8,18 +8,8 @@
 ```csharp
 public string PSSchemeFolder { get; set; }
 ```
-```vb
-Public Property PSSchemeFolder As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ PSSchemeFolder {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

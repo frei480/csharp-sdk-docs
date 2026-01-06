@@ -11,13 +11,8 @@
 ```csharp
 public abstract bool IsValidState()
 ```
-```vb
-Public MustOverride Function IsValidState As Boolean
-```
-```cpp
-public:
-virtual bool IsValidState() abstract
-```
+
+
 
 
 #### Возвращаемое значение

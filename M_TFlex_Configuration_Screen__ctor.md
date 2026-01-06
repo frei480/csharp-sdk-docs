@@ -11,13 +11,8 @@
 ```csharp
 public Screen()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Screen()
-```
+
+
 
 
 #### Ссылки

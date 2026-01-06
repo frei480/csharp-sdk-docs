@@ -14,19 +14,8 @@ public void SetIntAttribute(
 	int value
 )
 ```
-```vb
-Public Sub SetIntAttribute ( 
-	attribName As String,
-	value As Integer
-)
-```
-```cpp
-public:
-void SetIntAttribute(
-	String^ attribName, 
-	int value
-)
-```
+
+
 
 
 #### Параметры

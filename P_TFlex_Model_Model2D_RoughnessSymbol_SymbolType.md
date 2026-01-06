@@ -11,18 +11,8 @@
 ```csharp
 public RoughnessSymbolViewType SymbolType { get; set; }
 ```
-```vb
-Public Property SymbolType As RoughnessSymbolViewType
-	Get
-	Set
-```
-```cpp
-public:
-property RoughnessSymbolViewType SymbolType {
-	RoughnessSymbolViewType get ();
-	void set (RoughnessSymbolViewType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public void Assign(
 	ScalePreset source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As ScalePreset
-)
-```
-```cpp
-public:
-void Assign(
-	ScalePreset^ source
-)
-```
+
+
 
 
 #### Параметры

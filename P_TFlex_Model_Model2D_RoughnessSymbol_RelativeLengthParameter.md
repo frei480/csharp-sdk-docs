@@ -11,18 +11,8 @@
 ```csharp
 public RoughnessSymbolRelativeLengthParameters RelativeLengthParameter { get; set; }
 ```
-```vb
-Public Property RelativeLengthParameter As RoughnessSymbolRelativeLengthParameters
-	Get
-	Set
-```
-```cpp
-public:
-property RoughnessSymbolRelativeLengthParameters RelativeLengthParameter {
-	RoughnessSymbolRelativeLengthParameters get ();
-	void set (RoughnessSymbolRelativeLengthParameters value);
-}
-```
+
+
 
 
 #### Значение свойства

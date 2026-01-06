@@ -10,17 +10,8 @@ protected virtual void ObjectCopyEventHandler(
 	CopyObjectEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub ObjectCopyEventHandler ( 
-	args As CopyObjectEventArgs
-)
-```
-```cpp
-protected:
-virtual void ObjectCopyEventHandler(
-	CopyObjectEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

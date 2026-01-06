@@ -14,19 +14,8 @@ public Fragment(
 	string filePath
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	filePath As String
-)
-```
-```cpp
-public:
-Fragment(
-	Document^ document, 
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

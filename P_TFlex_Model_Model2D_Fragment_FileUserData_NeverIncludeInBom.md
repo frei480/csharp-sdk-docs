@@ -11,16 +11,8 @@
 ```csharp
 public bool NeverIncludeInBom { get; }
 ```
-```vb
-Public ReadOnly Property NeverIncludeInBom As Boolean
-	Get
-```
-```cpp
-public:
-property bool NeverIncludeInBom {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public TypeValue GetValue(
 	string parameterSystemName
 )
 ```
-```vb
-Public Function GetValue ( 
-	parameterSystemName As String
-) As TypeValue
-```
-```cpp
-public:
-TypeValue^ GetValue(
-	String^ parameterSystemName
-)
-```
+
+
 
 
 #### Параметры

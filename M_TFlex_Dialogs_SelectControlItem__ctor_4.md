@@ -16,23 +16,8 @@ public SelectControlItem(
 	Icon icon
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	text As String,
-	hintText As String,
-	icon As Icon
-)
-```
-```cpp
-public:
-SelectControlItem(
-	String^ id, 
-	String^ text, 
-	String^ hintText, 
-	Icon^ icon
-)
-```
+
+
 
 
 #### Параметры

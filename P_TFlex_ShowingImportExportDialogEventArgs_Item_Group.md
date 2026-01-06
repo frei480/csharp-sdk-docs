@@ -8,18 +8,8 @@
 ```csharp
 public string Group { get; set; }
 ```
-```vb
-Public Property Group As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Group {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

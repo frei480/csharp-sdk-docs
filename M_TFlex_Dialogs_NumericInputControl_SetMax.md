@@ -13,17 +13,8 @@ public void SetMax(
 	double maxValue
 )
 ```
-```vb
-Public Sub SetMax ( 
-	maxValue As Double
-)
-```
-```cpp
-public:
-void SetMax(
-	double maxValue
-)
-```
+
+
 
 
 #### Параметры

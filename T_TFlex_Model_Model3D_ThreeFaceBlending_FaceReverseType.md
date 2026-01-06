@@ -11,12 +11,8 @@
 ```csharp
 public enum FaceReverseType
 ```
-```vb
-Public Enumeration FaceReverseType
-```
-```cpp
-public enum class FaceReverseType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,17 +13,8 @@ public void RemoveAllGuideContours(
 	int guideIndex
 )
 ```
-```vb
-Public Sub RemoveAllGuideContours ( 
-	guideIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveAllGuideContours(
-	int guideIndex
-)
-```
+
+
 
 
 #### Параметры

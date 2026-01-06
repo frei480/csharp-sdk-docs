@@ -11,16 +11,8 @@
 ```csharp
 public Parameter Magnitude { get; }
 ```
-```vb
-Public ReadOnly Property Magnitude As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ Magnitude {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

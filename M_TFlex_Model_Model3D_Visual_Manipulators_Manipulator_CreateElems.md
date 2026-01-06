@@ -8,13 +8,8 @@
 ```csharp
 protected virtual void CreateElems()
 ```
-```vb
-Protected Overridable Sub CreateElems
-```
-```cpp
-protected:
-virtual void CreateElems()
-```
+
+
 
 
 #### Ссылки

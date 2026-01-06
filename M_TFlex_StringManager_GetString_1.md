@@ -14,19 +14,8 @@ public bool GetString(
 	out string result
 )
 ```
-```vb
-Public Function GetString ( 
-	key As String,
-	<OutAttribute> ByRef result As String
-) As Boolean
-```
-```cpp
-public:
-bool GetString(
-	String^ key, 
-	[OutAttribute] String^% result
-)
-```
+
+
 
 
 #### Параметры

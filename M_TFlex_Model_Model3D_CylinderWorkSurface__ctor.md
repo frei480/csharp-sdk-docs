@@ -13,17 +13,8 @@ public CylinderWorkSurface(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-CylinderWorkSurface(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public void SetLeader(
 	FormlimitsLeader leader
 )
 ```
-```vb
-Public Sub SetLeader ( 
-	leader As FormlimitsLeader
-)
-```
-```cpp
-public:
-void SetLeader(
-	FormlimitsLeader^ leader
-)
-```
+
+
 
 
 #### Параметры

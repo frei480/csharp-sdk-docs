@@ -14,19 +14,8 @@ public void SetMappingCoordSystem(
 	LCS lcs
 )
 ```
-```vb
-Public Sub SetMappingCoordSystem ( 
-	Group As Integer,
-	lcs As LCS
-)
-```
-```cpp
-public:
-void SetMappingCoordSystem(
-	int Group, 
-	LCS^ lcs
-)
-```
+
+
 
 
 #### Параметры

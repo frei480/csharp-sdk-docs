@@ -8,13 +8,8 @@
 ```csharp
 public PipePath3DPointOnSurface GetEndPoint()
 ```
-```vb
-Public Function GetEndPoint As PipePath3DPointOnSurface
-```
-```cpp
-public:
-PipePath3DPointOnSurface^ GetEndPoint()
-```
+
+
 
 
 #### Возвращаемое значение

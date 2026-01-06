@@ -8,16 +8,8 @@
 ```csharp
 public IEnumerable<FaceCurveIntersectionItem> Intersections { get; }
 ```
-```vb
-Public ReadOnly Property Intersections As IEnumerable(Of FaceCurveIntersectionItem)
-	Get
-```
-```cpp
-public:
-property IEnumerable<FaceCurveIntersectionItem^>^ Intersections {
-	IEnumerable<FaceCurveIntersectionItem^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

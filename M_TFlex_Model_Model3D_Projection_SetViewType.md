@@ -13,17 +13,8 @@ public void SetViewType(
 	ProjectionType type
 )
 ```
-```vb
-Public Sub SetViewType ( 
-	type As ProjectionType
-)
-```
-```cpp
-public:
-void SetViewType(
-	ProjectionType type
-)
-```
+
+
 
 
 #### Параметры

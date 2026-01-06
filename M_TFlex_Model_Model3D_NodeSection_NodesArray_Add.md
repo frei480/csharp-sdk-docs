@@ -13,17 +13,8 @@ public void Add(
 	Node node
 )
 ```
-```vb
-Public Sub Add ( 
-	node As Node
-)
-```
-```cpp
-public:
-void Add(
-	Node^ node
-)
-```
+
+
 
 
 #### Параметры

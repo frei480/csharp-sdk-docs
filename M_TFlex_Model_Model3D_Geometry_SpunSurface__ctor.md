@@ -13,17 +13,8 @@ public SpunSurface(
 	SpunData data
 )
 ```
-```vb
-Public Sub New ( 
-	data As SpunData
-)
-```
-```cpp
-public:
-SpunSurface(
-	SpunData^ data
-)
-```
+
+
 
 
 #### Параметры

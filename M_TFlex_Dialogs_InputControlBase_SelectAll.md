@@ -11,13 +11,8 @@
 ```csharp
 public void SelectAll()
 ```
-```vb
-Public Sub SelectAll
-```
-```cpp
-public:
-void SelectAll()
-```
+
+
 
 
 #### Ссылки

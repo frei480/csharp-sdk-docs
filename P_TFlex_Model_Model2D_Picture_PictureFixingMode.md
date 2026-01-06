@@ -11,18 +11,8 @@
 ```csharp
 public PictureFixingMode PictureFixingMode { get; set; }
 ```
-```vb
-Public Property PictureFixingMode As PictureFixingMode
-	Get
-	Set
-```
-```cpp
-public:
-property PictureFixingMode PictureFixingMode {
-	PictureFixingMode get ();
-	void set (PictureFixingMode value);
-}
-```
+
+
 
 
 #### Значение свойства

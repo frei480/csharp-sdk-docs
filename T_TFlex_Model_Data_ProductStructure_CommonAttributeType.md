@@ -8,12 +8,8 @@
 ```csharp
 public enum CommonAttributeType
 ```
-```vb
-Public Enumeration CommonAttributeType
-```
-```cpp
-public enum class CommonAttributeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

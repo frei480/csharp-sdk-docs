@@ -16,23 +16,8 @@ public void AddFace(
 	bool commonParameter
 )
 ```
-```vb
-Public Sub AddFace ( 
-	face As ModelFace,
-	parameter1 As Parameter,
-	parameter2 As Parameter,
-	commonParameter As Boolean
-)
-```
-```cpp
-public:
-void AddFace(
-	ModelFace^ face, 
-	Parameter^ parameter1, 
-	Parameter^ parameter2, 
-	bool commonParameter
-)
-```
+
+
 
 
 #### Параметры

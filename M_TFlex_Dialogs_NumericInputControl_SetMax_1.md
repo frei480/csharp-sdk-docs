@@ -14,19 +14,8 @@ public void SetMax(
 	bool rescaleValue
 )
 ```
-```vb
-Public Sub SetMax ( 
-	maxValue As Double,
-	rescaleValue As Boolean
-)
-```
-```cpp
-public:
-void SetMax(
-	double maxValue, 
-	bool rescaleValue
-)
-```
+
+
 
 
 #### Параметры

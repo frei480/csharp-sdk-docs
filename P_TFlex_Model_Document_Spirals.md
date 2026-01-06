@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetSpirals' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer Spirals { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetSpirals' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property Spirals As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetSpirals' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ Spirals {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

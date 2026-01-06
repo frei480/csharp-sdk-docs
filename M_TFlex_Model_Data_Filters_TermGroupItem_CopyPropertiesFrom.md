@@ -10,17 +10,8 @@ public virtual void CopyPropertiesFrom(
 	TermGroupItem other
 )
 ```
-```vb
-Public Overridable Sub CopyPropertiesFrom ( 
-	other As TermGroupItem
-)
-```
-```cpp
-public:
-virtual void CopyPropertiesFrom(
-	TermGroupItem^ other
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public Construction Circle { get; set; }
 ```
-```vb
-Public Property Circle As Construction
-	Get
-	Set
-```
-```cpp
-public:
-property Construction^ Circle {
-	Construction^ get ();
-	void set (Construction^ value);
-}
-```
+
+
 
 
 #### Значение свойства

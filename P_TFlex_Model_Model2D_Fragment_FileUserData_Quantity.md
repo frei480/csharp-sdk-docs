@@ -11,16 +11,8 @@
 ```csharp
 public uint Quantity { get; }
 ```
-```vb
-Public ReadOnly Property Quantity As UInteger
-	Get
-```
-```cpp
-public:
-property unsigned int Quantity {
-	unsigned int get ();
-}
-```
+
+
 
 
 #### Значение свойства

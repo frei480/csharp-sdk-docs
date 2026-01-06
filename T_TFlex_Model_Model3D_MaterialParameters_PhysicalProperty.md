@@ -11,12 +11,8 @@
 ```csharp
 public enum PhysicalProperty
 ```
-```vb
-Public Enumeration PhysicalProperty
-```
-```cpp
-public enum class PhysicalProperty
-```
+
+
 
 
 | Имя члена | Значение | Описание |

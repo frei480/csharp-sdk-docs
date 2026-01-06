@@ -14,14 +14,8 @@
 public class KnotSequence : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class KnotSequence
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class KnotSequence : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип SurfaceSplineDataKnotSequence предоставляет следующие члены.

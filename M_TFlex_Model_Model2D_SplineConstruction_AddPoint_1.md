@@ -15,21 +15,8 @@ public int AddPoint(
 	bool tolerant
 )
 ```
-```vb
-Public Function AddPoint ( 
-	point As Point,
-	weight As Parameter,
-	tolerant As Boolean
-) As Integer
-```
-```cpp
-public:
-int AddPoint(
-	Point point, 
-	Parameter^ weight, 
-	bool tolerant
-)
-```
+
+
 
 
 #### Параметры

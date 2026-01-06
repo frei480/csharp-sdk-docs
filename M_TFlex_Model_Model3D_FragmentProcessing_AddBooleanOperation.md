@@ -8,13 +8,8 @@
 ```csharp
 public BooleanOperation AddBooleanOperation()
 ```
-```vb
-Public Function AddBooleanOperation As BooleanOperation
-```
-```cpp
-public:
-BooleanOperation^ AddBooleanOperation()
-```
+
+
 
 
 #### Возвращаемое значение

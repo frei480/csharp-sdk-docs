@@ -11,16 +11,8 @@
 ```csharp
 public ModelDirection CylinderDirection { get; }
 ```
-```vb
-Public ReadOnly Property CylinderDirection As ModelDirection
-	Get
-```
-```cpp
-public:
-property ModelDirection^ CylinderDirection {
-	ModelDirection^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

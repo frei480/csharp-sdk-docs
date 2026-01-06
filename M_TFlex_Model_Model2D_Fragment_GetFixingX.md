@@ -13,17 +13,8 @@ public double GetFixingX(
 	int index
 )
 ```
-```vb
-Public Function GetFixingX ( 
-	index As Integer
-) As Double
-```
-```cpp
-public:
-double GetFixingX(
-	int index
-)
-```
+
+
 
 
 #### Параметры

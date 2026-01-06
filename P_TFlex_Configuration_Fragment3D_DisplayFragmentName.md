@@ -8,18 +8,8 @@
 ```csharp
 public CompoundStringParameter DisplayFragmentName { get; set; }
 ```
-```vb
-Public Property DisplayFragmentName As CompoundStringParameter
-	Get
-	Set
-```
-```cpp
-public:
-property CompoundStringParameter^ DisplayFragmentName {
-	CompoundStringParameter^ get ();
-	void set (CompoundStringParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

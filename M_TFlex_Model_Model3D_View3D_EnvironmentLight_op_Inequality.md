@@ -11,19 +11,8 @@ public static bool operator !=(
 	View3DEnvironmentLight second
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	first As View3DEnvironmentLight,
-	second As View3DEnvironmentLight
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	View3DEnvironmentLight first, 
-	View3DEnvironmentLight second
-)
-```
+
+
 
 
 #### Параметры

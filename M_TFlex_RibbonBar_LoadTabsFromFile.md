@@ -13,17 +13,8 @@ public static void LoadTabsFromFile(
 	string fileName
 )
 ```
-```vb
-Public Shared Sub LoadTabsFromFile ( 
-	fileName As String
-)
-```
-```cpp
-public:
-static void LoadTabsFromFile(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

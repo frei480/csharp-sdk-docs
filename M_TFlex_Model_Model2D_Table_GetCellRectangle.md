@@ -13,17 +13,8 @@ public Rectangle GetCellRectangle(
 	uint cell
 )
 ```
-```vb
-Public Function GetCellRectangle ( 
-	cell As UInteger
-) As Rectangle
-```
-```cpp
-public:
-Rectangle GetCellRectangle(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

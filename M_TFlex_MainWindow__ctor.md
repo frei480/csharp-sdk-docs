@@ -11,13 +11,8 @@
 ```csharp
 public MainWindow()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MainWindow()
-```
+
+
 
 
 #### Ссылки

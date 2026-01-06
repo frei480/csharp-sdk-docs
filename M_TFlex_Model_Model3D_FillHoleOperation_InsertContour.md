@@ -14,19 +14,8 @@ public FillHoleOperationContour InsertContour(
 	ModelWire wire
 )
 ```
-```vb
-Public Function InsertContour ( 
-	contourIndex As Integer,
-	wire As ModelWire
-) As FillHoleOperationContour
-```
-```cpp
-public:
-FillHoleOperationContour^ InsertContour(
-	int contourIndex, 
-	ModelWire^ wire
-)
-```
+
+
 
 
 #### Параметры

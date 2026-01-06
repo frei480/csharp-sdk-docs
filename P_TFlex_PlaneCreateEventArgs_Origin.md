@@ -11,16 +11,8 @@
 ```csharp
 public Coords Origin { get; }
 ```
-```vb
-Public ReadOnly Property Origin As Coords
-	Get
-```
-```cpp
-public:
-property Coords^ Origin {
-	Coords^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public void ResetOffset(
 	ModelPoint3D modelPoint
 )
 ```
-```vb
-Public Sub ResetOffset ( 
-	offset As Double,
-	modelPoint As ModelPoint3D
-)
-```
-```cpp
-public:
-void ResetOffset(
-	double offset, 
-	ModelPoint3D^ modelPoint
-)
-```
+
+
 
 
 #### Параметры

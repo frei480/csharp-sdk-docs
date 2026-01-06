@@ -13,23 +13,8 @@ public Cable CreateCable(
 	Guid key
 )
 ```
-```vb
-Public Function CreateCable ( 
-	material As MaterialParameter,
-	coatingMaterial As MaterialParameter,
-	color As Parameter,
-	key As Guid
-) As Cable
-```
-```cpp
-public:
-Cable^ CreateCable(
-	MaterialParameter^ material, 
-	MaterialParameter^ coatingMaterial, 
-	Parameter^ color, 
-	Guid key
-)
-```
+
+
 
 
 #### Параметры

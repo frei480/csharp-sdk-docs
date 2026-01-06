@@ -12,14 +12,8 @@
 [ObsoleteAttribute("Erratum, use FieldType")]
 public enum FiledType
 ```
-```vb
-<ObsoleteAttribute("Erratum, use FieldType")>
-Public Enumeration FiledType
-```
-```cpp
-[ObsoleteAttribute(L"Erratum, use FieldType")]
-public enum class FiledType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,19 +13,8 @@ public static ICollection<Model3DObjectGroup> GetModel3DObjectGroups(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetModel3DObjectGroups ( 
-	document As Document
-) As ICollection(Of Model3DObjectGroup)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Model3DObjectGroup^>^ GetModel3DObjectGroups(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -11,19 +11,8 @@ public void SetRangeLength(
 	double max
 )
 ```
-```vb
-Public Sub SetRangeLength ( 
-	min As Double,
-	max As Double
-)
-```
-```cpp
-public:
-void SetRangeLength(
-	double min, 
-	double max
-)
-```
+
+
 
 
 #### Параметры

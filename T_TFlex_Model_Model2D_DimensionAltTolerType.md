@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionAltTolerType
 ```
-```vb
-Public Enumeration DimensionAltTolerType
-```
-```cpp
-public enum class DimensionAltTolerType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,13 +11,8 @@
 ```csharp
 public RenderOptions2D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RenderOptions2D()
-```
+
+
 
 
 #### Ссылки

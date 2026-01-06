@@ -14,19 +14,8 @@ public void AddRotation(
 	Parameter param
 )
 ```
-```vb
-Public Sub AddRotation ( 
-	axis As StandardAxis,
-	param As Parameter
-)
-```
-```cpp
-public:
-void AddRotation(
-	StandardAxis axis, 
-	Parameter^ param
-)
-```
+
+
 
 
 #### Параметры

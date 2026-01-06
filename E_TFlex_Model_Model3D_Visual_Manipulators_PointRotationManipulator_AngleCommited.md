@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<PointRotationManipulatorAngleCommitedEventArgs> AngleCommited
 ```
-```vb
-Public Event AngleCommited As EventHandler(Of PointRotationManipulatorAngleCommitedEventArgs)
-```
-```cpp
-public:
- event EventHandler<PointRotationManipulatorAngleCommitedEventArgs^>^ AngleCommited {
-	void add (EventHandler<PointRotationManipulatorAngleCommitedEventArgs^>^ value);
-	void remove (EventHandler<PointRotationManipulatorAngleCommitedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

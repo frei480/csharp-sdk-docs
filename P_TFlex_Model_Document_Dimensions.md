@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetDimensions' method.")]
 public ObjectContainer Dimensions { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetDimensions' method.")>
-Public ReadOnly Property Dimensions As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetDimensions' method.")]
-property ObjectContainer^ Dimensions {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

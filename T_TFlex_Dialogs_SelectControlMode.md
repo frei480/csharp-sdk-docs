@@ -11,12 +11,8 @@
 ```csharp
 public enum SelectControlMode
 ```
-```vb
-Public Enumeration SelectControlMode
-```
-```cpp
-public enum class SelectControlMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

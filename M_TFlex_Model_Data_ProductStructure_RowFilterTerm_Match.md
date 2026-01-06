@@ -10,17 +10,8 @@ public override bool Match(
 	Object obj
 )
 ```
-```vb
-Public Overrides Function Match ( 
-	obj As Object
-) As Boolean
-```
-```cpp
-public:
-virtual bool Match(
-	Object^ obj
-) override
-```
+
+
 
 
 #### Параметры

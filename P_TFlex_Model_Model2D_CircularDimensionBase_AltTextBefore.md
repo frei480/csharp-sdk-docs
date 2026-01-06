@@ -11,18 +11,8 @@
 ```csharp
 public string AltTextBefore { get; set; }
 ```
-```vb
-Public Property AltTextBefore As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ AltTextBefore {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class DiameterCommitedEventArgs : LengthDiameterManipulatorValueCommitedEventArgs
 ```
-```vb
-Public Class DiameterCommitedEventArgs
-	Inherits LengthDiameterManipulatorValueCommitedEventArgs
-```
-```cpp
-public ref class DiameterCommitedEventArgs : public LengthDiameterManipulatorValueCommitedEventArgs
-```
+
+
 
 
 Тип LengthDiameterManipulatorDiameterCommitedEventArgs предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public ListControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ListControl()
-```
+
+
 
 
 #### Ссылки

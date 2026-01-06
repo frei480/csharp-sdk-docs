@@ -13,12 +13,8 @@
 ```csharp
 public class StringManager
 ```
-```vb
-Public Class StringManager
-```
-```cpp
-public ref class StringManager
-```
+
+
 
 
 Тип StringManager предоставляет следующие члены.

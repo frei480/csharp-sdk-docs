@@ -11,18 +11,8 @@
 ```csharp
 public bool Italic { get; set; }
 ```
-```vb
-Public Property Italic As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Italic {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

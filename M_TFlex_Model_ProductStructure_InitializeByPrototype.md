@@ -13,17 +13,8 @@ public bool InitializeByPrototype(
 	string prototypeName
 )
 ```
-```vb
-Public Function InitializeByPrototype ( 
-	prototypeName As String
-) As Boolean
-```
-```cpp
-public:
-bool InitializeByPrototype(
-	String^ prototypeName
-)
-```
+
+
 
 
 #### Параметры

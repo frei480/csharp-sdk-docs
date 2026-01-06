@@ -13,13 +13,8 @@
 ```csharp
 public class Unbend : Operation
 ```
-```vb
-Public Class Unbend
-	Inherits Operation
-```
-```cpp
-public ref class Unbend : public Operation
-```
+
+
 
 
 Тип Unbend предоставляет следующие члены.

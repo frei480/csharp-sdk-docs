@@ -8,18 +8,8 @@
 ```csharp
 public LinearUnitType ModelUnit { get; set; }
 ```
-```vb
-Public Property ModelUnit As LinearUnitType
-	Get
-	Set
-```
-```cpp
-public:
-property LinearUnitType ModelUnit {
-	LinearUnitType get ();
-	void set (LinearUnitType value);
-}
-```
+
+
 
 
 #### Значение свойства

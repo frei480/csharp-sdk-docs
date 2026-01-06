@@ -13,12 +13,8 @@
 ```csharp
 public sealed class InputControlAutocompleteItem
 ```
-```vb
-Public NotInheritable Class InputControlAutocompleteItem
-```
-```cpp
-public ref class InputControlAutocompleteItem sealed
-```
+
+
 
 
 Тип InputControlAutocompleteItem предоставляет следующие члены.

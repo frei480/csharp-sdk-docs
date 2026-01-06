@@ -11,13 +11,8 @@
 ```csharp
 public BlendAttribute()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-BlendAttribute()
-```
+
+
 
 
 #### Ссылки

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToBitmap3D : ExportTo
 ```
-```vb
-Public NotInheritable Class ExportToBitmap3D
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportToBitmap3D sealed : public ExportTo
-```
+
+
 
 
 Тип ExportToBitmap3D предоставляет следующие члены.

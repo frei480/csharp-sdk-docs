@@ -11,12 +11,8 @@
 ```csharp
 public class SegmentBound
 ```
-```vb
-Public Class SegmentBound
-```
-```cpp
-public ref class SegmentBound
-```
+
+
 
 
 Тип SegmentBound предоставляет следующие члены.

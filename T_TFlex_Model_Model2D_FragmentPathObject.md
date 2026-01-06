@@ -13,13 +13,8 @@
 ```csharp
 public sealed class FragmentPathObject : IEnumerable<Fragment>
 ```
-```vb
-Public NotInheritable Class FragmentPathObject
-	Implements IEnumerable(Of Fragment)
-```
-```cpp
-public ref class FragmentPathObject sealed : IEnumerable<Fragment^>
-```
+
+
 
 
 Тип FragmentPathObject предоставляет следующие члены.

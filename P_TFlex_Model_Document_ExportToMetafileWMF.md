@@ -11,16 +11,8 @@
 ```csharp
 public ExportToMetafileWMF ExportToMetafileWMF { get; }
 ```
-```vb
-Public ReadOnly Property ExportToMetafileWMF As ExportToMetafileWMF
-	Get
-```
-```cpp
-public:
-property ExportToMetafileWMF^ ExportToMetafileWMF {
-	ExportToMetafileWMF^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

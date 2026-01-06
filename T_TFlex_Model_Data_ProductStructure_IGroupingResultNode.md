@@ -8,12 +8,8 @@
 ```csharp
 public interface IGroupingResultNode
 ```
-```vb
-Public Interface IGroupingResultNode
-```
-```cpp
-public interface class IGroupingResultNode
-```
+
+
 
 
 Тип IGroupingResultNode предоставляет следующие члены.

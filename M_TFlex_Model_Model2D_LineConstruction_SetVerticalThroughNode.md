@@ -13,17 +13,8 @@ public void SetVerticalThroughNode(
 	Node srcNode
 )
 ```
-```vb
-Public Sub SetVerticalThroughNode ( 
-	srcNode As Node
-)
-```
-```cpp
-public:
-void SetVerticalThroughNode(
-	Node^ srcNode
-)
-```
+
+
 
 
 #### Параметры

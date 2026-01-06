@@ -11,16 +11,8 @@
 ```csharp
 public string SourceFragmentPath { get; }
 ```
-```vb
-Public ReadOnly Property SourceFragmentPath As String
-	Get
-```
-```cpp
-public:
-property String^ SourceFragmentPath {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

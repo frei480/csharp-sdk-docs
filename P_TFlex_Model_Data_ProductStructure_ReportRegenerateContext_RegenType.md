@@ -8,18 +8,8 @@
 ```csharp
 public ReportRegenerateContextRegenerationType RegenType { get; set; }
 ```
-```vb
-Public Property RegenType As ReportRegenerateContextRegenerationType
-	Get
-	Set
-```
-```cpp
-public:
-property ReportRegenerateContextRegenerationType RegenType {
-	ReportRegenerateContextRegenerationType get ();
-	void set (ReportRegenerateContextRegenerationType value);
-}
-```
+
+
 
 
 #### Значение свойства

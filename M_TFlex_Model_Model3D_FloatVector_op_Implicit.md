@@ -13,16 +13,8 @@ public static implicit operator FloatVector (
 	BaseDirection vector
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	vector As BaseDirection
-) As FloatVector
-```
-```cpp
-static implicit operator FloatVector (
-	BaseDirection^ vector
-)
-```
+
+
 
 
 #### Параметры

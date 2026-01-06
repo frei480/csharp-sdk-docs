@@ -11,13 +11,8 @@
 ```csharp
 public User()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-User()
-```
+
+
 
 
 #### Ссылки

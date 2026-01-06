@@ -11,18 +11,8 @@
 ```csharp
 public bool EndExtension { get; set; }
 ```
-```vb
-Public Property EndExtension As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool EndExtension {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

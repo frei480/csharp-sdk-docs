@@ -13,13 +13,8 @@
 ```csharp
 public class CopyConstruction : Construction
 ```
-```vb
-Public Class CopyConstruction
-	Inherits Construction
-```
-```cpp
-public ref class CopyConstruction : public Construction
-```
+
+
 
 
 Тип CopyConstruction предоставляет следующие члены.

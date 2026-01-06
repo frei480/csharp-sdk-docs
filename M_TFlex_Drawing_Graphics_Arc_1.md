@@ -16,23 +16,8 @@ public void Arc(
 	bool direction
 )
 ```
-```vb
-Public Sub Arc ( 
-	center As Point,
-	point1 As Point,
-	point2 As Point,
-	direction As Boolean
-)
-```
-```cpp
-public:
-void Arc(
-	Point center, 
-	Point point1, 
-	Point point2, 
-	bool direction
-)
-```
+
+
 
 
 #### Параметры

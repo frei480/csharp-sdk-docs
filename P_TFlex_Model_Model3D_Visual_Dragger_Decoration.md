@@ -11,18 +11,8 @@
 ```csharp
 public virtual Decoration Decoration { get; set; }
 ```
-```vb
-Public Overridable Property Decoration As Decoration
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Decoration^ Decoration {
-	Decoration^ get ();
-	void set (Decoration^ value);
-}
-```
+
+
 
 
 #### Значение свойства

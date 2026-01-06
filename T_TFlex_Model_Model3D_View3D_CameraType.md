@@ -11,12 +11,8 @@
 ```csharp
 public enum CameraType
 ```
-```vb
-Public Enumeration CameraType
-```
-```cpp
-public enum class CameraType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

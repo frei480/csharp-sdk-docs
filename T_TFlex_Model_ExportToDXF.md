@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToDXF : ExportToACAD
 ```
-```vb
-Public NotInheritable Class ExportToDXF
-	Inherits ExportToACAD
-```
-```cpp
-public ref class ExportToDXF sealed : public ExportToACAD
-```
+
+
 
 
 Тип ExportToDXF предоставляет следующие члены.

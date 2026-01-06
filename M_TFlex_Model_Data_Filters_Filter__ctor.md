@@ -11,13 +11,8 @@
 ```csharp
 public Filter()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Filter()
-```
+
+
 
 
 #### Ссылки

@@ -8,18 +8,8 @@
 ```csharp
 public bool WPRotate { get; set; }
 ```
-```vb
-Public Property WPRotate As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool WPRotate {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

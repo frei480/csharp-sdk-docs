@@ -13,13 +13,8 @@
 ```csharp
 public class ExpanderControl : GroupControl
 ```
-```vb
-Public Class ExpanderControl
-	Inherits GroupControl
-```
-```cpp
-public ref class ExpanderControl : public GroupControl
-```
+
+
 
 
 Тип ExpanderControl предоставляет следующие члены.

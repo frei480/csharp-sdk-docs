@@ -13,12 +13,8 @@
 ```csharp
 public sealed class AmountOfSubstance
 ```
-```vb
-Public NotInheritable Class AmountOfSubstance
-```
-```cpp
-public ref class AmountOfSubstance sealed
-```
+
+
 
 
 Тип StandardUnitsAmountOfSubstance предоставляет следующие члены.

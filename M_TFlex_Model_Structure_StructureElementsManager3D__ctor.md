@@ -11,13 +11,8 @@
 ```csharp
 public StructureElementsManager3D()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-StructureElementsManager3D()
-```
+
+
 
 
 #### Ссылки

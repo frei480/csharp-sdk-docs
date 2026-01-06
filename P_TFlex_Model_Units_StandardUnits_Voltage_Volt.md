@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Volt { get; }
 ```
-```vb
-Public Shared ReadOnly Property Volt As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Volt {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

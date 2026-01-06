@@ -13,17 +13,8 @@ public PluginCommand(
 	Plugin OwnerPlugin
 )
 ```
-```vb
-Public Sub New ( 
-	OwnerPlugin As Plugin
-)
-```
-```cpp
-public:
-PluginCommand(
-	Plugin^ OwnerPlugin
-)
-```
+
+
 
 
 #### Параметры

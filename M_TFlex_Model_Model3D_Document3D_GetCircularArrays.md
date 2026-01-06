@@ -13,19 +13,8 @@ public static ICollection<CircularArrayOperation> GetCircularArrays(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetCircularArrays ( 
-	document As Document
-) As ICollection(Of CircularArrayOperation)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<CircularArrayOperation^>^ GetCircularArrays(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

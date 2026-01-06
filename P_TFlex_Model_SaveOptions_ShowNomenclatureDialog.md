@@ -11,18 +11,8 @@
 ```csharp
 public bool ShowNomenclatureDialog { get; set; }
 ```
-```vb
-Public Property ShowNomenclatureDialog As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowNomenclatureDialog {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

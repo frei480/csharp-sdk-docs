@@ -11,13 +11,8 @@
 ```csharp
 public ImportFrom3dMode Mode
 ```
-```vb
-Public Mode As ImportFrom3dMode
-```
-```cpp
-public:
-ImportFrom3dMode Mode
-```
+
+
 
 
 #### Значение поля

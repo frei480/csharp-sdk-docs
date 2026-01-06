@@ -14,19 +14,8 @@ public SliderControl(
 	NumericInputControl inputControl
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	inputControl As NumericInputControl
-)
-```
-```cpp
-public:
-SliderControl(
-	String^ id, 
-	NumericInputControl^ inputControl
-)
-```
+
+
 
 
 #### Параметры

@@ -8,12 +8,8 @@
 ```csharp
 public enum CreateReferenceDimensionsType
 ```
-```vb
-Public Enumeration CreateReferenceDimensionsType
-```
-```cpp
-public enum class CreateReferenceDimensionsType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

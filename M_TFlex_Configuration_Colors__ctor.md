@@ -11,13 +11,8 @@
 ```csharp
 public Colors()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Colors()
-```
+
+
 
 
 #### Ссылки

@@ -11,18 +11,8 @@
 ```csharp
 public Parameter BrokenLength { get; set; }
 ```
-```vb
-Public Property BrokenLength As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ BrokenLength {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

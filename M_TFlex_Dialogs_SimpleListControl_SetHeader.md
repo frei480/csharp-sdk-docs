@@ -14,19 +14,8 @@ public void SetHeader(
 	Object content
 )
 ```
-```vb
-Public Sub SetHeader ( 
-	column As Integer,
-	content As Object
-)
-```
-```cpp
-public:
-void SetHeader(
-	int column, 
-	Object^ content
-)
-```
+
+
 
 
 #### Параметры

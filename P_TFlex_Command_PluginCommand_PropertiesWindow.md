@@ -11,18 +11,8 @@
 ```csharp
 public virtual PropertiesWindow PropertiesWindow { get; set; }
 ```
-```vb
-Public Overridable Property PropertiesWindow As PropertiesWindow
-	Get
-	Set
-```
-```cpp
-public:
-virtual property PropertiesWindow^ PropertiesWindow {
-	PropertiesWindow^ get ();
-	void set (PropertiesWindow^ value);
-}
-```
+
+
 
 
 #### Значение свойства

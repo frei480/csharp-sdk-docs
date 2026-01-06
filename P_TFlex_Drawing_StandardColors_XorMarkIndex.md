@@ -11,16 +11,8 @@
 ```csharp
 public static int XorMarkIndex { get; }
 ```
-```vb
-Public Shared ReadOnly Property XorMarkIndex As Integer
-	Get
-```
-```cpp
-public:
-static property int XorMarkIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

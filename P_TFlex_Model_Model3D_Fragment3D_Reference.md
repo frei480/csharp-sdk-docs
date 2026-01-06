@@ -11,16 +11,8 @@
 ```csharp
 public References Reference { get; }
 ```
-```vb
-Public ReadOnly Property Reference As References
-	Get
-```
-```cpp
-public:
-property References^ Reference {
-	References^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class SpliceWireSetManipulator : WireSetManipulator
 ```
-```vb
-Public Class SpliceWireSetManipulator
-	Inherits WireSetManipulator
-```
-```cpp
-public ref class SpliceWireSetManipulator : public WireSetManipulator
-```
+
+
 
 
 Тип SpliceWireSetManipulator предоставляет следующие члены.

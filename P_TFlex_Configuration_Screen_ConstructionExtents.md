@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter ConstructionExtents { get; set; }
 ```
-```vb
-Public Property ConstructionExtents As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ ConstructionExtents {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

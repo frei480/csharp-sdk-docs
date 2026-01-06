@@ -8,18 +8,8 @@
 ```csharp
 public int LabelIcon { get; set; }
 ```
-```vb
-Public Property LabelIcon As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int LabelIcon {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

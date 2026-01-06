@@ -13,17 +13,8 @@ public void Add(
 	SweepGeneratorLawDiscreteAssociation pair
 )
 ```
-```vb
-Public Sub Add ( 
-	pair As SweepGeneratorLawDiscreteAssociation
-)
-```
-```cpp
-public:
-void Add(
-	SweepGeneratorLawDiscreteAssociation^ pair
-)
-```
+
+
 
 
 #### Параметры

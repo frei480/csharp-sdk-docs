@@ -16,23 +16,8 @@ public override bool Activate(
 	float tolerance
 )
 ```
-```vb
-Public Overrides Function Activate ( 
-	view As View3D,
-	x As Integer,
-	y As Integer,
-	tolerance As Single
-) As Boolean
-```
-```cpp
-public:
-virtual bool Activate(
-	View3D^ view, 
-	int x, 
-	int y, 
-	float tolerance
-) override
-```
+
+
 
 
 #### Параметры

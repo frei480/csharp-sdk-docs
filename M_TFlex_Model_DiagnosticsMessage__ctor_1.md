@@ -15,21 +15,8 @@ public DiagnosticsMessage(
 	ModelObject object
 )
 ```
-```vb
-Public Sub New ( 
-	type As DiagnosticsMessageType,
-	message As String,
-	object As ModelObject
-)
-```
-```cpp
-public:
-DiagnosticsMessage(
-	DiagnosticsMessageType type, 
-	String^ message, 
-	ModelObject^ object
-)
-```
+
+
 
 
 #### Параметры

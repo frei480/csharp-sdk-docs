@@ -11,13 +11,8 @@
 ```csharp
 public ObjectArray()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ObjectArray()
-```
+
+
 
 
 #### Ссылки

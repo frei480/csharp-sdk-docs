@@ -15,21 +15,8 @@ public void SetFixingPoint(
 	double y
 )
 ```
-```vb
-Public Sub SetFixingPoint ( 
-	index As Integer,
-	x As Double,
-	y As Double
-)
-```
-```cpp
-public:
-void SetFixingPoint(
-	int index, 
-	double x, 
-	double y
-)
-```
+
+
 
 
 #### Параметры

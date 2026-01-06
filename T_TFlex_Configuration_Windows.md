@@ -11,13 +11,8 @@
 ```csharp
 public class Windows : SettingsGroup
 ```
-```vb
-Public Class Windows
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Windows : public SettingsGroup
-```
+
+
 
 
 Тип Windows предоставляет следующие члены.

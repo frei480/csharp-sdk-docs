@@ -15,21 +15,8 @@ public ContinuousRadiusAttribute(
 	FaceBlendingShapeType shape
 )
 ```
-```vb
-Public Sub New ( 
-	radius As Parameter,
-	softness As Parameter,
-	shape As FaceBlendingShapeType
-)
-```
-```cpp
-public:
-ContinuousRadiusAttribute(
-	Parameter^ radius, 
-	Parameter^ softness, 
-	FaceBlendingShapeType shape
-)
-```
+
+
 
 
 #### Параметры

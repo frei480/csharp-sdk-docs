@@ -11,13 +11,8 @@
 ```csharp
 public bool DeleteContents()
 ```
-```vb
-Public Function DeleteContents As Boolean
-```
-```cpp
-public:
-bool DeleteContents()
-```
+
+
 
 
 #### Возвращаемое значение

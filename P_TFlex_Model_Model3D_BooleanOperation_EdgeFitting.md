@@ -11,18 +11,8 @@
 ```csharp
 public BooleanOperationFittingType EdgeFitting { get; set; }
 ```
-```vb
-Public Property EdgeFitting As BooleanOperationFittingType
-	Get
-	Set
-```
-```cpp
-public:
-property BooleanOperationFittingType EdgeFitting {
-	BooleanOperationFittingType get ();
-	void set (BooleanOperationFittingType value);
-}
-```
+
+
 
 
 #### Значение свойства

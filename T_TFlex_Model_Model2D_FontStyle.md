@@ -13,12 +13,8 @@
 ```csharp
 public class FontStyle
 ```
-```vb
-Public Class FontStyle
-```
-```cpp
-public ref class FontStyle
-```
+
+
 
 
 Тип FontStyle предоставляет следующие члены.

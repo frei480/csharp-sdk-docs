@@ -13,17 +13,8 @@ public Unit GetUnit(
 	Guid paramId
 )
 ```
-```vb
-Public Function GetUnit ( 
-	paramId As Guid
-) As Unit
-```
-```cpp
-public:
-Unit^ GetUnit(
-	Guid paramId
-)
-```
+
+
 
 
 #### Параметры

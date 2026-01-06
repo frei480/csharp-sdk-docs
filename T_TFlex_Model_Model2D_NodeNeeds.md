@@ -11,12 +11,8 @@
 ```csharp
 public enum NodeNeeds
 ```
-```vb
-Public Enumeration NodeNeeds
-```
-```cpp
-public enum class NodeNeeds
-```
+
+
 
 
 | Имя члена | Значение | Описание |

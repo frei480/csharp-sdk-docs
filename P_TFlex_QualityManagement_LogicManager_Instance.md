@@ -11,16 +11,8 @@
 ```csharp
 public static LogicManager Instance { get; }
 ```
-```vb
-Public Shared ReadOnly Property Instance As LogicManager
-	Get
-```
-```cpp
-public:
-static property LogicManager^ Instance {
-	LogicManager^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,16 +13,8 @@ public static implicit operator ModelObjectArrayIndices (
 	uint index
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	index As UInteger
-) As ModelObjectArrayIndices
-```
-```cpp
-static implicit operator ModelObjectArrayIndices^ (
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

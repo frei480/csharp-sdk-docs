@@ -11,16 +11,8 @@
 ```csharp
 public TermGroup Terms { get; }
 ```
-```vb
-Public ReadOnly Property Terms As TermGroup
-	Get
-```
-```cpp
-public:
-property TermGroup^ Terms {
-	TermGroup^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public ModelObject Create3DFragment()
 ```
-```vb
-Public Function Create3DFragment As ModelObject
-```
-```cpp
-public:
-ModelObject^ Create3DFragment()
-```
+
+
 
 
 #### Возвращаемое значение

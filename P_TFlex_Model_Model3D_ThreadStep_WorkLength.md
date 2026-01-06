@@ -11,16 +11,8 @@
 ```csharp
 public double WorkLength { get; }
 ```
-```vb
-Public ReadOnly Property WorkLength As Double
-	Get
-```
-```cpp
-public:
-property double WorkLength {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

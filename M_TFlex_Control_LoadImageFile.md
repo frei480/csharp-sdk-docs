@@ -13,17 +13,8 @@ public virtual bool LoadImageFile(
 	string fileName
 )
 ```
-```vb
-Public Overridable Function LoadImageFile ( 
-	fileName As String
-) As Boolean
-```
-```cpp
-public:
-virtual bool LoadImageFile(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

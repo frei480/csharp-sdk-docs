@@ -11,18 +11,8 @@
 ```csharp
 public Position CursorPosition { get; set; }
 ```
-```vb
-Public Property CursorPosition As Position
-	Get
-	Set
-```
-```cpp
-public:
-property Position CursorPosition {
-	Position get ();
-	void set (Position value);
-}
-```
+
+
 
 
 #### Значение свойства

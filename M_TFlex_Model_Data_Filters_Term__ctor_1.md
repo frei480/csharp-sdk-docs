@@ -13,17 +13,8 @@ protected Term(
 	LogicalOperator logicalOperator
 )
 ```
-```vb
-Protected Sub New ( 
-	logicalOperator As LogicalOperator
-)
-```
-```cpp
-protected:
-Term(
-	LogicalOperator logicalOperator
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public int TargetPointCount { get; }
 ```
-```vb
-Public ReadOnly Property TargetPointCount As Integer
-	Get
-```
-```cpp
-public:
-property int TargetPointCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

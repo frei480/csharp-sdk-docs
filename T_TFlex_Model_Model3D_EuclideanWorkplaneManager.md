@@ -13,12 +13,8 @@
 ```csharp
 public class EuclideanWorkplaneManager
 ```
-```vb
-Public Class EuclideanWorkplaneManager
-```
-```cpp
-public ref class EuclideanWorkplaneManager
-```
+
+
 
 
 Тип EuclideanWorkplaneManager предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public ShowPages()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ShowPages()
-```
+
+
 
 
 #### Ссылки

@@ -13,13 +13,8 @@
 ```csharp
 public class SecondPointVector : LoftVectorDirection
 ```
-```vb
-Public Class SecondPointVector
-	Inherits LoftVectorDirection
-```
-```cpp
-public ref class SecondPointVector : public LoftVectorDirection
-```
+
+
 
 
 Тип LoftSecondPointVector предоставляет следующие члены.

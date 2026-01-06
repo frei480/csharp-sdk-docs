@@ -13,13 +13,8 @@
 ```csharp
 public class CopyProfile : Profile
 ```
-```vb
-Public Class CopyProfile
-	Inherits Profile
-```
-```cpp
-public ref class CopyProfile : public Profile
-```
+
+
 
 
 Тип CopyProfile предоставляет следующие члены.

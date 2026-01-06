@@ -11,13 +11,8 @@
 ```csharp
 public static readonly ComparisonOperator MatchMask
 ```
-```vb
-Public Shared ReadOnly MatchMask As ComparisonOperator
-```
-```cpp
-public:
-static initonly ComparisonOperator^ MatchMask
-```
+
+
 
 
 #### Значение поля

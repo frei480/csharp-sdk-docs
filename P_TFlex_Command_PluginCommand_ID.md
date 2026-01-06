@@ -11,16 +11,8 @@
 ```csharp
 public virtual int ID { get; }
 ```
-```vb
-Public Overridable ReadOnly Property ID As Integer
-	Get
-```
-```cpp
-public:
-virtual property int ID {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

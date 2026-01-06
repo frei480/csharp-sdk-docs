@@ -10,17 +10,8 @@ public void SetObject(
 	ConductorSet object
 )
 ```
-```vb
-Public Sub SetObject ( 
-	object As ConductorSet
-)
-```
-```cpp
-public:
-void SetObject(
-	ConductorSet^ object
-)
-```
+
+
 
 
 #### Параметры

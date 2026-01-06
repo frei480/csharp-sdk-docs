@@ -14,19 +14,8 @@ public void RemoveRange(
 	int count
 )
 ```
-```vb
-Public Sub RemoveRange ( 
-	index As Integer,
-	count As Integer
-)
-```
-```cpp
-public:
-void RemoveRange(
-	int index, 
-	int count
-)
-```
+
+
 
 
 #### Параметры

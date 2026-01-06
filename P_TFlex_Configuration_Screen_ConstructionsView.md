@@ -8,18 +8,8 @@
 ```csharp
 public ViewConstructionMode ConstructionsView { get; set; }
 ```
-```vb
-Public Property ConstructionsView As ViewConstructionMode
-	Get
-	Set
-```
-```cpp
-public:
-property ViewConstructionMode ConstructionsView {
-	ViewConstructionMode get ();
-	void set (ViewConstructionMode value);
-}
-```
+
+
 
 
 #### Значение свойства

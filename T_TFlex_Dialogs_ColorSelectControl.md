@@ -13,13 +13,8 @@
 ```csharp
 public class ColorSelectControl : NumericInputControl
 ```
-```vb
-Public Class ColorSelectControl
-	Inherits NumericInputControl
-```
-```cpp
-public ref class ColorSelectControl : public NumericInputControl
-```
+
+
 
 
 Тип ColorSelectControl предоставляет следующие члены.

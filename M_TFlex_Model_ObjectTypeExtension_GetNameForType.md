@@ -13,17 +13,8 @@ public static string GetNameForType(
 	int type
 )
 ```
-```vb
-Public Shared Function GetNameForType ( 
-	type As Integer
-) As String
-```
-```cpp
-public:
-static String^ GetNameForType(
-	int type
-)
-```
+
+
 
 
 #### Параметры

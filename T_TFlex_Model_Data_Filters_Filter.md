@@ -13,13 +13,8 @@
 ```csharp
 public class Filter : ICloneable
 ```
-```vb
-Public Class Filter
-	Implements ICloneable
-```
-```cpp
-public ref class Filter : ICloneable
-```
+
+
 
 
 Тип Filter предоставляет следующие члены.

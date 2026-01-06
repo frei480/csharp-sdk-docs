@@ -13,16 +13,8 @@
 ```csharp
 public static Unit CubicFoot { get; }
 ```
-```vb
-Public Shared ReadOnly Property CubicFoot As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ CubicFoot {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

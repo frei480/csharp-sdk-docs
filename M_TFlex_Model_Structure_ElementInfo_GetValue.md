@@ -10,17 +10,8 @@ public ElementInfoValue GetValue(
 	Guid parameterId
 )
 ```
-```vb
-Public Function GetValue ( 
-	parameterId As Guid
-) As ElementInfoValue
-```
-```cpp
-public:
-ElementInfoValue^ GetValue(
-	Guid parameterId
-)
-```
+
+
 
 
 #### Параметры

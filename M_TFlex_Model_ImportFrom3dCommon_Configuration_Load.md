@@ -10,17 +10,8 @@ public static ImportFrom3dCommonConfiguration Load(
 	string A_0
 )
 ```
-```vb
-Public Shared Function Load ( 
-	A_0 As String
-) As ImportFrom3dCommonConfiguration
-```
-```cpp
-public:
-static ImportFrom3dCommonConfiguration^ Load(
-	String^ A_0
-)
-```
+
+
 
 
 #### Параметры

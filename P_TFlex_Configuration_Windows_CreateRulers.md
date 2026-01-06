@@ -8,18 +8,8 @@
 ```csharp
 public bool CreateRulers { get; set; }
 ```
-```vb
-Public Property CreateRulers As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CreateRulers {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

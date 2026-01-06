@@ -11,16 +11,8 @@
 ```csharp
 public Rectangle TreeViewRect { get; }
 ```
-```vb
-Public ReadOnly Property TreeViewRect As Rectangle
-	Get
-```
-```cpp
-public:
-property Rectangle TreeViewRect {
-	Rectangle get ();
-}
-```
+
+
 
 
 #### Значение свойства

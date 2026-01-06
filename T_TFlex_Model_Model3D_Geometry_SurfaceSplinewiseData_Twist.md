@@ -13,12 +13,8 @@
 ```csharp
 public class Twist
 ```
-```vb
-Public Class Twist
-```
-```cpp
-public ref class Twist
-```
+
+
 
 
 Тип SurfaceSplinewiseDataTwist предоставляет следующие члены.

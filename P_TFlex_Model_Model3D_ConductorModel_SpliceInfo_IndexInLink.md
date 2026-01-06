@@ -8,16 +8,8 @@
 ```csharp
 public int IndexInLink { get; }
 ```
-```vb
-Public ReadOnly Property IndexInLink As Integer
-	Get
-```
-```cpp
-public:
-property int IndexInLink {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

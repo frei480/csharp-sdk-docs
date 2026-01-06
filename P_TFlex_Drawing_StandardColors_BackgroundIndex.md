@@ -11,16 +11,8 @@
 ```csharp
 public static int BackgroundIndex { get; }
 ```
-```vb
-Public Shared ReadOnly Property BackgroundIndex As Integer
-	Get
-```
-```cpp
-public:
-static property int BackgroundIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

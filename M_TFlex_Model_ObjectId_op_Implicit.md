@@ -10,16 +10,8 @@ public static implicit operator ObjectId (
 	uint oldId
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	oldId As UInteger
-) As ObjectId
-```
-```cpp
-static implicit operator ObjectId^ (
-	unsigned int oldId
-)
-```
+
+
 
 
 #### Параметры

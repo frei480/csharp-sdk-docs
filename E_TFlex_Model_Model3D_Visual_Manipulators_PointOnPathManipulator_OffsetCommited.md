@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<PointOnPathManipulatorOffsetCommitedEventArgs> OffsetCommited
 ```
-```vb
-Public Event OffsetCommited As EventHandler(Of PointOnPathManipulatorOffsetCommitedEventArgs)
-```
-```cpp
-public:
- event EventHandler<PointOnPathManipulatorOffsetCommitedEventArgs^>^ OffsetCommited {
-	void add (EventHandler<PointOnPathManipulatorOffsetCommitedEventArgs^>^ value);
-	void remove (EventHandler<PointOnPathManipulatorOffsetCommitedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

@@ -13,17 +13,8 @@ public Icon(
 	Icon drawingIcon
 )
 ```
-```vb
-Public Sub New ( 
-	drawingIcon As Icon
-)
-```
-```cpp
-public:
-Icon(
-	Icon^ drawingIcon
-)
-```
+
+
 
 
 #### Параметры

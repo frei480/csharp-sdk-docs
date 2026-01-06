@@ -11,12 +11,8 @@
 ```csharp
 public enum TopologyFormType
 ```
-```vb
-Public Enumeration TopologyFormType
-```
-```cpp
-public enum class TopologyFormType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

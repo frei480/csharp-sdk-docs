@@ -11,13 +11,8 @@
 ```csharp
 public View Open2DView()
 ```
-```vb
-Public Function Open2DView As View
-```
-```cpp
-public:
-View^ Open2DView()
-```
+
+
 
 
 #### Возвращаемое значение

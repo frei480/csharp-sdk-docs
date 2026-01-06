@@ -11,15 +11,8 @@
 ```csharp
 BaseLoops Loops { get; }
 ```
-```vb
-ReadOnly Property Loops As BaseLoops
-	Get
-```
-```cpp
-property BaseLoops^ Loops {
-	BaseLoops^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

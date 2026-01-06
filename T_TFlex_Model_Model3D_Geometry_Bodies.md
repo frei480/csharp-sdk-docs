@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Bodies : Geometry
 ```
-```vb
-Public MustInherit Class Bodies
-	Inherits Geometry
-```
-```cpp
-public ref class Bodies abstract : public Geometry
-```
+
+
 
 
 Тип Bodies предоставляет следующие члены.

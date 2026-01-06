@@ -14,19 +14,8 @@ public BaseControl GetControl(
 	int column
 )
 ```
-```vb
-Public Function GetControl ( 
-	row As Integer,
-	column As Integer
-) As BaseControl
-```
-```cpp
-public:
-BaseControl^ GetControl(
-	int row, 
-	int column
-)
-```
+
+
 
 
 #### Параметры

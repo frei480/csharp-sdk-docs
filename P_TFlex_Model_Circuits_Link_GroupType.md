@@ -8,16 +8,8 @@
 ```csharp
 public override ObjectType GroupType { get; }
 ```
-```vb
-Public Overrides ReadOnly Property GroupType As ObjectType
-	Get
-```
-```cpp
-public:
-virtual property ObjectType GroupType {
-	ObjectType get () override;
-}
-```
+
+
 
 
 #### Значение свойства

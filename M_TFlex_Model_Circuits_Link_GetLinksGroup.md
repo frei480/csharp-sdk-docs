@@ -8,13 +8,8 @@
 ```csharp
 public LinksGroup GetLinksGroup()
 ```
-```vb
-Public Function GetLinksGroup As LinksGroup
-```
-```cpp
-public:
-LinksGroup^ GetLinksGroup()
-```
+
+
 
 
 #### Возвращаемое значение

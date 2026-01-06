@@ -11,16 +11,8 @@ X-координата первой точки прямой или нача�
 ```csharp
 public double X1 { get; }
 ```
-```vb
-Public ReadOnly Property X1 As Double
-	Get
-```
-```cpp
-public:
-property double X1 {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

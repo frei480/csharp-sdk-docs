@@ -8,12 +8,8 @@
 ```csharp
 public enum VerticalAlignment2
 ```
-```vb
-Public Enumeration VerticalAlignment2
-```
-```cpp
-public enum class VerticalAlignment2
-```
+
+
 
 
 | Имя члена | Значение | Описание |

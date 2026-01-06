@@ -11,19 +11,8 @@ public static bool operator !=(
 	IGroupingRule right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As IGroupingRule,
-	right As IGroupingRule
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	IGroupingRule^ left, 
-	IGroupingRule^ right
-)
-```
+
+
 
 
 #### Параметры

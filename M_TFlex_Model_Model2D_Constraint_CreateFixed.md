@@ -15,21 +15,8 @@ public static Constraint CreateFixed(
 	ConstraintPointType iPoint
 )
 ```
-```vb
-Public Shared Function CreateFixed ( 
-	iDoc As Document,
-	iObject As Object2D,
-	iPoint As ConstraintPointType
-) As Constraint
-```
-```cpp
-public:
-static Constraint^ CreateFixed(
-	Document^ iDoc, 
-	Object2D^ iObject, 
-	ConstraintPointType iPoint
-)
-```
+
+
 
 
 #### Параметры

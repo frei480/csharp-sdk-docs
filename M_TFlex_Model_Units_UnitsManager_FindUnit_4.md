@@ -10,17 +10,8 @@ public Unit FindUnit(
 	LinearUnitType unit
 )
 ```
-```vb
-Public Function FindUnit ( 
-	unit As LinearUnitType
-) As Unit
-```
-```cpp
-public:
-Unit^ FindUnit(
-	LinearUnitType unit
-)
-```
+
+
 
 
 #### Параметры

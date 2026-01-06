@@ -16,19 +16,8 @@ public void InsertFragment(
 	Fragment obj
 )
 ```
-```vb
-<ObsoleteAttribute("Use InsertFragment that returns Fragment")>
-Public Sub InsertFragment ( 
-	obj As Fragment
-)
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Use InsertFragment that returns Fragment")]
-void InsertFragment(
-	Fragment^ obj
-)
-```
+
+
 
 
 #### Параметры

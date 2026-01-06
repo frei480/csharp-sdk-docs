@@ -11,12 +11,8 @@
 ```csharp
 public class Segment
 ```
-```vb
-Public Class Segment
-```
-```cpp
-public ref class Segment
-```
+
+
 
 
 Тип Segment предоставляет следующие члены.

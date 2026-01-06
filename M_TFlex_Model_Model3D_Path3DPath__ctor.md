@@ -13,17 +13,8 @@ public Path3DPath(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-Path3DPath(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

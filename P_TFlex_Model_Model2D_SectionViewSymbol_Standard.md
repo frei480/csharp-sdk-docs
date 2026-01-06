@@ -11,18 +11,8 @@
 ```csharp
 public SectionViewStandard Standard { get; set; }
 ```
-```vb
-Public Property Standard As SectionViewStandard
-	Get
-	Set
-```
-```cpp
-public:
-property SectionViewStandard Standard {
-	SectionViewStandard get ();
-	void set (SectionViewStandard value);
-}
-```
+
+
 
 
 #### Значение свойства

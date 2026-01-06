@@ -11,16 +11,8 @@
 ```csharp
 public Model3DObjectGroupItemsCollection Items { get; }
 ```
-```vb
-Public ReadOnly Property Items As Model3DObjectGroupItemsCollection
-	Get
-```
-```cpp
-public:
-property Model3DObjectGroupItemsCollection^ Items {
-	Model3DObjectGroupItemsCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

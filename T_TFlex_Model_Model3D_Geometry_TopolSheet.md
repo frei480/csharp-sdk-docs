@@ -14,15 +14,8 @@
 public sealed class TopolSheet : TopolContour, 
 	Sheet
 ```
-```vb
-Public NotInheritable Class TopolSheet
-	Inherits TopolContour
-	Implements Sheet
-```
-```cpp
-public ref class TopolSheet sealed : public TopolContour, 
-	Sheet
-```
+
+
 
 
 Тип TopolSheet предоставляет следующие члены.

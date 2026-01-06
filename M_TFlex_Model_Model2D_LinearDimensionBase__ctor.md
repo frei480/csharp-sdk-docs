@@ -13,17 +13,8 @@ protected LinearDimensionBase(
 	IntPtr Handle
 )
 ```
-```vb
-Protected Sub New ( 
-	Handle As IntPtr
-)
-```
-```cpp
-protected:
-LinearDimensionBase(
-	IntPtr Handle
-)
-```
+
+
 
 
 #### Параметры

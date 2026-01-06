@@ -11,12 +11,8 @@
 ```csharp
 public class FilterParser
 ```
-```vb
-Public Class FilterParser
-```
-```cpp
-public ref class FilterParser
-```
+
+
 
 
 Тип FilterParser предоставляет следующие члены.

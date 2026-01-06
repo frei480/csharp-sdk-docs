@@ -13,17 +13,8 @@ public ProjectedAngularDimension CreateProjected(
 	Projection projection
 )
 ```
-```vb
-Public Function CreateProjected ( 
-	projection As Projection
-) As ProjectedAngularDimension
-```
-```cpp
-public:
-ProjectedAngularDimension^ CreateProjected(
-	Projection^ projection
-)
-```
+
+
 
 
 #### Параметры

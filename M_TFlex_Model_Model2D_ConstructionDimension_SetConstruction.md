@@ -14,19 +14,8 @@ public void SetConstruction(
 	Node node
 )
 ```
-```vb
-Public Sub SetConstruction ( 
-	horizontalLine As Construction,
-	node As Node
-)
-```
-```cpp
-public:
-void SetConstruction(
-	Construction^ horizontalLine, 
-	Node^ node
-)
-```
+
+
 
 
 #### Параметры

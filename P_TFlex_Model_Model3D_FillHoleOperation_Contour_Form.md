@@ -11,18 +11,8 @@
 ```csharp
 public FillHoleOperationPreferenceType Form { get; set; }
 ```
-```vb
-Public Property Form As FillHoleOperationPreferenceType
-	Get
-	Set
-```
-```cpp
-public:
-property FillHoleOperationPreferenceType Form {
-	FillHoleOperationPreferenceType get ();
-	void set (FillHoleOperationPreferenceType value);
-}
-```
+
+
 
 
 #### Значение свойства

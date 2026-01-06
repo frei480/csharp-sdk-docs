@@ -8,18 +8,8 @@
 ```csharp
 public bool DrawServiceLinesAsDashed { get; set; }
 ```
-```vb
-Public Property DrawServiceLinesAsDashed As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DrawServiceLinesAsDashed {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

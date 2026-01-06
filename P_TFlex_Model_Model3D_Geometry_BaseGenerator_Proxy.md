@@ -11,16 +11,8 @@
 ```csharp
 public ProxyObject3D Proxy { get; }
 ```
-```vb
-Public ReadOnly Property Proxy As ProxyObject3D
-	Get
-```
-```cpp
-public:
-property ProxyObject3D^ Proxy {
-	ProxyObject3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public AffineMap Transformation { get; }
 ```
-```vb
-Public ReadOnly Property Transformation As AffineMap
-	Get
-```
-```cpp
-public:
-property AffineMap^ Transformation {
-	AffineMap^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

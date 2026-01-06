@@ -15,21 +15,8 @@ public ExternalObject(
 	Plugin App
 )
 ```
-```vb
-Public Sub New ( 
-	Proxy As ProxyObject2D,
-	Doc As Document,
-	App As Plugin
-)
-```
-```cpp
-public:
-ExternalObject(
-	ProxyObject2D^ Proxy, 
-	Document^ Doc, 
-	Plugin^ App
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public MenuItemFlags Flags { get; set; }
 ```
-```vb
-Public Property Flags As MenuItemFlags
-	Get
-	Set
-```
-```cpp
-public:
-property MenuItemFlags Flags {
-	MenuItemFlags get ();
-	void set (MenuItemFlags value);
-}
-```
+
+
 
 
 #### Значение свойства

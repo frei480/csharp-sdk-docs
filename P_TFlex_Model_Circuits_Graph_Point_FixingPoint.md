@@ -8,16 +8,8 @@
 ```csharp
 public FixingVector FixingPoint { get; }
 ```
-```vb
-Public ReadOnly Property FixingPoint As FixingVector
-	Get
-```
-```cpp
-public:
-property FixingVector^ FixingPoint {
-	FixingVector^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

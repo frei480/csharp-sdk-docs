@@ -11,16 +11,8 @@
 ```csharp
 public ModelDirection CurveBinormalDirection { get; }
 ```
-```vb
-Public ReadOnly Property CurveBinormalDirection As ModelDirection
-	Get
-```
-```cpp
-public:
-property ModelDirection^ CurveBinormalDirection {
-	ModelDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,15 +14,8 @@
 public sealed class ModelCircleCurve : ModelCurve, 
 	BaseCircleCurve
 ```
-```vb
-Public NotInheritable Class ModelCircleCurve
-	Inherits ModelCurve
-	Implements BaseCircleCurve
-```
-```cpp
-public ref class ModelCircleCurve sealed : public ModelCurve, 
-	BaseCircleCurve
-```
+
+
 
 
 Тип ModelCircleCurve предоставляет следующие члены.

@@ -14,15 +14,8 @@
 public class VariablesControl3D : Control, 
 	IDisposable
 ```
-```vb
-Public Class VariablesControl3D
-	Inherits Control
-	Implements IDisposable
-```
-```cpp
-public ref class VariablesControl3D : public Control, 
-	IDisposable
-```
+
+
 
 
 Тип VariablesControl3D предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public string FragmentName { get; set; }
 ```
-```vb
-Public Property FragmentName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ FragmentName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

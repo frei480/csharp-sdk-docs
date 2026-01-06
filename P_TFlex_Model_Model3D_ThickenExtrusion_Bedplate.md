@@ -11,18 +11,8 @@
 ```csharp
 public bool Bedplate { get; set; }
 ```
-```vb
-Public Property Bedplate As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Bedplate {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

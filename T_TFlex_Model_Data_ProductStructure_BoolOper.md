@@ -12,14 +12,8 @@
 [ObsoleteAttribute]
 public enum BoolOper
 ```
-```vb
-<ObsoleteAttribute>
-Public Enumeration BoolOper
-```
-```cpp
-[ObsoleteAttribute]
-public enum class BoolOper
-```
+
+
 
 
 | Имя члена | Значение | Описание |

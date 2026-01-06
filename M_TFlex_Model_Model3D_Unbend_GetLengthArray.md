@@ -11,13 +11,8 @@
 ```csharp
 public double[] GetLengthArray()
 ```
-```vb
-Public Function GetLengthArray As Double()
-```
-```cpp
-public:
-array<double>^ GetLengthArray()
-```
+
+
 
 
 #### Возвращаемое значение

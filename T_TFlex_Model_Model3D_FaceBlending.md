@@ -13,13 +13,8 @@
 ```csharp
 public class FaceBlending : Operation
 ```
-```vb
-Public Class FaceBlending
-	Inherits Operation
-```
-```cpp
-public ref class FaceBlending : public Operation
-```
+
+
 
 
 Тип FaceBlending предоставляет следующие члены.

@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionAngularUnits
 ```
-```vb
-Public Enumeration DimensionAngularUnits
-```
-```cpp
-public enum class DimensionAngularUnits
-```
+
+
 
 
 | Имя члена | Значение | Описание |

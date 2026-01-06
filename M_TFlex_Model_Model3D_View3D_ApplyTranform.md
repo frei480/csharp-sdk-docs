@@ -13,23 +13,8 @@ public void ApplyTranform(
 	bool animate
 )
 ```
-```vb
-Public Sub ApplyTranform ( 
-	__unnamed000 As Quaternion,
-	__unnamed001 As Vector3,
-	__unnamed002 As View3DViewFrustum,
-	animate As Boolean
-)
-```
-```cpp
-public:
-void ApplyTranform(
-	Quaternion __unnamed000, 
-	Vector3 __unnamed001, 
-	View3DViewFrustum __unnamed002, 
-	bool animate
-)
-```
+
+
 
 
 #### Параметры

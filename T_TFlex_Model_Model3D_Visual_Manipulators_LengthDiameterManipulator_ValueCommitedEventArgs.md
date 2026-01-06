@@ -11,13 +11,8 @@
 ```csharp
 public abstract class ValueCommitedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public MustInherit Class ValueCommitedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class ValueCommitedEventArgs abstract : public ManipulatorEventArgs
-```
+
+
 
 
 Тип LengthDiameterManipulatorValueCommitedEventArgs предоставляет следующие члены.

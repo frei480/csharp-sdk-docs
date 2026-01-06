@@ -13,12 +13,8 @@
 ```csharp
 public abstract class Plugin
 ```
-```vb
-Public MustInherit Class Plugin
-```
-```cpp
-public ref class Plugin abstract
-```
+
+
 
 
 Тип Plugin предоставляет следующие члены.

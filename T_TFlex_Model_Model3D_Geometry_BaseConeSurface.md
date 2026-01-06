@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseConeSurface
 ```
-```vb
-Public Interface BaseConeSurface
-```
-```cpp
-public interface class BaseConeSurface
-```
+
+
 
 
 Тип BaseConeSurface предоставляет следующие члены.

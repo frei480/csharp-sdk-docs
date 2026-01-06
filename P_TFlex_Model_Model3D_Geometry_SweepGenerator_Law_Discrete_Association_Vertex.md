@@ -11,18 +11,8 @@
 ```csharp
 public Vertex Vertex { get; set; }
 ```
-```vb
-Public Property Vertex As Vertex
-	Get
-	Set
-```
-```cpp
-public:
-property Vertex^ Vertex {
-	Vertex^ get ();
-	void set (Vertex^ value);
-}
-```
+
+
 
 
 #### Значение свойства

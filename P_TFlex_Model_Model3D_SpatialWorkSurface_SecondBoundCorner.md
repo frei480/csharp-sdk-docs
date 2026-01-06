@@ -11,18 +11,8 @@
 ```csharp
 public Node SecondBoundCorner { get; set; }
 ```
-```vb
-Public Property SecondBoundCorner As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ SecondBoundCorner {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

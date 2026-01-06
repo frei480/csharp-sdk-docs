@@ -10,17 +10,8 @@ public bool SaveContentToFile(
 	string filePath
 )
 ```
-```vb
-Public Function SaveContentToFile ( 
-	filePath As String
-) As Boolean
-```
-```cpp
-public:
-bool SaveContentToFile(
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

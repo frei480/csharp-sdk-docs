@@ -11,13 +11,8 @@
 ```csharp
 public static void ShowHelp()
 ```
-```vb
-Public Shared Sub ShowHelp
-```
-```cpp
-public:
-static void ShowHelp()
-```
+
+
 
 
 #### Ссылки

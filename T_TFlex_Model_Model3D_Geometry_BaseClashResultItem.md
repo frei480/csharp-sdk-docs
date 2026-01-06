@@ -13,12 +13,8 @@
 ```csharp
 public class BaseClashResultItem
 ```
-```vb
-Public Class BaseClashResultItem
-```
-```cpp
-public ref class BaseClashResultItem
-```
+
+
 
 
 Тип BaseClashResultItem предоставляет следующие члены.

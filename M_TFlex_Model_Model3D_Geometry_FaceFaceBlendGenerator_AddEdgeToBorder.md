@@ -17,25 +17,8 @@ public void AddEdgeToBorder(
 	bool сonic
 )
 ```
-```vb
-Public Sub AddEdgeToBorder ( 
-	edge As BaseTopol,
-	invert As Boolean,
-	useCliff As Boolean,
-	invConic As Boolean,
-	сonic As Boolean
-)
-```
-```cpp
-public:
-void AddEdgeToBorder(
-	BaseTopol^ edge, 
-	bool invert, 
-	bool useCliff, 
-	bool invConic, 
-	bool сonic
-)
-```
+
+
 
 
 #### Параметры

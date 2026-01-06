@@ -10,17 +10,8 @@ public void AddParameter(
 	ParameterInfo parameterInfo
 )
 ```
-```vb
-Public Sub AddParameter ( 
-	parameterInfo As ParameterInfo
-)
-```
-```cpp
-public:
-void AddParameter(
-	ParameterInfo^ parameterInfo
-)
-```
+
+
 
 
 #### Параметры

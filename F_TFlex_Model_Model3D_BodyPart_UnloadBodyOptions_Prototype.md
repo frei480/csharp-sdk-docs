@@ -11,13 +11,8 @@
 ```csharp
 public string Prototype
 ```
-```vb
-Public Prototype As String
-```
-```cpp
-public:
-String^ Prototype
-```
+
+
 
 
 #### Значение поля

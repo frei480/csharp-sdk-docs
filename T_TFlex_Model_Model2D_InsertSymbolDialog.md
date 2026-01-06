@@ -13,12 +13,8 @@
 ```csharp
 public class InsertSymbolDialog
 ```
-```vb
-Public Class InsertSymbolDialog
-```
-```cpp
-public ref class InsertSymbolDialog
-```
+
+
 
 
 Тип InsertSymbolDialog предоставляет следующие члены.

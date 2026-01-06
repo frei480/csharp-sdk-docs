@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<PointOnPathManipulatorOffsetEnqueuedEventArgs> OffsetEnqueued
 ```
-```vb
-Public Event OffsetEnqueued As EventHandler(Of PointOnPathManipulatorOffsetEnqueuedEventArgs)
-```
-```cpp
-public:
- event EventHandler<PointOnPathManipulatorOffsetEnqueuedEventArgs^>^ OffsetEnqueued {
-	void add (EventHandler<PointOnPathManipulatorOffsetEnqueuedEventArgs^>^ value);
-	void remove (EventHandler<PointOnPathManipulatorOffsetEnqueuedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

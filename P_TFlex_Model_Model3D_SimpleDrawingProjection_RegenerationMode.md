@@ -11,18 +11,8 @@
 ```csharp
 public RegenerationMode RegenerationMode { get; set; }
 ```
-```vb
-Public Property RegenerationMode As RegenerationMode
-	Get
-	Set
-```
-```cpp
-public:
-property RegenerationMode RegenerationMode {
-	RegenerationMode get ();
-	void set (RegenerationMode value);
-}
-```
+
+
 
 
 #### Значение свойства

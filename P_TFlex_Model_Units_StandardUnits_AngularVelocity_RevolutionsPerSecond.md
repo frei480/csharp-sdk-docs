@@ -13,16 +13,8 @@
 ```csharp
 public static Unit RevolutionsPerSecond { get; }
 ```
-```vb
-Public Shared ReadOnly Property RevolutionsPerSecond As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ RevolutionsPerSecond {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

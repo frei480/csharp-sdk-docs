@@ -11,13 +11,8 @@
 ```csharp
 public void RefreshAll()
 ```
-```vb
-Public Sub RefreshAll
-```
-```cpp
-public:
-void RefreshAll()
-```
+
+
 
 
 #### Ссылки

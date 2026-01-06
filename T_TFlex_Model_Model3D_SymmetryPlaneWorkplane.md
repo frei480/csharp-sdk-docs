@@ -13,13 +13,8 @@
 ```csharp
 public class SymmetryPlaneWorkplane : Model3DWorkplane
 ```
-```vb
-Public Class SymmetryPlaneWorkplane
-	Inherits Model3DWorkplane
-```
-```cpp
-public ref class SymmetryPlaneWorkplane : public Model3DWorkplane
-```
+
+
 
 
 Тип SymmetryPlaneWorkplane предоставляет следующие члены.

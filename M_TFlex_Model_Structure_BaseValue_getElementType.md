@@ -8,13 +8,8 @@
 ```csharp
 protected abstract ElementType getElementType()
 ```
-```vb
-Protected MustOverride Function getElementType As ElementType
-```
-```cpp
-protected:
-virtual ElementType^ getElementType() abstract
-```
+
+
 
 
 #### Возвращаемое значение

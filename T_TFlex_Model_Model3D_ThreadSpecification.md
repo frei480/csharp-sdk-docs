@@ -13,12 +13,8 @@
 ```csharp
 public class ThreadSpecification
 ```
-```vb
-Public Class ThreadSpecification
-```
-```cpp
-public ref class ThreadSpecification
-```
+
+
 
 
 Тип ThreadSpecification предоставляет следующие члены.

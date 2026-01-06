@@ -8,16 +8,8 @@
 ```csharp
 public CellInfo EditingCell { get; }
 ```
-```vb
-Public ReadOnly Property EditingCell As CellInfo
-	Get
-```
-```cpp
-public:
-property CellInfo^ EditingCell {
-	CellInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

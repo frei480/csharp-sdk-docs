@@ -8,18 +8,8 @@
 ```csharp
 public int? Order { get; set; }
 ```
-```vb
-Public Property Order As Integer?
-	Get
-	Set
-```
-```cpp
-public:
-property Nullable<int> Order {
-	Nullable<int> get ();
-	void set (Nullable<int> value);
-}
-```
+
+
 
 
 #### Значение свойства

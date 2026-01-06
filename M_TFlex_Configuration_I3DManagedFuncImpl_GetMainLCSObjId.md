@@ -10,16 +10,8 @@ Dictionary<string, Object> GetMainLCSObjId(
 	Document document
 )
 ```
-```vb
-Function GetMainLCSObjId ( 
-	document As Document
-) As Dictionary(Of String, Object)
-```
-```cpp
-Dictionary<String^, Object^>^ GetMainLCSObjId(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

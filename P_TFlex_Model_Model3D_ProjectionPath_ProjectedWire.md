@@ -11,18 +11,8 @@
 ```csharp
 public Wire ProjectedWire { get; set; }
 ```
-```vb
-Public Property ProjectedWire As Wire
-	Get
-	Set
-```
-```cpp
-public:
-property Wire^ ProjectedWire {
-	Wire^ get ();
-	void set (Wire^ value);
-}
-```
+
+
 
 
 #### Значение свойства

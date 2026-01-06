@@ -13,13 +13,8 @@
 ```csharp
 public class ObjectNode : Node
 ```
-```vb
-Public Class ObjectNode
-	Inherits Node
-```
-```cpp
-public ref class ObjectNode : public Node
-```
+
+
 
 
 Тип ObjectNode предоставляет следующие члены.

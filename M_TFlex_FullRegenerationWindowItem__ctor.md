@@ -14,19 +14,8 @@ public FullRegenerationWindowItem(
 	string name
 )
 ```
-```vb
-Public Sub New ( 
-	id As Integer,
-	name As String
-)
-```
-```cpp
-public:
-FullRegenerationWindowItem(
-	int id, 
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

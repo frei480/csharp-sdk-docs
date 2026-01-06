@@ -11,18 +11,8 @@
 ```csharp
 public Document LinkingDocument { get; set; }
 ```
-```vb
-Public Property LinkingDocument As Document
-	Get
-	Set
-```
-```cpp
-public:
-property Document^ LinkingDocument {
-	Document^ get ();
-	void set (Document^ value);
-}
-```
+
+
 
 
 #### Значение свойства

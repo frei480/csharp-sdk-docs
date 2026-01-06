@@ -11,13 +11,8 @@
 ```csharp
 protected void RemoveOwnSelectionFilterButtons()
 ```
-```vb
-Protected Sub RemoveOwnSelectionFilterButtons
-```
-```cpp
-protected:
-void RemoveOwnSelectionFilterButtons()
-```
+
+
 
 
 #### Ссылки

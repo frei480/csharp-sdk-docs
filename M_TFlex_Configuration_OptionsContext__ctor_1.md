@@ -14,19 +14,8 @@ public OptionsContext(
 	ModelObject obj
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document,
-	obj As ModelObject
-)
-```
-```cpp
-public:
-OptionsContext(
-	Document^ doc, 
-	ModelObject^ obj
-)
-```
+
+
 
 
 #### Параметры

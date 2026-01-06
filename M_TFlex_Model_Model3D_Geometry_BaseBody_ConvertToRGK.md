@@ -14,19 +14,8 @@ public BaseBodyConvertToRGKResult ConvertToRGK(
 	IntPtr rgkSession
 )
 ```
-```vb
-Public Function ConvertToRGK ( 
-	document As Document,
-	rgkSession As IntPtr
-) As BaseBodyConvertToRGKResult
-```
-```cpp
-public:
-BaseBodyConvertToRGKResult^ ConvertToRGK(
-	Document^ document, 
-	IntPtr rgkSession
-)
-```
+
+
 
 
 #### Параметры

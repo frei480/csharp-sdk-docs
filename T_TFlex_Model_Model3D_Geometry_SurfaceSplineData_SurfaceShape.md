@@ -11,12 +11,8 @@
 ```csharp
 public enum SurfaceShape
 ```
-```vb
-Public Enumeration SurfaceShape
-```
-```cpp
-public enum class SurfaceShape
-```
+
+
 
 
 | Имя члена | Значение | Описание |

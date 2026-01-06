@@ -11,12 +11,8 @@
 ```csharp
 public enum ConvexityType
 ```
-```vb
-Public Enumeration ConvexityType
-```
-```cpp
-public enum class ConvexityType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

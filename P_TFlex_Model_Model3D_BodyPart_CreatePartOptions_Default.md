@@ -8,16 +8,8 @@
 ```csharp
 public static BodyPartCreatePartOptions Default { get; }
 ```
-```vb
-Public Shared ReadOnly Property Default As BodyPartCreatePartOptions
-	Get
-```
-```cpp
-public:
-static property BodyPartCreatePartOptions Default {
-	BodyPartCreatePartOptions get ();
-}
-```
+
+
 
 
 #### Значение свойства

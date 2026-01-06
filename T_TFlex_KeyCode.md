@@ -11,12 +11,8 @@
 ```csharp
 public enum KeyCode
 ```
-```vb
-Public Enumeration KeyCode
-```
-```cpp
-public enum class KeyCode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -15,21 +15,8 @@ protected void CreateToolbar(
 	bool Visible
 )
 ```
-```vb
-Protected Sub CreateToolbar ( 
-	Caption As String,
-	CmdIDs As Integer(),
-	Visible As Boolean
-)
-```
-```cpp
-protected:
-void CreateToolbar(
-	String^ Caption, 
-	array<int>^ CmdIDs, 
-	bool Visible
-)
-```
+
+
 
 
 #### Параметры

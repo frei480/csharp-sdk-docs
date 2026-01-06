@@ -11,12 +11,8 @@
 ```csharp
 public enum ArrowViewSymbolAttachmentType
 ```
-```vb
-Public Enumeration ArrowViewSymbolAttachmentType
-```
-```cpp
-public enum class ArrowViewSymbolAttachmentType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

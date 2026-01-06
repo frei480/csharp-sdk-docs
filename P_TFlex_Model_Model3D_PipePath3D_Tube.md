@@ -11,18 +11,8 @@
 ```csharp
 public bool Tube { get; set; }
 ```
-```vb
-Public Property Tube As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Tube {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

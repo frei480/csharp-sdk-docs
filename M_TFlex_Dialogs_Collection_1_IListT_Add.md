@@ -10,17 +10,8 @@ internal virtual void IListT_Add(
 	T item
 )
 ```
-```vb
-Friend Overridable Sub IListT_Add ( 
-	item As T
-)
-```
-```cpp
-internal:
-virtual void IListT_Add(
-	T item
-)
-```
+
+
 
 
 #### Параметры

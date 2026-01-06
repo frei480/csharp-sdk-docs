@@ -14,19 +14,8 @@ public bool SetNode(
 	Point value
 )
 ```
-```vb
-Public Function SetNode ( 
-	index As UInteger,
-	value As Point
-) As Boolean
-```
-```cpp
-public:
-bool SetNode(
-	unsigned int index, 
-	Point value
-)
-```
+
+
 
 
 #### Параметры

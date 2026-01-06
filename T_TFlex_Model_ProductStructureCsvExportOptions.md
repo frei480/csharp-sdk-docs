@@ -11,13 +11,8 @@
 ```csharp
 public class ProductStructureCsvExportOptions : ProductStructureExportOptions
 ```
-```vb
-Public Class ProductStructureCsvExportOptions
-	Inherits ProductStructureExportOptions
-```
-```cpp
-public ref class ProductStructureCsvExportOptions : public ProductStructureExportOptions
-```
+
+
 
 
 Тип ProductStructureCsvExportOptions предоставляет следующие члены.

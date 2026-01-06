@@ -11,12 +11,8 @@
 ```csharp
 public enum FormlimitsType
 ```
-```vb
-Public Enumeration FormlimitsType
-```
-```cpp
-public enum class FormlimitsType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

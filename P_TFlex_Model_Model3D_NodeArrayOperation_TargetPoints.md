@@ -11,16 +11,8 @@
 ```csharp
 public Objects3D TargetPoints { get; }
 ```
-```vb
-Public ReadOnly Property TargetPoints As Objects3D
-	Get
-```
-```cpp
-public:
-property Objects3D^ TargetPoints {
-	Objects3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

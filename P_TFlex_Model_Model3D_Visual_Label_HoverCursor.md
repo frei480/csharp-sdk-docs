@@ -8,18 +8,8 @@
 ```csharp
 public Cursor HoverCursor { get; set; }
 ```
-```vb
-Public Property HoverCursor As Cursor
-	Get
-	Set
-```
-```cpp
-public:
-property Cursor^ HoverCursor {
-	Cursor^ get ();
-	void set (Cursor^ value);
-}
-```
+
+
 
 
 #### Значение свойства

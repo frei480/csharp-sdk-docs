@@ -10,17 +10,8 @@ public bool IsSubtypeOf(
 	Guid typeID
 )
 ```
-```vb
-Public Function IsSubtypeOf ( 
-	typeID As Guid
-) As Boolean
-```
-```cpp
-public:
-bool IsSubtypeOf(
-	Guid typeID
-)
-```
+
+
 
 
 #### Параметры

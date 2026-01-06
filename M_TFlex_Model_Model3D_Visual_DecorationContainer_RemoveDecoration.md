@@ -13,17 +13,8 @@ public void RemoveDecoration(
 	string name
 )
 ```
-```vb
-Public Sub RemoveDecoration ( 
-	name As String
-)
-```
-```cpp
-public:
-void RemoveDecoration(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

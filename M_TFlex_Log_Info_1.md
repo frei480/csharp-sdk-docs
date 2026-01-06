@@ -11,19 +11,8 @@ public static void Info(
 	Object arg
 )
 ```
-```vb
-Public Shared Sub Info ( 
-	format As String,
-	arg As Object
-)
-```
-```cpp
-public:
-static void Info(
-	String^ format, 
-	Object^ arg
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public EdgeBlending(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-EdgeBlending(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

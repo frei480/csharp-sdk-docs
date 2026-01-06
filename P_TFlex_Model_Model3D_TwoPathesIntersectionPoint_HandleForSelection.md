@@ -11,16 +11,8 @@
 ```csharp
 public override IntPtr HandleForSelection { get; }
 ```
-```vb
-Public Overrides ReadOnly Property HandleForSelection As IntPtr
-	Get
-```
-```cpp
-public:
-virtual property IntPtr HandleForSelection {
-	IntPtr get () override;
-}
-```
+
+
 
 
 #### Значение свойства

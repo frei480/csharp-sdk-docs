@@ -15,21 +15,8 @@ public void CreateVariableColumn(
 	BOMObjectColumnSettings settings
 )
 ```
-```vb
-Public Sub CreateVariableColumn ( 
-	name As String,
-	variableName As String,
-	settings As BOMObjectColumnSettings
-)
-```
-```cpp
-public:
-void CreateVariableColumn(
-	String^ name, 
-	String^ variableName, 
-	BOMObjectColumnSettings^ settings
-)
-```
+
+
 
 
 #### Параметры

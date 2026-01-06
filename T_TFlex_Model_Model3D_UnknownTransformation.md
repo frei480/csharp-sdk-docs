@@ -13,13 +13,8 @@
 ```csharp
 public class UnknownTransformation : Transformation
 ```
-```vb
-Public Class UnknownTransformation
-	Inherits Transformation
-```
-```cpp
-public ref class UnknownTransformation : public Transformation
-```
+
+
 
 
 Тип UnknownTransformation предоставляет следующие члены.

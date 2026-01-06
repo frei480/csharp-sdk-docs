@@ -11,16 +11,8 @@
 ```csharp
 public IEnumerable<RunResultEntry> Entries { get; }
 ```
-```vb
-Public ReadOnly Property Entries As IEnumerable(Of RunResultEntry)
-	Get
-```
-```cpp
-public:
-property IEnumerable<RunResultEntry^>^ Entries {
-	IEnumerable<RunResultEntry^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

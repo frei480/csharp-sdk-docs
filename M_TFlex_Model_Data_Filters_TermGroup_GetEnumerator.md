@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerator<TermGroupItem> GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As IEnumerator(Of TermGroupItem)
-```
-```cpp
-public:
-virtual IEnumerator<TermGroupItem^>^ GetEnumerator() sealed
-```
+
+
 
 
 #### Возвращаемое значение

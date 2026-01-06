@@ -14,19 +14,8 @@ public bool EvaluatePoint(
 	ref Point oPoint
 )
 ```
-```vb
-Public Function EvaluatePoint ( 
-	iU As Double,
-	ByRef oPoint As Point
-) As Boolean
-```
-```cpp
-public:
-bool EvaluatePoint(
-	double iU, 
-	Point% oPoint
-)
-```
+
+
 
 
 #### Параметры

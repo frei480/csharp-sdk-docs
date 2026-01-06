@@ -11,13 +11,8 @@
 ```csharp
 public class ElementInfoValue : BaseValue
 ```
-```vb
-Public Class ElementInfoValue
-	Inherits BaseValue
-```
-```cpp
-public ref class ElementInfoValue : public BaseValue
-```
+
+
 
 
 Тип ElementInfoValue предоставляет следующие члены.

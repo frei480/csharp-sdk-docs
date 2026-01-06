@@ -11,16 +11,8 @@
 ```csharp
 public ViewSectionViewPointsArray Points { get; }
 ```
-```vb
-Public ReadOnly Property Points As ViewSectionViewPointsArray
-	Get
-```
-```cpp
-public:
-property ViewSectionViewPointsArray^ Points {
-	ViewSectionViewPointsArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

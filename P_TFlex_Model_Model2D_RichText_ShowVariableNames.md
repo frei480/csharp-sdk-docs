@@ -11,18 +11,8 @@
 ```csharp
 public bool ShowVariableNames { get; set; }
 ```
-```vb
-Public Property ShowVariableNames As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowVariableNames {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

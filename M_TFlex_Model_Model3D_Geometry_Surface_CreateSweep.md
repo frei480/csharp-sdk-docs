@@ -14,19 +14,8 @@ public static Surface CreateSweep(
 	BaseDirection direction
 )
 ```
-```vb
-Public Shared Function CreateSweep ( 
-	curve As BaseCurve,
-	direction As BaseDirection
-) As Surface
-```
-```cpp
-public:
-static Surface^ CreateSweep(
-	BaseCurve^ curve, 
-	BaseDirection^ direction
-)
-```
+
+
 
 
 #### Параметры

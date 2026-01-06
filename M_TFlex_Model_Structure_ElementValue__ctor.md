@@ -14,19 +14,8 @@ protected ElementValue(
 	Guid id
 )
 ```
-```vb
-Protected Sub New ( 
-	element As Element,
-	id As Guid
-)
-```
-```cpp
-protected:
-ElementValue(
-	Element^ element, 
-	Guid id
-)
-```
+
+
 
 
 #### Параметры

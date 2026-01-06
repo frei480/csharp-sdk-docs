@@ -13,17 +13,8 @@ public LibraryGroup GetGroup(
 	int index
 )
 ```
-```vb
-Public Function GetGroup ( 
-	index As Integer
-) As LibraryGroup
-```
-```cpp
-public:
-LibraryGroup^ GetGroup(
-	int index
-)
-```
+
+
 
 
 #### Параметры

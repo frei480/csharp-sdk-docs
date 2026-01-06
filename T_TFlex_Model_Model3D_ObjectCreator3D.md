@@ -13,12 +13,8 @@
 ```csharp
 public class ObjectCreator3D
 ```
-```vb
-Public Class ObjectCreator3D
-```
-```cpp
-public ref class ObjectCreator3D
-```
+
+
 
 
 Тип ObjectCreator3D предоставляет следующие члены.

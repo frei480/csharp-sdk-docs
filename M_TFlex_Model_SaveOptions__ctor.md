@@ -11,13 +11,8 @@
 ```csharp
 public SaveOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SaveOptions()
-```
+
+
 
 
 #### Ссылки

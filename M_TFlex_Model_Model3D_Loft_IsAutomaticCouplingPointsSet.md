@@ -11,13 +11,8 @@
 ```csharp
 public bool IsAutomaticCouplingPointsSet()
 ```
-```vb
-Public Function IsAutomaticCouplingPointsSet As Boolean
-```
-```cpp
-public:
-bool IsAutomaticCouplingPointsSet()
-```
+
+
 
 
 #### Возвращаемое значение

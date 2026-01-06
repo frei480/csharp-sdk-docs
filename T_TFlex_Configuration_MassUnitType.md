@@ -8,12 +8,8 @@
 ```csharp
 public enum MassUnitType
 ```
-```vb
-Public Enumeration MassUnitType
-```
-```cpp
-public enum class MassUnitType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -8,16 +8,8 @@
 ```csharp
 public ExternalOperation CurrentT { get; }
 ```
-```vb
-Public ReadOnly Property CurrentT As ExternalOperation
-	Get
-```
-```cpp
-public:
-virtual property ExternalOperation^ CurrentT {
-	ExternalOperation^ get () sealed;
-}
-```
+
+
 
 
 #### Значение свойства

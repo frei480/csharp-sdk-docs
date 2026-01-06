@@ -11,18 +11,8 @@
 ```csharp
 public MaterialParametersFunction CoordFunction { get; set; }
 ```
-```vb
-Public Property CoordFunction As MaterialParametersFunction
-	Get
-	Set
-```
-```cpp
-public:
-property MaterialParametersFunction CoordFunction {
-	MaterialParametersFunction get ();
-	void set (MaterialParametersFunction value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public StaticTextControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-StaticTextControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

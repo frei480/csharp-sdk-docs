@@ -11,12 +11,8 @@
 ```csharp
 public enum TFBoundCondType
 ```
-```vb
-Public Enumeration TFBoundCondType
-```
-```cpp
-public enum class TFBoundCondType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

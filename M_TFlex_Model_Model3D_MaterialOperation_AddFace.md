@@ -14,19 +14,8 @@ public void AddFace(
 	ModelFace Face
 )
 ```
-```vb
-Public Sub AddFace ( 
-	Group As Integer,
-	Face As ModelFace
-)
-```
-```cpp
-public:
-void AddFace(
-	int Group, 
-	ModelFace^ Face
-)
-```
+
+
 
 
 #### Параметры

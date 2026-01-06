@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Formlimits> GetFormlimits()
 ```
-```vb
-Public Function GetFormlimits As ICollection(Of Formlimits)
-```
-```cpp
-public:
-ICollection<Formlimits^>^ GetFormlimits()
-```
+
+
 
 
 #### Возвращаемое значение

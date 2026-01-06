@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Views : IEnumerable<View>
 ```
-```vb
-Public NotInheritable Class Views
-	Implements IEnumerable(Of View)
-```
-```cpp
-public ref class Views sealed : IEnumerable<View^>
-```
+
+
 
 
 Тип Views предоставляет следующие члены.

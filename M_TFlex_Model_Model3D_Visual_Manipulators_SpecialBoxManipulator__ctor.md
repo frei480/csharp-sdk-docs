@@ -15,21 +15,8 @@ public SpecialBoxManipulator(
 	bool bFullEnumEdgeMode
 )
 ```
-```vb
-Public Sub New ( 
-	bHasBalls As Boolean,
-	bHasMainDiagonal As Boolean,
-	bFullEnumEdgeMode As Boolean
-)
-```
-```cpp
-public:
-SpecialBoxManipulator(
-	bool bHasBalls, 
-	bool bHasMainDiagonal, 
-	bool bFullEnumEdgeMode
-)
-```
+
+
 
 
 #### Параметры

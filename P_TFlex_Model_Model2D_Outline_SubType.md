@@ -11,16 +11,8 @@
 ```csharp
 public virtual OutlineType SubType { get; }
 ```
-```vb
-Public Overridable ReadOnly Property SubType As OutlineType
-	Get
-```
-```cpp
-public:
-virtual property OutlineType SubType {
-	OutlineType get ();
-}
-```
+
+
 
 
 #### Значение свойства

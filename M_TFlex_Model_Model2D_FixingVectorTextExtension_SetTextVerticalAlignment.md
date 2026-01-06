@@ -12,23 +12,8 @@ public static void SetTextVerticalAlignment(
 	TextExtensionVerticalAlignment __unnamed002
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SetTextVerticalAlignment ( 
-	__unnamed000 As FixingVector,
-	iText As Integer,
-	__unnamed002 As TextExtensionVerticalAlignment
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SetTextVerticalAlignment(
-	FixingVector^ __unnamed000, 
-	int iText, 
-	TextExtensionVerticalAlignment __unnamed002
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public GroupControlOrientation Orientation { get; set; }
 ```
-```vb
-Public Property Orientation As GroupControlOrientation
-	Get
-	Set
-```
-```cpp
-public:
-property GroupControlOrientation Orientation {
-	GroupControlOrientation get ();
-	void set (GroupControlOrientation value);
-}
-```
+
+
 
 
 #### Значение свойства

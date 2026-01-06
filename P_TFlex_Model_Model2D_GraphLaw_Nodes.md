@@ -11,18 +11,8 @@
 ```csharp
 public Point[] Nodes { get; set; }
 ```
-```vb
-Public Property Nodes As Point()
-	Get
-	Set
-```
-```cpp
-public:
-property array<Point>^ Nodes {
-	array<Point>^ get ();
-	void set (array<Point>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

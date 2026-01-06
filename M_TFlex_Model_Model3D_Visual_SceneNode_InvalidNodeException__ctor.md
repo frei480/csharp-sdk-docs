@@ -11,13 +11,8 @@
 ```csharp
 public InvalidNodeException()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-InvalidNodeException()
-```
+
+
 
 
 #### Ссылки

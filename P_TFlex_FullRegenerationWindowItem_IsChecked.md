@@ -11,18 +11,8 @@
 ```csharp
 public bool IsChecked { get; set; }
 ```
-```vb
-Public Property IsChecked As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsChecked {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

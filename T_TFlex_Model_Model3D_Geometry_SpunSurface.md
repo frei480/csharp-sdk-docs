@@ -14,15 +14,8 @@
 public class SpunSurface : Surface, 
 	BaseSpunSurface
 ```
-```vb
-Public Class SpunSurface
-	Inherits Surface
-	Implements BaseSpunSurface
-```
-```cpp
-public ref class SpunSurface : public Surface, 
-	BaseSpunSurface
-```
+
+
 
 
 Тип SpunSurface предоставляет следующие члены.

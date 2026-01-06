@@ -11,12 +11,8 @@
 ```csharp
 public enum ReasonType
 ```
-```vb
-Public Enumeration ReasonType
-```
-```cpp
-public enum class ReasonType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

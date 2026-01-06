@@ -13,12 +13,8 @@
 ```csharp
 public class InsertVariableDialog
 ```
-```vb
-Public Class InsertVariableDialog
-```
-```cpp
-public ref class InsertVariableDialog
-```
+
+
 
 
 Тип InsertVariableDialog предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public MaterialLibrary()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MaterialLibrary()
-```
+
+
 
 
 #### Ссылки

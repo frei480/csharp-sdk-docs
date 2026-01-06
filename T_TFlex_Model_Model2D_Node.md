@@ -13,15 +13,8 @@
 ```csharp
 public class Node : Object2D, IModelObjectWithLayer
 ```
-```vb
-Public Class Node
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class Node : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип Node предоставляет следующие члены.

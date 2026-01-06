@@ -11,18 +11,8 @@
 ```csharp
 public double Knot { get; set; }
 ```
-```vb
-Public Property Knot As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Knot {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

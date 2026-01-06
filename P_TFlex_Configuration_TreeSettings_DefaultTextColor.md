@@ -8,18 +8,8 @@
 ```csharp
 public int DefaultTextColor { get; set; }
 ```
-```vb
-Public Property DefaultTextColor As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int DefaultTextColor {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

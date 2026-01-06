@@ -11,16 +11,8 @@
 ```csharp
 public int SensorCount { get; }
 ```
-```vb
-Public ReadOnly Property SensorCount As Integer
-	Get
-```
-```cpp
-public:
-property int SensorCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

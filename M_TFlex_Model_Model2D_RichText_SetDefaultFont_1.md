@@ -17,25 +17,8 @@ public void SetDefaultFont(
 	bool defaultBold
 )
 ```
-```vb
-Public Sub SetDefaultFont ( 
-	name As String,
-	size As Double,
-	color As UInteger,
-	defaultItalic As Boolean,
-	defaultBold As Boolean
-)
-```
-```cpp
-public:
-void SetDefaultFont(
-	String^ name, 
-	double size, 
-	unsigned int color, 
-	bool defaultItalic, 
-	bool defaultBold
-)
-```
+
+
 
 
 #### Параметры

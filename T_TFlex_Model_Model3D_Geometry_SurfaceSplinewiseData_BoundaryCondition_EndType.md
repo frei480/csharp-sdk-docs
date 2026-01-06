@@ -11,12 +11,8 @@
 ```csharp
 public enum EndType
 ```
-```vb
-Public Enumeration EndType
-```
-```cpp
-public enum class EndType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

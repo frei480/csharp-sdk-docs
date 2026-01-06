@@ -14,19 +14,8 @@ public void FixByPictureLCS(
 	LCS targetLCS
 )
 ```
-```vb
-Public Sub FixByPictureLCS ( 
-	sourceLCSName As String,
-	targetLCS As LCS
-)
-```
-```cpp
-public:
-void FixByPictureLCS(
-	String^ sourceLCSName, 
-	LCS^ targetLCS
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public bool CircuitVisible { get; set; }
 ```
-```vb
-Public Property CircuitVisible As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CircuitVisible {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

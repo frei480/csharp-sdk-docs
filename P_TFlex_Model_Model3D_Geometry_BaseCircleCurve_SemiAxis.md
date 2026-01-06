@@ -11,15 +11,8 @@
 ```csharp
 BaseDirection SemiAxis { get; }
 ```
-```vb
-ReadOnly Property SemiAxis As BaseDirection
-	Get
-```
-```cpp
-property BaseDirection^ SemiAxis {
-	BaseDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

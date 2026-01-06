@@ -14,19 +14,8 @@ public bool MacroExists(
 	bool macroWithParameters
 )
 ```
-```vb
-Public Function MacroExists ( 
-	macro As String,
-	macroWithParameters As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool MacroExists(
-	String^ macro, 
-	bool macroWithParameters
-)
-```
+
+
 
 
 #### Параметры

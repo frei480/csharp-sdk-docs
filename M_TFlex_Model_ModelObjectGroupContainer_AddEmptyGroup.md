@@ -13,17 +13,8 @@ public ModelObjectGroup AddEmptyGroup(
 	string sName
 )
 ```
-```vb
-Public Function AddEmptyGroup ( 
-	sName As String
-) As ModelObjectGroup
-```
-```cpp
-public:
-ModelObjectGroup^ AddEmptyGroup(
-	String^ sName
-)
-```
+
+
 
 
 #### Параметры

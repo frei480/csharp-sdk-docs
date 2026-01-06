@@ -15,21 +15,8 @@ public static Document OpenDocument(
 	bool readOnly
 )
 ```
-```vb
-Public Shared Function OpenDocument ( 
-	link As FileLink,
-	visible As Boolean,
-	readOnly As Boolean
-) As Document
-```
-```cpp
-public:
-static Document^ OpenDocument(
-	FileLink^ link, 
-	bool visible, 
-	bool readOnly
-)
-```
+
+
 
 
 #### Параметры

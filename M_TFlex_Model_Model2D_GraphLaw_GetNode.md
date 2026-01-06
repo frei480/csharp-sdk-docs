@@ -13,17 +13,8 @@ public Point GetNode(
 	uint index
 )
 ```
-```vb
-Public Function GetNode ( 
-	index As UInteger
-) As Point
-```
-```cpp
-public:
-Point GetNode(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

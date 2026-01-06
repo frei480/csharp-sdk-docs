@@ -14,19 +14,8 @@ protected virtual void OnRowsInserted(
 	int count
 )
 ```
-```vb
-Protected Overridable Sub OnRowsInserted ( 
-	pos As Integer,
-	count As Integer
-)
-```
-```cpp
-protected:
-virtual void OnRowsInserted(
-	int pos, 
-	int count
-)
-```
+
+
 
 
 #### Параметры

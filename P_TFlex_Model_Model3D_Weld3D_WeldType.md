@@ -11,16 +11,8 @@
 ```csharp
 public WeldType WeldType { get; }
 ```
-```vb
-Public ReadOnly Property WeldType As WeldType
-	Get
-```
-```cpp
-public:
-property WeldType^ WeldType {
-	WeldType^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

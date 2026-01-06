@@ -13,17 +13,8 @@ public void AddDashSpace(
 	double length
 )
 ```
-```vb
-Public Sub AddDashSpace ( 
-	length As Double
-)
-```
-```cpp
-public:
-void AddDashSpace(
-	double length
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public Curve ApplyTransform(
 	TransformationMatrix transformation
 )
 ```
-```vb
-Public Function ApplyTransform ( 
-	transformation As TransformationMatrix
-) As Curve
-```
-```cpp
-public:
-Curve^ ApplyTransform(
-	TransformationMatrix^ transformation
-)
-```
+
+
 
 
 #### Параметры

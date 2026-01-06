@@ -10,20 +10,8 @@ public string this[
 	string key
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	key As String
-) As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ default[String^ key] {
-	String^ get (String^ key);
-	void set (String^ key, String^ value);
-}
-```
+
+
 
 
 #### Параметры

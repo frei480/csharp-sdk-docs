@@ -13,12 +13,8 @@
 ```csharp
 public class ColumnSettings
 ```
-```vb
-Public Class ColumnSettings
-```
-```cpp
-public ref class ColumnSettings
-```
+
+
 
 
 Тип BOMObjectColumnSettings предоставляет следующие члены.

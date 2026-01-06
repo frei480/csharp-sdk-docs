@@ -8,18 +8,8 @@
 ```csharp
 public Rectangle Rectangle { get; set; }
 ```
-```vb
-Public Property Rectangle As Rectangle
-	Get
-	Set
-```
-```cpp
-public:
-property Rectangle Rectangle {
-	Rectangle get ();
-	void set (Rectangle value);
-}
-```
+
+
 
 
 #### Значение свойства

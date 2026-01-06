@@ -10,18 +10,8 @@ public Object3D this[
 	uint index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As UInteger
-) As Object3D
-	Get
-```
-```cpp
-public:
-property Object3D^ default[unsigned int index] {
-	Object3D^ get (unsigned int index);
-}
-```
+
+
 
 
 #### Параметры

@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetVariables' method.")]
 public FragmentVariableValues VariableValues { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetVariables' method.")>
-Public ReadOnly Property VariableValues As FragmentVariableValues
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetVariables' method.")]
-property FragmentVariableValues^ VariableValues {
-	FragmentVariableValues^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

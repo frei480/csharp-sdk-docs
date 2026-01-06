@@ -11,18 +11,8 @@
 ```csharp
 public SweepGapFill GapFillType { get; set; }
 ```
-```vb
-Public Property GapFillType As SweepGapFill
-	Get
-	Set
-```
-```cpp
-public:
-property SweepGapFill GapFillType {
-	SweepGapFill get ();
-	void set (SweepGapFill value);
-}
-```
+
+
 
 
 #### Значение свойства

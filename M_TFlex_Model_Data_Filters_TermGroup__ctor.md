@@ -11,13 +11,8 @@
 ```csharp
 public TermGroup()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-TermGroup()
-```
+
+
 
 
 #### Ссылки

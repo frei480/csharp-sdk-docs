@@ -13,13 +13,8 @@
 ```csharp
 public class OffsetConstruction : Construction
 ```
-```vb
-Public Class OffsetConstruction
-	Inherits Construction
-```
-```cpp
-public ref class OffsetConstruction : public Construction
-```
+
+
 
 
 Тип OffsetConstruction предоставляет следующие члены.

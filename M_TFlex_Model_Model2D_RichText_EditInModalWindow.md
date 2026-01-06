@@ -13,17 +13,8 @@ public static bool EditInModalWindow(
 	RichTextEditData editData
 )
 ```
-```vb
-Public Shared Function EditInModalWindow ( 
-	editData As RichTextEditData
-) As Boolean
-```
-```cpp
-public:
-static bool EditInModalWindow(
-	RichTextEditData^ editData
-)
-```
+
+
 
 
 #### Параметры

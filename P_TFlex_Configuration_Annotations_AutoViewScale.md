@@ -8,18 +8,8 @@
 ```csharp
 public bool AutoViewScale { get; set; }
 ```
-```vb
-Public Property AutoViewScale As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoViewScale {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@ Y-координата конца дуги
 ```csharp
 public double EndY { get; }
 ```
-```vb
-Public ReadOnly Property EndY As Double
-	Get
-```
-```cpp
-public:
-property double EndY {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

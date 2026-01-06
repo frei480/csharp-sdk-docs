@@ -11,18 +11,8 @@
 ```csharp
 public ModelPoint3D PointToAxisY { get; set; }
 ```
-```vb
-Public Property PointToAxisY As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ PointToAxisY {
-	ModelPoint3D^ get ();
-	void set (ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

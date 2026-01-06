@@ -14,19 +14,8 @@ public void Insert(
 	TermGroupItem item
 )
 ```
-```vb
-Public Sub Insert ( 
-	index As Integer,
-	item As TermGroupItem
-)
-```
-```cpp
-public:
-virtual void Insert(
-	int index, 
-	TermGroupItem^ item
-) sealed
-```
+
+
 
 
 #### Параметры

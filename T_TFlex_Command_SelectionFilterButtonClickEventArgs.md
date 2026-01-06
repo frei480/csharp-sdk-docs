@@ -11,13 +11,8 @@
 ```csharp
 public sealed class SelectionFilterButtonClickEventArgs : EventArgs
 ```
-```vb
-Public NotInheritable Class SelectionFilterButtonClickEventArgs
-	Inherits EventArgs
-```
-```cpp
-public ref class SelectionFilterButtonClickEventArgs sealed : public EventArgs
-```
+
+
 
 
 Тип SelectionFilterButtonClickEventArgs предоставляет следующие члены.

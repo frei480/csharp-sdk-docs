@@ -11,13 +11,8 @@
 ```csharp
 public Box FindBoundBox()
 ```
-```vb
-Public Function FindBoundBox As Box
-```
-```cpp
-public:
-Box^ FindBoundBox()
-```
+
+
 
 
 #### Возвращаемое значение

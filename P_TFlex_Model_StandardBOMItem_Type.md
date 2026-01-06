@@ -11,16 +11,8 @@
 ```csharp
 public StandardBOMItemType Type { get; }
 ```
-```vb
-Public ReadOnly Property Type As StandardBOMItemType
-	Get
-```
-```cpp
-public:
-property StandardBOMItemType Type {
-	StandardBOMItemType get ();
-}
-```
+
+
 
 
 #### Значение свойства

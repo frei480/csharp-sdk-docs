@@ -8,12 +8,8 @@
 ```csharp
 public enum UpdateLinks
 ```
-```vb
-Public Enumeration UpdateLinks
-```
-```cpp
-public enum class UpdateLinks
-```
+
+
 
 
 | Имя члена | Значение | Описание |

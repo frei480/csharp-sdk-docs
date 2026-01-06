@@ -13,13 +13,8 @@
 ```csharp
 public class Bound : ICloneable, IDisposable
 ```
-```vb
-Public Class Bound
-	Implements ICloneable, IDisposable
-```
-```cpp
-public ref class Bound : ICloneable, IDisposable
-```
+
+
 
 
 Тип BoundedExtrusionGeneratorBound предоставляет следующие члены.

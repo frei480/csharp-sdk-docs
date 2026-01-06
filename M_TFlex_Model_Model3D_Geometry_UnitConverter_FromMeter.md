@@ -13,17 +13,8 @@ public double FromMeter(
 	double scale
 )
 ```
-```vb
-Public Function FromMeter ( 
-	scale As Double
-) As Double
-```
-```cpp
-public:
-double FromMeter(
-	double scale
-)
-```
+
+
 
 
 #### Параметры

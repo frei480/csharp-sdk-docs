@@ -13,13 +13,8 @@
 ```csharp
 public class ProjectedCircularDimension : CircularDimensionBase
 ```
-```vb
-Public Class ProjectedCircularDimension
-	Inherits CircularDimensionBase
-```
-```cpp
-public ref class ProjectedCircularDimension : public CircularDimensionBase
-```
+
+
 
 
 Тип ProjectedCircularDimension предоставляет следующие члены.

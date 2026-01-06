@@ -8,12 +8,8 @@
 ```csharp
 public enum SelectionModeElements
 ```
-```vb
-Public Enumeration SelectionModeElements
-```
-```cpp
-public enum class SelectionModeElements
-```
+
+
 
 
 | Имя члена | Значение | Описание |

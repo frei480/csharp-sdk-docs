@@ -11,18 +11,8 @@
 ```csharp
 public bool Convert { get; set; }
 ```
-```vb
-Public Property Convert As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Convert {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

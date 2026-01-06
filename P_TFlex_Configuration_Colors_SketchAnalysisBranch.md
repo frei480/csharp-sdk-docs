@@ -8,18 +8,8 @@
 ```csharp
 public int SketchAnalysisBranch { get; set; }
 ```
-```vb
-Public Property SketchAnalysisBranch As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SketchAnalysisBranch {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

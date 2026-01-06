@@ -11,19 +11,8 @@ public static bool operator ==(
 	ProdStructProps right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As ProdStructProps,
-	right As ProdStructProps
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	ProdStructProps^ left, 
-	ProdStructProps^ right
-)
-```
+
+
 
 
 #### Параметры

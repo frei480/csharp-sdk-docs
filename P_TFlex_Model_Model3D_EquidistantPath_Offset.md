@@ -11,18 +11,8 @@
 ```csharp
 public EquidistantPathOffsetType Offset { get; set; }
 ```
-```vb
-Public Property Offset As EquidistantPathOffsetType
-	Get
-	Set
-```
-```cpp
-public:
-property EquidistantPathOffsetType Offset {
-	EquidistantPathOffsetType get ();
-	void set (EquidistantPathOffsetType value);
-}
-```
+
+
 
 
 #### Значение свойства

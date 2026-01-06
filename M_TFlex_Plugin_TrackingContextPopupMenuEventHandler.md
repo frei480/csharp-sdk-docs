@@ -13,17 +13,8 @@ protected virtual void TrackingContextPopupMenuEventHandler(
 	TrackingContextPopupMenuEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub TrackingContextPopupMenuEventHandler ( 
-	args As TrackingContextPopupMenuEventArgs
-)
-```
-```cpp
-protected:
-virtual void TrackingContextPopupMenuEventHandler(
-	TrackingContextPopupMenuEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

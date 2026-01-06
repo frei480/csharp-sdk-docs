@@ -8,18 +8,8 @@
 ```csharp
 public bool CreateScrollBars { get; set; }
 ```
-```vb
-Public Property CreateScrollBars As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CreateScrollBars {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

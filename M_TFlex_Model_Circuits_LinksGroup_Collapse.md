@@ -11,19 +11,8 @@ public virtual void Collapse(
 	FixingVector point
 )
 ```
-```vb
-Public Overridable Sub Collapse ( 
-	points As IEnumerable(Of FixingVector),
-	point As FixingVector
-)
-```
-```cpp
-public:
-virtual void Collapse(
-	IEnumerable<FixingVector^>^ points, 
-	FixingVector^ point
-)
-```
+
+
 
 
 #### Параметры

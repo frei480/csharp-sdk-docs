@@ -14,19 +14,8 @@ public RibbonGroup AddGroup(
 	int id
 )
 ```
-```vb
-Public Function AddGroup ( 
-	caption As String,
-	id As Integer
-) As RibbonGroup
-```
-```cpp
-public:
-RibbonGroup^ AddGroup(
-	String^ caption, 
-	int id
-)
-```
+
+
 
 
 #### Параметры

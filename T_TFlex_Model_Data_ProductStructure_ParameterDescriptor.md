@@ -11,13 +11,8 @@
 ```csharp
 public class ParameterDescriptor : ICloneable
 ```
-```vb
-Public Class ParameterDescriptor
-	Implements ICloneable
-```
-```cpp
-public ref class ParameterDescriptor : ICloneable
-```
+
+
 
 
 Тип ParameterDescriptor предоставляет следующие члены.

@@ -13,17 +13,8 @@ public void Decrement(
 	bool respectRange
 )
 ```
-```vb
-Public Sub Decrement ( 
-	respectRange As Boolean
-)
-```
-```cpp
-public:
-void Decrement(
-	bool respectRange
-)
-```
+
+
 
 
 #### Параметры

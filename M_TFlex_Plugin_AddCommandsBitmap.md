@@ -17,25 +17,8 @@ protected void AddCommandsBitmap(
 	int[] CmdIDs
 )
 ```
-```vb
-<ObsoleteAttribute("Not fully supported. Specify icons in RegisterCommand or RegisterObjectCommand instead.
-To create toolbar use CreateToolbar.")>
-Protected Sub AddCommandsBitmap ( 
-	BmpSmall As Bitmap,
-	BmpLarge As Bitmap,
-	CmdIDs As Integer()
-)
-```
-```cpp
-protected:
-[ObsoleteAttribute(L"Not fully supported. Specify icons in RegisterCommand or RegisterObjectCommand instead.
-To create toolbar use CreateToolbar.")]
-void AddCommandsBitmap(
-	Bitmap^ BmpSmall, 
-	Bitmap^ BmpLarge, 
-	array<int>^ CmdIDs
-)
-```
+
+
 
 
 #### Параметры

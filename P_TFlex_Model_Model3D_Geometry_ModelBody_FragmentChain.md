@@ -8,16 +8,8 @@
 ```csharp
 public List<ObjectId> FragmentChain { get; }
 ```
-```vb
-Public ReadOnly Property FragmentChain As List(Of ObjectId)
-	Get
-```
-```cpp
-public:
-property List<ObjectId^>^ FragmentChain {
-	List<ObjectId^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

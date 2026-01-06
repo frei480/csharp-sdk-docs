@@ -11,16 +11,8 @@
 ```csharp
 public static int GridIndex { get; }
 ```
-```vb
-Public Shared ReadOnly Property GridIndex As Integer
-	Get
-```
-```cpp
-public:
-static property int GridIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

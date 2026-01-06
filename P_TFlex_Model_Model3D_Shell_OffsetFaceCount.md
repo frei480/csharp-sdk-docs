@@ -11,16 +11,8 @@
 ```csharp
 public int OffsetFaceCount { get; }
 ```
-```vb
-Public ReadOnly Property OffsetFaceCount As Integer
-	Get
-```
-```cpp
-public:
-property int OffsetFaceCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

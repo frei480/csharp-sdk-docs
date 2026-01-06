@@ -13,17 +13,8 @@ public void SaveInNomenclature(
 	SaveInNomenclatureOptions options
 )
 ```
-```vb
-Public Sub SaveInNomenclature ( 
-	options As SaveInNomenclatureOptions
-)
-```
-```cpp
-public:
-void SaveInNomenclature(
-	SaveInNomenclatureOptions^ options
-)
-```
+
+
 
 
 #### Параметры

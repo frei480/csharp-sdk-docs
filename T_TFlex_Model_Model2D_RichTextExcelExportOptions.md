@@ -11,12 +11,8 @@
 ```csharp
 public class RichTextExcelExportOptions
 ```
-```vb
-Public Class RichTextExcelExportOptions
-```
-```cpp
-public ref class RichTextExcelExportOptions
-```
+
+
 
 
 Тип RichTextExcelExportOptions предоставляет следующие члены.

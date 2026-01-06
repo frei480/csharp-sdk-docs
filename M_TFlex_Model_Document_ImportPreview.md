@@ -13,17 +13,8 @@ public void ImportPreview(
 	Document sourceDocument
 )
 ```
-```vb
-Public Sub ImportPreview ( 
-	sourceDocument As Document
-)
-```
-```cpp
-public:
-void ImportPreview(
-	Document^ sourceDocument
-)
-```
+
+
 
 
 #### Параметры

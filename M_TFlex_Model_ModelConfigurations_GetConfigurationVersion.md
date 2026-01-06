@@ -13,17 +13,8 @@ public string GetConfigurationVersion(
 	int Index
 )
 ```
-```vb
-Public Function GetConfigurationVersion ( 
-	Index As Integer
-) As String
-```
-```cpp
-public:
-String^ GetConfigurationVersion(
-	int Index
-)
-```
+
+
 
 
 #### Параметры

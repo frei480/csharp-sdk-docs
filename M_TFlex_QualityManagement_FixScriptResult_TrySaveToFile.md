@@ -13,17 +13,8 @@ public bool TrySaveToFile(
 	string filePath
 )
 ```
-```vb
-Public Function TrySaveToFile ( 
-	filePath As String
-) As Boolean
-```
-```cpp
-public:
-bool TrySaveToFile(
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 protected virtual string ParameterDescription { get; }
 ```
-```vb
-Protected Overridable ReadOnly Property ParameterDescription As String
-	Get
-```
-```cpp
-protected:
-virtual property String^ ParameterDescription {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

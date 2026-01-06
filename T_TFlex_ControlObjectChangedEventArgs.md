@@ -11,12 +11,8 @@
 ```csharp
 public class ControlObjectChangedEventArgs
 ```
-```vb
-Public Class ControlObjectChangedEventArgs
-```
-```cpp
-public ref class ControlObjectChangedEventArgs
-```
+
+
 
 
 Тип ControlObjectChangedEventArgs предоставляет следующие члены.

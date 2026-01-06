@@ -11,12 +11,8 @@
 ```csharp
 public enum RegenerationMode
 ```
-```vb
-Public Enumeration RegenerationMode
-```
-```cpp
-public enum class RegenerationMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

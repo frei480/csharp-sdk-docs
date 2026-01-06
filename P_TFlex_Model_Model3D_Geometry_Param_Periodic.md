@@ -11,16 +11,8 @@
 ```csharp
 public ParamPeriodicType Periodic { get; }
 ```
-```vb
-Public ReadOnly Property Periodic As ParamPeriodicType
-	Get
-```
-```cpp
-public:
-property ParamPeriodicType Periodic {
-	ParamPeriodicType get ();
-}
-```
+
+
 
 
 #### Значение свойства

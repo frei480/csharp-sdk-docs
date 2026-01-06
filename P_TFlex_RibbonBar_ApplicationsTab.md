@@ -11,16 +11,8 @@
 ```csharp
 public static RibbonTab ApplicationsTab { get; }
 ```
-```vb
-Public Shared ReadOnly Property ApplicationsTab As RibbonTab
-	Get
-```
-```cpp
-public:
-static property RibbonTab^ ApplicationsTab {
-	RibbonTab^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public static MainWindow ActiveMainWindow { get; }
 ```
-```vb
-Public Shared ReadOnly Property ActiveMainWindow As MainWindow
-	Get
-```
-```cpp
-public:
-static property MainWindow^ ActiveMainWindow {
-	MainWindow^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

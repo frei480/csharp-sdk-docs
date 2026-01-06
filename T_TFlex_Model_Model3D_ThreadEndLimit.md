@@ -11,12 +11,8 @@
 ```csharp
 public enum ThreadEndLimit
 ```
-```vb
-Public Enumeration ThreadEndLimit
-```
-```cpp
-public enum class ThreadEndLimit
-```
+
+
 
 
 | Имя члена | Значение | Описание |

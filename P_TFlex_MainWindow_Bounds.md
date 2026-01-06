@@ -11,18 +11,8 @@
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
-```vb
-Public Property Bounds As Rectangle
-	Get
-	Set
-```
-```cpp
-public:
-property Rectangle Bounds {
-	Rectangle get ();
-	void set (Rectangle value);
-}
-```
+
+
 
 
 #### Значение свойства

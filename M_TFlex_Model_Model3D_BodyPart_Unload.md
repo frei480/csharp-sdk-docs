@@ -13,17 +13,8 @@ public bool Unload(
 	BodyPartUnloadBodyOptions options
 )
 ```
-```vb
-Public Function Unload ( 
-	options As BodyPartUnloadBodyOptions
-) As Boolean
-```
-```cpp
-public:
-bool Unload(
-	BodyPartUnloadBodyOptions options
-)
-```
+
+
 
 
 #### Параметры

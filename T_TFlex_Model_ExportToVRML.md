@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToVRML : ExportToFacet
 ```
-```vb
-Public NotInheritable Class ExportToVRML
-	Inherits ExportToFacet
-```
-```cpp
-public ref class ExportToVRML sealed : public ExportToFacet
-```
+
+
 
 
 Тип ExportToVRML предоставляет следующие члены.

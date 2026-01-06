@@ -13,13 +13,8 @@
 ```csharp
 public class LCSPoint : Node3D
 ```
-```vb
-Public Class LCSPoint
-	Inherits Node3D
-```
-```cpp
-public ref class LCSPoint : public Node3D
-```
+
+
 
 
 Тип LCSPoint предоставляет следующие члены.

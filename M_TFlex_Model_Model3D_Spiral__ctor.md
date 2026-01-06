@@ -13,17 +13,8 @@ public Spiral(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-Spiral(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

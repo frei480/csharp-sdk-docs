@@ -12,21 +12,8 @@ public IEnumerable<Segment> GetSegmentByTerminalPoint(
 	bool shell
 )
 ```
-```vb
-Public Function GetSegmentByTerminalPoint ( 
-	tp1 As TerminalPoint,
-	tp2 As TerminalPoint,
-	shell As Boolean
-) As IEnumerable(Of Segment)
-```
-```cpp
-public:
-IEnumerable<Segment^>^ GetSegmentByTerminalPoint(
-	TerminalPoint^ tp1, 
-	TerminalPoint^ tp2, 
-	bool shell
-)
-```
+
+
 
 
 #### Параметры

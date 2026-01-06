@@ -11,18 +11,8 @@ Cпособ задания параметризации
 ```csharp
 public ParametricSweepParametricType ParamType { get; set; }
 ```
-```vb
-Public Property ParamType As ParametricSweepParametricType
-	Get
-	Set
-```
-```cpp
-public:
-property ParametricSweepParametricType ParamType {
-	ParametricSweepParametricType get ();
-	void set (ParametricSweepParametricType value);
-}
-```
+
+
 
 
 #### Значение свойства

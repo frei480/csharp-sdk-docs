@@ -11,18 +11,8 @@
 ```csharp
 public bool TreeModel { get; set; }
 ```
-```vb
-Public Property TreeModel As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool TreeModel {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

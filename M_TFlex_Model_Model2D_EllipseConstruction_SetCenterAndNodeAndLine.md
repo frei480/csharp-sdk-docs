@@ -15,21 +15,8 @@ public void SetCenterAndNodeAndLine(
 	Construction srcLine
 )
 ```
-```vb
-Public Sub SetCenterAndNodeAndLine ( 
-	centerNode As Node,
-	srcNode As Node,
-	srcLine As Construction
-)
-```
-```cpp
-public:
-void SetCenterAndNodeAndLine(
-	Node^ centerNode, 
-	Node^ srcNode, 
-	Construction^ srcLine
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public void RemoveRowDescriptor(
 	Guid rowID
 )
 ```
-```vb
-Public Sub RemoveRowDescriptor ( 
-	rowID As Guid
-)
-```
-```cpp
-public:
-void RemoveRowDescriptor(
-	Guid rowID
-)
-```
+
+
 
 
 #### Параметры

@@ -13,19 +13,8 @@ public static ICollection<LinearArrayOperation> GetLinearArrays(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetLinearArrays ( 
-	document As Document
-) As ICollection(Of LinearArrayOperation)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<LinearArrayOperation^>^ GetLinearArrays(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

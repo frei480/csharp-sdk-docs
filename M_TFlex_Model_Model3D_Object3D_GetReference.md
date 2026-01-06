@@ -13,17 +13,8 @@ public override ModelObject GetReference(
 	int id
 )
 ```
-```vb
-Public Overrides Function GetReference ( 
-	id As Integer
-) As ModelObject
-```
-```cpp
-public:
-virtual ModelObject^ GetReference(
-	int id
-) override
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ public abstract bool HasDesignations(
 	DesignationType type
 )
 ```
-```vb
-Public MustOverride Function HasDesignations ( 
-	type As DesignationType
-) As Boolean
-```
-```cpp
-public:
-virtual bool HasDesignations(
-	DesignationType type
-) abstract
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public int HotDistance { get; set; }
 ```
-```vb
-Public Property HotDistance As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int HotDistance {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

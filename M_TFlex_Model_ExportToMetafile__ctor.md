@@ -13,17 +13,8 @@ public ExportToMetafile(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToMetafile(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

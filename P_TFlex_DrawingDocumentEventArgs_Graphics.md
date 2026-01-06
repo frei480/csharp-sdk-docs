@@ -11,16 +11,8 @@
 ```csharp
 public Graphics Graphics { get; }
 ```
-```vb
-Public ReadOnly Property Graphics As Graphics
-	Get
-```
-```cpp
-public:
-property Graphics^ Graphics {
-	Graphics^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public bool AddHole(
 	Node3D node
 )
 ```
-```vb
-Public Function AddHole ( 
-	operation As Operation,
-	node As Node3D
-) As Boolean
-```
-```cpp
-public:
-bool AddHole(
-	Operation^ operation, 
-	Node3D^ node
-)
-```
+
+
 
 
 #### Параметры

@@ -10,17 +10,8 @@ protected override void DisableImpl(
 	ObjectType type
 )
 ```
-```vb
-Protected Overrides Sub DisableImpl ( 
-	type As ObjectType
-)
-```
-```cpp
-protected:
-virtual void DisableImpl(
-	ObjectType type
-) override
-```
+
+
 
 
 #### Параметры

@@ -8,12 +8,8 @@
 ```csharp
 public enum SpliceConnectionType
 ```
-```vb
-Public Enumeration SpliceConnectionType
-```
-```cpp
-public enum class SpliceConnectionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

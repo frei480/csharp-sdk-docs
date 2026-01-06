@@ -10,17 +10,8 @@ public void SetParentObject(
 	Object3D pParent
 )
 ```
-```vb
-Public Sub SetParentObject ( 
-	pParent As Object3D
-)
-```
-```cpp
-public:
-void SetParentObject(
-	Object3D^ pParent
-)
-```
+
+
 
 
 #### Параметры

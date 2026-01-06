@@ -8,16 +8,8 @@
 ```csharp
 public string GlobalName { get; }
 ```
-```vb
-Public ReadOnly Property GlobalName As String
-	Get
-```
-```cpp
-public:
-property String^ GlobalName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

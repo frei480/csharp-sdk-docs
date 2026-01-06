@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Document : IDisposable
 ```
-```vb
-Public NotInheritable Class Document
-	Implements IDisposable
-```
-```cpp
-public ref class Document sealed : IDisposable
-```
+
+
 
 
 Тип Document предоставляет следующие члены.

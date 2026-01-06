@@ -8,16 +8,8 @@
 ```csharp
 public GroupingRules DefaultGroupingRule { get; }
 ```
-```vb
-Public ReadOnly Property DefaultGroupingRule As GroupingRules
-	Get
-```
-```cpp
-public:
-property GroupingRules^ DefaultGroupingRule {
-	GroupingRules^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

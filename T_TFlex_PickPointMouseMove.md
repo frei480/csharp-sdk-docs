@@ -14,18 +14,8 @@ public delegate void PickPointMouseMove(
 	PickPointEventArgs e
 )
 ```
-```vb
-Public Delegate Sub PickPointMouseMove ( 
-	sender As Object,
-	e As PickPointEventArgs
-)
-```
-```cpp
-public delegate void PickPointMouseMove(
-	Object^ sender, 
-	PickPointEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

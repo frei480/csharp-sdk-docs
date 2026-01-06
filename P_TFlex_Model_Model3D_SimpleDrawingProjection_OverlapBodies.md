@@ -11,18 +11,8 @@
 ```csharp
 public bool OverlapBodies { get; set; }
 ```
-```vb
-Public Property OverlapBodies As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OverlapBodies {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

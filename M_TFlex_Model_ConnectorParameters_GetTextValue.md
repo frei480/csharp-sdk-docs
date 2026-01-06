@@ -13,17 +13,8 @@ public string GetTextValue(
 	int index
 )
 ```
-```vb
-Public Function GetTextValue ( 
-	index As Integer
-) As String
-```
-```cpp
-public:
-String^ GetTextValue(
-	int index
-)
-```
+
+
 
 
 #### Параметры

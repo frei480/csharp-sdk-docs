@@ -11,12 +11,8 @@
 ```csharp
 public enum DiagnosticsMessageType
 ```
-```vb
-Public Enumeration DiagnosticsMessageType
-```
-```cpp
-public enum class DiagnosticsMessageType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

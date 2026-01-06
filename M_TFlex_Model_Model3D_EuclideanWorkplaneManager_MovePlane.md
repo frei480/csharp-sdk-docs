@@ -14,19 +14,8 @@ public static void MovePlane(
 	double offset
 )
 ```
-```vb
-Public Shared Sub MovePlane ( 
-	plane As Workplane,
-	offset As Double
-)
-```
-```cpp
-public:
-static void MovePlane(
-	Workplane^ plane, 
-	double offset
-)
-```
+
+
 
 
 #### Параметры

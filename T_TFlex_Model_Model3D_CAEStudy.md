@@ -13,13 +13,8 @@
 ```csharp
 public class CAEStudy : Study
 ```
-```vb
-Public Class CAEStudy
-	Inherits Study
-```
-```cpp
-public ref class CAEStudy : public Study
-```
+
+
 
 
 Тип CAEStudy предоставляет следующие члены.

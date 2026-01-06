@@ -10,17 +10,8 @@ public CreateElementsResult CreateElementsByPrototypes(
 	CreateElementsFromSourceParameters parameters
 )
 ```
-```vb
-Public Function CreateElementsByPrototypes ( 
-	parameters As CreateElementsFromSourceParameters
-) As CreateElementsResult
-```
-```cpp
-public:
-CreateElementsResult^ CreateElementsByPrototypes(
-	CreateElementsFromSourceParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

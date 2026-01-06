@@ -12,20 +12,8 @@
 [ObsoleteAttribute("Property PosSkip is Obsolete. Use PosSkipBefore instead")]
 public uint PosSkip { get; set; }
 ```
-```vb
-<ObsoleteAttribute("Property PosSkip is Obsolete. Use PosSkipBefore instead")>
-Public Property PosSkip As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Property PosSkip is Obsolete. Use PosSkipBefore instead")]
-property unsigned int PosSkip {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

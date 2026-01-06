@@ -11,12 +11,8 @@
 ```csharp
 public enum BreakPositionsMetric
 ```
-```vb
-Public Enumeration BreakPositionsMetric
-```
-```cpp
-public enum class BreakPositionsMetric
-```
+
+
 
 
 | Имя члена | Значение | Описание |

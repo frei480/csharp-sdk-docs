@@ -13,13 +13,8 @@
 ```csharp
 public class MoveCopy : CopyOperation
 ```
-```vb
-Public Class MoveCopy
-	Inherits CopyOperation
-```
-```cpp
-public ref class MoveCopy : public CopyOperation
-```
+
+
 
 
 Тип MoveCopy предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public ConditionalFilteringRule()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ConditionalFilteringRule()
-```
+
+
 
 
 #### Ссылки

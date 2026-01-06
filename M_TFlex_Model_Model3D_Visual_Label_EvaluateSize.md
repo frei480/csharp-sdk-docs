@@ -10,17 +10,8 @@ protected abstract Size EvaluateSize(
 	Graphics graphics
 )
 ```
-```vb
-Protected MustOverride Function EvaluateSize ( 
-	graphics As Graphics
-) As Size
-```
-```cpp
-protected:
-virtual Size EvaluateSize(
-	Graphics^ graphics
-) abstract
-```
+
+
 
 
 #### Параметры

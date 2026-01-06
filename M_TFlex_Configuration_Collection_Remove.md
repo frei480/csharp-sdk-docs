@@ -10,17 +10,8 @@ public void Remove(
 	int index
 )
 ```
-```vb
-Public Sub Remove ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void Remove(
-	int index
-)
-```
+
+
 
 
 #### Параметры

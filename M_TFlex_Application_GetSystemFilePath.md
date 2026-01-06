@@ -14,19 +14,8 @@ public static string GetSystemFilePath(
 	bool bReadOnly
 )
 ```
-```vb
-Public Shared Function GetSystemFilePath ( 
-	strFileName As String,
-	bReadOnly As Boolean
-) As String
-```
-```cpp
-public:
-static String^ GetSystemFilePath(
-	String^ strFileName, 
-	bool bReadOnly
-)
-```
+
+
 
 
 #### Параметры

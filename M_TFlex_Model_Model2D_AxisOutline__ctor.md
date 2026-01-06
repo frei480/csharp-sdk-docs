@@ -15,21 +15,8 @@ public AxisOutline(
 	Outline source2
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	source1 As Outline,
-	source2 As Outline
-)
-```
-```cpp
-public:
-AxisOutline(
-	Document^ document, 
-	Outline^ source1, 
-	Outline^ source2
-)
-```
+
+
 
 
 #### Параметры

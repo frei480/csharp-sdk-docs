@@ -16,23 +16,8 @@ public void SetTwoNodes(
 	int variant
 )
 ```
-```vb
-Public Sub SetTwoNodes ( 
-	srcNode1 As Node,
-	srcNode2 As Node,
-	radius As Parameter,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetTwoNodes(
-	Node^ srcNode1, 
-	Node^ srcNode2, 
-	Parameter^ radius, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

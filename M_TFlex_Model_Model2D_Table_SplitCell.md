@@ -15,21 +15,8 @@ public void SplitCell(
 	uint columns
 )
 ```
-```vb
-Public Sub SplitCell ( 
-	cell As UInteger,
-	rows As UInteger,
-	columns As UInteger
-)
-```
-```cpp
-public:
-void SplitCell(
-	unsigned int cell, 
-	unsigned int rows, 
-	unsigned int columns
-)
-```
+
+
 
 
 #### Параметры

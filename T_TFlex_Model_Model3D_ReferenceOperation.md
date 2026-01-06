@@ -13,13 +13,8 @@
 ```csharp
 public class ReferenceOperation : Operation
 ```
-```vb
-Public Class ReferenceOperation
-	Inherits Operation
-```
-```cpp
-public ref class ReferenceOperation : public Operation
-```
+
+
 
 
 Тип ReferenceOperation предоставляет следующие члены.

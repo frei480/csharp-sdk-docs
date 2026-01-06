@@ -16,23 +16,8 @@ public ModelObject GetClosestObject(
 	double maxdistance
 )
 ```
-```vb
-Public Function GetClosestObject ( 
-	point As Point,
-	page As Page,
-	filter As SelectionFilter,
-	maxdistance As Double
-) As ModelObject
-```
-```cpp
-public:
-ModelObject^ GetClosestObject(
-	Point point, 
-	Page^ page, 
-	SelectionFilter^ filter, 
-	double maxdistance
-)
-```
+
+
 
 
 #### Параметры

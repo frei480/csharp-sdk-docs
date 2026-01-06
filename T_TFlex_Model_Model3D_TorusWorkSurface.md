@@ -13,13 +13,8 @@
 ```csharp
 public class TorusWorkSurface : SpatialWorkSurface
 ```
-```vb
-Public Class TorusWorkSurface
-	Inherits SpatialWorkSurface
-```
-```cpp
-public ref class TorusWorkSurface : public SpatialWorkSurface
-```
+
+
 
 
 Тип TorusWorkSurface предоставляет следующие члены.

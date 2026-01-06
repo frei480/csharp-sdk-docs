@@ -11,13 +11,8 @@
 ```csharp
 public RoughnessRelativeLengthType ParameterType
 ```
-```vb
-Public ParameterType As RoughnessRelativeLengthType
-```
-```cpp
-public:
-RoughnessRelativeLengthType ParameterType
-```
+
+
 
 
 #### Значение поля

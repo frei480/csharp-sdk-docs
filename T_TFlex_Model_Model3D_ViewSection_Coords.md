@@ -11,12 +11,8 @@
 ```csharp
 public class Coords
 ```
-```vb
-Public Class Coords
-```
-```cpp
-public ref class Coords
-```
+
+
 
 
 Тип ViewSectionCoords предоставляет следующие члены.

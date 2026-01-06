@@ -13,17 +13,8 @@ public static void AddMacrosIndirectAssembly(
 	string assemblyPath
 )
 ```
-```vb
-Public Shared Sub AddMacrosIndirectAssembly ( 
-	assemblyPath As String
-)
-```
-```cpp
-public:
-static void AddMacrosIndirectAssembly(
-	String^ assemblyPath
-)
-```
+
+
 
 
 #### Параметры

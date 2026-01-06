@@ -15,21 +15,8 @@ public static Icon CreateByImagePath(
 	bool cache
 )
 ```
-```vb
-Public Shared Function CreateByImagePath ( 
-	relativeFilePath As String,
-	rootFolderPath As String,
-	cache As Boolean
-) As Icon
-```
-```cpp
-public:
-static Icon^ CreateByImagePath(
-	String^ relativeFilePath, 
-	String^ rootFolderPath, 
-	bool cache
-)
-```
+
+
 
 
 #### Параметры

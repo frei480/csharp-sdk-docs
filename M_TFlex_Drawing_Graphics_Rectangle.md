@@ -13,17 +13,8 @@ public void Rectangle(
 	Rectangle rect
 )
 ```
-```vb
-Public Sub Rectangle ( 
-	rect As Rectangle
-)
-```
-```cpp
-public:
-void Rectangle(
-	Rectangle rect
-)
-```
+
+
 
 
 #### Параметры

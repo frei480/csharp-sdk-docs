@@ -14,19 +14,8 @@ public void SetEllipse(
 	Parameter parameter
 )
 ```
-```vb
-Public Sub SetEllipse ( 
-	ellipse As Object2D,
-	parameter As Parameter
-)
-```
-```cpp
-public:
-void SetEllipse(
-	Object2D^ ellipse, 
-	Parameter^ parameter
-)
-```
+
+
 
 
 #### Параметры

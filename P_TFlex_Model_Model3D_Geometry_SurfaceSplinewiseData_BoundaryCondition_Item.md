@@ -10,20 +10,8 @@ public BaseDirection this[
 	uint index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As UInteger
-) As BaseDirection
-	Get
-	Set
-```
-```cpp
-public:
-property BaseDirection^ default[unsigned int index] {
-	BaseDirection^ get (unsigned int index);
-	void set (unsigned int index, BaseDirection^ value);
-}
-```
+
+
 
 
 #### Параметры

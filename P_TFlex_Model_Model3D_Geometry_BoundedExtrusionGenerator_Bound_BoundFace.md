@@ -11,18 +11,8 @@
 ```csharp
 public BaseFace BoundFace { get; set; }
 ```
-```vb
-Public Property BoundFace As BaseFace
-	Get
-	Set
-```
-```cpp
-public:
-property BaseFace^ BoundFace {
-	BaseFace^ get ();
-	void set (BaseFace^ value);
-}
-```
+
+
 
 
 #### Значение свойства

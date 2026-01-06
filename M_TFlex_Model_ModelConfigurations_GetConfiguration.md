@@ -13,17 +13,8 @@ public ModelConfiguration GetConfiguration(
 	int index
 )
 ```
-```vb
-Public Function GetConfiguration ( 
-	index As Integer
-) As ModelConfiguration
-```
-```cpp
-public:
-ModelConfiguration^ GetConfiguration(
-	int index
-)
-```
+
+
 
 
 #### Параметры

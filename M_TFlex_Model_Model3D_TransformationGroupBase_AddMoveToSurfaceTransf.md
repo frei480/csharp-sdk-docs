@@ -14,19 +14,8 @@ public void AddMoveToSurfaceTransf(
 	ModelSurface surface
 )
 ```
-```vb
-Public Sub AddMoveToSurfaceTransf ( 
-	axis As TransformationCoordinate,
-	surface As ModelSurface
-)
-```
-```cpp
-public:
-void AddMoveToSurfaceTransf(
-	TransformationCoordinate axis, 
-	ModelSurface^ surface
-)
-```
+
+
 
 
 #### Параметры

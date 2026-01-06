@@ -13,17 +13,8 @@ public Parameter GetPositionOnPath(
 	Coordinate indCoord
 )
 ```
-```vb
-Public Function GetPositionOnPath ( 
-	indCoord As Coordinate
-) As Parameter
-```
-```cpp
-public:
-Parameter^ GetPositionOnPath(
-	Coordinate indCoord
-)
-```
+
+
 
 
 #### Параметры

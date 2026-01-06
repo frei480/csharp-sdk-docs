@@ -8,18 +8,8 @@
 ```csharp
 public double ModelUserScale { get; set; }
 ```
-```vb
-Public Property ModelUserScale As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double ModelUserScale {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

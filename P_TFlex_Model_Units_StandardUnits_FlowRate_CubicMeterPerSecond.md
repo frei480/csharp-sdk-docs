@@ -13,16 +13,8 @@
 ```csharp
 public static Unit CubicMeterPerSecond { get; }
 ```
-```vb
-Public Shared ReadOnly Property CubicMeterPerSecond As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ CubicMeterPerSecond {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

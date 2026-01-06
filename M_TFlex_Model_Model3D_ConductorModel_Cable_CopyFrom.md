@@ -10,17 +10,8 @@ public bool CopyFrom(
 	Cable source
 )
 ```
-```vb
-Public Function CopyFrom ( 
-	source As Cable
-) As Boolean
-```
-```cpp
-public:
-bool CopyFrom(
-	Cable^ source
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Sweep : Operation
 ```
-```vb
-Public MustInherit Class Sweep
-	Inherits Operation
-```
-```cpp
-public ref class Sweep abstract : public Operation
-```
+
+
 
 
 Тип Sweep предоставляет следующие члены.

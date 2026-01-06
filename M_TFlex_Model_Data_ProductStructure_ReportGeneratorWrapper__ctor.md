@@ -11,13 +11,8 @@
 ```csharp
 public ReportGeneratorWrapper()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ReportGeneratorWrapper()
-```
+
+
 
 
 #### Ссылки

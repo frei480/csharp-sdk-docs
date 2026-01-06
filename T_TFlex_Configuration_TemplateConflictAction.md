@@ -8,12 +8,8 @@
 ```csharp
 public enum TemplateConflictAction
 ```
-```vb
-Public Enumeration TemplateConflictAction
-```
-```cpp
-public enum class TemplateConflictAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

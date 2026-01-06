@@ -14,14 +14,8 @@
 public sealed class ObjectContainer : IEnumerable, 
 	IEnumerator
 ```
-```vb
-Public NotInheritable Class ObjectContainer
-	Implements IEnumerable, IEnumerator
-```
-```cpp
-public ref class ObjectContainer sealed : IEnumerable, 
-	IEnumerator
-```
+
+
 
 
 Тип ObjectContainer предоставляет следующие члены.

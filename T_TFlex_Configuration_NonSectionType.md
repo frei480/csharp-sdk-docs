@@ -8,12 +8,8 @@
 ```csharp
 public enum NonSectionType
 ```
-```vb
-Public Enumeration NonSectionType
-```
-```cpp
-public enum class NonSectionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

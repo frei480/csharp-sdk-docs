@@ -13,17 +13,8 @@ public bool InsertFragment(
 	string filePath
 )
 ```
-```vb
-Public Function InsertFragment ( 
-	filePath As String
-) As Boolean
-```
-```cpp
-public:
-bool InsertFragment(
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

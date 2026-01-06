@@ -11,19 +11,8 @@ protected virtual bool CreateFloatingWindowControl(
 	out PropertiesWindowFormBase control
 )
 ```
-```vb
-Protected Overridable Function CreateFloatingWindowControl ( 
-	id As UInteger,
-	<OutAttribute> ByRef control As PropertiesWindowFormBase
-) As Boolean
-```
-```cpp
-protected:
-virtual bool CreateFloatingWindowControl(
-	unsigned int id, 
-	[OutAttribute] PropertiesWindowFormBase^% control
-)
-```
+
+
 
 
 #### Параметры

@@ -8,13 +8,8 @@
 ```csharp
 public OptionsPropertiesOverrides Copy()
 ```
-```vb
-Public Function Copy As OptionsPropertiesOverrides
-```
-```cpp
-public:
-OptionsPropertiesOverrides^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

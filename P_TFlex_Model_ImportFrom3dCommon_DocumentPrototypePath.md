@@ -11,18 +11,8 @@
 ```csharp
 public string DocumentPrototypePath { get; set; }
 ```
-```vb
-Public Property DocumentPrototypePath As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ DocumentPrototypePath {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

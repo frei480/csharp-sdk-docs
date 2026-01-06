@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerable<KeyValuePair<Guid, Object>> GetAllValues()
 ```
-```vb
-Public Function GetAllValues As IEnumerable(Of KeyValuePair(Of Guid, Object))
-```
-```cpp
-public:
-IEnumerable<KeyValuePair<Guid, Object^>>^ GetAllValues()
-```
+
+
 
 
 #### Возвращаемое значение

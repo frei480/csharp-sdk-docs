@@ -13,17 +13,8 @@ public Decoration GetDecoration(
 	string name
 )
 ```
-```vb
-Public Function GetDecoration ( 
-	name As String
-) As Decoration
-```
-```cpp
-public:
-Decoration^ GetDecoration(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

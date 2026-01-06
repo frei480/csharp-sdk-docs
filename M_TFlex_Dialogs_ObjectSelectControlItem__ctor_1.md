@@ -13,17 +13,8 @@ public ObjectSelectControlItem(
 	string name
 )
 ```
-```vb
-Public Sub New ( 
-	name As String
-)
-```
-```cpp
-public:
-ObjectSelectControlItem(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

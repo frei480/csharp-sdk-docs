@@ -10,17 +10,8 @@ public static SourceFile CreateByFilePath(
 	string filePath
 )
 ```
-```vb
-Public Shared Function CreateByFilePath ( 
-	filePath As String
-) As SourceFile
-```
-```cpp
-public:
-static SourceFile^ CreateByFilePath(
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

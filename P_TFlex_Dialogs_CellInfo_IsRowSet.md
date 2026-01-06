@@ -8,16 +8,8 @@
 ```csharp
 public bool IsRowSet { get; }
 ```
-```vb
-Public ReadOnly Property IsRowSet As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsRowSet {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

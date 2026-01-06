@@ -11,12 +11,8 @@
 ```csharp
 public enum AngularDimTypes
 ```
-```vb
-Public Enumeration AngularDimTypes
-```
-```cpp
-public enum class AngularDimTypes
-```
+
+
 
 
 | Имя члена | Значение | Описание |

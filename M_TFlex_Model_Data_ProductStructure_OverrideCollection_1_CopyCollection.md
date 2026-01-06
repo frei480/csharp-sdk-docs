@@ -10,17 +10,8 @@ protected void CopyCollection(
 	OverrideCollection<T> src
 )
 ```
-```vb
-Protected Sub CopyCollection ( 
-	src As OverrideCollection(Of T)
-)
-```
-```cpp
-protected:
-void CopyCollection(
-	OverrideCollection<T>^ src
-)
-```
+
+
 
 
 #### Параметры

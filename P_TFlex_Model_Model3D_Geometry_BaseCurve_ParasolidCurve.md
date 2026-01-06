@@ -11,16 +11,8 @@
 ```csharp
 public int ParasolidCurve { get; }
 ```
-```vb
-Public ReadOnly Property ParasolidCurve As Integer
-	Get
-```
-```cpp
-public:
-property int ParasolidCurve {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

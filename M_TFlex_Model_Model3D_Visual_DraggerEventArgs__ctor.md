@@ -17,25 +17,8 @@ public DraggerEventArgs(
 	VisualEventArgsActionType action
 )
 ```
-```vb
-Public Sub New ( 
-	dragger As Dragger,
-	view As View3D,
-	x As Integer,
-	y As Integer,
-	action As VisualEventArgsActionType
-)
-```
-```cpp
-public:
-DraggerEventArgs(
-	Dragger^ dragger, 
-	View3D^ view, 
-	int x, 
-	int y, 
-	VisualEventArgsActionType action
-)
-```
+
+
 
 
 #### Параметры

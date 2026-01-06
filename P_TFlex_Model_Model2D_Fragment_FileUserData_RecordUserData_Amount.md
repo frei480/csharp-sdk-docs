@@ -11,16 +11,8 @@
 ```csharp
 public string Amount { get; }
 ```
-```vb
-Public ReadOnly Property Amount As String
-	Get
-```
-```cpp
-public:
-property String^ Amount {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Millimeter { get; }
 ```
-```vb
-Public Shared ReadOnly Property Millimeter As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Millimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

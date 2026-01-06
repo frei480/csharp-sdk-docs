@@ -14,19 +14,8 @@ public void InsertVariable(
 	VariableProperties varProps
 )
 ```
-```vb
-Public Sub InsertVariable ( 
-	pObj As Variable,
-	varProps As VariableProperties
-)
-```
-```cpp
-public:
-void InsertVariable(
-	Variable^ pObj, 
-	VariableProperties varProps
-)
-```
+
+
 
 
 #### Параметры

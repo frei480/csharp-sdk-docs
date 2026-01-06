@@ -8,13 +8,8 @@
 ```csharp
 public bool IsConnector()
 ```
-```vb
-Public Function IsConnector As Boolean
-```
-```cpp
-public:
-bool IsConnector()
-```
+
+
 
 
 #### Возвращаемое значение

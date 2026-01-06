@@ -11,12 +11,8 @@
 ```csharp
 public class FaceCurveIntersectionData
 ```
-```vb
-Public Class FaceCurveIntersectionData
-```
-```cpp
-public ref class FaceCurveIntersectionData
-```
+
+
 
 
 Тип FaceCurveIntersectionData предоставляет следующие члены.

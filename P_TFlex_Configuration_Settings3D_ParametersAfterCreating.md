@@ -8,18 +8,8 @@
 ```csharp
 public bool ParametersAfterCreating { get; set; }
 ```
-```vb
-Public Property ParametersAfterCreating As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ParametersAfterCreating {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

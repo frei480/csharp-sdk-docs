@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ParentObjects : IEnumerable<ParentObject>
 ```
-```vb
-Public NotInheritable Class ParentObjects
-	Implements IEnumerable(Of ParentObject)
-```
-```cpp
-public ref class ParentObjects sealed : IEnumerable<ParentObject^>
-```
+
+
 
 
 Тип ParentObjects предоставляет следующие члены.

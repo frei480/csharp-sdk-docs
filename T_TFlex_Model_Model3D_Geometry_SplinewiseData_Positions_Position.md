@@ -13,13 +13,8 @@
 ```csharp
 public class Position : ICloneable
 ```
-```vb
-Public Class Position
-	Implements ICloneable
-```
-```cpp
-public ref class Position : ICloneable
-```
+
+
 
 
 Тип SplinewiseDataPositionsPosition предоставляет следующие члены.

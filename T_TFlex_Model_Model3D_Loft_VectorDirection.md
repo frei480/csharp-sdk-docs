@@ -13,12 +13,8 @@
 ```csharp
 public abstract class VectorDirection
 ```
-```vb
-Public MustInherit Class VectorDirection
-```
-```cpp
-public ref class VectorDirection abstract
-```
+
+
 
 
 Тип LoftVectorDirection предоставляет следующие члены.

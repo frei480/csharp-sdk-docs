@@ -11,16 +11,8 @@ X-координата центра окружности
 ```csharp
 public double CenterX { get; }
 ```
-```vb
-Public ReadOnly Property CenterX As Double
-	Get
-```
-```cpp
-public:
-property double CenterX {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

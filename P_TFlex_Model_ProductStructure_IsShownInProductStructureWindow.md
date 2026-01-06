@@ -11,16 +11,8 @@
 ```csharp
 public bool IsShownInProductStructureWindow { get; }
 ```
-```vb
-Public ReadOnly Property IsShownInProductStructureWindow As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsShownInProductStructureWindow {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

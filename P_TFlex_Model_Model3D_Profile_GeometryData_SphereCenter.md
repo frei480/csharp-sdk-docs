@@ -11,16 +11,8 @@
 ```csharp
 public ModelPoint3D SphereCenter { get; }
 ```
-```vb
-Public ReadOnly Property SphereCenter As ModelPoint3D
-	Get
-```
-```cpp
-public:
-property ModelPoint3D^ SphereCenter {
-	ModelPoint3D^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

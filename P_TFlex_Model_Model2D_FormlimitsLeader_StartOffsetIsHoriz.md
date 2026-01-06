@@ -11,18 +11,8 @@
 ```csharp
 public bool StartOffsetIsHoriz { get; set; }
 ```
-```vb
-Public Property StartOffsetIsHoriz As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool StartOffsetIsHoriz {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public static bool TestCompatibility(
 	Path3D track
 )
 ```
-```vb
-Public Shared Function TestCompatibility ( 
-	object As LCS,
-	track As Path3D
-) As Boolean
-```
-```cpp
-public:
-static bool TestCompatibility(
-	LCS^ object, 
-	Path3D^ track
-)
-```
+
+
 
 
 #### Параметры

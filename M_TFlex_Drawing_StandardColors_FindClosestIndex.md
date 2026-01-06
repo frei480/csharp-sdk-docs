@@ -13,17 +13,8 @@ public static int FindClosestIndex(
 	Color color
 )
 ```
-```vb
-Public Shared Function FindClosestIndex ( 
-	color As Color
-) As Integer
-```
-```cpp
-public:
-static int FindClosestIndex(
-	Color color
-)
-```
+
+
 
 
 #### Параметры

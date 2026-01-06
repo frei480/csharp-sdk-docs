@@ -11,19 +11,8 @@ public static ImportedOperation CreateBSplineSurfaceConstrained(
 	BSplineSurfaceConstrainedData data
 )
 ```
-```vb
-Public Shared Function CreateBSplineSurfaceConstrained ( 
-	document As Document,
-	data As BSplineSurfaceConstrainedData
-) As ImportedOperation
-```
-```cpp
-public:
-static ImportedOperation^ CreateBSplineSurfaceConstrained(
-	Document^ document, 
-	BSplineSurfaceConstrainedData^ data
-)
-```
+
+
 
 
 #### Параметры

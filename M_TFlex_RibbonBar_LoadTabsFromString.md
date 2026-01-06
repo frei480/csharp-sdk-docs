@@ -13,17 +13,8 @@ public static void LoadTabsFromString(
 	string str
 )
 ```
-```vb
-Public Shared Sub LoadTabsFromString ( 
-	str As String
-)
-```
-```cpp
-public:
-static void LoadTabsFromString(
-	String^ str
-)
-```
+
+
 
 
 #### Параметры

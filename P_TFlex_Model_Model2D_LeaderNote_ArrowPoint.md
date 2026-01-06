@@ -11,16 +11,8 @@
 ```csharp
 public Point ArrowPoint { get; }
 ```
-```vb
-Public ReadOnly Property ArrowPoint As Point
-	Get
-```
-```cpp
-public:
-property Point ArrowPoint {
-	Point get ();
-}
-```
+
+
 
 
 #### Значение свойства

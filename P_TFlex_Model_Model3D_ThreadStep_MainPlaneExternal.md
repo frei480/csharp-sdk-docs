@@ -9,16 +9,8 @@
 ```csharp
 public double MainPlaneExternal { get; }
 ```
-```vb
-Public ReadOnly Property MainPlaneExternal As Double
-	Get
-```
-```cpp
-public:
-property double MainPlaneExternal {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

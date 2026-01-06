@@ -11,18 +11,8 @@
 ```csharp
 public string ProductStructureSchemesPath { get; set; }
 ```
-```vb
-Public Property ProductStructureSchemesPath As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ProductStructureSchemesPath {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

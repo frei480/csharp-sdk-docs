@@ -14,19 +14,8 @@ public void Rotate(
 	double angle
 )
 ```
-```vb
-Public Sub Rotate ( 
-	axis As BaseAxis,
-	angle As Double
-)
-```
-```cpp
-public:
-void Rotate(
-	BaseAxis^ axis, 
-	double angle
-)
-```
+
+
 
 
 #### Параметры

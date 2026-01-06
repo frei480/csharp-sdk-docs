@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<CheckedChangedEventArgs> CheckedChanged
 ```
-```vb
-Public Event CheckedChanged As EventHandler(Of CheckedChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<CheckedChangedEventArgs^>^ CheckedChanged {
-	void add (EventHandler<CheckedChangedEventArgs^>^ value);
-	void remove (EventHandler<CheckedChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

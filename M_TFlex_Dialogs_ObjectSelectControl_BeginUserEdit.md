@@ -13,17 +13,8 @@ public void BeginUserEdit(
 	int pos
 )
 ```
-```vb
-Public Sub BeginUserEdit ( 
-	pos As Integer
-)
-```
-```cpp
-public:
-void BeginUserEdit(
-	int pos
-)
-```
+
+
 
 
 #### Параметры

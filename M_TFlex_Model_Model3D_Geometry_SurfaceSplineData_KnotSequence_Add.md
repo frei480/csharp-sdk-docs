@@ -13,17 +13,8 @@ public void Add(
 	SurfaceSplineDataKnotSequenceKnot knot
 )
 ```
-```vb
-Public Sub Add ( 
-	knot As SurfaceSplineDataKnotSequenceKnot
-)
-```
-```cpp
-public:
-void Add(
-	SurfaceSplineDataKnotSequenceKnot^ knot
-)
-```
+
+
 
 
 #### Параметры

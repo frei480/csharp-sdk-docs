@@ -10,17 +10,8 @@ public static void Notice(
 	string message
 )
 ```
-```vb
-Public Shared Sub Notice ( 
-	message As String
-)
-```
-```cpp
-public:
-static void Notice(
-	String^ message
-)
-```
+
+
 
 
 #### Параметры

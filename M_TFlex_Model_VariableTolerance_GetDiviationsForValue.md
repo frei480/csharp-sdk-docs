@@ -12,21 +12,8 @@ public bool GetDiviationsForValue(
 	out double upper
 )
 ```
-```vb
-Public Function GetDiviationsForValue ( 
-	value As Double,
-	<OutAttribute> ByRef lower As Double,
-	<OutAttribute> ByRef upper As Double
-) As Boolean
-```
-```cpp
-public:
-bool GetDiviationsForValue(
-	double value, 
-	[OutAttribute] double% lower, 
-	[OutAttribute] double% upper
-)
-```
+
+
 
 
 #### Параметры

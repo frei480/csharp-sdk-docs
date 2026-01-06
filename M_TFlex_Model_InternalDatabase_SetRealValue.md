@@ -15,21 +15,8 @@ public bool SetRealValue(
 	double value
 )
 ```
-```vb
-Public Function SetRealValue ( 
-	column As Integer,
-	row As Integer,
-	value As Double
-) As Boolean
-```
-```cpp
-public:
-bool SetRealValue(
-	int column, 
-	int row, 
-	double value
-)
-```
+
+
 
 
 #### Параметры

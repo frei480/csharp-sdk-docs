@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool DefaultWindowsBackground { get; set; }
 ```
-```vb
-Public Overridable Property DefaultWindowsBackground As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool DefaultWindowsBackground {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

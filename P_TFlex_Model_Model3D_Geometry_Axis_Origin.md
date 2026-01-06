@@ -11,18 +11,8 @@
 ```csharp
 public BasePoint3D Origin { get; set; }
 ```
-```vb
-Public Property Origin As BasePoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property BasePoint3D^ Origin {
-	BasePoint3D^ get ();
-	void set (BasePoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class ConductorSetBase : BaseHarness3D
 ```
-```vb
-Public Class ConductorSetBase
-	Inherits BaseHarness3D
-```
-```cpp
-public ref class ConductorSetBase : public BaseHarness3D
-```
+
+
 
 
 Тип ConductorSetBase предоставляет следующие члены.

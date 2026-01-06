@@ -13,17 +13,8 @@ public ControlObjectChangedEventArgs(
 	ModelObject[] objects
 )
 ```
-```vb
-Public Sub New ( 
-	objects As ModelObject()
-)
-```
-```cpp
-public:
-ControlObjectChangedEventArgs(
-	array<ModelObject^>^ objects
-)
-```
+
+
 
 
 #### Параметры

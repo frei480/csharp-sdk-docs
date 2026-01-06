@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ImportVariables
 ```
-```vb
-Public NotInheritable Class ImportVariables
-```
-```cpp
-public ref class ImportVariables sealed
-```
+
+
 
 
 Тип ImportVariables предоставляет следующие члены.

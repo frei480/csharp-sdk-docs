@@ -11,15 +11,8 @@
 ```csharp
 public class CustomCommand : FilterOwner
 ```
-```vb
-<ExtensionAttribute>
-Public Class CustomCommand
-	Inherits FilterOwner
-```
-```cpp
-[ExtensionAttribute]
-public ref class CustomCommand : public FilterOwner
-```
+
+
 
 
 Тип CustomCommand предоставляет следующие члены.

@@ -13,19 +13,8 @@ public static ICollection<EdgeBlending> GetEdgeBlendings(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetEdgeBlendings ( 
-	document As Document
-) As ICollection(Of EdgeBlending)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<EdgeBlending^>^ GetEdgeBlendings(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

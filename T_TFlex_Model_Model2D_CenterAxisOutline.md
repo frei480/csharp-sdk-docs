@@ -13,13 +13,8 @@
 ```csharp
 public class CenterAxisOutline : Outline
 ```
-```vb
-Public Class CenterAxisOutline
-	Inherits Outline
-```
-```cpp
-public ref class CenterAxisOutline : public Outline
-```
+
+
 
 
 Тип CenterAxisOutline предоставляет следующие члены.

@@ -8,13 +8,8 @@
 ```csharp
 public void ResetConnectedSplice()
 ```
-```vb
-Public Sub ResetConnectedSplice
-```
-```cpp
-public:
-void ResetConnectedSplice()
-```
+
+
 
 
 #### Ссылки

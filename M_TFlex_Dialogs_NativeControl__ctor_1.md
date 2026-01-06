@@ -13,17 +13,8 @@ public NativeControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-NativeControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

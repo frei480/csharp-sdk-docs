@@ -8,13 +8,8 @@
 ```csharp
 public string GetFullFilePath()
 ```
-```vb
-Public Function GetFullFilePath As String
-```
-```cpp
-public:
-String^ GetFullFilePath()
-```
+
+
 
 
 #### Возвращаемое значение

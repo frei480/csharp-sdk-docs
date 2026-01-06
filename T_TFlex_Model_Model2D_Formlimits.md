@@ -13,15 +13,8 @@
 ```csharp
 public class Formlimits : Object2D, IModelObjectWithLayer
 ```
-```vb
-Public Class Formlimits
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class Formlimits : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип Formlimits предоставляет следующие члены.

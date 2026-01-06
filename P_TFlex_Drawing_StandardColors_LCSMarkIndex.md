@@ -11,16 +11,8 @@
 ```csharp
 public static int LCSMarkIndex { get; }
 ```
-```vb
-Public Shared ReadOnly Property LCSMarkIndex As Integer
-	Get
-```
-```cpp
-public:
-static property int LCSMarkIndex {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public BaseCreatePrototypesParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-BaseCreatePrototypesParameters()
-```
+
+
 
 
 #### Ссылки

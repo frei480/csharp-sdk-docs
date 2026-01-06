@@ -13,17 +13,8 @@ public void Explode(
 	bool GroupObjects
 )
 ```
-```vb
-Public Sub Explode ( 
-	GroupObjects As Boolean
-)
-```
-```cpp
-public:
-void Explode(
-	bool GroupObjects
-)
-```
+
+
 
 
 #### Параметры

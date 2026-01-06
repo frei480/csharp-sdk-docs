@@ -13,12 +13,8 @@
 ```csharp
 public class InsertObjectOptions
 ```
-```vb
-Public Class InsertObjectOptions
-```
-```cpp
-public ref class InsertObjectOptions
-```
+
+
 
 
 Тип RichTextInsertObjectOptions предоставляет следующие члены.

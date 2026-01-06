@@ -11,18 +11,8 @@
 ```csharp
 public bool Transparent { get; set; }
 ```
-```vb
-Public Property Transparent As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Transparent {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

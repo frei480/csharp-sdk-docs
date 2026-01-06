@@ -15,21 +15,8 @@ public void SetProfileU(
 	bool orient
 )
 ```
-```vb
-Public Sub SetProfileU ( 
-	prf As BaseBody,
-	num As Integer,
-	orient As Boolean
-)
-```
-```cpp
-public:
-void SetProfileU(
-	BaseBody^ prf, 
-	int num, 
-	bool orient
-)
-```
+
+
 
 
 #### Параметры

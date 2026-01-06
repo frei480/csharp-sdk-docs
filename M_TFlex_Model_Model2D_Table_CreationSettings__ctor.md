@@ -14,19 +14,8 @@ public CreationSettings(
 	uint r
 )
 ```
-```vb
-Public Sub New ( 
-	c As UInteger,
-	r As UInteger
-)
-```
-```cpp
-public:
-CreationSettings(
-	unsigned int c, 
-	unsigned int r
-)
-```
+
+
 
 
 #### Параметры

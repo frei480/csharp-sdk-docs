@@ -14,19 +14,8 @@ public void SetThicken(
 	double BackOffset
 )
 ```
-```vb
-Public Sub SetThicken ( 
-	FrontOffset As Double,
-	BackOffset As Double
-)
-```
-```cpp
-public:
-void SetThicken(
-	double FrontOffset, 
-	double BackOffset
-)
-```
+
+
 
 
 #### Параметры

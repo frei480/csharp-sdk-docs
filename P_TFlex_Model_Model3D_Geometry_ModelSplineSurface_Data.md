@@ -11,16 +11,8 @@
 ```csharp
 public virtual SurfaceSplineData Data { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Data As SurfaceSplineData
-	Get
-```
-```cpp
-public:
-virtual property SurfaceSplineData^ Data {
-	SurfaceSplineData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

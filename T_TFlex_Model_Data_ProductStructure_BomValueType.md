@@ -8,12 +8,8 @@
 ```csharp
 public enum BomValueType
 ```
-```vb
-Public Enumeration BomValueType
-```
-```cpp
-public enum class BomValueType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,16 +11,8 @@
 ```csharp
 public int StateIconId { get; }
 ```
-```vb
-Public ReadOnly Property StateIconId As Integer
-	Get
-```
-```cpp
-public:
-property int StateIconId {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

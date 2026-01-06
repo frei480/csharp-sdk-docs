@@ -10,17 +10,8 @@ public void Assign(
 	SnapInfo source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As SnapInfo
-)
-```
-```cpp
-public:
-void Assign(
-	SnapInfo^ source
-)
-```
+
+
 
 
 #### Параметры

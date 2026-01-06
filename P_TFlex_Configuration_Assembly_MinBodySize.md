@@ -8,18 +8,8 @@
 ```csharp
 public double MinBodySize { get; set; }
 ```
-```vb
-Public Property MinBodySize As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double MinBodySize {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

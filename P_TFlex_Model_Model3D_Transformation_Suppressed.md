@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Suppressed { get; set; }
 ```
-```vb
-Public Property Suppressed As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Suppressed {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

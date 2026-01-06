@@ -11,12 +11,8 @@
 ```csharp
 public enum SelectableGeometryType
 ```
-```vb
-Public Enumeration SelectableGeometryType
-```
-```cpp
-public enum class SelectableGeometryType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

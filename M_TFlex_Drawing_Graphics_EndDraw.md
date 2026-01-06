@@ -11,13 +11,8 @@
 ```csharp
 public void EndDraw()
 ```
-```vb
-Public Sub EndDraw
-```
-```cpp
-public:
-void EndDraw()
-```
+
+
 
 
 Данную функцию необходимо вызвать после завершения вывода изображения с использованием функций данного класса. До начала необходимо вызвать метод [BeginDraw](M_TFlex_Drawing_Graphics_BeginDraw.md)

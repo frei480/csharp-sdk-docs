@@ -8,16 +8,8 @@
 ```csharp
 public TerminalPoint FirstVertexTerminalPoint { get; }
 ```
-```vb
-Public ReadOnly Property FirstVertexTerminalPoint As TerminalPoint
-	Get
-```
-```cpp
-public:
-property TerminalPoint^ FirstVertexTerminalPoint {
-	TerminalPoint^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,12 +13,8 @@
 ```csharp
 public class PickPointEventArgs
 ```
-```vb
-Public Class PickPointEventArgs
-```
-```cpp
-public ref class PickPointEventArgs
-```
+
+
 
 
 Тип PickPointEventArgs предоставляет следующие члены.

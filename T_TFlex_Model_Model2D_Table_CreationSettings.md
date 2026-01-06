@@ -13,12 +13,8 @@
 ```csharp
 public struct CreationSettings
 ```
-```vb
-Public Structure CreationSettings
-```
-```cpp
-public value class CreationSettings
-```
+
+
 
 
 Тип TableCreationSettings предоставляет следующие члены.

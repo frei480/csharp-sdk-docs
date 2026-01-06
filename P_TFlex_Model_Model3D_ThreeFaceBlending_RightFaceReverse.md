@@ -11,18 +11,8 @@
 ```csharp
 public ThreeFaceBlendingFaceReverseType RightFaceReverse { get; set; }
 ```
-```vb
-Public Property RightFaceReverse As ThreeFaceBlendingFaceReverseType
-	Get
-	Set
-```
-```cpp
-public:
-property ThreeFaceBlendingFaceReverseType RightFaceReverse {
-	ThreeFaceBlendingFaceReverseType get ();
-	void set (ThreeFaceBlendingFaceReverseType value);
-}
-```
+
+
 
 
 #### Значение свойства

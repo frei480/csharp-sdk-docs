@@ -11,13 +11,8 @@
 ```csharp
 public string FontName
 ```
-```vb
-Public FontName As String
-```
-```cpp
-public:
-String^ FontName
-```
+
+
 
 
 #### Значение поля

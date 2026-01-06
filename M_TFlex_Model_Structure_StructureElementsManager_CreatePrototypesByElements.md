@@ -10,17 +10,8 @@ public CreatePrototypesResult CreatePrototypesByElements(
 	CreatePrototypesInSerializedParameters parameters
 )
 ```
-```vb
-Public Function CreatePrototypesByElements ( 
-	parameters As CreatePrototypesInSerializedParameters
-) As CreatePrototypesResult
-```
-```cpp
-public:
-CreatePrototypesResult^ CreatePrototypesByElements(
-	CreatePrototypesInSerializedParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

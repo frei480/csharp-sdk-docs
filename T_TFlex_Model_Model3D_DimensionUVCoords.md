@@ -13,12 +13,8 @@
 ```csharp
 public class DimensionUVCoords
 ```
-```vb
-Public Class DimensionUVCoords
-```
-```cpp
-public ref class DimensionUVCoords
-```
+
+
 
 
 Тип DimensionUVCoords предоставляет следующие члены.

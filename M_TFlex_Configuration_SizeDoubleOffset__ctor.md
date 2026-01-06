@@ -11,13 +11,8 @@
 ```csharp
 public SizeDoubleOffset()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SizeDoubleOffset()
-```
+
+
 
 
 #### Ссылки

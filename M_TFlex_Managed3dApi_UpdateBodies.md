@@ -10,17 +10,8 @@ public virtual void UpdateBodies(
 	IntPtr document
 )
 ```
-```vb
-Public Overridable Sub UpdateBodies ( 
-	document As IntPtr
-)
-```
-```cpp
-public:
-virtual void UpdateBodies(
-	IntPtr document
-)
-```
+
+
 
 
 #### Параметры

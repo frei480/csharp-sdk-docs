@@ -11,16 +11,8 @@
 ```csharp
 public FaceCurveIntersectionType IntersectionType { get; }
 ```
-```vb
-Public ReadOnly Property IntersectionType As FaceCurveIntersectionType
-	Get
-```
-```cpp
-public:
-property FaceCurveIntersectionType IntersectionType {
-	FaceCurveIntersectionType get ();
-}
-```
+
+
 
 
 #### Значение свойства

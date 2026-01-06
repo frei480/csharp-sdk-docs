@@ -11,13 +11,8 @@
 ```csharp
 public void DeleteAllBreaks()
 ```
-```vb
-Public Sub DeleteAllBreaks
-```
-```cpp
-public:
-void DeleteAllBreaks()
-```
+
+
 
 
 #### Ссылки

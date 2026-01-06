@@ -13,17 +13,8 @@ public Parameter(
 	Variable var
 )
 ```
-```vb
-Public Sub New ( 
-	var As Variable
-)
-```
-```cpp
-public:
-Parameter(
-	Variable^ var
-)
-```
+
+
 
 
 #### Параметры

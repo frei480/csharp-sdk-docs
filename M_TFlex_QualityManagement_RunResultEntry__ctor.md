@@ -11,13 +11,8 @@
 ```csharp
 public RunResultEntry()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RunResultEntry()
-```
+
+
 
 
 #### Ссылки

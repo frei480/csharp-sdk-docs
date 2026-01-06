@@ -11,12 +11,8 @@
 ```csharp
 public interface IModelObjectWithLayer
 ```
-```vb
-Public Interface IModelObjectWithLayer
-```
-```cpp
-public interface class IModelObjectWithLayer
-```
+
+
 
 
 Тип IModelObjectWithLayer предоставляет следующие члены.

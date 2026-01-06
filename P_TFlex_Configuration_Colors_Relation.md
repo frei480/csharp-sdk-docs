@@ -8,18 +8,8 @@
 ```csharp
 public int Relation { get; set; }
 ```
-```vb
-Public Property Relation As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int Relation {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

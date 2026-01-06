@@ -16,23 +16,8 @@ public CircleConstruction(
 	Construction secondTangentPolyline
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	centerPoint As Point,
-	firstTangentPolyline As Construction,
-	secondTangentPolyline As Construction
-)
-```
-```cpp
-public:
-CircleConstruction(
-	Document^ document, 
-	Point centerPoint, 
-	Construction^ firstTangentPolyline, 
-	Construction^ secondTangentPolyline
-)
-```
+
+
 
 
 #### Параметры

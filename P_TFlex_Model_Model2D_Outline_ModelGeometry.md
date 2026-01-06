@@ -11,16 +11,8 @@
 ```csharp
 public ObjectGeometry ModelGeometry { get; }
 ```
-```vb
-Public ReadOnly Property ModelGeometry As ObjectGeometry
-	Get
-```
-```cpp
-public:
-property ObjectGeometry^ ModelGeometry {
-	ObjectGeometry^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

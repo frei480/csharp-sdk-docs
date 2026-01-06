@@ -11,12 +11,8 @@
 ```csharp
 public enum ExtensionType
 ```
-```vb
-Public Enumeration ExtensionType
-```
-```cpp
-public enum class ExtensionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -14,19 +14,8 @@ protected bool AddAxis(
 	BaseAxis axis
 )
 ```
-```vb
-Protected Function AddAxis ( 
-	index As Integer,
-	axis As BaseAxis
-) As Boolean
-```
-```cpp
-protected:
-bool AddAxis(
-	int index, 
-	BaseAxis^ axis
-)
-```
+
+
 
 
 #### Параметры

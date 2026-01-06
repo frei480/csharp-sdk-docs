@@ -8,16 +8,8 @@
 ```csharp
 public Point End { get; }
 ```
-```vb
-Public ReadOnly Property End As Point
-	Get
-```
-```cpp
-public:
-property Point End {
-	Point get ();
-}
-```
+
+
 
 
 #### Значение свойства

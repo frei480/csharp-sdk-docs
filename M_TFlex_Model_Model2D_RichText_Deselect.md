@@ -11,13 +11,8 @@
 ```csharp
 public void Deselect()
 ```
-```vb
-Public Sub Deselect
-```
-```cpp
-public:
-void Deselect()
-```
+
+
 
 
 Курсор будет находиться там, где был конец выделенного фрагмента

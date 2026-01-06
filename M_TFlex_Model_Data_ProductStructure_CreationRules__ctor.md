@@ -11,13 +11,8 @@
 ```csharp
 public CreationRules()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CreationRules()
-```
+
+
 
 
 #### Ссылки

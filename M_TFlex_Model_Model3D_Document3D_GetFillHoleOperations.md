@@ -13,19 +13,8 @@ public static ICollection<FillHoleOperation> GetFillHoleOperations(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetFillHoleOperations ( 
-	document As Document
-) As ICollection(Of FillHoleOperation)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<FillHoleOperation^>^ GetFillHoleOperations(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public ProductType Product { get; set; }
 ```
-```vb
-Public Property Product As ProductType
-	Get
-	Set
-```
-```cpp
-public:
-property ProductType Product {
-	ProductType get ();
-	void set (ProductType value);
-}
-```
+
+
 
 
 #### Значение свойства

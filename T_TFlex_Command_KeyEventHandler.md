@@ -14,18 +14,8 @@ public delegate void KeyEventHandler(
 	KeyEventArgs e
 )
 ```
-```vb
-Public Delegate Sub KeyEventHandler ( 
-	sender As Object,
-	e As KeyEventArgs
-)
-```
-```cpp
-public delegate void KeyEventHandler(
-	Object^ sender, 
-	KeyEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

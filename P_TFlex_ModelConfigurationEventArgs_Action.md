@@ -11,16 +11,8 @@
 ```csharp
 public ModelConfigurationEventArgsActionType Action { get; }
 ```
-```vb
-Public ReadOnly Property Action As ModelConfigurationEventArgsActionType
-	Get
-```
-```cpp
-public:
-property ModelConfigurationEventArgsActionType Action {
-	ModelConfigurationEventArgsActionType get ();
-}
-```
+
+
 
 
 #### Значение свойства

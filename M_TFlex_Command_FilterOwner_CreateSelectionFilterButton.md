@@ -14,19 +14,8 @@ protected SelectionFilterButton CreateSelectionFilterButton(
 	string toolTip
 )
 ```
-```vb
-Protected Function CreateSelectionFilterButton ( 
-	iconId As Guid,
-	toolTip As String
-) As SelectionFilterButton
-```
-```cpp
-protected:
-SelectionFilterButton^ CreateSelectionFilterButton(
-	Guid iconId, 
-	String^ toolTip
-)
-```
+
+
 
 
 #### Параметры

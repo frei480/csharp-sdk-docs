@@ -11,18 +11,8 @@
 ```csharp
 public string EndPart { get; set; }
 ```
-```vb
-Public Property EndPart As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ EndPart {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

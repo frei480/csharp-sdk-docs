@@ -10,17 +10,8 @@ protected virtual void CanTransform(
 	ProxyObject2DTransformContext Context
 )
 ```
-```vb
-Protected Overridable Sub CanTransform ( 
-	Context As ProxyObject2DTransformContext
-)
-```
-```cpp
-protected:
-virtual void CanTransform(
-	ProxyObject2DTransformContext^ Context
-)
-```
+
+
 
 
 #### Параметры

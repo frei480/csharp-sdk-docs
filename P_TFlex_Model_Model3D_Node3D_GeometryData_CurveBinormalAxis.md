@@ -11,16 +11,8 @@
 ```csharp
 public ModelAxis CurveBinormalAxis { get; }
 ```
-```vb
-Public ReadOnly Property CurveBinormalAxis As ModelAxis
-	Get
-```
-```cpp
-public:
-property ModelAxis^ CurveBinormalAxis {
-	ModelAxis^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

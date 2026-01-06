@@ -11,12 +11,8 @@
 ```csharp
 public enum TransformationCoordinate
 ```
-```vb
-Public Enumeration TransformationCoordinate
-```
-```cpp
-public enum class TransformationCoordinate
-```
+
+
 
 
 | Имя члена | Значение | Описание |

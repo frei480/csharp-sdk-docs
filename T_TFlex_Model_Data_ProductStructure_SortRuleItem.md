@@ -11,13 +11,8 @@
 ```csharp
 public class SortRuleItem : ICloneable
 ```
-```vb
-Public Class SortRuleItem
-	Implements ICloneable
-```
-```cpp
-public ref class SortRuleItem : ICloneable
-```
+
+
 
 
 Тип SortRuleItem предоставляет следующие члены.

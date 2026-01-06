@@ -11,18 +11,8 @@
 ```csharp
 public Node FirstNode { get; set; }
 ```
-```vb
-Public Property FirstNode As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ FirstNode {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -12,21 +12,8 @@ public static Point3D Rotate(
 	double angle
 )
 ```
-```vb
-Public Shared Function Rotate ( 
-	point As BasePoint3D,
-	direction As BaseDirection,
-	angle As Double
-) As Point3D
-```
-```cpp
-public:
-static Point3D^ Rotate(
-	BasePoint3D^ point, 
-	BaseDirection^ direction, 
-	double angle
-)
-```
+
+
 
 
 #### Параметры

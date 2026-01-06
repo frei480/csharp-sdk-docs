@@ -11,18 +11,8 @@
 ```csharp
 public bool CreateTangentEdges { get; set; }
 ```
-```vb
-Public Property CreateTangentEdges As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CreateTangentEdges {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

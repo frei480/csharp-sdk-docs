@@ -12,21 +12,8 @@ public TerminalPoint CreateTerminalPoint(
 	Parameter offset
 )
 ```
-```vb
-Public Function CreateTerminalPoint ( 
-	segment As Segment,
-	sense As Boolean,
-	offset As Parameter
-) As TerminalPoint
-```
-```cpp
-public:
-TerminalPoint^ CreateTerminalPoint(
-	Segment^ segment, 
-	bool sense, 
-	Parameter^ offset
-)
-```
+
+
 
 
 #### Параметры

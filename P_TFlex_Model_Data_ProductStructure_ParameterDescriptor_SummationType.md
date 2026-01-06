@@ -8,18 +8,8 @@
 ```csharp
 public ParameterSummationType SummationType { get; set; }
 ```
-```vb
-Public Property SummationType As ParameterSummationType
-	Get
-	Set
-```
-```cpp
-public:
-property ParameterSummationType SummationType {
-	ParameterSummationType get ();
-	void set (ParameterSummationType value);
-}
-```
+
+
 
 
 #### Значение свойства

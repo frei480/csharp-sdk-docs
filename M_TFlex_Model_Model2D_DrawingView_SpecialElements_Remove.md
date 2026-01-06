@@ -13,17 +13,8 @@ public void Remove(
 	DrawingViewSpecialElement specialElement
 )
 ```
-```vb
-Public Sub Remove ( 
-	specialElement As DrawingViewSpecialElement
-)
-```
-```cpp
-public:
-void Remove(
-	DrawingViewSpecialElement^ specialElement
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public Table CreateTable(
 	TableCreationSettings settings
 )
 ```
-```vb
-Public Function CreateTable ( 
-	position As UInteger,
-	settings As TableCreationSettings
-) As Table
-```
-```cpp
-public:
-Table CreateTable(
-	unsigned int position, 
-	TableCreationSettings settings
-)
-```
+
+
 
 
 #### Параметры

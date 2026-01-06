@@ -13,13 +13,8 @@
 ```csharp
 public class MaterialLibrary : IDisposable
 ```
-```vb
-Public Class MaterialLibrary
-	Implements IDisposable
-```
-```cpp
-public ref class MaterialLibrary : IDisposable
-```
+
+
 
 
 Тип MaterialLibrary предоставляет следующие члены.

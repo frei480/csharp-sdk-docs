@@ -15,21 +15,8 @@ public void SetParallelTangentToEllipse(
 	int variant
 )
 ```
-```vb
-Public Sub SetParallelTangentToEllipse ( 
-	srcLine As Construction,
-	srcEllipse As Construction,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetParallelTangentToEllipse(
-	Construction^ srcLine, 
-	Construction^ srcEllipse, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

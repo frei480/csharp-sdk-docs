@@ -13,13 +13,8 @@
 ```csharp
 public class WireGeometryProfile : Profile
 ```
-```vb
-Public Class WireGeometryProfile
-	Inherits Profile
-```
-```cpp
-public ref class WireGeometryProfile : public Profile
-```
+
+
 
 
 Тип WireGeometryProfile предоставляет следующие члены.

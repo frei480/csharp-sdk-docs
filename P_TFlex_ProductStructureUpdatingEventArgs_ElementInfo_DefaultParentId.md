@@ -8,16 +8,8 @@
 ```csharp
 public static string DefaultParentId { get; }
 ```
-```vb
-Public Shared ReadOnly Property DefaultParentId As String
-	Get
-```
-```cpp
-public:
-static property String^ DefaultParentId {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

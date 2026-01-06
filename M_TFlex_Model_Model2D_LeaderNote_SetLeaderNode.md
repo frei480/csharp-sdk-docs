@@ -15,21 +15,8 @@ public void SetLeaderNode(
 	Parameter dY
 )
 ```
-```vb
-Public Sub SetLeaderNode ( 
-	nod As Node,
-	dX As Parameter,
-	dY As Parameter
-)
-```
-```cpp
-public:
-void SetLeaderNode(
-	Node^ nod, 
-	Parameter^ dX, 
-	Parameter^ dY
-)
-```
+
+
 
 
 #### Параметры

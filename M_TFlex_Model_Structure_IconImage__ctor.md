@@ -13,17 +13,8 @@ public IconImage(
 	Icon icon
 )
 ```
-```vb
-Public Sub New ( 
-	icon As Icon
-)
-```
-```cpp
-public:
-IconImage(
-	Icon^ icon
-)
-```
+
+
 
 
 #### Параметры

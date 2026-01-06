@@ -8,13 +8,8 @@
 ```csharp
 public void LoadOptionsFromEngine()
 ```
-```vb
-Public Sub LoadOptionsFromEngine
-```
-```cpp
-public:
-void LoadOptionsFromEngine()
-```
+
+
 
 
 #### Ссылки

@@ -8,16 +8,8 @@
 ```csharp
 public IEnumerable<ModelAxis> Axes { get; }
 ```
-```vb
-Public ReadOnly Property Axes As IEnumerable(Of ModelAxis)
-	Get
-```
-```cpp
-public:
-property IEnumerable<ModelAxis^>^ Axes {
-	IEnumerable<ModelAxis^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public virtual SplinewiseData Splinewise { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Splinewise As SplinewiseData
-	Get
-```
-```cpp
-public:
-virtual property SplinewiseData^ Splinewise {
-	SplinewiseData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

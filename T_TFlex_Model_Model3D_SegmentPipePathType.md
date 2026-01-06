@@ -11,12 +11,8 @@
 ```csharp
 public enum SegmentPipePathType
 ```
-```vb
-Public Enumeration SegmentPipePathType
-```
-```cpp
-public enum class SegmentPipePathType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,13 +11,8 @@
 ```csharp
 public Group()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Group()
-```
+
+
 
 
 #### Ссылки

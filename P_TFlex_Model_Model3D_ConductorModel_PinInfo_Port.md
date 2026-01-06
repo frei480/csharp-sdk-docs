@@ -8,18 +8,8 @@
 ```csharp
 public int Port { get; set; }
 ```
-```vb
-Public Property Port As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int Port {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

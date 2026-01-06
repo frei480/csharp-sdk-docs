@@ -10,16 +10,8 @@ Object GetWpfPropsControl(
 	ReportEditPropertiesContext editContext
 )
 ```
-```vb
-Function GetWpfPropsControl ( 
-	editContext As ReportEditPropertiesContext
-) As Object
-```
-```cpp
-Object^ GetWpfPropsControl(
-	ReportEditPropertiesContext^ editContext
-)
-```
+
+
 
 
 #### Параметры

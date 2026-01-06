@@ -13,17 +13,8 @@ public void AppendSystemCommand(
 	int CommandID
 )
 ```
-```vb
-Public Sub AppendSystemCommand ( 
-	CommandID As Integer
-)
-```
-```cpp
-public:
-void AppendSystemCommand(
-	int CommandID
-)
-```
+
+
 
 
 #### Параметры

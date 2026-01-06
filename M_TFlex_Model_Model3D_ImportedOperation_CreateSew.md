@@ -14,25 +14,8 @@ public static ImportedOperation CreateSew(
 	ref List<int> exclude
 )
 ```
-```vb
-Public Shared Function CreateSew ( 
-	document As Document,
-	operations As List(Of Operation),
-	gap_width_bound As Double,
-	solid As Boolean,
-	ByRef exclude As List(Of Integer)
-) As ImportedOperation
-```
-```cpp
-public:
-static ImportedOperation^ CreateSew(
-	Document^ document, 
-	List<Operation^>^ operations, 
-	double gap_width_bound, 
-	bool solid, 
-	List<int>^% exclude
-)
-```
+
+
 
 
 #### Параметры

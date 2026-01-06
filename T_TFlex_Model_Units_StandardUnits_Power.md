@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Power
 ```
-```vb
-Public NotInheritable Class Power
-```
-```cpp
-public ref class Power sealed
-```
+
+
 
 
 Тип StandardUnitsPower предоставляет следующие члены.

@@ -8,12 +8,8 @@
 ```csharp
 public enum BooleanTypes
 ```
-```vb
-Public Enumeration BooleanTypes
-```
-```cpp
-public enum class BooleanTypes
-```
+
+
 
 
 | Имя члена | Значение | Описание |

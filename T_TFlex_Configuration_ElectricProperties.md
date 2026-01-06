@@ -11,13 +11,8 @@
 ```csharp
 public class ElectricProperties : SettingsGroup
 ```
-```vb
-Public Class ElectricProperties
-	Inherits SettingsGroup
-```
-```cpp
-public ref class ElectricProperties : public SettingsGroup
-```
+
+
 
 
 Тип ElectricProperties предоставляет следующие члены.

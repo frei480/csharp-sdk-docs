@@ -11,14 +11,8 @@
 ```csharp
 public class Collection : INotifyCollectionChanged, IEnumerable
 ```
-```vb
-Public Class Collection
-	Implements INotifyCollectionChanged, IEnumerable
-```
-```cpp
-public ref class Collection : INotifyCollectionChanged, 
-	IEnumerable
-```
+
+
 
 
 Тип Collection предоставляет следующие члены.

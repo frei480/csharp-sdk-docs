@@ -13,23 +13,8 @@ public static void CreateBaseDimensions(
 	List<LinearDimension3D> CreatedDimensions
 )
 ```
-```vb
-Public Shared Sub CreateBaseDimensions ( 
-	Coords As DimensionUVCoords,
-	Elements As List(Of DimensionsChainElement),
-	Plane As Object3D,
-	CreatedDimensions As List(Of LinearDimension3D)
-)
-```
-```cpp
-public:
-static void CreateBaseDimensions(
-	DimensionUVCoords^ Coords, 
-	List<DimensionsChainElement>^ Elements, 
-	Object3D^ Plane, 
-	List<LinearDimension3D^>^ CreatedDimensions
-)
-```
+
+
 
 
 #### Параметры

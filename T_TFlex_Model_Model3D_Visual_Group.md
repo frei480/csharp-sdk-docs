@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Group : SceneNode
 ```
-```vb
-Public MustInherit Class Group
-	Inherits SceneNode
-```
-```cpp
-public ref class Group abstract : public SceneNode
-```
+
+
 
 
 Тип Group предоставляет следующие члены.

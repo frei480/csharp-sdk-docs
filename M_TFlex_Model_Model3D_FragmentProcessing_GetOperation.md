@@ -10,17 +10,8 @@ public Operation GetOperation(
 	uint index
 )
 ```
-```vb
-Public Function GetOperation ( 
-	index As UInteger
-) As Operation
-```
-```cpp
-public:
-Operation^ GetOperation(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetBodyObjectID' method.")]
 public int ParentBodyID { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetBodyObjectID' method.")>
-Public ReadOnly Property ParentBodyID As Integer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetBodyObjectID' method.")]
-property int ParentBodyID {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

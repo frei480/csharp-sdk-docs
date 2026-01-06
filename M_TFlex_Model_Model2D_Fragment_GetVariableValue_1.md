@@ -15,21 +15,8 @@ public FragmentVariableValue GetVariableValue(
 	bool onlyExternal
 )
 ```
-```vb
-Public Function GetVariableValue ( 
-	name As String,
-	forSet As Boolean,
-	onlyExternal As Boolean
-) As FragmentVariableValue
-```
-```cpp
-public:
-FragmentVariableValue^ GetVariableValue(
-	String^ name, 
-	bool forSet, 
-	bool onlyExternal
-)
-```
+
+
 
 
 #### Параметры

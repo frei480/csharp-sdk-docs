@@ -11,16 +11,8 @@
 ```csharp
 public GuidePathParametricCoords AxisY { get; }
 ```
-```vb
-Public ReadOnly Property AxisY As GuidePathParametricCoords
-	Get
-```
-```cpp
-public:
-property GuidePathParametricCoords^ AxisY {
-	GuidePathParametricCoords^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void SetSelection(
 	Position position
 )
 ```
-```vb
-Public Sub SetSelection ( 
-	position As Position
-)
-```
-```cpp
-public:
-void SetSelection(
-	Position position
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public Polyline GeometryAsPolyline { get; }
 ```
-```vb
-Public ReadOnly Property GeometryAsPolyline As Polyline
-	Get
-```
-```cpp
-public:
-property Polyline^ GeometryAsPolyline {
-	Polyline^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

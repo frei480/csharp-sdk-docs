@@ -11,16 +11,8 @@ System::Guid плагина
 ```csharp
 public Guid PluginGuid { get; }
 ```
-```vb
-Public ReadOnly Property PluginGuid As Guid
-	Get
-```
-```cpp
-public:
-property Guid PluginGuid {
-	Guid get ();
-}
-```
+
+
 
 
 #### Значение свойства

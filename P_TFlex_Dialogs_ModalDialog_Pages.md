@@ -11,16 +11,8 @@
 ```csharp
 public IList<ModalDialogPage> Pages { get; }
 ```
-```vb
-Public ReadOnly Property Pages As IList(Of ModalDialogPage)
-	Get
-```
-```cpp
-public:
-property IList<ModalDialogPage^>^ Pages {
-	IList<ModalDialogPage^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 protected virtual void OnExited()
 ```
-```vb
-Protected Overridable Sub OnExited
-```
-```cpp
-protected:
-virtual void OnExited()
-```
+
+
 
 
 #### Ссылки

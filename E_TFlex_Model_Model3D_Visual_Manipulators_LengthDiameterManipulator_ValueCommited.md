@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<LengthDiameterManipulatorValueCommitedEventArgs> ValueCommited
 ```
-```vb
-Public Event ValueCommited As EventHandler(Of LengthDiameterManipulatorValueCommitedEventArgs)
-```
-```cpp
-public:
- event EventHandler<LengthDiameterManipulatorValueCommitedEventArgs^>^ ValueCommited {
-	void add (EventHandler<LengthDiameterManipulatorValueCommitedEventArgs^>^ value);
-	void remove (EventHandler<LengthDiameterManipulatorValueCommitedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

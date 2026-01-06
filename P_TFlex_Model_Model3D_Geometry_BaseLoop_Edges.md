@@ -11,15 +11,8 @@
 ```csharp
 BaseEdges Edges { get; }
 ```
-```vb
-ReadOnly Property Edges As BaseEdges
-	Get
-```
-```cpp
-property BaseEdges^ Edges {
-	BaseEdges^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

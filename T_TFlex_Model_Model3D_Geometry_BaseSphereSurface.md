@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseSphereSurface
 ```
-```vb
-Public Interface BaseSphereSurface
-```
-```cpp
-public interface class BaseSphereSurface
-```
+
+
 
 
 Тип BaseSphereSurface предоставляет следующие члены.

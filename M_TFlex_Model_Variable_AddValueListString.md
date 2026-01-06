@@ -13,17 +13,8 @@ public int AddValueListString(
 	string str
 )
 ```
-```vb
-Public Function AddValueListString ( 
-	str As String
-) As Integer
-```
-```cpp
-public:
-int AddValueListString(
-	String^ str
-)
-```
+
+
 
 
 #### Параметры

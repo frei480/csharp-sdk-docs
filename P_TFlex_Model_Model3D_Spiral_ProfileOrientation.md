@@ -11,18 +11,8 @@
 ```csharp
 public SpiralProfileOrientationType ProfileOrientation { get; set; }
 ```
-```vb
-Public Property ProfileOrientation As SpiralProfileOrientationType
-	Get
-	Set
-```
-```cpp
-public:
-property SpiralProfileOrientationType ProfileOrientation {
-	SpiralProfileOrientationType get ();
-	void set (SpiralProfileOrientationType value);
-}
-```
+
+
 
 
 #### Значение свойства

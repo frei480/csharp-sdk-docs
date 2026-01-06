@@ -13,13 +13,8 @@
 ```csharp
 public class AreaProfile : Profile
 ```
-```vb
-Public Class AreaProfile
-	Inherits Profile
-```
-```cpp
-public ref class AreaProfile : public Profile
-```
+
+
 
 
 Тип AreaProfile предоставляет следующие члены.

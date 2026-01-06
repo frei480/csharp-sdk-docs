@@ -11,18 +11,8 @@
 ```csharp
 public ProjectionClass ProjectionClass { get; set; }
 ```
-```vb
-Public Property ProjectionClass As ProjectionClass
-	Get
-	Set
-```
-```cpp
-public:
-property ProjectionClass ProjectionClass {
-	ProjectionClass get ();
-	void set (ProjectionClass value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public static string FindPathName(
 	string directoryName
 )
 ```
-```vb
-Public Shared Function FindPathName ( 
-	fileName As String,
-	directoryName As String
-) As String
-```
-```cpp
-public:
-static String^ FindPathName(
-	String^ fileName, 
-	String^ directoryName
-)
-```
+
+
 
 
 #### Параметры

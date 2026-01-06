@@ -11,18 +11,8 @@
 ```csharp
 public Uri Uri { get; set; }
 ```
-```vb
-Public Property Uri As Uri
-	Get
-	Set
-```
-```cpp
-public:
-property Uri^ Uri {
-	Uri^ get ();
-	void set (Uri^ value);
-}
-```
+
+
 
 
 #### Значение свойства

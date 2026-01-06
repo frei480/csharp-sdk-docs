@@ -8,12 +8,8 @@
 ```csharp
 public enum SelectSide
 ```
-```vb
-Public Enumeration SelectSide
-```
-```cpp
-public enum class SelectSide
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,17 +13,8 @@ public string GetUserFieldValue(
 	string fieldName
 )
 ```
-```vb
-Public Function GetUserFieldValue ( 
-	fieldName As String
-) As String
-```
-```cpp
-public:
-String^ GetUserFieldValue(
-	String^ fieldName
-)
-```
+
+
 
 
 #### Параметры

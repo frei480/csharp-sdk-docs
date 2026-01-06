@@ -11,18 +11,8 @@
 ```csharp
 public double FontInterval { get; set; }
 ```
-```vb
-Public Property FontInterval As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double FontInterval {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

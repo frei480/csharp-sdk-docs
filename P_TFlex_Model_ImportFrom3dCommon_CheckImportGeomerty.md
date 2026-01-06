@@ -11,18 +11,8 @@
 ```csharp
 public bool CheckImportGeomerty { get; set; }
 ```
-```vb
-Public Property CheckImportGeomerty As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CheckImportGeomerty {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

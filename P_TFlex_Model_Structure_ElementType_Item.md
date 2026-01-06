@@ -10,18 +10,8 @@ public TypeValue this[
 	Guid parameterId
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	parameterId As Guid
-) As TypeValue
-	Get
-```
-```cpp
-public:
-property TypeValue^ default[Guid parameterId] {
-	TypeValue^ get (Guid parameterId);
-}
-```
+
+
 
 
 #### Параметры

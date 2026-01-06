@@ -14,19 +14,8 @@ public static Constraint CreateFixedLength(
 	Object2D iObject
 )
 ```
-```vb
-Public Shared Function CreateFixedLength ( 
-	iDoc As Document,
-	iObject As Object2D
-) As Constraint
-```
-```cpp
-public:
-static Constraint^ CreateFixedLength(
-	Document^ iDoc, 
-	Object2D^ iObject
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class SheetFromFaces : BodyGenerator
 ```
-```vb
-Public Class SheetFromFaces
-	Inherits BodyGenerator
-```
-```cpp
-public ref class SheetFromFaces : public BodyGenerator
-```
+
+
 
 
 Тип SheetFromFaces предоставляет следующие члены.

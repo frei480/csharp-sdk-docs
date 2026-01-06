@@ -13,17 +13,8 @@ public Object3D CreateReference(
 	Document targetDocument
 )
 ```
-```vb
-Public Function CreateReference ( 
-	targetDocument As Document
-) As Object3D
-```
-```cpp
-public:
-Object3D^ CreateReference(
-	Document^ targetDocument
-)
-```
+
+
 
 
 #### Параметры

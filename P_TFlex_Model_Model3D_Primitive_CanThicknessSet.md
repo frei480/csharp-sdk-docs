@@ -11,16 +11,8 @@
 ```csharp
 public bool CanThicknessSet { get; }
 ```
-```vb
-Public ReadOnly Property CanThicknessSet As Boolean
-	Get
-```
-```cpp
-public:
-property bool CanThicknessSet {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

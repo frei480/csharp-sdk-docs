@@ -11,13 +11,8 @@
 ```csharp
 public string Directory
 ```
-```vb
-Public Directory As String
-```
-```cpp
-public:
-String^ Directory
-```
+
+
 
 
 #### Значение поля

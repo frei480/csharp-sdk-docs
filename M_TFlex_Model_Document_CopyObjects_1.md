@@ -12,21 +12,8 @@ public bool CopyObjects(
 	AffineMap affineMap
 )
 ```
-```vb
-Public Function CopyObjects ( 
-	targetPage As Page,
-	sourceObjects As List(Of ModelObject),
-	affineMap As AffineMap
-) As Boolean
-```
-```cpp
-public:
-bool CopyObjects(
-	Page^ targetPage, 
-	List<ModelObject^>^ sourceObjects, 
-	AffineMap^ affineMap
-)
-```
+
+
 
 
 #### Параметры

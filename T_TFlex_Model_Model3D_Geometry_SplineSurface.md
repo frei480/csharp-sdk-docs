@@ -14,15 +14,8 @@
 public class SplineSurface : Surface, 
 	BaseSplineSurface
 ```
-```vb
-Public Class SplineSurface
-	Inherits Surface
-	Implements BaseSplineSurface
-```
-```cpp
-public ref class SplineSurface : public Surface, 
-	BaseSplineSurface
-```
+
+
 
 
 Тип SplineSurface предоставляет следующие члены.

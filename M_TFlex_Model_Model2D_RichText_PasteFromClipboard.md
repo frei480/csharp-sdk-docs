@@ -11,13 +11,8 @@
 ```csharp
 public void PasteFromClipboard()
 ```
-```vb
-Public Sub PasteFromClipboard
-```
-```cpp
-public:
-void PasteFromClipboard()
-```
+
+
 
 
 #### Ссылки

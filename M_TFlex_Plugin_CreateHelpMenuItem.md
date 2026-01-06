@@ -15,21 +15,8 @@ protected void CreateHelpMenuItem(
 	int position
 )
 ```
-```vb
-Protected Sub CreateHelpMenuItem ( 
-	caption As String,
-	commandId As Integer,
-	position As Integer
-)
-```
-```cpp
-protected:
-void CreateHelpMenuItem(
-	String^ caption, 
-	int commandId, 
-	int position
-)
-```
+
+
 
 
 #### Параметры

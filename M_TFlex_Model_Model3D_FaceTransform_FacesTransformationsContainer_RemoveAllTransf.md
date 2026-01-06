@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllTransf()
 ```
-```vb
-Public Sub RemoveAllTransf
-```
-```cpp
-public:
-void RemoveAllTransf()
-```
+
+
 
 
 #### Ссылки

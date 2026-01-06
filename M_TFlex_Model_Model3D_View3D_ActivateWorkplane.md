@@ -13,17 +13,8 @@ public void ActivateWorkplane(
 	Workplane workplane
 )
 ```
-```vb
-Public Sub ActivateWorkplane ( 
-	workplane As Workplane
-)
-```
-```cpp
-public:
-void ActivateWorkplane(
-	Workplane^ workplane
-)
-```
+
+
 
 
 #### Параметры

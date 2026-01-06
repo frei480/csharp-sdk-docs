@@ -11,19 +11,8 @@ public bool SwapTerminalPoints(
 	int indexSecond
 )
 ```
-```vb
-Public Function SwapTerminalPoints ( 
-	indexFirst As Integer,
-	indexSecond As Integer
-) As Boolean
-```
-```cpp
-public:
-bool SwapTerminalPoints(
-	int indexFirst, 
-	int indexSecond
-)
-```
+
+
 
 
 #### Параметры

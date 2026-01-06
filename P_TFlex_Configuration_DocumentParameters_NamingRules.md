@@ -8,16 +8,8 @@
 ```csharp
 public NamingRules NamingRules { get; }
 ```
-```vb
-Public ReadOnly Property NamingRules As NamingRules
-	Get
-```
-```cpp
-public:
-property NamingRules^ NamingRules {
-	NamingRules^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

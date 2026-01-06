@@ -8,16 +8,8 @@
 ```csharp
 public double ParamOnEdge { get; }
 ```
-```vb
-Public ReadOnly Property ParamOnEdge As Double
-	Get
-```
-```cpp
-public:
-property double ParamOnEdge {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

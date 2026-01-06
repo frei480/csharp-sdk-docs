@@ -11,16 +11,8 @@
 ```csharp
 public ListControlButtonCollection Buttons { get; }
 ```
-```vb
-Public ReadOnly Property Buttons As ListControlButtonCollection
-	Get
-```
-```cpp
-public:
-property ListControlButtonCollection^ Buttons {
-	ListControlButtonCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,19 +11,8 @@ public static void Error(
 	Object arg
 )
 ```
-```vb
-Public Shared Sub Error ( 
-	format As String,
-	arg As Object
-)
-```
-```cpp
-public:
-static void Error(
-	String^ format, 
-	Object^ arg
-)
-```
+
+
 
 
 #### Параметры

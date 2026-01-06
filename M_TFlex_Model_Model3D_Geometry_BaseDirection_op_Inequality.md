@@ -11,19 +11,8 @@ public static bool operator !=(
 	BaseDirection direction2
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	direction1 As BaseDirection,
-	direction2 As BaseDirection
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	BaseDirection^ direction1, 
-	BaseDirection^ direction2
-)
-```
+
+
 
 
 #### Параметры

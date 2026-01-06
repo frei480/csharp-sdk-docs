@@ -19,24 +19,8 @@ public Node3D Direction {
 	set;
  }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed.")>
-Public Property Direction As Node3D
-	<ObsoleteAttribute("Do not call this method.")>
-	Get
-	<ObsoleteAttribute("Do not call this method.")>
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed.")]
-property Node3D^ Direction {
-	[ObsoleteAttribute(L"Do not call this method.")]
-	Node3D^ get ();
-	[ObsoleteAttribute(L"Do not call this method.")]
-	void set (Node3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

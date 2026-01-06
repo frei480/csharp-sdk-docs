@@ -10,17 +10,8 @@ public int IndexOf(
 	ObjectId id
 )
 ```
-```vb
-Public Function IndexOf ( 
-	id As ObjectId
-) As Integer
-```
-```cpp
-public:
-int IndexOf(
-	ObjectId^ id
-)
-```
+
+
 
 
 #### Параметры

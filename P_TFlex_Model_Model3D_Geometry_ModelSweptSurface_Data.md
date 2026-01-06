@@ -11,16 +11,8 @@
 ```csharp
 public virtual SweptData Data { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Data As SweptData
-	Get
-```
-```cpp
-public:
-virtual property SweptData^ Data {
-	SweptData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public Variable FindVariable(
 	string name
 )
 ```
-```vb
-Public Function FindVariable ( 
-	name As String
-) As Variable
-```
-```cpp
-public:
-Variable^ FindVariable(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

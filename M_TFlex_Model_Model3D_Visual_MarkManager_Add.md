@@ -10,17 +10,8 @@ public void Add(
 	List<KeyValuePair<Object3D, MarkManagerStyle>> objects
 )
 ```
-```vb
-Public Sub Add ( 
-	objects As List(Of KeyValuePair(Of Object3D, MarkManagerStyle))
-)
-```
-```cpp
-public:
-void Add(
-	List<KeyValuePair<Object3D^, MarkManagerStyle>>^ objects
-)
-```
+
+
 
 
 #### Параметры

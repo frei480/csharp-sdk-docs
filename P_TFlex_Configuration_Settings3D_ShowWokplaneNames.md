@@ -8,18 +8,8 @@
 ```csharp
 public ShowWokplaneNamesType ShowWokplaneNames { get; set; }
 ```
-```vb
-Public Property ShowWokplaneNames As ShowWokplaneNamesType
-	Get
-	Set
-```
-```cpp
-public:
-property ShowWokplaneNamesType ShowWokplaneNames {
-	ShowWokplaneNamesType get ();
-	void set (ShowWokplaneNamesType value);
-}
-```
+
+
 
 
 #### Значение свойства

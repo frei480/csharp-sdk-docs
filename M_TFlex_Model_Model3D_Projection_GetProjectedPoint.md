@@ -13,17 +13,8 @@ public Point3D GetProjectedPoint(
 	Point3D point
 )
 ```
-```vb
-Public Function GetProjectedPoint ( 
-	point As Point3D
-) As Point3D
-```
-```cpp
-public:
-Point3D^ GetProjectedPoint(
-	Point3D^ point
-)
-```
+
+
 
 
 #### Параметры

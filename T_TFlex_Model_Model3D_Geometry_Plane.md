@@ -13,13 +13,8 @@
 ```csharp
 public class Plane : BasePlane
 ```
-```vb
-Public Class Plane
-	Inherits BasePlane
-```
-```cpp
-public ref class Plane : public BasePlane
-```
+
+
 
 
 Тип Plane предоставляет следующие члены.

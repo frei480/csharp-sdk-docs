@@ -13,13 +13,8 @@
 ```csharp
 public class TangentToSurfaceWorkplane : Model3DWorkplane
 ```
-```vb
-Public Class TangentToSurfaceWorkplane
-	Inherits Model3DWorkplane
-```
-```cpp
-public ref class TangentToSurfaceWorkplane : public Model3DWorkplane
-```
+
+
 
 
 Тип TangentToSurfaceWorkplane предоставляет следующие члены.

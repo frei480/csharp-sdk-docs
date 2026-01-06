@@ -13,17 +13,8 @@ public List<Guid> GetLeaderDOCsLinks(
 	int StringIndex
 )
 ```
-```vb
-Public Function GetLeaderDOCsLinks ( 
-	StringIndex As Integer
-) As List(Of Guid)
-```
-```cpp
-public:
-List<Guid>^ GetLeaderDOCsLinks(
-	int StringIndex
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public ProjectingWorkplane(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ProjectingWorkplane(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

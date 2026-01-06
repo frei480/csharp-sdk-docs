@@ -11,12 +11,8 @@
 ```csharp
 public enum BlendType
 ```
-```vb
-Public Enumeration BlendType
-```
-```cpp
-public enum class BlendType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

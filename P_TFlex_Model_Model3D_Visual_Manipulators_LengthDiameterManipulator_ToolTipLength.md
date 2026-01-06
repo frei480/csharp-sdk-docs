@@ -8,18 +8,8 @@
 ```csharp
 public string ToolTipLength { get; set; }
 ```
-```vb
-Public Property ToolTipLength As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ToolTipLength {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

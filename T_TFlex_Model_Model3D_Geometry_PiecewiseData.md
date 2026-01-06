@@ -13,13 +13,8 @@
 ```csharp
 public sealed class PiecewiseData : IDisposable
 ```
-```vb
-Public NotInheritable Class PiecewiseData
-	Implements IDisposable
-```
-```cpp
-public ref class PiecewiseData sealed : IDisposable
-```
+
+
 
 
 Тип PiecewiseData предоставляет следующие члены.

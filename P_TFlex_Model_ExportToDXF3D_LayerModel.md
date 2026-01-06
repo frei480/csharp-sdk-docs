@@ -11,18 +11,8 @@
 ```csharp
 public ExportToDXF3DLayerModelType LayerModel { get; set; }
 ```
-```vb
-Public Property LayerModel As ExportToDXF3DLayerModelType
-	Get
-	Set
-```
-```cpp
-public:
-property ExportToDXF3DLayerModelType LayerModel {
-	ExportToDXF3DLayerModelType get ();
-	void set (ExportToDXF3DLayerModelType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,21 +15,8 @@ public void SetNodeAndTwoLines(
 	Construction srcLine2
 )
 ```
-```vb
-Public Sub SetNodeAndTwoLines ( 
-	srcNode As Node,
-	srcLine1 As Construction,
-	srcLine2 As Construction
-)
-```
-```cpp
-public:
-void SetNodeAndTwoLines(
-	Node^ srcNode, 
-	Construction^ srcLine1, 
-	Construction^ srcLine2
-)
-```
+
+
 
 
 #### Параметры

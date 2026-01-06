@@ -11,12 +11,8 @@
 ```csharp
 public class BaseCreateElementsParameters
 ```
-```vb
-Public Class BaseCreateElementsParameters
-```
-```cpp
-public ref class BaseCreateElementsParameters
-```
+
+
 
 
 Тип BaseCreateElementsParameters предоставляет следующие члены.

@@ -13,13 +13,8 @@
 ```csharp
 public class SimpleListControlCheckStateChangedEventArgs : BaseEventArgs
 ```
-```vb
-Public Class SimpleListControlCheckStateChangedEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class SimpleListControlCheckStateChangedEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип SimpleListControlCheckStateChangedEventArgs предоставляет следующие члены.

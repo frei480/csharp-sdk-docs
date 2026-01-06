@@ -15,21 +15,8 @@ public static FragmentOutline Create(
 	Outline sourceElement
 )
 ```
-```vb
-Public Shared Function Create ( 
-	doc As Document,
-	arrPath As Fragment(),
-	sourceElement As Outline
-) As FragmentOutline
-```
-```cpp
-public:
-static FragmentOutline^ Create(
-	Document^ doc, 
-	array<Fragment^>^ arrPath, 
-	Outline^ sourceElement
-)
-```
+
+
 
 
 #### Параметры

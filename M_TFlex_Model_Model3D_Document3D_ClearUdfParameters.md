@@ -13,19 +13,8 @@ public static void ClearUdfParameters(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub ClearUdfParameters ( 
-	document As Document
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void ClearUdfParameters(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

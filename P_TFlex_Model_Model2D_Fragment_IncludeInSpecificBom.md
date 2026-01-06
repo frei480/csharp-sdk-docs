@@ -13,20 +13,8 @@ public IncludeInBom this[
 	string bomName
 ] { get; set; }
 ```
-```vb
-Public Property IncludeInSpecificBom ( 
-	bomName As String
-) As IncludeInBom
-	Get
-	Set
-```
-```cpp
-public:
-property IncludeInBom IncludeInSpecificBom[String^ bomName] {
-	IncludeInBom get (String^ bomName);
-	void set (String^ bomName, IncludeInBom value);
-}
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public InputControlFocusLostBehavior FocusLostBehavior { get; set; }
 ```
-```vb
-Public Property FocusLostBehavior As InputControlFocusLostBehavior
-	Get
-	Set
-```
-```cpp
-public:
-property InputControlFocusLostBehavior FocusLostBehavior {
-	InputControlFocusLostBehavior get ();
-	void set (InputControlFocusLostBehavior value);
-}
-```
+
+
 
 
 #### Значение свойства

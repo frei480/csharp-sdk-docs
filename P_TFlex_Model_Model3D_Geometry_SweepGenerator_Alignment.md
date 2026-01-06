@@ -11,18 +11,8 @@
 ```csharp
 public SweepGeneratorAlignmentType Alignment { get; set; }
 ```
-```vb
-Public Property Alignment As SweepGeneratorAlignmentType
-	Get
-	Set
-```
-```cpp
-public:
-property SweepGeneratorAlignmentType Alignment {
-	SweepGeneratorAlignmentType get ();
-	void set (SweepGeneratorAlignmentType value);
-}
-```
+
+
 
 
 #### Значение свойства

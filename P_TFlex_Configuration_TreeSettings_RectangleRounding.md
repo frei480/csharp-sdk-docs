@@ -8,18 +8,8 @@
 ```csharp
 public int RectangleRounding { get; set; }
 ```
-```vb
-Public Property RectangleRounding As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int RectangleRounding {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

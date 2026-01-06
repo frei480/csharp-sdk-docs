@@ -11,16 +11,8 @@
 ```csharp
 public virtual ObjectType GroupType { get; }
 ```
-```vb
-Public Overridable ReadOnly Property GroupType As ObjectType
-	Get
-```
-```cpp
-public:
-virtual property ObjectType GroupType {
-	ObjectType get ();
-}
-```
+
+
 
 
 #### Значение свойства

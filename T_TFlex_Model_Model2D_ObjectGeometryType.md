@@ -11,12 +11,8 @@
 ```csharp
 public enum ObjectGeometryType
 ```
-```vb
-Public Enumeration ObjectGeometryType
-```
-```cpp
-public enum class ObjectGeometryType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

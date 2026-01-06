@@ -13,13 +13,8 @@
 ```csharp
 public sealed class VariableParametric : Parametric
 ```
-```vb
-Public NotInheritable Class VariableParametric
-	Inherits Parametric
-```
-```cpp
-public ref class VariableParametric sealed : public Parametric
-```
+
+
 
 
 Тип VariableParametric предоставляет следующие члены.

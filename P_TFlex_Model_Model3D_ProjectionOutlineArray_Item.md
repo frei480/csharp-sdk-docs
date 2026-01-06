@@ -13,18 +13,8 @@ protected ProjectionOutline this[
 	int index
 ] { get; }
 ```
-```vb
-Protected ReadOnly Property Item ( 
-	index As Integer
-) As ProjectionOutline
-	Get
-```
-```cpp
-protected:
-property ProjectionOutline^ Item[int index] {
-	ProjectionOutline^ get (int index);
-}
-```
+
+
 
 
 #### Параметры

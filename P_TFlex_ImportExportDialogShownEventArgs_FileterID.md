@@ -12,18 +12,8 @@
 [ObsoleteAttribute("Use FilterId")]
 public int FileterID { get; }
 ```
-```vb
-<ObsoleteAttribute("Use FilterId")>
-Public ReadOnly Property FileterID As Integer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Use FilterId")]
-property int FileterID {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

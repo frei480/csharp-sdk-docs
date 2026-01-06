@@ -13,17 +13,8 @@ public virtual void OnSelect(
 	SelectEventArgs e
 )
 ```
-```vb
-Public Overridable Sub OnSelect ( 
-	e As SelectEventArgs
-)
-```
-```cpp
-public:
-virtual void OnSelect(
-	SelectEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

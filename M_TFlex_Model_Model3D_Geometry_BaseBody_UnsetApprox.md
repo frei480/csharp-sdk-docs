@@ -11,13 +11,8 @@
 ```csharp
 public void UnsetApprox()
 ```
-```vb
-Public Sub UnsetApprox
-```
-```cpp
-public:
-void UnsetApprox()
-```
+
+
 
 
 #### Ссылки

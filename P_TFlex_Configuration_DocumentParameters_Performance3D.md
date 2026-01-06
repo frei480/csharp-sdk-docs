@@ -8,16 +8,8 @@
 ```csharp
 public Performance3D Performance3D { get; }
 ```
-```vb
-Public ReadOnly Property Performance3D As Performance3D
-	Get
-```
-```cpp
-public:
-property Performance3D^ Performance3D {
-	Performance3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

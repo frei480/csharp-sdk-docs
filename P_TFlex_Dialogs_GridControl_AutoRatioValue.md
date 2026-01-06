@@ -11,16 +11,8 @@
 ```csharp
 public static double AutoRatioValue { get; }
 ```
-```vb
-Public Shared ReadOnly Property AutoRatioValue As Double
-	Get
-```
-```cpp
-public:
-static property double AutoRatioValue {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

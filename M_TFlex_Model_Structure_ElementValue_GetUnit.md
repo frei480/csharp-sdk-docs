@@ -8,13 +8,8 @@
 ```csharp
 public override Unit GetUnit()
 ```
-```vb
-Public Overrides Function GetUnit As Unit
-```
-```cpp
-public:
-virtual Unit^ GetUnit() override
-```
+
+
 
 
 #### Возвращаемое значение

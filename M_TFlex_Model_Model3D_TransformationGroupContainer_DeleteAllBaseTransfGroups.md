@@ -11,13 +11,8 @@
 ```csharp
 public void DeleteAllBaseTransfGroups()
 ```
-```vb
-Public Sub DeleteAllBaseTransfGroups
-```
-```cpp
-public:
-void DeleteAllBaseTransfGroups()
-```
+
+
 
 
 #### Ссылки

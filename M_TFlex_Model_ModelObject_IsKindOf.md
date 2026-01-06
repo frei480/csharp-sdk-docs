@@ -13,17 +13,8 @@ public bool IsKindOf(
 	ObjectType type
 )
 ```
-```vb
-Public Function IsKindOf ( 
-	type As ObjectType
-) As Boolean
-```
-```cpp
-public:
-bool IsKindOf(
-	ObjectType type
-)
-```
+
+
 
 
 #### Параметры

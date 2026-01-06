@@ -14,19 +14,8 @@ public string GetTextValue(
 	int row
 )
 ```
-```vb
-Public Function GetTextValue ( 
-	column As Integer,
-	row As Integer
-) As String
-```
-```cpp
-public:
-String^ GetTextValue(
-	int column, 
-	int row
-)
-```
+
+
 
 
 #### Параметры

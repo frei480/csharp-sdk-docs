@@ -10,17 +10,8 @@ public void DetachLinkedObject(
 	LinkedObjectInfo obj
 )
 ```
-```vb
-Public Sub DetachLinkedObject ( 
-	obj As LinkedObjectInfo
-)
-```
-```cpp
-public:
-void DetachLinkedObject(
-	LinkedObjectInfo^ obj
-)
-```
+
+
 
 
 #### Параметры

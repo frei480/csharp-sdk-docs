@@ -11,13 +11,8 @@
 ```csharp
 public class PageColors : SettingsGroup
 ```
-```vb
-Public Class PageColors
-	Inherits SettingsGroup
-```
-```cpp
-public ref class PageColors : public SettingsGroup
-```
+
+
 
 
 Тип PageColors предоставляет следующие члены.

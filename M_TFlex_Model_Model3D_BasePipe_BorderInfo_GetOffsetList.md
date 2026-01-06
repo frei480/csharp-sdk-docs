@@ -10,17 +10,8 @@ public bool GetOffsetList(
 	ref List<Parameter> parameters
 )
 ```
-```vb
-Public Function GetOffsetList ( 
-	ByRef parameters As List(Of Parameter)
-) As Boolean
-```
-```cpp
-public:
-bool GetOffsetList(
-	List<Parameter^>^% parameters
-)
-```
+
+
 
 
 #### Параметры

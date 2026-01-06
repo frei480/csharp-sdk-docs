@@ -13,17 +13,8 @@ public bool IsExpanded(
 	int row
 )
 ```
-```vb
-Public Function IsExpanded ( 
-	row As Integer
-) As Boolean
-```
-```cpp
-public:
-bool IsExpanded(
-	int row
-)
-```
+
+
 
 
 #### Параметры

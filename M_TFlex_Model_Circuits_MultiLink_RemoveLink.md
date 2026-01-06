@@ -10,17 +10,8 @@ public void RemoveLink(
 	Link link
 )
 ```
-```vb
-Public Sub RemoveLink ( 
-	link As Link
-)
-```
-```cpp
-public:
-void RemoveLink(
-	Link^ link
-)
-```
+
+
 
 
 #### Параметры

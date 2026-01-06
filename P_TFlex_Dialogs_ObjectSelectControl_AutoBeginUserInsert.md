@@ -11,18 +11,8 @@
 ```csharp
 public bool AutoBeginUserInsert { get; set; }
 ```
-```vb
-Public Property AutoBeginUserInsert As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoBeginUserInsert {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

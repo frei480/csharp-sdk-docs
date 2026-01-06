@@ -16,23 +16,8 @@ public SweepGenerator(
 	Vertex start
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	profile As Body,
-	path As Body,
-	start As Vertex
-)
-```
-```cpp
-public:
-SweepGenerator(
-	ProxyObject3D^ object, 
-	Body^ profile, 
-	Body^ path, 
-	Vertex^ start
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public string RevNum { get; }
 ```
-```vb
-Public ReadOnly Property RevNum As String
-	Get
-```
-```cpp
-public:
-property String^ RevNum {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

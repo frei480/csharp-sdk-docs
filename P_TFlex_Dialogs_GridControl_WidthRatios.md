@@ -11,16 +11,8 @@
 ```csharp
 public Collection<double> WidthRatios { get; }
 ```
-```vb
-Public ReadOnly Property WidthRatios As Collection(Of Double)
-	Get
-```
-```cpp
-public:
-property Collection<double>^ WidthRatios {
-	Collection<double>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

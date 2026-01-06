@@ -10,17 +10,8 @@ protected virtual bool Transform(
 	ProxyObject2DTransformContext Context
 )
 ```
-```vb
-Protected Overridable Function Transform ( 
-	Context As ProxyObject2DTransformContext
-) As Boolean
-```
-```cpp
-protected:
-virtual bool Transform(
-	ProxyObject2DTransformContext^ Context
-)
-```
+
+
 
 
 #### Параметры

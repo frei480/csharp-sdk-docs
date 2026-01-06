@@ -13,17 +13,8 @@ public IntPtr GetCellData(
 	uint cell
 )
 ```
-```vb
-Public Function GetCellData ( 
-	cell As UInteger
-) As IntPtr
-```
-```cpp
-public:
-IntPtr GetCellData(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

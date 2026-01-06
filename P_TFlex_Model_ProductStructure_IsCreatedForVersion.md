@@ -11,16 +11,8 @@
 ```csharp
 public bool IsCreatedForVersion { get; }
 ```
-```vb
-Public ReadOnly Property IsCreatedForVersion As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsCreatedForVersion {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

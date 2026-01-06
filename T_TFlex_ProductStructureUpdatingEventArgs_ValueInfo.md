@@ -11,12 +11,8 @@
 ```csharp
 public class ValueInfo
 ```
-```vb
-Public Class ValueInfo
-```
-```cpp
-public ref class ValueInfo
-```
+
+
 
 
 Тип ProductStructureUpdatingEventArgsValueInfo предоставляет следующие члены.

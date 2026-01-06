@@ -13,13 +13,8 @@
 ```csharp
 public class ProjectionProfile : Profile
 ```
-```vb
-Public Class ProjectionProfile
-	Inherits Profile
-```
-```cpp
-public ref class ProjectionProfile : public Profile
-```
+
+
 
 
 Тип ProjectionProfile предоставляет следующие члены.

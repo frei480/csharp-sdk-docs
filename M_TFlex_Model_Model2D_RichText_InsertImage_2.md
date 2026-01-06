@@ -14,19 +14,8 @@ public void InsertImage(
 	RichTextInsertObjectOptions insertOptions
 )
 ```
-```vb
-Public Sub InsertImage ( 
-	link As FileLink,
-	insertOptions As RichTextInsertObjectOptions
-)
-```
-```cpp
-public:
-void InsertImage(
-	FileLink^ link, 
-	RichTextInsertObjectOptions^ insertOptions
-)
-```
+
+
 
 
 #### Параметры

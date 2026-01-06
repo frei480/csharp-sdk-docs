@@ -11,16 +11,8 @@
 ```csharp
 public int Intersection { set; }
 ```
-```vb
-Public WriteOnly Property Intersection As Integer
-	Set
-```
-```cpp
-public:
-property int Intersection {
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

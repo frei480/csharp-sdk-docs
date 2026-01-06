@@ -13,17 +13,8 @@ public int AddPosition(
 	FaceBlendingPositionData data
 )
 ```
-```vb
-Public Function AddPosition ( 
-	data As FaceBlendingPositionData
-) As Integer
-```
-```cpp
-public:
-int AddPosition(
-	FaceBlendingPositionData^ data
-)
-```
+
+
 
 
 #### Параметры

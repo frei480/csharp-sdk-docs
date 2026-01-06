@@ -11,12 +11,8 @@
 ```csharp
 public enum BrokenMetric
 ```
-```vb
-Public Enumeration BrokenMetric
-```
-```cpp
-public enum class BrokenMetric
-```
+
+
 
 
 | Имя члена | Значение | Описание |

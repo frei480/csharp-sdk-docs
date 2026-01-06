@@ -14,15 +14,8 @@
 public class DrawingView : Object2D, 
 	IModelObjectWithLayer
 ```
-```vb
-Public Class DrawingView
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class DrawingView : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип DrawingView предоставляет следующие члены.

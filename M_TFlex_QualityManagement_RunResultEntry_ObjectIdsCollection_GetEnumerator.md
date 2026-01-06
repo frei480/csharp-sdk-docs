@@ -11,13 +11,8 @@
 ```csharp
 public virtual IEnumerator<ObjectId> GetEnumerator()
 ```
-```vb
-Public Overridable Function GetEnumerator As IEnumerator(Of ObjectId)
-```
-```cpp
-public:
-virtual IEnumerator<ObjectId^>^ GetEnumerator()
-```
+
+
 
 
 #### Возвращаемое значение

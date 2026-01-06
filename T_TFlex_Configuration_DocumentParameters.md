@@ -11,13 +11,8 @@
 ```csharp
 public class DocumentParameters : SettingsGroup
 ```
-```vb
-Public Class DocumentParameters
-	Inherits SettingsGroup
-```
-```cpp
-public ref class DocumentParameters : public SettingsGroup
-```
+
+
 
 
 Тип DocumentParameters предоставляет следующие члены.

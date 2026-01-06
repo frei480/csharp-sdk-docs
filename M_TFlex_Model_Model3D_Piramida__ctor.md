@@ -13,17 +13,8 @@ public Piramida(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Piramida(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

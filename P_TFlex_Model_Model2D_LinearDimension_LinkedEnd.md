@@ -11,16 +11,8 @@
 ```csharp
 public LinearDimensionLinkedObject LinkedEnd { get; }
 ```
-```vb
-Public ReadOnly Property LinkedEnd As LinearDimensionLinkedObject
-	Get
-```
-```cpp
-public:
-property LinearDimensionLinkedObject^ LinkedEnd {
-	LinearDimensionLinkedObject^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

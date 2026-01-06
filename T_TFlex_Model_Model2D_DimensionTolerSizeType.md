@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionTolerSizeType
 ```
-```vb
-Public Enumeration DimensionTolerSizeType
-```
-```cpp
-public enum class DimensionTolerSizeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

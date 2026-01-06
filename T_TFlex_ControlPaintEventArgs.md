@@ -13,13 +13,8 @@
 ```csharp
 public class ControlPaintEventArgs : ControlEventArgs
 ```
-```vb
-Public Class ControlPaintEventArgs
-	Inherits ControlEventArgs
-```
-```cpp
-public ref class ControlPaintEventArgs : public ControlEventArgs
-```
+
+
 
 
 Тип ControlPaintEventArgs предоставляет следующие члены.

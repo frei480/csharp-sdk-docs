@@ -11,12 +11,8 @@
 ```csharp
 public class SpliceInfo
 ```
-```vb
-Public Class SpliceInfo
-```
-```cpp
-public ref class SpliceInfo
-```
+
+
 
 
 Тип SpliceInfo предоставляет следующие члены.

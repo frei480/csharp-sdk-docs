@@ -13,13 +13,8 @@
 ```csharp
 public sealed class UriHyperlinkProperties : HyperlinkPropertiesWithUserText
 ```
-```vb
-Public NotInheritable Class UriHyperlinkProperties
-	Inherits HyperlinkPropertiesWithUserText
-```
-```cpp
-public ref class UriHyperlinkProperties sealed : public HyperlinkPropertiesWithUserText
-```
+
+
 
 
 Тип UriHyperlinkProperties предоставляет следующие члены.

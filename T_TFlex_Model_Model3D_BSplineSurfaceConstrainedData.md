@@ -11,12 +11,8 @@
 ```csharp
 public class BSplineSurfaceConstrainedData
 ```
-```vb
-Public Class BSplineSurfaceConstrainedData
-```
-```cpp
-public ref class BSplineSurfaceConstrainedData
-```
+
+
 
 
 Тип BSplineSurfaceConstrainedData предоставляет следующие члены.

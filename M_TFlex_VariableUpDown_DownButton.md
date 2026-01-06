@@ -8,13 +8,8 @@
 ```csharp
 public override void DownButton()
 ```
-```vb
-Public Overrides Sub DownButton
-```
-```cpp
-public:
-virtual void DownButton() override
-```
+
+
 
 
 #### Ссылки

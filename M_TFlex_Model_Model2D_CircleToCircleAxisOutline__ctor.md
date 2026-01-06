@@ -16,23 +16,8 @@ public CircleToCircleAxisOutline(
 	CircleToCircleAxisOutlineCircleToCircleAxisType iType
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	source1 As Outline,
-	source2 As Outline,
-	iType As CircleToCircleAxisOutlineCircleToCircleAxisType
-)
-```
-```cpp
-public:
-CircleToCircleAxisOutline(
-	Document^ document, 
-	Outline^ source1, 
-	Outline^ source2, 
-	CircleToCircleAxisOutlineCircleToCircleAxisType iType
-)
-```
+
+
 
 
 #### Параметры

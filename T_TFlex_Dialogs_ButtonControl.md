@@ -13,13 +13,8 @@
 ```csharp
 public class ButtonControl : BaseControl
 ```
-```vb
-Public Class ButtonControl
-	Inherits BaseControl
-```
-```cpp
-public ref class ButtonControl : public BaseControl
-```
+
+
 
 
 Тип ButtonControl предоставляет следующие члены.

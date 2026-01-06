@@ -11,13 +11,8 @@
 ```csharp
 public void ForceCenter()
 ```
-```vb
-Public Sub ForceCenter
-```
-```cpp
-public:
-void ForceCenter()
-```
+
+
 
 
 #### Ссылки

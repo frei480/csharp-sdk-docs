@@ -8,16 +8,8 @@
 ```csharp
 public ShellWireSetManipulatorSelectSide SelectedSide { get; }
 ```
-```vb
-Public ReadOnly Property SelectedSide As ShellWireSetManipulatorSelectSide
-	Get
-```
-```cpp
-public:
-property ShellWireSetManipulatorSelectSide SelectedSide {
-	ShellWireSetManipulatorSelectSide get ();
-}
-```
+
+
 
 
 #### Значение свойства

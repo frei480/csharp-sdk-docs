@@ -11,13 +11,8 @@
 ```csharp
 public int GetBrokenSize()
 ```
-```vb
-Public Function GetBrokenSize As Integer
-```
-```cpp
-public:
-int GetBrokenSize()
-```
+
+
 
 
 #### Возвращаемое значение

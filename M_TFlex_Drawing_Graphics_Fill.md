@@ -13,17 +13,8 @@ public void Fill(
 	Polyline polyline
 )
 ```
-```vb
-Public Sub Fill ( 
-	polyline As Polyline
-)
-```
-```cpp
-public:
-void Fill(
-	Polyline^ polyline
-)
-```
+
+
 
 
 #### Параметры

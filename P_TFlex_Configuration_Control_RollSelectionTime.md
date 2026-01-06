@@ -8,18 +8,8 @@
 ```csharp
 public int RollSelectionTime { get; set; }
 ```
-```vb
-Public Property RollSelectionTime As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int RollSelectionTime {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

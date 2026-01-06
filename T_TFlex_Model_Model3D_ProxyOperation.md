@@ -13,13 +13,8 @@
 ```csharp
 public abstract class ProxyOperation : ProxyObject3D
 ```
-```vb
-Public MustInherit Class ProxyOperation
-	Inherits ProxyObject3D
-```
-```cpp
-public ref class ProxyOperation abstract : public ProxyObject3D
-```
+
+
 
 
 Тип ProxyOperation предоставляет следующие члены.

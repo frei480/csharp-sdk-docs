@@ -8,18 +8,8 @@
 ```csharp
 public ProductStructureCsvExportOptionsFieldDelimiterType FieldDelimiter { get; set; }
 ```
-```vb
-Public Property FieldDelimiter As ProductStructureCsvExportOptionsFieldDelimiterType
-	Get
-	Set
-```
-```cpp
-public:
-property ProductStructureCsvExportOptionsFieldDelimiterType FieldDelimiter {
-	ProductStructureCsvExportOptionsFieldDelimiterType get ();
-	void set (ProductStructureCsvExportOptionsFieldDelimiterType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,16 +8,8 @@
 ```csharp
 public ObservableCollection<string> InitialElementsSources { get; }
 ```
-```vb
-Public ReadOnly Property InitialElementsSources As ObservableCollection(Of String)
-	Get
-```
-```cpp
-public:
-property ObservableCollection<String^>^ InitialElementsSources {
-	ObservableCollection<String^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

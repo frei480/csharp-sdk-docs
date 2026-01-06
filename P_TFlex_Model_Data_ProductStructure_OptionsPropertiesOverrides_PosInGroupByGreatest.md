@@ -8,18 +8,8 @@
 ```csharp
 public OverrideBool PosInGroupByGreatest { get; set; }
 ```
-```vb
-Public Property PosInGroupByGreatest As OverrideBool
-	Get
-	Set
-```
-```cpp
-public:
-property OverrideBool PosInGroupByGreatest {
-	OverrideBool get ();
-	void set (OverrideBool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,12 +8,8 @@
 ```csharp
 public enum VersionGroupingType
 ```
-```vb
-Public Enumeration VersionGroupingType
-```
-```cpp
-public enum class VersionGroupingType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

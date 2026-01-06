@@ -11,13 +11,8 @@
 ```csharp
 public bool IsChanging()
 ```
-```vb
-Public Function IsChanging As Boolean
-```
-```cpp
-public:
-bool IsChanging()
-```
+
+
 
 
 #### Возвращаемое значение

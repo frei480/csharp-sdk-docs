@@ -14,19 +14,8 @@ public virtual bool CanInsert(
 	FixingVector point2
 )
 ```
-```vb
-Public Overridable Function CanInsert ( 
-	point1 As FixingVector,
-	point2 As FixingVector
-) As Boolean
-```
-```cpp
-public:
-virtual bool CanInsert(
-	FixingVector^ point1, 
-	FixingVector^ point2
-)
-```
+
+
 
 
 #### Параметры

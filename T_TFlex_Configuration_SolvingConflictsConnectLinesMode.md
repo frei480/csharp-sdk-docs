@@ -8,12 +8,8 @@
 ```csharp
 public enum SolvingConflictsConnectLinesMode
 ```
-```vb
-Public Enumeration SolvingConflictsConnectLinesMode
-```
-```cpp
-public enum class SolvingConflictsConnectLinesMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,16 +11,8 @@
 ```csharp
 public IList<int> OldSelectedRows { get; }
 ```
-```vb
-Public ReadOnly Property OldSelectedRows As IList(Of Integer)
-	Get
-```
-```cpp
-public:
-property IList<int>^ OldSelectedRows {
-	IList<int>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

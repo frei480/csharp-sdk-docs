@@ -16,23 +16,8 @@ public static FragmentNode Create(
 	int id
 )
 ```
-```vb
-Public Shared Function Create ( 
-	document As Document,
-	arrPath As Fragment(),
-	sourceElement As Object2D,
-	id As Integer
-) As FragmentNode
-```
-```cpp
-public:
-static FragmentNode^ Create(
-	Document^ document, 
-	array<Fragment^>^ arrPath, 
-	Object2D^ sourceElement, 
-	int id
-)
-```
+
+
 
 
 #### Параметры

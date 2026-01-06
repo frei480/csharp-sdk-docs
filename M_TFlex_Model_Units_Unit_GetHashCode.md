@@ -8,13 +8,8 @@
 ```csharp
 public override int GetHashCode()
 ```
-```vb
-Public Overrides Function GetHashCode As Integer
-```
-```cpp
-public:
-virtual int GetHashCode() override
-```
+
+
 
 
 #### Возвращаемое значение

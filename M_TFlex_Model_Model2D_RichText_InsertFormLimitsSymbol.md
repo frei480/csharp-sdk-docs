@@ -13,17 +13,8 @@ public void InsertFormLimitsSymbol(
 	Formlimits obj
 )
 ```
-```vb
-Public Sub InsertFormLimitsSymbol ( 
-	obj As Formlimits
-)
-```
-```cpp
-public:
-void InsertFormLimitsSymbol(
-	Formlimits^ obj
-)
-```
+
+
 
 
 #### Параметры

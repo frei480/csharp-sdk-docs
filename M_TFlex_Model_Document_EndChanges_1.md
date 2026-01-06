@@ -13,17 +13,8 @@ public ChangesResult EndChanges(
 	bool Unconditionally
 )
 ```
-```vb
-Public Function EndChanges ( 
-	Unconditionally As Boolean
-) As ChangesResult
-```
-```cpp
-public:
-ChangesResult EndChanges(
-	bool Unconditionally
-)
-```
+
+
 
 
 #### Параметры

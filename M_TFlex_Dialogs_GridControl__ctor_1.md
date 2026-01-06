@@ -13,17 +13,8 @@ public GridControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-GridControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

@@ -14,19 +14,8 @@ public static Document NewAnnotation(
 	Annotation annotation
 )
 ```
-```vb
-Public Shared Function NewAnnotation ( 
-	documentFileName As String,
-	annotation As Annotation
-) As Document
-```
-```cpp
-public:
-static Document^ NewAnnotation(
-	String^ documentFileName, 
-	Annotation^ annotation
-)
-```
+
+
 
 
 #### Параметры

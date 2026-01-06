@@ -11,19 +11,8 @@ public Filter Parse(
 	bool throwOnError
 )
 ```
-```vb
-Public Function Parse ( 
-	str As String,
-	throwOnError As Boolean
-) As Filter
-```
-```cpp
-public:
-Filter^ Parse(
-	String^ str, 
-	bool throwOnError
-)
-```
+
+
 
 
 #### Параметры

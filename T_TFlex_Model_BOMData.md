@@ -13,12 +13,8 @@
 ```csharp
 public sealed class BOMData
 ```
-```vb
-Public NotInheritable Class BOMData
-```
-```cpp
-public ref class BOMData sealed
-```
+
+
 
 
 Тип BOMData предоставляет следующие члены.

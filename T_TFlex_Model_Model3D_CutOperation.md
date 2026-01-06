@@ -13,13 +13,8 @@
 ```csharp
 public class CutOperation : Operation
 ```
-```vb
-Public Class CutOperation
-	Inherits Operation
-```
-```cpp
-public ref class CutOperation : public Operation
-```
+
+
 
 
 Тип CutOperation предоставляет следующие члены.

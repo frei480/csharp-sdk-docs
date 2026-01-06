@@ -11,13 +11,8 @@
 ```csharp
 public FileBrowserDialog()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FileBrowserDialog()
-```
+
+
 
 
 #### Ссылки

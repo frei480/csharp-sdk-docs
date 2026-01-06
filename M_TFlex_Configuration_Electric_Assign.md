@@ -10,17 +10,8 @@ public void Assign(
 	Electric source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Electric
-)
-```
-```cpp
-public:
-void Assign(
-	Electric^ source
-)
-```
+
+
 
 
 #### Параметры

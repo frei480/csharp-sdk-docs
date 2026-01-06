@@ -8,18 +8,8 @@
 ```csharp
 public bool ShowModelTreeInViews { get; set; }
 ```
-```vb
-Public Property ShowModelTreeInViews As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowModelTreeInViews {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

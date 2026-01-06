@@ -14,19 +14,8 @@ public void Line(
 	Point end
 )
 ```
-```vb
-Public Sub Line ( 
-	start As Point,
-	end As Point
-)
-```
-```cpp
-public:
-void Line(
-	Point start, 
-	Point end
-)
-```
+
+
 
 
 #### Параметры

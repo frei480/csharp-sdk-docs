@@ -11,18 +11,8 @@
 ```csharp
 public override ModelPoint3D Location { get; set; }
 ```
-```vb
-Public Overrides Property Location As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-virtual property ModelPoint3D^ Location {
-	ModelPoint3D^ get () override;
-	void set (ModelPoint3D^ value) override;
-}
-```
+
+
 
 
 #### Значение свойства

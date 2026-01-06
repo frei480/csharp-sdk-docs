@@ -8,18 +8,8 @@
 ```csharp
 public string CircuitPageFormat { get; set; }
 ```
-```vb
-Public Property CircuitPageFormat As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ CircuitPageFormat {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

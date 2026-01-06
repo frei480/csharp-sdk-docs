@@ -11,16 +11,8 @@
 ```csharp
 public IntersectSurfaceDataPointData Points { get; }
 ```
-```vb
-Public ReadOnly Property Points As IntersectSurfaceDataPointData
-	Get
-```
-```cpp
-public:
-property IntersectSurfaceDataPointData^ Points {
-	IntersectSurfaceDataPointData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

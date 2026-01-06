@@ -13,13 +13,8 @@
 ```csharp
 public abstract class Restraint : ModelObject
 ```
-```vb
-Public MustInherit Class Restraint
-	Inherits ModelObject
-```
-```cpp
-public ref class Restraint abstract : public ModelObject
-```
+
+
 
 
 Тип Restraint предоставляет следующие члены.

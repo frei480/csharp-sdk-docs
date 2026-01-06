@@ -11,16 +11,8 @@
 ```csharp
 public ProductStructure ProductStructure { get; }
 ```
-```vb
-Public ReadOnly Property ProductStructure As ProductStructure
-	Get
-```
-```cpp
-public:
-property ProductStructure^ ProductStructure {
-	ProductStructure^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

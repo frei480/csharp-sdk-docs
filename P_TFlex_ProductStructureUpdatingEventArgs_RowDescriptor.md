@@ -8,16 +8,8 @@
 ```csharp
 public ProductStructureUpdatingEventArgsRowDescriptorInfo RowDescriptor { get; }
 ```
-```vb
-Public ReadOnly Property RowDescriptor As ProductStructureUpdatingEventArgsRowDescriptorInfo
-	Get
-```
-```cpp
-public:
-property ProductStructureUpdatingEventArgsRowDescriptorInfo^ RowDescriptor {
-	ProductStructureUpdatingEventArgsRowDescriptorInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

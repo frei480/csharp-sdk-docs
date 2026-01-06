@@ -8,18 +8,8 @@
 ```csharp
 public UseStatusType UseStatus { get; set; }
 ```
-```vb
-Public Property UseStatus As UseStatusType
-	Get
-	Set
-```
-```cpp
-public:
-property UseStatusType UseStatus {
-	UseStatusType get ();
-	void set (UseStatusType value);
-}
-```
+
+
 
 
 #### Значение свойства

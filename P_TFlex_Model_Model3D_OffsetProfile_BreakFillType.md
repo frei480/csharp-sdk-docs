@@ -11,18 +11,8 @@
 ```csharp
 public OffsetProfileBreakFill BreakFillType { get; set; }
 ```
-```vb
-Public Property BreakFillType As OffsetProfileBreakFill
-	Get
-	Set
-```
-```cpp
-public:
-property OffsetProfileBreakFill BreakFillType {
-	OffsetProfileBreakFill get ();
-	void set (OffsetProfileBreakFill value);
-}
-```
+
+
 
 
 #### Значение свойства

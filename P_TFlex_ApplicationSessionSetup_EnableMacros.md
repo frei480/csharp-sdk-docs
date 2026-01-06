@@ -11,18 +11,8 @@
 ```csharp
 public bool EnableMacros { get; set; }
 ```
-```vb
-Public Property EnableMacros As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool EnableMacros {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

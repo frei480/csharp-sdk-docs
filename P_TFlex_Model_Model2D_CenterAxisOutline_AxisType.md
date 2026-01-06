@@ -11,18 +11,8 @@
 ```csharp
 public CenterAxisOutlineCenterAxisType AxisType { get; set; }
 ```
-```vb
-Public Property AxisType As CenterAxisOutlineCenterAxisType
-	Get
-	Set
-```
-```cpp
-public:
-property CenterAxisOutlineCenterAxisType AxisType {
-	CenterAxisOutlineCenterAxisType get ();
-	void set (CenterAxisOutlineCenterAxisType value);
-}
-```
+
+
 
 
 #### Значение свойства

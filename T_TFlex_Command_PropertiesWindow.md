@@ -13,13 +13,8 @@
 ```csharp
 public class PropertiesWindow : IDisposable
 ```
-```vb
-Public Class PropertiesWindow
-	Implements IDisposable
-```
-```cpp
-public ref class PropertiesWindow : IDisposable
-```
+
+
 
 
 Тип PropertiesWindow предоставляет следующие члены.

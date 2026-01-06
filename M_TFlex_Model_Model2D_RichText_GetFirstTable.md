@@ -8,13 +8,8 @@
 ```csharp
 public Table? GetFirstTable()
 ```
-```vb
-Public Function GetFirstTable As Table?
-```
-```cpp
-public:
-Nullable<Table> GetFirstTable()
-```
+
+
 
 
 #### Возвращаемое значение

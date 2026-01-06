@@ -14,19 +14,8 @@ public FileHyperlinkProperties(
 	string text
 )
 ```
-```vb
-Public Sub New ( 
-	fileName As String,
-	text As String
-)
-```
-```cpp
-public:
-FileHyperlinkProperties(
-	String^ fileName, 
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

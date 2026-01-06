@@ -13,17 +13,8 @@ public LoftOperation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-LoftOperation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

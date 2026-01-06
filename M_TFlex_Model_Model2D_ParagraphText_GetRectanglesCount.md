@@ -11,13 +11,8 @@
 ```csharp
 public uint GetRectanglesCount()
 ```
-```vb
-Public Function GetRectanglesCount As UInteger
-```
-```cpp
-public:
-unsigned int GetRectanglesCount()
-```
+
+
 
 
 #### Возвращаемое значение

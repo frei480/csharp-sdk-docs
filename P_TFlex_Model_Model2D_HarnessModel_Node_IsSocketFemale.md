@@ -8,16 +8,8 @@
 ```csharp
 public bool IsSocketFemale { get; }
 ```
-```vb
-Public ReadOnly Property IsSocketFemale As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsSocketFemale {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

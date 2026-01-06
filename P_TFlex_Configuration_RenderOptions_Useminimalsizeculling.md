@@ -8,18 +8,8 @@
 ```csharp
 public bool Useminimalsizeculling { get; set; }
 ```
-```vb
-Public Property Useminimalsizeculling As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Useminimalsizeculling {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

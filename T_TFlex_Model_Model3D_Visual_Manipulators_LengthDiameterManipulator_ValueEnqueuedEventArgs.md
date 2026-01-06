@@ -11,13 +11,8 @@
 ```csharp
 public abstract class ValueEnqueuedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public MustInherit Class ValueEnqueuedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class ValueEnqueuedEventArgs abstract : public ManipulatorEventArgs
-```
+
+
 
 
 Тип LengthDiameterManipulatorValueEnqueuedEventArgs предоставляет следующие члены.

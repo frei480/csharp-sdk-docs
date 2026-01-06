@@ -18,27 +18,8 @@ public void ArrowLine(
 	double endSize
 )
 ```
-```vb
-Public Sub ArrowLine ( 
-	start As Point,
-	end As Point,
-	startType As Integer,
-	startSize As Double,
-	endType As Integer,
-	endSize As Double
-)
-```
-```cpp
-public:
-void ArrowLine(
-	Point start, 
-	Point end, 
-	int startType, 
-	double startSize, 
-	int endType, 
-	double endSize
-)
-```
+
+
 
 
 #### Параметры

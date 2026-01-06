@@ -11,13 +11,8 @@
 ```csharp
 public class CustomDynamicBrowsableAttribute : Attribute
 ```
-```vb
-Public Class CustomDynamicBrowsableAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomDynamicBrowsableAttribute : public Attribute
-```
+
+
 
 
 Тип CustomDynamicBrowsableAttribute предоставляет следующие члены.

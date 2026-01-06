@@ -17,25 +17,8 @@ public void SetConstructionAndOutline(
 	AnglePosition position
 )
 ```
-```vb
-Public Sub SetConstructionAndOutline ( 
-	line1 As Construction,
-	node1 As Node,
-	line2 As Outline,
-	isOnEnd2 As Boolean,
-	position As AnglePosition
-)
-```
-```cpp
-public:
-void SetConstructionAndOutline(
-	Construction^ line1, 
-	Node^ node1, 
-	Outline^ line2, 
-	bool isOnEnd2, 
-	AnglePosition position
-)
-```
+
+
 
 
 #### Параметры

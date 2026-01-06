@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool AutoSelectViewType { get; set; }
 ```
-```vb
-Public Overridable Property AutoSelectViewType As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool AutoSelectViewType {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

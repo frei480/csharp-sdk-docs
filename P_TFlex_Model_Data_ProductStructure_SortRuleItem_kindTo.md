@@ -8,18 +8,8 @@
 ```csharp
 public SortRuleItemTo kindTo { get; set; }
 ```
-```vb
-Public Property kindTo As SortRuleItemTo
-	Get
-	Set
-```
-```cpp
-public:
-property SortRuleItemTo kindTo {
-	SortRuleItemTo get ();
-	void set (SortRuleItemTo value);
-}
-```
+
+
 
 
 #### Значение свойства

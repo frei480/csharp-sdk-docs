@@ -18,33 +18,8 @@ public void DrawBitmap(
 	bool useAlphaChannel
 )
 ```
-```vb
-Public Sub DrawBitmap ( 
-	bitmapHandle As IntPtr,
-	x As Double,
-	y As Double,
-	width As Double,
-	height As Double,
-	sin As Double,
-	cos As Double,
-	transparentColor As Color?,
-	useAlphaChannel As Boolean
-)
-```
-```cpp
-public:
-void DrawBitmap(
-	IntPtr bitmapHandle, 
-	double x, 
-	double y, 
-	double width, 
-	double height, 
-	double sin, 
-	double cos, 
-	Nullable<Color> transparentColor, 
-	bool useAlphaChannel
-)
-```
+
+
 
 
 #### Параметры

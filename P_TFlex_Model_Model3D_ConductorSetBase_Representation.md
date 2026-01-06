@@ -8,18 +8,8 @@
 ```csharp
 public ConductorSetBaseTypeGeometry Representation { get; set; }
 ```
-```vb
-Public Property Representation As ConductorSetBaseTypeGeometry
-	Get
-	Set
-```
-```cpp
-public:
-property ConductorSetBaseTypeGeometry Representation {
-	ConductorSetBaseTypeGeometry get ();
-	void set (ConductorSetBaseTypeGeometry value);
-}
-```
+
+
 
 
 #### Значение свойства

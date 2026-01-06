@@ -12,20 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'ExportFileVersion' property.")]
 public int FileVersion { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'ExportFileVersion' property.")>
-Public Property FileVersion As Integer
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'ExportFileVersion' property.")]
-property int FileVersion {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

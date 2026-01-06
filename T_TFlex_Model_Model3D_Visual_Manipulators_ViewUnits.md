@@ -11,12 +11,8 @@
 ```csharp
 public enum ViewUnits
 ```
-```vb
-Public Enumeration ViewUnits
-```
-```cpp
-public enum class ViewUnits
-```
+
+
 
 
 | Имя члена | Значение | Описание |

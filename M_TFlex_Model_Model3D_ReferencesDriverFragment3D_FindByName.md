@@ -10,17 +10,8 @@ public virtual Object FindByName(
 	string name
 )
 ```
-```vb
-Public Overridable Function FindByName ( 
-	name As String
-) As Object
-```
-```cpp
-public:
-virtual Object^ FindByName(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

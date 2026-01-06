@@ -14,25 +14,8 @@ public abstract void AddDesignation(
 	DesignationType type
 )
 ```
-```vb
-Public MustOverride Sub AddDesignation ( 
-	expression As String,
-	point As FixingVector,
-	offset As Double,
-	delimiter As String,
-	type As DesignationType
-)
-```
-```cpp
-public:
-virtual void AddDesignation(
-	String^ expression, 
-	FixingVector^ point, 
-	double offset, 
-	String^ delimiter, 
-	DesignationType type
-) abstract
-```
+
+
 
 
 #### Параметры

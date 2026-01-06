@@ -11,13 +11,8 @@
 ```csharp
 public sealed class Mate : Object3D
 ```
-```vb
-Public NotInheritable Class Mate
-	Inherits Object3D
-```
-```cpp
-public ref class Mate sealed : public Object3D
-```
+
+
 
 
 Тип Mate предоставляет следующие члены.

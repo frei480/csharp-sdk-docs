@@ -11,18 +11,8 @@
 ```csharp
 public bool SynchronizePageParameters { get; set; }
 ```
-```vb
-Public Property SynchronizePageParameters As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SynchronizePageParameters {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

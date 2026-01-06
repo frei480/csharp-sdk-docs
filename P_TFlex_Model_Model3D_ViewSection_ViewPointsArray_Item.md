@@ -10,20 +10,8 @@ protected ModelPoint3D this[
 	int index
 ] { get; set; }
 ```
-```vb
-Protected Default Property Item ( 
-	index As Integer
-) As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-protected:
-property ModelPoint3D^ default[int index] {
-	ModelPoint3D^ get (int index);
-	void set (int index, ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Параметры

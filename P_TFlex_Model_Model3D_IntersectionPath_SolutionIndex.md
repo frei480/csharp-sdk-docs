@@ -11,18 +11,8 @@
 ```csharp
 public Parameter SolutionIndex { get; set; }
 ```
-```vb
-Public Property SolutionIndex As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ SolutionIndex {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

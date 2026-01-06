@@ -11,12 +11,8 @@
 ```csharp
 public class ScenarioAction
 ```
-```vb
-Public Class ScenarioAction
-```
-```cpp
-public ref class ScenarioAction
-```
+
+
 
 
 Тип ScenarioAction предоставляет следующие члены.

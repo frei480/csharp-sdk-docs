@@ -13,13 +13,8 @@
 ```csharp
 public class ImportedOperation : Operation
 ```
-```vb
-Public Class ImportedOperation
-	Inherits Operation
-```
-```cpp
-public ref class ImportedOperation : public Operation
-```
+
+
 
 
 Тип ImportedOperation предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public static readonly ComparisonOperator Equal
 ```
-```vb
-Public Shared ReadOnly Equal As ComparisonOperator
-```
-```cpp
-public:
-static initonly ComparisonOperator^ Equal
-```
+
+
 
 
 #### Значение поля

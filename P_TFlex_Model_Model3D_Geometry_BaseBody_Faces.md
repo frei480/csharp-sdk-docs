@@ -11,16 +11,8 @@
 ```csharp
 public abstract BaseFaces Faces { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property Faces As BaseFaces
-	Get
-```
-```cpp
-public:
-virtual property BaseFaces^ Faces {
-	BaseFaces^ get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

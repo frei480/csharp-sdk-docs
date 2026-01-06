@@ -13,17 +13,8 @@ public Object GetValue(
 	Guid paramId
 )
 ```
-```vb
-Public Function GetValue ( 
-	paramId As Guid
-) As Object
-```
-```cpp
-public:
-Object^ GetValue(
-	Guid paramId
-)
-```
+
+
 
 
 #### Параметры

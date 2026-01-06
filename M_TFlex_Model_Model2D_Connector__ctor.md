@@ -13,17 +13,8 @@ public Connector(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Connector(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

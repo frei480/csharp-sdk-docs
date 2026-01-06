@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToRhino : ExportTo
 ```
-```vb
-Public NotInheritable Class ExportToRhino
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportToRhino sealed : public ExportTo
-```
+
+
 
 
 Тип ExportToRhino предоставляет следующие члены.

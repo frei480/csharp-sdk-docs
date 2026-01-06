@@ -11,13 +11,8 @@
 ```csharp
 public void SetDefaults()
 ```
-```vb
-Public Sub SetDefaults
-```
-```cpp
-public:
-void SetDefaults()
-```
+
+
 
 
 #### Ссылки

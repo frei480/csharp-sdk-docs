@@ -11,12 +11,8 @@
 ```csharp
 public enum RoughnessRelativeLengthType
 ```
-```vb
-Public Enumeration RoughnessRelativeLengthType
-```
-```cpp
-public enum class RoughnessRelativeLengthType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

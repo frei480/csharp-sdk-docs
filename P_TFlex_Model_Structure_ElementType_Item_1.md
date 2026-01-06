@@ -10,18 +10,8 @@ public TypeValue this[
 	string parameterSystemName
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	parameterSystemName As String
-) As TypeValue
-	Get
-```
-```cpp
-public:
-property TypeValue^ default[String^ parameterSystemName] {
-	TypeValue^ get (String^ parameterSystemName);
-}
-```
+
+
 
 
 #### Параметры

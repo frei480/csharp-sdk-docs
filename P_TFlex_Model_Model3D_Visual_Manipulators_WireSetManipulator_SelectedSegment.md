@@ -8,18 +8,8 @@
 ```csharp
 public int SelectedSegment { get; set; }
 ```
-```vb
-Public Property SelectedSegment As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SelectedSegment {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

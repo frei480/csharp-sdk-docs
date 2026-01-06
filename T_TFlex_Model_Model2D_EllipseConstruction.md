@@ -13,13 +13,8 @@
 ```csharp
 public class EllipseConstruction : Construction
 ```
-```vb
-Public Class EllipseConstruction
-	Inherits Construction
-```
-```cpp
-public ref class EllipseConstruction : public Construction
-```
+
+
 
 
 Тип EllipseConstruction предоставляет следующие члены.

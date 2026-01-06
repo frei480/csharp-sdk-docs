@@ -8,12 +8,8 @@
 ```csharp
 public enum Severity
 ```
-```vb
-Public Enumeration Severity
-```
-```cpp
-public enum class Severity
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,13 +11,8 @@
 ```csharp
 public abstract IEnumerable<LinkBase> GetGroups()
 ```
-```vb
-Public MustOverride Function GetGroups As IEnumerable(Of LinkBase)
-```
-```cpp
-public:
-virtual IEnumerable<LinkBase^>^ GetGroups() abstract
-```
+
+
 
 
 #### Возвращаемое значение

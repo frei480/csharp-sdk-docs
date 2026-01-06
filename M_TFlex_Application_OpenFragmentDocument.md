@@ -13,17 +13,8 @@ public static Document OpenFragmentDocument(
 	string fileName
 )
 ```
-```vb
-Public Shared Function OpenFragmentDocument ( 
-	fileName As String
-) As Document
-```
-```cpp
-public:
-static Document^ OpenFragmentDocument(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

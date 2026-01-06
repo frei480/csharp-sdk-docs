@@ -11,12 +11,8 @@
 ```csharp
 public enum WrapTexture
 ```
-```vb
-Public Enumeration WrapTexture
-```
-```cpp
-public enum class WrapTexture
-```
+
+
 
 
 | Имя члена | Значение | Описание |

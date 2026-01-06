@@ -8,18 +8,8 @@
 ```csharp
 public SolvingConflictsConnectLinesMode SolvingConflictsWhenConnectLines { get; set; }
 ```
-```vb
-Public Property SolvingConflictsWhenConnectLines As SolvingConflictsConnectLinesMode
-	Get
-	Set
-```
-```cpp
-public:
-property SolvingConflictsConnectLinesMode SolvingConflictsWhenConnectLines {
-	SolvingConflictsConnectLinesMode get ();
-	void set (SolvingConflictsConnectLinesMode value);
-}
-```
+
+
 
 
 #### Значение свойства

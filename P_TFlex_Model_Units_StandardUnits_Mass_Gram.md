@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Gram { get; }
 ```
-```vb
-Public Shared ReadOnly Property Gram As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Gram {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public Assembly()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Assembly()
-```
+
+
 
 
 #### Ссылки

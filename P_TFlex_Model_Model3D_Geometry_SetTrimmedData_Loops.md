@@ -8,16 +8,8 @@
 ```csharp
 public IEnumerable<LoopTrimmedData> Loops { get; }
 ```
-```vb
-Public ReadOnly Property Loops As IEnumerable(Of LoopTrimmedData)
-	Get
-```
-```cpp
-public:
-property IEnumerable<LoopTrimmedData^>^ Loops {
-	IEnumerable<LoopTrimmedData^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

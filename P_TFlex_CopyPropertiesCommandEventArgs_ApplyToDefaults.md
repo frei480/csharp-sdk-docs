@@ -11,18 +11,8 @@
 ```csharp
 public bool ApplyToDefaults { get; set; }
 ```
-```vb
-Public Property ApplyToDefaults As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ApplyToDefaults {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public uint ID
 ```
-```vb
-Public ID As UInteger
-```
-```cpp
-public:
-unsigned int ID
-```
+
+
 
 
 #### Значение поля

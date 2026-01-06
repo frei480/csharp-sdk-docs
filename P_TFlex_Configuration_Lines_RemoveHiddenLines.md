@@ -8,18 +8,8 @@
 ```csharp
 public bool RemoveHiddenLines { get; set; }
 ```
-```vb
-Public Property RemoveHiddenLines As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RemoveHiddenLines {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

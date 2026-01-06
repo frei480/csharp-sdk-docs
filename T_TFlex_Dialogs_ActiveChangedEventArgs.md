@@ -13,13 +13,8 @@
 ```csharp
 public class ActiveChangedEventArgs : BoolEventArgs
 ```
-```vb
-Public Class ActiveChangedEventArgs
-	Inherits BoolEventArgs
-```
-```cpp
-public ref class ActiveChangedEventArgs : public BoolEventArgs
-```
+
+
 
 
 Тип ActiveChangedEventArgs предоставляет следующие члены.

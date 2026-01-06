@@ -13,17 +13,8 @@ public static Scene GetScene(
 	Document document
 )
 ```
-```vb
-Public Shared Function GetScene ( 
-	document As Document
-) As Scene
-```
-```cpp
-public:
-static Scene^ GetScene(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

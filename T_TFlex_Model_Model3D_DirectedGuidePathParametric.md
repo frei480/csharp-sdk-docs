@@ -13,13 +13,8 @@
 ```csharp
 public sealed class DirectedGuidePathParametric : GuidePathParametric
 ```
-```vb
-Public NotInheritable Class DirectedGuidePathParametric
-	Inherits GuidePathParametric
-```
-```cpp
-public ref class DirectedGuidePathParametric sealed : public GuidePathParametric
-```
+
+
 
 
 Тип DirectedGuidePathParametric предоставляет следующие члены.

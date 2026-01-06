@@ -13,16 +13,8 @@
 ```csharp
 public static Unit KilopoundPerSquareInch { get; }
 ```
-```vb
-Public Shared ReadOnly Property KilopoundPerSquareInch As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ KilopoundPerSquareInch {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

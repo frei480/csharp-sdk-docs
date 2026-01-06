@@ -11,16 +11,8 @@
 ```csharp
 public static Color ActiveView { get; }
 ```
-```vb
-Public Shared ReadOnly Property ActiveView As Color
-	Get
-```
-```cpp
-public:
-static property Color ActiveView {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

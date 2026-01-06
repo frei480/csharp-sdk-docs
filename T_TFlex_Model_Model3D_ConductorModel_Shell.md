@@ -11,12 +11,8 @@
 ```csharp
 public class Shell
 ```
-```vb
-Public Class Shell
-```
-```cpp
-public ref class Shell
-```
+
+
 
 
 Тип Shell предоставляет следующие члены.

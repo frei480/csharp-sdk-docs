@@ -8,18 +8,8 @@
 ```csharp
 public int MarkDynamicNoGeometry3D { get; set; }
 ```
-```vb
-Public Property MarkDynamicNoGeometry3D As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int MarkDynamicNoGeometry3D {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

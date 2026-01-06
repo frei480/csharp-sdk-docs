@@ -13,17 +13,8 @@ public void RemoveConstraintEdge(
 	int edgeIndex
 )
 ```
-```vb
-Public Sub RemoveConstraintEdge ( 
-	edgeIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveConstraintEdge(
-	int edgeIndex
-)
-```
+
+
 
 
 #### Параметры

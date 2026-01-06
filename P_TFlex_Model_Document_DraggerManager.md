@@ -11,18 +11,8 @@
 ```csharp
 public IDisposable DraggerManager { get; set; }
 ```
-```vb
-Public Property DraggerManager As IDisposable
-	Get
-	Set
-```
-```cpp
-public:
-property IDisposable^ DraggerManager {
-	IDisposable^ get ();
-	void set (IDisposable^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public double PlaybackRate { get; set; }
 ```
-```vb
-Public Property PlaybackRate As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double PlaybackRate {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

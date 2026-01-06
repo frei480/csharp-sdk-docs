@@ -13,13 +13,8 @@
 ```csharp
 public class CopyText : Text
 ```
-```vb
-Public Class CopyText
-	Inherits Text
-```
-```cpp
-public ref class CopyText : public Text
-```
+
+
 
 
 Тип CopyText предоставляет следующие члены.

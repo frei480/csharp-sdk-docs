@@ -11,12 +11,8 @@
 ```csharp
 public enum FillPreferenceModeType
 ```
-```vb
-Public Enumeration FillPreferenceModeType
-```
-```cpp
-public enum class FillPreferenceModeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

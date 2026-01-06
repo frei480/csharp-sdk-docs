@@ -13,17 +13,8 @@ public RowElementCell GetCell(
 	Guid parameterId
 )
 ```
-```vb
-Public Function GetCell ( 
-	parameterId As Guid
-) As RowElementCell
-```
-```cpp
-public:
-RowElementCell^ GetCell(
-	Guid parameterId
-)
-```
+
+
 
 
 #### Параметры

@@ -16,23 +16,8 @@ public void SetTangentToCircleAndPolyline(
 	int variant
 )
 ```
-```vb
-Public Sub SetTangentToCircleAndPolyline ( 
-	srcCircle As Construction,
-	srcPolyline As Construction,
-	radius As Parameter,
-	variant As Integer
-)
-```
-```cpp
-public:
-void SetTangentToCircleAndPolyline(
-	Construction^ srcCircle, 
-	Construction^ srcPolyline, 
-	Parameter^ radius, 
-	int variant
-)
-```
+
+
 
 
 #### Параметры

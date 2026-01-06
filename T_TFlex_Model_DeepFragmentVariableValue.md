@@ -13,12 +13,8 @@
 ```csharp
 public class DeepFragmentVariableValue
 ```
-```vb
-Public Class DeepFragmentVariableValue
-```
-```cpp
-public ref class DeepFragmentVariableValue
-```
+
+
 
 
 Тип DeepFragmentVariableValue предоставляет следующие члены.

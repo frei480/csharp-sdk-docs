@@ -11,13 +11,8 @@
 ```csharp
 public PluginFactory()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PluginFactory()
-```
+
+
 
 
 #### Ссылки

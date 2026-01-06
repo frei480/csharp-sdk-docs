@@ -11,13 +11,8 @@
 ```csharp
 public bool IsWireframe()
 ```
-```vb
-Public Function IsWireframe As Boolean
-```
-```cpp
-public:
-bool IsWireframe()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -15,21 +15,8 @@ public ICollection<BaseClashResultItem> Clash(
 	bool isFindIntersect
 )
 ```
-```vb
-Public Function Clash ( 
-	body As BaseBody,
-	isFindAllClashes As Boolean,
-	isFindIntersect As Boolean
-) As ICollection(Of BaseClashResultItem)
-```
-```cpp
-public:
-ICollection<BaseClashResultItem^>^ Clash(
-	BaseBody^ body, 
-	bool isFindAllClashes, 
-	bool isFindIntersect
-)
-```
+
+
 
 
 #### Параметры

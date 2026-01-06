@@ -13,13 +13,8 @@
 ```csharp
 public sealed class PointsArray : GeometricArray
 ```
-```vb
-Public NotInheritable Class PointsArray
-	Inherits GeometricArray
-```
-```cpp
-public ref class PointsArray sealed : public GeometricArray
-```
+
+
 
 
 Тип PointsArray предоставляет следующие члены.

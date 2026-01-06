@@ -13,17 +13,8 @@ public int AddDragger(
 	Dragger dragger
 )
 ```
-```vb
-Public Function AddDragger ( 
-	dragger As Dragger
-) As Integer
-```
-```cpp
-public:
-int AddDragger(
-	Dragger^ dragger
-)
-```
+
+
 
 
 #### Параметры

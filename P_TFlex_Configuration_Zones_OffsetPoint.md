@@ -8,18 +8,8 @@
 ```csharp
 public PageZonesOffsetPoint OffsetPoint { get; set; }
 ```
-```vb
-Public Property OffsetPoint As PageZonesOffsetPoint
-	Get
-	Set
-```
-```cpp
-public:
-property PageZonesOffsetPoint OffsetPoint {
-	PageZonesOffsetPoint get ();
-	void set (PageZonesOffsetPoint value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public enum AreaFillStyle
 ```
-```vb
-Public Enumeration AreaFillStyle
-```
-```cpp
-public enum class AreaFillStyle
-```
+
+
 
 
 | Имя члена | Значение | Описание |

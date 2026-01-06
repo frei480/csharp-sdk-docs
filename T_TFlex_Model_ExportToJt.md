@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToJt : ExportTo3dCommon
 ```
-```vb
-Public NotInheritable Class ExportToJt
-	Inherits ExportTo3dCommon
-```
-```cpp
-public ref class ExportToJt sealed : public ExportTo3dCommon
-```
+
+
 
 
 Тип ExportToJt предоставляет следующие члены.

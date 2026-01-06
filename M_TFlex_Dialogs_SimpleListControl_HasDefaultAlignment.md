@@ -13,17 +13,8 @@ public bool HasDefaultAlignment(
 	int column
 )
 ```
-```vb
-Public Function HasDefaultAlignment ( 
-	column As Integer
-) As Boolean
-```
-```cpp
-public:
-bool HasDefaultAlignment(
-	int column
-)
-```
+
+
 
 
 #### Параметры

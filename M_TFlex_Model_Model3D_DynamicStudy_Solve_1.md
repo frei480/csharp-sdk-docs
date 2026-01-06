@@ -13,17 +13,8 @@ public bool Solve(
 	DynamicStudySolveCallback callback
 )
 ```
-```vb
-Public Function Solve ( 
-	callback As DynamicStudySolveCallback
-) As Boolean
-```
-```cpp
-public:
-bool Solve(
-	DynamicStudySolveCallback^ callback
-)
-```
+
+
 
 
 #### Параметры

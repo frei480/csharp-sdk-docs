@@ -10,18 +10,8 @@ public abstract BaseEdge this[
 	int Index
 ] { get; }
 ```
-```vb
-Public MustOverride ReadOnly Default Property Item ( 
-	Index As Integer
-) As BaseEdge
-	Get
-```
-```cpp
-public:
-virtual property BaseEdge^ default[int Index] {
-	BaseEdge^ get (int Index) abstract;
-}
-```
+
+
 
 
 #### Параметры

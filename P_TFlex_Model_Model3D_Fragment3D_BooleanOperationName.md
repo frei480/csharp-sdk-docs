@@ -11,16 +11,8 @@
 ```csharp
 public string BooleanOperationName { get; }
 ```
-```vb
-Public ReadOnly Property BooleanOperationName As String
-	Get
-```
-```cpp
-public:
-property String^ BooleanOperationName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

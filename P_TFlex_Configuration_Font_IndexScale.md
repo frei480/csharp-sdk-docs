@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter IndexScale { get; set; }
 ```
-```vb
-Public Property IndexScale As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ IndexScale {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ protected virtual void OnSessionInitialized(
 	SessionInitializedEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub OnSessionInitialized ( 
-	args As SessionInitializedEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnSessionInitialized(
-	SessionInitializedEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

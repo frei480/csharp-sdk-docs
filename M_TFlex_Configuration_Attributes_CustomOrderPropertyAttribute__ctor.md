@@ -13,17 +13,8 @@ public CustomOrderPropertyAttribute(
 	int order
 )
 ```
-```vb
-Public Sub New ( 
-	order As Integer
-)
-```
-```cpp
-public:
-CustomOrderPropertyAttribute(
-	int order
-)
-```
+
+
 
 
 #### Параметры

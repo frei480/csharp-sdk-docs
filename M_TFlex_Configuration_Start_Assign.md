@@ -10,17 +10,8 @@ public void Assign(
 	Start source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Start
-)
-```
-```cpp
-public:
-void Assign(
-	Start^ source
-)
-```
+
+
 
 
 #### Параметры

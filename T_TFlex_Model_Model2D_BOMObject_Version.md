@@ -13,12 +13,8 @@
 ```csharp
 public struct Version
 ```
-```vb
-Public Structure Version
-```
-```cpp
-public value class Version
-```
+
+
 
 
 Тип BOMObjectVersion предоставляет следующие члены.

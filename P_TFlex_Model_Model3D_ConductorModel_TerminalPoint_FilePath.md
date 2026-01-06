@@ -8,16 +8,8 @@
 ```csharp
 public string FilePath { get; }
 ```
-```vb
-Public ReadOnly Property FilePath As String
-	Get
-```
-```cpp
-public:
-property String^ FilePath {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

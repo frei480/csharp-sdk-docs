@@ -8,13 +8,8 @@
 ```csharp
 public void Update()
 ```
-```vb
-Public Sub Update
-```
-```cpp
-public:
-void Update()
-```
+
+
 
 
 #### Ссылки

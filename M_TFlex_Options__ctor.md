@@ -11,13 +11,8 @@
 ```csharp
 public Options()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Options()
-```
+
+
 
 
 #### Ссылки

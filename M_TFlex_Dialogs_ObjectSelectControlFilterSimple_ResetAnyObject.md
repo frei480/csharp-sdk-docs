@@ -11,13 +11,8 @@
 ```csharp
 public abstract void ResetAnyObject()
 ```
-```vb
-Public MustOverride Sub ResetAnyObject
-```
-```cpp
-public:
-virtual void ResetAnyObject() abstract
-```
+
+
 
 
 #### Ссылки

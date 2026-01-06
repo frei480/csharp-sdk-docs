@@ -11,19 +11,8 @@ public void SetRepeatCount(
 	uint nNegative
 )
 ```
-```vb
-Public Sub SetRepeatCount ( 
-	nPositive As UInteger,
-	nNegative As UInteger
-)
-```
-```cpp
-public:
-void SetRepeatCount(
-	unsigned int nPositive, 
-	unsigned int nNegative
-)
-```
+
+
 
 
 #### Параметры

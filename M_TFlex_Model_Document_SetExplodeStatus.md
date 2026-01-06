@@ -16,19 +16,8 @@ public void SetExplodeStatus(
 	bool mode
 )
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete. Please use variable property "ExplodeMode"")>
-Public Sub SetExplodeStatus ( 
-	mode As Boolean
-)
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete. Please use variable property "ExplodeMode"")]
-void SetExplodeStatus(
-	bool mode
-)
-```
+
+
 
 
 #### Параметры

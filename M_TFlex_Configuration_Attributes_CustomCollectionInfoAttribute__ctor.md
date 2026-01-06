@@ -15,21 +15,8 @@ public CustomCollectionInfoAttribute(
 	bool propListVisible
 )
 ```
-```vb
-Public Sub New ( 
-	type As Type,
-	templateName As String,
-	propListVisible As Boolean
-)
-```
-```cpp
-public:
-CustomCollectionInfoAttribute(
-	Type^ type, 
-	String^ templateName, 
-	bool propListVisible
-)
-```
+
+
 
 
 #### Параметры

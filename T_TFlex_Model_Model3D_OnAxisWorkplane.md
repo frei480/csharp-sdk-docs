@@ -13,13 +13,8 @@
 ```csharp
 public class OnAxisWorkplane : Model3DWorkplane
 ```
-```vb
-Public Class OnAxisWorkplane
-	Inherits Model3DWorkplane
-```
-```cpp
-public ref class OnAxisWorkplane : public Model3DWorkplane
-```
+
+
 
 
 Тип OnAxisWorkplane предоставляет следующие члены.

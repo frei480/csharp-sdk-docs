@@ -15,21 +15,8 @@ public void SetArrowNode(
 	Parameter dY
 )
 ```
-```vb
-Public Sub SetArrowNode ( 
-	nod As Node,
-	dX As Parameter,
-	dY As Parameter
-)
-```
-```cpp
-public:
-void SetArrowNode(
-	Node^ nod, 
-	Parameter^ dX, 
-	Parameter^ dY
-)
-```
+
+
 
 
 #### Параметры

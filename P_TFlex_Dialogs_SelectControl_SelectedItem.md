@@ -11,18 +11,8 @@
 ```csharp
 public SelectControlItem SelectedItem { get; set; }
 ```
-```vb
-Public Property SelectedItem As SelectControlItem
-	Get
-	Set
-```
-```cpp
-public:
-property SelectControlItem^ SelectedItem {
-	SelectControlItem^ get ();
-	void set (SelectControlItem^ value);
-}
-```
+
+
 
 
 #### Значение свойства

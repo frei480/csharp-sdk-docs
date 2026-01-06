@@ -8,18 +8,8 @@
 ```csharp
 public int BodyHandle { get; set; }
 ```
-```vb
-Public Property BodyHandle As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int BodyHandle {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

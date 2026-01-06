@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ObjectProperty
 ```
-```vb
-Public NotInheritable Class ObjectProperty
-```
-```cpp
-public ref class ObjectProperty sealed
-```
+
+
 
 
 Тип ObjectProperty предоставляет следующие члены.

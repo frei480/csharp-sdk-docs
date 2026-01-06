@@ -11,12 +11,8 @@
 ```csharp
 public class Group
 ```
-```vb
-Public Class Group
-```
-```cpp
-public ref class Group
-```
+
+
 
 
 Тип Group предоставляет следующие члены.

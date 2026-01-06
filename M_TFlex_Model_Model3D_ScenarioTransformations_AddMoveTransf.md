@@ -14,19 +14,8 @@ public void AddMoveTransf(
 	double offset
 )
 ```
-```vb
-Public Sub AddMoveTransf ( 
-	direction As TransformationCoordinate,
-	offset As Double
-)
-```
-```cpp
-public:
-void AddMoveTransf(
-	TransformationCoordinate direction, 
-	double offset
-)
-```
+
+
 
 
 #### Параметры

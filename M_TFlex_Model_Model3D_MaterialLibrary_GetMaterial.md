@@ -13,17 +13,8 @@ public MaterialParameters GetMaterial(
 	int Index
 )
 ```
-```vb
-Public Function GetMaterial ( 
-	Index As Integer
-) As MaterialParameters
-```
-```cpp
-public:
-MaterialParameters^ GetMaterial(
-	int Index
-)
-```
+
+
 
 
 #### Параметры

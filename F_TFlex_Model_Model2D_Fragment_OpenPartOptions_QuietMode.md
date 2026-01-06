@@ -11,13 +11,8 @@
 ```csharp
 public bool QuietMode
 ```
-```vb
-Public QuietMode As Boolean
-```
-```cpp
-public:
-bool QuietMode
-```
+
+
 
 
 #### Значение поля

@@ -13,13 +13,8 @@
 ```csharp
 public abstract class SpatialWorkSurface : WorkSurface
 ```
-```vb
-Public MustInherit Class SpatialWorkSurface
-	Inherits WorkSurface
-```
-```cpp
-public ref class SpatialWorkSurface abstract : public WorkSurface
-```
+
+
 
 
 Тип SpatialWorkSurface предоставляет следующие члены.

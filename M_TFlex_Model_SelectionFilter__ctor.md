@@ -11,13 +11,8 @@
 ```csharp
 public SelectionFilter()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SelectionFilter()
-```
+
+
 
 
 #### Ссылки

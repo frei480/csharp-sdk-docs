@@ -13,17 +13,8 @@ public bool SetActive(
 	int index
 )
 ```
-```vb
-Public Function SetActive ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool SetActive(
-	int index
-)
-```
+
+
 
 
 #### Параметры

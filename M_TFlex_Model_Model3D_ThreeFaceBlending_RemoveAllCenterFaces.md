@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllCenterFaces()
 ```
-```vb
-Public Sub RemoveAllCenterFaces
-```
-```cpp
-public:
-void RemoveAllCenterFaces()
-```
+
+
 
 
 #### Ссылки

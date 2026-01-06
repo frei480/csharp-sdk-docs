@@ -16,23 +16,8 @@ public void SetTangentToCircleOnAngle(
 	Parameter angle
 )
 ```
-```vb
-Public Sub SetTangentToCircleOnAngle ( 
-	srcLine As Construction,
-	srcCircle As Construction,
-	variant As Integer,
-	angle As Parameter
-)
-```
-```cpp
-public:
-void SetTangentToCircleOnAngle(
-	Construction^ srcLine, 
-	Construction^ srcCircle, 
-	int variant, 
-	Parameter^ angle
-)
-```
+
+
 
 
 #### Параметры

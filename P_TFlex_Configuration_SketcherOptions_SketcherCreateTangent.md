@@ -8,18 +8,8 @@
 ```csharp
 public bool SketcherCreateTangent { get; set; }
 ```
-```vb
-Public Property SketcherCreateTangent As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SketcherCreateTangent {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

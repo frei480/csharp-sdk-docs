@@ -13,17 +13,8 @@ public DrawingViewBreak GetAt(
 	int index
 )
 ```
-```vb
-Public Function GetAt ( 
-	index As Integer
-) As DrawingViewBreak
-```
-```cpp
-public:
-DrawingViewBreak^ GetAt(
-	int index
-)
-```
+
+
 
 
 #### Параметры

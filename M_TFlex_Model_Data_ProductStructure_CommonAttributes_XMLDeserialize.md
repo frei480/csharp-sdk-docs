@@ -10,17 +10,8 @@ public bool XMLDeserialize(
 	XmlElement element
 )
 ```
-```vb
-Public Function XMLDeserialize ( 
-	element As XmlElement
-) As Boolean
-```
-```cpp
-public:
-bool XMLDeserialize(
-	XmlElement^ element
-)
-```
+
+
 
 
 #### Параметры

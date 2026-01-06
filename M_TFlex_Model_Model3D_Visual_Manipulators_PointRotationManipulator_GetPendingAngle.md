@@ -11,13 +11,8 @@
 ```csharp
 public double GetPendingAngle()
 ```
-```vb
-Public Function GetPendingAngle As Double
-```
-```cpp
-public:
-double GetPendingAngle()
-```
+
+
 
 
 #### Возвращаемое значение

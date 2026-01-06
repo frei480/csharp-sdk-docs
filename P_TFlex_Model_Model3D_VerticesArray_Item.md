@@ -10,20 +10,8 @@ public ModelVertex this[
 	int A_0
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	A_0 As Integer
-) As ModelVertex
-	Get
-	Set
-```
-```cpp
-public:
-property ModelVertex^ default[int A_0] {
-	ModelVertex^ get (int A_0);
-	void set (int A_0, ModelVertex^ value);
-}
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public Compatibility()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Compatibility()
-```
+
+
 
 
 #### Ссылки

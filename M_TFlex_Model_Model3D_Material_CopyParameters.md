@@ -13,17 +13,8 @@ public void CopyParameters(
 	MaterialParameters parameters
 )
 ```
-```vb
-Public Sub CopyParameters ( 
-	parameters As MaterialParameters
-)
-```
-```cpp
-public:
-void CopyParameters(
-	MaterialParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public TransformationMatrix Transformation { get; }
 ```
-```vb
-Public ReadOnly Property Transformation As TransformationMatrix
-	Get
-```
-```cpp
-public:
-property TransformationMatrix^ Transformation {
-	TransformationMatrix^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

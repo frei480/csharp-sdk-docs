@@ -13,17 +13,8 @@ public Object FindValue(
 	string key
 )
 ```
-```vb
-Public Function FindValue ( 
-	key As String
-) As Object
-```
-```cpp
-public:
-Object^ FindValue(
-	String^ key
-)
-```
+
+
 
 
 #### Параметры

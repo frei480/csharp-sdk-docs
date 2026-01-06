@@ -13,13 +13,8 @@
 ```csharp
 public class SymmetryConstruction : Construction
 ```
-```vb
-Public Class SymmetryConstruction
-	Inherits Construction
-```
-```cpp
-public ref class SymmetryConstruction : public Construction
-```
+
+
 
 
 Тип SymmetryConstruction предоставляет следующие члены.

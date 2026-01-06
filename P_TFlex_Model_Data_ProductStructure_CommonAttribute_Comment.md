@@ -8,18 +8,8 @@
 ```csharp
 public string Comment { get; set; }
 ```
-```vb
-Public Property Comment As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Comment {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool ShowLine { get; set; }
 ```
-```vb
-Public Property ShowLine As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowLine {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

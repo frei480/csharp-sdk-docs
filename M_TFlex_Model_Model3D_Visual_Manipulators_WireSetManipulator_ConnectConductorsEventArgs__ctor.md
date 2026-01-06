@@ -11,13 +11,8 @@
 ```csharp
 public ConnectConductorsEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ConnectConductorsEventArgs()
-```
+
+
 
 
 #### Ссылки

@@ -13,17 +13,8 @@ protected virtual void OnUpdateCommand(
 	CommandUI A_0
 )
 ```
-```vb
-Protected Overridable Sub OnUpdateCommand ( 
-	A_0 As CommandUI
-)
-```
-```cpp
-protected:
-virtual void OnUpdateCommand(
-	CommandUI^ A_0
-)
-```
+
+
 
 
 #### Параметры

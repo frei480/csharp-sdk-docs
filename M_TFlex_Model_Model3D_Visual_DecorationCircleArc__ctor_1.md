@@ -17,25 +17,8 @@ public DecorationCircleArc(
 	double angle
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	center As FloatVector,
-	axis As FloatVector,
-	start As FloatVector,
-	angle As Double
-)
-```
-```cpp
-public:
-DecorationCircleArc(
-	String^ name, 
-	FloatVector center, 
-	FloatVector axis, 
-	FloatVector start, 
-	double angle
-)
-```
+
+
 
 
 #### Параметры

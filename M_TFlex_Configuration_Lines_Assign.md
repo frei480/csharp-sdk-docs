@@ -10,17 +10,8 @@ public void Assign(
 	Lines source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Lines
-)
-```
-```cpp
-public:
-void Assign(
-	Lines^ source
-)
-```
+
+
 
 
 #### Параметры

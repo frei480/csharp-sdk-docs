@@ -11,16 +11,8 @@
 ```csharp
 public CopyOperation SourceCopyOperation { get; }
 ```
-```vb
-Public ReadOnly Property SourceCopyOperation As CopyOperation
-	Get
-```
-```cpp
-public:
-property CopyOperation^ SourceCopyOperation {
-	CopyOperation^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

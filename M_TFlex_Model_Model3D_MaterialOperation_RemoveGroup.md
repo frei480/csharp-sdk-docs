@@ -13,17 +13,8 @@ public void RemoveGroup(
 	int Group
 )
 ```
-```vb
-Public Sub RemoveGroup ( 
-	Group As Integer
-)
-```
-```cpp
-public:
-void RemoveGroup(
-	int Group
-)
-```
+
+
 
 
 #### Параметры

@@ -8,13 +8,8 @@
 ```csharp
 public abstract ParameterProviderType GetParamType()
 ```
-```vb
-Public MustOverride Function GetParamType As ParameterProviderType
-```
-```cpp
-public:
-virtual ParameterProviderType GetParamType() abstract
-```
+
+
 
 
 #### Возвращаемое значение

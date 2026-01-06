@@ -13,17 +13,8 @@ public ExportToIFC(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToIFC(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public ObjectRepresentation()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ObjectRepresentation()
-```
+
+
 
 
 #### Ссылки

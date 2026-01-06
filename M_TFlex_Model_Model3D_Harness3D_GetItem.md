@@ -13,17 +13,8 @@ public Construction3D GetItem(
 	uint nItem
 )
 ```
-```vb
-Public Function GetItem ( 
-	nItem As UInteger
-) As Construction3D
-```
-```cpp
-public:
-Construction3D^ GetItem(
-	unsigned int nItem
-)
-```
+
+
 
 
 #### Параметры

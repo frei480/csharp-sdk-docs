@@ -11,12 +11,8 @@
 ```csharp
 public interface BaseLoop
 ```
-```vb
-Public Interface BaseLoop
-```
-```cpp
-public interface class BaseLoop
-```
+
+
 
 
 Тип BaseLoop предоставляет следующие члены.

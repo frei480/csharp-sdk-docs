@@ -13,13 +13,8 @@
 ```csharp
 public class FunctionConstruction : Construction
 ```
-```vb
-Public Class FunctionConstruction
-	Inherits Construction
-```
-```cpp
-public ref class FunctionConstruction : public Construction
-```
+
+
 
 
 Тип FunctionConstruction предоставляет следующие члены.

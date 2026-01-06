@@ -14,15 +14,8 @@
 public sealed class Container : MarshalByRefObject, 
 	IDisposable
 ```
-```vb
-Public NotInheritable Class Container
-	Inherits MarshalByRefObject
-	Implements IDisposable
-```
-```cpp
-public ref class Container sealed : public MarshalByRefObject, 
-	IDisposable
-```
+
+
 
 
 Тип Container предоставляет следующие члены.

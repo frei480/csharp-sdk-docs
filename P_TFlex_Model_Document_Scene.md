@@ -11,18 +11,8 @@
 ```csharp
 public IDisposable Scene { get; set; }
 ```
-```vb
-Public Property Scene As IDisposable
-	Get
-	Set
-```
-```cpp
-public:
-property IDisposable^ Scene {
-	IDisposable^ get ();
-	void set (IDisposable^ value);
-}
-```
+
+
 
 
 #### Значение свойства

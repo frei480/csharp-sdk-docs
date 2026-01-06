@@ -11,12 +11,8 @@
 ```csharp
 public enum ListItemRole
 ```
-```vb
-Public Enumeration ListItemRole
-```
-```cpp
-public enum class ListItemRole
-```
+
+
 
 
 | Имя члена | Значение | Описание |

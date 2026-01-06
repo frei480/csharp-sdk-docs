@@ -11,18 +11,8 @@
 ```csharp
 public virtual SpunData Data { get; set; }
 ```
-```vb
-Public Overridable Property Data As SpunData
-	Get
-	Set
-```
-```cpp
-public:
-virtual property SpunData^ Data {
-	SpunData^ get ();
-	void set (SpunData^ value);
-}
-```
+
+
 
 
 #### Значение свойства

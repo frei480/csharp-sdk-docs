@@ -8,13 +8,8 @@
 ```csharp
 public override sealed void ResetAnyObject()
 ```
-```vb
-Public Overrides NotOverridable Sub ResetAnyObject
-```
-```cpp
-public:
-virtual void ResetAnyObject() override sealed
-```
+
+
 
 
 #### Ссылки

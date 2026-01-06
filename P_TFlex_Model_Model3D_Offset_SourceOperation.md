@@ -8,18 +8,8 @@
 ```csharp
 public Operation SourceOperation { get; set; }
 ```
-```vb
-Public Property SourceOperation As Operation
-	Get
-	Set
-```
-```cpp
-public:
-property Operation^ SourceOperation {
-	Operation^ get ();
-	void set (Operation^ value);
-}
-```
+
+
 
 
 #### Значение свойства

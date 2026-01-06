@@ -11,18 +11,8 @@
 ```csharp
 public Parameter TopThickness { get; set; }
 ```
-```vb
-Public Property TopThickness As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ TopThickness {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

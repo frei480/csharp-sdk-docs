@@ -13,17 +13,8 @@ public PipePath3DBaseSegment GetPrevSegment(
 	PipePath3DBaseSegment pSegment
 )
 ```
-```vb
-Public Function GetPrevSegment ( 
-	pSegment As PipePath3DBaseSegment
-) As PipePath3DBaseSegment
-```
-```cpp
-public:
-PipePath3DBaseSegment^ GetPrevSegment(
-	PipePath3DBaseSegment^ pSegment
-)
-```
+
+
 
 
 #### Параметры

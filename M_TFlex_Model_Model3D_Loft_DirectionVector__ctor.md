@@ -14,19 +14,8 @@ public DirectionVector(
 	Parameter magnitude
 )
 ```
-```vb
-Public Sub New ( 
-	direction As ModelDirection,
-	magnitude As Parameter
-)
-```
-```cpp
-public:
-DirectionVector(
-	ModelDirection^ direction, 
-	Parameter^ magnitude
-)
-```
+
+
 
 
 #### Параметры

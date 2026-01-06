@@ -11,13 +11,8 @@
 ```csharp
 public Documents()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Documents()
-```
+
+
 
 
 #### Ссылки

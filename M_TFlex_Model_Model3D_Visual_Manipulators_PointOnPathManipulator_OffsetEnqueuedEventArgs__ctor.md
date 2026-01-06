@@ -11,13 +11,8 @@
 ```csharp
 public OffsetEnqueuedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-OffsetEnqueuedEventArgs()
-```
+
+
 
 
 #### Ссылки

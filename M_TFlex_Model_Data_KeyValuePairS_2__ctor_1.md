@@ -14,19 +14,8 @@ public KeyValuePairS(
 	TValue val
 )
 ```
-```vb
-Public Sub New ( 
-	key As TKey,
-	val As TValue
-)
-```
-```cpp
-public:
-KeyValuePairS(
-	TKey key, 
-	TValue val
-)
-```
+
+
 
 
 #### Параметры

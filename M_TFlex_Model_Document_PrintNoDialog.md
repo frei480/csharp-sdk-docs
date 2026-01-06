@@ -11,13 +11,8 @@
 ```csharp
 public void PrintNoDialog()
 ```
-```vb
-Public Sub PrintNoDialog
-```
-```cpp
-public:
-void PrintNoDialog()
-```
+
+
 
 
 #### Ссылки

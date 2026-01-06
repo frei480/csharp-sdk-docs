@@ -8,16 +8,8 @@
 ```csharp
 public int Index { get; }
 ```
-```vb
-Public ReadOnly Property Index As Integer
-	Get
-```
-```cpp
-public:
-property int Index {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

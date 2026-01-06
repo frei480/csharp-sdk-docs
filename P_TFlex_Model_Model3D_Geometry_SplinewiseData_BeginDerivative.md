@@ -11,18 +11,8 @@
 ```csharp
 public BaseDirection BeginDerivative { get; set; }
 ```
-```vb
-Public Property BeginDerivative As BaseDirection
-	Get
-	Set
-```
-```cpp
-public:
-property BaseDirection^ BeginDerivative {
-	BaseDirection^ get ();
-	void set (BaseDirection^ value);
-}
-```
+
+
 
 
 #### Значение свойства

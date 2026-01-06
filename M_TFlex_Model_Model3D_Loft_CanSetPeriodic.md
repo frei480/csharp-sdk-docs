@@ -11,13 +11,8 @@
 ```csharp
 public bool CanSetPeriodic()
 ```
-```vb
-Public Function CanSetPeriodic As Boolean
-```
-```cpp
-public:
-bool CanSetPeriodic()
-```
+
+
 
 
 #### Возвращаемое значение

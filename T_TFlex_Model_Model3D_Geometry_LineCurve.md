@@ -13,15 +13,8 @@
 ```csharp
 public class LineCurve : Curve, BaseLineCurve
 ```
-```vb
-Public Class LineCurve
-	Inherits Curve
-	Implements BaseLineCurve
-```
-```cpp
-public ref class LineCurve : public Curve, 
-	BaseLineCurve
-```
+
+
 
 
 Тип LineCurve предоставляет следующие члены.

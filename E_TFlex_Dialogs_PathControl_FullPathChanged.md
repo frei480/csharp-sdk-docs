@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<BaseEventArgs> FullPathChanged
 ```
-```vb
-Public Event FullPathChanged As EventHandler(Of BaseEventArgs)
-```
-```cpp
-public:
- event EventHandler<BaseEventArgs^>^ FullPathChanged {
-	void add (EventHandler<BaseEventArgs^>^ value);
-	void remove (EventHandler<BaseEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

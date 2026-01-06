@@ -14,19 +14,8 @@ public void SetCenterAndNode(
 	Node srcNode
 )
 ```
-```vb
-Public Sub SetCenterAndNode ( 
-	centerNode As Node,
-	srcNode As Node
-)
-```
-```cpp
-public:
-void SetCenterAndNode(
-	Node^ centerNode, 
-	Node^ srcNode
-)
-```
+
+
 
 
 #### Параметры

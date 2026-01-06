@@ -14,19 +14,8 @@ public LoftVectorCondition GetProfileVectorCondition(
 	int profileVectorConditionIndex
 )
 ```
-```vb
-Public Function GetProfileVectorCondition ( 
-	profileIndex As Integer,
-	profileVectorConditionIndex As Integer
-) As LoftVectorCondition
-```
-```cpp
-public:
-LoftVectorCondition^ GetProfileVectorCondition(
-	int profileIndex, 
-	int profileVectorConditionIndex
-)
-```
+
+
 
 
 #### Параметры

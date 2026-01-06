@@ -11,13 +11,8 @@
 ```csharp
 public FontOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FontOptions()
-```
+
+
 
 
 #### Ссылки

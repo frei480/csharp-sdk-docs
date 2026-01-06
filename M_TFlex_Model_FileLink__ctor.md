@@ -13,17 +13,8 @@ public FileLink(
 	BackFileLinkParameters parameters
 )
 ```
-```vb
-Public Sub New ( 
-	parameters As BackFileLinkParameters
-)
-```
-```cpp
-public:
-FileLink(
-	BackFileLinkParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

@@ -8,18 +8,8 @@
 ```csharp
 public double TooltipTransparency { get; set; }
 ```
-```vb
-Public Property TooltipTransparency As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double TooltipTransparency {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

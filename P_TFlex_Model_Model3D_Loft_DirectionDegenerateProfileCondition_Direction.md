@@ -11,16 +11,8 @@
 ```csharp
 public virtual ModelDirection Direction { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Direction As ModelDirection
-	Get
-```
-```cpp
-public:
-virtual property ModelDirection^ Direction {
-	ModelDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

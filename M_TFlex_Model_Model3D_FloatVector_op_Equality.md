@@ -14,19 +14,8 @@ public static bool operator ==(
 	FloatVector second
 )
 ```
-```vb
-Public Shared Operator = ( 
-	first As FloatVector,
-	second As FloatVector
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	FloatVector first, 
-	FloatVector second
-)
-```
+
+
 
 
 #### Параметры

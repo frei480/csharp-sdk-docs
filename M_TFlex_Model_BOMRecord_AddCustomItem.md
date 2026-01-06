@@ -11,13 +11,8 @@
 ```csharp
 public CustomBOMItem AddCustomItem()
 ```
-```vb
-Public Function AddCustomItem As CustomBOMItem
-```
-```cpp
-public:
-CustomBOMItem^ AddCustomItem()
-```
+
+
 
 
 #### Возвращаемое значение

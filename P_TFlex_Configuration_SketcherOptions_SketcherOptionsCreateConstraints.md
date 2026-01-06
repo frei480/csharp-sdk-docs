@@ -8,18 +8,8 @@
 ```csharp
 public bool SketcherOptionsCreateConstraints { get; set; }
 ```
-```vb
-Public Property SketcherOptionsCreateConstraints As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SketcherOptionsCreateConstraints {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

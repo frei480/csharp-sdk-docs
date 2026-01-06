@@ -16,23 +16,8 @@ public static ImportedOperation Create(
 	BasePoint3D point2
 )
 ```
-```vb
-Public Shared Function Create ( 
-	document As Document,
-	point0 As BasePoint3D,
-	point1 As BasePoint3D,
-	point2 As BasePoint3D
-) As ImportedOperation
-```
-```cpp
-public:
-static ImportedOperation^ Create(
-	Document^ document, 
-	BasePoint3D^ point0, 
-	BasePoint3D^ point1, 
-	BasePoint3D^ point2
-)
-```
+
+
 
 
 #### Параметры

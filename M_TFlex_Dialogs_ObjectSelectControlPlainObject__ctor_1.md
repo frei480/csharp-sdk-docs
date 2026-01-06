@@ -14,19 +14,8 @@ public ObjectSelectControlPlainObject(
 	Icon icon
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	icon As Icon
-)
-```
-```cpp
-public:
-ObjectSelectControlPlainObject(
-	String^ name, 
-	Icon^ icon
-)
-```
+
+
 
 
 #### Параметры

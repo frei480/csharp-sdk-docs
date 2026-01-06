@@ -13,17 +13,8 @@ public void AddProfile(
 	ModelContour contour
 )
 ```
-```vb
-Public Sub AddProfile ( 
-	contour As ModelContour
-)
-```
-```cpp
-public:
-void AddProfile(
-	ModelContour^ contour
-)
-```
+
+
 
 
 #### Параметры

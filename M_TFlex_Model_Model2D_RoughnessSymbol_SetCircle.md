@@ -15,21 +15,8 @@ public void SetCircle(
 	Parameter sinAngle
 )
 ```
-```vb
-Public Sub SetCircle ( 
-	circle As Object2D,
-	cosAngle As Parameter,
-	sinAngle As Parameter
-)
-```
-```cpp
-public:
-void SetCircle(
-	Object2D^ circle, 
-	Parameter^ cosAngle, 
-	Parameter^ sinAngle
-)
-```
+
+
 
 
 #### Параметры

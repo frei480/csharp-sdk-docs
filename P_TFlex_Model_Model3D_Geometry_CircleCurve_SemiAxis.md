@@ -11,18 +11,8 @@
 ```csharp
 public virtual BaseDirection SemiAxis { get; set; }
 ```
-```vb
-Public Overridable Property SemiAxis As BaseDirection
-	Get
-	Set
-```
-```cpp
-public:
-virtual property BaseDirection^ SemiAxis {
-	BaseDirection^ get ();
-	void set (BaseDirection^ value);
-}
-```
+
+
 
 
 #### Значение свойства

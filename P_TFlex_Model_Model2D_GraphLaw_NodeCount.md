@@ -11,16 +11,8 @@
 ```csharp
 public uint NodeCount { get; }
 ```
-```vb
-Public ReadOnly Property NodeCount As UInteger
-	Get
-```
-```cpp
-public:
-property unsigned int NodeCount {
-	unsigned int get ();
-}
-```
+
+
 
 
 #### Значение свойства

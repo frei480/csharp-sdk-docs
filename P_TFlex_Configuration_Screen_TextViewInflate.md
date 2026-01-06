@@ -8,18 +8,8 @@
 ```csharp
 public double TextViewInflate { get; set; }
 ```
-```vb
-Public Property TextViewInflate As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double TextViewInflate {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

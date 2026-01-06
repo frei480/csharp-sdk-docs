@@ -11,18 +11,8 @@
 ```csharp
 public double YBeginRotationValue { get; set; }
 ```
-```vb
-Public Property YBeginRotationValue As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double YBeginRotationValue {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

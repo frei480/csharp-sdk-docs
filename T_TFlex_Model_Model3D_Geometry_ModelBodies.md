@@ -14,15 +14,8 @@
 public abstract class ModelBodies : Bodies, 
 	IEnumerator, IEnumerable, IDisposable
 ```
-```vb
-Public MustInherit Class ModelBodies
-	Inherits Bodies
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class ModelBodies abstract : public Bodies, 
-	IEnumerator, IEnumerable, IDisposable
-```
+
+
 
 
 Тип ModelBodies предоставляет следующие члены.

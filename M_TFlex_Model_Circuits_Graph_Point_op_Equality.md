@@ -11,19 +11,8 @@ public static bool operator ==(
 	Point right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As Point,
-	right As Point
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	Point^ left, 
-	Point^ right
-)
-```
+
+
 
 
 #### Параметры

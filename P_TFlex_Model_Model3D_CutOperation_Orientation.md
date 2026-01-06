@@ -11,18 +11,8 @@
 ```csharp
 public bool Orientation { get; set; }
 ```
-```vb
-Public Property Orientation As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Orientation {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

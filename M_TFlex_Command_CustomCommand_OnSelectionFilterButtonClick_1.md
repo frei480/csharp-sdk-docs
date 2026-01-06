@@ -11,19 +11,8 @@ public override sealed bool OnSelectionFilterButtonClick(
 	IntPtr key
 )
 ```
-```vb
-Public Overrides NotOverridable Function OnSelectionFilterButtonClick ( 
-	action As Integer,
-	key As IntPtr
-) As Boolean
-```
-```cpp
-public:
-virtual bool OnSelectionFilterButtonClick(
-	int action, 
-	IntPtr key
-) override sealed
-```
+
+
 
 
 #### Параметры

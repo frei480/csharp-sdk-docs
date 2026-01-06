@@ -11,13 +11,8 @@
 ```csharp
 public double RowHeight
 ```
-```vb
-Public RowHeight As Double
-```
-```cpp
-public:
-double RowHeight
-```
+
+
 
 
 #### Значение поля

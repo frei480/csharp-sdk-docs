@@ -11,15 +11,8 @@
 ```csharp
 LoopType LoopType { get; }
 ```
-```vb
-ReadOnly Property LoopType As LoopType
-	Get
-```
-```cpp
-property LoopType LoopType {
-	LoopType get ();
-}
-```
+
+
 
 
 #### Значение свойства

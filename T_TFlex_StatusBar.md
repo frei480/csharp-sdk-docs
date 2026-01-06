@@ -13,12 +13,8 @@
 ```csharp
 public sealed class StatusBar
 ```
-```vb
-Public NotInheritable Class StatusBar
-```
-```cpp
-public ref class StatusBar sealed
-```
+
+
 
 
 Тип StatusBar предоставляет следующие члены.

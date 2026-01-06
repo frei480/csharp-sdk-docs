@@ -11,13 +11,8 @@
 ```csharp
 public View3DDrawStyleWireOptions WireframeOptions
 ```
-```vb
-Public WireframeOptions As View3DDrawStyleWireOptions
-```
-```cpp
-public:
-View3DDrawStyleWireOptions WireframeOptions
-```
+
+
 
 
 #### Значение поля

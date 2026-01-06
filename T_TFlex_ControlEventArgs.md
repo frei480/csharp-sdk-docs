@@ -13,12 +13,8 @@
 ```csharp
 public class ControlEventArgs
 ```
-```vb
-Public Class ControlEventArgs
-```
-```cpp
-public ref class ControlEventArgs
-```
+
+
 
 
 Тип ControlEventArgs предоставляет следующие члены.

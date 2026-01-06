@@ -13,17 +13,8 @@ public string GetStandardFieldValue(
 	BOMObjectStandardField field
 )
 ```
-```vb
-Public Function GetStandardFieldValue ( 
-	field As BOMObjectStandardField
-) As String
-```
-```cpp
-public:
-String^ GetStandardFieldValue(
-	BOMObjectStandardField field
-)
-```
+
+
 
 
 #### Параметры

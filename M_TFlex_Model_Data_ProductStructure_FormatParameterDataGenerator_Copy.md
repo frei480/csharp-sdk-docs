@@ -8,13 +8,8 @@
 ```csharp
 public override IParameterDataGenerator Copy()
 ```
-```vb
-Public Overrides Function Copy As IParameterDataGenerator
-```
-```cpp
-public:
-virtual IParameterDataGenerator^ Copy() override
-```
+
+
 
 
 #### Возвращаемое значение

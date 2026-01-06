@@ -10,17 +10,8 @@ public void Assign(
 	Fragments source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Fragments
-)
-```
-```cpp
-public:
-void Assign(
-	Fragments^ source
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public ExportToInventor ExportToInventor { get; }
 ```
-```vb
-Public ReadOnly Property ExportToInventor As ExportToInventor
-	Get
-```
-```cpp
-public:
-property ExportToInventor^ ExportToInventor {
-	ExportToInventor^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

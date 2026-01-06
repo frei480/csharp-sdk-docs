@@ -11,18 +11,8 @@
 ```csharp
 public virtual Object Addition { get; set; }
 ```
-```vb
-Public Overridable Property Addition As Object
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Object^ Addition {
-	Object^ get ();
-	void set (Object^ value);
-}
-```
+
+
 
 
 #### Значение свойства

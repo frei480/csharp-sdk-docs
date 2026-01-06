@@ -8,18 +8,8 @@
 ```csharp
 public bool RegenMode { get; set; }
 ```
-```vb
-Public Property RegenMode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RegenMode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

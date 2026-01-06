@@ -11,18 +11,8 @@
 ```csharp
 public Page FragmentDocumentPage { get; set; }
 ```
-```vb
-Public Property FragmentDocumentPage As Page
-	Get
-	Set
-```
-```cpp
-public:
-property Page^ FragmentDocumentPage {
-	Page^ get ();
-	void set (Page^ value);
-}
-```
+
+
 
 
 #### Значение свойства

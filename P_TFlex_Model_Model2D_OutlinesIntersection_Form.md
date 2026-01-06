@@ -11,18 +11,8 @@
 ```csharp
 public OutlinesIntersectionForms Form { get; set; }
 ```
-```vb
-Public Property Form As OutlinesIntersectionForms
-	Get
-	Set
-```
-```cpp
-public:
-property OutlinesIntersectionForms Form {
-	OutlinesIntersectionForms get ();
-	void set (OutlinesIntersectionForms value);
-}
-```
+
+
 
 
 #### Значение свойства

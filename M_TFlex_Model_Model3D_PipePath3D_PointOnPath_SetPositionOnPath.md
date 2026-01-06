@@ -14,19 +14,8 @@ public void SetPositionOnPath(
 	Parameter pParam
 )
 ```
-```vb
-Public Sub SetPositionOnPath ( 
-	indCoord As Coordinate,
-	pParam As Parameter
-)
-```
-```cpp
-public:
-void SetPositionOnPath(
-	Coordinate indCoord, 
-	Parameter^ pParam
-)
-```
+
+
 
 
 #### Параметры

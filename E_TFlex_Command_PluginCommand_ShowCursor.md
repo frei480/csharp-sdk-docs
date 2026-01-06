@@ -11,16 +11,8 @@
 ```csharp
 public event MouseEventHandler ShowCursor
 ```
-```vb
-Public Event ShowCursor As MouseEventHandler
-```
-```cpp
-public:
- event MouseEventHandler^ ShowCursor {
-	void add (MouseEventHandler^ value);
-	void remove (MouseEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

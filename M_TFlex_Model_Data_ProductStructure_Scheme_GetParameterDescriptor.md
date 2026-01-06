@@ -10,17 +10,8 @@ public ParameterDescriptor GetParameterDescriptor(
 	Guid paramID
 )
 ```
-```vb
-Public Function GetParameterDescriptor ( 
-	paramID As Guid
-) As ParameterDescriptor
-```
-```cpp
-public:
-ParameterDescriptor^ GetParameterDescriptor(
-	Guid paramID
-)
-```
+
+
 
 
 #### Параметры

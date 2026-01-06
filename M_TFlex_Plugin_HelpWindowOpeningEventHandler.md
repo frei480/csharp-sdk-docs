@@ -13,17 +13,8 @@ protected virtual void HelpWindowOpeningEventHandler(
 	HelpWindowOpeningEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub HelpWindowOpeningEventHandler ( 
-	args As HelpWindowOpeningEventArgs
-)
-```
-```cpp
-protected:
-virtual void HelpWindowOpeningEventHandler(
-	HelpWindowOpeningEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

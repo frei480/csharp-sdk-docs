@@ -13,17 +13,8 @@ public int GetProfileFaceConditionCount(
 	int profileIndex
 )
 ```
-```vb
-Public Function GetProfileFaceConditionCount ( 
-	profileIndex As Integer
-) As Integer
-```
-```cpp
-public:
-int GetProfileFaceConditionCount(
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

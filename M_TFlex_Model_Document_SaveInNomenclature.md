@@ -13,17 +13,8 @@ public void SaveInNomenclature(
 	bool recursive
 )
 ```
-```vb
-Public Sub SaveInNomenclature ( 
-	recursive As Boolean
-)
-```
-```cpp
-public:
-void SaveInNomenclature(
-	bool recursive
-)
-```
+
+
 
 
 #### Параметры

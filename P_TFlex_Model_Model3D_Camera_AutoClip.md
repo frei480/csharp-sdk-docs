@@ -19,24 +19,8 @@ public bool AutoClip {
 	set;
  }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed.")>
-Public Property AutoClip As Boolean
-	<ObsoleteAttribute("Do not call this method.")>
-	Get
-	<ObsoleteAttribute("Do not call this method.")>
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed.")]
-property bool AutoClip {
-	[ObsoleteAttribute(L"Do not call this method.")]
-	bool get ();
-	[ObsoleteAttribute(L"Do not call this method.")]
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

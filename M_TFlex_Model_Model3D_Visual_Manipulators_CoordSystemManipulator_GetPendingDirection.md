@@ -10,17 +10,8 @@ public Direction GetPendingDirection(
 	int index
 )
 ```
-```vb
-Public Function GetPendingDirection ( 
-	index As Integer
-) As Direction
-```
-```cpp
-public:
-Direction^ GetPendingDirection(
-	int index
-)
-```
+
+
 
 
 #### Параметры

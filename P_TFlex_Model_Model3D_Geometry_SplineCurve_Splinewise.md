@@ -11,18 +11,8 @@
 ```csharp
 public virtual SplinewiseData Splinewise { get; set; }
 ```
-```vb
-Public Overridable Property Splinewise As SplinewiseData
-	Get
-	Set
-```
-```cpp
-public:
-virtual property SplinewiseData^ Splinewise {
-	SplinewiseData^ get ();
-	void set (SplinewiseData^ value);
-}
-```
+
+
 
 
 #### Значение свойства

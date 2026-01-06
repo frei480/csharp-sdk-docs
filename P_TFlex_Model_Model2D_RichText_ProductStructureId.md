@@ -11,18 +11,8 @@ ID состава изделия по которому создан текст, 
 ```csharp
 public ObjectId ProductStructureId { get; set; }
 ```
-```vb
-Public Property ProductStructureId As ObjectId
-	Get
-	Set
-```
-```cpp
-public:
-property ObjectId^ ProductStructureId {
-	ObjectId^ get ();
-	void set (ObjectId^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public bool IsOverriding(
 	Guid key
 )
 ```
-```vb
-Public Function IsOverriding ( 
-	key As Guid
-) As Boolean
-```
-```cpp
-public:
-bool IsOverriding(
-	Guid key
-)
-```
+
+
 
 
 #### Параметры

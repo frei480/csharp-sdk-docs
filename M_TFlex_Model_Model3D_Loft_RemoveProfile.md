@@ -13,17 +13,8 @@ public void RemoveProfile(
 	int profileIndex
 )
 ```
-```vb
-Public Sub RemoveProfile ( 
-	profileIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveProfile(
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

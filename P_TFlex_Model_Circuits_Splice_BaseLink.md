@@ -11,16 +11,8 @@
 ```csharp
 public LinkBase BaseLink { get; }
 ```
-```vb
-Public ReadOnly Property BaseLink As LinkBase
-	Get
-```
-```cpp
-public:
-property LinkBase^ BaseLink {
-	LinkBase^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

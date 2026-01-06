@@ -11,13 +11,8 @@
 ```csharp
 public ConstValParameterProvider()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ConstValParameterProvider()
-```
+
+
 
 
 #### Ссылки

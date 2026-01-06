@@ -11,18 +11,8 @@
 ```csharp
 public Parameter StartCompress { get; set; }
 ```
-```vb
-Public Property StartCompress As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ StartCompress {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

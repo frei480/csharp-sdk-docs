@@ -11,13 +11,8 @@
 ```csharp
 public ParaFormatJust HorJustification
 ```
-```vb
-Public HorJustification As ParaFormatJust
-```
-```cpp
-public:
-ParaFormatJust HorJustification
-```
+
+
 
 
 #### Значение поля

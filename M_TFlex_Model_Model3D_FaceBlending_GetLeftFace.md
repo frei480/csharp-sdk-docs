@@ -13,17 +13,8 @@ public ModelFace GetLeftFace(
 	int faceIndex
 )
 ```
-```vb
-Public Function GetLeftFace ( 
-	faceIndex As Integer
-) As ModelFace
-```
-```cpp
-public:
-ModelFace^ GetLeftFace(
-	int faceIndex
-)
-```
+
+
 
 
 #### Параметры

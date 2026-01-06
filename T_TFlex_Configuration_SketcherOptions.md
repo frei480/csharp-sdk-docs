@@ -11,13 +11,8 @@
 ```csharp
 public class SketcherOptions : SettingsGroup
 ```
-```vb
-Public Class SketcherOptions
-	Inherits SettingsGroup
-```
-```cpp
-public ref class SketcherOptions : public SettingsGroup
-```
+
+
 
 
 Тип SketcherOptions предоставляет следующие члены.

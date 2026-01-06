@@ -13,17 +13,8 @@ public OffsetSurf(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-OffsetSurf(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

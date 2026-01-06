@@ -14,15 +14,8 @@
 public abstract class BaseCurve : Geometry, 
 	IDisposable
 ```
-```vb
-Public MustInherit Class BaseCurve
-	Inherits Geometry
-	Implements IDisposable
-```
-```cpp
-public ref class BaseCurve abstract : public Geometry, 
-	IDisposable
-```
+
+
 
 
 Тип BaseCurve предоставляет следующие члены.

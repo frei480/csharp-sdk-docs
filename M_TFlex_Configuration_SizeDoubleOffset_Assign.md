@@ -10,17 +10,8 @@ public void Assign(
 	SizeDoubleOffset source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As SizeDoubleOffset
-)
-```
-```cpp
-public:
-void Assign(
-	SizeDoubleOffset^ source
-)
-```
+
+
 
 
 #### Параметры

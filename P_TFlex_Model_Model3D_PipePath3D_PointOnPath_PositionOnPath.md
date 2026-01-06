@@ -11,16 +11,8 @@
 ```csharp
 public Point3D PositionOnPath { get; }
 ```
-```vb
-Public ReadOnly Property PositionOnPath As Point3D
-	Get
-```
-```cpp
-public:
-property Point3D^ PositionOnPath {
-	Point3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

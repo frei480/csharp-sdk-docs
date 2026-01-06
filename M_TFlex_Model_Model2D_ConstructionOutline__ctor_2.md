@@ -16,23 +16,8 @@ public ConstructionOutline(
 	Construction srcConstruction
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	startNode As Node,
-	endNode As Node,
-	srcConstruction As Construction
-)
-```
-```cpp
-public:
-ConstructionOutline(
-	Document^ document, 
-	Node^ startNode, 
-	Node^ endNode, 
-	Construction^ srcConstruction
-)
-```
+
+
 
 
 #### Параметры

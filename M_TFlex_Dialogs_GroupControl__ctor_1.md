@@ -13,17 +13,8 @@ public GroupControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-GroupControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

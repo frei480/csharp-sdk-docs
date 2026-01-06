@@ -11,16 +11,8 @@
 ```csharp
 public override FaceBlendingAttributeType Type { get; }
 ```
-```vb
-Public Overrides ReadOnly Property Type As FaceBlendingAttributeType
-	Get
-```
-```cpp
-public:
-virtual property FaceBlendingAttributeType Type {
-	FaceBlendingAttributeType get () override;
-}
-```
+
+
 
 
 #### Значение свойства

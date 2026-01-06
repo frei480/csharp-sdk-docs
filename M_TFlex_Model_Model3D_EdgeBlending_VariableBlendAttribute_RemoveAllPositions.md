@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllPositions()
 ```
-```vb
-Public Sub RemoveAllPositions
-```
-```cpp
-public:
-void RemoveAllPositions()
-```
+
+
 
 
 Удаляет позиции с номерами 1..PositionCount-2

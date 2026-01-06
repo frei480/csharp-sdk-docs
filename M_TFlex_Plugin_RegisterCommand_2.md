@@ -14,19 +14,8 @@ protected void RegisterCommand(
 	CommandParameters parameters
 )
 ```
-```vb
-Protected Sub RegisterCommand ( 
-	id As Integer,
-	parameters As CommandParameters
-)
-```
-```cpp
-protected:
-void RegisterCommand(
-	int id, 
-	CommandParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

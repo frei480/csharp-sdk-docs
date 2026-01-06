@@ -13,17 +13,8 @@ public bool Enable(
 	bool enable
 )
 ```
-```vb
-Public Function Enable ( 
-	enable As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool Enable(
-	bool enable
-)
-```
+
+
 
 
 #### Параметры

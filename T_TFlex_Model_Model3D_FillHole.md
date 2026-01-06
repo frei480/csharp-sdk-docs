@@ -13,13 +13,8 @@
 ```csharp
 public class FillHole : Operation
 ```
-```vb
-Public Class FillHole
-	Inherits Operation
-```
-```cpp
-public ref class FillHole : public Operation
-```
+
+
 
 
 Тип FillHole предоставляет следующие члены.

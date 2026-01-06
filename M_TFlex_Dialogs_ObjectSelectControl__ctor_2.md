@@ -14,19 +14,8 @@ public ObjectSelectControl(
 	ObjectSelectControlMode mode
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	mode As ObjectSelectControlMode
-)
-```
-```cpp
-public:
-ObjectSelectControl(
-	String^ id, 
-	ObjectSelectControlMode mode
-)
-```
+
+
 
 
 #### Параметры

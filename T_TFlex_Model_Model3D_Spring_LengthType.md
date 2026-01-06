@@ -11,12 +11,8 @@
 ```csharp
 public enum LengthType
 ```
-```vb
-Public Enumeration LengthType
-```
-```cpp
-public enum class LengthType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

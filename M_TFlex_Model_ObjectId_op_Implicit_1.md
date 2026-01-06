@@ -10,16 +10,8 @@ public static implicit operator ObjectId (
 	ulong idData
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	idData As ULong
-) As ObjectId
-```
-```cpp
-static implicit operator ObjectId^ (
-	unsigned long long idData
-)
-```
+
+
 
 
 #### Параметры

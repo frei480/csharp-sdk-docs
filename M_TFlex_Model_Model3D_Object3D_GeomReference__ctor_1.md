@@ -14,19 +14,8 @@ public GeomReference(
 	uint states
 )
 ```
-```vb
-Public Sub New ( 
-	axis As ModelAxis,
-	states As UInteger
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelAxis^ axis, 
-	unsigned int states
-)
-```
+
+
 
 
 #### Параметры

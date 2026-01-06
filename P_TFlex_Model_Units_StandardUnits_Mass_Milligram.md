@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Milligram { get; }
 ```
-```vb
-Public Shared ReadOnly Property Milligram As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Milligram {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

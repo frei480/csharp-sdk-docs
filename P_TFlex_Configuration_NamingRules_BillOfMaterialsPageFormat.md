@@ -8,18 +8,8 @@
 ```csharp
 public string BillOfMaterialsPageFormat { get; set; }
 ```
-```vb
-Public Property BillOfMaterialsPageFormat As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ BillOfMaterialsPageFormat {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

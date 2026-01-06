@@ -12,21 +12,8 @@ public bool WireEval(
 	ref List<Point3D> resultVector
 )
 ```
-```vb
-Public Function WireEval ( 
-	point As BasePoint3D,
-	n_derivs As Integer,
-	ByRef resultVector As List(Of Point3D)
-) As Boolean
-```
-```cpp
-public:
-bool WireEval(
-	BasePoint3D^ point, 
-	int n_derivs, 
-	List<Point3D^>^% resultVector
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public interface IObjectGeometry : IDisposable
 ```
-```vb
-Public Interface IObjectGeometry
-	Inherits IDisposable
-```
-```cpp
-public interface class IObjectGeometry : IDisposable
-```
+
+
 
 
 Тип IObjectGeometry предоставляет следующие члены.

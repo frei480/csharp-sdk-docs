@@ -10,17 +10,8 @@ protected override bool ReadValue(
 	XmlElement element
 )
 ```
-```vb
-Protected Overrides Function ReadValue ( 
-	element As XmlElement
-) As Boolean
-```
-```cpp
-protected:
-virtual bool ReadValue(
-	XmlElement^ element
-) override
-```
+
+
 
 
 #### Параметры

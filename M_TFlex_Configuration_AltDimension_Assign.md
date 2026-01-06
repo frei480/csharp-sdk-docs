@@ -10,17 +10,8 @@ public void Assign(
 	AltDimension source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As AltDimension
-)
-```
-```cpp
-public:
-void Assign(
-	AltDimension^ source
-)
-```
+
+
 
 
 #### Параметры

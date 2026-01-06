@@ -13,13 +13,8 @@
 ```csharp
 public abstract class HyperlinkPropertiesWithUserText : HyperlinkProperties
 ```
-```vb
-Public MustInherit Class HyperlinkPropertiesWithUserText
-	Inherits HyperlinkProperties
-```
-```cpp
-public ref class HyperlinkPropertiesWithUserText abstract : public HyperlinkProperties
-```
+
+
 
 
 Тип HyperlinkPropertiesWithUserText предоставляет следующие члены.

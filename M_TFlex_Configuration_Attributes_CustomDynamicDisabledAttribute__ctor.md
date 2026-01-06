@@ -11,13 +11,8 @@
 ```csharp
 public CustomDynamicDisabledAttribute()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CustomDynamicDisabledAttribute()
-```
+
+
 
 
 #### Ссылки

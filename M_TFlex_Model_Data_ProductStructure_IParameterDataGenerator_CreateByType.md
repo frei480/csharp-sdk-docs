@@ -10,17 +10,8 @@ public static IParameterDataGenerator CreateByType(
 	ParamDataGenerType type
 )
 ```
-```vb
-Public Shared Function CreateByType ( 
-	type As ParamDataGenerType
-) As IParameterDataGenerator
-```
-```cpp
-public:
-static IParameterDataGenerator^ CreateByType(
-	ParamDataGenerType type
-)
-```
+
+
 
 
 #### Параметры

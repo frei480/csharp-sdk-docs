@@ -11,12 +11,8 @@
 ```csharp
 public enum ViewStyleMode
 ```
-```vb
-Public Enumeration ViewStyleMode
-```
-```cpp
-public enum class ViewStyleMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

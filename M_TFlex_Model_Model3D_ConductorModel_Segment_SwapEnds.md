@@ -8,13 +8,8 @@
 ```csharp
 public void SwapEnds()
 ```
-```vb
-Public Sub SwapEnds
-```
-```cpp
-public:
-void SwapEnds()
-```
+
+
 
 
 #### Ссылки

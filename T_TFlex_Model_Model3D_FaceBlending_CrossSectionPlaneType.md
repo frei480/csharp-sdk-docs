@@ -11,12 +11,8 @@
 ```csharp
 public enum CrossSectionPlaneType
 ```
-```vb
-Public Enumeration CrossSectionPlaneType
-```
-```cpp
-public enum class CrossSectionPlaneType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

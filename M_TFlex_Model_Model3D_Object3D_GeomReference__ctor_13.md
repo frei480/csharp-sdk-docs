@@ -14,19 +14,8 @@ public GeomReference(
 	uint states
 )
 ```
-```vb
-Public Sub New ( 
-	point As ModelPoint3D,
-	states As UInteger
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelPoint3D^ point, 
-	unsigned int states
-)
-```
+
+
 
 
 #### Параметры

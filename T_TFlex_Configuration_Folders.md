@@ -11,13 +11,8 @@
 ```csharp
 public class Folders : SettingsGroup
 ```
-```vb
-Public Class Folders
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Folders : public SettingsGroup
-```
+
+
 
 
 Тип Folders предоставляет следующие члены.

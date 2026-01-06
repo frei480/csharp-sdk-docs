@@ -13,17 +13,8 @@ protected Model3DWorkplane(
 	Document document
 )
 ```
-```vb
-Protected Sub New ( 
-	document As Document
-)
-```
-```cpp
-protected:
-Model3DWorkplane(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

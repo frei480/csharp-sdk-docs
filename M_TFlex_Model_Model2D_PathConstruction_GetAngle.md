@@ -13,17 +13,8 @@ public double GetAngle(
 	ValueType point
 )
 ```
-```vb
-Public Function GetAngle ( 
-	point As ValueType
-) As Double
-```
-```cpp
-public:
-double GetAngle(
-	ValueType^ point
-)
-```
+
+
 
 
 #### Параметры

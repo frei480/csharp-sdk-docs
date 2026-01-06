@@ -11,12 +11,8 @@
 ```csharp
 public enum ExportToJtVersion
 ```
-```vb
-Public Enumeration ExportToJtVersion
-```
-```cpp
-public enum class ExportToJtVersion
-```
+
+
 
 
 | Имя члена | Значение | Описание |

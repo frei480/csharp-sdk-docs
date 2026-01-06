@@ -8,16 +8,8 @@
 ```csharp
 public virtual event NotifyCollectionChangedEventHandler CollectionChanged
 ```
-```vb
-Public Overridable Event CollectionChanged As NotifyCollectionChangedEventHandler
-```
-```cpp
-public:
-virtual  event NotifyCollectionChangedEventHandler^ CollectionChanged {
-	void add (NotifyCollectionChangedEventHandler^ value);
-	void remove (NotifyCollectionChangedEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

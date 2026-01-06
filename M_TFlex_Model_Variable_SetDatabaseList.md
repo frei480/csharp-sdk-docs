@@ -16,23 +16,8 @@ public void SetDatabaseList(
 	string filter
 )
 ```
-```vb
-Public Sub SetDatabaseList ( 
-	databaseName As String,
-	fromFieldName As String,
-	showFieldName As String,
-	filter As String
-)
-```
-```cpp
-public:
-void SetDatabaseList(
-	String^ databaseName, 
-	String^ fromFieldName, 
-	String^ showFieldName, 
-	String^ filter
-)
-```
+
+
 
 
 #### Параметры

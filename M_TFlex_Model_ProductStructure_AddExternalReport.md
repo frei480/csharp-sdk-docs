@@ -13,17 +13,8 @@ public void AddExternalReport(
 	FileLink ref
 )
 ```
-```vb
-Public Sub AddExternalReport ( 
-	ref As FileLink
-)
-```
-```cpp
-public:
-void AddExternalReport(
-	FileLink^ ref
-)
-```
+
+
 
 
 #### Параметры

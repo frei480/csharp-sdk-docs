@@ -14,19 +14,8 @@ public UDF(
 	bool check
 )
 ```
-```vb
-Public Sub New ( 
-	fragment As Fragment3D,
-	check As Boolean
-)
-```
-```cpp
-public:
-UDF(
-	Fragment3D^ fragment, 
-	bool check
-)
-```
+
+
 
 
 #### Параметры

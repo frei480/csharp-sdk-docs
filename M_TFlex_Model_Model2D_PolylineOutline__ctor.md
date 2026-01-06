@@ -14,19 +14,8 @@ public PolylineOutline(
 	PolylineGeometry polyline
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	polyline As PolylineGeometry
-)
-```
-```cpp
-public:
-PolylineOutline(
-	Document^ document, 
-	PolylineGeometry^ polyline
-)
-```
+
+
 
 
 #### Параметры

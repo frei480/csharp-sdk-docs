@@ -11,19 +11,8 @@ public static Curve operator *(
 	TransformationMatrix tr
 )
 ```
-```vb
-Public Shared Operator * ( 
-	curve As BaseCurve,
-	tr As TransformationMatrix
-) As Curve
-```
-```cpp
-public:
-static Curve^ operator *(
-	BaseCurve^ curve, 
-	TransformationMatrix^ tr
-)
-```
+
+
 
 
 #### Параметры

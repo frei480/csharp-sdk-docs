@@ -13,17 +13,8 @@ protected virtual void ObjectDeletedEventHandler(
 	ObjectEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub ObjectDeletedEventHandler ( 
-	args As ObjectEventArgs
-)
-```
-```cpp
-protected:
-virtual void ObjectDeletedEventHandler(
-	ObjectEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

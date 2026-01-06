@@ -13,17 +13,8 @@ public Axis PlaneIntersection(
 	BasePlane plane
 )
 ```
-```vb
-Public Function PlaneIntersection ( 
-	plane As BasePlane
-) As Axis
-```
-```cpp
-public:
-Axis^ PlaneIntersection(
-	BasePlane^ plane
-)
-```
+
+
 
 
 #### Параметры

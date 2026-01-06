@@ -11,18 +11,8 @@
 ```csharp
 public double V_max { get; set; }
 ```
-```vb
-Public Property V_max As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double V_max {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

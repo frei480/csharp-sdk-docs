@@ -11,18 +11,8 @@
 ```csharp
 public double CurrFractionScale { get; set; }
 ```
-```vb
-Public Property CurrFractionScale As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double CurrFractionScale {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

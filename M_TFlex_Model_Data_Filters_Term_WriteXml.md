@@ -10,17 +10,8 @@ protected override void WriteXml(
 	XmlWriter writer
 )
 ```
-```vb
-Protected Overrides Sub WriteXml ( 
-	writer As XmlWriter
-)
-```
-```cpp
-protected:
-virtual void WriteXml(
-	XmlWriter^ writer
-) override
-```
+
+
 
 
 #### Параметры

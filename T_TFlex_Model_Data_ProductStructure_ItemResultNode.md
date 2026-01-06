@@ -11,13 +11,8 @@
 ```csharp
 public class ItemResultNode : IGroupingResultNode
 ```
-```vb
-Public Class ItemResultNode
-	Implements IGroupingResultNode
-```
-```cpp
-public ref class ItemResultNode : IGroupingResultNode
-```
+
+
 
 
 Тип ItemResultNode предоставляет следующие члены.

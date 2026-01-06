@@ -13,17 +13,8 @@ public void SetDimension(
 	Dimension dim
 )
 ```
-```vb
-Public Sub SetDimension ( 
-	dim As Dimension
-)
-```
-```cpp
-public:
-void SetDimension(
-	Dimension^ dim
-)
-```
+
+
 
 
 #### Параметры

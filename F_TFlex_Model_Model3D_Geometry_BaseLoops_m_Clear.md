@@ -8,13 +8,8 @@
 ```csharp
 public bool m_Clear
 ```
-```vb
-Public m_Clear As Boolean
-```
-```cpp
-public:
-bool m_Clear
-```
+
+
 
 
 #### Значение поля

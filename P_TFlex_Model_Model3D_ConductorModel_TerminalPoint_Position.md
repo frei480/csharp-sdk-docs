@@ -8,18 +8,8 @@
 ```csharp
 public BasePoint3D Position { get; set; }
 ```
-```vb
-Public Property Position As BasePoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property BasePoint3D^ Position {
-	BasePoint3D^ get ();
-	void set (BasePoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public Plane ToMeter(
 	BasePlane plane
 )
 ```
-```vb
-Public Function ToMeter ( 
-	plane As BasePlane
-) As Plane
-```
-```cpp
-public:
-Plane^ ToMeter(
-	BasePlane^ plane
-)
-```
+
+
 
 
 #### Параметры

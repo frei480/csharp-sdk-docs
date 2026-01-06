@@ -11,18 +11,8 @@
 ```csharp
 public Sheet SecondSheet { get; set; }
 ```
-```vb
-Public Property SecondSheet As Sheet
-	Get
-	Set
-```
-```cpp
-public:
-property Sheet^ SecondSheet {
-	Sheet^ get ();
-	void set (Sheet^ value);
-}
-```
+
+
 
 
 #### Значение свойства

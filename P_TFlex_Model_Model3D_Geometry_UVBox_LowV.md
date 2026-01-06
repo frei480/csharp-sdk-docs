@@ -11,16 +11,8 @@
 ```csharp
 public double LowV { set; }
 ```
-```vb
-Public WriteOnly Property LowV As Double
-	Set
-```
-```cpp
-public:
-property double LowV {
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

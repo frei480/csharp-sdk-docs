@@ -14,19 +14,8 @@ public CommandEventArgs(
 	int id
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	id As Integer
-)
-```
-```cpp
-public:
-CommandEventArgs(
-	Document^ document, 
-	int id
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public class RectanglePipe : BasePipe
 ```
-```vb
-Public Class RectanglePipe
-	Inherits BasePipe
-```
-```cpp
-public ref class RectanglePipe : public BasePipe
-```
+
+
 
 
 Тип RectanglePipe предоставляет следующие члены.

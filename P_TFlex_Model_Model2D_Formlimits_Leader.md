@@ -11,16 +11,8 @@
 ```csharp
 public FormlimitsLeader Leader { get; }
 ```
-```vb
-Public ReadOnly Property Leader As FormlimitsLeader
-	Get
-```
-```cpp
-public:
-property FormlimitsLeader^ Leader {
-	FormlimitsLeader^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

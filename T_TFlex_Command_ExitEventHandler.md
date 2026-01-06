@@ -14,18 +14,8 @@ public delegate void ExitEventHandler(
 	ExitEventArgs e
 )
 ```
-```vb
-Public Delegate Sub ExitEventHandler ( 
-	sender As Object,
-	e As ExitEventArgs
-)
-```
-```cpp
-public delegate void ExitEventHandler(
-	Object^ sender, 
-	ExitEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

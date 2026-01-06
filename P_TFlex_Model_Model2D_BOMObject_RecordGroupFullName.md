@@ -11,18 +11,8 @@
 ```csharp
 public string RecordGroupFullName { get; set; }
 ```
-```vb
-Public Property RecordGroupFullName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ RecordGroupFullName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void DeleteContour(
 	int index
 )
 ```
-```vb
-Public Sub DeleteContour ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void DeleteContour(
-	int index
-)
-```
+
+
 
 
 #### Параметры

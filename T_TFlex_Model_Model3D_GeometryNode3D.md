@@ -13,13 +13,8 @@
 ```csharp
 public class GeometryNode3D : Node3D
 ```
-```vb
-Public Class GeometryNode3D
-	Inherits Node3D
-```
-```cpp
-public ref class GeometryNode3D : public Node3D
-```
+
+
 
 
 Тип GeometryNode3D предоставляет следующие члены.

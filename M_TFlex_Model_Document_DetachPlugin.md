@@ -13,17 +13,8 @@ public void DetachPlugin(
 	Plugin plugin
 )
 ```
-```vb
-Public Sub DetachPlugin ( 
-	plugin As Plugin
-)
-```
-```cpp
-public:
-void DetachPlugin(
-	Plugin^ plugin
-)
-```
+
+
 
 
 #### Параметры

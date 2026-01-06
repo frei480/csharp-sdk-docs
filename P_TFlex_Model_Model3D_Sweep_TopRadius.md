@@ -11,18 +11,8 @@
 ```csharp
 public Parameter TopRadius { get; set; }
 ```
-```vb
-Public Property TopRadius As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ TopRadius {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

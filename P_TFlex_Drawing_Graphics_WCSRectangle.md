@@ -11,18 +11,8 @@
 ```csharp
 public Rectangle WCSRectangle { get; set; }
 ```
-```vb
-Public Property WCSRectangle As Rectangle
-	Get
-	Set
-```
-```cpp
-public:
-property Rectangle WCSRectangle {
-	Rectangle get ();
-	void set (Rectangle value);
-}
-```
+
+
 
 
 #### Значение свойства

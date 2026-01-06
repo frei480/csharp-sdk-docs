@@ -11,16 +11,8 @@
 ```csharp
 public Parameter Width { get; }
 ```
-```vb
-Public ReadOnly Property Width As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ Width {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

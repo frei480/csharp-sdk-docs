@@ -14,19 +14,8 @@ public ElementInfo(
 	Guid prototypeId
 )
 ```
-```vb
-Public Sub New ( 
-	sourceFile As SourceFile,
-	prototypeId As Guid
-)
-```
-```cpp
-public:
-ElementInfo(
-	SourceFile^ sourceFile, 
-	Guid prototypeId
-)
-```
+
+
 
 
 #### Параметры

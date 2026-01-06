@@ -11,16 +11,8 @@
 ```csharp
 public int MultipleLeaderCount { get; }
 ```
-```vb
-Public ReadOnly Property MultipleLeaderCount As Integer
-	Get
-```
-```cpp
-public:
-property int MultipleLeaderCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

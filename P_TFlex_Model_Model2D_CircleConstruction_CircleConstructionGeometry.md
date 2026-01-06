@@ -11,16 +11,8 @@
 ```csharp
 public CircleGeometry CircleConstructionGeometry { get; }
 ```
-```vb
-Public ReadOnly Property CircleConstructionGeometry As CircleGeometry
-	Get
-```
-```cpp
-public:
-property CircleGeometry^ CircleConstructionGeometry {
-	CircleGeometry^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

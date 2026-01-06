@@ -10,17 +10,8 @@ public void EnableMultipleSelection(
 	bool enable
 )
 ```
-```vb
-Public Sub EnableMultipleSelection ( 
-	enable As Boolean
-)
-```
-```cpp
-public:
-void EnableMultipleSelection(
-	bool enable
-)
-```
+
+
 
 
 #### Параметры

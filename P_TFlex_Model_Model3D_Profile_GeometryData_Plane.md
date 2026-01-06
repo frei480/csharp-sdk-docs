@@ -11,16 +11,8 @@
 ```csharp
 public ModelPlane Plane { get; }
 ```
-```vb
-Public ReadOnly Property Plane As ModelPlane
-	Get
-```
-```cpp
-public:
-property ModelPlane^ Plane {
-	ModelPlane^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

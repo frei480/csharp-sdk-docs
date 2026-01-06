@@ -10,17 +10,8 @@ public static IDisposable LockProductStructureUpdate(
 	ProductStructure productStructure
 )
 ```
-```vb
-Public Shared Function LockProductStructureUpdate ( 
-	productStructure As ProductStructure
-) As IDisposable
-```
-```cpp
-public:
-static IDisposable^ LockProductStructureUpdate(
-	ProductStructure^ productStructure
-)
-```
+
+
 
 
 #### Параметры

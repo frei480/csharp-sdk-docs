@@ -11,19 +11,8 @@ public bool SwapConductors(
 	IEnumerable<int> indicesSecond
 )
 ```
-```vb
-Public Function SwapConductors ( 
-	indicesFirst As IEnumerable(Of Integer),
-	indicesSecond As IEnumerable(Of Integer)
-) As Boolean
-```
-```cpp
-public:
-bool SwapConductors(
-	IEnumerable<int>^ indicesFirst, 
-	IEnumerable<int>^ indicesSecond
-)
-```
+
+
 
 
 #### Параметры

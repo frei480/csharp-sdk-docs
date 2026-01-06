@@ -11,19 +11,8 @@ public static bool operator ==(
 	ObjectId rightId
 )
 ```
-```vb
-Public Shared Operator = ( 
-	leftId As ObjectId,
-	rightId As ObjectId
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	ObjectId^ leftId, 
-	ObjectId^ rightId
-)
-```
+
+
 
 
 #### Параметры

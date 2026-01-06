@@ -8,12 +8,8 @@
 ```csharp
 public enum DoubleClickFragAction
 ```
-```vb
-Public Enumeration DoubleClickFragAction
-```
-```cpp
-public enum class DoubleClickFragAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

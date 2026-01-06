@@ -11,16 +11,8 @@
 ```csharp
 public int ShownPageCount { get; }
 ```
-```vb
-Public ReadOnly Property ShownPageCount As Integer
-	Get
-```
-```cpp
-public:
-property int ShownPageCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

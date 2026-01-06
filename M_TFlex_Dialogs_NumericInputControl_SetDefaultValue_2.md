@@ -13,17 +13,8 @@ public void SetDefaultValue(
 	Variable defaultVariable
 )
 ```
-```vb
-Public Sub SetDefaultValue ( 
-	defaultVariable As Variable
-)
-```
-```cpp
-public:
-void SetDefaultValue(
-	Variable^ defaultVariable
-)
-```
+
+
 
 
 #### Параметры

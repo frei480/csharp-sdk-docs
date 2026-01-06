@@ -11,13 +11,8 @@
 ```csharp
 public class ManipulatorEventArgs : EventArgs
 ```
-```vb
-Public Class ManipulatorEventArgs
-	Inherits EventArgs
-```
-```cpp
-public ref class ManipulatorEventArgs : public EventArgs
-```
+
+
 
 
 Тип ManipulatorEventArgs предоставляет следующие члены.

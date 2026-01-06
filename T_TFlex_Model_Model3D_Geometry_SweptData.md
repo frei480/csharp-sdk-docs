@@ -13,13 +13,8 @@
 ```csharp
 public sealed class SweptData : IDisposable
 ```
-```vb
-Public NotInheritable Class SweptData
-	Implements IDisposable
-```
-```cpp
-public ref class SweptData sealed : IDisposable
-```
+
+
 
 
 Тип SweptData предоставляет следующие члены.

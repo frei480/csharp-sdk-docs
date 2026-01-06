@@ -13,13 +13,8 @@
 ```csharp
 public class SpotLight : DirectionalLight
 ```
-```vb
-Public Class SpotLight
-	Inherits DirectionalLight
-```
-```cpp
-public ref class SpotLight : public DirectionalLight
-```
+
+
 
 
 Тип SpotLight предоставляет следующие члены.

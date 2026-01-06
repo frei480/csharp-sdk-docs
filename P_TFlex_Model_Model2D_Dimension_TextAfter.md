@@ -11,18 +11,8 @@
 ```csharp
 public string TextAfter { get; set; }
 ```
-```vb
-Public Property TextAfter As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TextAfter {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

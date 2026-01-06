@@ -8,18 +8,8 @@
 ```csharp
 public PageZonesMode ZonesMode { get; set; }
 ```
-```vb
-Public Property ZonesMode As PageZonesMode
-	Get
-	Set
-```
-```cpp
-public:
-property PageZonesMode ZonesMode {
-	PageZonesMode get ();
-	void set (PageZonesMode value);
-}
-```
+
+
 
 
 #### Значение свойства

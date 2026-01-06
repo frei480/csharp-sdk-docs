@@ -14,19 +14,8 @@ public ModelParameter(
 	IntPtr item
 )
 ```
-```vb
-Public Sub New ( 
-	udf As UDF,
-	item As IntPtr
-)
-```
-```cpp
-public:
-ModelParameter(
-	UDF^ udf, 
-	IntPtr item
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public BaseCurve Curve { get; }
 ```
-```vb
-Public ReadOnly Property Curve As BaseCurve
-	Get
-```
-```cpp
-public:
-property BaseCurve^ Curve {
-	BaseCurve^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

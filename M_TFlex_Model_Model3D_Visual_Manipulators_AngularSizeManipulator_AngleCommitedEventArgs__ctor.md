@@ -11,13 +11,8 @@
 ```csharp
 public AngleCommitedEventArgs()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-AngleCommitedEventArgs()
-```
+
+
 
 
 #### Ссылки

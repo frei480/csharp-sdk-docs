@@ -17,25 +17,8 @@ public static Constraint CreateAlignVertical(
 	ConstraintPointType iPoint2
 )
 ```
-```vb
-Public Shared Function CreateAlignVertical ( 
-	iDoc As Document,
-	iObject1 As Object2D,
-	iPoint1 As ConstraintPointType,
-	iObject2 As Object2D,
-	iPoint2 As ConstraintPointType
-) As Constraint
-```
-```cpp
-public:
-static Constraint^ CreateAlignVertical(
-	Document^ iDoc, 
-	Object2D^ iObject1, 
-	ConstraintPointType iPoint1, 
-	Object2D^ iObject2, 
-	ConstraintPointType iPoint2
-)
-```
+
+
 
 
 #### Параметры

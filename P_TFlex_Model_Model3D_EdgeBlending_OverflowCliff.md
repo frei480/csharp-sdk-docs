@@ -11,18 +11,8 @@
 ```csharp
 public bool OverflowCliff { get; set; }
 ```
-```vb
-Public Property OverflowCliff As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OverflowCliff {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

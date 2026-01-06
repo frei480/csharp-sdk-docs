@@ -11,16 +11,8 @@
 ```csharp
 public int Count { get; }
 ```
-```vb
-Public ReadOnly Property Count As Integer
-	Get
-```
-```cpp
-public:
-property int Count {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetViewSymbols' method.")]
 public ObjectContainer ViewSymbols { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetViewSymbols' method.")>
-Public ReadOnly Property ViewSymbols As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetViewSymbols' method.")]
-property ObjectContainer^ ViewSymbols {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

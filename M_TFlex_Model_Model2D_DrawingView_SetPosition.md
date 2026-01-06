@@ -15,21 +15,8 @@ public void SetPosition(
 	Parameter angle
 )
 ```
-```vb
-Public Sub SetPosition ( 
-	x As Double,
-	y As Double,
-	angle As Parameter
-)
-```
-```cpp
-public:
-void SetPosition(
-	double x, 
-	double y, 
-	Parameter^ angle
-)
-```
+
+
 
 
 #### Параметры

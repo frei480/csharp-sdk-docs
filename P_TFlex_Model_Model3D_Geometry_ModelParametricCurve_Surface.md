@@ -11,16 +11,8 @@
 ```csharp
 public virtual BaseSurface Surface { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Surface As BaseSurface
-	Get
-```
-```cpp
-public:
-virtual property BaseSurface^ Surface {
-	BaseSurface^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

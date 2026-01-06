@@ -10,17 +10,8 @@ public void Assign(
 	FormFactor source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As FormFactor
-)
-```
-```cpp
-public:
-void Assign(
-	FormFactor^ source
-)
-```
+
+
 
 
 #### Параметры

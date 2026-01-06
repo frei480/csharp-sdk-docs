@@ -13,13 +13,8 @@
 ```csharp
 public class FullRegenerationEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class FullRegenerationEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class FullRegenerationEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип FullRegenerationEventArgs предоставляет следующие члены.

@@ -13,17 +13,8 @@ public Menu GetSubMenu(
 	int index
 )
 ```
-```vb
-Public Function GetSubMenu ( 
-	index As Integer
-) As Menu
-```
-```cpp
-public:
-Menu^ GetSubMenu(
-	int index
-)
-```
+
+
 
 
 #### Параметры

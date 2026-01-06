@@ -11,18 +11,8 @@
 ```csharp
 public bool AllowToolBarMode { get; set; }
 ```
-```vb
-Public Property AllowToolBarMode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AllowToolBarMode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

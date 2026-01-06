@@ -13,12 +13,8 @@
 ```csharp
 public struct Border
 ```
-```vb
-Public Structure Border
-```
-```cpp
-public value class Border
-```
+
+
 
 
 Тип TableBorder предоставляет следующие члены.

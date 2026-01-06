@@ -11,12 +11,8 @@
 ```csharp
 public enum BreakPositionsAlignment
 ```
-```vb
-Public Enumeration BreakPositionsAlignment
-```
-```cpp
-public enum class BreakPositionsAlignment
-```
+
+
 
 
 | Имя члена | Значение | Описание |

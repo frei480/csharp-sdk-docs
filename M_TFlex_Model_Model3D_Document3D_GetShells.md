@@ -13,19 +13,8 @@ public static ICollection<Shell> GetShells(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetShells ( 
-	document As Document
-) As ICollection(Of Shell)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Shell^>^ GetShells(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

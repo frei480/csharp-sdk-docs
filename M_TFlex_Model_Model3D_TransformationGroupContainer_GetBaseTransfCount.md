@@ -11,13 +11,8 @@
 ```csharp
 public int GetBaseTransfCount()
 ```
-```vb
-Public Function GetBaseTransfCount As Integer
-```
-```cpp
-public:
-int GetBaseTransfCount()
-```
+
+
 
 
 #### Возвращаемое значение

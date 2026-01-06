@@ -15,21 +15,8 @@ public DOCsReferenceDatabase(
 	string description
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	title As String,
-	description As String
-)
-```
-```cpp
-public:
-DOCsReferenceDatabase(
-	Document^ document, 
-	String^ title, 
-	String^ description
-)
-```
+
+
 
 
 #### Параметры

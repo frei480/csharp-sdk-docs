@@ -11,16 +11,8 @@
 ```csharp
 public WiresArray YPath { get; }
 ```
-```vb
-Public ReadOnly Property YPath As WiresArray
-	Get
-```
-```cpp
-public:
-property WiresArray^ YPath {
-	WiresArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

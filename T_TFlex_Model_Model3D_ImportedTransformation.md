@@ -13,13 +13,8 @@
 ```csharp
 public class ImportedTransformation : Transformation
 ```
-```vb
-Public Class ImportedTransformation
-	Inherits Transformation
-```
-```cpp
-public ref class ImportedTransformation : public Transformation
-```
+
+
 
 
 Тип ImportedTransformation предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public FrameControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-FrameControl()
-```
+
+
 
 
 #### Ссылки

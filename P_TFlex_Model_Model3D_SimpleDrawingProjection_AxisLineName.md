@@ -11,18 +11,8 @@
 ```csharp
 public string AxisLineName { get; set; }
 ```
-```vb
-Public Property AxisLineName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ AxisLineName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

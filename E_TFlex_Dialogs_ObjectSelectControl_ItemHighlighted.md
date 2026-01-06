@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<ObjectSelectControlHighlightEventArgs> ItemHighlighted
 ```
-```vb
-Public Event ItemHighlighted As EventHandler(Of ObjectSelectControlHighlightEventArgs)
-```
-```cpp
-public:
- event EventHandler<ObjectSelectControlHighlightEventArgs^>^ ItemHighlighted {
-	void add (EventHandler<ObjectSelectControlHighlightEventArgs^>^ value);
-	void remove (EventHandler<ObjectSelectControlHighlightEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

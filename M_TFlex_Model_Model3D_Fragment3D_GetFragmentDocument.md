@@ -13,17 +13,8 @@ public Document GetFragmentDocument(
 	bool substitute
 )
 ```
-```vb
-Public Function GetFragmentDocument ( 
-	substitute As Boolean
-) As Document
-```
-```cpp
-public:
-Document^ GetFragmentDocument(
-	bool substitute
-)
-```
+
+
 
 
 #### Параметры

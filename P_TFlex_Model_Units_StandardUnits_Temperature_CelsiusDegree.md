@@ -13,16 +13,8 @@
 ```csharp
 public static Unit CelsiusDegree { get; }
 ```
-```vb
-Public Shared ReadOnly Property CelsiusDegree As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ CelsiusDegree {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

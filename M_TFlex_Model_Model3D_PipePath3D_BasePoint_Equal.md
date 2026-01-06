@@ -13,17 +13,8 @@ public bool Equal(
 	PipePath3DBasePoint A_0
 )
 ```
-```vb
-Public Function Equal ( 
-	A_0 As PipePath3DBasePoint
-) As Boolean
-```
-```cpp
-public:
-bool Equal(
-	PipePath3DBasePoint^ A_0
-)
-```
+
+
 
 
 #### Параметры

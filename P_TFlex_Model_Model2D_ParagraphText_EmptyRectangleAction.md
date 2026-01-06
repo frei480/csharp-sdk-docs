@@ -11,18 +11,8 @@
 ```csharp
 public ParagraphTextEmptyRectAction EmptyRectangleAction { get; set; }
 ```
-```vb
-Public Property EmptyRectangleAction As ParagraphTextEmptyRectAction
-	Get
-	Set
-```
-```cpp
-public:
-property ParagraphTextEmptyRectAction EmptyRectangleAction {
-	ParagraphTextEmptyRectAction get ();
-	void set (ParagraphTextEmptyRectAction value);
-}
-```
+
+
 
 
 #### Значение свойства

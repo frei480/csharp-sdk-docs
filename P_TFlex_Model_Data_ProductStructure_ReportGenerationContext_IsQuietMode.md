@@ -8,18 +8,8 @@
 ```csharp
 public bool IsQuietMode { get; set; }
 ```
-```vb
-Public Property IsQuietMode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsQuietMode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

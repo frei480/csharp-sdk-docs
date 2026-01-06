@@ -11,13 +11,8 @@
 ```csharp
 public PageGrid()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-PageGrid()
-```
+
+
 
 
 #### Ссылки

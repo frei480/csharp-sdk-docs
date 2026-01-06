@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetAttributes' method.")]
 public ModelObjectAttributes Attributes { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetAttributes' method.")>
-Public ReadOnly Property Attributes As ModelObjectAttributes
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetAttributes' method.")]
-property ModelObjectAttributes^ Attributes {
-	ModelObjectAttributes^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public ObjectContainer Bodies { get; }
 ```
-```vb
-Public ReadOnly Property Bodies As ObjectContainer
-	Get
-```
-```cpp
-public:
-property ObjectContainer^ Bodies {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

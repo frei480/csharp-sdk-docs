@@ -13,13 +13,8 @@
 ```csharp
 public class TabControl : BaseControl
 ```
-```vb
-Public Class TabControl
-	Inherits BaseControl
-```
-```cpp
-public ref class TabControl : public BaseControl
-```
+
+
 
 
 Тип TabControl предоставляет следующие члены.

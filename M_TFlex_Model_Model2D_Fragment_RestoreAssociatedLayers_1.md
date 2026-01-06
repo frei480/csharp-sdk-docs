@@ -13,17 +13,8 @@ public void RestoreAssociatedLayers(
 	Document document
 )
 ```
-```vb
-Public Sub RestoreAssociatedLayers ( 
-	document As Document
-)
-```
-```cpp
-public:
-void RestoreAssociatedLayers(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

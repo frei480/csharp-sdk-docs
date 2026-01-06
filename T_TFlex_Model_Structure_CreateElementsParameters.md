@@ -11,13 +11,8 @@
 ```csharp
 public sealed class CreateElementsParameters : BaseCreateElementsParameters
 ```
-```vb
-Public NotInheritable Class CreateElementsParameters
-	Inherits BaseCreateElementsParameters
-```
-```cpp
-public ref class CreateElementsParameters sealed : public BaseCreateElementsParameters
-```
+
+
 
 
 Тип CreateElementsParameters предоставляет следующие члены.

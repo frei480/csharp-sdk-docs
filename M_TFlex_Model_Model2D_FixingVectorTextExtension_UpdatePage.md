@@ -10,19 +10,8 @@ public static void UpdatePage(
 	this FixingVector pVector
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub UpdatePage ( 
-	pVector As FixingVector
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void UpdatePage(
-	FixingVector^ pVector
-)
-```
+
+
 
 
 #### Параметры

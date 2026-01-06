@@ -11,16 +11,8 @@
 ```csharp
 public virtual BaseDirection ReferenceDirection { get; }
 ```
-```vb
-Public Overridable ReadOnly Property ReferenceDirection As BaseDirection
-	Get
-```
-```cpp
-public:
-virtual property BaseDirection^ ReferenceDirection {
-	BaseDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

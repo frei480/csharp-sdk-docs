@@ -11,18 +11,8 @@
 ```csharp
 public bool AutoNLF { get; set; }
 ```
-```vb
-Public Property AutoNLF As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AutoNLF {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

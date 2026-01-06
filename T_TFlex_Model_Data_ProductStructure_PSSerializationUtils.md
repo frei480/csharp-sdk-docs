@@ -11,12 +11,8 @@
 ```csharp
 public static class PSSerializationUtils
 ```
-```vb
-Public NotInheritable Class PSSerializationUtils
-```
-```cpp
-public ref class PSSerializationUtils abstract sealed
-```
+
+
 
 
 Тип PSSerializationUtils предоставляет следующие члены.

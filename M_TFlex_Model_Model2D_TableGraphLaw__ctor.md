@@ -13,17 +13,8 @@ public TableGraphLaw(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-TableGraphLaw(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

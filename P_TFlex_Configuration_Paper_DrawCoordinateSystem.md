@@ -8,18 +8,8 @@
 ```csharp
 public bool DrawCoordinateSystem { get; set; }
 ```
-```vb
-Public Property DrawCoordinateSystem As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DrawCoordinateSystem {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

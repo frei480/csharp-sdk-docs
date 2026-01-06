@@ -11,18 +11,8 @@
 ```csharp
 public bool IsInternal { get; set; }
 ```
-```vb
-Public Property IsInternal As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsInternal {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

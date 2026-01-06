@@ -13,13 +13,8 @@
 ```csharp
 public class FreeNode : Node
 ```
-```vb
-Public Class FreeNode
-	Inherits Node
-```
-```cpp
-public ref class FreeNode : public Node
-```
+
+
 
 
 Тип FreeNode предоставляет следующие члены.

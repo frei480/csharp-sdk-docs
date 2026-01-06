@@ -11,13 +11,8 @@
 ```csharp
 public class SegmentOnPath : PipePath3DBaseSegment
 ```
-```vb
-Public Class SegmentOnPath
-	Inherits PipePath3DBaseSegment
-```
-```cpp
-public ref class SegmentOnPath : public PipePath3DBaseSegment
-```
+
+
 
 
 Тип PipePath3DSegmentOnPath предоставляет следующие члены.

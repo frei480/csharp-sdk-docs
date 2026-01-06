@@ -11,18 +11,8 @@
 ```csharp
 public Parameter HeightAngle { get; set; }
 ```
-```vb
-Public Property HeightAngle As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ HeightAngle {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

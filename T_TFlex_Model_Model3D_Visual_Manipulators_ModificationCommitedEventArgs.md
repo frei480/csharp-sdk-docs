@@ -11,13 +11,8 @@
 ```csharp
 public class ModificationCommitedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class ModificationCommitedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class ModificationCommitedEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип ModificationCommitedEventArgs предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public SelectedRowCollection SelectedRows { get; }
 ```
-```vb
-Public ReadOnly Property SelectedRows As SelectedRowCollection
-	Get
-```
-```cpp
-public:
-property SelectedRowCollection^ SelectedRows {
-	SelectedRowCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

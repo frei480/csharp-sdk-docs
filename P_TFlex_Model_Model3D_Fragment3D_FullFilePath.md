@@ -11,16 +11,8 @@
 ```csharp
 public string FullFilePath { get; }
 ```
-```vb
-Public ReadOnly Property FullFilePath As String
-	Get
-```
-```cpp
-public:
-property String^ FullFilePath {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

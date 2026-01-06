@@ -13,17 +13,8 @@ public void RemoveAllProfileContours(
 	int profileIndex
 )
 ```
-```vb
-Public Sub RemoveAllProfileContours ( 
-	profileIndex As Integer
-)
-```
-```cpp
-public:
-void RemoveAllProfileContours(
-	int profileIndex
-)
-```
+
+
 
 
 #### Параметры

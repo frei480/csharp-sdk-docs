@@ -13,17 +13,8 @@ public ExportToSTL(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToSTL(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

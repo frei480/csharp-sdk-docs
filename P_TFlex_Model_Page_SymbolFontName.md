@@ -11,18 +11,8 @@
 ```csharp
 public string SymbolFontName { get; set; }
 ```
-```vb
-Public Property SymbolFontName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ SymbolFontName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

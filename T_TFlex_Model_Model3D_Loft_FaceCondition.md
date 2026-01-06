@@ -13,12 +13,8 @@
 ```csharp
 public class FaceCondition
 ```
-```vb
-Public Class FaceCondition
-```
-```cpp
-public ref class FaceCondition
-```
+
+
 
 
 Тип LoftFaceCondition предоставляет следующие члены.

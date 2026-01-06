@@ -11,13 +11,8 @@
 ```csharp
 public StringManager()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-StringManager()
-```
+
+
 
 
 #### Ссылки

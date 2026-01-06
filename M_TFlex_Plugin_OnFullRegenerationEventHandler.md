@@ -13,17 +13,8 @@ protected virtual void OnFullRegenerationEventHandler(
 	FullRegenerationEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub OnFullRegenerationEventHandler ( 
-	args As FullRegenerationEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnFullRegenerationEventHandler(
-	FullRegenerationEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public View OpenWorkplaneView(
 	Page page
 )
 ```
-```vb
-Public Function OpenWorkplaneView ( 
-	page As Page
-) As View
-```
-```cpp
-public:
-View^ OpenWorkplaneView(
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

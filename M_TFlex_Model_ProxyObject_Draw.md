@@ -13,17 +13,8 @@ protected virtual void Draw(
 	Graphics graphics
 )
 ```
-```vb
-Protected Overridable Sub Draw ( 
-	graphics As Graphics
-)
-```
-```cpp
-protected:
-virtual void Draw(
-	Graphics^ graphics
-)
-```
+
+
 
 
 #### Параметры

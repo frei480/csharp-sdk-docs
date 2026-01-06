@@ -11,16 +11,8 @@
 ```csharp
 public IEnumerable<FragmentFileUserData> Children { get; }
 ```
-```vb
-Public ReadOnly Property Children As IEnumerable(Of FragmentFileUserData)
-	Get
-```
-```cpp
-public:
-property IEnumerable<FragmentFileUserData^>^ Children {
-	IEnumerable<FragmentFileUserData^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

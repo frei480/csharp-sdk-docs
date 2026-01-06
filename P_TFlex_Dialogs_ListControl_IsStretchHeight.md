@@ -11,18 +11,8 @@
 ```csharp
 public bool IsStretchHeight { get; set; }
 ```
-```vb
-Public Property IsStretchHeight As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsStretchHeight {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,12 +8,8 @@
 ```csharp
 public enum LayerModelType
 ```
-```vb
-Public Enumeration LayerModelType
-```
-```cpp
-public enum class LayerModelType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

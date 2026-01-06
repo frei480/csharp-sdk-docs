@@ -13,13 +13,8 @@
 ```csharp
 public class OrthographicCamera : Camera
 ```
-```vb
-Public Class OrthographicCamera
-	Inherits Camera
-```
-```cpp
-public ref class OrthographicCamera : public Camera
-```
+
+
 
 
 Тип OrthographicCamera предоставляет следующие члены.

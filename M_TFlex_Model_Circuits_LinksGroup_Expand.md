@@ -11,19 +11,8 @@ public virtual void Expand(
 	IEnumerable<FixingVector> points
 )
 ```
-```vb
-Public Overridable Sub Expand ( 
-	point As FixingVector,
-	points As IEnumerable(Of FixingVector)
-)
-```
-```cpp
-public:
-virtual void Expand(
-	FixingVector^ point, 
-	IEnumerable<FixingVector^>^ points
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public Cone(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Cone(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

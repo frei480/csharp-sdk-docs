@@ -11,18 +11,8 @@ public delegate void TopolArrayAfterSet(
 	ModelTopol topol
 )
 ```
-```vb
-Public Delegate Sub TopolArrayAfterSet ( 
-	to As Integer,
-	topol As ModelTopol
-)
-```
-```cpp
-public delegate void TopolArrayAfterSet(
-	int to, 
-	ModelTopol^ topol
-)
-```
+
+
 
 
 #### Параметры

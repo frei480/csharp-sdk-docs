@@ -11,18 +11,8 @@
 ```csharp
 public bool Knots { get; set; }
 ```
-```vb
-Public Property Knots As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Knots {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

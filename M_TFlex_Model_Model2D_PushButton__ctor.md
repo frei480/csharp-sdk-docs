@@ -13,17 +13,8 @@ public PushButton(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-PushButton(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

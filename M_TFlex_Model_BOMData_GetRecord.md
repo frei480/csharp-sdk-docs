@@ -13,17 +13,8 @@ public BOMRecord GetRecord(
 	int index
 )
 ```
-```vb
-Public Function GetRecord ( 
-	index As Integer
-) As BOMRecord
-```
-```cpp
-public:
-BOMRecord^ GetRecord(
-	int index
-)
-```
+
+
 
 
 #### Параметры

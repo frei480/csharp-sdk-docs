@@ -13,13 +13,8 @@
 ```csharp
 public class WPFWindow : NativeWindow
 ```
-```vb
-Public Class WPFWindow
-	Inherits NativeWindow
-```
-```cpp
-public ref class WPFWindow : public NativeWindow
-```
+
+
 
 
 Тип WPFWindow предоставляет следующие члены.

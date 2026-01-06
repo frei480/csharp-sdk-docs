@@ -11,13 +11,8 @@
 ```csharp
 public sealed class CreateElementsFromDocumentParameters : BaseCreateElementsParameters
 ```
-```vb
-Public NotInheritable Class CreateElementsFromDocumentParameters
-	Inherits BaseCreateElementsParameters
-```
-```cpp
-public ref class CreateElementsFromDocumentParameters sealed : public BaseCreateElementsParameters
-```
+
+
 
 
 Тип CreateElementsFromDocumentParameters предоставляет следующие члены.

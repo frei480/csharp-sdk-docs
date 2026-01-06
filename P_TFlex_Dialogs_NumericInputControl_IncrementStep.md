@@ -11,18 +11,8 @@
 ```csharp
 public double IncrementStep { get; set; }
 ```
-```vb
-Public Property IncrementStep As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double IncrementStep {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

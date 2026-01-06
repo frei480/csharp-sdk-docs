@@ -11,18 +11,8 @@
 ```csharp
 public ModelPoint3D DirectionPointOnSurface { get; set; }
 ```
-```vb
-Public Property DirectionPointOnSurface As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ DirectionPointOnSurface {
-	ModelPoint3D^ get ();
-	void set (ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

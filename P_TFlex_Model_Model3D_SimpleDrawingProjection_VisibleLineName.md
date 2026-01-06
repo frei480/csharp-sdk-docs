@@ -11,18 +11,8 @@
 ```csharp
 public string VisibleLineName { get; set; }
 ```
-```vb
-Public Property VisibleLineName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ VisibleLineName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

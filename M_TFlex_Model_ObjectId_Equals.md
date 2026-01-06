@@ -13,17 +13,8 @@ public override sealed bool Equals(
 	Object other
 )
 ```
-```vb
-Public Overrides NotOverridable Function Equals ( 
-	other As Object
-) As Boolean
-```
-```cpp
-public:
-virtual bool Equals(
-	Object^ other
-) override sealed
-```
+
+
 
 
 #### Параметры

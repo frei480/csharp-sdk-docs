@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerable<KeyValuePair<Guid, FragmentFileUserDataProductStructureDataValueInfo>> GetAllValueInfos()
 ```
-```vb
-Public Function GetAllValueInfos As IEnumerable(Of KeyValuePair(Of Guid, FragmentFileUserDataProductStructureDataValueInfo))
-```
-```cpp
-public:
-IEnumerable<KeyValuePair<Guid, FragmentFileUserDataProductStructureDataValueInfo^>>^ GetAllValueInfos()
-```
+
+
 
 
 #### Возвращаемое значение

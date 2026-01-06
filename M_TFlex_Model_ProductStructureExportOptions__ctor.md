@@ -11,13 +11,8 @@
 ```csharp
 public ProductStructureExportOptions()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ProductStructureExportOptions()
-```
+
+
 
 
 #### Ссылки

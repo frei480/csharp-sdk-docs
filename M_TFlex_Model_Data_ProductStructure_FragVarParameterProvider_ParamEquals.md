@@ -10,17 +10,8 @@ public override bool ParamEquals(
 	IParameterProvider other
 )
 ```
-```vb
-Public Overrides Function ParamEquals ( 
-	other As IParameterProvider
-) As Boolean
-```
-```cpp
-public:
-virtual bool ParamEquals(
-	IParameterProvider^ other
-) override
-```
+
+
 
 
 #### Параметры

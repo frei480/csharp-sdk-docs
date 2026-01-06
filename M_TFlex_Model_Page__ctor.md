@@ -13,17 +13,8 @@ public Page(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Page(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

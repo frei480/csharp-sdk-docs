@@ -13,12 +13,8 @@
 ```csharp
 public sealed class KinematicViscosity
 ```
-```vb
-Public NotInheritable Class KinematicViscosity
-```
-```cpp
-public ref class KinematicViscosity sealed
-```
+
+
 
 
 Тип StandardUnitsKinematicViscosity предоставляет следующие члены.

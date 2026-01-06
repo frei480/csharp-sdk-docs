@@ -11,18 +11,8 @@
 ```csharp
 public SpringLengthType LengthMethod { get; set; }
 ```
-```vb
-Public Property LengthMethod As SpringLengthType
-	Get
-	Set
-```
-```cpp
-public:
-property SpringLengthType LengthMethod {
-	SpringLengthType get ();
-	void set (SpringLengthType value);
-}
-```
+
+
 
 
 #### Значение свойства

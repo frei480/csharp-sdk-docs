@@ -8,12 +8,8 @@
 ```csharp
 public enum Explode2DFragmentType
 ```
-```vb
-Public Enumeration Explode2DFragmentType
-```
-```cpp
-public enum class Explode2DFragmentType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -8,16 +8,8 @@
 ```csharp
 public Symbol Symbol { get; }
 ```
-```vb
-Public ReadOnly Property Symbol As Symbol
-	Get
-```
-```cpp
-public:
-property Symbol^ Symbol {
-	Symbol^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

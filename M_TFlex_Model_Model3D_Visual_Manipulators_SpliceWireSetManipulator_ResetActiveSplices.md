@@ -8,13 +8,8 @@
 ```csharp
 public void ResetActiveSplices()
 ```
-```vb
-Public Sub ResetActiveSplices
-```
-```cpp
-public:
-void ResetActiveSplices()
-```
+
+
 
 
 #### Ссылки

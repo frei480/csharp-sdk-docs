@@ -8,16 +8,8 @@
 ```csharp
 public PinInfo PinInfo { get; }
 ```
-```vb
-Public ReadOnly Property PinInfo As PinInfo
-	Get
-```
-```cpp
-public:
-property PinInfo^ PinInfo {
-	PinInfo^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

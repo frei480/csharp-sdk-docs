@@ -11,12 +11,8 @@
 ```csharp
 public enum ConstraintPointType
 ```
-```vb
-Public Enumeration ConstraintPointType
-```
-```cpp
-public enum class ConstraintPointType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

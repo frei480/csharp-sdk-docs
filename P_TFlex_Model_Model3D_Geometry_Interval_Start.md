@@ -11,16 +11,8 @@
 ```csharp
 public double Start { set; }
 ```
-```vb
-Public WriteOnly Property Start As Double
-	Set
-```
-```cpp
-public:
-property double Start {
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

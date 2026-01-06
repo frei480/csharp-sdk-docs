@@ -14,19 +14,8 @@ public void Circle(
 	double radius
 )
 ```
-```vb
-Public Sub Circle ( 
-	center As Point,
-	radius As Double
-)
-```
-```cpp
-public:
-void Circle(
-	Point center, 
-	double radius
-)
-```
+
+
 
 
 #### Параметры

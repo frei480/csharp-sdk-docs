@@ -11,13 +11,8 @@
 ```csharp
 public View3DDrawStyle DrawStyle
 ```
-```vb
-Public DrawStyle As View3DDrawStyle
-```
-```cpp
-public:
-View3DDrawStyle DrawStyle
-```
+
+
 
 
 #### Значение поля

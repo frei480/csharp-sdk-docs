@@ -13,19 +13,8 @@ public static ICollection<ImportedOperation> GetImportedOperations(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetImportedOperations ( 
-	document As Document
-) As ICollection(Of ImportedOperation)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<ImportedOperation^>^ GetImportedOperations(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

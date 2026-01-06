@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetDynamicStudies' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer DynamicStudies { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetDynamicStudies' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property DynamicStudies As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetDynamicStudies' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ DynamicStudies {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

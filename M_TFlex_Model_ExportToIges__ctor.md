@@ -13,17 +13,8 @@ public ExportToIGES(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToIGES(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

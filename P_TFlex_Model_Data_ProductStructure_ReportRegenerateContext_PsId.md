@@ -8,18 +8,8 @@
 ```csharp
 public ulong PsId { get; set; }
 ```
-```vb
-Public Property PsId As ULong
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned long long PsId {
-	unsigned long long get ();
-	void set (unsigned long long value);
-}
-```
+
+
 
 
 #### Значение свойства

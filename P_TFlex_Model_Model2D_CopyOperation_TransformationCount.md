@@ -11,16 +11,8 @@
 ```csharp
 public int TransformationCount { get; }
 ```
-```vb
-Public ReadOnly Property TransformationCount As Integer
-	Get
-```
-```cpp
-public:
-property int TransformationCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

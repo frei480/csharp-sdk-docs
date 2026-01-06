@@ -13,12 +13,8 @@
 ```csharp
 public class PipeRoundParameters
 ```
-```vb
-Public Class PipeRoundParameters
-```
-```cpp
-public ref class PipeRoundParameters
-```
+
+
 
 
 Тип BasePipePipeRoundParameters предоставляет следующие члены.

@@ -11,19 +11,8 @@ public static bool operator ==(
 	OverrideCollection<T> right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As OverrideCollection(Of T),
-	right As OverrideCollection(Of T)
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	OverrideCollection<T>^ left, 
-	OverrideCollection<T>^ right
-)
-```
+
+
 
 
 #### Параметры

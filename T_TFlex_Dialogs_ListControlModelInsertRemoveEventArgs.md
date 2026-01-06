@@ -13,13 +13,8 @@
 ```csharp
 public class ListControlModelInsertRemoveEventArgs : EventArgs
 ```
-```vb
-Public Class ListControlModelInsertRemoveEventArgs
-	Inherits EventArgs
-```
-```cpp
-public ref class ListControlModelInsertRemoveEventArgs : public EventArgs
-```
+
+
 
 
 Тип ListControlModelInsertRemoveEventArgs предоставляет следующие члены.

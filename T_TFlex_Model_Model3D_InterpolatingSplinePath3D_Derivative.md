@@ -13,12 +13,8 @@
 ```csharp
 public class Derivative
 ```
-```vb
-Public Class Derivative
-```
-```cpp
-public ref class Derivative
-```
+
+
 
 
 Тип InterpolatingSplinePath3DDerivative предоставляет следующие члены.

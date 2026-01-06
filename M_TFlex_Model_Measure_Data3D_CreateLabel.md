@@ -14,25 +14,8 @@ public static Data CreateLabel(
 	Point delta
 )
 ```
-```vb
-Public Shared Function CreateLabel ( 
-	id As ULong,
-	name As String,
-	text As String,
-	point As Point3D,
-	delta As Point
-) As Data
-```
-```cpp
-public:
-static Data^ CreateLabel(
-	unsigned long long id, 
-	String^ name, 
-	String^ text, 
-	Point3D^ point, 
-	Point delta
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool OnlyVisibleElement { get; set; }
 ```
-```vb
-Public Property OnlyVisibleElement As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OnlyVisibleElement {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

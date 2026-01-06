@@ -14,19 +14,8 @@ public void SetRowId(
 	long id
 )
 ```
-```vb
-Public Sub SetRowId ( 
-	row As Integer,
-	id As Long
-)
-```
-```cpp
-public:
-void SetRowId(
-	int row, 
-	long long id
-)
-```
+
+
 
 
 #### Параметры

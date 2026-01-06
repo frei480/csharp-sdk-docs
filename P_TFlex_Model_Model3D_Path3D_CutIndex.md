@@ -11,18 +11,8 @@
 ```csharp
 public Parameter CutIndex { get; set; }
 ```
-```vb
-Public Property CutIndex As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ CutIndex {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

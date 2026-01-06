@@ -13,12 +13,8 @@
 ```csharp
 public sealed class TorsionalStrength
 ```
-```vb
-Public NotInheritable Class TorsionalStrength
-```
-```cpp
-public ref class TorsionalStrength sealed
-```
+
+
 
 
 Тип StandardUnitsTorsionalStrength предоставляет следующие члены.

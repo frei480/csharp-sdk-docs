@@ -10,18 +10,8 @@ public ListControlButton this[
 	ListControlStandardButton standardButton
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	standardButton As ListControlStandardButton
-) As ListControlButton
-	Get
-```
-```cpp
-public:
-property ListControlButton^ default[ListControlStandardButton standardButton] {
-	ListControlButton^ get (ListControlStandardButton standardButton);
-}
-```
+
+
 
 
 #### Параметры

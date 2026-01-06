@@ -17,25 +17,8 @@ public void SetDiametral(
 	double offset
 )
 ```
-```vb
-Public Sub SetDiametral ( 
-	circle As Object2D,
-	type As DiametralDimensionType,
-	fixNode As Node,
-	angle As Double,
-	offset As Double
-)
-```
-```cpp
-public:
-void SetDiametral(
-	Object2D^ circle, 
-	DiametralDimensionType type, 
-	Node^ fixNode, 
-	double angle, 
-	double offset
-)
-```
+
+
 
 
 #### Параметры

@@ -8,12 +8,8 @@
 ```csharp
 public enum ProductType
 ```
-```vb
-Public Enumeration ProductType
-```
-```cpp
-public enum class ProductType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -14,19 +14,8 @@ public static Response CallPluginRestService(
 	Request request
 )
 ```
-```vb
-Public Shared Function CallPluginRestService ( 
-	pluginName As String,
-	request As Request
-) As Response
-```
-```cpp
-public:
-static Response^ CallPluginRestService(
-	String^ pluginName, 
-	Request^ request
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public ModelDirection TangentDirection { get; set; }
 ```
-```vb
-Public Property TangentDirection As ModelDirection
-	Get
-	Set
-```
-```cpp
-public:
-property ModelDirection^ TangentDirection {
-	ModelDirection^ get ();
-	void set (ModelDirection^ value);
-}
-```
+
+
 
 
 #### Значение свойства

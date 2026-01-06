@@ -14,15 +14,8 @@
 [ObsoleteAttribute("Use static version of this method GetAllOpenedLibraries().")]
 public List<MaterialLibrary> GetOpenedLibraries()
 ```
-```vb
-<ObsoleteAttribute("Use static version of this method GetAllOpenedLibraries().")>
-Public Function GetOpenedLibraries As List(Of MaterialLibrary)
-```
-```cpp
-public:
-[ObsoleteAttribute(L"Use static version of this method GetAllOpenedLibraries().")]
-List<MaterialLibrary^>^ GetOpenedLibraries()
-```
+
+
 
 
 #### Возвращаемое значение

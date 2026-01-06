@@ -10,17 +10,8 @@ public void Assign(
 	View3D source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As View3D
-)
-```
-```cpp
-public:
-void Assign(
-	View3D^ source
-)
-```
+
+
 
 
 #### Параметры

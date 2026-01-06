@@ -13,17 +13,8 @@ public ImportFromACAD(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ImportFromACAD(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

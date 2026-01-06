@@ -13,12 +13,8 @@
 ```csharp
 public sealed class HeatCapacity
 ```
-```vb
-Public NotInheritable Class HeatCapacity
-```
-```cpp
-public ref class HeatCapacity sealed
-```
+
+
 
 
 Тип StandardUnitsHeatCapacity предоставляет следующие члены.

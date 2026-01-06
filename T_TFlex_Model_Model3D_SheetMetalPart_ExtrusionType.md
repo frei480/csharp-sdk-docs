@@ -11,12 +11,8 @@
 ```csharp
 public enum ExtrusionType
 ```
-```vb
-Public Enumeration ExtrusionType
-```
-```cpp
-public enum class ExtrusionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

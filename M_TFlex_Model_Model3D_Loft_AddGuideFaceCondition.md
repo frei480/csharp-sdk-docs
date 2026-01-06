@@ -14,19 +14,8 @@ public void AddGuideFaceCondition(
 	LoftFaceCondition condition
 )
 ```
-```vb
-Public Sub AddGuideFaceCondition ( 
-	guideIndex As Integer,
-	condition As LoftFaceCondition
-)
-```
-```cpp
-public:
-void AddGuideFaceCondition(
-	int guideIndex, 
-	LoftFaceCondition^ condition
-)
-```
+
+
 
 
 #### Параметры

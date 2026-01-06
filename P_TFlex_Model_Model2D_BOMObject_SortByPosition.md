@@ -11,18 +11,8 @@
 ```csharp
 public bool SortByPosition { get; set; }
 ```
-```vb
-Public Property SortByPosition As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SortByPosition {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

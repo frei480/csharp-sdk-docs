@@ -11,19 +11,8 @@ public double GetIntervalLength(
 	TerminalPoint end
 )
 ```
-```vb
-Public Function GetIntervalLength ( 
-	start As TerminalPoint,
-	end As TerminalPoint
-) As Double
-```
-```cpp
-public:
-double GetIntervalLength(
-	TerminalPoint^ start, 
-	TerminalPoint^ end
-)
-```
+
+
 
 
 #### Параметры

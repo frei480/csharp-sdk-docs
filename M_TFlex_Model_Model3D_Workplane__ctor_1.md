@@ -14,19 +14,8 @@ public Workplane(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-public:
-Workplane(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

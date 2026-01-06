@@ -10,16 +10,8 @@ public static explicit operator uint (
 	ObjectId id
 )
 ```
-```vb
-Public Shared Narrowing Operator CType ( 
-	id As ObjectId
-) As UInteger
-```
-```cpp
-static explicit operator unsigned int (
-	ObjectId^ id
-)
-```
+
+
 
 
 #### Параметры

@@ -15,21 +15,8 @@ public FaceCurveIntersectionData IntersectCurve(
 	double IntervalEnd
 )
 ```
-```vb
-Public Function IntersectCurve ( 
-	curve As BaseCurve,
-	IntervalStart As Double,
-	IntervalEnd As Double
-) As FaceCurveIntersectionData
-```
-```cpp
-public:
-virtual FaceCurveIntersectionData^ IntersectCurve(
-	BaseCurve^ curve, 
-	double IntervalStart, 
-	double IntervalEnd
-) sealed
-```
+
+
 
 
 #### Параметры

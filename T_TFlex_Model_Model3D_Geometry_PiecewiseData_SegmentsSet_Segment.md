@@ -14,14 +14,8 @@
 public class Segment : IEnumerator, IEnumerable, 
 	ICloneable
 ```
-```vb
-Public Class Segment
-	Implements IEnumerator, IEnumerable, ICloneable
-```
-```cpp
-public ref class Segment : IEnumerator, 
-	IEnumerable, ICloneable
-```
+
+
 
 
 Тип PiecewiseDataSegmentsSetSegment предоставляет следующие члены.

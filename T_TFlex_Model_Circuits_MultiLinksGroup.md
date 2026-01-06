@@ -14,15 +14,8 @@
 public class MultiLinksGroup : MultiLink, 
 	IGroupLink
 ```
-```vb
-Public Class MultiLinksGroup
-	Inherits MultiLink
-	Implements IGroupLink
-```
-```cpp
-public ref class MultiLinksGroup : public MultiLink, 
-	IGroupLink
-```
+
+
 
 
 Тип MultiLinksGroup предоставляет следующие члены.

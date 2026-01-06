@@ -8,13 +8,8 @@
 ```csharp
 public Scheme Copy()
 ```
-```vb
-Public Function Copy As Scheme
-```
-```cpp
-public:
-Scheme^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,18 +8,8 @@
 ```csharp
 public uint Duration { get; set; }
 ```
-```vb
-Public Property Duration As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int Duration {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

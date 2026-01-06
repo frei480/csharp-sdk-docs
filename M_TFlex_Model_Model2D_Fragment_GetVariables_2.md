@@ -14,19 +14,8 @@ public ICollection<FragmentVariableValue> GetVariables(
 	bool includeFixing
 )
 ```
-```vb
-Public Function GetVariables ( 
-	includeInternal As Boolean,
-	includeFixing As Boolean
-) As ICollection(Of FragmentVariableValue)
-```
-```cpp
-public:
-ICollection<FragmentVariableValue^>^ GetVariables(
-	bool includeInternal, 
-	bool includeFixing
-)
-```
+
+
 
 
 #### Параметры

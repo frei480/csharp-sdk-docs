@@ -11,16 +11,8 @@
 ```csharp
 public IntPtr RGKBody { get; }
 ```
-```vb
-Public ReadOnly Property RGKBody As IntPtr
-	Get
-```
-```cpp
-public:
-property IntPtr RGKBody {
-	IntPtr get ();
-}
-```
+
+
 
 
 #### Значение свойства

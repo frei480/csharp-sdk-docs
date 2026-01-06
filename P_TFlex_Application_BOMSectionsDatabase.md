@@ -11,18 +11,8 @@
 ```csharp
 public static string BOMSectionsDatabase { get; set; }
 ```
-```vb
-Public Shared Property BOMSectionsDatabase As String
-	Get
-	Set
-```
-```cpp
-public:
-static property String^ BOMSectionsDatabase {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

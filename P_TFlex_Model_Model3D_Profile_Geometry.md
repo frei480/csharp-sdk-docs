@@ -11,16 +11,8 @@
 ```csharp
 public ProfileGeometryData Geometry { get; }
 ```
-```vb
-Public ReadOnly Property Geometry As ProfileGeometryData
-	Get
-```
-```cpp
-public:
-property ProfileGeometryData^ Geometry {
-	ProfileGeometryData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

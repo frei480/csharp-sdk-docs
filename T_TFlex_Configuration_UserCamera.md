@@ -11,13 +11,8 @@
 ```csharp
 public class UserCamera : SettingsGroup
 ```
-```vb
-Public Class UserCamera
-	Inherits SettingsGroup
-```
-```cpp
-public ref class UserCamera : public SettingsGroup
-```
+
+
 
 
 Тип UserCamera предоставляет следующие члены.

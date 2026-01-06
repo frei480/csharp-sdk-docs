@@ -13,17 +13,8 @@ public void SetCursor(
 	PositionProperties position
 )
 ```
-```vb
-Public Sub SetCursor ( 
-	position As PositionProperties
-)
-```
-```cpp
-public:
-void SetCursor(
-	PositionProperties position
-)
-```
+
+
 
 
 #### Параметры

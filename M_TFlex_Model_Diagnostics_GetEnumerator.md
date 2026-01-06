@@ -8,13 +8,8 @@
 ```csharp
 public IEnumerator<DiagnosticsMessage> GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As IEnumerator(Of DiagnosticsMessage)
-```
-```cpp
-public:
-virtual IEnumerator<DiagnosticsMessage^>^ GetEnumerator() sealed
-```
+
+
 
 
 #### Возвращаемое значение

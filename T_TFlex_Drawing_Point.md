@@ -13,12 +13,8 @@
 ```csharp
 public struct Point
 ```
-```vb
-Public Structure Point
-```
-```cpp
-public value class Point
-```
+
+
 
 
 Тип Point предоставляет следующие члены.

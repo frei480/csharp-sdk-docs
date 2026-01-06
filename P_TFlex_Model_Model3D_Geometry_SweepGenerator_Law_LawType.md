@@ -11,18 +11,8 @@
 ```csharp
 public SweepGeneratorLawLawTypeSet LawType { get; set; }
 ```
-```vb
-Public Property LawType As SweepGeneratorLawLawTypeSet
-	Get
-	Set
-```
-```cpp
-public:
-property SweepGeneratorLawLawTypeSet LawType {
-	SweepGeneratorLawLawTypeSet get ();
-	void set (SweepGeneratorLawLawTypeSet value);
-}
-```
+
+
 
 
 #### Значение свойства

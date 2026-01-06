@@ -11,13 +11,8 @@
 ```csharp
 public static Parameter Default()
 ```
-```vb
-Public Shared Function Default As Parameter
-```
-```cpp
-public:
-static Parameter^ Default()
-```
+
+
 
 
 #### Возвращаемое значение

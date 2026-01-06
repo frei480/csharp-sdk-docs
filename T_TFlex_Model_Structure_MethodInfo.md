@@ -11,12 +11,8 @@
 ```csharp
 public class MethodInfo
 ```
-```vb
-Public Class MethodInfo
-```
-```cpp
-public ref class MethodInfo
-```
+
+
 
 
 Тип MethodInfo предоставляет следующие члены.

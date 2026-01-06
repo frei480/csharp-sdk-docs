@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Hectare { get; }
 ```
-```vb
-Public Shared ReadOnly Property Hectare As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Hectare {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

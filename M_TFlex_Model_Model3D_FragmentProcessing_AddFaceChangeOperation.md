@@ -8,13 +8,8 @@
 ```csharp
 public FaceChange AddFaceChangeOperation()
 ```
-```vb
-Public Function AddFaceChangeOperation As FaceChange
-```
-```cpp
-public:
-FaceChange^ AddFaceChangeOperation()
-```
+
+
 
 
 #### Возвращаемое значение

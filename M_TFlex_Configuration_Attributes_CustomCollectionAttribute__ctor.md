@@ -11,13 +11,8 @@
 ```csharp
 public CustomCollectionAttribute()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CustomCollectionAttribute()
-```
+
+
 
 
 #### Ссылки

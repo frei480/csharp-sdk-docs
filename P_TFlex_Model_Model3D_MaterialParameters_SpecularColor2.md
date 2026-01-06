@@ -11,18 +11,8 @@
 ```csharp
 public Color SpecularColor2 { get; set; }
 ```
-```vb
-Public Property SpecularColor2 As Color
-	Get
-	Set
-```
-```cpp
-public:
-property Color SpecularColor2 {
-	Color get ();
-	void set (Color value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,15 +11,8 @@
 ```csharp
 public class Constraint : Object2D, IModelObjectWithLayer
 ```
-```vb
-Public Class Constraint
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class Constraint : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип Constraint предоставляет следующие члены.

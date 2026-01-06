@@ -11,16 +11,8 @@
 ```csharp
 public ProxyOperation VolatileObject { get; }
 ```
-```vb
-Public ReadOnly Property VolatileObject As ProxyOperation
-	Get
-```
-```cpp
-public:
-property ProxyOperation^ VolatileObject {
-	ProxyOperation^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

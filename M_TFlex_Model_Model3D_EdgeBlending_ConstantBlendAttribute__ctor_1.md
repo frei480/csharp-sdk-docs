@@ -15,21 +15,8 @@ public ConstantBlendAttribute(
 	Parameter setbackEnd
 )
 ```
-```vb
-Public Sub New ( 
-	radius As Parameter,
-	setbackStart As Parameter,
-	setbackEnd As Parameter
-)
-```
-```cpp
-public:
-ConstantBlendAttribute(
-	Parameter^ radius, 
-	Parameter^ setbackStart, 
-	Parameter^ setbackEnd
-)
-```
+
+
 
 
 #### Параметры

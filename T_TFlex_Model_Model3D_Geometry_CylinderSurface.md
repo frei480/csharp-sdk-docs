@@ -14,15 +14,8 @@
 public class CylinderSurface : Surface, 
 	BaseCylinderSurface
 ```
-```vb
-Public Class CylinderSurface
-	Inherits Surface
-	Implements BaseCylinderSurface
-```
-```cpp
-public ref class CylinderSurface : public Surface, 
-	BaseCylinderSurface
-```
+
+
 
 
 Тип CylinderSurface предоставляет следующие члены.

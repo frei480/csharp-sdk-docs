@@ -11,18 +11,8 @@
 ```csharp
 public bool VisibleOnlyOnFragment { get; set; }
 ```
-```vb
-Public Property VisibleOnlyOnFragment As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool VisibleOnlyOnFragment {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

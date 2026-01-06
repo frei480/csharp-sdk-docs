@@ -8,16 +8,8 @@
 ```csharp
 public CustomFilter SelectionFilter { get; }
 ```
-```vb
-Public ReadOnly Property SelectionFilter As CustomFilter
-	Get
-```
-```cpp
-public:
-virtual property CustomFilter^ SelectionFilter {
-	CustomFilter^ get () sealed;
-}
-```
+
+
 
 
 #### Значение свойства

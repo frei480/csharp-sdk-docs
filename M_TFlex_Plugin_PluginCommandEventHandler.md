@@ -13,17 +13,8 @@ protected virtual void PluginCommandEventHandler(
 	PluginCommandEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub PluginCommandEventHandler ( 
-	args As PluginCommandEventArgs
-)
-```
-```cpp
-protected:
-virtual void PluginCommandEventHandler(
-	PluginCommandEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

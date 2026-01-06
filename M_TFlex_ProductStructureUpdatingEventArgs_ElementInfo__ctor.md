@@ -13,17 +13,8 @@ public ElementInfo(
 	string idString
 )
 ```
-```vb
-Public Sub New ( 
-	idString As String
-)
-```
-```cpp
-public:
-ElementInfo(
-	String^ idString
-)
-```
+
+
 
 
 #### Параметры

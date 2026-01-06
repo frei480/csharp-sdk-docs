@@ -15,21 +15,8 @@ public Direction(
 	double z
 )
 ```
-```vb
-Public Sub New ( 
-	x As Double,
-	y As Double,
-	z As Double
-)
-```
-```cpp
-public:
-Direction(
-	double x, 
-	double y, 
-	double z
-)
-```
+
+
 
 
 #### Параметры

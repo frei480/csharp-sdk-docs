@@ -13,17 +13,8 @@ public ICollection<FragmentVariableValue> GetVariables(
 	bool includeInternal
 )
 ```
-```vb
-Public Function GetVariables ( 
-	includeInternal As Boolean
-) As ICollection(Of FragmentVariableValue)
-```
-```cpp
-public:
-ICollection<FragmentVariableValue^>^ GetVariables(
-	bool includeInternal
-)
-```
+
+
 
 
 #### Параметры

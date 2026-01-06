@@ -11,18 +11,8 @@
 ```csharp
 public Parameter BlendRadius { get; set; }
 ```
-```vb
-Public Property BlendRadius As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ BlendRadius {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

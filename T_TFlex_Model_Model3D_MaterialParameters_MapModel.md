@@ -11,12 +11,8 @@
 ```csharp
 public enum MapModel
 ```
-```vb
-Public Enumeration MapModel
-```
-```cpp
-public enum class MapModel
-```
+
+
 
 
 | Имя члена | Значение | Описание |

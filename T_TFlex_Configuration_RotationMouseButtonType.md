@@ -8,12 +8,8 @@
 ```csharp
 public enum RotationMouseButtonType
 ```
-```vb
-Public Enumeration RotationMouseButtonType
-```
-```cpp
-public enum class RotationMouseButtonType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

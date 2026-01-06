@@ -8,18 +8,8 @@
 ```csharp
 public IEnumerable<Guid> IdenticalIgnoredParametersIDs { get; set; }
 ```
-```vb
-Public Property IdenticalIgnoredParametersIDs As IEnumerable(Of Guid)
-	Get
-	Set
-```
-```cpp
-public:
-property IEnumerable<Guid>^ IdenticalIgnoredParametersIDs {
-	IEnumerable<Guid>^ get ();
-	void set (IEnumerable<Guid>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

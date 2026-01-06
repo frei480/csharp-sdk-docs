@@ -15,21 +15,8 @@ public SelectControlItem(
 	string hintText
 )
 ```
-```vb
-Public Sub New ( 
-	id As String,
-	text As String,
-	hintText As String
-)
-```
-```cpp
-public:
-SelectControlItem(
-	String^ id, 
-	String^ text, 
-	String^ hintText
-)
-```
+
+
 
 
 #### Параметры

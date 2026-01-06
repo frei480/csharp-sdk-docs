@@ -11,18 +11,8 @@
 ```csharp
 public string OpenDialogTitle { get; set; }
 ```
-```vb
-Public Property OpenDialogTitle As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ OpenDialogTitle {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

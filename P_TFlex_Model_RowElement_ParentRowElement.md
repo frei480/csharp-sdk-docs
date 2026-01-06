@@ -11,18 +11,8 @@
 ```csharp
 public RowElement ParentRowElement { get; set; }
 ```
-```vb
-Public Property ParentRowElement As RowElement
-	Get
-	Set
-```
-```cpp
-public:
-property RowElement^ ParentRowElement {
-	RowElement^ get ();
-	void set (RowElement^ value);
-}
-```
+
+
 
 
 #### Значение свойства

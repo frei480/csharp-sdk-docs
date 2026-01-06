@@ -11,18 +11,8 @@
 ```csharp
 public OffsetPathBreakFill BreakFillType { get; set; }
 ```
-```vb
-Public Property BreakFillType As OffsetPathBreakFill
-	Get
-	Set
-```
-```cpp
-public:
-property OffsetPathBreakFill BreakFillType {
-	OffsetPathBreakFill get ();
-	void set (OffsetPathBreakFill value);
-}
-```
+
+
 
 
 #### Значение свойства

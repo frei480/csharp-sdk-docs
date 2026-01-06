@@ -11,16 +11,8 @@
 ```csharp
 public Parameter ArrowOffsetY { get; }
 ```
-```vb
-Public ReadOnly Property ArrowOffsetY As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ ArrowOffsetY {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

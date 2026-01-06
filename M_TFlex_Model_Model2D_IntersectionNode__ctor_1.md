@@ -15,21 +15,8 @@ public IntersectionNode(
 	Construction srcConstruction2
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	srcConstruction1 As Construction,
-	srcConstruction2 As Construction
-)
-```
-```cpp
-public:
-IntersectionNode(
-	Document^ document, 
-	Construction^ srcConstruction1, 
-	Construction^ srcConstruction2
-)
-```
+
+
 
 
 #### Параметры

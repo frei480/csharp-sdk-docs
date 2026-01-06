@@ -11,18 +11,8 @@
 ```csharp
 public string TextOnLeader { get; set; }
 ```
-```vb
-Public Property TextOnLeader As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TextOnLeader {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

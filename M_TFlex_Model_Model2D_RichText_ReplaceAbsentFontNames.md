@@ -13,17 +13,8 @@ public void ReplaceAbsentFontNames(
 	string newName
 )
 ```
-```vb
-Public Sub ReplaceAbsentFontNames ( 
-	newName As String
-)
-```
-```cpp
-public:
-void ReplaceAbsentFontNames(
-	String^ newName
-)
-```
+
+
 
 
 #### Параметры

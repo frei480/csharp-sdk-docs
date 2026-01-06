@@ -13,13 +13,8 @@
 ```csharp
 public class FaceTransform : Operation
 ```
-```vb
-Public Class FaceTransform
-	Inherits Operation
-```
-```cpp
-public ref class FaceTransform : public Operation
-```
+
+
 
 
 Тип FaceTransform предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public bool VisibleTranslateY { get; set; }
 ```
-```vb
-Public Property VisibleTranslateY As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool VisibleTranslateY {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

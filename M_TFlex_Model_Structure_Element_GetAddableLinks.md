@@ -10,17 +10,8 @@ public IEnumerable<LinkDescriptor> GetAddableLinks(
 	ModelObject obj
 )
 ```
-```vb
-Public Function GetAddableLinks ( 
-	obj As ModelObject
-) As IEnumerable(Of LinkDescriptor)
-```
-```cpp
-public:
-IEnumerable<LinkDescriptor^>^ GetAddableLinks(
-	ModelObject^ obj
-)
-```
+
+
 
 
 #### Параметры

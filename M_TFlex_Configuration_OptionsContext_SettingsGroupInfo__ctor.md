@@ -11,13 +11,8 @@
 ```csharp
 public SettingsGroupInfo()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SettingsGroupInfo()
-```
+
+
 
 
 #### Ссылки

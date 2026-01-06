@@ -10,17 +10,8 @@ public SegmentBound CreateBound(
 	Parameter defaultOffset
 )
 ```
-```vb
-Public Function CreateBound ( 
-	defaultOffset As Parameter
-) As SegmentBound
-```
-```cpp
-public:
-SegmentBound^ CreateBound(
-	Parameter^ defaultOffset
-)
-```
+
+
 
 
 #### Параметры

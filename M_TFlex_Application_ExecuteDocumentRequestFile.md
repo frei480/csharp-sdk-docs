@@ -11,19 +11,8 @@ public static bool ExecuteDocumentRequestFile(
 	out string requestId
 )
 ```
-```vb
-Public Shared Function ExecuteDocumentRequestFile ( 
-	fileName As String,
-	<OutAttribute> ByRef requestId As String
-) As Boolean
-```
-```cpp
-public:
-static bool ExecuteDocumentRequestFile(
-	String^ fileName, 
-	[OutAttribute] String^% requestId
-)
-```
+
+
 
 
 #### Параметры

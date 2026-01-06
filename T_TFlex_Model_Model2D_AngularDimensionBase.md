@@ -13,13 +13,8 @@
 ```csharp
 public class AngularDimensionBase : Dimension
 ```
-```vb
-Public Class AngularDimensionBase
-	Inherits Dimension
-```
-```cpp
-public ref class AngularDimensionBase : public Dimension
-```
+
+
 
 
 Тип AngularDimensionBase предоставляет следующие члены.

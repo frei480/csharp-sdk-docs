@@ -15,21 +15,8 @@ public void SetOnAngleToLineThroughNode(
 	Parameter angle
 )
 ```
-```vb
-Public Sub SetOnAngleToLineThroughNode ( 
-	srcLine As Construction,
-	srcNode As Node,
-	angle As Parameter
-)
-```
-```cpp
-public:
-void SetOnAngleToLineThroughNode(
-	Construction^ srcLine, 
-	Node^ srcNode, 
-	Parameter^ angle
-)
-```
+
+
 
 
 #### Параметры

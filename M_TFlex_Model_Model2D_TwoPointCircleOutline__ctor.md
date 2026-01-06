@@ -16,23 +16,8 @@ public TwoPointCircleOutline(
 	double radius
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	firstNode As Node,
-	secondNode As Node,
-	radius As Double
-)
-```
-```cpp
-public:
-TwoPointCircleOutline(
-	Document^ document, 
-	Node^ firstNode, 
-	Node^ secondNode, 
-	double radius
-)
-```
+
+
 
 
 #### Параметры

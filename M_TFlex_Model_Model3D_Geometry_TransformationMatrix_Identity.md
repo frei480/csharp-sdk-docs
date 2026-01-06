@@ -11,13 +11,8 @@
 ```csharp
 public void Identity()
 ```
-```vb
-Public Sub Identity
-```
-```cpp
-public:
-void Identity()
-```
+
+
 
 
 #### Ссылки

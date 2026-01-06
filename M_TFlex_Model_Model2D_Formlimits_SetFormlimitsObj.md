@@ -13,17 +13,8 @@ public void SetFormlimitsObj(
 	Formlimits obj
 )
 ```
-```vb
-Public Sub SetFormlimitsObj ( 
-	obj As Formlimits
-)
-```
-```cpp
-public:
-void SetFormlimitsObj(
-	Formlimits^ obj
-)
-```
+
+
 
 
 #### Параметры

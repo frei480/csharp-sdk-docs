@@ -8,16 +8,8 @@
 ```csharp
 public bool IsConnectToShieldOutput { get; }
 ```
-```vb
-Public ReadOnly Property IsConnectToShieldOutput As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsConnectToShieldOutput {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class EllipseArcOutline : Outline
 ```
-```vb
-Public Class EllipseArcOutline
-	Inherits Outline
-```
-```cpp
-public ref class EllipseArcOutline : public Outline
-```
+
+
 
 
 Тип EllipseArcOutline предоставляет следующие члены.

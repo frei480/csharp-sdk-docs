@@ -10,17 +10,8 @@ public abstract bool XMLDeserialize(
 	XmlElement element
 )
 ```
-```vb
-Public MustOverride Function XMLDeserialize ( 
-	element As XmlElement
-) As Boolean
-```
-```cpp
-public:
-virtual bool XMLDeserialize(
-	XmlElement^ element
-) abstract
-```
+
+
 
 
 #### Параметры

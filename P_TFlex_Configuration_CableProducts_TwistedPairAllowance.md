@@ -8,18 +8,8 @@
 ```csharp
 public double TwistedPairAllowance { get; set; }
 ```
-```vb
-Public Property TwistedPairAllowance As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double TwistedPairAllowance {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

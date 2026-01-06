@@ -13,13 +13,8 @@
 ```csharp
 public class WireFromCurvesGenerator : BodyGenerator
 ```
-```vb
-Public Class WireFromCurvesGenerator
-	Inherits BodyGenerator
-```
-```cpp
-public ref class WireFromCurvesGenerator : public BodyGenerator
-```
+
+
 
 
 Тип WireFromCurvesGenerator предоставляет следующие члены.

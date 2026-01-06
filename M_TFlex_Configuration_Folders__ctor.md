@@ -11,13 +11,8 @@
 ```csharp
 public Folders()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Folders()
-```
+
+
 
 
 #### Ссылки

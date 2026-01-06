@@ -11,13 +11,8 @@
 ```csharp
 public double SpaceBeforeFirst
 ```
-```vb
-Public SpaceBeforeFirst As Double
-```
-```cpp
-public:
-double SpaceBeforeFirst
-```
+
+
 
 
 #### Значение поля

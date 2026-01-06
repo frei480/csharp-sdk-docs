@@ -13,17 +13,8 @@ public LibraryGroup(
 	string name
 )
 ```
-```vb
-Public Sub New ( 
-	name As String
-)
-```
-```cpp
-public:
-LibraryGroup(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

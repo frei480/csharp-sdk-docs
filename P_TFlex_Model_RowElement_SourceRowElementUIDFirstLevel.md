@@ -11,16 +11,8 @@
 ```csharp
 public Guid SourceRowElementUIDFirstLevel { get; }
 ```
-```vb
-Public ReadOnly Property SourceRowElementUIDFirstLevel As Guid
-	Get
-```
-```cpp
-public:
-property Guid SourceRowElementUIDFirstLevel {
-	Guid get ();
-}
-```
+
+
 
 
 #### Значение свойства

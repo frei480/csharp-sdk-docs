@@ -8,12 +8,8 @@
 ```csharp
 public enum ViewToolBarPosition
 ```
-```vb
-Public Enumeration ViewToolBarPosition
-```
-```cpp
-public enum class ViewToolBarPosition
-```
+
+
 
 
 | Имя члена | Значение | Описание |

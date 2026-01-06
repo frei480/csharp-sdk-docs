@@ -11,16 +11,8 @@
 ```csharp
 public ModelConfiguration ModelConfiguration { get; }
 ```
-```vb
-Public ReadOnly Property ModelConfiguration As ModelConfiguration
-	Get
-```
-```cpp
-public:
-property ModelConfiguration^ ModelConfiguration {
-	ModelConfiguration^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

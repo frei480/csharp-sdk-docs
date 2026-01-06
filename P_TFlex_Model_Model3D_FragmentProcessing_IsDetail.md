@@ -8,16 +8,8 @@
 ```csharp
 public bool IsDetail { get; }
 ```
-```vb
-Public ReadOnly Property IsDetail As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsDetail {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

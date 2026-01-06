@@ -11,16 +11,8 @@
 ```csharp
 public bool TopLevel { get; }
 ```
-```vb
-Public ReadOnly Property TopLevel As Boolean
-	Get
-```
-```cpp
-public:
-property bool TopLevel {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

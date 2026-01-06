@@ -13,17 +13,8 @@ public void Enable(
 	ObjectType type
 )
 ```
-```vb
-Public Sub Enable ( 
-	type As ObjectType
-)
-```
-```cpp
-public:
-void Enable(
-	ObjectType type
-)
-```
+
+
 
 
 #### Параметры

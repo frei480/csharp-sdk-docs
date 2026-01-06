@@ -11,18 +11,8 @@
 ```csharp
 public bool PromptToSaveModifiedDocuments { get; set; }
 ```
-```vb
-Public Property PromptToSaveModifiedDocuments As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool PromptToSaveModifiedDocuments {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

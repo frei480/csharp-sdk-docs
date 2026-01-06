@@ -11,18 +11,8 @@
 ```csharp
 public bool IsUserDefined { get; set; }
 ```
-```vb
-Public Property IsUserDefined As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsUserDefined {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

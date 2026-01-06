@@ -11,16 +11,8 @@
 ```csharp
 public ModelPlane TangentPlaneFirstPrincipalDirection { get; }
 ```
-```vb
-Public ReadOnly Property TangentPlaneFirstPrincipalDirection As ModelPlane
-	Get
-```
-```cpp
-public:
-property ModelPlane^ TangentPlaneFirstPrincipalDirection {
-	ModelPlane^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

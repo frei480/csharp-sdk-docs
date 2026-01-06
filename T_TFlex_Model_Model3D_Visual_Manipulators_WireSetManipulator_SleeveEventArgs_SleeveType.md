@@ -8,12 +8,8 @@
 ```csharp
 public enum SleeveType
 ```
-```vb
-Public Enumeration SleeveType
-```
-```cpp
-public enum class SleeveType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

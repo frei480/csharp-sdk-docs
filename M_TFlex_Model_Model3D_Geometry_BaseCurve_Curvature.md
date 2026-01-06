@@ -13,17 +13,8 @@ public double Curvature(
 	double t
 )
 ```
-```vb
-Public Function Curvature ( 
-	t As Double
-) As Double
-```
-```cpp
-public:
-double Curvature(
-	double t
-)
-```
+
+
 
 
 #### Параметры

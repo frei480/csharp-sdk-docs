@@ -11,12 +11,8 @@
 ```csharp
 public enum ParameterizationType
 ```
-```vb
-Public Enumeration ParameterizationType
-```
-```cpp
-public enum class ParameterizationType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -14,19 +14,8 @@ public CustomCategoryOrderAttribute(
 	int order
 )
 ```
-```vb
-Public Sub New ( 
-	categoryName As String,
-	order As Integer
-)
-```
-```cpp
-public:
-CustomCategoryOrderAttribute(
-	String^ categoryName, 
-	int order
-)
-```
+
+
 
 
 #### Параметры

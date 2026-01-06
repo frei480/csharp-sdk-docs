@@ -8,16 +8,8 @@
 ```csharp
 public Zones Zones { get; }
 ```
-```vb
-Public ReadOnly Property Zones As Zones
-	Get
-```
-```cpp
-public:
-property Zones^ Zones {
-	Zones^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

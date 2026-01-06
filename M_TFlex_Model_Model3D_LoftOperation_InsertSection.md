@@ -14,19 +14,8 @@ public LoftOperationSection InsertSection(
 	ModelContour contour
 )
 ```
-```vb
-Public Function InsertSection ( 
-	sectionIndex As Integer,
-	contour As ModelContour
-) As LoftOperationSection
-```
-```cpp
-public:
-LoftOperationSection^ InsertSection(
-	int sectionIndex, 
-	ModelContour^ contour
-)
-```
+
+
 
 
 #### Параметры

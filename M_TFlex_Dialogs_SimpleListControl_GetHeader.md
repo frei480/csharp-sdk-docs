@@ -13,17 +13,8 @@ public Object GetHeader(
 	int column
 )
 ```
-```vb
-Public Function GetHeader ( 
-	column As Integer
-) As Object
-```
-```cpp
-public:
-Object^ GetHeader(
-	int column
-)
-```
+
+
 
 
 #### Параметры

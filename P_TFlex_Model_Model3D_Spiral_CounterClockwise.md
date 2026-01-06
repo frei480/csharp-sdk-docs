@@ -11,18 +11,8 @@
 ```csharp
 public bool CounterClockwise { get; set; }
 ```
-```vb
-Public Property CounterClockwise As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CounterClockwise {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public class Unit
 ```
-```vb
-Public Class Unit
-```
-```cpp
-public ref class Unit
-```
+
+
 
 
 Тип Unit предоставляет следующие члены.

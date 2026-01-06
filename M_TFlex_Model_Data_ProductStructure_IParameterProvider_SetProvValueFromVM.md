@@ -10,17 +10,8 @@ public abstract void SetProvValueFromVM(
 	string val
 )
 ```
-```vb
-Public MustOverride Sub SetProvValueFromVM ( 
-	val As String
-)
-```
-```cpp
-public:
-virtual void SetProvValueFromVM(
-	String^ val
-) abstract
-```
+
+
 
 
 #### Параметры

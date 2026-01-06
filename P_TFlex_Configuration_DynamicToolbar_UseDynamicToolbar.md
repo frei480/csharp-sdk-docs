@@ -8,18 +8,8 @@
 ```csharp
 public bool UseDynamicToolbar { get; set; }
 ```
-```vb
-Public Property UseDynamicToolbar As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseDynamicToolbar {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

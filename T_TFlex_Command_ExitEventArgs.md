@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExitEventArgs : CommandEventArgs
 ```
-```vb
-Public NotInheritable Class ExitEventArgs
-	Inherits CommandEventArgs
-```
-```cpp
-public ref class ExitEventArgs sealed : public CommandEventArgs
-```
+
+
 
 
 Тип ExitEventArgs предоставляет следующие члены.

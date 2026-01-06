@@ -13,17 +13,8 @@ public ExportToJt(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ExportToJt(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

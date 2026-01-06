@@ -8,18 +8,8 @@
 ```csharp
 public InscriptionStandard Standard { get; set; }
 ```
-```vb
-Public Property Standard As InscriptionStandard
-	Get
-	Set
-```
-```cpp
-public:
-property InscriptionStandard Standard {
-	InscriptionStandard get ();
-	void set (InscriptionStandard value);
-}
-```
+
+
 
 
 #### Значение свойства

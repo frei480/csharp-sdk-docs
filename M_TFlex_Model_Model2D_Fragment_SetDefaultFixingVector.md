@@ -11,13 +11,8 @@
 ```csharp
 public bool SetDefaultFixingVector()
 ```
-```vb
-Public Function SetDefaultFixingVector As Boolean
-```
-```cpp
-public:
-bool SetDefaultFixingVector()
-```
+
+
 
 
 #### Возвращаемое значение

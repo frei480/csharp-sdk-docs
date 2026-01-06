@@ -14,19 +14,8 @@ public void MoveRotation(
 	MoveType direction
 )
 ```
-```vb
-Public Sub MoveRotation ( 
-	index As Integer,
-	direction As MoveType
-)
-```
-```cpp
-public:
-void MoveRotation(
-	int index, 
-	MoveType direction
-)
-```
+
+
 
 
 #### Параметры

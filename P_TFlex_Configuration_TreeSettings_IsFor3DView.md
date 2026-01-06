@@ -8,18 +8,8 @@
 ```csharp
 public bool IsFor3DView { get; set; }
 ```
-```vb
-Public Property IsFor3DView As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsFor3DView {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

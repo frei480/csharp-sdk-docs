@@ -10,17 +10,8 @@ public bool Delete(
 	TerminalPoint pointOnSegment
 )
 ```
-```vb
-Public Function Delete ( 
-	pointOnSegment As TerminalPoint
-) As Boolean
-```
-```cpp
-public:
-bool Delete(
-	TerminalPoint^ pointOnSegment
-)
-```
+
+
 
 
 #### Параметры

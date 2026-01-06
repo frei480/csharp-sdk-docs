@@ -10,17 +10,8 @@ public void Assign(
 	DOCs source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As DOCs
-)
-```
-```cpp
-public:
-void Assign(
-	DOCs^ source
-)
-```
+
+
 
 
 #### Параметры

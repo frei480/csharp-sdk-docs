@@ -8,16 +8,8 @@
 ```csharp
 public IEnumerable<SetTrimmedData> Sets { get; }
 ```
-```vb
-Public ReadOnly Property Sets As IEnumerable(Of SetTrimmedData)
-	Get
-```
-```cpp
-public:
-property IEnumerable<SetTrimmedData^>^ Sets {
-	IEnumerable<SetTrimmedData^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

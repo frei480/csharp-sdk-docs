@@ -13,12 +13,8 @@
 ```csharp
 public struct ParaFormat
 ```
-```vb
-Public Structure ParaFormat
-```
-```cpp
-public value class ParaFormat
-```
+
+
 
 
 Тип ParaFormat предоставляет следующие члены.

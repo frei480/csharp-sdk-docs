@@ -11,13 +11,8 @@
 ```csharp
 public static bool UndoIsOpen()
 ```
-```vb
-Public Shared Function UndoIsOpen As Boolean
-```
-```cpp
-public:
-static bool UndoIsOpen()
-```
+
+
 
 
 #### Возвращаемое значение

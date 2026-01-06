@@ -8,18 +8,8 @@
 ```csharp
 public PreviewSaveType PreviewType { get; set; }
 ```
-```vb
-Public Property PreviewType As PreviewSaveType
-	Get
-	Set
-```
-```cpp
-public:
-property PreviewSaveType PreviewType {
-	PreviewSaveType get ();
-	void set (PreviewSaveType value);
-}
-```
+
+
 
 
 #### Значение свойства

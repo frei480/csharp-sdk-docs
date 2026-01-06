@@ -13,17 +13,8 @@ public ChangesResult ApplyChanges(
 	bool regenerate3D
 )
 ```
-```vb
-Public Function ApplyChanges ( 
-	regenerate3D As Boolean
-) As ChangesResult
-```
-```cpp
-public:
-ChangesResult ApplyChanges(
-	bool regenerate3D
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@ NURBS кривая
 ```csharp
 public class DecorationNURBS : DecorationShape
 ```
-```vb
-Public Class DecorationNURBS
-	Inherits DecorationShape
-```
-```cpp
-public ref class DecorationNURBS : public DecorationShape
-```
+
+
 
 
 Тип DecorationNURBS предоставляет следующие члены.

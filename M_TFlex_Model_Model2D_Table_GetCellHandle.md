@@ -10,17 +10,8 @@ public IntPtr GetCellHandle(
 	uint cell
 )
 ```
-```vb
-Public Function GetCellHandle ( 
-	cell As UInteger
-) As IntPtr
-```
-```cpp
-public:
-IntPtr GetCellHandle(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

@@ -10,18 +10,8 @@ public UDFParameter this[
 	string name
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	name As String
-) As UDFParameter
-	Get
-```
-```cpp
-public:
-property UDFParameter^ default[String^ name] {
-	UDFParameter^ get (String^ name);
-}
-```
+
+
 
 
 #### Параметры

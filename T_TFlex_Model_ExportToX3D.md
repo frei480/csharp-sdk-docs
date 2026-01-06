@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToX3D : ExportToFacet
 ```
-```vb
-Public NotInheritable Class ExportToX3D
-	Inherits ExportToFacet
-```
-```cpp
-public ref class ExportToX3D sealed : public ExportToFacet
-```
+
+
 
 
 Тип ExportToX3D предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public AttributePropertyManager()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-AttributePropertyManager()
-```
+
+
 
 
 #### Ссылки

@@ -11,13 +11,8 @@
 ```csharp
 public int GetColumnCount()
 ```
-```vb
-Public Function GetColumnCount As Integer
-```
-```cpp
-public:
-int GetColumnCount()
-```
+
+
 
 
 #### Возвращаемое значение

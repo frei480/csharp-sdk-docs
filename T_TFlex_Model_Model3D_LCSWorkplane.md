@@ -13,13 +13,8 @@
 ```csharp
 public class LCSWorkplane : Model2DWorkplane
 ```
-```vb
-Public Class LCSWorkplane
-	Inherits Model2DWorkplane
-```
-```cpp
-public ref class LCSWorkplane : public Model2DWorkplane
-```
+
+
 
 
 Тип LCSWorkplane предоставляет следующие члены.

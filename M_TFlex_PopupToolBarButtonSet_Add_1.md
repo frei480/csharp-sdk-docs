@@ -14,19 +14,8 @@ public bool Add(
 	bool required
 )
 ```
-```vb
-Public Function Add ( 
-	id As Integer,
-	required As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool Add(
-	int id, 
-	bool required
-)
-```
+
+
 
 
 #### Параметры

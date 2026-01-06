@@ -8,13 +8,8 @@
 ```csharp
 public Point3D GetPendingOrigin()
 ```
-```vb
-Public Function GetPendingOrigin As Point3D
-```
-```cpp
-public:
-Point3D^ GetPendingOrigin()
-```
+
+
 
 
 #### Возвращаемое значение

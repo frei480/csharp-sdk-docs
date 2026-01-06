@@ -11,16 +11,8 @@
 ```csharp
 public Path3DPath3DSegmentType Type { get; }
 ```
-```vb
-Public ReadOnly Property Type As Path3DPath3DSegmentType
-	Get
-```
-```cpp
-public:
-property Path3DPath3DSegmentType Type {
-	Path3DPath3DSegmentType get ();
-}
-```
+
+
 
 
 #### Значение свойства

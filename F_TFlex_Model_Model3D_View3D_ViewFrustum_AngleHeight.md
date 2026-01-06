@@ -8,13 +8,8 @@
 ```csharp
 public float AngleHeight
 ```
-```vb
-Public AngleHeight As Single
-```
-```cpp
-public:
-float AngleHeight
-```
+
+
 
 
 #### Значение поля

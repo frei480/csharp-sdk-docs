@@ -11,13 +11,8 @@
 ```csharp
 public Electric()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Electric()
-```
+
+
 
 
 #### Ссылки

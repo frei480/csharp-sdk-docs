@@ -13,17 +13,8 @@ public static List<FixingVector> FindByFragment(
 	Fragment fragment
 )
 ```
-```vb
-Public Shared Function FindByFragment ( 
-	fragment As Fragment
-) As List(Of FixingVector)
-```
-```cpp
-public:
-static List<FixingVector^>^ FindByFragment(
-	Fragment^ fragment
-)
-```
+
+
 
 
 #### Параметры

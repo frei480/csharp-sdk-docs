@@ -13,13 +13,8 @@
 ```csharp
 public abstract class BaseAxis : Geometry
 ```
-```vb
-Public MustInherit Class BaseAxis
-	Inherits Geometry
-```
-```cpp
-public ref class BaseAxis abstract : public Geometry
-```
+
+
 
 
 Тип BaseAxis предоставляет следующие члены.

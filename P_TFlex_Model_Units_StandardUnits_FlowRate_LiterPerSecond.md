@@ -13,16 +13,8 @@
 ```csharp
 public static Unit LiterPerSecond { get; }
 ```
-```vb
-Public Shared ReadOnly Property LiterPerSecond As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ LiterPerSecond {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

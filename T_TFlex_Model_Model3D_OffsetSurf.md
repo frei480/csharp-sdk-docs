@@ -13,13 +13,8 @@
 ```csharp
 public class OffsetSurf : Operation
 ```
-```vb
-Public Class OffsetSurf
-	Inherits Operation
-```
-```cpp
-public ref class OffsetSurf : public Operation
-```
+
+
 
 
 Тип OffsetSurf предоставляет следующие члены.

@@ -13,17 +13,8 @@ public bool SetFixingVectorName(
 	string name
 )
 ```
-```vb
-Public Function SetFixingVectorName ( 
-	name As String
-) As Boolean
-```
-```cpp
-public:
-bool SetFixingVectorName(
-	String^ name
-)
-```
+
+
 
 
 #### Параметры

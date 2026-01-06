@@ -13,13 +13,8 @@
 ```csharp
 public class ParametricPath : Path3D
 ```
-```vb
-Public Class ParametricPath
-	Inherits Path3D
-```
-```cpp
-public ref class ParametricPath : public Path3D
-```
+
+
 
 
 Тип ParametricPath предоставляет следующие члены.

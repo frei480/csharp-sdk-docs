@@ -11,13 +11,8 @@
 ```csharp
 public class BoolOverrideCollection : OverrideCollection<bool>
 ```
-```vb
-Public Class BoolOverrideCollection
-	Inherits OverrideCollection(Of Boolean)
-```
-```cpp
-public ref class BoolOverrideCollection : public OverrideCollection<bool>
-```
+
+
 
 
 Тип BoolOverrideCollection предоставляет следующие члены.

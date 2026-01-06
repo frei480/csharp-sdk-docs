@@ -11,12 +11,8 @@
 ```csharp
 public enum DimensionLines
 ```
-```vb
-Public Enumeration DimensionLines
-```
-```cpp
-public enum class DimensionLines
-```
+
+
 
 
 | Имя члена | Значение | Описание |

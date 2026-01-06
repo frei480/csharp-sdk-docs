@@ -11,12 +11,8 @@
 ```csharp
 public abstract class BaseValue
 ```
-```vb
-Public MustInherit Class BaseValue
-```
-```cpp
-public ref class BaseValue abstract
-```
+
+
 
 
 Тип BaseValue предоставляет следующие члены.

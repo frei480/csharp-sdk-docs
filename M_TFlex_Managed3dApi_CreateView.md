@@ -10,17 +10,8 @@ public virtual View CreateView(
 	IntPtr _pTFView
 )
 ```
-```vb
-Public Overridable Function CreateView ( 
-	_pTFView As IntPtr
-) As View
-```
-```cpp
-public:
-virtual View^ CreateView(
-	IntPtr _pTFView
-)
-```
+
+
 
 
 #### Параметры

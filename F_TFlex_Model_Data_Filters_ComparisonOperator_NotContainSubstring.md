@@ -11,13 +11,8 @@
 ```csharp
 public static readonly ComparisonOperator NotContainSubstring
 ```
-```vb
-Public Shared ReadOnly NotContainSubstring As ComparisonOperator
-```
-```cpp
-public:
-static initonly ComparisonOperator^ NotContainSubstring
-```
+
+
 
 
 #### Значение поля

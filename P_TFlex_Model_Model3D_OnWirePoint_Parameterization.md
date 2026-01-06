@@ -11,18 +11,8 @@
 ```csharp
 public OnWirePointParameterizationType Parameterization { get; set; }
 ```
-```vb
-Public Property Parameterization As OnWirePointParameterizationType
-	Get
-	Set
-```
-```cpp
-public:
-property OnWirePointParameterizationType Parameterization {
-	OnWirePointParameterizationType get ();
-	void set (OnWirePointParameterizationType value);
-}
-```
+
+
 
 
 #### Значение свойства

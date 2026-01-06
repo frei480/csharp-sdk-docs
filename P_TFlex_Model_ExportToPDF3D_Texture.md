@@ -11,18 +11,8 @@
 ```csharp
 public bool Texture { get; set; }
 ```
-```vb
-Public Property Texture As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Texture {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

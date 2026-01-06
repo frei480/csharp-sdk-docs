@@ -13,17 +13,8 @@ public static Icon CreateByImagePath(
 	string relativeFilePath
 )
 ```
-```vb
-Public Shared Function CreateByImagePath ( 
-	relativeFilePath As String
-) As Icon
-```
-```cpp
-public:
-static Icon^ CreateByImagePath(
-	String^ relativeFilePath
-)
-```
+
+
 
 
 #### Параметры

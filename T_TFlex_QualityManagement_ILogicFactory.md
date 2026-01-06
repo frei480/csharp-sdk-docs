@@ -11,12 +11,8 @@
 ```csharp
 public interface ILogicFactory
 ```
-```vb
-Public Interface ILogicFactory
-```
-```cpp
-public interface class ILogicFactory
-```
+
+
 
 
 Тип ILogicFactory предоставляет следующие члены.

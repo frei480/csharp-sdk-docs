@@ -8,13 +8,8 @@
 ```csharp
 public virtual IEnumerator<Object3D> GetEnumerator()
 ```
-```vb
-Public Overridable Function GetEnumerator As IEnumerator(Of Object3D)
-```
-```cpp
-public:
-virtual IEnumerator<Object3D^>^ GetEnumerator()
-```
+
+
 
 
 #### Возвращаемое значение

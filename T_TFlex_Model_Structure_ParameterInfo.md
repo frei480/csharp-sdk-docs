@@ -11,12 +11,8 @@
 ```csharp
 public class ParameterInfo
 ```
-```vb
-Public Class ParameterInfo
-```
-```cpp
-public ref class ParameterInfo
-```
+
+
 
 
 Тип ParameterInfo предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public Object2D SourceElement { get; set; }
 ```
-```vb
-Public Property SourceElement As Object2D
-	Get
-	Set
-```
-```cpp
-public:
-property Object2D^ SourceElement {
-	Object2D^ get ();
-	void set (Object2D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

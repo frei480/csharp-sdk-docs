@@ -8,18 +8,8 @@
 ```csharp
 public bool UseParameterForPosition { get; set; }
 ```
-```vb
-Public Property UseParameterForPosition As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseParameterForPosition {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,19 +11,8 @@ public static Link Create(
 	FixingVector point2
 )
 ```
-```vb
-Public Shared Function Create ( 
-	point1 As FixingVector,
-	point2 As FixingVector
-) As Link
-```
-```cpp
-public:
-static Link^ Create(
-	FixingVector^ point1, 
-	FixingVector^ point2
-)
-```
+
+
 
 
 #### Параметры

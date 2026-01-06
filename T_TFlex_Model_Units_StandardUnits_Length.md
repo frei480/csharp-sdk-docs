@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Length
 ```
-```vb
-Public NotInheritable Class Length
-```
-```cpp
-public ref class Length sealed
-```
+
+
 
 
 Тип StandardUnitsLength предоставляет следующие члены.

@@ -11,16 +11,8 @@
 ```csharp
 public RowElementCell Position { get; }
 ```
-```vb
-Public ReadOnly Property Position As RowElementCell
-	Get
-```
-```cpp
-public:
-property RowElementCell^ Position {
-	RowElementCell^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

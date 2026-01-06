@@ -11,13 +11,8 @@
 ```csharp
 public IEnumerator<ParentObject> GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As IEnumerator(Of ParentObject)
-```
-```cpp
-public:
-virtual IEnumerator<ParentObject^>^ GetEnumerator() sealed
-```
+
+
 
 
 #### Возвращаемое значение

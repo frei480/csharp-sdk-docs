@@ -15,21 +15,8 @@ public void GetRotation(
 	ref Parameter param
 )
 ```
-```vb
-Public Sub GetRotation ( 
-	index As Integer,
-	ByRef axisIndex As StandardAxis,
-	ByRef param As Parameter
-)
-```
-```cpp
-public:
-void GetRotation(
-	int index, 
-	StandardAxis% axisIndex, 
-	Parameter^% param
-)
-```
+
+
 
 
 #### Параметры

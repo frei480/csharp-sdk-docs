@@ -8,13 +8,8 @@
 ```csharp
 public Model3DObjectGroupItemsCollection GetItems()
 ```
-```vb
-Public Function GetItems As Model3DObjectGroupItemsCollection
-```
-```cpp
-public:
-Model3DObjectGroupItemsCollection^ GetItems()
-```
+
+
 
 
 #### Возвращаемое значение

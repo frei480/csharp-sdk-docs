@@ -13,12 +13,8 @@
 ```csharp
 public class PipeSegment
 ```
-```vb
-Public Class PipeSegment
-```
-```cpp
-public ref class PipeSegment
-```
+
+
 
 
 Тип BasePipePipeSegment предоставляет следующие члены.

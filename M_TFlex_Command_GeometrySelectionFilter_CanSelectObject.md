@@ -10,17 +10,8 @@ public override bool CanSelectObject(
 	ModelObject object
 )
 ```
-```vb
-Public Overrides Function CanSelectObject ( 
-	object As ModelObject
-) As Boolean
-```
-```cpp
-public:
-virtual bool CanSelectObject(
-	ModelObject^ object
-) override
-```
+
+
 
 
 #### Параметры

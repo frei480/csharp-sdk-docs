@@ -11,16 +11,8 @@
 ```csharp
 public GuidePathParametricCoords Origin { get; }
 ```
-```vb
-Public ReadOnly Property Origin As GuidePathParametricCoords
-	Get
-```
-```cpp
-public:
-property GuidePathParametricCoords^ Origin {
-	GuidePathParametricCoords^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

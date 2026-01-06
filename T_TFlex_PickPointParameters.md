@@ -13,12 +13,8 @@
 ```csharp
 public sealed class PickPointParameters
 ```
-```vb
-Public NotInheritable Class PickPointParameters
-```
-```cpp
-public ref class PickPointParameters sealed
-```
+
+
 
 
 Тип PickPointParameters предоставляет следующие члены.

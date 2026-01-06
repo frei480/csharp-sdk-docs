@@ -14,19 +14,8 @@ public void SetSymmetric(
 	Construction axisLine
 )
 ```
-```vb
-Public Sub SetSymmetric ( 
-	srcLine As Construction,
-	axisLine As Construction
-)
-```
-```cpp
-public:
-void SetSymmetric(
-	Construction^ srcLine, 
-	Construction^ axisLine
-)
-```
+
+
 
 
 #### Параметры

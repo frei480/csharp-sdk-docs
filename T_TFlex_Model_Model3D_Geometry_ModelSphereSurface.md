@@ -14,15 +14,8 @@
 public sealed class ModelSphereSurface : ModelSurface, 
 	BaseSphereSurface
 ```
-```vb
-Public NotInheritable Class ModelSphereSurface
-	Inherits ModelSurface
-	Implements BaseSphereSurface
-```
-```cpp
-public ref class ModelSphereSurface sealed : public ModelSurface, 
-	BaseSphereSurface
-```
+
+
 
 
 Тип ModelSphereSurface предоставляет следующие члены.

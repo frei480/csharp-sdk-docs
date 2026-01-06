@@ -14,19 +14,8 @@ public DrawingView(
 	Page pageToShow
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document,
-	pageToShow As Page
-)
-```
-```cpp
-public:
-DrawingView(
-	Document^ doc, 
-	Page^ pageToShow
-)
-```
+
+
 
 
 #### Параметры

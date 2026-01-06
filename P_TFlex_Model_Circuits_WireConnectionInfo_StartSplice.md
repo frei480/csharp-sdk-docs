@@ -11,18 +11,8 @@
 ```csharp
 public Splice StartSplice { get; set; }
 ```
-```vb
-Public Property StartSplice As Splice
-	Get
-	Set
-```
-```cpp
-public:
-property Splice^ StartSplice {
-	Splice^ get ();
-	void set (Splice^ value);
-}
-```
+
+
 
 
 #### Значение свойства

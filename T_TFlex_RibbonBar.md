@@ -13,12 +13,8 @@
 ```csharp
 public sealed class RibbonBar
 ```
-```vb
-Public NotInheritable Class RibbonBar
-```
-```cpp
-public ref class RibbonBar sealed
-```
+
+
 
 
 Тип RibbonBar предоставляет следующие члены.

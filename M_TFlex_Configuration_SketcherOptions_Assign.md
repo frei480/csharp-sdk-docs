@@ -10,17 +10,8 @@ public void Assign(
 	SketcherOptions source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As SketcherOptions
-)
-```
-```cpp
-public:
-void Assign(
-	SketcherOptions^ source
-)
-```
+
+
 
 
 #### Параметры

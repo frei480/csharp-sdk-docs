@@ -11,13 +11,8 @@
 ```csharp
 public void DeleteAllContours()
 ```
-```vb
-Public Sub DeleteAllContours
-```
-```cpp
-public:
-void DeleteAllContours()
-```
+
+
 
 
 #### Ссылки

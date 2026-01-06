@@ -11,16 +11,8 @@
 ```csharp
 public BodyGeneratorResultBodies Result { get; }
 ```
-```vb
-Public ReadOnly Property Result As BodyGeneratorResultBodies
-	Get
-```
-```cpp
-public:
-property BodyGeneratorResultBodies^ Result {
-	BodyGeneratorResultBodies^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

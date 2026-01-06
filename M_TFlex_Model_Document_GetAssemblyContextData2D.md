@@ -9,13 +9,8 @@
 ```csharp
 public AssemblyContextData2D GetAssemblyContextData2D()
 ```
-```vb
-Public Function GetAssemblyContextData2D As AssemblyContextData2D
-```
-```cpp
-public:
-AssemblyContextData2D^ GetAssemblyContextData2D()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,17 +13,8 @@ public FaceReplace(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-FaceReplace(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -8,13 +8,8 @@
 ```csharp
 public CommonAttributes Copy()
 ```
-```vb
-Public Function Copy As CommonAttributes
-```
-```cpp
-public:
-CommonAttributes^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

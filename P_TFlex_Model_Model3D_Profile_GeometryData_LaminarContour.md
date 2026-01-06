@@ -11,16 +11,8 @@
 ```csharp
 public ModelContour LaminarContour { get; }
 ```
-```vb
-Public ReadOnly Property LaminarContour As ModelContour
-	Get
-```
-```cpp
-public:
-property ModelContour^ LaminarContour {
-	ModelContour^ get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

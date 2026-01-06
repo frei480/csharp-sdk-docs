@@ -11,13 +11,8 @@
 ```csharp
 public void UpdateReports()
 ```
-```vb
-Public Sub UpdateReports
-```
-```cpp
-public:
-void UpdateReports()
-```
+
+
 
 
 #### Ссылки

@@ -16,23 +16,8 @@ public Value(
 	Unit unit
 )
 ```
-```vb
-Public Sub New ( 
-	name As String,
-	description As String,
-	value As Double,
-	unit As Unit
-)
-```
-```cpp
-public:
-Value(
-	String^ name, 
-	String^ description, 
-	double value, 
-	Unit^ unit
-)
-```
+
+
 
 
 #### Параметры

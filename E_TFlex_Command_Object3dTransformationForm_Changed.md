@@ -8,16 +8,8 @@
 ```csharp
 public event EventHandler<Object3dTransformationFormChangedEventArgs> Changed
 ```
-```vb
-Public Event Changed As EventHandler(Of Object3dTransformationFormChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<Object3dTransformationFormChangedEventArgs^>^ Changed {
-	void add (EventHandler<Object3dTransformationFormChangedEventArgs^>^ value);
-	void remove (EventHandler<Object3dTransformationFormChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

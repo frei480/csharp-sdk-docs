@@ -8,13 +8,8 @@
 ```csharp
 protected virtual uint AdvancedFormatOptions()
 ```
-```vb
-Protected Overridable Function AdvancedFormatOptions As UInteger
-```
-```cpp
-protected:
-virtual unsigned int AdvancedFormatOptions()
-```
+
+
 
 
 #### Возвращаемое значение

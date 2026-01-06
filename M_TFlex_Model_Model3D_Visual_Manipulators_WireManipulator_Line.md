@@ -11,19 +11,8 @@ public void Line(
 	BasePoint3D endPoint
 )
 ```
-```vb
-Public Sub Line ( 
-	startPoint As BasePoint3D,
-	endPoint As BasePoint3D
-)
-```
-```cpp
-public:
-void Line(
-	BasePoint3D^ startPoint, 
-	BasePoint3D^ endPoint
-)
-```
+
+
 
 
 #### Параметры

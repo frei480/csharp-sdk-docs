@@ -18,27 +18,8 @@ public void AddConstantBlendData(
 	int BlndStatus
 )
 ```
-```vb
-Public Sub AddConstantBlendData ( 
-	entity As BaseTopol,
-	RF As Double,
-	RS As Double,
-	startsetback As Double,
-	endsetback As Double,
-	BlndStatus As Integer
-)
-```
-```cpp
-public:
-void AddConstantBlendData(
-	BaseTopol^ entity, 
-	double RF, 
-	double RS, 
-	double startsetback, 
-	double endsetback, 
-	int BlndStatus
-)
-```
+
+
 
 
 #### Параметры

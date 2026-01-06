@@ -12,21 +12,8 @@ public void Add(
 	List<int> bodyIndeces
 )
 ```
-```vb
-Public Sub Add ( 
-	__unnamed000 As Operation,
-	__unnamed001 As MarkManagerStyle,
-	bodyIndeces As List(Of Integer)
-)
-```
-```cpp
-public:
-void Add(
-	Operation^ __unnamed000, 
-	MarkManagerStyle __unnamed001, 
-	List<int>^ bodyIndeces
-)
-```
+
+
 
 
 #### Параметры

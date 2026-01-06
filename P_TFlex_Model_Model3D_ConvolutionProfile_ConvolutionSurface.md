@@ -11,16 +11,8 @@
 ```csharp
 public FacesArray ConvolutionSurface { get; }
 ```
-```vb
-Public ReadOnly Property ConvolutionSurface As FacesArray
-	Get
-```
-```cpp
-public:
-property FacesArray^ ConvolutionSurface {
-	FacesArray^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

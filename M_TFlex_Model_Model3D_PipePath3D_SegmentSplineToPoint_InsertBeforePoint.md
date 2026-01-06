@@ -13,17 +13,8 @@ public PipePath3DPointSplineToPoint InsertBeforePoint(
 	PipePath3DPointSplineToPoint pPoint
 )
 ```
-```vb
-Public Function InsertBeforePoint ( 
-	pPoint As PipePath3DPointSplineToPoint
-) As PipePath3DPointSplineToPoint
-```
-```cpp
-public:
-PipePath3DPointSplineToPoint^ InsertBeforePoint(
-	PipePath3DPointSplineToPoint^ pPoint
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public string PathToAssemblyFolder { get; set; }
 ```
-```vb
-Public Property PathToAssemblyFolder As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ PathToAssemblyFolder {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

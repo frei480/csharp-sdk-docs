@@ -13,12 +13,8 @@
 ```csharp
 public struct HeightParameters
 ```
-```vb
-Public Structure HeightParameters
-```
-```cpp
-public value class HeightParameters
-```
+
+
 
 
 Тип RoughnessSymbolHeightParameters предоставляет следующие члены.

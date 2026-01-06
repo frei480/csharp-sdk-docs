@@ -14,14 +14,8 @@
 public sealed class IntersectCurveData : IEnumerator, 
 	IEnumerable, IDisposable
 ```
-```vb
-Public NotInheritable Class IntersectCurveData
-	Implements IEnumerator, IEnumerable, IDisposable
-```
-```cpp
-public ref class IntersectCurveData sealed : IEnumerator, 
-	IEnumerable, IDisposable
-```
+
+
 
 
 Тип IntersectCurveData предоставляет следующие члены.

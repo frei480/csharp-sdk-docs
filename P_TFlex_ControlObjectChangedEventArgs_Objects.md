@@ -8,16 +8,8 @@
 ```csharp
 public ModelObject[] Objects { get; }
 ```
-```vb
-Public ReadOnly Property Objects As ModelObject()
-	Get
-```
-```cpp
-public:
-property array<ModelObject^>^ Objects {
-	array<ModelObject^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

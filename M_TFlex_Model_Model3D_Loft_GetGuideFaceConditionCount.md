@@ -13,17 +13,8 @@ public int GetGuideFaceConditionCount(
 	int guideIndex
 )
 ```
-```vb
-Public Function GetGuideFaceConditionCount ( 
-	guideIndex As Integer
-) As Integer
-```
-```cpp
-public:
-int GetGuideFaceConditionCount(
-	int guideIndex
-)
-```
+
+
 
 
 #### Параметры

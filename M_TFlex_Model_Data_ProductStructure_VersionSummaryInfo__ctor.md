@@ -11,13 +11,8 @@
 ```csharp
 public VersionSummaryInfo()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-VersionSummaryInfo()
-```
+
+
 
 
 #### Ссылки

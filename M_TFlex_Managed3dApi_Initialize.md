@@ -8,13 +8,8 @@
 ```csharp
 public static void Initialize()
 ```
-```vb
-Public Shared Sub Initialize
-```
-```cpp
-public:
-static void Initialize()
-```
+
+
 
 
 #### Ссылки

@@ -11,16 +11,8 @@
 ```csharp
 public ModelLoopGeometryData Geometry { get; }
 ```
-```vb
-Public ReadOnly Property Geometry As ModelLoopGeometryData
-	Get
-```
-```cpp
-public:
-property ModelLoopGeometryData^ Geometry {
-	ModelLoopGeometryData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

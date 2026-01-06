@@ -8,12 +8,8 @@
 ```csharp
 public enum To
 ```
-```vb
-Public Enumeration To
-```
-```cpp
-public enum class To
-```
+
+
 
 
 | Имя члена | Значение | Описание |

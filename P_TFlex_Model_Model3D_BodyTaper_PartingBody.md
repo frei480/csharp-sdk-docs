@@ -11,18 +11,8 @@
 ```csharp
 public Operation PartingBody { get; set; }
 ```
-```vb
-Public Property PartingBody As Operation
-	Get
-	Set
-```
-```cpp
-public:
-property Operation^ PartingBody {
-	Operation^ get ();
-	void set (Operation^ value);
-}
-```
+
+
 
 
 #### Значение свойства

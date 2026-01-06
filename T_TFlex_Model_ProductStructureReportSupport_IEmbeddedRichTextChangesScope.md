@@ -8,13 +8,8 @@
 ```csharp
 public interface IEmbeddedRichTextChangesScope : IDisposable
 ```
-```vb
-Public Interface IEmbeddedRichTextChangesScope
-	Inherits IDisposable
-```
-```cpp
-public interface class IEmbeddedRichTextChangesScope : IDisposable
-```
+
+
 
 
 Тип ProductStructureReportSupportIEmbeddedRichTextChangesScope предоставляет следующие члены.

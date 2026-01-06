@@ -11,16 +11,8 @@ true, если переменная является константной.
 ```csharp
 public bool IsConstant { get; }
 ```
-```vb
-Public ReadOnly Property IsConstant As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsConstant {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

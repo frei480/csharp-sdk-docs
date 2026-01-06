@@ -13,13 +13,8 @@
 ```csharp
 public class SmoothGraphLaw : GraphLaw
 ```
-```vb
-Public Class SmoothGraphLaw
-	Inherits GraphLaw
-```
-```cpp
-public ref class SmoothGraphLaw : public GraphLaw
-```
+
+
 
 
 Тип SmoothGraphLaw предоставляет следующие члены.

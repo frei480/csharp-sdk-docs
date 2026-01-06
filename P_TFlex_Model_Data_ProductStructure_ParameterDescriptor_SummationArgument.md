@@ -8,18 +8,8 @@
 ```csharp
 public string SummationArgument { get; set; }
 ```
-```vb
-Public Property SummationArgument As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ SummationArgument {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

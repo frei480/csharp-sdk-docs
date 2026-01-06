@@ -11,16 +11,8 @@
 ```csharp
 public int NumberOfRightFaces { get; }
 ```
-```vb
-Public ReadOnly Property NumberOfRightFaces As Integer
-	Get
-```
-```cpp
-public:
-property int NumberOfRightFaces {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

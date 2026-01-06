@@ -13,17 +13,8 @@ public bool RemoveExternalReport(
 	FileLink ref
 )
 ```
-```vb
-Public Function RemoveExternalReport ( 
-	ref As FileLink
-) As Boolean
-```
-```cpp
-public:
-bool RemoveExternalReport(
-	FileLink^ ref
-)
-```
+
+
 
 
 #### Параметры

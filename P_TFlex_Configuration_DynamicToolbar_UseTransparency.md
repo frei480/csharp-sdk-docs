@@ -8,18 +8,8 @@
 ```csharp
 public bool UseTransparency { get; set; }
 ```
-```vb
-Public Property UseTransparency As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UseTransparency {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public int ConfigurationCount { get; }
 ```
-```vb
-Public ReadOnly Property ConfigurationCount As Integer
-	Get
-```
-```cpp
-public:
-property int ConfigurationCount {
-	int get ();
-}
-```
+
+
 
 
 #### Значение свойства

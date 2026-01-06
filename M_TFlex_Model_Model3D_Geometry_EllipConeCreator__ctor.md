@@ -11,13 +11,8 @@
 ```csharp
 public EllipConeCreator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-EllipConeCreator()
-```
+
+
 
 
 #### Ссылки

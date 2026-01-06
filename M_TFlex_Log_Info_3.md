@@ -11,19 +11,8 @@ public static void Info(
 	params Object[] args
 )
 ```
-```vb
-Public Shared Sub Info ( 
-	format As String,
-	ParamArray args As Object()
-)
-```
-```cpp
-public:
-static void Info(
-	String^ format, 
-	... array<Object^>^ args
-)
-```
+
+
 
 
 #### Параметры

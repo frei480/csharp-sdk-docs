@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<ListControlItemExpandChangedEventArgs> ItemExpandChanged
 ```
-```vb
-Public Event ItemExpandChanged As EventHandler(Of ListControlItemExpandChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<ListControlItemExpandChangedEventArgs^>^ ItemExpandChanged {
-	void add (EventHandler<ListControlItemExpandChangedEventArgs^>^ value);
-	void remove (EventHandler<ListControlItemExpandChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

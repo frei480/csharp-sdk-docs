@@ -8,16 +8,8 @@
 ```csharp
 public Unit Kilometer { get; }
 ```
-```vb
-Public ReadOnly Property Kilometer As Unit
-	Get
-```
-```cpp
-public:
-property Unit^ Kilometer {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

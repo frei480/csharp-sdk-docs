@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Edges : BaseEdges
 ```
-```vb
-Public NotInheritable Class Edges
-	Inherits BaseEdges
-```
-```cpp
-public ref class Edges sealed : public BaseEdges
-```
+
+
 
 
 Тип Edges предоставляет следующие члены.

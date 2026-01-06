@@ -11,19 +11,8 @@ public void SetAngularStep(
 	double value
 )
 ```
-```vb
-Public Sub SetAngularStep ( 
-	enable As Boolean,
-	value As Double
-)
-```
-```cpp
-public:
-void SetAngularStep(
-	bool enable, 
-	double value
-)
-```
+
+
 
 
 #### Параметры

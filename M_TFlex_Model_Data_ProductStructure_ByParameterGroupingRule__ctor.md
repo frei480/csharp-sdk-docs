@@ -11,13 +11,8 @@
 ```csharp
 public ByParameterGroupingRule()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ByParameterGroupingRule()
-```
+
+
 
 
 #### Ссылки

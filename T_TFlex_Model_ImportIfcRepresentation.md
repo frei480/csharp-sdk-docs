@@ -11,12 +11,8 @@
 ```csharp
 public enum ImportIfcRepresentation
 ```
-```vb
-Public Enumeration ImportIfcRepresentation
-```
-```cpp
-public enum class ImportIfcRepresentation
-```
+
+
 
 
 | Имя члена | Значение | Описание |

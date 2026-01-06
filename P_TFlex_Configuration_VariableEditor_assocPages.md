@@ -8,18 +8,8 @@
 ```csharp
 public List<int> AssocPages { get; set; }
 ```
-```vb
-Public Property AssocPages As List(Of Integer)
-	Get
-	Set
-```
-```cpp
-public:
-property List<int>^ AssocPages {
-	List<int>^ get ();
-	void set (List<int>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

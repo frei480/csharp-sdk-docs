@@ -11,18 +11,8 @@
 ```csharp
 public bool ReplaceVariablesByName { get; set; }
 ```
-```vb
-Public Property ReplaceVariablesByName As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ReplaceVariablesByName {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

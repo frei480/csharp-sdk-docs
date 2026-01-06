@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This event is obsolete and will be removed. System hide cursor automatically.")]
 public event MouseEventHandler HideCursor
 ```
-```vb
-<ObsoleteAttribute("This event is obsolete and will be removed. System hide cursor automatically.")>
-Public Event HideCursor As MouseEventHandler
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This event is obsolete and will be removed. System hide cursor automatically.")]
- event MouseEventHandler^ HideCursor {
-	void add (MouseEventHandler^ value);
-	void remove (MouseEventHandler^ value);
-}
-```
+
+
 
 
 #### Значение

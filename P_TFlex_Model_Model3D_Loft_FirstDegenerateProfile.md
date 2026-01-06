@@ -11,18 +11,8 @@
 ```csharp
 public ModelPoint3D FirstDegenerateProfile { get; set; }
 ```
-```vb
-Public Property FirstDegenerateProfile As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ FirstDegenerateProfile {
-	ModelPoint3D^ get ();
-	void set (ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public ExportToSTLColorModelType ColorModel { get; set; }
 ```
-```vb
-Public Property ColorModel As ExportToSTLColorModelType
-	Get
-	Set
-```
-```cpp
-public:
-property ExportToSTLColorModelType ColorModel {
-	ExportToSTLColorModelType get ();
-	void set (ExportToSTLColorModelType value);
-}
-```
+
+
 
 
 #### Значение свойства

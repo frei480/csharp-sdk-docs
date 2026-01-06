@@ -13,17 +13,8 @@ protected virtual void OnCommand(
 	CommandEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub OnCommand ( 
-	args As CommandEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnCommand(
-	CommandEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

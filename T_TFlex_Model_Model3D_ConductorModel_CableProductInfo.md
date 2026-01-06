@@ -11,12 +11,8 @@
 ```csharp
 public class CableProductInfo
 ```
-```vb
-Public Class CableProductInfo
-```
-```cpp
-public ref class CableProductInfo
-```
+
+
 
 
 Тип CableProductInfo предоставляет следующие члены.

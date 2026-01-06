@@ -11,13 +11,8 @@
 ```csharp
 public class Fragment3D : SettingsGroup
 ```
-```vb
-Public Class Fragment3D
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Fragment3D : public SettingsGroup
-```
+
+
 
 
 Тип Fragment3D предоставляет следующие члены.

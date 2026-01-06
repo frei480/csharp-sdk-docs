@@ -13,13 +13,8 @@
 ```csharp
 public class EdgeBlending : Operation
 ```
-```vb
-Public Class EdgeBlending
-	Inherits Operation
-```
-```cpp
-public ref class EdgeBlending : public Operation
-```
+
+
 
 
 Тип EdgeBlending предоставляет следующие члены.

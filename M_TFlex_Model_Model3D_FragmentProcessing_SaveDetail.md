@@ -8,13 +8,8 @@
 ```csharp
 public bool SaveDetail()
 ```
-```vb
-Public Function SaveDetail As Boolean
-```
-```cpp
-public:
-bool SaveDetail()
-```
+
+
 
 
 #### Возвращаемое значение

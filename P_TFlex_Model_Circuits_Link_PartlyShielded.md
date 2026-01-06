@@ -8,18 +8,8 @@
 ```csharp
 public bool PartlyShielded { get; set; }
 ```
-```vb
-Public Property PartlyShielded As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool PartlyShielded {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

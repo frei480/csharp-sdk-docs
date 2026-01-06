@@ -11,12 +11,8 @@
 ```csharp
 public enum EllipseTypes
 ```
-```vb
-Public Enumeration EllipseTypes
-```
-```cpp
-public enum class EllipseTypes
-```
+
+
 
 
 | Имя члена | Значение | Описание |

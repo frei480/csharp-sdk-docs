@@ -11,18 +11,8 @@
 ```csharp
 public double ThermalCondition { get; set; }
 ```
-```vb
-Public Property ThermalCondition As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double ThermalCondition {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

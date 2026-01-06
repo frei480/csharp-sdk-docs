@@ -14,19 +14,8 @@ public abstract bool Compare(
 	Object secondOperand
 )
 ```
-```vb
-Public MustOverride Function Compare ( 
-	firstOperand As Object,
-	secondOperand As Object
-) As Boolean
-```
-```cpp
-public:
-virtual bool Compare(
-	Object^ firstOperand, 
-	Object^ secondOperand
-) abstract
-```
+
+
 
 
 #### Параметры

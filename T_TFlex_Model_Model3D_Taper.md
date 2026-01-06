@@ -13,13 +13,8 @@
 ```csharp
 public class Taper : Operation
 ```
-```vb
-Public Class Taper
-	Inherits Operation
-```
-```cpp
-public ref class Taper : public Operation
-```
+
+
 
 
 Тип Taper предоставляет следующие члены.

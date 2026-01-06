@@ -13,12 +13,8 @@
 ```csharp
 public abstract class TransformationGroupBase
 ```
-```vb
-Public MustInherit Class TransformationGroupBase
-```
-```cpp
-public ref class TransformationGroupBase abstract
-```
+
+
 
 
 Тип TransformationGroupBase предоставляет следующие члены.

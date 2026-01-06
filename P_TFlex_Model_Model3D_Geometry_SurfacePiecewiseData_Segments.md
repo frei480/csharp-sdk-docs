@@ -11,16 +11,8 @@
 ```csharp
 public SurfacePiecewiseDataSegmentsSet Segments { get; }
 ```
-```vb
-Public ReadOnly Property Segments As SurfacePiecewiseDataSegmentsSet
-	Get
-```
-```cpp
-public:
-property SurfacePiecewiseDataSegmentsSet^ Segments {
-	SurfacePiecewiseDataSegmentsSet^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

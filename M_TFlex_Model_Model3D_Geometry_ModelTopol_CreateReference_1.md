@@ -13,17 +13,8 @@ public TopolReference CreateReference(
 	Document targetDocument
 )
 ```
-```vb
-Public Function CreateReference ( 
-	targetDocument As Document
-) As TopolReference
-```
-```cpp
-public:
-TopolReference^ CreateReference(
-	Document^ targetDocument
-)
-```
+
+
 
 
 #### Параметры

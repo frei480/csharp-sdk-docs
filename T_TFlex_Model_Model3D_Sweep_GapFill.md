@@ -11,12 +11,8 @@
 ```csharp
 public enum GapFill
 ```
-```vb
-Public Enumeration GapFill
-```
-```cpp
-public enum class GapFill
-```
+
+
 
 
 | Имя члена | Значение | Описание |

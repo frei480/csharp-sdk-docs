@@ -10,17 +10,8 @@ public void Assign(
 	Settings source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Settings
-)
-```
-```cpp
-public:
-void Assign(
-	Settings^ source
-)
-```
+
+
 
 
 #### Параметры

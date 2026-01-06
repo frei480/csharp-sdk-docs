@@ -18,27 +18,8 @@ public CircleArcGeometry(
 	double endY
 )
 ```
-```vb
-Public Sub New ( 
-	centerX As Double,
-	centerY As Double,
-	startX As Double,
-	startY As Double,
-	endX As Double,
-	endY As Double
-)
-```
-```cpp
-public:
-CircleArcGeometry(
-	double centerX, 
-	double centerY, 
-	double startX, 
-	double startY, 
-	double endX, 
-	double endY
-)
-```
+
+
 
 
 #### Параметры

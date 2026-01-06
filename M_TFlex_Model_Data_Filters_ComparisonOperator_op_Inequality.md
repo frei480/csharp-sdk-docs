@@ -14,19 +14,8 @@ public static bool operator !=(
 	ComparisonOperator y
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	x As ComparisonOperator,
-	y As ComparisonOperator
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	ComparisonOperator^ x, 
-	ComparisonOperator^ y
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public ModelAxis BendAxis { get; set; }
 ```
-```vb
-Public Property BendAxis As ModelAxis
-	Get
-	Set
-```
-```cpp
-public:
-property ModelAxis^ BendAxis {
-	ModelAxis^ get ();
-	void set (ModelAxis^ value);
-}
-```
+
+
 
 
 #### Значение свойства

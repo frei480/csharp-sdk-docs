@@ -14,16 +14,8 @@ public void GetTangents(
 	double* endTangent
 )
 ```
-```vb
-Visual Basic не поддерживает интерфейсы API, которые принимают или возвращают небезопасные типы.
-```
-```cpp
-public:
-void GetTangents(
-	double* beginTangent, 
-	double* endTangent
-)
-```
+
+
 
 
 #### Параметры

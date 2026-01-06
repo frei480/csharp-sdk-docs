@@ -13,17 +13,8 @@ public SaveInNomenclatureOptions(
 	bool recursive
 )
 ```
-```vb
-Public Sub New ( 
-	recursive As Boolean
-)
-```
-```cpp
-public:
-SaveInNomenclatureOptions(
-	bool recursive
-)
-```
+
+
 
 
 #### Параметры

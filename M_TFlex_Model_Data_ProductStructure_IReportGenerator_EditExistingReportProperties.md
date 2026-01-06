@@ -10,16 +10,8 @@ bool EditExistingReportProperties(
 	ReportEditExistingPropertiesContext editContext
 )
 ```
-```vb
-Function EditExistingReportProperties ( 
-	editContext As ReportEditExistingPropertiesContext
-) As Boolean
-```
-```cpp
-bool EditExistingReportProperties(
-	ReportEditExistingPropertiesContext^ editContext
-)
-```
+
+
 
 
 #### Параметры

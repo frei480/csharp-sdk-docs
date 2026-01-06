@@ -8,16 +8,8 @@
 ```csharp
 public double CoefficientToBase { get; }
 ```
-```vb
-Public ReadOnly Property CoefficientToBase As Double
-	Get
-```
-```cpp
-public:
-property double CoefficientToBase {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

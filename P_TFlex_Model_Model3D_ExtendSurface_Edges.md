@@ -11,18 +11,8 @@
 ```csharp
 public EdgesArray Edges { get; set; }
 ```
-```vb
-Public Property Edges As EdgesArray
-	Get
-	Set
-```
-```cpp
-public:
-property EdgesArray^ Edges {
-	EdgesArray^ get ();
-	void set (EdgesArray^ value);
-}
-```
+
+
 
 
 #### Значение свойства

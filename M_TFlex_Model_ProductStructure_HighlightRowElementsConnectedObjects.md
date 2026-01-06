@@ -10,17 +10,8 @@ public void HighlightRowElementsConnectedObjects(
 	IEnumerable<RowElement> elements
 )
 ```
-```vb
-Public Sub HighlightRowElementsConnectedObjects ( 
-	elements As IEnumerable(Of RowElement)
-)
-```
-```cpp
-public:
-void HighlightRowElementsConnectedObjects(
-	IEnumerable<RowElement^>^ elements
-)
-```
+
+
 
 
 #### Параметры

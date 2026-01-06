@@ -11,12 +11,8 @@
 ```csharp
 public enum ReportContentType
 ```
-```vb
-Public Enumeration ReportContentType
-```
-```cpp
-public enum class ReportContentType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

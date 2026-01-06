@@ -10,17 +10,8 @@ public void AddOffsetY(
 	Parameter param
 )
 ```
-```vb
-Public Sub AddOffsetY ( 
-	param As Parameter
-)
-```
-```cpp
-public:
-void AddOffsetY(
-	Parameter^ param
-)
-```
+
+
 
 
 #### Параметры

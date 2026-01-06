@@ -11,18 +11,8 @@
 ```csharp
 public bool Center { get; set; }
 ```
-```vb
-Public Property Center As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Center {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

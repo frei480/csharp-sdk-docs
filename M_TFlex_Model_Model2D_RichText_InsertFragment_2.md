@@ -14,19 +14,8 @@ public void InsertFragment(
 	RichTextInsertObjectOptions insertOptions
 )
 ```
-```vb
-Public Sub InsertFragment ( 
-	link As FileLink,
-	insertOptions As RichTextInsertObjectOptions
-)
-```
-```cpp
-public:
-void InsertFragment(
-	FileLink^ link, 
-	RichTextInsertObjectOptions^ insertOptions
-)
-```
+
+
 
 
 #### Параметры

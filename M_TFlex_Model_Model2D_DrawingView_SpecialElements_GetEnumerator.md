@@ -11,13 +11,8 @@
 ```csharp
 public DrawingViewSpecialElementsEnumerator GetEnumerator()
 ```
-```vb
-Public Function GetEnumerator As DrawingViewSpecialElementsEnumerator
-```
-```cpp
-public:
-DrawingViewSpecialElementsEnumerator^ GetEnumerator()
-```
+
+
 
 
 #### Возвращаемое значение

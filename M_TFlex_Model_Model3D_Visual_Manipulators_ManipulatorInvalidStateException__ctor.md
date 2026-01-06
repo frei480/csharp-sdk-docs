@@ -11,13 +11,8 @@
 ```csharp
 public ManipulatorInvalidStateException()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ManipulatorInvalidStateException()
-```
+
+
 
 
 #### Ссылки

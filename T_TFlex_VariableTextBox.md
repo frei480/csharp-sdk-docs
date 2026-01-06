@@ -13,13 +13,8 @@
 ```csharp
 public class VariableTextBox : TextBox
 ```
-```vb
-Public Class VariableTextBox
-	Inherits TextBox
-```
-```cpp
-public ref class VariableTextBox : public TextBox
-```
+
+
 
 
 Тип VariableTextBox предоставляет следующие члены.

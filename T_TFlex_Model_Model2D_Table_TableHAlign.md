@@ -11,12 +11,8 @@
 ```csharp
 public enum TableHAlign
 ```
-```vb
-Public Enumeration TableHAlign
-```
-```cpp
-public enum class TableHAlign
-```
+
+
 
 
 | Имя члена | Значение | Описание |

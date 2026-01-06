@@ -11,13 +11,8 @@
 ```csharp
 public bool RemoveAllCuttingItem()
 ```
-```vb
-Public Function RemoveAllCuttingItem As Boolean
-```
-```cpp
-public:
-bool RemoveAllCuttingItem()
-```
+
+
 
 
 #### Возвращаемое значение

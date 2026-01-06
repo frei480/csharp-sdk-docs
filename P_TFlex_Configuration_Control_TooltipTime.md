@@ -8,18 +8,8 @@
 ```csharp
 public int TooltipTime { get; set; }
 ```
-```vb
-Public Property TooltipTime As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int TooltipTime {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

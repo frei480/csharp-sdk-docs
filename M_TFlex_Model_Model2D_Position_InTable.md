@@ -11,13 +11,8 @@
 ```csharp
 public bool InTable()
 ```
-```vb
-Public Function InTable As Boolean
-```
-```cpp
-public:
-bool InTable()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,17 +13,8 @@ public MaterialOperationMappingType GetMappingType(
 	int Group
 )
 ```
-```vb
-Public Function GetMappingType ( 
-	Group As Integer
-) As MaterialOperationMappingType
-```
-```cpp
-public:
-MaterialOperationMappingType GetMappingType(
-	int Group
-)
-```
+
+
 
 
 #### Параметры

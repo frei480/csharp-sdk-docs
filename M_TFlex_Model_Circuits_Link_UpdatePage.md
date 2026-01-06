@@ -8,13 +8,8 @@
 ```csharp
 public void UpdatePage()
 ```
-```vb
-Public Sub UpdatePage
-```
-```cpp
-public:
-void UpdatePage()
-```
+
+
 
 
 #### Ссылки

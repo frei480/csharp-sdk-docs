@@ -14,19 +14,8 @@ public void StartProgress(
 	uint step
 )
 ```
-```vb
-Public Sub StartProgress ( 
-	total As UInteger,
-	step As UInteger
-)
-```
-```cpp
-public:
-void StartProgress(
-	unsigned int total, 
-	unsigned int step
-)
-```
+
+
 
 
 #### Параметры

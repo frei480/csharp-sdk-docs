@@ -15,21 +15,8 @@ public virtual void SetGeomReference(
 	ModelObjectArrayIndices indices
 )
 ```
-```vb
-Public Overridable Sub SetGeomReference ( 
-	id As Integer,
-	reference As Object3DGeomReference,
-	indices As ModelObjectArrayIndices
-)
-```
-```cpp
-public:
-virtual void SetGeomReference(
-	int id, 
-	Object3DGeomReference^ reference, 
-	ModelObjectArrayIndices^ indices
-)
-```
+
+
 
 
 #### Параметры

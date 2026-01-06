@@ -10,20 +10,8 @@ public Wire this[
 	int Index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	Index As Integer
-) As Wire
-	Get
-	Set
-```
-```cpp
-public:
-property Wire^ default[int Index] {
-	Wire^ get (int Index);
-	void set (int Index, Wire^ value);
-}
-```
+
+
 
 
 #### Параметры

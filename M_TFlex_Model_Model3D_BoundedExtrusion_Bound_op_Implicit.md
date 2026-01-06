@@ -10,16 +10,8 @@ public static implicit operator BoundedExtrusionBound (
 	Geometry pBound
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	pBound As Geometry
-) As BoundedExtrusionBound
-```
-```cpp
-static implicit operator BoundedExtrusionBound^ (
-	Geometry^ pBound
-)
-```
+
+
 
 
 #### Параметры

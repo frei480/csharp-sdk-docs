@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Kilogram { get; }
 ```
-```vb
-Public Shared ReadOnly Property Kilogram As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Kilogram {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

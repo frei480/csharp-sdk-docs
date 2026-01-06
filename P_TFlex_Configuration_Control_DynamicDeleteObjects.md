@@ -8,18 +8,8 @@
 ```csharp
 public bool DynamicDeleteObjects { get; set; }
 ```
-```vb
-Public Property DynamicDeleteObjects As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DynamicDeleteObjects {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

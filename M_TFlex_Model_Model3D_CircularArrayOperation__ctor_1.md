@@ -14,19 +14,8 @@ public CircularArrayOperation(
 	ArrayOperationType type
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	type As ArrayOperationType
-)
-```
-```cpp
-public:
-CircularArrayOperation(
-	Document^ Doc, 
-	ArrayOperationType type
-)
-```
+
+
 
 
 #### Параметры

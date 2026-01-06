@@ -13,12 +13,8 @@
 ```csharp
 public abstract class LogicBase
 ```
-```vb
-Public MustInherit Class LogicBase
-```
-```cpp
-public ref class LogicBase abstract
-```
+
+
 
 
 Тип LogicBase предоставляет следующие члены.

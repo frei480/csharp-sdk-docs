@@ -11,18 +11,8 @@
 ```csharp
 public ViewLineMode LineView { get; set; }
 ```
-```vb
-Public Property LineView As ViewLineMode
-	Get
-	Set
-```
-```cpp
-public:
-property ViewLineMode LineView {
-	ViewLineMode get ();
-	void set (ViewLineMode value);
-}
-```
+
+
 
 
 #### Значение свойства

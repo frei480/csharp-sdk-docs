@@ -13,17 +13,8 @@ public void ExportToXml(
 	ProductStructureXmlExportOptions options
 )
 ```
-```vb
-Public Sub ExportToXml ( 
-	options As ProductStructureXmlExportOptions
-)
-```
-```cpp
-public:
-void ExportToXml(
-	ProductStructureXmlExportOptions^ options
-)
-```
+
+
 
 
 #### Параметры

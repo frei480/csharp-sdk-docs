@@ -13,17 +13,8 @@ public OnWirePoint(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-OnWirePoint(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

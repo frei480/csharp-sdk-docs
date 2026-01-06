@@ -15,21 +15,8 @@ public override bool UpdatePosition(
 	int y
 )
 ```
-```vb
-Public Overrides Function UpdatePosition ( 
-	view As View3D,
-	x As Integer,
-	y As Integer
-) As Boolean
-```
-```cpp
-public:
-virtual bool UpdatePosition(
-	View3D^ view, 
-	int x, 
-	int y
-) override
-```
+
+
 
 
 #### Параметры

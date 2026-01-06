@@ -14,27 +14,8 @@ public static void SetTextOffset(
 	TextExtensionVerticalAlignment alignment
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SetTextOffset ( 
-	__unnamed000 As FixingVector,
-	iText As Integer,
-	offsetX As Parameter,
-	offsetY As Parameter,
-	alignment As TextExtensionVerticalAlignment
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SetTextOffset(
-	FixingVector^ __unnamed000, 
-	int iText, 
-	Parameter^ offsetX, 
-	Parameter^ offsetY, 
-	TextExtensionVerticalAlignment alignment
-)
-```
+
+
 
 
 #### Параметры

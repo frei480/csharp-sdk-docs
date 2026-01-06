@@ -13,13 +13,8 @@
 ```csharp
 public abstract class ExportTo3dCommon : ExportTo
 ```
-```vb
-Public MustInherit Class ExportTo3dCommon
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportTo3dCommon abstract : public ExportTo
-```
+
+
 
 
 Тип ExportTo3dCommon предоставляет следующие члены.

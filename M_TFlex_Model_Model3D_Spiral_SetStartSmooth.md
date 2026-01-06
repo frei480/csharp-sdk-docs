@@ -14,19 +14,8 @@ public void SetStartSmooth(
 	Parameter degree
 )
 ```
-```vb
-Public Sub SetStartSmooth ( 
-	smooth As Parameter,
-	degree As Parameter
-)
-```
-```cpp
-public:
-void SetStartSmooth(
-	Parameter^ smooth, 
-	Parameter^ degree
-)
-```
+
+
 
 
 #### Параметры

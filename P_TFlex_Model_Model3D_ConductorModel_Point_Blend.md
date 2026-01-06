@@ -8,18 +8,8 @@
 ```csharp
 public Parameter Blend { get; set; }
 ```
-```vb
-Public Property Blend As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Blend {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

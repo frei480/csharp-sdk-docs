@@ -11,13 +11,8 @@
 ```csharp
 public double GetCommitedAngle()
 ```
-```vb
-Public Function GetCommitedAngle As Double
-```
-```cpp
-public:
-double GetCommitedAngle()
-```
+
+
 
 
 #### Возвращаемое значение

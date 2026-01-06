@@ -13,12 +13,8 @@
 ```csharp
 public class ObjectSelectControlItem
 ```
-```vb
-Public Class ObjectSelectControlItem
-```
-```cpp
-public ref class ObjectSelectControlItem
-```
+
+
 
 
 Тип ObjectSelectControlItem предоставляет следующие члены.

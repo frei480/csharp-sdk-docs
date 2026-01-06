@@ -8,18 +8,8 @@
 ```csharp
 public bool SaveViewInfo { get; set; }
 ```
-```vb
-Public Property SaveViewInfo As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SaveViewInfo {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

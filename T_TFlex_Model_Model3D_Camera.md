@@ -13,13 +13,8 @@
 ```csharp
 public class Camera : Object3D
 ```
-```vb
-Public Class Camera
-	Inherits Object3D
-```
-```cpp
-public ref class Camera : public Object3D
-```
+
+
 
 
 Тип Camera предоставляет следующие члены.

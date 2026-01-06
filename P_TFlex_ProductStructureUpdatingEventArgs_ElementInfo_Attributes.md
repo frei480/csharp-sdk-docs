@@ -8,18 +8,8 @@
 ```csharp
 public IDictionary<string, string> Attributes { get; set; }
 ```
-```vb
-Public Property Attributes As IDictionary(Of String, String)
-	Get
-	Set
-```
-```cpp
-public:
-property IDictionary<String^, String^>^ Attributes {
-	IDictionary<String^, String^>^ get ();
-	void set (IDictionary<String^, String^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

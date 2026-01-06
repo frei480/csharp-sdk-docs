@@ -15,21 +15,8 @@ public void SetIntAttribute(
 	bool change
 )
 ```
-```vb
-Public Sub SetIntAttribute ( 
-	attribName As String,
-	value As Integer,
-	change As Boolean
-)
-```
-```cpp
-public:
-void SetIntAttribute(
-	String^ attribName, 
-	int value, 
-	bool change
-)
-```
+
+
 
 
 #### Параметры

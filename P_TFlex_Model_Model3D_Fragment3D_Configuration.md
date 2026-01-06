@@ -11,18 +11,8 @@
 ```csharp
 public string Configuration { get; set; }
 ```
-```vb
-Public Property Configuration As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Configuration {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

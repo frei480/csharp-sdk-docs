@@ -8,18 +8,8 @@
 ```csharp
 public ObjectDoubleClickAction DoubleClickAction { get; set; }
 ```
-```vb
-Public Property DoubleClickAction As ObjectDoubleClickAction
-	Get
-	Set
-```
-```cpp
-public:
-property ObjectDoubleClickAction DoubleClickAction {
-	ObjectDoubleClickAction get ();
-	void set (ObjectDoubleClickAction value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool Fit { get; set; }
 ```
-```vb
-Public Property Fit As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Fit {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public double ArrowLineWidth { get; set; }
 ```
-```vb
-Public Property ArrowLineWidth As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double ArrowLineWidth {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

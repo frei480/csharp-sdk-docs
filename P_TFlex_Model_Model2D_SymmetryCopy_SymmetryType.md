@@ -11,16 +11,8 @@
 ```csharp
 public SymmetryType SymmetryType { get; }
 ```
-```vb
-Public ReadOnly Property SymmetryType As SymmetryType
-	Get
-```
-```cpp
-public:
-property SymmetryType SymmetryType {
-	SymmetryType get ();
-}
-```
+
+
 
 
 #### Значение свойства

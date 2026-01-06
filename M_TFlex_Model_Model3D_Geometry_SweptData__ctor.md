@@ -11,13 +11,8 @@
 ```csharp
 public SweptData()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-SweptData()
-```
+
+
 
 
 #### Ссылки

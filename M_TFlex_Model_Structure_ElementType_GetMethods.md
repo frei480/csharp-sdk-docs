@@ -10,17 +10,8 @@ public IEnumerable<MethodInfo> GetMethods(
 	bool includeInherited
 )
 ```
-```vb
-Public Function GetMethods ( 
-	includeInherited As Boolean
-) As IEnumerable(Of MethodInfo)
-```
-```cpp
-public:
-IEnumerable<MethodInfo^>^ GetMethods(
-	bool includeInherited
-)
-```
+
+
 
 
 #### Параметры

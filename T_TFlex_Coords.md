@@ -13,12 +13,8 @@
 ```csharp
 public class Coords
 ```
-```vb
-Public Class Coords
-```
-```cpp
-public ref class Coords
-```
+
+
 
 
 Тип Coords предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public string TolerLetters { get; set; }
 ```
-```vb
-Public Property TolerLetters As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TolerLetters {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public DrawingViewBreak AddBreak(
 	bool norm
 )
 ```
-```vb
-Public Function AddBreak ( 
-	norm As Boolean
-) As DrawingViewBreak
-```
-```cpp
-public:
-DrawingViewBreak^ AddBreak(
-	bool norm
-)
-```
+
+
 
 
 #### Параметры

@@ -11,19 +11,8 @@ public ScenarioStage Add(
 	string actionName
 )
 ```
-```vb
-Public Function Add ( 
-	stageName As String,
-	actionName As String
-) As ScenarioStage
-```
-```cpp
-public:
-ScenarioStage^ Add(
-	String^ stageName, 
-	String^ actionName
-)
-```
+
+
 
 
 #### Параметры

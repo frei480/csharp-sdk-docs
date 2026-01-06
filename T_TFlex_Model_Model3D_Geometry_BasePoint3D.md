@@ -13,13 +13,8 @@
 ```csharp
 public abstract class BasePoint3D : Geometry
 ```
-```vb
-Public MustInherit Class BasePoint3D
-	Inherits Geometry
-```
-```cpp
-public ref class BasePoint3D abstract : public Geometry
-```
+
+
 
 
 Тип BasePoint3D предоставляет следующие члены.

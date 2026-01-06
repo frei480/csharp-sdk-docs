@@ -11,13 +11,8 @@
 ```csharp
 public Attribute()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-Attribute()
-```
+
+
 
 
 #### Ссылки

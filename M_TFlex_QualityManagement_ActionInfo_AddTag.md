@@ -13,17 +13,8 @@ public void AddTag(
 	string tag
 )
 ```
-```vb
-Public Sub AddTag ( 
-	tag As String
-)
-```
-```cpp
-public:
-void AddTag(
-	String^ tag
-)
-```
+
+
 
 
 #### Параметры

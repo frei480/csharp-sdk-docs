@@ -8,18 +8,8 @@
 ```csharp
 public List<ObjectId> SelectedRowElements { get; set; }
 ```
-```vb
-Public Property SelectedRowElements As List(Of ObjectId)
-	Get
-	Set
-```
-```cpp
-public:
-property List<ObjectId^>^ SelectedRowElements {
-	List<ObjectId^>^ get ();
-	void set (List<ObjectId^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

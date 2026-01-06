@@ -11,12 +11,8 @@
 ```csharp
 public class Result
 ```
-```vb
-Public Class Result
-```
-```cpp
-public ref class Result
-```
+
+
 
 
 Тип Result предоставляет следующие члены.

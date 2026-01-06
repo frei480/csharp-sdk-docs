@@ -11,21 +11,8 @@ public static TextExtensionHorizontalAlignment GetTextHorizontalAlignment(
 	int iText
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetTextHorizontalAlignment ( 
-	__unnamed000 As FixingVector,
-	iText As Integer
-) As TextExtensionHorizontalAlignment
-```
-```cpp
-public:
-[ExtensionAttribute]
-static TextExtensionHorizontalAlignment GetTextHorizontalAlignment(
-	FixingVector^ __unnamed000, 
-	int iText
-)
-```
+
+
 
 
 #### Параметры

@@ -8,12 +8,8 @@
 ```csharp
 public enum SelectMode
 ```
-```vb
-Public Enumeration SelectMode
-```
-```cpp
-public enum class SelectMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

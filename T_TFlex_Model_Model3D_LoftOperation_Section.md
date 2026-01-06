@@ -13,12 +13,8 @@
 ```csharp
 public class Section
 ```
-```vb
-Public Class Section
-```
-```cpp
-public ref class Section
-```
+
+
 
 
 Тип LoftOperationSection предоставляет следующие члены.

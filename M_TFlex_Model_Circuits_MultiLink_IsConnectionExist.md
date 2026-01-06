@@ -11,19 +11,8 @@ public bool IsConnectionExist(
 	FixingVector point2
 )
 ```
-```vb
-Public Function IsConnectionExist ( 
-	point1 As FixingVector,
-	point2 As FixingVector
-) As Boolean
-```
-```cpp
-public:
-bool IsConnectionExist(
-	FixingVector^ point1, 
-	FixingVector^ point2
-)
-```
+
+
 
 
 #### Параметры

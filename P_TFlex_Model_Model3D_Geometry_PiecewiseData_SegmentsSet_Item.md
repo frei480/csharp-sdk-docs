@@ -10,20 +10,8 @@ public PiecewiseDataSegmentsSetSegment this[
 	uint index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As UInteger
-) As PiecewiseDataSegmentsSetSegment
-	Get
-	Set
-```
-```cpp
-public:
-property PiecewiseDataSegmentsSetSegment^ default[unsigned int index] {
-	PiecewiseDataSegmentsSetSegment^ get (unsigned int index);
-	void set (unsigned int index, PiecewiseDataSegmentsSetSegment^ value);
-}
-```
+
+
 
 
 #### Параметры

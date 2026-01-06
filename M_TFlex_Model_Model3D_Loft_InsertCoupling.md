@@ -13,17 +13,8 @@ public void InsertCoupling(
 	int couplingIndex
 )
 ```
-```vb
-Public Sub InsertCoupling ( 
-	couplingIndex As Integer
-)
-```
-```cpp
-public:
-void InsertCoupling(
-	int couplingIndex
-)
-```
+
+
 
 
 #### Параметры

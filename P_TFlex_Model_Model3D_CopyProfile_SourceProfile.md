@@ -11,18 +11,8 @@
 ```csharp
 public Profile SourceProfile { get; set; }
 ```
-```vb
-Public Property SourceProfile As Profile
-	Get
-	Set
-```
-```cpp
-public:
-property Profile^ SourceProfile {
-	Profile^ get ();
-	void set (Profile^ value);
-}
-```
+
+
 
 
 #### Значение свойства

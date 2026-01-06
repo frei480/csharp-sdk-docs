@@ -11,12 +11,8 @@
 ```csharp
 public enum SpinStepAction
 ```
-```vb
-Public Enumeration SpinStepAction
-```
-```cpp
-public enum class SpinStepAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,12 +13,8 @@
 ```csharp
 public class ColumnInfo
 ```
-```vb
-Public Class ColumnInfo
-```
-```cpp
-public ref class ColumnInfo
-```
+
+
 
 
 Тип FragmentFileUserDataProductStructureDataColumnInfo предоставляет следующие члены.

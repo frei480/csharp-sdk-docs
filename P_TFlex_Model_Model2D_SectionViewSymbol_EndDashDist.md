@@ -11,18 +11,8 @@
 ```csharp
 public double EndDashDist { get; set; }
 ```
-```vb
-Public Property EndDashDist As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double EndDashDist {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

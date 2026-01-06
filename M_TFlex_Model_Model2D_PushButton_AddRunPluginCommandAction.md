@@ -14,19 +14,8 @@ public void AddRunPluginCommandAction(
 	string commandName
 )
 ```
-```vb
-Public Sub AddRunPluginCommandAction ( 
-	pluginName As String,
-	commandName As String
-)
-```
-```cpp
-public:
-void AddRunPluginCommandAction(
-	String^ pluginName, 
-	String^ commandName
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public bool Add(
 	Object3D object
 )
 ```
-```vb
-Public Function Add ( 
-	object As Object3D
-) As Boolean
-```
-```cpp
-public:
-bool Add(
-	Object3D^ object
-)
-```
+
+
 
 
 #### Параметры

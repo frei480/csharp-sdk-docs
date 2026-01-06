@@ -11,12 +11,8 @@
 ```csharp
 public class Cable
 ```
-```vb
-Public Class Cable
-```
-```cpp
-public ref class Cable
-```
+
+
 
 
 Тип Cable предоставляет следующие члены.

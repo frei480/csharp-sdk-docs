@@ -13,17 +13,8 @@ protected ExportWithApplication(
 	Document document
 )
 ```
-```vb
-Protected Sub New ( 
-	document As Document
-)
-```
-```cpp
-protected:
-ExportWithApplication(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

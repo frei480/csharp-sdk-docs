@@ -11,12 +11,8 @@
 ```csharp
 public enum OperationType
 ```
-```vb
-Public Enumeration OperationType
-```
-```cpp
-public enum class OperationType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

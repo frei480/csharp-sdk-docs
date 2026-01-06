@@ -11,16 +11,8 @@
 ```csharp
 public IntPtr RGKCurve { get; }
 ```
-```vb
-Public ReadOnly Property RGKCurve As IntPtr
-	Get
-```
-```cpp
-public:
-property IntPtr RGKCurve {
-	IntPtr get ();
-}
-```
+
+
 
 
 #### Значение свойства

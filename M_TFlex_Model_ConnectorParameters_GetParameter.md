@@ -13,17 +13,8 @@ public string GetParameter(
 	int index
 )
 ```
-```vb
-Public Function GetParameter ( 
-	index As Integer
-) As String
-```
-```cpp
-public:
-String^ GetParameter(
-	int index
-)
-```
+
+
 
 
 #### Параметры

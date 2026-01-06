@@ -13,13 +13,8 @@
 ```csharp
 public class ModelConfigurationEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class ModelConfigurationEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class ModelConfigurationEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип ModelConfigurationEventArgs предоставляет следующие члены.

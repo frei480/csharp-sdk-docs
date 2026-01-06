@@ -13,13 +13,8 @@
 ```csharp
 public abstract class ObjectSelectControlFilterSimple : ObjectSelectControlFilter
 ```
-```vb
-Public MustInherit Class ObjectSelectControlFilterSimple
-	Inherits ObjectSelectControlFilter
-```
-```cpp
-public ref class ObjectSelectControlFilterSimple abstract : public ObjectSelectControlFilter
-```
+
+
 
 
 Тип ObjectSelectControlFilterSimple предоставляет следующие члены.

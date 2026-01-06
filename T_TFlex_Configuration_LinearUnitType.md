@@ -8,12 +8,8 @@
 ```csharp
 public enum LinearUnitType
 ```
-```vb
-Public Enumeration LinearUnitType
-```
-```cpp
-public enum class LinearUnitType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,16 +11,8 @@
 ```csharp
 public ModelAxis AxisX { get; }
 ```
-```vb
-Public ReadOnly Property AxisX As ModelAxis
-	Get
-```
-```cpp
-public:
-property ModelAxis^ AxisX {
-	ModelAxis^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

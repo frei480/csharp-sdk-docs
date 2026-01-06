@@ -11,18 +11,8 @@
 ```csharp
 public bool CombineGeometryOfBodies { get; set; }
 ```
-```vb
-Public Property CombineGeometryOfBodies As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CombineGeometryOfBodies {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

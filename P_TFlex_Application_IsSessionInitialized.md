@@ -11,16 +11,8 @@
 ```csharp
 public static bool IsSessionInitialized { get; }
 ```
-```vb
-Public Shared ReadOnly Property IsSessionInitialized As Boolean
-	Get
-```
-```cpp
-public:
-static property bool IsSessionInitialized {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

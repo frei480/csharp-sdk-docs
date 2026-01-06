@@ -13,13 +13,8 @@
 ```csharp
 public class GroupBox : StaticTextControl
 ```
-```vb
-Public Class GroupBox
-	Inherits StaticTextControl
-```
-```cpp
-public ref class GroupBox : public StaticTextControl
-```
+
+
 
 
 Тип GroupBox предоставляет следующие члены.

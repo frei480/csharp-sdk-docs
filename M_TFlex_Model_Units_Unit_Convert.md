@@ -12,21 +12,8 @@ public static double Convert(
 	double value
 )
 ```
-```vb
-Public Shared Function Convert ( 
-	srcUnit As Unit,
-	trgUnit As Unit,
-	value As Double
-) As Double
-```
-```cpp
-public:
-static double Convert(
-	Unit^ srcUnit, 
-	Unit^ trgUnit, 
-	double value
-)
-```
+
+
 
 
 #### Параметры

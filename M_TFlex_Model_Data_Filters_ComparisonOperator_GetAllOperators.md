@@ -11,13 +11,8 @@
 ```csharp
 public static List<ComparisonOperator> GetAllOperators()
 ```
-```vb
-Public Shared Function GetAllOperators As List(Of ComparisonOperator)
-```
-```cpp
-public:
-static List<ComparisonOperator^>^ GetAllOperators()
-```
+
+
 
 
 #### Возвращаемое значение

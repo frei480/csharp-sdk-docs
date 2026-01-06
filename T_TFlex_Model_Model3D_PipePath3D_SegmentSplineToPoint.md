@@ -11,13 +11,8 @@
 ```csharp
 public class SegmentSplineToPoint : PipePath3DBaseSegment
 ```
-```vb
-Public Class SegmentSplineToPoint
-	Inherits PipePath3DBaseSegment
-```
-```cpp
-public ref class SegmentSplineToPoint : public PipePath3DBaseSegment
-```
+
+
 
 
 Тип PipePath3DSegmentSplineToPoint предоставляет следующие члены.

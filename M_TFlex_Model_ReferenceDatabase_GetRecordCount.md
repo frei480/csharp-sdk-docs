@@ -11,13 +11,8 @@
 ```csharp
 public int GetRecordCount()
 ```
-```vb
-Public Function GetRecordCount As Integer
-```
-```cpp
-public:
-int GetRecordCount()
-```
+
+
 
 
 #### Возвращаемое значение

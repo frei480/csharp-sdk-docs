@@ -10,17 +10,8 @@ public void Remove(
 	bool withConductors
 )
 ```
-```vb
-Public Sub Remove ( 
-	withConductors As Boolean
-)
-```
-```cpp
-public:
-void Remove(
-	bool withConductors
-)
-```
+
+
 
 
 #### Параметры

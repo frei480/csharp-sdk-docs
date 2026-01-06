@@ -14,19 +14,8 @@ public void SetPageTypeVisibility(
 	bool visible
 )
 ```
-```vb
-Public Sub SetPageTypeVisibility ( 
-	type As PageType,
-	visible As Boolean
-)
-```
-```cpp
-public:
-void SetPageTypeVisibility(
-	PageType type, 
-	bool visible
-)
-```
+
+
 
 
 #### Параметры

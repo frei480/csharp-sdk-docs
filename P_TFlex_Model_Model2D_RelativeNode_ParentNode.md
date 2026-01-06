@@ -8,16 +8,8 @@
 ```csharp
 public Node ParentNode { get; }
 ```
-```vb
-Public ReadOnly Property ParentNode As Node
-	Get
-```
-```cpp
-public:
-property Node^ ParentNode {
-	Node^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

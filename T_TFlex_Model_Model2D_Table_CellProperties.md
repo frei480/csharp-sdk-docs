@@ -13,12 +13,8 @@
 ```csharp
 public struct CellProperties
 ```
-```vb
-Public Structure CellProperties
-```
-```cpp
-public value class CellProperties
-```
+
+
 
 
 Тип TableCellProperties предоставляет следующие члены.

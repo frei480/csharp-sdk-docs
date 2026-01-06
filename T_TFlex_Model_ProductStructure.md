@@ -13,13 +13,8 @@
 ```csharp
 public class ProductStructure : ModelObject
 ```
-```vb
-Public Class ProductStructure
-	Inherits ModelObject
-```
-```cpp
-public ref class ProductStructure : public ModelObject
-```
+
+
 
 
 Тип ProductStructure предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool EnablePrintButton { get; set; }
 ```
-```vb
-Public Overridable Property EnablePrintButton As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool EnablePrintButton {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

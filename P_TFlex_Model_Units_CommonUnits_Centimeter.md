@@ -8,16 +8,8 @@
 ```csharp
 public Unit Centimeter { get; }
 ```
-```vb
-Public ReadOnly Property Centimeter As Unit
-	Get
-```
-```cpp
-public:
-property Unit^ Centimeter {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

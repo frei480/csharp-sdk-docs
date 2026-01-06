@@ -11,18 +11,8 @@
 ```csharp
 public Parameter DimValue { get; set; }
 ```
-```vb
-Public Property DimValue As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ DimValue {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

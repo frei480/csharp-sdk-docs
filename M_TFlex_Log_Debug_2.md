@@ -12,21 +12,8 @@ public static void Debug(
 	Object arg2
 )
 ```
-```vb
-Public Shared Sub Debug ( 
-	format As String,
-	arg1 As Object,
-	arg2 As Object
-)
-```
-```cpp
-public:
-static void Debug(
-	String^ format, 
-	Object^ arg1, 
-	Object^ arg2
-)
-```
+
+
 
 
 #### Параметры

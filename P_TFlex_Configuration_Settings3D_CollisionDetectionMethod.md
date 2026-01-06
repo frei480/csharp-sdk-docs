@@ -8,18 +8,8 @@
 ```csharp
 public CollisionDetectionMethod CollisionDetectionMethod { get; set; }
 ```
-```vb
-Public Property CollisionDetectionMethod As CollisionDetectionMethod
-	Get
-	Set
-```
-```cpp
-public:
-property CollisionDetectionMethod CollisionDetectionMethod {
-	CollisionDetectionMethod get ();
-	void set (CollisionDetectionMethod value);
-}
-```
+
+
 
 
 #### Значение свойства

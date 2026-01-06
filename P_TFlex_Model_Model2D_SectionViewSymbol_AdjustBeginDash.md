@@ -11,18 +11,8 @@
 ```csharp
 public bool AdjustBeginDash { get; set; }
 ```
-```vb
-Public Property AdjustBeginDash As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AdjustBeginDash {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

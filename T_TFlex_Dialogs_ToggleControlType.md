@@ -11,12 +11,8 @@
 ```csharp
 public enum ToggleControlType
 ```
-```vb
-Public Enumeration ToggleControlType
-```
-```cpp
-public enum class ToggleControlType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

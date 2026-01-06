@@ -11,18 +11,8 @@
 ```csharp
 public RoughnessSymbolHeightParameters HeightParameter { get; set; }
 ```
-```vb
-Public Property HeightParameter As RoughnessSymbolHeightParameters
-	Get
-	Set
-```
-```cpp
-public:
-property RoughnessSymbolHeightParameters HeightParameter {
-	RoughnessSymbolHeightParameters get ();
-	void set (RoughnessSymbolHeightParameters value);
-}
-```
+
+
 
 
 #### Значение свойства

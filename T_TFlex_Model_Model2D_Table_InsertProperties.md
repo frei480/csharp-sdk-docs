@@ -11,12 +11,8 @@
 ```csharp
 public enum InsertProperties
 ```
-```vb
-Public Enumeration InsertProperties
-```
-```cpp
-public enum class InsertProperties
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,13 +11,8 @@
 ```csharp
 public AffineTransformation()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-AffineTransformation()
-```
+
+
 
 
 #### Ссылки

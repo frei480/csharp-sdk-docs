@@ -11,18 +11,8 @@
 ```csharp
 public override LCS LCS { get; set; }
 ```
-```vb
-Public Overrides Property LCS As LCS
-	Get
-	Set
-```
-```cpp
-public:
-virtual property LCS^ LCS {
-	LCS^ get () override;
-	void set (LCS^ value) override;
-}
-```
+
+
 
 
 #### Значение свойства

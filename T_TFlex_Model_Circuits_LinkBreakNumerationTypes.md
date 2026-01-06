@@ -8,12 +8,8 @@
 ```csharp
 public enum LinkBreakNumerationTypes
 ```
-```vb
-Public Enumeration LinkBreakNumerationTypes
-```
-```cpp
-public enum class LinkBreakNumerationTypes
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,16 +11,8 @@
 ```csharp
 public virtual Graphics Graphics { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Graphics As Graphics
-	Get
-```
-```cpp
-public:
-virtual property Graphics^ Graphics {
-	Graphics^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

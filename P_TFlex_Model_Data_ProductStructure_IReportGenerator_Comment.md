@@ -8,15 +8,8 @@
 ```csharp
 string Comment { get; }
 ```
-```vb
-ReadOnly Property Comment As String
-	Get
-```
-```cpp
-property String^ Comment {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

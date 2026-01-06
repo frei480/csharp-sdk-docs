@@ -13,17 +13,8 @@ public ModelContour GetElement(
 	int index
 )
 ```
-```vb
-Public Function GetElement ( 
-	index As Integer
-) As ModelContour
-```
-```cpp
-public:
-ModelContour^ GetElement(
-	int index
-)
-```
+
+
 
 
 #### Параметры

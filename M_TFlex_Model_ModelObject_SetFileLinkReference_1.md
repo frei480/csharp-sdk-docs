@@ -15,21 +15,8 @@ public void SetFileLinkReference(
 	ModelObjectArrayIndices indices
 )
 ```
-```vb
-Public Sub SetFileLinkReference ( 
-	id As Integer,
-	link As FileLink,
-	indices As ModelObjectArrayIndices
-)
-```
-```cpp
-public:
-void SetFileLinkReference(
-	int id, 
-	FileLink^ link, 
-	ModelObjectArrayIndices^ indices
-)
-```
+
+
 
 
 #### Параметры

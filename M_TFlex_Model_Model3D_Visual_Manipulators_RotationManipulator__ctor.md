@@ -11,13 +11,8 @@
 ```csharp
 public RotationManipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RotationManipulator()
-```
+
+
 
 
 #### Ссылки

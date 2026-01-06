@@ -11,18 +11,8 @@
 ```csharp
 public bool IsDirectoryNeeded { get; set; }
 ```
-```vb
-Public Property IsDirectoryNeeded As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsDirectoryNeeded {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

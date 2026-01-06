@@ -11,16 +11,8 @@
 ```csharp
 public bool IsFocused { get; }
 ```
-```vb
-Public ReadOnly Property IsFocused As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsFocused {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

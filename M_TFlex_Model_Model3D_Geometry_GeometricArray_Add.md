@@ -13,17 +13,8 @@ public void Add(
 	Geometry geom
 )
 ```
-```vb
-Public Sub Add ( 
-	geom As Geometry
-)
-```
-```cpp
-public:
-void Add(
-	Geometry^ geom
-)
-```
+
+
 
 
 #### Параметры

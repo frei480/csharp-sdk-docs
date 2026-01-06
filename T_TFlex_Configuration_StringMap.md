@@ -11,13 +11,8 @@
 ```csharp
 public class StringMap : Dictionary<string, string>
 ```
-```vb
-Public Class StringMap
-	Inherits Dictionary(Of String, String)
-```
-```cpp
-public ref class StringMap : public Dictionary<String^, String^>
-```
+
+
 
 
 Тип StringMap предоставляет следующие члены.

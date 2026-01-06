@@ -14,14 +14,8 @@
 public class ThreadDiameterCollection : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ThreadDiameterCollection
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ThreadDiameterCollection : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип ThreadDiameterCollection предоставляет следующие члены.

@@ -13,17 +13,8 @@ public MaterialParameter(
 	Material Mat
 )
 ```
-```vb
-Public Sub New ( 
-	Mat As Material
-)
-```
-```cpp
-public:
-MaterialParameter(
-	Material^ Mat
-)
-```
+
+
 
 
 #### Параметры

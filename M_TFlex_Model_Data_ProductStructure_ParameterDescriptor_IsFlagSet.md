@@ -10,17 +10,8 @@ public bool IsFlagSet(
 	ParameterDescriptorParamDescFlags flag
 )
 ```
-```vb
-Public Function IsFlagSet ( 
-	flag As ParameterDescriptorParamDescFlags
-) As Boolean
-```
-```cpp
-public:
-bool IsFlagSet(
-	ParameterDescriptorParamDescFlags flag
-)
-```
+
+
 
 
 #### Параметры

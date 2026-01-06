@@ -11,12 +11,8 @@
 ```csharp
 public enum DatabaseUpdateMode
 ```
-```vb
-Public Enumeration DatabaseUpdateMode
-```
-```cpp
-public enum class DatabaseUpdateMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

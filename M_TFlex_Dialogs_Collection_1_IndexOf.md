@@ -13,17 +13,8 @@ public virtual int IndexOf(
 	T item
 )
 ```
-```vb
-Public Overridable Function IndexOf ( 
-	item As T
-) As Integer
-```
-```cpp
-public:
-virtual int IndexOf(
-	T item
-)
-```
+
+
 
 
 #### Параметры

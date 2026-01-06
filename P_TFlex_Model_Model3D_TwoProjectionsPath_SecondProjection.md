@@ -11,16 +11,8 @@
 ```csharp
 public TwoProjectionsPathProjection SecondProjection { get; }
 ```
-```vb
-Public ReadOnly Property SecondProjection As TwoProjectionsPathProjection
-	Get
-```
-```cpp
-public:
-property TwoProjectionsPathProjection^ SecondProjection {
-	TwoProjectionsPathProjection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public class Paper : SettingsGroup
 ```
-```vb
-Public Class Paper
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Paper : public SettingsGroup
-```
+
+
 
 
 Тип Paper предоставляет следующие члены.

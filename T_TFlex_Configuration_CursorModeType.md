@@ -8,12 +8,8 @@
 ```csharp
 public enum CursorModeType
 ```
-```vb
-Public Enumeration CursorModeType
-```
-```cpp
-public enum class CursorModeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

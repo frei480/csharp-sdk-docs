@@ -10,19 +10,8 @@ public static Operation GetOperationToBoolean(
 	this Fragment3D fragment3D
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetOperationToBoolean ( 
-	fragment3D As Fragment3D
-) As Operation
-```
-```cpp
-public:
-[ExtensionAttribute]
-static Operation^ GetOperationToBoolean(
-	Fragment3D^ fragment3D
-)
-```
+
+
 
 
 #### Параметры

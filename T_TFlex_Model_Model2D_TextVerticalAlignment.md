@@ -11,12 +11,8 @@
 ```csharp
 public enum TextVerticalAlignment
 ```
-```vb
-Public Enumeration TextVerticalAlignment
-```
-```cpp
-public enum class TextVerticalAlignment
-```
+
+
 
 
 | Имя члена | Значение | Описание |

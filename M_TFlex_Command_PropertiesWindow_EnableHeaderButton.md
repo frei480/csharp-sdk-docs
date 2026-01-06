@@ -14,19 +14,8 @@ public void EnableHeaderButton(
 	bool enable
 )
 ```
-```vb
-Public Sub EnableHeaderButton ( 
-	button As PropertiesWindowHeaderButton,
-	enable As Boolean
-)
-```
-```cpp
-public:
-void EnableHeaderButton(
-	PropertiesWindowHeaderButton button, 
-	bool enable
-)
-```
+
+
 
 
 #### Параметры

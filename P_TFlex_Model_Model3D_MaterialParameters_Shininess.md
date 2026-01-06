@@ -11,18 +11,8 @@
 ```csharp
 public double Shininess { get; set; }
 ```
-```vb
-Public Property Shininess As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Shininess {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -15,21 +15,8 @@ public ExternalOperation(
 	Plugin application
 )
 ```
-```vb
-Public Sub New ( 
-	proxy As ProxyOperation,
-	document As Document,
-	application As Plugin
-)
-```
-```cpp
-public:
-ExternalOperation(
-	ProxyOperation^ proxy, 
-	Document^ document, 
-	Plugin^ application
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class Fragment2D : SettingsGroup
 ```
-```vb
-Public Class Fragment2D
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Fragment2D : public SettingsGroup
-```
+
+
 
 
 Тип Fragment2D предоставляет следующие члены.

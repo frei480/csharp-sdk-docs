@@ -13,17 +13,8 @@ public void SetAutoBeginUserInsert(
 	bool autoBeginUserInsert
 )
 ```
-```vb
-Public Sub SetAutoBeginUserInsert ( 
-	autoBeginUserInsert As Boolean
-)
-```
-```cpp
-public:
-void SetAutoBeginUserInsert(
-	bool autoBeginUserInsert
-)
-```
+
+
 
 
 #### Параметры

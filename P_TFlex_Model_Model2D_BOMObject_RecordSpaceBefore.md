@@ -11,18 +11,8 @@
 ```csharp
 public uint RecordSpaceBefore { get; set; }
 ```
-```vb
-Public Property RecordSpaceBefore As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int RecordSpaceBefore {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,18 +11,8 @@
 ```csharp
 public bool CurvatureOptimization { get; set; }
 ```
-```vb
-Public Property CurvatureOptimization As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CurvatureOptimization {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public class WrapPanelControl : BaseControl
 ```
-```vb
-Public Class WrapPanelControl
-	Inherits BaseControl
-```
-```cpp
-public ref class WrapPanelControl : public BaseControl
-```
+
+
 
 
 Тип WrapPanelControl предоставляет следующие члены.

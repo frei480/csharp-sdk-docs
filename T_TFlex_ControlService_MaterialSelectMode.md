@@ -8,12 +8,8 @@
 ```csharp
 public enum MaterialSelectMode
 ```
-```vb
-Public Enumeration MaterialSelectMode
-```
-```cpp
-public enum class MaterialSelectMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

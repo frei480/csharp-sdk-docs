@@ -13,13 +13,8 @@
 ```csharp
 public class GraphLaw : Object2D
 ```
-```vb
-Public Class GraphLaw
-	Inherits Object2D
-```
-```cpp
-public ref class GraphLaw : public Object2D
-```
+
+
 
 
 Тип GraphLaw предоставляет следующие члены.

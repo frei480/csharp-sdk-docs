@@ -11,13 +11,8 @@
 ```csharp
 public class Enumerator : IEnumerator<ObjectId>
 ```
-```vb
-Public Class Enumerator
-	Implements IEnumerator(Of ObjectId)
-```
-```cpp
-public ref class Enumerator : IEnumerator<ObjectId^>
-```
+
+
 
 
 Тип ScenarioObjectsEnumerator предоставляет следующие члены.

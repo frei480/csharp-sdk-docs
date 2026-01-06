@@ -14,19 +14,8 @@ public NonStandardProjection(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	page As Page
-)
-```
-```cpp
-public:
-NonStandardProjection(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

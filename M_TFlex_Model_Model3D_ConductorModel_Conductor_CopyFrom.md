@@ -10,17 +10,8 @@ public bool CopyFrom(
 	Conductor source
 )
 ```
-```vb
-Public Function CopyFrom ( 
-	source As Conductor
-) As Boolean
-```
-```cpp
-public:
-bool CopyFrom(
-	Conductor^ source
-)
-```
+
+
 
 
 #### Параметры

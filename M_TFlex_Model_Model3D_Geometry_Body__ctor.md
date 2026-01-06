@@ -13,17 +13,8 @@ public Body(
 	int body
 )
 ```
-```vb
-Public Sub New ( 
-	body As Integer
-)
-```
-```cpp
-public:
-Body(
-	int body
-)
-```
+
+
 
 
 #### Параметры

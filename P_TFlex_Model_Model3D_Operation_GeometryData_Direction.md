@@ -11,16 +11,8 @@
 ```csharp
 public ModelDirection Direction { get; }
 ```
-```vb
-Public ReadOnly Property Direction As ModelDirection
-	Get
-```
-```cpp
-public:
-property ModelDirection^ Direction {
-	ModelDirection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

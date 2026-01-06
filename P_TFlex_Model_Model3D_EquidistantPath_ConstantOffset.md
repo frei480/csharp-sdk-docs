@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ConstantOffset { get; set; }
 ```
-```vb
-Public Property ConstantOffset As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ConstantOffset {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

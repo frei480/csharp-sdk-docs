@@ -11,18 +11,8 @@
 ```csharp
 public AreaFillStyle FillStyle { get; set; }
 ```
-```vb
-Public Property FillStyle As AreaFillStyle
-	Get
-	Set
-```
-```cpp
-public:
-property AreaFillStyle FillStyle {
-	AreaFillStyle get ();
-	void set (AreaFillStyle value);
-}
-```
+
+
 
 
 #### Значение свойства

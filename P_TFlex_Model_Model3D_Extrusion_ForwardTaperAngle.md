@@ -11,18 +11,8 @@
 ```csharp
 public Parameter ForwardTaperAngle { get; set; }
 ```
-```vb
-Public Property ForwardTaperAngle As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ForwardTaperAngle {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

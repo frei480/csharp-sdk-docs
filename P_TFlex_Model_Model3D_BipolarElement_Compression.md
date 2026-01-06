@@ -11,18 +11,8 @@
 ```csharp
 public double Compression { get; set; }
 ```
-```vb
-Public Property Compression As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Compression {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

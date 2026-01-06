@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<ViewSymbol> GetViewSymbols()
 ```
-```vb
-Public Function GetViewSymbols As ICollection(Of ViewSymbol)
-```
-```cpp
-public:
-ICollection<ViewSymbol^>^ GetViewSymbols()
-```
+
+
 
 
 #### Возвращаемое значение

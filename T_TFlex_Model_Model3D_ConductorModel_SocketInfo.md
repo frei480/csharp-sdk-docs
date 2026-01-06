@@ -11,12 +11,8 @@
 ```csharp
 public class SocketInfo
 ```
-```vb
-Public Class SocketInfo
-```
-```cpp
-public ref class SocketInfo
-```
+
+
 
 
 Тип SocketInfo предоставляет следующие члены.

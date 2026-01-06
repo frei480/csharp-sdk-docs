@@ -8,12 +8,8 @@
 ```csharp
 public enum SynchronizationMode
 ```
-```vb
-Public Enumeration SynchronizationMode
-```
-```cpp
-public enum class SynchronizationMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

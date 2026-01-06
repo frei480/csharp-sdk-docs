@@ -11,12 +11,8 @@
 ```csharp
 public enum LinearArrayParameters
 ```
-```vb
-Public Enumeration LinearArrayParameters
-```
-```cpp
-public enum class LinearArrayParameters
-```
+
+
 
 
 | Имя члена | Значение | Описание |

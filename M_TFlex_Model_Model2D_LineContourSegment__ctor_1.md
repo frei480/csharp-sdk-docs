@@ -14,19 +14,8 @@ public LineContourSegment(
 	int index
 )
 ```
-```vb
-Public Sub New ( 
-	source As Contour,
-	index As Integer
-)
-```
-```cpp
-public:
-LineContourSegment(
-	Contour^ source, 
-	int index
-)
-```
+
+
 
 
 #### Параметры

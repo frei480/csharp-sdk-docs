@@ -8,12 +8,8 @@
 ```csharp
 bool HasPropertiesToEdit()
 ```
-```vb
-Function HasPropertiesToEdit As Boolean
-```
-```cpp
-bool HasPropertiesToEdit()
-```
+
+
 
 
 #### Возвращаемое значение

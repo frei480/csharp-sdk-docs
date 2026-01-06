@@ -11,13 +11,8 @@
 ```csharp
 public class PositionResultNode : ContainerResultNode
 ```
-```vb
-Public Class PositionResultNode
-	Inherits ContainerResultNode
-```
-```cpp
-public ref class PositionResultNode : public ContainerResultNode
-```
+
+
 
 
 Тип PositionResultNode предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public bool DimensionOptionsAutoformatDefaultOnWorkplane { get; set; }
 ```
-```vb
-Public Property DimensionOptionsAutoformatDefaultOnWorkplane As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DimensionOptionsAutoformatDefaultOnWorkplane {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

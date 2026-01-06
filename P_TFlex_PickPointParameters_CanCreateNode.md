@@ -11,18 +11,8 @@
 ```csharp
 public bool CanCreateNode { get; set; }
 ```
-```vb
-Public Property CanCreateNode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CanCreateNode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,18 +8,8 @@
 ```csharp
 public IDictionary<Guid, ProductStructureUpdatingEventArgsValueInfo> Values { get; set; }
 ```
-```vb
-Public Property Values As IDictionary(Of Guid, ProductStructureUpdatingEventArgsValueInfo)
-	Get
-	Set
-```
-```cpp
-public:
-property IDictionary<Guid, ProductStructureUpdatingEventArgsValueInfo^>^ Values {
-	IDictionary<Guid, ProductStructureUpdatingEventArgsValueInfo^>^ get ();
-	void set (IDictionary<Guid, ProductStructureUpdatingEventArgsValueInfo^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

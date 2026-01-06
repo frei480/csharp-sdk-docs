@@ -8,18 +8,8 @@
 ```csharp
 public int DDLCS_Size { get; set; }
 ```
-```vb
-Public Property DDLCS_Size As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int DDLCS_Size {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

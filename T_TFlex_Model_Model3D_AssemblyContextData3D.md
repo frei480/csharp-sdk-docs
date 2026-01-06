@@ -13,13 +13,8 @@
 ```csharp
 public class AssemblyContextData3D : AssemblyContextData
 ```
-```vb
-Public Class AssemblyContextData3D
-	Inherits AssemblyContextData
-```
-```cpp
-public ref class AssemblyContextData3D : public AssemblyContextData
-```
+
+
 
 
 Тип AssemblyContextData3D предоставляет следующие члены.

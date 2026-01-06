@@ -11,13 +11,8 @@
 ```csharp
 public double Width
 ```
-```vb
-Public Width As Double
-```
-```cpp
-public:
-double Width
-```
+
+
 
 
 #### Значение поля

@@ -8,18 +8,8 @@
 ```csharp
 public int UndoRedo { get; set; }
 ```
-```vb
-Public Property UndoRedo As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int UndoRedo {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

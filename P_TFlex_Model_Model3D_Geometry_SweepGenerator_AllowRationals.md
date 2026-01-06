@@ -11,18 +11,8 @@
 ```csharp
 public bool AllowRationals { get; set; }
 ```
-```vb
-Public Property AllowRationals As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool AllowRationals {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public ParametricSweep(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-ParametricSweep(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

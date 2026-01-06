@@ -11,13 +11,8 @@
 ```csharp
 public BSplineSurfaceConstrainedData()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-BSplineSurfaceConstrainedData()
-```
+
+
 
 
 #### Ссылки

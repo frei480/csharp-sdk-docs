@@ -8,18 +8,8 @@
 ```csharp
 public bool DimensionOptionsShowControlsPanel { get; set; }
 ```
-```vb
-Public Property DimensionOptionsShowControlsPanel As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DimensionOptionsShowControlsPanel {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

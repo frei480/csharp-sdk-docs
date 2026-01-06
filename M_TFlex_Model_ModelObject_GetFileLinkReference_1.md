@@ -14,19 +14,8 @@ public FileLink GetFileLinkReference(
 	ModelObjectArrayIndices indices
 )
 ```
-```vb
-Public Function GetFileLinkReference ( 
-	id As Integer,
-	indices As ModelObjectArrayIndices
-) As FileLink
-```
-```cpp
-public:
-FileLink^ GetFileLinkReference(
-	int id, 
-	ModelObjectArrayIndices^ indices
-)
-```
+
+
 
 
 #### Параметры

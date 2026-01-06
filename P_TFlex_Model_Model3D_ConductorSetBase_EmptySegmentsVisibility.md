@@ -8,18 +8,8 @@
 ```csharp
 public ConductorSetBaseEmptySegmentsMode EmptySegmentsVisibility { get; set; }
 ```
-```vb
-Public Property EmptySegmentsVisibility As ConductorSetBaseEmptySegmentsMode
-	Get
-	Set
-```
-```cpp
-public:
-property ConductorSetBaseEmptySegmentsMode EmptySegmentsVisibility {
-	ConductorSetBaseEmptySegmentsMode get ();
-	void set (ConductorSetBaseEmptySegmentsMode value);
-}
-```
+
+
 
 
 #### Значение свойства

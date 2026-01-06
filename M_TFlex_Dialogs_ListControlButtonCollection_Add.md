@@ -13,17 +13,8 @@ public int Add(
 	ListControlStandardButton standardButton
 )
 ```
-```vb
-Public Function Add ( 
-	standardButton As ListControlStandardButton
-) As Integer
-```
-```cpp
-public:
-int Add(
-	ListControlStandardButton standardButton
-)
-```
+
+
 
 
 #### Параметры

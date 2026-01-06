@@ -14,19 +14,8 @@ public FileLink(
 	string filePath
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	filePath As String
-)
-```
-```cpp
-public:
-FileLink(
-	Document^ document, 
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

@@ -8,13 +8,8 @@
 ```csharp
 public void ResetDisplayedSegments()
 ```
-```vb
-Public Sub ResetDisplayedSegments
-```
-```cpp
-public:
-void ResetDisplayedSegments()
-```
+
+
 
 
 #### Ссылки

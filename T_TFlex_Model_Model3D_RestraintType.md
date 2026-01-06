@@ -11,12 +11,8 @@
 ```csharp
 public enum RestraintType
 ```
-```vb
-Public Enumeration RestraintType
-```
-```cpp
-public enum class RestraintType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

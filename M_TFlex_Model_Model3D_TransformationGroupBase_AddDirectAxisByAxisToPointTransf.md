@@ -15,21 +15,8 @@ public void AddDirectAxisByAxisToPointTransf(
 	ModelPoint3D point
 )
 ```
-```vb
-Public Sub AddDirectAxisByAxisToPointTransf ( 
-	stationaryAxis As TransformationCoordinate,
-	rotatingAxis As TransformationCoordinate,
-	point As ModelPoint3D
-)
-```
-```cpp
-public:
-void AddDirectAxisByAxisToPointTransf(
-	TransformationCoordinate stationaryAxis, 
-	TransformationCoordinate rotatingAxis, 
-	ModelPoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

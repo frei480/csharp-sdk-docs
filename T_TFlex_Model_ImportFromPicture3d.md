@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ImportFromPicture3d
 ```
-```vb
-Public NotInheritable Class ImportFromPicture3d
-```
-```cpp
-public ref class ImportFromPicture3d sealed
-```
+
+
 
 
 Тип ImportFromPicture3d предоставляет следующие члены.

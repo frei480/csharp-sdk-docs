@@ -13,17 +13,8 @@ public ImportFromParasolid(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-ImportFromParasolid(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

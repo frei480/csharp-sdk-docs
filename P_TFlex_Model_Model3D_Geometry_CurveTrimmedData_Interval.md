@@ -8,16 +8,8 @@
 ```csharp
 public Interval Interval { get; }
 ```
-```vb
-Public ReadOnly Property Interval As Interval
-	Get
-```
-```cpp
-public:
-property Interval^ Interval {
-	Interval^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public PropertiesWindowWpfForm(
 	UIElement element
 )
 ```
-```vb
-Public Sub New ( 
-	element As UIElement
-)
-```
-```cpp
-public:
-PropertiesWindowWpfForm(
-	UIElement^ element
-)
-```
+
+
 
 
 #### Параметры

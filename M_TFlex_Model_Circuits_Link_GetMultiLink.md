@@ -11,13 +11,8 @@
 ```csharp
 public MultiLink GetMultiLink()
 ```
-```vb
-Public Function GetMultiLink As MultiLink
-```
-```cpp
-public:
-MultiLink^ GetMultiLink()
-```
+
+
 
 
 #### Возвращаемое значение

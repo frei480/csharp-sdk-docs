@@ -11,18 +11,8 @@
 ```csharp
 public BaseBody Solid { get; set; }
 ```
-```vb
-Public Property Solid As BaseBody
-	Get
-	Set
-```
-```cpp
-public:
-property BaseBody^ Solid {
-	BaseBody^ get ();
-	void set (BaseBody^ value);
-}
-```
+
+
 
 
 #### Значение свойства

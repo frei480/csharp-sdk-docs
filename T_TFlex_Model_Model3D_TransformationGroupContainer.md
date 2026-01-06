@@ -13,12 +13,8 @@
 ```csharp
 public class TransformationGroupContainer
 ```
-```vb
-Public Class TransformationGroupContainer
-```
-```cpp
-public ref class TransformationGroupContainer
-```
+
+
 
 
 Тип TransformationGroupContainer предоставляет следующие члены.

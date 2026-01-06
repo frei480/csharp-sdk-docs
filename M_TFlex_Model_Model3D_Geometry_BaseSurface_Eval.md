@@ -13,17 +13,8 @@ public Point3D Eval(
 	UV uv
 )
 ```
-```vb
-Public Function Eval ( 
-	uv As UV
-) As Point3D
-```
-```cpp
-public:
-Point3D^ Eval(
-	UV uv
-)
-```
+
+
 
 
 #### Параметры

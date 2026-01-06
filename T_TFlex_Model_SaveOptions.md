@@ -13,12 +13,8 @@
 ```csharp
 public sealed class SaveOptions
 ```
-```vb
-Public NotInheritable Class SaveOptions
-```
-```cpp
-public ref class SaveOptions sealed
-```
+
+
 
 
 Тип SaveOptions предоставляет следующие члены.

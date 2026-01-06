@@ -13,12 +13,8 @@
 ```csharp
 public abstract class View
 ```
-```vb
-Public MustInherit Class View
-```
-```cpp
-public ref class View abstract
-```
+
+
 
 
 Тип View предоставляет следующие члены.

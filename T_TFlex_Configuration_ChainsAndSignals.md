@@ -11,13 +11,8 @@
 ```csharp
 public class ChainsAndSignals : SettingsGroup
 ```
-```vb
-Public Class ChainsAndSignals
-	Inherits SettingsGroup
-```
-```cpp
-public ref class ChainsAndSignals : public SettingsGroup
-```
+
+
 
 
 Тип ChainsAndSignals предоставляет следующие члены.

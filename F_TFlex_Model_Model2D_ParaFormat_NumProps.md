@@ -11,13 +11,8 @@
 ```csharp
 public ParaFormatNumberingProps NumProps
 ```
-```vb
-Public NumProps As ParaFormatNumberingProps
-```
-```cpp
-public:
-ParaFormatNumberingProps NumProps
-```
+
+
 
 
 #### Значение поля

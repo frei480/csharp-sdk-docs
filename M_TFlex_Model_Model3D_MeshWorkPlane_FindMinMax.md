@@ -14,19 +14,8 @@ public MeshPoint FindMinMax(
 	bool max
 )
 ```
-```vb
-Public Function FindMinMax ( 
-	axis As Axis,
-	max As Boolean
-) As MeshPoint
-```
-```cpp
-public:
-MeshPoint^ FindMinMax(
-	Axis^ axis, 
-	bool max
-)
-```
+
+
 
 
 #### Параметры

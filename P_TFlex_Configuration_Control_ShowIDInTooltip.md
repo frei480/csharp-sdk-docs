@@ -8,18 +8,8 @@
 ```csharp
 public bool ShowIDInTooltip { get; set; }
 ```
-```vb
-Public Property ShowIDInTooltip As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ShowIDInTooltip {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

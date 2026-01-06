@@ -15,21 +15,8 @@ public void SetCondType(
 	BaseBody sheet
 )
 ```
-```vb
-Public Sub SetCondType ( 
-	t As TFBoundCondType,
-	isFirst As Boolean,
-	sheet As BaseBody
-)
-```
-```cpp
-public:
-void SetCondType(
-	TFBoundCondType t, 
-	bool isFirst, 
-	BaseBody^ sheet
-)
-```
+
+
 
 
 #### Параметры

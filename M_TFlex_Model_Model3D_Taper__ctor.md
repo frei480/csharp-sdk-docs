@@ -13,17 +13,8 @@ public Taper(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-Taper(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

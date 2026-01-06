@@ -13,12 +13,8 @@
 ```csharp
 public static class StandardColors
 ```
-```vb
-Public NotInheritable Class StandardColors
-```
-```cpp
-public ref class StandardColors abstract sealed
-```
+
+
 
 
 Тип StandardColors предоставляет следующие члены.

@@ -10,20 +10,8 @@ public virtual T this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Overridable Default Property Item ( 
-	index As Integer
-) As T
-	Get
-	Set
-```
-```cpp
-public:
-virtual property T default[int index] {
-	T get (int index);
-	void set (int index, T value);
-}
-```
+
+
 
 
 #### Параметры

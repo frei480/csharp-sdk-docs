@@ -10,17 +10,8 @@ protected virtual bool CreateView(
 	bool b3D
 )
 ```
-```vb
-Protected Overridable Function CreateView ( 
-	b3D As Boolean
-) As Boolean
-```
-```cpp
-protected:
-virtual bool CreateView(
-	bool b3D
-)
-```
+
+
 
 
 #### Параметры

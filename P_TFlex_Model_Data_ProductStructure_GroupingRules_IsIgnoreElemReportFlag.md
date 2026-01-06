@@ -8,18 +8,8 @@
 ```csharp
 public bool IsIgnoreElemReportFlag { get; set; }
 ```
-```vb
-Public Property IsIgnoreElemReportFlag As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsIgnoreElemReportFlag {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

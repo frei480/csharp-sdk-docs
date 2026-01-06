@@ -13,17 +13,8 @@ public void AddEditFragmentVariablesAction(
 	string filePath
 )
 ```
-```vb
-Public Sub AddEditFragmentVariablesAction ( 
-	filePath As String
-)
-```
-```cpp
-public:
-void AddEditFragmentVariablesAction(
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

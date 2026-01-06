@@ -8,18 +8,8 @@
 ```csharp
 public virtual CustomFilter Filter { get; set; }
 ```
-```vb
-Public Overridable Property Filter As CustomFilter
-	Get
-	Set
-```
-```cpp
-public:
-virtual property CustomFilter^ Filter {
-	CustomFilter^ get ();
-	void set (CustomFilter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

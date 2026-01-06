@@ -13,17 +13,8 @@ public void UInsert(
 	uint Index
 )
 ```
-```vb
-Public Sub UInsert ( 
-	Index As UInteger
-)
-```
-```cpp
-public:
-void UInsert(
-	unsigned int Index
-)
-```
+
+
 
 
 #### Параметры

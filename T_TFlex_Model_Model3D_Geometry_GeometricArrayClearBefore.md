@@ -10,16 +10,8 @@ public delegate void GeometricArrayClearBefore(
 	int to
 )
 ```
-```vb
-Public Delegate Sub GeometricArrayClearBefore ( 
-	to As Integer
-)
-```
-```cpp
-public delegate void GeometricArrayClearBefore(
-	int to
-)
-```
+
+
 
 
 #### Параметры

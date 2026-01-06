@@ -14,19 +14,8 @@ public DimensionsChainElement(
 	Dimension3DElementType ElementType
 )
 ```
-```vb
-Public Sub New ( 
-	Element As Object3D,
-	ElementType As Dimension3DElementType
-)
-```
-```cpp
-public:
-DimensionsChainElement(
-	Object3D^ Element, 
-	Dimension3DElementType ElementType
-)
-```
+
+
 
 
 #### Параметры

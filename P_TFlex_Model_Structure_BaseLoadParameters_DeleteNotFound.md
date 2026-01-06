@@ -8,18 +8,8 @@
 ```csharp
 public bool DeleteNotFound { get; set; }
 ```
-```vb
-Public Property DeleteNotFound As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DeleteNotFound {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

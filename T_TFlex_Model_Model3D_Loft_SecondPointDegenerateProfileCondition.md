@@ -13,13 +13,8 @@
 ```csharp
 public class SecondPointDegenerateProfileCondition : LoftDegenerateProfileCondition
 ```
-```vb
-Public Class SecondPointDegenerateProfileCondition
-	Inherits LoftDegenerateProfileCondition
-```
-```cpp
-public ref class SecondPointDegenerateProfileCondition : public LoftDegenerateProfileCondition
-```
+
+
 
 
 Тип LoftSecondPointDegenerateProfileCondition предоставляет следующие члены.

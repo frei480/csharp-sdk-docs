@@ -13,13 +13,8 @@
 ```csharp
 public class ListControlContextMenuOpeningEventArgs : BaseEventArgs
 ```
-```vb
-Public Class ListControlContextMenuOpeningEventArgs
-	Inherits BaseEventArgs
-```
-```cpp
-public ref class ListControlContextMenuOpeningEventArgs : public BaseEventArgs
-```
+
+
 
 
 Тип ListControlContextMenuOpeningEventArgs предоставляет следующие члены.

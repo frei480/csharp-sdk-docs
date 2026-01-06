@@ -11,18 +11,8 @@
 ```csharp
 public ListControlModel Model { get; set; }
 ```
-```vb
-Public Property Model As ListControlModel
-	Get
-	Set
-```
-```cpp
-public:
-property ListControlModel^ Model {
-	ListControlModel^ get ();
-	void set (ListControlModel^ value);
-}
-```
+
+
 
 
 #### Значение свойства

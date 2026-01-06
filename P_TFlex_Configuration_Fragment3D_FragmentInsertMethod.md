@@ -8,18 +8,8 @@
 ```csharp
 public FragmentInsertMethodType FragmentInsertMethod { get; set; }
 ```
-```vb
-Public Property FragmentInsertMethod As FragmentInsertMethodType
-	Get
-	Set
-```
-```cpp
-public:
-property FragmentInsertMethodType FragmentInsertMethod {
-	FragmentInsertMethodType get ();
-	void set (FragmentInsertMethodType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -10,17 +10,8 @@ public virtual void AssignBaseOptions(
 	SettingsGroup source
 )
 ```
-```vb
-Public Overridable Sub AssignBaseOptions ( 
-	source As SettingsGroup
-)
-```
-```cpp
-public:
-virtual void AssignBaseOptions(
-	SettingsGroup^ source
-)
-```
+
+
 
 
 #### Параметры

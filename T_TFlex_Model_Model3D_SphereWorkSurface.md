@@ -13,13 +13,8 @@
 ```csharp
 public class SphereWorkSurface : SpatialWorkSurface
 ```
-```vb
-Public Class SphereWorkSurface
-	Inherits SpatialWorkSurface
-```
-```cpp
-public ref class SphereWorkSurface : public SpatialWorkSurface
-```
+
+
 
 
 Тип SphereWorkSurface предоставляет следующие члены.

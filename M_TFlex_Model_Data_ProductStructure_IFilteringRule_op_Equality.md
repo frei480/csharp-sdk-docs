@@ -11,19 +11,8 @@ public static bool operator ==(
 	IFilteringRule right
 )
 ```
-```vb
-Public Shared Operator = ( 
-	left As IFilteringRule,
-	right As IFilteringRule
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	IFilteringRule^ left, 
-	IFilteringRule^ right
-)
-```
+
+
 
 
 #### Параметры

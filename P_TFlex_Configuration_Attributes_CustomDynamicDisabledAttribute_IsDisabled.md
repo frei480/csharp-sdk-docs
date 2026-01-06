@@ -8,18 +8,8 @@
 ```csharp
 public Func<Object, bool> IsDisabled { get; set; }
 ```
-```vb
-Public Property IsDisabled As Func(Of Object, Boolean)
-	Get
-	Set
-```
-```cpp
-public:
-property Func<Object^, bool>^ IsDisabled {
-	Func<Object^, bool>^ get ();
-	void set (Func<Object^, bool>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

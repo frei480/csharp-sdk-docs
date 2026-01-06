@@ -9,14 +9,8 @@
 [FlagsAttribute]
 public enum FilterOptions
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration FilterOptions
-```
-```cpp
-[FlagsAttribute]
-public enum class FilterOptions
-```
+
+
 
 
 | Имя члена | Значение | Описание |

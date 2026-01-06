@@ -11,18 +11,8 @@
 ```csharp
 public int DegreeCode { get; set; }
 ```
-```vb
-Public Property DegreeCode As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int DegreeCode {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

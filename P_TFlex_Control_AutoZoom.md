@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool AutoZoom { get; set; }
 ```
-```vb
-Public Overridable Property AutoZoom As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool AutoZoom {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

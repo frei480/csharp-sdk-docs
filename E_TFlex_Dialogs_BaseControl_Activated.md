@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<BaseEventArgs> Activated
 ```
-```vb
-Public Event Activated As EventHandler(Of BaseEventArgs)
-```
-```cpp
-public:
- event EventHandler<BaseEventArgs^>^ Activated {
-	void add (EventHandler<BaseEventArgs^>^ value);
-	void remove (EventHandler<BaseEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

@@ -11,18 +11,8 @@
 ```csharp
 public UIElement Element { get; set; }
 ```
-```vb
-Public Property Element As UIElement
-	Get
-	Set
-```
-```cpp
-public:
-property UIElement^ Element {
-	UIElement^ get ();
-	void set (UIElement^ value);
-}
-```
+
+
 
 
 #### Значение свойства

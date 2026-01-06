@@ -13,13 +13,8 @@
 ```csharp
 public class AuxiliaryWorkplane : Model2DWorkplane
 ```
-```vb
-Public Class AuxiliaryWorkplane
-	Inherits Model2DWorkplane
-```
-```cpp
-public ref class AuxiliaryWorkplane : public Model2DWorkplane
-```
+
+
 
 
 Тип AuxiliaryWorkplane предоставляет следующие члены.

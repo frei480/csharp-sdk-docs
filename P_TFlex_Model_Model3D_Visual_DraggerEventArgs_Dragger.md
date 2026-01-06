@@ -8,16 +8,8 @@
 ```csharp
 public Dragger Dragger { get; }
 ```
-```vb
-Public ReadOnly Property Dragger As Dragger
-	Get
-```
-```cpp
-public:
-property Dragger^ Dragger {
-	Dragger^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

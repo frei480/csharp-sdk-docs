@@ -11,12 +11,8 @@
 ```csharp
 public enum ImprintMethod
 ```
-```vb
-Public Enumeration ImprintMethod
-```
-```cpp
-public enum class ImprintMethod
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -13,17 +13,8 @@ public int FindChild(
 	SceneNode node
 )
 ```
-```vb
-Public Function FindChild ( 
-	node As SceneNode
-) As Integer
-```
-```cpp
-public:
-int FindChild(
-	SceneNode^ node
-)
-```
+
+
 
 
 #### Параметры

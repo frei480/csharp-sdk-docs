@@ -11,12 +11,8 @@
 ```csharp
 public enum InnerContour
 ```
-```vb
-Public Enumeration InnerContour
-```
-```cpp
-public enum class InnerContour
-```
+
+
 
 
 | Имя члена | Значение | Описание |

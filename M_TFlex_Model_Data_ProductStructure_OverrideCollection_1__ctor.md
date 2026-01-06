@@ -11,13 +11,8 @@
 ```csharp
 protected OverrideCollection()
 ```
-```vb
-Protected Sub New
-```
-```cpp
-protected:
-OverrideCollection()
-```
+
+
 
 
 #### Ссылки

@@ -11,13 +11,8 @@
 ```csharp
 public AttributeParameterProvider()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-AttributeParameterProvider()
-```
+
+
 
 
 #### Ссылки

@@ -8,18 +8,8 @@
 ```csharp
 public CompoundStringParameter TextAfter { get; set; }
 ```
-```vb
-Public Property TextAfter As CompoundStringParameter
-	Get
-	Set
-```
-```cpp
-public:
-property CompoundStringParameter^ TextAfter {
-	CompoundStringParameter^ get ();
-	void set (CompoundStringParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

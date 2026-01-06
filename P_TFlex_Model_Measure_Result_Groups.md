@@ -8,18 +8,8 @@
 ```csharp
 public List<Group> Groups { get; set; }
 ```
-```vb
-Public Property Groups As List(Of Group)
-	Get
-	Set
-```
-```cpp
-public:
-property List<Group^>^ Groups {
-	List<Group^>^ get ();
-	void set (List<Group^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

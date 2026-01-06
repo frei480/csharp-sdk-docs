@@ -8,16 +8,8 @@
 ```csharp
 public ObjectId CurrentT { get; }
 ```
-```vb
-Public ReadOnly Property CurrentT As ObjectId
-	Get
-```
-```cpp
-public:
-virtual property ObjectId^ CurrentT {
-	ObjectId^ get () sealed;
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Documents : IEnumerable<Document>
 ```
-```vb
-Public NotInheritable Class Documents
-	Implements IEnumerable(Of Document)
-```
-```cpp
-public ref class Documents sealed : IEnumerable<Document^>
-```
+
+
 
 
 Тип Documents предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public string TextUnderLeader { get; set; }
 ```
-```vb
-Public Property TextUnderLeader As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TextUnderLeader {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

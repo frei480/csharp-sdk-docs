@@ -11,18 +11,8 @@
 ```csharp
 public uint Rank { get; set; }
 ```
-```vb
-Public Property Rank As UInteger
-	Get
-	Set
-```
-```cpp
-public:
-property unsigned int Rank {
-	unsigned int get ();
-	void set (unsigned int value);
-}
-```
+
+
 
 
 #### Значение свойства

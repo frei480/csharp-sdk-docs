@@ -11,18 +11,8 @@
 ```csharp
 public bool ImportLines3DToPaths3D { get; set; }
 ```
-```vb
-Public Property ImportLines3DToPaths3D As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ImportLines3DToPaths3D {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

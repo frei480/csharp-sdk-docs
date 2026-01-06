@@ -8,12 +8,8 @@
 ```csharp
 public enum ParamDataGenerType
 ```
-```vb
-Public Enumeration ParamDataGenerType
-```
-```cpp
-public enum class ParamDataGenerType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

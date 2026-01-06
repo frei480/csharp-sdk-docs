@@ -13,17 +13,8 @@ public Table CreateTable(
 	TableCreationSettings settings
 )
 ```
-```vb
-Public Function CreateTable ( 
-	settings As TableCreationSettings
-) As Table
-```
-```cpp
-public:
-Table CreateTable(
-	TableCreationSettings settings
-)
-```
+
+
 
 
 #### Параметры

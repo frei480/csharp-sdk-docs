@@ -15,21 +15,8 @@ public int AddEdgesByVertex(
 	bool common
 )
 ```
-```vb
-Public Function AddEdgesByVertex ( 
-	vertex As ModelVertex,
-	distance As Parameter,
-	common As Boolean
-) As Integer
-```
-```cpp
-public:
-int AddEdgesByVertex(
-	ModelVertex^ vertex, 
-	Parameter^ distance, 
-	bool common
-)
-```
+
+
 
 
 #### Параметры

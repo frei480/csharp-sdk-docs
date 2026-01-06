@@ -8,18 +8,8 @@
 ```csharp
 public bool DontShowProjectionsWarning { get; set; }
 ```
-```vb
-Public Property DontShowProjectionsWarning As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool DontShowProjectionsWarning {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

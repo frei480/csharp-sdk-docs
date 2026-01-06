@@ -10,17 +10,8 @@ protected override void ReadXml(
 	XmlElement element
 )
 ```
-```vb
-Protected Overrides Sub ReadXml ( 
-	element As XmlElement
-)
-```
-```cpp
-protected:
-virtual void ReadXml(
-	XmlElement^ element
-) override
-```
+
+
 
 
 #### Параметры

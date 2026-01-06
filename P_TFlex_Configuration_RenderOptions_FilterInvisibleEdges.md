@@ -8,18 +8,8 @@
 ```csharp
 public bool FilterInvisibleEdges { get; set; }
 ```
-```vb
-Public Property FilterInvisibleEdges As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool FilterInvisibleEdges {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

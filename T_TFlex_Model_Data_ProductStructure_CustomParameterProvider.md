@@ -11,13 +11,8 @@
 ```csharp
 public class CustomParameterProvider : IParameterProvider
 ```
-```vb
-Public Class CustomParameterProvider
-	Inherits IParameterProvider
-```
-```cpp
-public ref class CustomParameterProvider : public IParameterProvider
-```
+
+
 
 
 Тип CustomParameterProvider предоставляет следующие члены.

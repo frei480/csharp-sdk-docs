@@ -11,18 +11,8 @@
 ```csharp
 public bool ConvertLineText { get; set; }
 ```
-```vb
-Public Property ConvertLineText As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ConvertLineText {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

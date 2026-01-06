@@ -14,19 +14,8 @@ public Fragment3D(
 	Workplane workplane
 )
 ```
-```vb
-Public Sub New ( 
-	fragment As Fragment,
-	workplane As Workplane
-)
-```
-```cpp
-public:
-Fragment3D(
-	Fragment^ fragment, 
-	Workplane^ workplane
-)
-```
+
+
 
 
 #### Параметры

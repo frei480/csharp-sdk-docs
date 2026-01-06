@@ -8,18 +8,8 @@
 ```csharp
 public bool SearchForIdentical { get; set; }
 ```
-```vb
-Public Property SearchForIdentical As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SearchForIdentical {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

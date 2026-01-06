@@ -11,12 +11,8 @@
 ```csharp
 public enum ImportSTEPFormat
 ```
-```vb
-Public Enumeration ImportSTEPFormat
-```
-```cpp
-public enum class ImportSTEPFormat
-```
+
+
 
 
 | Имя члена | Значение | Описание |

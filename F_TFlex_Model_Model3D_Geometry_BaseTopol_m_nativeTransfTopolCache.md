@@ -8,13 +8,8 @@
 ```csharp
 protected int m_nativeTransfTopolCache
 ```
-```vb
-Protected m_nativeTransfTopolCache As Integer
-```
-```cpp
-protected:
-int m_nativeTransfTopolCache
-```
+
+
 
 
 #### Значение поля

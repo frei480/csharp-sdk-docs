@@ -11,18 +11,8 @@
 ```csharp
 public CopyBaseOperation2Mode CopyMode { get; set; }
 ```
-```vb
-Public Property CopyMode As CopyBaseOperation2Mode
-	Get
-	Set
-```
-```cpp
-public:
-property CopyBaseOperation2Mode CopyMode {
-	CopyBaseOperation2Mode get ();
-	void set (CopyBaseOperation2Mode value);
-}
-```
+
+
 
 
 #### Значение свойства

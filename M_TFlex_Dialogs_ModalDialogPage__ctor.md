@@ -11,13 +11,8 @@
 ```csharp
 public ModalDialogPage()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ModalDialogPage()
-```
+
+
 
 
 #### Ссылки

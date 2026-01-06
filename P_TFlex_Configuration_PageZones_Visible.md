@@ -8,18 +8,8 @@
 ```csharp
 public VisibleZoneType Visible { get; set; }
 ```
-```vb
-Public Property Visible As VisibleZoneType
-	Get
-	Set
-```
-```cpp
-public:
-property VisibleZoneType Visible {
-	VisibleZoneType get ();
-	void set (VisibleZoneType value);
-}
-```
+
+
 
 
 #### Значение свойства

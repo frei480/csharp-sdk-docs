@@ -11,18 +11,8 @@
 ```csharp
 public string ExportInfo { get; set; }
 ```
-```vb
-Public Property ExportInfo As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ExportInfo {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

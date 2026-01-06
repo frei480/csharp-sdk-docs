@@ -13,17 +13,8 @@ public static string FindPathName(
 	string fileName
 )
 ```
-```vb
-Public Shared Function FindPathName ( 
-	fileName As String
-) As String
-```
-```cpp
-public:
-static String^ FindPathName(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

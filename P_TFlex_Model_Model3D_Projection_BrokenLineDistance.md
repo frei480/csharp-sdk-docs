@@ -11,18 +11,8 @@
 ```csharp
 public Parameter BrokenLineDistance { get; set; }
 ```
-```vb
-Public Property BrokenLineDistance As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ BrokenLineDistance {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public class ProductStructItem
 ```
-```vb
-Public Class ProductStructItem
-```
-```cpp
-public ref class ProductStructItem
-```
+
+
 
 
 Тип ItemResultNodeProductStructItem предоставляет следующие члены.

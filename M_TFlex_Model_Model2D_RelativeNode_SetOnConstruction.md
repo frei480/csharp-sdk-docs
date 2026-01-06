@@ -15,21 +15,8 @@ public void SetOnConstruction(
 	Parameter distance
 )
 ```
-```vb
-Public Sub SetOnConstruction ( 
-	parentNode As Node,
-	srcConstruction As Construction,
-	distance As Parameter
-)
-```
-```cpp
-public:
-void SetOnConstruction(
-	Node^ parentNode, 
-	Construction^ srcConstruction, 
-	Parameter^ distance
-)
-```
+
+
 
 
 #### Параметры

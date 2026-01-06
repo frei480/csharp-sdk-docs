@@ -15,21 +15,8 @@ public void SetToolTip(
 	Object toolTip
 )
 ```
-```vb
-Public Sub SetToolTip ( 
-	row As Integer,
-	column As Integer,
-	toolTip As Object
-)
-```
-```cpp
-public:
-void SetToolTip(
-	int row, 
-	int column, 
-	Object^ toolTip
-)
-```
+
+
 
 
 #### Параметры

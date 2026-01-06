@@ -13,17 +13,8 @@ public TableCellProperties GetCellProperties(
 	uint cell
 )
 ```
-```vb
-Public Function GetCellProperties ( 
-	cell As UInteger
-) As TableCellProperties
-```
-```cpp
-public:
-TableCellProperties GetCellProperties(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

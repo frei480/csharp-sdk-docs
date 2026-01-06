@@ -11,13 +11,8 @@
 ```csharp
 public class CurveRepresentation : SingleObjectRepresentation
 ```
-```vb
-Public Class CurveRepresentation
-	Inherits SingleObjectRepresentation
-```
-```cpp
-public ref class CurveRepresentation : public SingleObjectRepresentation
-```
+
+
 
 
 Тип CurveRepresentation предоставляет следующие члены.

@@ -15,21 +15,8 @@ public MeshPoint FindNearByLength(
 	bool workingspace
 )
 ```
-```vb
-Public Function FindNearByLength ( 
-	axis As Axis,
-	hotdistance As Double,
-	workingspace As Boolean
-) As MeshPoint
-```
-```cpp
-public:
-MeshPoint^ FindNearByLength(
-	Axis^ axis, 
-	double hotdistance, 
-	bool workingspace
-)
-```
+
+
 
 
 #### Параметры

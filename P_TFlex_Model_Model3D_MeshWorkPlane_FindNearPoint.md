@@ -11,18 +11,8 @@
 ```csharp
 public bool FindNearPoint { get; set; }
 ```
-```vb
-Public Property FindNearPoint As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool FindNearPoint {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,19 +14,8 @@ public void SetHeaderToolTip(
 	string toolTip
 )
 ```
-```vb
-Public Sub SetHeaderToolTip ( 
-	column As Integer,
-	toolTip As String
-)
-```
-```cpp
-public:
-void SetHeaderToolTip(
-	int column, 
-	String^ toolTip
-)
-```
+
+
 
 
 #### Параметры

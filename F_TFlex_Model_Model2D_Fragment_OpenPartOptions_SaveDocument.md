@@ -11,13 +11,8 @@
 ```csharp
 public bool SaveDocument
 ```
-```vb
-Public SaveDocument As Boolean
-```
-```cpp
-public:
-bool SaveDocument
-```
+
+
 
 
 #### Значение поля

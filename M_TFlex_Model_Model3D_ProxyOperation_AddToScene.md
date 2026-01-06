@@ -11,13 +11,8 @@
 ```csharp
 protected virtual bool AddToScene()
 ```
-```vb
-Protected Overridable Function AddToScene As Boolean
-```
-```cpp
-protected:
-virtual bool AddToScene()
-```
+
+
 
 
 #### Возвращаемое значение

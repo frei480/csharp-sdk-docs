@@ -13,13 +13,8 @@
 ```csharp
 public class WorkplaneNode3D : Node3D
 ```
-```vb
-Public Class WorkplaneNode3D
-	Inherits Node3D
-```
-```cpp
-public ref class WorkplaneNode3D : public Node3D
-```
+
+
 
 
 Тип WorkplaneNode3D предоставляет следующие члены.

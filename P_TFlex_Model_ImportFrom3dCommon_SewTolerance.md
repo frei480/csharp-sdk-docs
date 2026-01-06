@@ -11,18 +11,8 @@
 ```csharp
 public double SewTolerance { get; set; }
 ```
-```vb
-Public Property SewTolerance As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double SewTolerance {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

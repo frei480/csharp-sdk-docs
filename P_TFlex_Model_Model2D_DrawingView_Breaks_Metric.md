@@ -11,18 +11,8 @@
 ```csharp
 public DrawingViewBreakPositionsMetric Metric { get; set; }
 ```
-```vb
-Public Property Metric As DrawingViewBreakPositionsMetric
-	Get
-	Set
-```
-```cpp
-public:
-property DrawingViewBreakPositionsMetric Metric {
-	DrawingViewBreakPositionsMetric get ();
-	void set (DrawingViewBreakPositionsMetric value);
-}
-```
+
+
 
 
 #### Значение свойства

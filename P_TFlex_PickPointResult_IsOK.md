@@ -11,18 +11,8 @@
 ```csharp
 public bool IsOK { get; set; }
 ```
-```vb
-Public Property IsOK As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsOK {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

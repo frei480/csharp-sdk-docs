@@ -11,13 +11,8 @@
 ```csharp
 public bool ShowVariablesDialog()
 ```
-```vb
-Public Function ShowVariablesDialog As Boolean
-```
-```cpp
-public:
-bool ShowVariablesDialog()
-```
+
+
 
 
 #### Возвращаемое значение

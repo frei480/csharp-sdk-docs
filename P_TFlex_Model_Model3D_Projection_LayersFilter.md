@@ -8,18 +8,8 @@
 ```csharp
 public ProjectionLayersType LayersFilter { get; set; }
 ```
-```vb
-Public Property LayersFilter As ProjectionLayersType
-	Get
-	Set
-```
-```cpp
-public:
-property ProjectionLayersType LayersFilter {
-	ProjectionLayersType get ();
-	void set (ProjectionLayersType value);
-}
-```
+
+
 
 
 #### Значение свойства

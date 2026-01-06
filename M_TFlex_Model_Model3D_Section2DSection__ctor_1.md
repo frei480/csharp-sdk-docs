@@ -14,19 +14,8 @@ public Section2DSection(
 	Page page
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	page As Page
-)
-```
-```cpp
-public:
-Section2DSection(
-	Document^ Doc, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

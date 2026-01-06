@@ -8,16 +8,8 @@
 ```csharp
 public bool IsOptimizationRunning { get; }
 ```
-```vb
-Public ReadOnly Property IsOptimizationRunning As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsOptimizationRunning {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

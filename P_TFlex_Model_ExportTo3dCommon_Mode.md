@@ -11,18 +11,8 @@
 ```csharp
 public ExportTo3dMode Mode { get; set; }
 ```
-```vb
-Public Property Mode As ExportTo3dMode
-	Get
-	Set
-```
-```cpp
-public:
-property ExportTo3dMode Mode {
-	ExportTo3dMode get ();
-	void set (ExportTo3dMode value);
-}
-```
+
+
 
 
 #### Значение свойства

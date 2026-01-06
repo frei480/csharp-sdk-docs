@@ -13,13 +13,8 @@
 ```csharp
 public class Piramida : Primitive
 ```
-```vb
-Public Class Piramida
-	Inherits Primitive
-```
-```cpp
-public ref class Piramida : public Primitive
-```
+
+
 
 
 Тип Piramida предоставляет следующие члены.

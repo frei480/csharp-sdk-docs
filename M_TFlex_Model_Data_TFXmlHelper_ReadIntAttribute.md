@@ -12,23 +12,8 @@ public static int ReadIntAttribute(
 	int defValue = 0
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function ReadIntAttribute ( 
-	element As XmlElement,
-	attrName As String,
-	Optional defValue As Integer = 0
-) As Integer
-```
-```cpp
-public:
-[ExtensionAttribute]
-static int ReadIntAttribute(
-	XmlElement^ element, 
-	String^ attrName, 
-	int defValue = 0
-)
-```
+
+
 
 
 #### Параметры

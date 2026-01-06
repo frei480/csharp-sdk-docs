@@ -11,13 +11,8 @@
 ```csharp
 public class Specification : SettingsGroup
 ```
-```vb
-Public Class Specification
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Specification : public SettingsGroup
-```
+
+
 
 
 Тип Specification предоставляет следующие члены.

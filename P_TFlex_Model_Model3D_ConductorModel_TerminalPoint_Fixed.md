@@ -8,16 +8,8 @@
 ```csharp
 public bool Fixed { get; }
 ```
-```vb
-Public ReadOnly Property Fixed As Boolean
-	Get
-```
-```cpp
-public:
-property bool Fixed {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

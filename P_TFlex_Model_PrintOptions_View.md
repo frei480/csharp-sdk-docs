@@ -11,18 +11,8 @@
 ```csharp
 public View View { get; set; }
 ```
-```vb
-Public Property View As View
-	Get
-	Set
-```
-```cpp
-public:
-property View^ View {
-	View^ get ();
-	void set (View^ value);
-}
-```
+
+
 
 
 #### Значение свойства

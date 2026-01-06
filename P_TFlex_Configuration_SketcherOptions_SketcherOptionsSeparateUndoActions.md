@@ -8,18 +8,8 @@
 ```csharp
 public bool SketcherOptionsSeparateUndoActions { get; set; }
 ```
-```vb
-Public Property SketcherOptionsSeparateUndoActions As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SketcherOptionsSeparateUndoActions {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

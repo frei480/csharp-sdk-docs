@@ -13,17 +13,8 @@ public Direction Normal(
 	UV uv
 )
 ```
-```vb
-Public Function Normal ( 
-	uv As UV
-) As Direction
-```
-```cpp
-public:
-Direction^ Normal(
-	UV uv
-)
-```
+
+
 
 
 #### Параметры

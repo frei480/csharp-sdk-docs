@@ -13,17 +13,8 @@ public bool Add(
 	ModelObject object
 )
 ```
-```vb
-Public Function Add ( 
-	object As ModelObject
-) As Boolean
-```
-```cpp
-public:
-bool Add(
-	ModelObject^ object
-)
-```
+
+
 
 
 #### Параметры

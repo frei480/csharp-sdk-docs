@@ -14,19 +14,8 @@ public OutlineContourSegment(
 	int index
 )
 ```
-```vb
-Public Sub New ( 
-	source As Contour,
-	index As Integer
-)
-```
-```cpp
-public:
-OutlineContourSegment(
-	Contour^ source, 
-	int index
-)
-```
+
+
 
 
 #### Параметры

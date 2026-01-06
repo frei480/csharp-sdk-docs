@@ -10,17 +10,8 @@ public IParameterProvider GetParameterProvider(
 	Guid rowID
 )
 ```
-```vb
-Public Function GetParameterProvider ( 
-	rowID As Guid
-) As IParameterProvider
-```
-```cpp
-public:
-IParameterProvider^ GetParameterProvider(
-	Guid rowID
-)
-```
+
+
 
 
 #### Параметры

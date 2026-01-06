@@ -8,18 +8,8 @@
 ```csharp
 public ModelObject ObjectInEdit { get; set; }
 ```
-```vb
-Public Property ObjectInEdit As ModelObject
-	Get
-	Set
-```
-```cpp
-public:
-property ModelObject^ ObjectInEdit {
-	ModelObject^ get ();
-	void set (ModelObject^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public class IconImage
 ```
-```vb
-Public Class IconImage
-```
-```cpp
-public ref class IconImage
-```
+
+
 
 
 Тип IconImage предоставляет следующие члены.

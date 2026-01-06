@@ -8,12 +8,8 @@
 ```csharp
 public enum ValueEditor
 ```
-```vb
-Public Enumeration ValueEditor
-```
-```cpp
-public enum class ValueEditor
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -14,19 +14,8 @@ public void SetFixingNode(
 	Node node
 )
 ```
-```vb
-Public Sub SetFixingNode ( 
-	index As Integer,
-	node As Node
-)
-```
-```cpp
-public:
-void SetFixingNode(
-	int index, 
-	Node^ node
-)
-```
+
+
 
 
 #### Параметры

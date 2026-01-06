@@ -13,13 +13,8 @@
 ```csharp
 public class SymmetryCopy : CopyOperation
 ```
-```vb
-Public Class SymmetryCopy
-	Inherits CopyOperation
-```
-```cpp
-public ref class SymmetryCopy : public CopyOperation
-```
+
+
 
 
 Тип SymmetryCopy предоставляет следующие члены.

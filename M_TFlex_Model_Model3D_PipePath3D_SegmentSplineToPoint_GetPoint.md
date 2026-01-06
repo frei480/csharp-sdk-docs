@@ -13,17 +13,8 @@ public PipePath3DPointSplineToPoint GetPoint(
 	int indexPoint
 )
 ```
-```vb
-Public Function GetPoint ( 
-	indexPoint As Integer
-) As PipePath3DPointSplineToPoint
-```
-```cpp
-public:
-PipePath3DPointSplineToPoint^ GetPoint(
-	int indexPoint
-)
-```
+
+
 
 
 #### Параметры

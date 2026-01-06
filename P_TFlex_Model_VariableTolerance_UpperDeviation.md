@@ -8,16 +8,8 @@
 ```csharp
 public Parameter UpperDeviation { get; }
 ```
-```vb
-Public ReadOnly Property UpperDeviation As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ UpperDeviation {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

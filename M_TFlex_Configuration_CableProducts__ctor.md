@@ -11,13 +11,8 @@
 ```csharp
 public CableProducts()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CableProducts()
-```
+
+
 
 
 #### Ссылки

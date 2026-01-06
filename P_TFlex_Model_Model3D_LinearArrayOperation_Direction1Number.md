@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Direction1Number { get; set; }
 ```
-```vb
-Public Property Direction1Number As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Direction1Number {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

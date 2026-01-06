@@ -13,17 +13,8 @@ public bool RemoveChild(
 	SceneNode node
 )
 ```
-```vb
-Public Function RemoveChild ( 
-	node As SceneNode
-) As Boolean
-```
-```cpp
-public:
-bool RemoveChild(
-	SceneNode^ node
-)
-```
+
+
 
 
 #### Параметры

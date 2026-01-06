@@ -11,16 +11,8 @@
 ```csharp
 public virtual string ProductName { get; }
 ```
-```vb
-Public Overridable ReadOnly Property ProductName As String
-	Get
-```
-```cpp
-public:
-virtual property String^ ProductName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

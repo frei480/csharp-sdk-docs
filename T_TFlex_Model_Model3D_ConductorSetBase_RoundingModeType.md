@@ -8,12 +8,8 @@
 ```csharp
 public enum RoundingModeType
 ```
-```vb
-Public Enumeration RoundingModeType
-```
-```cpp
-public enum class RoundingModeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

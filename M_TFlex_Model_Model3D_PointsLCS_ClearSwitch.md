@@ -11,13 +11,8 @@
 ```csharp
 public void ClearSwitch()
 ```
-```vb
-Public Sub ClearSwitch
-```
-```cpp
-public:
-void ClearSwitch()
-```
+
+
 
 
 #### Ссылки

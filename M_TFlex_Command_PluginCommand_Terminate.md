@@ -11,13 +11,8 @@
 ```csharp
 public void Terminate()
 ```
-```vb
-Public Sub Terminate
-```
-```cpp
-public:
-void Terminate()
-```
+
+
 
 
 #### Ссылки

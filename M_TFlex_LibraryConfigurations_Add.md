@@ -13,17 +13,8 @@ public void Add(
 	LibraryConfiguration configuration
 )
 ```
-```vb
-Public Sub Add ( 
-	configuration As LibraryConfiguration
-)
-```
-```cpp
-public:
-void Add(
-	LibraryConfiguration^ configuration
-)
-```
+
+
 
 
 #### Параметры

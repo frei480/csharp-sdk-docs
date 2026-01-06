@@ -14,18 +14,8 @@ public delegate void ControlPageChanged(
 	ControlEventArgs e
 )
 ```
-```vb
-Public Delegate Sub ControlPageChanged ( 
-	sender As Object,
-	e As ControlEventArgs
-)
-```
-```cpp
-public delegate void ControlPageChanged(
-	Object^ sender, 
-	ControlEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

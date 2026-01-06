@@ -11,18 +11,8 @@
 ```csharp
 public BoundedExtrusionGeneratorBound Start { get; set; }
 ```
-```vb
-Public Property Start As BoundedExtrusionGeneratorBound
-	Get
-	Set
-```
-```cpp
-public:
-property BoundedExtrusionGeneratorBound^ Start {
-	BoundedExtrusionGeneratorBound^ get ();
-	void set (BoundedExtrusionGeneratorBound^ value);
-}
-```
+
+
 
 
 #### Значение свойства

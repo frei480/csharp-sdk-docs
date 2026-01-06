@@ -11,18 +11,8 @@ public delegate void TopolArrayMoveBefore(
 	int to
 )
 ```
-```vb
-Public Delegate Sub TopolArrayMoveBefore ( 
-	from As Integer,
-	to As Integer
-)
-```
-```cpp
-public delegate void TopolArrayMoveBefore(
-	int from, 
-	int to
-)
-```
+
+
 
 
 #### Параметры

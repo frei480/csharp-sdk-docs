@@ -11,18 +11,8 @@
 ```csharp
 public ImportFrom3dOption Heal { get; set; }
 ```
-```vb
-Public Property Heal As ImportFrom3dOption
-	Get
-	Set
-```
-```cpp
-public:
-property ImportFrom3dOption Heal {
-	ImportFrom3dOption get ();
-	void set (ImportFrom3dOption value);
-}
-```
+
+
 
 
 #### Значение свойства

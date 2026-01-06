@@ -11,16 +11,8 @@
 ```csharp
 public Path3DConvertToSplineData ConvertToSpline { get; }
 ```
-```vb
-Public ReadOnly Property ConvertToSpline As Path3DConvertToSplineData
-	Get
-```
-```cpp
-public:
-property Path3DConvertToSplineData^ ConvertToSpline {
-	Path3DConvertToSplineData^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

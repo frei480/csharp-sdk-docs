@@ -14,15 +14,8 @@
 [ObsoleteAttribute("This method is obsolete and will be removed. Please use 'IsValueFromConnectors' property.")]
 public void SetValueFromConnector()
 ```
-```vb
-<ObsoleteAttribute("This method is obsolete and will be removed. Please use 'IsValueFromConnectors' property.")>
-Public Sub SetValueFromConnector
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This method is obsolete and will be removed. Please use 'IsValueFromConnectors' property.")]
-void SetValueFromConnector()
-```
+
+
 
 
 #### Ссылки

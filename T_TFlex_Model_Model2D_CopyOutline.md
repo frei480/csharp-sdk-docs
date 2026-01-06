@@ -13,13 +13,8 @@
 ```csharp
 public class CopyOutline : Outline
 ```
-```vb
-Public Class CopyOutline
-	Inherits Outline
-```
-```cpp
-public ref class CopyOutline : public Outline
-```
+
+
 
 
 Тип CopyOutline предоставляет следующие члены.

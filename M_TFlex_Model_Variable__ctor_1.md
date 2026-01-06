@@ -14,19 +14,8 @@ public Variable(
 	bool isText
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	isText As Boolean
-)
-```
-```cpp
-public:
-Variable(
-	Document^ document, 
-	bool isText
-)
-```
+
+
 
 
 #### Параметры

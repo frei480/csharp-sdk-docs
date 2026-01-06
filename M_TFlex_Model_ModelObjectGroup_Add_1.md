@@ -13,17 +13,8 @@ public bool Add(
 	ModelObjectGroup group
 )
 ```
-```vb
-Public Function Add ( 
-	group As ModelObjectGroup
-) As Boolean
-```
-```cpp
-public:
-bool Add(
-	ModelObjectGroup^ group
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public void RestoreDeletedAssociatives()
 ```
-```vb
-Public Sub RestoreDeletedAssociatives
-```
-```cpp
-public:
-void RestoreDeletedAssociatives()
-```
+
+
 
 
 #### Ссылки

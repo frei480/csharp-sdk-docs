@@ -12,21 +12,8 @@ public static Data CreateBox(
 	Box box
 )
 ```
-```vb
-Public Shared Function CreateBox ( 
-	id As ULong,
-	name As String,
-	box As Box
-) As Data
-```
-```cpp
-public:
-static Data^ CreateBox(
-	unsigned long long id, 
-	String^ name, 
-	Box^ box
-)
-```
+
+
 
 
 #### Параметры

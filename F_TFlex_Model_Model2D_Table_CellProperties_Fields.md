@@ -11,13 +11,8 @@
 ```csharp
 public TableVertHorParams Fields
 ```
-```vb
-Public Fields As TableVertHorParams
-```
-```cpp
-public:
-TableVertHorParams Fields
-```
+
+
 
 
 #### Значение поля

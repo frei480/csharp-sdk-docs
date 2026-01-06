@@ -11,16 +11,8 @@
 ```csharp
 public string Zone { get; }
 ```
-```vb
-Public ReadOnly Property Zone As String
-	Get
-```
-```cpp
-public:
-property String^ Zone {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

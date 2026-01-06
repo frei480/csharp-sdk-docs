@@ -11,19 +11,8 @@ public static bool TransformMove(
 	ValueType delta
 )
 ```
-```vb
-Public Shared Function TransformMove ( 
-	Objects As List(Of Object2D),
-	delta As ValueType
-) As Boolean
-```
-```cpp
-public:
-static bool TransformMove(
-	List<Object2D^>^ Objects, 
-	ValueType^ delta
-)
-```
+
+
 
 
 #### Параметры

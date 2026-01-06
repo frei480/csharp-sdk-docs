@@ -10,16 +10,8 @@ public static implicit operator Object3DGeomReference (
 	ModelTopol topol
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	topol As ModelTopol
-) As Object3DGeomReference
-```
-```cpp
-static implicit operator Object3DGeomReference^ (
-	ModelTopol^ topol
-)
-```
+
+
 
 
 #### Параметры

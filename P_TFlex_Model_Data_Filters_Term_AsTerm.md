@@ -11,16 +11,8 @@
 ```csharp
 public override sealed Term AsTerm { get; }
 ```
-```vb
-Public Overrides NotOverridable ReadOnly Property AsTerm As Term
-	Get
-```
-```cpp
-public:
-virtual property Term^ AsTerm {
-	Term^ get () override sealed;
-}
-```
+
+
 
 
 #### Значение свойства

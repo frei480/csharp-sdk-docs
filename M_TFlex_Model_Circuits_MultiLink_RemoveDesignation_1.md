@@ -11,19 +11,8 @@ public override void RemoveDesignation(
 	DesignationType type
 )
 ```
-```vb
-Public Overrides Sub RemoveDesignation ( 
-	point As FixingVector,
-	type As DesignationType
-)
-```
-```cpp
-public:
-virtual void RemoveDesignation(
-	FixingVector^ point, 
-	DesignationType type
-) override
-```
+
+
 
 
 #### Параметры

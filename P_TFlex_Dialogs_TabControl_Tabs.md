@@ -11,16 +11,8 @@
 ```csharp
 public Collection<Tab> Tabs { get; }
 ```
-```vb
-Public ReadOnly Property Tabs As Collection(Of Tab)
-	Get
-```
-```cpp
-public:
-property Collection<Tab^>^ Tabs {
-	Collection<Tab^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

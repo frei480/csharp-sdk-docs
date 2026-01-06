@@ -8,18 +8,8 @@
 ```csharp
 public WorkplaneStandart WpStandart { get; set; }
 ```
-```vb
-Public Property WpStandart As WorkplaneStandart
-	Get
-	Set
-```
-```cpp
-public:
-property WorkplaneStandart WpStandart {
-	WorkplaneStandart get ();
-	void set (WorkplaneStandart value);
-}
-```
+
+
 
 
 #### Значение свойства

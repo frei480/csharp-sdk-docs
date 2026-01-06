@@ -12,21 +12,8 @@ public static bool ReplaceParents(
 	List<ModelObject> targetObjects
 )
 ```
-```vb
-Public Shared Function ReplaceParents ( 
-	document As Document,
-	sourceObjects As List(Of ModelObject),
-	targetObjects As List(Of ModelObject)
-) As Boolean
-```
-```cpp
-public:
-static bool ReplaceParents(
-	Document^ document, 
-	List<ModelObject^>^ sourceObjects, 
-	List<ModelObject^>^ targetObjects
-)
-```
+
+
 
 
 #### Параметры

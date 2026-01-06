@@ -11,18 +11,8 @@
 ```csharp
 public FormlimitsSymbolCompoundToleranceType CompoundTolerance { get; set; }
 ```
-```vb
-Public Property CompoundTolerance As FormlimitsSymbolCompoundToleranceType
-	Get
-	Set
-```
-```cpp
-public:
-property FormlimitsSymbolCompoundToleranceType CompoundTolerance {
-	FormlimitsSymbolCompoundToleranceType get ();
-	void set (FormlimitsSymbolCompoundToleranceType value);
-}
-```
+
+
 
 
 #### Значение свойства

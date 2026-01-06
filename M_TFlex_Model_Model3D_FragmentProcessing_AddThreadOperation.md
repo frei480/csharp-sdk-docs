@@ -8,13 +8,8 @@
 ```csharp
 public Thread AddThreadOperation()
 ```
-```vb
-Public Function AddThreadOperation As Thread
-```
-```cpp
-public:
-Thread^ AddThreadOperation()
-```
+
+
 
 
 #### Возвращаемое значение

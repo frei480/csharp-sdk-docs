@@ -14,18 +14,8 @@ public delegate void ControlRMouseDown(
 	ControlEventArgs e
 )
 ```
-```vb
-Public Delegate Sub ControlRMouseDown ( 
-	sender As Object,
-	e As ControlEventArgs
-)
-```
-```cpp
-public delegate void ControlRMouseDown(
-	Object^ sender, 
-	ControlEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

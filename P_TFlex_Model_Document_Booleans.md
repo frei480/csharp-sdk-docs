@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetBooleans' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer Booleans { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetBooleans' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property Booleans As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetBooleans' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ Booleans {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

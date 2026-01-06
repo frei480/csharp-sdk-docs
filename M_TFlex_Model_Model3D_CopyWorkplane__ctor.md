@@ -13,17 +13,8 @@ public CopyWorkplane(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-CopyWorkplane(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public ExportToDWG ExportToDWG { get; }
 ```
-```vb
-Public ReadOnly Property ExportToDWG As ExportToDWG
-	Get
-```
-```cpp
-public:
-property ExportToDWG^ ExportToDWG {
-	ExportToDWG^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

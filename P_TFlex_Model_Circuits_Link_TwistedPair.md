@@ -8,18 +8,8 @@
 ```csharp
 public bool TwistedPair { get; set; }
 ```
-```vb
-Public Property TwistedPair As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool TwistedPair {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

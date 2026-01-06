@@ -14,19 +14,8 @@ public Object2D GetAssociate(
 	int indexTransformation
 )
 ```
-```vb
-Public Function GetAssociate ( 
-	indexSource As Integer,
-	indexTransformation As Integer
-) As Object2D
-```
-```cpp
-public:
-Object2D^ GetAssociate(
-	int indexSource, 
-	int indexTransformation
-)
-```
+
+
 
 
 #### Параметры

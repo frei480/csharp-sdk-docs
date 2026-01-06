@@ -8,16 +8,8 @@
 ```csharp
 public Compatibility Compatibility { get; }
 ```
-```vb
-Public ReadOnly Property Compatibility As Compatibility
-	Get
-```
-```cpp
-public:
-property Compatibility^ Compatibility {
-	Compatibility^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

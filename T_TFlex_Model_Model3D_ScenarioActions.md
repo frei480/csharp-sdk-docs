@@ -11,13 +11,8 @@
 ```csharp
 public sealed class ScenarioActions : IEnumerable<ScenarioAction>
 ```
-```vb
-Public NotInheritable Class ScenarioActions
-	Implements IEnumerable(Of ScenarioAction)
-```
-```cpp
-public ref class ScenarioActions sealed : IEnumerable<ScenarioAction^>
-```
+
+
 
 
 Тип ScenarioActions предоставляет следующие члены.

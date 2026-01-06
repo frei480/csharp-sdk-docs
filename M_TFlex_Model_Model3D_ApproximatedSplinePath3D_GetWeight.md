@@ -13,17 +13,8 @@ public Parameter GetWeight(
 	int index
 )
 ```
-```vb
-Public Function GetWeight ( 
-	index As Integer
-) As Parameter
-```
-```cpp
-public:
-Parameter^ GetWeight(
-	int index
-)
-```
+
+
 
 
 #### Параметры

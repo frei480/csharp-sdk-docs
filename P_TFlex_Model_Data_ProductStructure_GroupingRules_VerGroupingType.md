@@ -8,18 +8,8 @@
 ```csharp
 public VersionGroupingType VerGroupingType { get; set; }
 ```
-```vb
-Public Property VerGroupingType As VersionGroupingType
-	Get
-	Set
-```
-```cpp
-public:
-property VersionGroupingType VerGroupingType {
-	VersionGroupingType get ();
-	void set (VersionGroupingType value);
-}
-```
+
+
 
 
 #### Значение свойства

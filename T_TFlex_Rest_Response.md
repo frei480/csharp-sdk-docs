@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Response
 ```
-```vb
-Public NotInheritable Class Response
-```
-```cpp
-public ref class Response sealed
-```
+
+
 
 
 Тип Response предоставляет следующие члены.

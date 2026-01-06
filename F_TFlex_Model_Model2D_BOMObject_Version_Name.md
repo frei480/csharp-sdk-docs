@@ -11,13 +11,8 @@
 ```csharp
 public string Name
 ```
-```vb
-Public Name As String
-```
-```cpp
-public:
-String^ Name
-```
+
+
 
 
 #### Значение поля

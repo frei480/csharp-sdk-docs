@@ -11,18 +11,8 @@
 ```csharp
 public Parameter AngularDimensionMinimalDigits { get; set; }
 ```
-```vb
-Public Property AngularDimensionMinimalDigits As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ AngularDimensionMinimalDigits {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

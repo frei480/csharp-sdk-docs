@@ -13,17 +13,8 @@ public LoftOperationSection GetSection(
 	int sectionIndex
 )
 ```
-```vb
-Public Function GetSection ( 
-	sectionIndex As Integer
-) As LoftOperationSection
-```
-```cpp
-public:
-LoftOperationSection^ GetSection(
-	int sectionIndex
-)
-```
+
+
 
 
 #### Параметры

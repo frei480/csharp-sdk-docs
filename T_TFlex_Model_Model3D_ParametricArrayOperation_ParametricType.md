@@ -11,12 +11,8 @@
 ```csharp
 public enum ParametricType
 ```
-```vb
-Public Enumeration ParametricType
-```
-```cpp
-public enum class ParametricType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

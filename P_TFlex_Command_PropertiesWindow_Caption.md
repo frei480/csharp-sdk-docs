@@ -11,18 +11,8 @@
 ```csharp
 public string Caption { get; set; }
 ```
-```vb
-Public Property Caption As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Caption {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,19 +11,8 @@ protected override void WriteValue(
 	bool value
 )
 ```
-```vb
-Protected Overrides Sub WriteValue ( 
-	writer As XmlWriter,
-	value As Boolean
-)
-```
-```cpp
-protected:
-virtual void WriteValue(
-	XmlWriter^ writer, 
-	bool value
-) override
-```
+
+
 
 
 #### Параметры

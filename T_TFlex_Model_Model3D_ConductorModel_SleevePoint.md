@@ -11,13 +11,8 @@
 ```csharp
 public class SleevePoint : BasePoint
 ```
-```vb
-Public Class SleevePoint
-	Inherits BasePoint
-```
-```cpp
-public ref class SleevePoint : public BasePoint
-```
+
+
 
 
 Тип SleevePoint предоставляет следующие члены.

@@ -11,13 +11,8 @@
 ```csharp
 public class DOCs : SettingsGroup
 ```
-```vb
-Public Class DOCs
-	Inherits SettingsGroup
-```
-```cpp
-public ref class DOCs : public SettingsGroup
-```
+
+
 
 
 Тип DOCs предоставляет следующие члены.

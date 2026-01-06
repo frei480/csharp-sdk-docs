@@ -13,12 +13,8 @@
 ```csharp
 public class VectorCondition
 ```
-```vb
-Public Class VectorCondition
-```
-```cpp
-public ref class VectorCondition
-```
+
+
 
 
 Тип LoftVectorCondition предоставляет следующие члены.

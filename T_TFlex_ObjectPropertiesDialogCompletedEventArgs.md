@@ -13,13 +13,8 @@
 ```csharp
 public class ObjectPropertiesDialogCompletedEventArgs : ObjectEventArgs
 ```
-```vb
-Public Class ObjectPropertiesDialogCompletedEventArgs
-	Inherits ObjectEventArgs
-```
-```cpp
-public ref class ObjectPropertiesDialogCompletedEventArgs : public ObjectEventArgs
-```
+
+
 
 
 Тип ObjectPropertiesDialogCompletedEventArgs предоставляет следующие члены.

@@ -10,17 +10,8 @@ public void Assign(
 	Symbol source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Symbol
-)
-```
-```cpp
-public:
-void Assign(
-	Symbol^ source
-)
-```
+
+
 
 
 #### Параметры

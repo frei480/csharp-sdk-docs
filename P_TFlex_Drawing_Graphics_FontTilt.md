@@ -11,16 +11,8 @@
 ```csharp
 public double FontTilt { set; }
 ```
-```vb
-Public WriteOnly Property FontTilt As Double
-	Set
-```
-```cpp
-public:
-property double FontTilt {
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

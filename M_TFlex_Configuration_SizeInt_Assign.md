@@ -10,17 +10,8 @@ public void Assign(
 	SizeInt source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As SizeInt
-)
-```
-```cpp
-public:
-void Assign(
-	SizeInt^ source
-)
-```
+
+
 
 
 #### Параметры

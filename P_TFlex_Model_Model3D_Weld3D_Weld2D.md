@@ -11,16 +11,8 @@
 ```csharp
 public Weld Weld2D { get; }
 ```
-```vb
-Public ReadOnly Property Weld2D As Weld
-	Get
-```
-```cpp
-public:
-property Weld^ Weld2D {
-	Weld^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<ValueChangedEventArgs> ValueChanged
 ```
-```vb
-Public Event ValueChanged As EventHandler(Of ValueChangedEventArgs)
-```
-```cpp
-public:
- event EventHandler<ValueChangedEventArgs^>^ ValueChanged {
-	void add (EventHandler<ValueChangedEventArgs^>^ value);
-	void remove (EventHandler<ValueChangedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

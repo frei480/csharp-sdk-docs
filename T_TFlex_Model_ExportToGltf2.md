@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToGltf2 : ExportToFacet
 ```
-```vb
-Public NotInheritable Class ExportToGltf2
-	Inherits ExportToFacet
-```
-```cpp
-public ref class ExportToGltf2 sealed : public ExportToFacet
-```
+
+
 
 
 Тип ExportToGltf2 предоставляет следующие члены.

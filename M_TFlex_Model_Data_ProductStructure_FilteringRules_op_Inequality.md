@@ -11,19 +11,8 @@ public static bool operator !=(
 	FilteringRules right
 )
 ```
-```vb
-Public Shared Operator <> ( 
-	left As FilteringRules,
-	right As FilteringRules
-) As Boolean
-```
-```cpp
-public:
-static bool operator !=(
-	FilteringRules^ left, 
-	FilteringRules^ right
-)
-```
+
+
 
 
 #### Параметры

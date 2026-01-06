@@ -10,17 +10,8 @@ public void SetFixingVector(
 	Object2D fixVector
 )
 ```
-```vb
-Public Sub SetFixingVector ( 
-	fixVector As Object2D
-)
-```
-```cpp
-public:
-void SetFixingVector(
-	Object2D^ fixVector
-)
-```
+
+
 
 
 #### Параметры

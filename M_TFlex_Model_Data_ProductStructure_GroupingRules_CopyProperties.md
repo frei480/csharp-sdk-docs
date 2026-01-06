@@ -10,17 +10,8 @@ public void CopyProperties(
 	GroupingRules src
 )
 ```
-```vb
-Public Sub CopyProperties ( 
-	src As GroupingRules
-)
-```
-```cpp
-public:
-void CopyProperties(
-	GroupingRules^ src
-)
-```
+
+
 
 
 #### Параметры

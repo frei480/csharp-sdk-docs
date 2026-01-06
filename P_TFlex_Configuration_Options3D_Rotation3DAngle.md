@@ -8,18 +8,8 @@
 ```csharp
 public double Rotation3DAngle { get; set; }
 ```
-```vb
-Public Property Rotation3DAngle As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double Rotation3DAngle {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

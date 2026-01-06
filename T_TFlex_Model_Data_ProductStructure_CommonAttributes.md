@@ -12,15 +12,8 @@
 public class CommonAttributes : ObservableCollection<CommonAttribute>, 
 	ICloneable
 ```
-```vb
-Public Class CommonAttributes
-	Inherits ObservableCollection(Of CommonAttribute)
-	Implements ICloneable
-```
-```cpp
-public ref class CommonAttributes : public ObservableCollection<CommonAttribute^>, 
-	ICloneable
-```
+
+
 
 
 Тип CommonAttributes предоставляет следующие члены.

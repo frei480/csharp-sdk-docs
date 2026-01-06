@@ -8,18 +8,8 @@
 ```csharp
 public LinkBreakPageFormats BreakPageFormat { get; set; }
 ```
-```vb
-Public Property BreakPageFormat As LinkBreakPageFormats
-	Get
-	Set
-```
-```cpp
-public:
-property LinkBreakPageFormats BreakPageFormat {
-	LinkBreakPageFormats get ();
-	void set (LinkBreakPageFormats value);
-}
-```
+
+
 
 
 #### Значение свойства

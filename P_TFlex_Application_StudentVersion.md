@@ -11,16 +11,8 @@
 ```csharp
 public static bool StudentVersion { get; }
 ```
-```vb
-Public Shared ReadOnly Property StudentVersion As Boolean
-	Get
-```
-```cpp
-public:
-static property bool StudentVersion {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

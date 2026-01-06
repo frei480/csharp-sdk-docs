@@ -11,13 +11,8 @@
 ```csharp
 public class TreeSettings : SettingsGroup
 ```
-```vb
-Public Class TreeSettings
-	Inherits SettingsGroup
-```
-```cpp
-public ref class TreeSettings : public SettingsGroup
-```
+
+
 
 
 Тип TreeSettings предоставляет следующие члены.

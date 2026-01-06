@@ -8,18 +8,8 @@
 ```csharp
 public string Tooltip { get; set; }
 ```
-```vb
-Public Property Tooltip As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ Tooltip {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

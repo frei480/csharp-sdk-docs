@@ -11,13 +11,8 @@
 ```csharp
 public static bool ForceRollbackUndoIfOpen()
 ```
-```vb
-Public Shared Function ForceRollbackUndoIfOpen As Boolean
-```
-```cpp
-public:
-static bool ForceRollbackUndoIfOpen()
-```
+
+
 
 
 #### Возвращаемое значение

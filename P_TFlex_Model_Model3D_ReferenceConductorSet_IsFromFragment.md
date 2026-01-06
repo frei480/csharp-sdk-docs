@@ -8,16 +8,8 @@
 ```csharp
 public bool IsFromFragment { get; }
 ```
-```vb
-Public ReadOnly Property IsFromFragment As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsFromFragment {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

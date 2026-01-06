@@ -11,12 +11,8 @@
 ```csharp
 public class CommonAttribute
 ```
-```vb
-Public Class CommonAttribute
-```
-```cpp
-public ref class CommonAttribute
-```
+
+
 
 
 Тип CommonAttribute предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public bool Coedges { get; set; }
 ```
-```vb
-Public Property Coedges As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Coedges {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

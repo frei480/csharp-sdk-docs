@@ -11,13 +11,8 @@
 ```csharp
 public RichTextCursorInfo GetCursorInfo()
 ```
-```vb
-Public Function GetCursorInfo As RichTextCursorInfo
-```
-```cpp
-public:
-RichTextCursorInfo GetCursorInfo()
-```
+
+
 
 
 #### Возвращаемое значение

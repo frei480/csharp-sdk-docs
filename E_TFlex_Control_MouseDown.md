@@ -11,16 +11,8 @@ Cобытие, происходящеe при нажатии кнопки мыш
 ```csharp
 public event ControlMouseDown MouseDown
 ```
-```vb
-Public Event MouseDown As ControlMouseDown
-```
-```cpp
-public:
- event ControlMouseDown^ MouseDown {
-	void add (ControlMouseDown^ value);
-	void remove (ControlMouseDown^ value);
-}
-```
+
+
 
 
 #### Значение

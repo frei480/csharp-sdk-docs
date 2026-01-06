@@ -11,12 +11,8 @@
 ```csharp
 public enum FixingMode
 ```
-```vb
-Public Enumeration FixingMode
-```
-```cpp
-public enum class FixingMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -8,18 +8,8 @@
 ```csharp
 public bool IgnoreOrderWhenUnite { get; set; }
 ```
-```vb
-Public Property IgnoreOrderWhenUnite As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IgnoreOrderWhenUnite {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

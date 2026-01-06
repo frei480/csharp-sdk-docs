@@ -11,16 +11,8 @@
 ```csharp
 public double AbsX { get; }
 ```
-```vb
-Public ReadOnly Property AbsX As Double
-	Get
-```
-```cpp
-public:
-property double AbsX {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

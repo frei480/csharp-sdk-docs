@@ -11,13 +11,8 @@
 ```csharp
 public class CommitedGeometryChangedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class CommitedGeometryChangedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class CommitedGeometryChangedEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип CommitedGeometryChangedEventArgs предоставляет следующие члены.

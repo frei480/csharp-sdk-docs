@@ -15,21 +15,8 @@ public Graphics(
 	Rectangle window
 )
 ```
-```vb
-Public Sub New ( 
-	hWnd As IntPtr,
-	rect As Rectangle,
-	window As Rectangle
-)
-```
-```cpp
-public:
-Graphics(
-	IntPtr hWnd, 
-	Rectangle rect, 
-	Rectangle window
-)
-```
+
+
 
 
 #### Параметры

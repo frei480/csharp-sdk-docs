@@ -14,20 +14,8 @@
 [ObsoleteAttribute("This property is obsolete. Use the special operation 'Offset'")]
 public bool EquidistantBody { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete. Use the special operation 'Offset'")>
-Public Property EquidistantBody As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete. Use the special operation 'Offset'")]
-property bool EquidistantBody {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

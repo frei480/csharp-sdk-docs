@@ -16,23 +16,8 @@ public RibbonButton AddChildButton(
 	RibbonButtonStyle style
 )
 ```
-```vb
-Public Function AddChildButton ( 
-	commandId As Integer,
-	caption As String,
-	plugin As Plugin,
-	style As RibbonButtonStyle
-) As RibbonButton
-```
-```cpp
-public:
-RibbonButton^ AddChildButton(
-	int commandId, 
-	String^ caption, 
-	Plugin^ plugin, 
-	RibbonButtonStyle style
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public class HierarchicalFilteringRule : IFilteringRule
 ```
-```vb
-Public Class HierarchicalFilteringRule
-	Inherits IFilteringRule
-```
-```cpp
-public ref class HierarchicalFilteringRule : public IFilteringRule
-```
+
+
 
 
 Тип HierarchicalFilteringRule предоставляет следующие члены.

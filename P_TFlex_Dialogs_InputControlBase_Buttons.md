@@ -11,16 +11,8 @@
 ```csharp
 public Collection<InputControlButton> Buttons { get; }
 ```
-```vb
-Public ReadOnly Property Buttons As Collection(Of InputControlButton)
-	Get
-```
-```cpp
-public:
-property Collection<InputControlButton^>^ Buttons {
-	Collection<InputControlButton^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

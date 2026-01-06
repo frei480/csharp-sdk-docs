@@ -8,18 +8,8 @@
 ```csharp
 public FilterOptions Filter { get; set; }
 ```
-```vb
-Public Property Filter As FilterOptions
-	Get
-	Set
-```
-```cpp
-public:
-property FilterOptions Filter {
-	FilterOptions get ();
-	void set (FilterOptions value);
-}
-```
+
+
 
 
 #### Значение свойства

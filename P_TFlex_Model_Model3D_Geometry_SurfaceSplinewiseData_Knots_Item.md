@@ -10,20 +10,8 @@ public double this[
 	uint index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As UInteger
-) As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double default[unsigned int index] {
-	double get (unsigned int index);
-	void set (unsigned int index, double value);
-}
-```
+
+
 
 
 #### Параметры

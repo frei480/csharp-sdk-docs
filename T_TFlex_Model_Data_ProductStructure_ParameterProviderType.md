@@ -8,12 +8,8 @@
 ```csharp
 public enum ParameterProviderType
 ```
-```vb
-Public Enumeration ParameterProviderType
-```
-```cpp
-public enum class ParameterProviderType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

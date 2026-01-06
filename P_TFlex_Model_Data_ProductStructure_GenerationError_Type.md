@@ -8,18 +8,8 @@
 ```csharp
 public GenerationErrorMessageType Type { get; set; }
 ```
-```vb
-Public Property Type As GenerationErrorMessageType
-	Get
-	Set
-```
-```cpp
-public:
-property GenerationErrorMessageType Type {
-	GenerationErrorMessageType get ();
-	void set (GenerationErrorMessageType value);
-}
-```
+
+
 
 
 #### Значение свойства

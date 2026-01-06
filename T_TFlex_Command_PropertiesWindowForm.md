@@ -14,15 +14,8 @@
 public class PropertiesWindowForm : PropertiesWindowFormBase, 
 	IDisposable
 ```
-```vb
-Public Class PropertiesWindowForm
-	Inherits PropertiesWindowFormBase
-	Implements IDisposable
-```
-```cpp
-public ref class PropertiesWindowForm : public PropertiesWindowFormBase, 
-	IDisposable
-```
+
+
 
 
 Тип PropertiesWindowForm предоставляет следующие члены.

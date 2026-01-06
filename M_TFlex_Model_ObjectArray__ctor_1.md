@@ -13,17 +13,8 @@ public ObjectArray(
 	IEnumerable<ModelObject> objects
 )
 ```
-```vb
-Public Sub New ( 
-	objects As IEnumerable(Of ModelObject)
-)
-```
-```cpp
-public:
-ObjectArray(
-	IEnumerable<ModelObject^>^ objects
-)
-```
+
+
 
 
 #### Параметры

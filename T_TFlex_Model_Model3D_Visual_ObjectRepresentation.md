@@ -11,12 +11,8 @@
 ```csharp
 public abstract class ObjectRepresentation
 ```
-```vb
-Public MustInherit Class ObjectRepresentation
-```
-```cpp
-public ref class ObjectRepresentation abstract
-```
+
+
 
 
 Тип ObjectRepresentation предоставляет следующие члены.

@@ -11,18 +11,8 @@
 ```csharp
 public Range Range { get; set; }
 ```
-```vb
-Public Property Range As Range
-	Get
-	Set
-```
-```cpp
-public:
-property Range Range {
-	Range get ();
-	void set (Range value);
-}
-```
+
+
 
 
 #### Значение свойства

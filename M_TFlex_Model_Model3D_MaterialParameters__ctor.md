@@ -11,13 +11,8 @@
 ```csharp
 public MaterialParameters()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-MaterialParameters()
-```
+
+
 
 
 #### Ссылки

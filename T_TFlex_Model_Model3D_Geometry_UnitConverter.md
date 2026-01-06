@@ -13,12 +13,8 @@
 ```csharp
 public sealed class UnitConverter
 ```
-```vb
-Public NotInheritable Class UnitConverter
-```
-```cpp
-public ref class UnitConverter sealed
-```
+
+
 
 
 Тип UnitConverter предоставляет следующие члены.

@@ -14,19 +14,8 @@ public void Print(
 	bool selectAllPages
 )
 ```
-```vb
-Public Sub Print ( 
-	window As IntPtr,
-	selectAllPages As Boolean
-)
-```
-```cpp
-public:
-void Print(
-	IntPtr window, 
-	bool selectAllPages
-)
-```
+
+
 
 
 #### Параметры

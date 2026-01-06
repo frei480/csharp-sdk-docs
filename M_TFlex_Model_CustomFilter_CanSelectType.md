@@ -13,17 +13,8 @@ public virtual bool CanSelectType(
 	ObjectType Type
 )
 ```
-```vb
-Public Overridable Function CanSelectType ( 
-	Type As ObjectType
-) As Boolean
-```
-```cpp
-public:
-virtual bool CanSelectType(
-	ObjectType Type
-)
-```
+
+
 
 
 #### Параметры

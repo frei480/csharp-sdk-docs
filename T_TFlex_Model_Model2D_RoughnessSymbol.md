@@ -14,15 +14,8 @@
 public class RoughnessSymbol : Object2D, 
 	IModelObjectWithLayer
 ```
-```vb
-Public Class RoughnessSymbol
-	Inherits Object2D
-	Implements IModelObjectWithLayer
-```
-```cpp
-public ref class RoughnessSymbol : public Object2D, 
-	IModelObjectWithLayer
-```
+
+
 
 
 Тип RoughnessSymbol предоставляет следующие члены.

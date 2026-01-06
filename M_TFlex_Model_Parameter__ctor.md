@@ -13,17 +13,8 @@ public Parameter(
 	double value
 )
 ```
-```vb
-Public Sub New ( 
-	value As Double
-)
-```
-```cpp
-public:
-Parameter(
-	double value
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 public ICollection<ModelConfigurationVariableValue> GetVariables()
 ```
-```vb
-Public Function GetVariables As ICollection(Of ModelConfigurationVariableValue)
-```
-```cpp
-public:
-ICollection<ModelConfigurationVariableValue^>^ GetVariables()
-```
+
+
 
 
 #### Возвращаемое значение

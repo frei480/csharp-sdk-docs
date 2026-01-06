@@ -13,15 +13,8 @@
 ```csharp
 public class Area : Object2D, IDisposable, IModelObjectWithLayer
 ```
-```vb
-Public Class Area
-	Inherits Object2D
-	Implements IDisposable, IModelObjectWithLayer
-```
-```cpp
-public ref class Area : public Object2D, 
-	IDisposable, IModelObjectWithLayer
-```
+
+
 
 
 Тип Area предоставляет следующие члены.

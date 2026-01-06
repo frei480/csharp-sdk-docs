@@ -8,12 +8,8 @@
 ```csharp
 public enum VerticalDirection
 ```
-```vb
-Public Enumeration VerticalDirection
-```
-```cpp
-public enum class VerticalDirection
-```
+
+
 
 
 | Имя члена | Значение | Описание |

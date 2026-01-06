@@ -11,13 +11,8 @@
 ```csharp
 public override bool Update()
 ```
-```vb
-Public Overrides Function Update As Boolean
-```
-```cpp
-public:
-virtual bool Update() override
-```
+
+
 
 
 #### Возвращаемое значение

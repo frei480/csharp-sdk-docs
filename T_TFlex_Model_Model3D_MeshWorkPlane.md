@@ -13,12 +13,8 @@
 ```csharp
 public sealed class MeshWorkPlane
 ```
-```vb
-Public NotInheritable Class MeshWorkPlane
-```
-```cpp
-public ref class MeshWorkPlane sealed
-```
+
+
 
 
 Тип MeshWorkPlane предоставляет следующие члены.

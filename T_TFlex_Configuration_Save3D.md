@@ -11,13 +11,8 @@
 ```csharp
 public class Save3D : SettingsGroup
 ```
-```vb
-Public Class Save3D
-	Inherits SettingsGroup
-```
-```cpp
-public ref class Save3D : public SettingsGroup
-```
+
+
 
 
 Тип Save3D предоставляет следующие члены.

@@ -8,18 +8,8 @@
 ```csharp
 public CustomOrderPropertyAttributeUsageContextEnum UsageContext { get; set; }
 ```
-```vb
-Public Property UsageContext As CustomOrderPropertyAttributeUsageContextEnum
-	Get
-	Set
-```
-```cpp
-public:
-property CustomOrderPropertyAttributeUsageContextEnum UsageContext {
-	CustomOrderPropertyAttributeUsageContextEnum get ();
-	void set (CustomOrderPropertyAttributeUsageContextEnum value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public Lcs2D(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Lcs2D(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@
 ```csharp
 public ExternalObject Owner2D { get; }
 ```
-```vb
-Public ReadOnly Property Owner2D As ExternalObject
-	Get
-```
-```cpp
-public:
-property ExternalObject^ Owner2D {
-	ExternalObject^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

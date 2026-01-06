@@ -12,23 +12,8 @@ public static void SetTextValue(
 	string val
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub SetTextValue ( 
-	__unnamed000 As FixingVector,
-	iText As Integer,
-	val As String
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void SetTextValue(
-	FixingVector^ __unnamed000, 
-	int iText, 
-	String^ val
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public static DraggerManager GetManager(
 	Document owner
 )
 ```
-```vb
-Public Shared Function GetManager ( 
-	owner As Document
-) As DraggerManager
-```
-```cpp
-public:
-static DraggerManager^ GetManager(
-	Document^ owner
-)
-```
+
+
 
 
 #### Параметры

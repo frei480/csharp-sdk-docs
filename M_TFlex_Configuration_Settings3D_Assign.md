@@ -10,17 +10,8 @@ public void Assign(
 	Settings3D source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Settings3D
-)
-```
-```cpp
-public:
-void Assign(
-	Settings3D^ source
-)
-```
+
+
 
 
 #### Параметры

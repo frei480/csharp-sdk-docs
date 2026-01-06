@@ -11,13 +11,8 @@
 ```csharp
 public void ClearOriginalValueIsFromUser()
 ```
-```vb
-Public Sub ClearOriginalValueIsFromUser
-```
-```cpp
-public:
-void ClearOriginalValueIsFromUser()
-```
+
+
 
 
 #### Ссылки

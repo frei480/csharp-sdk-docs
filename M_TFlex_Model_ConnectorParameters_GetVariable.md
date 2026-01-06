@@ -13,17 +13,8 @@ public Variable GetVariable(
 	int index
 )
 ```
-```vb
-Public Function GetVariable ( 
-	index As Integer
-) As Variable
-```
-```cpp
-public:
-Variable^ GetVariable(
-	int index
-)
-```
+
+
 
 
 #### Параметры

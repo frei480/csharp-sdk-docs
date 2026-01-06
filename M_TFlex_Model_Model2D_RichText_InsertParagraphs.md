@@ -13,17 +13,8 @@ public void InsertParagraphs(
 	uint count
 )
 ```
-```vb
-Public Sub InsertParagraphs ( 
-	count As UInteger
-)
-```
-```cpp
-public:
-void InsertParagraphs(
-	unsigned int count
-)
-```
+
+
 
 
 #### Параметры

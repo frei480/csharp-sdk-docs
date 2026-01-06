@@ -11,13 +11,8 @@
 ```csharp
 public virtual void Reset()
 ```
-```vb
-Public Overridable Sub Reset
-```
-```cpp
-public:
-virtual void Reset()
-```
+
+
 
 
 #### Реализации

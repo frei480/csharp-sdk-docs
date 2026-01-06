@@ -13,17 +13,8 @@ public PipePath3DPointPolyline GetPrevPoint(
 	PipePath3DPointPolyline pPoint
 )
 ```
-```vb
-Public Function GetPrevPoint ( 
-	pPoint As PipePath3DPointPolyline
-) As PipePath3DPointPolyline
-```
-```cpp
-public:
-PipePath3DPointPolyline^ GetPrevPoint(
-	PipePath3DPointPolyline^ pPoint
-)
-```
+
+
 
 
 #### Параметры

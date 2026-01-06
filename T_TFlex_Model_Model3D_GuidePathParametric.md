@@ -13,13 +13,8 @@
 ```csharp
 public abstract class GuidePathParametric : Parametric
 ```
-```vb
-Public MustInherit Class GuidePathParametric
-	Inherits Parametric
-```
-```cpp
-public ref class GuidePathParametric abstract : public Parametric
-```
+
+
 
 
 Тип GuidePathParametric предоставляет следующие члены.

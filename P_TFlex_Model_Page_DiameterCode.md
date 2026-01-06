@@ -11,18 +11,8 @@
 ```csharp
 public int DiameterCode { get; set; }
 ```
-```vb
-Public Property DiameterCode As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int DiameterCode {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

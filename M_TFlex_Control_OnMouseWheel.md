@@ -13,17 +13,8 @@ protected override void OnMouseWheel(
 	MouseEventArgs e
 )
 ```
-```vb
-Protected Overrides Sub OnMouseWheel ( 
-	e As MouseEventArgs
-)
-```
-```cpp
-protected:
-virtual void OnMouseWheel(
-	MouseEventArgs^ e
-) override
-```
+
+
 
 
 #### Параметры

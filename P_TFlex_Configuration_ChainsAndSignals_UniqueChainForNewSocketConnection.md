@@ -8,18 +8,8 @@
 ```csharp
 public bool UniqueChainForNewSocketConnection { get; set; }
 ```
-```vb
-Public Property UniqueChainForNewSocketConnection As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UniqueChainForNewSocketConnection {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

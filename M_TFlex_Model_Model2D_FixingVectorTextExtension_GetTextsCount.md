@@ -10,19 +10,8 @@ public static int GetTextsCount(
 	this FixingVector A_0
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetTextsCount ( 
-	A_0 As FixingVector
-) As Integer
-```
-```cpp
-public:
-[ExtensionAttribute]
-static int GetTextsCount(
-	FixingVector^ A_0
-)
-```
+
+
 
 
 #### Параметры

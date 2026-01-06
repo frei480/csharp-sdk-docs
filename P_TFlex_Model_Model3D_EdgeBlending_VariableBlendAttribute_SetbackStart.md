@@ -11,16 +11,8 @@
 ```csharp
 public Parameter SetbackStart { get; }
 ```
-```vb
-Public ReadOnly Property SetbackStart As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ SetbackStart {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

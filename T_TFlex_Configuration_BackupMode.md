@@ -8,12 +8,8 @@
 ```csharp
 public enum BackupMode
 ```
-```vb
-Public Enumeration BackupMode
-```
-```cpp
-public enum class BackupMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

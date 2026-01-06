@@ -13,17 +13,8 @@ public BooleanOperation(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-BooleanOperation(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public bool IndependentHealing { get; set; }
 ```
-```vb
-Public Property IndependentHealing As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IndependentHealing {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

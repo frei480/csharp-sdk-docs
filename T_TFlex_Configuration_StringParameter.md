@@ -11,13 +11,8 @@
 ```csharp
 public class StringParameter : VarParameter
 ```
-```vb
-Public Class StringParameter
-	Inherits VarParameter
-```
-```cpp
-public ref class StringParameter : public VarParameter
-```
+
+
 
 
 Тип StringParameter предоставляет следующие члены.

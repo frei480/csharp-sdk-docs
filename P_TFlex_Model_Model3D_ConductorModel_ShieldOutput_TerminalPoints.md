@@ -8,16 +8,8 @@
 ```csharp
 public ICollection<TerminalPoint> TerminalPoints { get; }
 ```
-```vb
-Public ReadOnly Property TerminalPoints As ICollection(Of TerminalPoint)
-	Get
-```
-```cpp
-public:
-property ICollection<TerminalPoint^>^ TerminalPoints {
-	ICollection<TerminalPoint^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

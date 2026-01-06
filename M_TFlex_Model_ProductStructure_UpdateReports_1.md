@@ -10,17 +10,8 @@ public void UpdateReports(
 	IEnumerable<RichText> reports
 )
 ```
-```vb
-Public Sub UpdateReports ( 
-	reports As IEnumerable(Of RichText)
-)
-```
-```cpp
-public:
-void UpdateReports(
-	IEnumerable<RichText^>^ reports
-)
-```
+
+
 
 
 #### Параметры

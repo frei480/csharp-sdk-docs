@@ -8,12 +8,8 @@
 ```csharp
 public enum PreviewSaveType
 ```
-```vb
-Public Enumeration PreviewSaveType
-```
-```cpp
-public enum class PreviewSaveType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

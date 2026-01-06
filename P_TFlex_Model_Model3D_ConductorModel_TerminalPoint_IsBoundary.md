@@ -8,16 +8,8 @@
 ```csharp
 public bool IsBoundary { get; }
 ```
-```vb
-Public ReadOnly Property IsBoundary As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsBoundary {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

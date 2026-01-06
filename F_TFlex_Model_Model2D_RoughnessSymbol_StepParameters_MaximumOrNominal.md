@@ -11,13 +11,8 @@
 ```csharp
 public string MaximumOrNominal
 ```
-```vb
-Public MaximumOrNominal As String
-```
-```cpp
-public:
-String^ MaximumOrNominal
-```
+
+
 
 
 #### Значение поля

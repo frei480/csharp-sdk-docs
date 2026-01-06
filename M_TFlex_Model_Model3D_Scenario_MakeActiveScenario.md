@@ -8,13 +8,8 @@
 ```csharp
 public void MakeActiveScenario()
 ```
-```vb
-Public Sub MakeActiveScenario
-```
-```cpp
-public:
-void MakeActiveScenario()
-```
+
+
 
 
 #### Ссылки

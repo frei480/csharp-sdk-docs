@@ -11,18 +11,8 @@
 ```csharp
 public DimensionViewType TextParameters { get; set; }
 ```
-```vb
-Public Property TextParameters As DimensionViewType
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionViewType TextParameters {
-	DimensionViewType get ();
-	void set (DimensionViewType value);
-}
-```
+
+
 
 
 #### Значение свойства

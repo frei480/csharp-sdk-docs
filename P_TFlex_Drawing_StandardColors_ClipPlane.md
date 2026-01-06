@@ -11,16 +11,8 @@
 ```csharp
 public static Color ClipPlane { get; }
 ```
-```vb
-Public Shared ReadOnly Property ClipPlane As Color
-	Get
-```
-```cpp
-public:
-static property Color ClipPlane {
-	Color get ();
-}
-```
+
+
 
 
 #### Значение свойства

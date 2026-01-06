@@ -11,16 +11,8 @@
 ```csharp
 public abstract ComparisonOperatorType Type { get; }
 ```
-```vb
-Public MustOverride ReadOnly Property Type As ComparisonOperatorType
-	Get
-```
-```cpp
-public:
-virtual property ComparisonOperatorType Type {
-	ComparisonOperatorType get () abstract;
-}
-```
+
+
 
 
 #### Значение свойства

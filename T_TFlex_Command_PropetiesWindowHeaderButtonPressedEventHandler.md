@@ -14,18 +14,8 @@ public delegate void PropetiesWindowHeaderButtonPressedEventHandler(
 	PropetiesWindowHeaderButtonPressedEventArgs e
 )
 ```
-```vb
-Public Delegate Sub PropetiesWindowHeaderButtonPressedEventHandler ( 
-	sender As Object,
-	e As PropetiesWindowHeaderButtonPressedEventArgs
-)
-```
-```cpp
-public delegate void PropetiesWindowHeaderButtonPressedEventHandler(
-	Object^ sender, 
-	PropetiesWindowHeaderButtonPressedEventArgs^ e
-)
-```
+
+
 
 
 #### Параметры

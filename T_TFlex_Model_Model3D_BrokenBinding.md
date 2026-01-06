@@ -11,12 +11,8 @@
 ```csharp
 public enum BrokenBinding
 ```
-```vb
-Public Enumeration BrokenBinding
-```
-```cpp
-public enum class BrokenBinding
-```
+
+
 
 
 | Имя члена | Значение | Описание |

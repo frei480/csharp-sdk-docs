@@ -13,16 +13,8 @@
 ```csharp
 public static Unit Ampere { get; }
 ```
-```vb
-Public Shared ReadOnly Property Ampere As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ Ampere {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void InsertHyperlink(
 	HyperlinkProperties properties
 )
 ```
-```vb
-Public Sub InsertHyperlink ( 
-	properties As HyperlinkProperties
-)
-```
-```cpp
-public:
-void InsertHyperlink(
-	HyperlinkProperties^ properties
-)
-```
+
+
 
 
 #### Параметры

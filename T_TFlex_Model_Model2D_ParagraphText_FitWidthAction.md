@@ -11,12 +11,8 @@
 ```csharp
 public enum FitWidthAction
 ```
-```vb
-Public Enumeration FitWidthAction
-```
-```cpp
-public enum class FitWidthAction
-```
+
+
 
 
 | Имя члена | Значение | Описание |

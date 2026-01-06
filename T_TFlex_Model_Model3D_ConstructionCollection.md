@@ -13,13 +13,8 @@
 ```csharp
 public class ConstructionCollection : IEnumerable
 ```
-```vb
-Public Class ConstructionCollection
-	Implements IEnumerable
-```
-```cpp
-public ref class ConstructionCollection : IEnumerable
-```
+
+
 
 
 Тип ConstructionCollection предоставляет следующие члены.

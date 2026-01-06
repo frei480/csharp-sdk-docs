@@ -13,13 +13,8 @@
 ```csharp
 public class ObjectSelectControlItemCollection : Collection<ObjectSelectControlItem>
 ```
-```vb
-Public Class ObjectSelectControlItemCollection
-	Inherits Collection(Of ObjectSelectControlItem)
-```
-```cpp
-public ref class ObjectSelectControlItemCollection : public Collection<ObjectSelectControlItem^>
-```
+
+
 
 
 Тип ObjectSelectControlItemCollection предоставляет следующие члены.

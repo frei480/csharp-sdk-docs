@@ -11,13 +11,8 @@
 ```csharp
 public NonSectionCondition()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-NonSectionCondition()
-```
+
+
 
 
 #### Ссылки

@@ -8,13 +8,8 @@
 ```csharp
 public bool HasFragmentDialog()
 ```
-```vb
-Public Function HasFragmentDialog As Boolean
-```
-```cpp
-public:
-bool HasFragmentDialog()
-```
+
+
 
 
 #### Возвращаемое значение

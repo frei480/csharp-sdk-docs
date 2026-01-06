@@ -17,25 +17,8 @@ public IntersectionNode(
 	double y
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	srcConstruction1 As Construction,
-	srcConstruction2 As Construction,
-	x As Double,
-	y As Double
-)
-```
-```cpp
-public:
-IntersectionNode(
-	Document^ document, 
-	Construction^ srcConstruction1, 
-	Construction^ srcConstruction2, 
-	double x, 
-	double y
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public RenderOptions RenderOptions { get; }
 ```
-```vb
-Public ReadOnly Property RenderOptions As RenderOptions
-	Get
-```
-```cpp
-public:
-property RenderOptions^ RenderOptions {
-	RenderOptions^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

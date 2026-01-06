@@ -13,17 +13,8 @@ public void SetViewWorkplane(
 	Workplane wp
 )
 ```
-```vb
-Public Sub SetViewWorkplane ( 
-	wp As Workplane
-)
-```
-```cpp
-public:
-void SetViewWorkplane(
-	Workplane^ wp
-)
-```
+
+
 
 
 #### Параметры

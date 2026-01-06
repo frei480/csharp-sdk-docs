@@ -11,13 +11,8 @@
 ```csharp
 public void RemoveAllRightFaces()
 ```
-```vb
-Public Sub RemoveAllRightFaces
-```
-```cpp
-public:
-void RemoveAllRightFaces()
-```
+
+
 
 
 #### Ссылки

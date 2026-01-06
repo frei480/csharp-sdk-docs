@@ -10,18 +10,8 @@ public IntersectCurveDataIntersection this[
 	uint index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As UInteger
-) As IntersectCurveDataIntersection
-	Get
-```
-```cpp
-public:
-property IntersectCurveDataIntersection^ default[unsigned int index] {
-	IntersectCurveDataIntersection^ get (unsigned int index);
-}
-```
+
+
 
 
 #### Параметры

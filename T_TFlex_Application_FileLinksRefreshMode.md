@@ -11,12 +11,8 @@
 ```csharp
 public enum FileLinksRefreshMode
 ```
-```vb
-Public Enumeration FileLinksRefreshMode
-```
-```cpp
-public enum class FileLinksRefreshMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

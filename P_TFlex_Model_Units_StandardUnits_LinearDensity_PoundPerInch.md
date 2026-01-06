@@ -13,16 +13,8 @@
 ```csharp
 public static Unit PoundPerInch { get; }
 ```
-```vb
-Public Shared ReadOnly Property PoundPerInch As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ PoundPerInch {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

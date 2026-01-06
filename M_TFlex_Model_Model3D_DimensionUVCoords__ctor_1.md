@@ -19,29 +19,8 @@ public DimensionUVCoords(
 	double V_max
 )
 ```
-```vb
-Public Sub New ( 
-	UV_0 As Double,
-	UV_1 As Double,
-	UV_2 As Double,
-	U_min As Double,
-	U_max As Double,
-	V_min As Double,
-	V_max As Double
-)
-```
-```cpp
-public:
-DimensionUVCoords(
-	double UV_0, 
-	double UV_1, 
-	double UV_2, 
-	double U_min, 
-	double U_max, 
-	double V_min, 
-	double V_max
-)
-```
+
+
 
 
 #### Параметры

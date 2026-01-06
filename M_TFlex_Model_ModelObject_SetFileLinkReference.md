@@ -14,19 +14,8 @@ public void SetFileLinkReference(
 	FileLink link
 )
 ```
-```vb
-Public Sub SetFileLinkReference ( 
-	id As Integer,
-	link As FileLink
-)
-```
-```cpp
-public:
-void SetFileLinkReference(
-	int id, 
-	FileLink^ link
-)
-```
+
+
 
 
 #### Параметры

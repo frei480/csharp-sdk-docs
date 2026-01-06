@@ -17,25 +17,8 @@ public XyzVector(
 	LCS lcs
 )
 ```
-```vb
-Public Sub New ( 
-	x As Parameter,
-	y As Parameter,
-	z As Parameter,
-	magnitude As Parameter,
-	lcs As LCS
-)
-```
-```cpp
-public:
-XyzVector(
-	Parameter^ x, 
-	Parameter^ y, 
-	Parameter^ z, 
-	Parameter^ magnitude, 
-	LCS^ lcs
-)
-```
+
+
 
 
 #### Параметры

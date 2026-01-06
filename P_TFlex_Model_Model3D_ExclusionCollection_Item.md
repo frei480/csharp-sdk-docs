@@ -10,20 +10,8 @@ public Exclusion this[
 	int index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As Integer
-) As Exclusion
-	Get
-	Set
-```
-```cpp
-public:
-property Exclusion^ default[int index] {
-	Exclusion^ get (int index);
-	void set (int index, Exclusion^ value);
-}
-```
+
+
 
 
 #### Параметры

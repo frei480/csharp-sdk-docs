@@ -13,17 +13,8 @@ public FileLink(
 	TempFileLinkParameters parameters
 )
 ```
-```vb
-Public Sub New ( 
-	parameters As TempFileLinkParameters
-)
-```
-```cpp
-public:
-FileLink(
-	TempFileLinkParameters^ parameters
-)
-```
+
+
 
 
 #### Параметры

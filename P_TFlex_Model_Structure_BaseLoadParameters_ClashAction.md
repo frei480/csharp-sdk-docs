@@ -8,18 +8,8 @@
 ```csharp
 public LoadClashAction ClashAction { get; set; }
 ```
-```vb
-Public Property ClashAction As LoadClashAction
-	Get
-	Set
-```
-```cpp
-public:
-property LoadClashAction ClashAction {
-	LoadClashAction get ();
-	void set (LoadClashAction value);
-}
-```
+
+
 
 
 #### Значение свойства

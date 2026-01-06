@@ -13,17 +13,8 @@ public void Transfer(
 	BaseDirection direction
 )
 ```
-```vb
-Public Sub Transfer ( 
-	direction As BaseDirection
-)
-```
-```cpp
-public:
-void Transfer(
-	BaseDirection^ direction
-)
-```
+
+
 
 
 #### Параметры

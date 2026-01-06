@@ -10,17 +10,8 @@ public abstract void RemoveDesignations(
 	DesignationType type
 )
 ```
-```vb
-Public MustOverride Sub RemoveDesignations ( 
-	type As DesignationType
-)
-```
-```cpp
-public:
-virtual void RemoveDesignations(
-	DesignationType type
-) abstract
-```
+
+
 
 
 #### Параметры

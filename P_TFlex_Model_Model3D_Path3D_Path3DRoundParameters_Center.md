@@ -11,16 +11,8 @@
 ```csharp
 public BasePoint3D Center { get; }
 ```
-```vb
-Public ReadOnly Property Center As BasePoint3D
-	Get
-```
-```cpp
-public:
-property BasePoint3D^ Center {
-	BasePoint3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

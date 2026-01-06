@@ -11,16 +11,8 @@
 ```csharp
 public AngularDimTypes AngularDimType { get; }
 ```
-```vb
-Public ReadOnly Property AngularDimType As AngularDimTypes
-	Get
-```
-```cpp
-public:
-property AngularDimTypes AngularDimType {
-	AngularDimTypes get ();
-}
-```
+
+
 
 
 #### Значение свойства

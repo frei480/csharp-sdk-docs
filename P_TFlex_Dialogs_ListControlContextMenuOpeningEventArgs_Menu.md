@@ -11,16 +11,8 @@
 ```csharp
 public Menu Menu { get; }
 ```
-```vb
-Public ReadOnly Property Menu As Menu
-	Get
-```
-```cpp
-public:
-property Menu^ Menu {
-	Menu^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

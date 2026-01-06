@@ -11,13 +11,8 @@
 ```csharp
 public RowElement AddElement()
 ```
-```vb
-Public Function AddElement As RowElement
-```
-```cpp
-public:
-RowElement^ AddElement()
-```
+
+
 
 
 #### Возвращаемое значение

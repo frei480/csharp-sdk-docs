@@ -11,18 +11,8 @@
 ```csharp
 public string LastResult { get; set; }
 ```
-```vb
-Public Property LastResult As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ LastResult {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

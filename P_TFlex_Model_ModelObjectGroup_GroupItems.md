@@ -11,16 +11,8 @@
 ```csharp
 public ModelObjectGroupGroupItem[] GroupItems { get; }
 ```
-```vb
-Public ReadOnly Property GroupItems As ModelObjectGroupGroupItem()
-	Get
-```
-```cpp
-public:
-property array<ModelObjectGroupGroupItem^>^ GroupItems {
-	array<ModelObjectGroupGroupItem^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

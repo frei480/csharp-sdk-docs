@@ -11,19 +11,8 @@ public void Remove(
 	bool searchAll
 )
 ```
-```vb
-Public Sub Remove ( 
-	modelObjects As IList(Of ModelObject),
-	searchAll As Boolean
-)
-```
-```cpp
-public:
-void Remove(
-	IList<ModelObject^>^ modelObjects, 
-	bool searchAll
-)
-```
+
+
 
 
 #### Параметры

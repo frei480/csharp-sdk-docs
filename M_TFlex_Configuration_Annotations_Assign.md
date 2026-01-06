@@ -10,17 +10,8 @@ public void Assign(
 	Annotations source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Annotations
-)
-```
-```cpp
-public:
-void Assign(
-	Annotations^ source
-)
-```
+
+
 
 
 #### Параметры

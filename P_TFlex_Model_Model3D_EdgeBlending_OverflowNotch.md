@@ -11,18 +11,8 @@
 ```csharp
 public bool OverflowNotch { get; set; }
 ```
-```vb
-Public Property OverflowNotch As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OverflowNotch {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

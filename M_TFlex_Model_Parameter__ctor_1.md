@@ -13,17 +13,8 @@ public Parameter(
 	int value
 )
 ```
-```vb
-Public Sub New ( 
-	value As Integer
-)
-```
-```cpp
-public:
-Parameter(
-	int value
-)
-```
+
+
 
 
 #### Параметры

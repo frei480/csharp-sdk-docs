@@ -13,17 +13,8 @@ public int GetConfigurationIndex(
 	string id
 )
 ```
-```vb
-Public Function GetConfigurationIndex ( 
-	id As String
-) As Integer
-```
-```cpp
-public:
-int GetConfigurationIndex(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

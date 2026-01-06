@@ -13,13 +13,8 @@
 ```csharp
 public class SpecialElements : IEnumerable<DrawingViewSpecialElement>
 ```
-```vb
-Public Class SpecialElements
-	Implements IEnumerable(Of DrawingViewSpecialElement)
-```
-```cpp
-public ref class SpecialElements : IEnumerable<DrawingViewSpecialElement^>
-```
+
+
 
 
 Тип DrawingViewSpecialElements предоставляет следующие члены.

@@ -11,18 +11,8 @@ true, если переменная является скрытой
 ```csharp
 public bool Hidden { get; set; }
 ```
-```vb
-Public Property Hidden As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Hidden {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

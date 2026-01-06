@@ -13,13 +13,8 @@
 ```csharp
 public class OffsetPath : Path3D
 ```
-```vb
-Public Class OffsetPath
-	Inherits Path3D
-```
-```cpp
-public ref class OffsetPath : public Path3D
-```
+
+
 
 
 Тип OffsetPath предоставляет следующие члены.

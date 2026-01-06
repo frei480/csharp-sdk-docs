@@ -13,17 +13,8 @@ public Body(
 	BaseFace face
 )
 ```
-```vb
-Public Sub New ( 
-	face As BaseFace
-)
-```
-```cpp
-public:
-Body(
-	BaseFace^ face
-)
-```
+
+
 
 
 #### Параметры

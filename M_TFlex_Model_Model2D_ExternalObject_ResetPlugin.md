@@ -14,19 +14,8 @@ public void ResetPlugin(
 	int typeId
 )
 ```
-```vb
-Public Sub ResetPlugin ( 
-	plugin As Plugin,
-	typeId As Integer
-)
-```
-```cpp
-public:
-void ResetPlugin(
-	Plugin^ plugin, 
-	int typeId
-)
-```
+
+
 
 
 #### Параметры

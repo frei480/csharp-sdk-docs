@@ -11,19 +11,8 @@ public string ToString(
 	IFormatProvider formatProvider
 )
 ```
-```vb
-Public Function ToString ( 
-	format As String,
-	formatProvider As IFormatProvider
-) As String
-```
-```cpp
-public:
-virtual String^ ToString(
-	String^ format, 
-	IFormatProvider^ formatProvider
-) sealed
-```
+
+
 
 
 #### Параметры

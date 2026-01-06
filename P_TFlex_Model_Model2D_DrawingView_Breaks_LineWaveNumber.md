@@ -11,18 +11,8 @@
 ```csharp
 public Parameter LineWaveNumber { get; set; }
 ```
-```vb
-Public Property LineWaveNumber As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ LineWaveNumber {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

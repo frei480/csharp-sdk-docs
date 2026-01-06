@@ -11,12 +11,8 @@
 ```csharp
 public enum PointType
 ```
-```vb
-Public Enumeration PointType
-```
-```cpp
-public enum class PointType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

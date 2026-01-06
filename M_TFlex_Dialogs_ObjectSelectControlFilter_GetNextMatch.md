@@ -13,17 +13,8 @@ public abstract ObjectSelectControlGetNextMatchResult GetNextMatch(
 	ref ObjectSelectControlPlainObject oResult
 )
 ```
-```vb
-Public MustOverride Function GetNextMatch ( 
-	ByRef oResult As ObjectSelectControlPlainObject
-) As ObjectSelectControlGetNextMatchResult
-```
-```cpp
-public:
-virtual ObjectSelectControlGetNextMatchResult GetNextMatch(
-	ObjectSelectControlPlainObject% oResult
-) abstract
-```
+
+
 
 
 #### Параметры

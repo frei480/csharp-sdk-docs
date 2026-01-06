@@ -11,16 +11,8 @@
 ```csharp
 public ViewSectionCoords Normal { get; }
 ```
-```vb
-Public ReadOnly Property Normal As ViewSectionCoords
-	Get
-```
-```cpp
-public:
-property ViewSectionCoords^ Normal {
-	ViewSectionCoords^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

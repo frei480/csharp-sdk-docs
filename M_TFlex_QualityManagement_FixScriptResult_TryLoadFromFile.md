@@ -13,17 +13,8 @@ public static FixScriptResult TryLoadFromFile(
 	string filePath
 )
 ```
-```vb
-Public Shared Function TryLoadFromFile ( 
-	filePath As String
-) As FixScriptResult
-```
-```cpp
-public:
-static FixScriptResult^ TryLoadFromFile(
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

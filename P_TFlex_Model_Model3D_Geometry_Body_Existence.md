@@ -11,16 +11,8 @@
 ```csharp
 public virtual bool Existence { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Existence As Boolean
-	Get
-```
-```cpp
-public:
-virtual property bool Existence {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

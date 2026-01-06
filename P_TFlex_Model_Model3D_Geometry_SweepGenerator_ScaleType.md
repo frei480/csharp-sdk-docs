@@ -11,18 +11,8 @@
 ```csharp
 public SweepGeneratorScaleTypeSet ScaleType { get; set; }
 ```
-```vb
-Public Property ScaleType As SweepGeneratorScaleTypeSet
-	Get
-	Set
-```
-```cpp
-public:
-property SweepGeneratorScaleTypeSet ScaleType {
-	SweepGeneratorScaleTypeSet get ();
-	void set (SweepGeneratorScaleTypeSet value);
-}
-```
+
+
 
 
 #### Значение свойства

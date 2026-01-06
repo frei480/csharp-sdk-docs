@@ -11,13 +11,8 @@
 ```csharp
 public class ElementCopyValuesParameters : BaseCopyValuesParameters
 ```
-```vb
-Public Class ElementCopyValuesParameters
-	Inherits BaseCopyValuesParameters
-```
-```cpp
-public ref class ElementCopyValuesParameters : public BaseCopyValuesParameters
-```
+
+
 
 
 Тип ElementCopyValuesParameters предоставляет следующие члены.

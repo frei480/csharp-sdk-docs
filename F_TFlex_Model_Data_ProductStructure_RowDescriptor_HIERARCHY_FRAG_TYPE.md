@@ -8,13 +8,8 @@
 ```csharp
 public const int HIERARCHY_FRAG_TYPE = 10000
 ```
-```vb
-Public Const HIERARCHY_FRAG_TYPE As Integer = 10000
-```
-```cpp
-public:
-literal int HIERARCHY_FRAG_TYPE = 10000
-```
+
+
 
 
 #### Значение поля

@@ -15,21 +15,8 @@ public Plane(
 	BaseDirection xaxis
 )
 ```
-```vb
-Public Sub New ( 
-	origin As BasePoint3D,
-	normal As BaseDirection,
-	xaxis As BaseDirection
-)
-```
-```cpp
-public:
-Plane(
-	BasePoint3D^ origin, 
-	BaseDirection^ normal, 
-	BaseDirection^ xaxis
-)
-```
+
+
 
 
 #### Параметры

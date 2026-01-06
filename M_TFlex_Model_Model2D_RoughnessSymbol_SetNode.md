@@ -15,21 +15,8 @@ public void SetNode(
 	Parameter dY
 )
 ```
-```vb
-Public Sub SetNode ( 
-	nod As Node,
-	dX As Parameter,
-	dY As Parameter
-)
-```
-```cpp
-public:
-void SetNode(
-	Node^ nod, 
-	Parameter^ dX, 
-	Parameter^ dY
-)
-```
+
+
 
 
 #### Параметры

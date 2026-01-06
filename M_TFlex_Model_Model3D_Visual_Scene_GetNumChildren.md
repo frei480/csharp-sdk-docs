@@ -8,13 +8,8 @@
 ```csharp
 public int GetNumChildren()
 ```
-```vb
-Public Function GetNumChildren As Integer
-```
-```cpp
-public:
-int GetNumChildren()
-```
+
+
 
 
 #### Возвращаемое значение

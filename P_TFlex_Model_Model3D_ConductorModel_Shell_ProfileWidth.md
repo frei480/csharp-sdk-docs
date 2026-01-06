@@ -8,18 +8,8 @@
 ```csharp
 public Parameter ProfileWidth { get; set; }
 ```
-```vb
-Public Property ProfileWidth As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ ProfileWidth {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

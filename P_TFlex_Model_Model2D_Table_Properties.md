@@ -11,18 +11,8 @@
 ```csharp
 public TableCellProperties Properties { get; set; }
 ```
-```vb
-Public Property Properties As TableCellProperties
-	Get
-	Set
-```
-```cpp
-public:
-property TableCellProperties Properties {
-	TableCellProperties get ();
-	void set (TableCellProperties value);
-}
-```
+
+
 
 
 #### Значение свойства

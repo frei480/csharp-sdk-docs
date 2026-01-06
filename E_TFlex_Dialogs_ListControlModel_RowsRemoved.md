@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<ListControlModelInsertRemoveEventArgs> RowsRemoved
 ```
-```vb
-Public Event RowsRemoved As EventHandler(Of ListControlModelInsertRemoveEventArgs)
-```
-```cpp
-public:
- event EventHandler<ListControlModelInsertRemoveEventArgs^>^ RowsRemoved {
-	void add (EventHandler<ListControlModelInsertRemoveEventArgs^>^ value);
-	void remove (EventHandler<ListControlModelInsertRemoveEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

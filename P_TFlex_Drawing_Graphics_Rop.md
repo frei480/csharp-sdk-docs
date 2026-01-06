@@ -11,18 +11,8 @@
 ```csharp
 public RasterOperation Rop { get; set; }
 ```
-```vb
-Public Property Rop As RasterOperation
-	Get
-	Set
-```
-```cpp
-public:
-property RasterOperation Rop {
-	RasterOperation get ();
-	void set (RasterOperation value);
-}
-```
+
+
 
 
 #### Значение свойства

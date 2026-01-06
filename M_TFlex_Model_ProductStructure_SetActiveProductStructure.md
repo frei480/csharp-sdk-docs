@@ -13,17 +13,8 @@ public static void SetActiveProductStructure(
 	ProductStructure ps
 )
 ```
-```vb
-Public Shared Sub SetActiveProductStructure ( 
-	ps As ProductStructure
-)
-```
-```cpp
-public:
-static void SetActiveProductStructure(
-	ProductStructure^ ps
-)
-```
+
+
 
 
 #### Параметры

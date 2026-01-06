@@ -11,13 +11,8 @@
 ```csharp
 public class AngleEnqueuedEventArgs : ManipulatorEventArgs
 ```
-```vb
-Public Class AngleEnqueuedEventArgs
-	Inherits ManipulatorEventArgs
-```
-```cpp
-public ref class AngleEnqueuedEventArgs : public ManipulatorEventArgs
-```
+
+
 
 
 Тип AngularSizeManipulatorAngleEnqueuedEventArgs предоставляет следующие члены.

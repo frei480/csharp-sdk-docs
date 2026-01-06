@@ -14,19 +14,8 @@ public WireFromCurvesGenerator(
 	WireFromCurvesGeneratorSegment[] segments
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	segments As WireFromCurvesGeneratorSegment()
-)
-```
-```cpp
-public:
-WireFromCurvesGenerator(
-	ProxyObject3D^ object, 
-	array<WireFromCurvesGeneratorSegment^>^ segments
-)
-```
+
+
 
 
 #### Параметры

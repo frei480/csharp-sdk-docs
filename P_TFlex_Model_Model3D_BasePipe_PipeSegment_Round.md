@@ -11,16 +11,8 @@
 ```csharp
 public BasePipePipeRoundParameters Round { get; }
 ```
-```vb
-Public ReadOnly Property Round As BasePipePipeRoundParameters
-	Get
-```
-```cpp
-public:
-property BasePipePipeRoundParameters^ Round {
-	BasePipePipeRoundParameters^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

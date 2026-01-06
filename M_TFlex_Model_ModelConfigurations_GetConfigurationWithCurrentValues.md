@@ -11,13 +11,8 @@
 ```csharp
 public string GetConfigurationWithCurrentValues()
 ```
-```vb
-Public Function GetConfigurationWithCurrentValues As String
-```
-```cpp
-public:
-String^ GetConfigurationWithCurrentValues()
-```
+
+
 
 
 #### Возвращаемое значение

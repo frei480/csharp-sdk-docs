@@ -14,19 +14,8 @@ public void SetOutline(
 	bool isOnEnd1
 )
 ```
-```vb
-Public Sub SetOutline ( 
-	horizontalLine As Outline,
-	isOnEnd1 As Boolean
-)
-```
-```cpp
-public:
-void SetOutline(
-	Outline^ horizontalLine, 
-	bool isOnEnd1
-)
-```
+
+
 
 
 #### Параметры

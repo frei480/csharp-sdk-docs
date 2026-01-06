@@ -11,16 +11,8 @@
 ```csharp
 public Diagnostics Diagnostics { get; }
 ```
-```vb
-Public ReadOnly Property Diagnostics As Diagnostics
-	Get
-```
-```cpp
-public:
-property Diagnostics^ Diagnostics {
-	Diagnostics^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

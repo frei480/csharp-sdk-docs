@@ -14,19 +14,8 @@ public static bool TestCompatibility(
 	Path3D trackB
 )
 ```
-```vb
-Public Shared Function TestCompatibility ( 
-	trackA As Path3D,
-	trackB As Path3D
-) As Boolean
-```
-```cpp
-public:
-static bool TestCompatibility(
-	Path3D^ trackA, 
-	Path3D^ trackB
-)
-```
+
+
 
 
 #### Параметры

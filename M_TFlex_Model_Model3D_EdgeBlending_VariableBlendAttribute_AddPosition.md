@@ -13,17 +13,8 @@ public void AddPosition(
 	EdgeBlendingPositionData data
 )
 ```
-```vb
-Public Sub AddPosition ( 
-	data As EdgeBlendingPositionData
-)
-```
-```cpp
-public:
-void AddPosition(
-	EdgeBlendingPositionData^ data
-)
-```
+
+
 
 
 #### Параметры

@@ -10,16 +10,8 @@ public static implicit operator Object3DGeomReference (
 	ModelDirection direction
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	direction As ModelDirection
-) As Object3DGeomReference
-```
-```cpp
-static implicit operator Object3DGeomReference^ (
-	ModelDirection^ direction
-)
-```
+
+
 
 
 #### Параметры

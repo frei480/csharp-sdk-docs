@@ -13,19 +13,8 @@ public static ICollection<PathArrayOperation> GetPathArrays(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetPathArrays ( 
-	document As Document
-) As ICollection(Of PathArrayOperation)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<PathArrayOperation^>^ GetPathArrays(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

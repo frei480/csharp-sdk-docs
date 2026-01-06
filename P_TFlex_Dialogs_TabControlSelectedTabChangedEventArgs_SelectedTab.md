@@ -11,16 +11,8 @@
 ```csharp
 public Tab SelectedTab { get; }
 ```
-```vb
-Public ReadOnly Property SelectedTab As Tab
-	Get
-```
-```cpp
-public:
-property Tab^ SelectedTab {
-	Tab^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

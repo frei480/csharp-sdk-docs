@@ -11,18 +11,8 @@
 ```csharp
 public MateMateType Type { get; set; }
 ```
-```vb
-Public Property Type As MateMateType
-	Get
-	Set
-```
-```cpp
-public:
-property MateMateType Type {
-	MateMateType get ();
-	void set (MateMateType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,13 +8,8 @@
 ```csharp
 public TransformationMatrix GetTransformationMatrix()
 ```
-```vb
-Public Function GetTransformationMatrix As TransformationMatrix
-```
-```cpp
-public:
-TransformationMatrix^ GetTransformationMatrix()
-```
+
+
 
 
 #### Возвращаемое значение

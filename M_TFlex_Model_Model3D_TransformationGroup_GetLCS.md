@@ -11,13 +11,8 @@
 ```csharp
 public LCS GetLCS()
 ```
-```vb
-Public Function GetLCS As LCS
-```
-```cpp
-public:
-LCS^ GetLCS()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -11,18 +11,8 @@
 ```csharp
 public DimensionDualDimType Dual { get; set; }
 ```
-```vb
-Public Property Dual As DimensionDualDimType
-	Get
-	Set
-```
-```cpp
-public:
-property DimensionDualDimType Dual {
-	DimensionDualDimType get ();
-	void set (DimensionDualDimType value);
-}
-```
+
+
 
 
 #### Значение свойства

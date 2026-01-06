@@ -13,17 +13,8 @@ public int Add(
 	ObjectSelectControlPlainObject object
 )
 ```
-```vb
-Public Function Add ( 
-	object As ObjectSelectControlPlainObject
-) As Integer
-```
-```cpp
-public:
-int Add(
-	ObjectSelectControlPlainObject object
-)
-```
+
+
 
 
 #### Параметры

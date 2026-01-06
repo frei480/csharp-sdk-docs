@@ -11,16 +11,8 @@
 ```csharp
 public string OriginalLayerName { get; }
 ```
-```vb
-Public ReadOnly Property OriginalLayerName As String
-	Get
-```
-```cpp
-public:
-property String^ OriginalLayerName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

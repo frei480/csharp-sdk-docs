@@ -13,13 +13,8 @@
 ```csharp
 public class ReferenceWeld3D : Weld3D
 ```
-```vb
-Public Class ReferenceWeld3D
-	Inherits Weld3D
-```
-```cpp
-public ref class ReferenceWeld3D : public Weld3D
-```
+
+
 
 
 Тип ReferenceWeld3D предоставляет следующие члены.

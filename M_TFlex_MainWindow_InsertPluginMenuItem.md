@@ -16,23 +16,8 @@ public void InsertPluginMenuItem(
 	Plugin plugin
 )
 ```
-```vb
-Public Sub InsertPluginMenuItem ( 
-	command As Integer,
-	caption As String,
-	position As MainWindowInsertMenuPosition,
-	plugin As Plugin
-)
-```
-```cpp
-public:
-void InsertPluginMenuItem(
-	int command, 
-	String^ caption, 
-	MainWindowInsertMenuPosition position, 
-	Plugin^ plugin
-)
-```
+
+
 
 
 #### Параметры

@@ -11,16 +11,8 @@ Cтепени свободы 3D фрагмента
 ```csharp
 public Fragment3DFreedomProperty FreedomPropertyContainer { get; }
 ```
-```vb
-Public ReadOnly Property FreedomPropertyContainer As Fragment3DFreedomProperty
-	Get
-```
-```cpp
-public:
-property Fragment3DFreedomProperty^ FreedomPropertyContainer {
-	Fragment3DFreedomProperty^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

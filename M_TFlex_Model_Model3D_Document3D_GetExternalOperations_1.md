@@ -14,21 +14,8 @@ public static ExternalOperationCollection GetExternalOperations(
 	int typeId
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetExternalOperations ( 
-	document As Document,
-	typeId As Integer
-) As ExternalOperationCollection
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ExternalOperationCollection^ GetExternalOperations(
-	Document^ document, 
-	int typeId
-)
-```
+
+
 
 
 #### Параметры

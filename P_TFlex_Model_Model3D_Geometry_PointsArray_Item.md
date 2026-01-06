@@ -10,20 +10,8 @@ public ModelPoint3D this[
 	int Index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	Index As Integer
-) As ModelPoint3D
-	Get
-	Set
-```
-```cpp
-public:
-property ModelPoint3D^ default[int Index] {
-	ModelPoint3D^ get (int Index);
-	void set (int Index, ModelPoint3D^ value);
-}
-```
+
+
 
 
 #### Параметры

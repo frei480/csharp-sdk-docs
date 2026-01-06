@@ -8,13 +8,8 @@
 ```csharp
 public override IEnumerable<ModelObject> GetAllLinkedObjects()
 ```
-```vb
-Public Overrides Function GetAllLinkedObjects As IEnumerable(Of ModelObject)
-```
-```cpp
-public:
-virtual IEnumerable<ModelObject^>^ GetAllLinkedObjects() override
-```
+
+
 
 
 #### Возвращаемое значение

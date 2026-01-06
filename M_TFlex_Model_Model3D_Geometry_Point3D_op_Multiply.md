@@ -11,19 +11,8 @@ public static Point3D operator *(
 	double scalar
 )
 ```
-```vb
-Public Shared Operator * ( 
-	BasePoint As Point3D,
-	scalar As Double
-) As Point3D
-```
-```cpp
-public:
-static Point3D^ operator *(
-	Point3D^ BasePoint, 
-	double scalar
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public void AddBody(
 	Operation operation
 )
 ```
-```vb
-Public Sub AddBody ( 
-	operation As Operation
-)
-```
-```cpp
-public:
-void AddBody(
-	Operation^ operation
-)
-```
+
+
 
 
 #### Параметры

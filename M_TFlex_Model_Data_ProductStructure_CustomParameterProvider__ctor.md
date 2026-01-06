@@ -11,13 +11,8 @@
 ```csharp
 public CustomParameterProvider()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-CustomParameterProvider()
-```
+
+
 
 
 #### Ссылки

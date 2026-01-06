@@ -11,16 +11,8 @@
 ```csharp
 public FaceTransformFacesTransformationsContainer FacesTransformation { get; }
 ```
-```vb
-Public ReadOnly Property FacesTransformation As FaceTransformFacesTransformationsContainer
-	Get
-```
-```cpp
-public:
-property FaceTransformFacesTransformationsContainer^ FacesTransformation {
-	FaceTransformFacesTransformationsContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

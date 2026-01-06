@@ -11,18 +11,8 @@
 ```csharp
 public Page ShowPage { get; set; }
 ```
-```vb
-Public Property ShowPage As Page
-	Get
-	Set
-```
-```cpp
-public:
-property Page^ ShowPage {
-	Page^ get ();
-	void set (Page^ value);
-}
-```
+
+
 
 
 #### Значение свойства

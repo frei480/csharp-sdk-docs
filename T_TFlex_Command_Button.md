@@ -13,12 +13,8 @@
 ```csharp
 public abstract class Button
 ```
-```vb
-Public MustInherit Class Button
-```
-```cpp
-public ref class Button abstract
-```
+
+
 
 
 Тип Button предоставляет следующие члены.

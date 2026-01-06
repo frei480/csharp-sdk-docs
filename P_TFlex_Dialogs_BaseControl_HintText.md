@@ -11,18 +11,8 @@
 ```csharp
 public string HintText { get; set; }
 ```
-```vb
-Public Property HintText As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ HintText {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

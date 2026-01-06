@@ -13,13 +13,8 @@
 ```csharp
 public class OutlinePath : Path3D
 ```
-```vb
-Public Class OutlinePath
-	Inherits Path3D
-```
-```cpp
-public ref class OutlinePath : public Path3D
-```
+
+
 
 
 Тип OutlinePath предоставляет следующие члены.

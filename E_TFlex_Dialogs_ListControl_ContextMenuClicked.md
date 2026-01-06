@@ -11,16 +11,8 @@
 ```csharp
 public event EventHandler<ListControlContextMenuClickedEventArgs> ContextMenuClicked
 ```
-```vb
-Public Event ContextMenuClicked As EventHandler(Of ListControlContextMenuClickedEventArgs)
-```
-```cpp
-public:
- event EventHandler<ListControlContextMenuClickedEventArgs^>^ ContextMenuClicked {
-	void add (EventHandler<ListControlContextMenuClickedEventArgs^>^ value);
-	void remove (EventHandler<ListControlContextMenuClickedEventArgs^>^ value);
-}
-```
+
+
 
 
 #### Значение

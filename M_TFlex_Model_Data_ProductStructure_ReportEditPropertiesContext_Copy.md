@@ -8,13 +8,8 @@
 ```csharp
 public virtual ReportEditPropertiesContext Copy()
 ```
-```vb
-Public Overridable Function Copy As ReportEditPropertiesContext
-```
-```cpp
-public:
-virtual ReportEditPropertiesContext^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

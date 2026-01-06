@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Variable> GetVariables()
 ```
-```vb
-Public Function GetVariables As ICollection(Of Variable)
-```
-```cpp
-public:
-ICollection<Variable^>^ GetVariables()
-```
+
+
 
 
 #### Возвращаемое значение

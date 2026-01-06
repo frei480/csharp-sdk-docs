@@ -11,13 +11,8 @@
 ```csharp
 public bool OpenSource()
 ```
-```vb
-Public Function OpenSource As Boolean
-```
-```cpp
-public:
-bool OpenSource()
-```
+
+
 
 
 #### Возвращаемое значение

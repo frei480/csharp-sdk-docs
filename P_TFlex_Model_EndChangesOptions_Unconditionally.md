@@ -11,18 +11,8 @@
 ```csharp
 public bool Unconditionally { get; set; }
 ```
-```vb
-Public Property Unconditionally As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Unconditionally {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

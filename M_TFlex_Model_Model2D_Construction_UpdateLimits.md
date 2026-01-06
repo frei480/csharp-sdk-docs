@@ -11,13 +11,8 @@
 ```csharp
 public void UpdateLimits()
 ```
-```vb
-Public Sub UpdateLimits
-```
-```cpp
-public:
-void UpdateLimits()
-```
+
+
 
 
 #### Ссылки

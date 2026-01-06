@@ -13,17 +13,8 @@ public int GetCellTextLength(
 	uint cell
 )
 ```
-```vb
-Public Function GetCellTextLength ( 
-	cell As UInteger
-) As Integer
-```
-```cpp
-public:
-int GetCellTextLength(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

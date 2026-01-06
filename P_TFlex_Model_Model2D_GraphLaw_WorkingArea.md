@@ -11,18 +11,8 @@
 ```csharp
 public Rectangle WorkingArea { get; set; }
 ```
-```vb
-Public Property WorkingArea As Rectangle
-	Get
-	Set
-```
-```cpp
-public:
-property Rectangle WorkingArea {
-	Rectangle get ();
-	void set (Rectangle value);
-}
-```
+
+
 
 
 #### Значение свойства

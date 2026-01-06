@@ -11,16 +11,8 @@
 ```csharp
 public SweepGeneratorLawDiscrete LawSet { get; }
 ```
-```vb
-Public ReadOnly Property LawSet As SweepGeneratorLawDiscrete
-	Get
-```
-```cpp
-public:
-property SweepGeneratorLawDiscrete^ LawSet {
-	SweepGeneratorLawDiscrete^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

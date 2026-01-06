@@ -13,17 +13,8 @@ public TransformationGroup GetBaseTransfGroupAt(
 	int index
 )
 ```
-```vb
-Public Function GetBaseTransfGroupAt ( 
-	index As Integer
-) As TransformationGroup
-```
-```cpp
-public:
-TransformationGroup^ GetBaseTransfGroupAt(
-	int index
-)
-```
+
+
 
 
 #### Параметры

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class Breaks : IEnumerable<DrawingViewBreak>
 ```
-```vb
-Public NotInheritable Class Breaks
-	Implements IEnumerable(Of DrawingViewBreak)
-```
-```cpp
-public ref class Breaks sealed : IEnumerable<DrawingViewBreak^>
-```
+
+
 
 
 Тип DrawingViewBreaks предоставляет следующие члены.

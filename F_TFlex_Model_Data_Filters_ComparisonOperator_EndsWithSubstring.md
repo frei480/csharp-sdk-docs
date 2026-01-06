@@ -11,13 +11,8 @@
 ```csharp
 public static readonly ComparisonOperator EndsWithSubstring
 ```
-```vb
-Public Shared ReadOnly EndsWithSubstring As ComparisonOperator
-```
-```cpp
-public:
-static initonly ComparisonOperator^ EndsWithSubstring
-```
+
+
 
 
 #### Значение поля

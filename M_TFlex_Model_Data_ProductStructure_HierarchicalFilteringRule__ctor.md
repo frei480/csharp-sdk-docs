@@ -11,13 +11,8 @@
 ```csharp
 public HierarchicalFilteringRule()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-HierarchicalFilteringRule()
-```
+
+
 
 
 #### Ссылки

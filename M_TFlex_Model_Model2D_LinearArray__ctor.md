@@ -13,17 +13,8 @@ public LinearArray(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-LinearArray(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

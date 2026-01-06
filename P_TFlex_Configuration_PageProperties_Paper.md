@@ -8,16 +8,8 @@
 ```csharp
 public Paper Paper { get; }
 ```
-```vb
-Public ReadOnly Property Paper As Paper
-	Get
-```
-```cpp
-public:
-property Paper^ Paper {
-	Paper^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public enum Path3DSegmentType
 ```
-```vb
-Public Enumeration Path3DSegmentType
-```
-```cpp
-public enum class Path3DSegmentType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -11,13 +11,8 @@
 ```csharp
 public class CustomIntRangeAttribute : Attribute
 ```
-```vb
-Public Class CustomIntRangeAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomIntRangeAttribute : public Attribute
-```
+
+
 
 
 Тип CustomIntRangeAttribute предоставляет следующие члены.

@@ -13,12 +13,8 @@
 ```csharp
 public class ConvertToSplineData
 ```
-```vb
-Public Class ConvertToSplineData
-```
-```cpp
-public ref class ConvertToSplineData
-```
+
+
 
 
 Тип Path3DConvertToSplineData предоставляет следующие члены.

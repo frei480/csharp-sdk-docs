@@ -13,13 +13,8 @@
 ```csharp
 public class DynamicAnalysisEventArgs : DocumentEventArgs
 ```
-```vb
-Public Class DynamicAnalysisEventArgs
-	Inherits DocumentEventArgs
-```
-```cpp
-public ref class DynamicAnalysisEventArgs : public DocumentEventArgs
-```
+
+
 
 
 Тип DynamicAnalysisEventArgs предоставляет следующие члены.

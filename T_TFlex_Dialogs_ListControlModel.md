@@ -13,13 +13,8 @@
 ```csharp
 public abstract class ListControlModel : UiObject
 ```
-```vb
-Public MustInherit Class ListControlModel
-	Inherits UiObject
-```
-```cpp
-public ref class ListControlModel abstract : public UiObject
-```
+
+
 
 
 Тип ListControlModel предоставляет следующие члены.

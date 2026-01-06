@@ -11,16 +11,8 @@
 ```csharp
 public string Remarks { get; }
 ```
-```vb
-Public ReadOnly Property Remarks As String
-	Get
-```
-```cpp
-public:
-property String^ Remarks {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

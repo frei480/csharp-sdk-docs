@@ -11,13 +11,8 @@
 ```csharp
 public BOMGroupGroupingRule()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-BOMGroupGroupingRule()
-```
+
+
 
 
 #### Ссылки

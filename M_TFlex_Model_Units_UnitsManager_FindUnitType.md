@@ -10,17 +10,8 @@ public UnitType FindUnitType(
 	Guid unitTypeID
 )
 ```
-```vb
-Public Function FindUnitType ( 
-	unitTypeID As Guid
-) As UnitType
-```
-```cpp
-public:
-UnitType^ FindUnitType(
-	Guid unitTypeID
-)
-```
+
+
 
 
 #### Параметры

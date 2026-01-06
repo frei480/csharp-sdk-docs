@@ -11,18 +11,8 @@
 ```csharp
 public bool UpdateBillOfMaterials { get; set; }
 ```
-```vb
-Public Property UpdateBillOfMaterials As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool UpdateBillOfMaterials {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

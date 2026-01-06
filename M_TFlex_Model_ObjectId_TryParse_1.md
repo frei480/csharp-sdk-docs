@@ -14,19 +14,8 @@ public static bool TryParse(
 	out ObjectId id
 )
 ```
-```vb
-Public Shared Function TryParse ( 
-	idString As String,
-	<OutAttribute> ByRef id As ObjectId
-) As Boolean
-```
-```cpp
-public:
-static bool TryParse(
-	String^ idString, 
-	[OutAttribute] ObjectId^% id
-)
-```
+
+
 
 
 #### Параметры

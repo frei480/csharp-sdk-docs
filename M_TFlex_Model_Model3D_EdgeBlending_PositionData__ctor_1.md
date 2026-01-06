@@ -15,21 +15,8 @@ public PositionData(
 	Parameter radius2
 )
 ```
-```vb
-Public Sub New ( 
-	position As Parameter,
-	radius1 As Parameter,
-	radius2 As Parameter
-)
-```
-```cpp
-public:
-PositionData(
-	Parameter^ position, 
-	Parameter^ radius1, 
-	Parameter^ radius2
-)
-```
+
+
 
 
 #### Параметры

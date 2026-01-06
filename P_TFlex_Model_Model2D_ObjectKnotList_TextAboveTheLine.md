@@ -11,18 +11,8 @@
 ```csharp
 public string TextAboveTheLine { get; set; }
 ```
-```vb
-Public Property TextAboveTheLine As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TextAboveTheLine {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

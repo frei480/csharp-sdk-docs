@@ -13,17 +13,8 @@ public static string ColorNameFromIndex(
 	int index
 )
 ```
-```vb
-Public Shared Function ColorNameFromIndex ( 
-	index As Integer
-) As String
-```
-```cpp
-public:
-static String^ ColorNameFromIndex(
-	int index
-)
-```
+
+
 
 
 #### Параметры

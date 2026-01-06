@@ -11,19 +11,8 @@ public void SetLinearStep(
 	double value
 )
 ```
-```vb
-Public Sub SetLinearStep ( 
-	enable As Boolean,
-	value As Double
-)
-```
-```cpp
-public:
-void SetLinearStep(
-	bool enable, 
-	double value
-)
-```
+
+
 
 
 #### Параметры

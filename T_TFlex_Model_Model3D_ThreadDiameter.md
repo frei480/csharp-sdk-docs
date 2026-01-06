@@ -13,12 +13,8 @@
 ```csharp
 public class ThreadDiameter
 ```
-```vb
-Public Class ThreadDiameter
-```
-```cpp
-public ref class ThreadDiameter
-```
+
+
 
 
 Тип ThreadDiameter предоставляет следующие члены.

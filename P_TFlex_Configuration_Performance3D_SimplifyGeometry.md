@@ -8,18 +8,8 @@
 ```csharp
 public bool SimplifyGeometry { get; set; }
 ```
-```vb
-Public Property SimplifyGeometry As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SimplifyGeometry {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

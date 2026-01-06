@@ -10,17 +10,8 @@ public void Assign(
 	Dimension source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Dimension
-)
-```
-```cpp
-public:
-void Assign(
-	Dimension^ source
-)
-```
+
+
 
 
 #### Параметры

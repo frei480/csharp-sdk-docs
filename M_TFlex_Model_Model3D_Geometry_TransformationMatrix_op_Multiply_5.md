@@ -11,19 +11,8 @@ public static TransformationMatrix operator *(
 	TransformationMatrix tr2
 )
 ```
-```vb
-Public Shared Operator * ( 
-	tr1 As TransformationMatrix,
-	tr2 As TransformationMatrix
-) As TransformationMatrix
-```
-```cpp
-public:
-static TransformationMatrix^ operator *(
-	TransformationMatrix^ tr1, 
-	TransformationMatrix^ tr2
-)
-```
+
+
 
 
 #### Параметры

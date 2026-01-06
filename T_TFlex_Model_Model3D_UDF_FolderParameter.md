@@ -14,15 +14,8 @@
 public sealed class FolderParameter : UDFParameter, 
 	IEnumerator, IEnumerable
 ```
-```vb
-Public NotInheritable Class FolderParameter
-	Inherits UDFParameter
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class FolderParameter sealed : public UDFParameter, 
-	IEnumerator, IEnumerable
-```
+
+
 
 
 Тип UDFFolderParameter предоставляет следующие члены.

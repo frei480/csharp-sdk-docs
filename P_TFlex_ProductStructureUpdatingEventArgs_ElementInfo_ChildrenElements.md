@@ -8,18 +8,8 @@
 ```csharp
 public ICollection<ObjectId> ChildrenElements { get; set; }
 ```
-```vb
-Public Property ChildrenElements As ICollection(Of ObjectId)
-	Get
-	Set
-```
-```cpp
-public:
-property ICollection<ObjectId^>^ ChildrenElements {
-	ICollection<ObjectId^>^ get ();
-	void set (ICollection<ObjectId^>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

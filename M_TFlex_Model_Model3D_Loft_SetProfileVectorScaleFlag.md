@@ -14,19 +14,8 @@ public void SetProfileVectorScaleFlag(
 	bool scaleFlag
 )
 ```
-```vb
-Public Sub SetProfileVectorScaleFlag ( 
-	profileIndex As Integer,
-	scaleFlag As Boolean
-)
-```
-```cpp
-public:
-void SetProfileVectorScaleFlag(
-	int profileIndex, 
-	bool scaleFlag
-)
-```
+
+
 
 
 #### Параметры

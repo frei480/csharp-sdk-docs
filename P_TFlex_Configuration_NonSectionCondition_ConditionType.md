@@ -8,18 +8,8 @@
 ```csharp
 public NonSectionType ConditionType { get; set; }
 ```
-```vb
-Public Property ConditionType As NonSectionType
-	Get
-	Set
-```
-```cpp
-public:
-property NonSectionType ConditionType {
-	NonSectionType get ();
-	void set (NonSectionType value);
-}
-```
+
+
 
 
 #### Значение свойства

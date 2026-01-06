@@ -13,17 +13,8 @@ public Fragment(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Fragment(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

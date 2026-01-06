@@ -15,21 +15,8 @@ public SewGenerator(
 	double gap
 )
 ```
-```vb
-Public Sub New ( 
-	object As ProxyObject3D,
-	sheets As Body(),
-	gap As Double
-)
-```
-```cpp
-public:
-SewGenerator(
-	ProxyObject3D^ object, 
-	array<Body^>^ sheets, 
-	double gap
-)
-```
+
+
 
 
 #### Параметры

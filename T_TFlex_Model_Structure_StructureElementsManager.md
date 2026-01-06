@@ -11,12 +11,8 @@
 ```csharp
 public class StructureElementsManager
 ```
-```vb
-Public Class StructureElementsManager
-```
-```cpp
-public ref class StructureElementsManager
-```
+
+
 
 
 Тип StructureElementsManager предоставляет следующие члены.

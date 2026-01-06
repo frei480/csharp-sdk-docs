@@ -8,12 +8,8 @@
 ```csharp
 public enum ParamDescFlags
 ```
-```vb
-Public Enumeration ParamDescFlags
-```
-```cpp
-public enum class ParamDescFlags
-```
+
+
 
 
 | Имя члена | Значение | Описание |

@@ -10,18 +10,8 @@ public DrawingViewBreak this[
 	int index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As Integer
-) As DrawingViewBreak
-	Get
-```
-```cpp
-public:
-property DrawingViewBreak^ default[int index] {
-	DrawingViewBreak^ get (int index);
-}
-```
+
+
 
 
 #### Параметры

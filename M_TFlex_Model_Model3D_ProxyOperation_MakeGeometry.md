@@ -11,13 +11,8 @@
 ```csharp
 protected virtual bool MakeGeometry()
 ```
-```vb
-Protected Overridable Function MakeGeometry As Boolean
-```
-```cpp
-protected:
-virtual bool MakeGeometry()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -14,19 +14,8 @@ public bool RenameConfiguration(
 	string NewName
 )
 ```
-```vb
-Public Function RenameConfiguration ( 
-	OldName As String,
-	NewName As String
-) As Boolean
-```
-```cpp
-public:
-bool RenameConfiguration(
-	String^ OldName, 
-	String^ NewName
-)
-```
+
+
 
 
 #### Параметры

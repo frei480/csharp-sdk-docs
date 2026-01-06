@@ -15,21 +15,8 @@ public PluginException(
 	Exception innerException
 )
 ```
-```vb
-Public Sub New ( 
-	factory As PluginFactory,
-	message As String,
-	innerException As Exception
-)
-```
-```cpp
-public:
-PluginException(
-	PluginFactory^ factory, 
-	String^ message, 
-	Exception^ innerException
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum LocalizationMode
 ```
-```vb
-Public Enumeration LocalizationMode
-```
-```cpp
-public enum class LocalizationMode
-```
+
+
 
 
 | Имя члена | Значение | Описание |

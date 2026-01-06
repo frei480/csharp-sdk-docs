@@ -13,19 +13,8 @@ public static ICollection<ThreeFaceBlending> GetThreeFaceBlendings(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetThreeFaceBlendings ( 
-	document As Document
-) As ICollection(Of ThreeFaceBlending)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<ThreeFaceBlending^>^ GetThreeFaceBlendings(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

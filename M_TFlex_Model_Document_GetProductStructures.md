@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<ProductStructure> GetProductStructures()
 ```
-```vb
-Public Function GetProductStructures As ICollection(Of ProductStructure)
-```
-```cpp
-public:
-ICollection<ProductStructure^>^ GetProductStructures()
-```
+
+
 
 
 #### Возвращаемое значение

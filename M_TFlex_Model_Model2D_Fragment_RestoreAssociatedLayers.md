@@ -11,13 +11,8 @@
 ```csharp
 public void RestoreAssociatedLayers()
 ```
-```vb
-Public Sub RestoreAssociatedLayers
-```
-```cpp
-public:
-void RestoreAssociatedLayers()
-```
+
+
 
 
 #### Ссылки

@@ -13,13 +13,8 @@
 ```csharp
 public sealed class AffineMap : IDisposable
 ```
-```vb
-Public NotInheritable Class AffineMap
-	Implements IDisposable
-```
-```cpp
-public ref class AffineMap sealed : IDisposable
-```
+
+
 
 
 Тип AffineMap предоставляет следующие члены.

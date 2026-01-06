@@ -11,18 +11,8 @@
 ```csharp
 public virtual Parameter Color { get; set; }
 ```
-```vb
-Public Overridable Property Color As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-virtual property Parameter^ Color {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

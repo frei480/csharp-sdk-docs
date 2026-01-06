@@ -13,19 +13,8 @@ public static ICollection<CAEStudy> GetCAEStudies(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetCAEStudies ( 
-	document As Document
-) As ICollection(Of CAEStudy)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<CAEStudy^>^ GetCAEStudies(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

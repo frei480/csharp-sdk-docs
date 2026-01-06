@@ -13,17 +13,8 @@ public GeomReference(
 	ModelCurve curve
 )
 ```
-```vb
-Public Sub New ( 
-	curve As ModelCurve
-)
-```
-```cpp
-public:
-GeomReference(
-	ModelCurve^ curve
-)
-```
+
+
 
 
 #### Параметры

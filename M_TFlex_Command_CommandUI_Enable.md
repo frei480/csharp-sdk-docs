@@ -11,13 +11,8 @@
 ```csharp
 public void Enable()
 ```
-```vb
-Public Sub Enable
-```
-```cpp
-public:
-void Enable()
-```
+
+
 
 
 #### Ссылки

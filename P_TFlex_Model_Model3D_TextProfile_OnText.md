@@ -11,18 +11,8 @@
 ```csharp
 public Node OnText { get; set; }
 ```
-```vb
-Public Property OnText As Node
-	Get
-	Set
-```
-```cpp
-public:
-property Node^ OnText {
-	Node^ get ();
-	void set (Node^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetLayers' method.")]
 public ObjectContainer Layers { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetLayers' method.")>
-Public ReadOnly Property Layers As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetLayers' method.")]
-property ObjectContainer^ Layers {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

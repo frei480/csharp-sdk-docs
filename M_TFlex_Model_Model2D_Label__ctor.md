@@ -13,17 +13,8 @@ public Label(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-Label(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

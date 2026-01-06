@@ -8,18 +8,8 @@
 ```csharp
 public bool IsOptionalValueSet { get; set; }
 ```
-```vb
-Public Property IsOptionalValueSet As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsOptionalValueSet {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

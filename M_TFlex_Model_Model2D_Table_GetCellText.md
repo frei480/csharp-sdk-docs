@@ -13,17 +13,8 @@ public string GetCellText(
 	uint cell
 )
 ```
-```vb
-Public Function GetCellText ( 
-	cell As UInteger
-) As String
-```
-```cpp
-public:
-String^ GetCellText(
-	unsigned int cell
-)
-```
+
+
 
 
 #### Параметры

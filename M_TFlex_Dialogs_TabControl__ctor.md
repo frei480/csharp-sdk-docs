@@ -11,13 +11,8 @@
 ```csharp
 public TabControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-TabControl()
-```
+
+
 
 
 #### Ссылки

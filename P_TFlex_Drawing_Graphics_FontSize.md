@@ -11,18 +11,8 @@
 ```csharp
 public double FontSize { get; set; }
 ```
-```vb
-Public Property FontSize As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double FontSize {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

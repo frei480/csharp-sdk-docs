@@ -11,18 +11,8 @@
 ```csharp
 public bool SaveSolidBodiesAsFaceSet { get; set; }
 ```
-```vb
-Public Property SaveSolidBodiesAsFaceSet As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool SaveSolidBodiesAsFaceSet {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

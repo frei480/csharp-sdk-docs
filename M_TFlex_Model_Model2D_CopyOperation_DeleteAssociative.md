@@ -14,19 +14,8 @@ public bool DeleteAssociative(
 	int indexTransformation
 )
 ```
-```vb
-Public Function DeleteAssociative ( 
-	indexSource As Integer,
-	indexTransformation As Integer
-) As Boolean
-```
-```cpp
-public:
-bool DeleteAssociative(
-	int indexSource, 
-	int indexTransformation
-)
-```
+
+
 
 
 #### Параметры

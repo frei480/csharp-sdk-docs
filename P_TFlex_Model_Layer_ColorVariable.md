@@ -11,18 +11,8 @@
 ```csharp
 public Variable ColorVariable { get; set; }
 ```
-```vb
-Public Property ColorVariable As Variable
-	Get
-	Set
-```
-```cpp
-public:
-property Variable^ ColorVariable {
-	Variable^ get ();
-	void set (Variable^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public Point3D FromMeter(
 	BasePoint3D point
 )
 ```
-```vb
-Public Function FromMeter ( 
-	point As BasePoint3D
-) As Point3D
-```
-```cpp
-public:
-Point3D^ FromMeter(
-	BasePoint3D^ point
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public IntPtr GetDocumentPtr(
 	Document document
 )
 ```
-```vb
-Public Function GetDocumentPtr ( 
-	document As Document
-) As IntPtr
-```
-```cpp
-public:
-IntPtr GetDocumentPtr(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

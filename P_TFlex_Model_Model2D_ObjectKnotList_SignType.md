@@ -11,18 +11,8 @@
 ```csharp
 public int SignType { get; set; }
 ```
-```vb
-Public Property SignType As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int SignType {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

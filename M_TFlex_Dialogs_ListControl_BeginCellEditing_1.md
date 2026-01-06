@@ -10,17 +10,8 @@ public bool BeginCellEditing(
 	CellInfo cell
 )
 ```
-```vb
-Public Function BeginCellEditing ( 
-	cell As CellInfo
-) As Boolean
-```
-```cpp
-public:
-bool BeginCellEditing(
-	CellInfo^ cell
-)
-```
+
+
 
 
 #### Параметры

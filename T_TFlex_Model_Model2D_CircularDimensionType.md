@@ -11,12 +11,8 @@
 ```csharp
 public enum CircularDimensionType
 ```
-```vb
-Public Enumeration CircularDimensionType
-```
-```cpp
-public enum class CircularDimensionType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

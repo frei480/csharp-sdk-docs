@@ -13,13 +13,8 @@
 ```csharp
 public sealed class ExportToParasolid : ExportTo
 ```
-```vb
-Public NotInheritable Class ExportToParasolid
-	Inherits ExportTo
-```
-```cpp
-public ref class ExportToParasolid sealed : public ExportTo
-```
+
+
 
 
 Тип ExportToParasolid предоставляет следующие члены.

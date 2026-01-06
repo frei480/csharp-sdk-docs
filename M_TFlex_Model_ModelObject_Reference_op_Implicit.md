@@ -13,16 +13,8 @@ public static implicit operator ModelObjectReference (
 	ModelObject object
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	object As ModelObject
-) As ModelObjectReference
-```
-```cpp
-static implicit operator ModelObjectReference^ (
-	ModelObject^ object
-)
-```
+
+
 
 
 #### Параметры

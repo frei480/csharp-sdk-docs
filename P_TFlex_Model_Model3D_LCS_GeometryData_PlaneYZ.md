@@ -11,16 +11,8 @@
 ```csharp
 public ModelPlane PlaneYZ { get; }
 ```
-```vb
-Public ReadOnly Property PlaneYZ As ModelPlane
-	Get
-```
-```cpp
-public:
-property ModelPlane^ PlaneYZ {
-	ModelPlane^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,12 +11,8 @@
 ```csharp
 public class Managed3dApi
 ```
-```vb
-Public Class Managed3dApi
-```
-```cpp
-public ref class Managed3dApi
-```
+
+
 
 
 Тип Managed3dApi предоставляет следующие члены.

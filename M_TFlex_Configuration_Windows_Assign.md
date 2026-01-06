@@ -10,17 +10,8 @@ public void Assign(
 	Windows source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Windows
-)
-```
-```cpp
-public:
-void Assign(
-	Windows^ source
-)
-```
+
+
 
 
 #### Параметры

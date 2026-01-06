@@ -14,18 +14,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'Visible' property.")]
 public bool IsVisible { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'Visible' property.")>
-Public ReadOnly Property IsVisible As Boolean
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'Visible' property.")]
-property bool IsVisible {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

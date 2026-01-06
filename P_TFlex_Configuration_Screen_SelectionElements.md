@@ -8,18 +8,8 @@
 ```csharp
 public SelectionModeElements SelectionElements { get; set; }
 ```
-```vb
-Public Property SelectionElements As SelectionModeElements
-	Get
-	Set
-```
-```cpp
-public:
-property SelectionModeElements SelectionElements {
-	SelectionModeElements get ();
-	void set (SelectionModeElements value);
-}
-```
+
+
 
 
 #### Значение свойства

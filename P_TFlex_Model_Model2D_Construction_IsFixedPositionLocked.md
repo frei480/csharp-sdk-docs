@@ -11,18 +11,8 @@ Block the ability to control fixation of construction line from interface
 ```csharp
 public bool IsFixedPositionLocked { get; set; }
 ```
-```vb
-Public Property IsFixedPositionLocked As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsFixedPositionLocked {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

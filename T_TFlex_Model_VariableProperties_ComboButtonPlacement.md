@@ -11,12 +11,8 @@
 ```csharp
 public enum ComboButtonPlacement
 ```
-```vb
-Public Enumeration ComboButtonPlacement
-```
-```cpp
-public enum class ComboButtonPlacement
-```
+
+
 
 
 | Имя члена | Значение | Описание |

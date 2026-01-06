@@ -11,18 +11,8 @@
 ```csharp
 public bool StoreSourceBody { get; set; }
 ```
-```vb
-Public Property StoreSourceBody As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool StoreSourceBody {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void SetHeaders(
 	params Object[] content
 )
 ```
-```vb
-Public Sub SetHeaders ( 
-	ParamArray content As Object()
-)
-```
-```cpp
-public:
-void SetHeaders(
-	... array<Object^>^ content
-)
-```
+
+
 
 
 #### Параметры

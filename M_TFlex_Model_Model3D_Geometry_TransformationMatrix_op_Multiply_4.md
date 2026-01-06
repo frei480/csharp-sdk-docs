@@ -11,19 +11,8 @@ public static Surface operator *(
 	TransformationMatrix tr
 )
 ```
-```vb
-Public Shared Operator * ( 
-	surface As BaseSurface,
-	tr As TransformationMatrix
-) As Surface
-```
-```cpp
-public:
-static Surface^ operator *(
-	BaseSurface^ surface, 
-	TransformationMatrix^ tr
-)
-```
+
+
 
 
 #### Параметры

@@ -8,16 +8,8 @@
 ```csharp
 public Annotations Annotations { get; }
 ```
-```vb
-Public ReadOnly Property Annotations As Annotations
-	Get
-```
-```cpp
-public:
-property Annotations^ Annotations {
-	Annotations^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

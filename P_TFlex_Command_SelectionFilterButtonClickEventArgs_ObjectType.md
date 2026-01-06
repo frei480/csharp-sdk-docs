@@ -8,16 +8,8 @@
 ```csharp
 public ObjectType ObjectType { get; }
 ```
-```vb
-Public ReadOnly Property ObjectType As ObjectType
-	Get
-```
-```cpp
-public:
-property ObjectType ObjectType {
-	ObjectType get ();
-}
-```
+
+
 
 
 #### Значение свойства

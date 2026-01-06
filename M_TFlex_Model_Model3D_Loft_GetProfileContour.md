@@ -14,19 +14,8 @@ public ModelContour GetProfileContour(
 	int contourIndex
 )
 ```
-```vb
-Public Function GetProfileContour ( 
-	profileIndex As Integer,
-	contourIndex As Integer
-) As ModelContour
-```
-```cpp
-public:
-ModelContour^ GetProfileContour(
-	int profileIndex, 
-	int contourIndex
-)
-```
+
+
 
 
 #### Параметры

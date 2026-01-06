@@ -13,17 +13,8 @@ public string GetShortPathName(
 	string fileName
 )
 ```
-```vb
-Public Function GetShortPathName ( 
-	fileName As String
-) As String
-```
-```cpp
-public:
-String^ GetShortPathName(
-	String^ fileName
-)
-```
+
+
 
 
 #### Параметры

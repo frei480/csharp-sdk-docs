@@ -11,19 +11,8 @@ public void XMLSerialize(
 	bool saveEmpty = false
 )
 ```
-```vb
-Public Sub XMLSerialize ( 
-	writer As XmlWriter,
-	Optional saveEmpty As Boolean = false
-)
-```
-```cpp
-public:
-void XMLSerialize(
-	XmlWriter^ writer, 
-	bool saveEmpty = false
-)
-```
+
+
 
 
 #### Параметры

@@ -11,18 +11,8 @@
 ```csharp
 public string ConverterName { get; set; }
 ```
-```vb
-Public Property ConverterName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ ConverterName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

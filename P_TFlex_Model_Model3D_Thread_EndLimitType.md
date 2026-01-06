@@ -11,18 +11,8 @@
 ```csharp
 public ThreadEndLimit EndLimitType { get; set; }
 ```
-```vb
-Public Property EndLimitType As ThreadEndLimit
-	Get
-	Set
-```
-```cpp
-public:
-property ThreadEndLimit EndLimitType {
-	ThreadEndLimit get ();
-	void set (ThreadEndLimit value);
-}
-```
+
+
 
 
 #### Значение свойства

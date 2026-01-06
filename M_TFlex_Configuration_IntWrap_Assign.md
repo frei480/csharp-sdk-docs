@@ -10,17 +10,8 @@ public void Assign(
 	IntWrap source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As IntWrap
-)
-```
-```cpp
-public:
-void Assign(
-	IntWrap^ source
-)
-```
+
+
 
 
 #### Параметры

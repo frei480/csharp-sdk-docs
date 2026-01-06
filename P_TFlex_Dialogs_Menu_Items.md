@@ -11,16 +11,8 @@
 ```csharp
 public IList<MenuItemBase> Items { get; }
 ```
-```vb
-Public ReadOnly Property Items As IList(Of MenuItemBase)
-	Get
-```
-```cpp
-public:
-property IList<MenuItemBase^>^ Items {
-	IList<MenuItemBase^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

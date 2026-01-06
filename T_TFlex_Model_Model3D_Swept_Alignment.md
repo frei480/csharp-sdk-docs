@@ -11,12 +11,8 @@
 ```csharp
 public enum Alignment
 ```
-```vb
-Public Enumeration Alignment
-```
-```cpp
-public enum class Alignment
-```
+
+
 
 
 | Имя члена | Значение | Описание |

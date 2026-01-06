@@ -8,18 +8,8 @@
 ```csharp
 public bool GroupOnExplode { get; set; }
 ```
-```vb
-Public Property GroupOnExplode As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool GroupOnExplode {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

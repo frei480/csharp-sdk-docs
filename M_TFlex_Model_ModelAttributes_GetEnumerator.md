@@ -11,13 +11,8 @@
 ```csharp
 public virtual IEnumerator<ModelAttribute> GetEnumerator()
 ```
-```vb
-Public Overridable Function GetEnumerator As IEnumerator(Of ModelAttribute)
-```
-```cpp
-public:
-virtual IEnumerator<ModelAttribute^>^ GetEnumerator()
-```
+
+
 
 
 #### Возвращаемое значение

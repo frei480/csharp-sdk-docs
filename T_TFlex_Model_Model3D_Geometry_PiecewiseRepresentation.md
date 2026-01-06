@@ -11,12 +11,8 @@
 ```csharp
 public enum PiecewiseRepresentation
 ```
-```vb
-Public Enumeration PiecewiseRepresentation
-```
-```cpp
-public enum class PiecewiseRepresentation
-```
+
+
 
 
 | Имя члена | Значение | Описание |

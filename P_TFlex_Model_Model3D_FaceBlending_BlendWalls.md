@@ -11,18 +11,8 @@
 ```csharp
 public FaceBlendingWallsType BlendWalls { get; set; }
 ```
-```vb
-Public Property BlendWalls As FaceBlendingWallsType
-	Get
-	Set
-```
-```cpp
-public:
-property FaceBlendingWallsType BlendWalls {
-	FaceBlendingWallsType get ();
-	void set (FaceBlendingWallsType value);
-}
-```
+
+
 
 
 #### Значение свойства

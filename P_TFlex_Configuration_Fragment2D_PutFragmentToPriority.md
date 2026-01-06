@@ -8,18 +8,8 @@
 ```csharp
 public bool PutFragmentToPriority { get; set; }
 ```
-```vb
-Public Property PutFragmentToPriority As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool PutFragmentToPriority {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

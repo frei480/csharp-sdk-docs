@@ -11,12 +11,8 @@
 ```csharp
 public enum ChangesResult
 ```
-```vb
-Public Enumeration ChangesResult
-```
-```cpp
-public enum class ChangesResult
-```
+
+
 
 
 | Имя члена | Значение | Описание |

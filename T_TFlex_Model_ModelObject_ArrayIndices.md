@@ -13,12 +13,8 @@
 ```csharp
 public class ArrayIndices
 ```
-```vb
-Public Class ArrayIndices
-```
-```cpp
-public ref class ArrayIndices
-```
+
+
 
 
 Тип ModelObjectArrayIndices предоставляет следующие члены.

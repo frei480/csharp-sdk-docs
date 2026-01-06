@@ -11,18 +11,8 @@
 ```csharp
 public IntPtr Tag { get; set; }
 ```
-```vb
-Public Property Tag As IntPtr
-	Get
-	Set
-```
-```cpp
-public:
-property IntPtr Tag {
-	IntPtr get ();
-	void set (IntPtr value);
-}
-```
+
+
 
 
 #### Значение свойства

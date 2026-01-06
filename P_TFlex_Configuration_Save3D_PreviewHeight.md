@@ -8,18 +8,8 @@
 ```csharp
 public int PreviewHeight { get; set; }
 ```
-```vb
-Public Property PreviewHeight As Integer
-	Get
-	Set
-```
-```cpp
-public:
-property int PreviewHeight {
-	int get ();
-	void set (int value);
-}
-```
+
+
 
 
 #### Значение свойства

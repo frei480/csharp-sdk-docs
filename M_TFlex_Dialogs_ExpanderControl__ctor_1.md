@@ -13,17 +13,8 @@ public ExpanderControl(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-ExpanderControl(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

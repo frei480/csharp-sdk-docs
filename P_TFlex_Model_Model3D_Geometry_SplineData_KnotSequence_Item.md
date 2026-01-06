@@ -10,20 +10,8 @@ public SplineDataKnotSequenceKnot this[
 	uint index
 ] { get; set; }
 ```
-```vb
-Public Default Property Item ( 
-	index As UInteger
-) As SplineDataKnotSequenceKnot
-	Get
-	Set
-```
-```cpp
-public:
-property SplineDataKnotSequenceKnot^ default[unsigned int index] {
-	SplineDataKnotSequenceKnot^ get (unsigned int index);
-	void set (unsigned int index, SplineDataKnotSequenceKnot^ value);
-}
-```
+
+
 
 
 #### Параметры

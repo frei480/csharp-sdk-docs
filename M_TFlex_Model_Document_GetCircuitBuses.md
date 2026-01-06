@@ -8,13 +8,8 @@
 ```csharp
 public ICollection<Bus> GetCircuitBuses()
 ```
-```vb
-Public Function GetCircuitBuses As ICollection(Of Bus)
-```
-```cpp
-public:
-ICollection<Bus^>^ GetCircuitBuses()
-```
+
+
 
 
 #### Возвращаемое значение

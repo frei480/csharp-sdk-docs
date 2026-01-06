@@ -11,13 +11,8 @@
 ```csharp
 public bool Visible
 ```
-```vb
-Public Visible As Boolean
-```
-```cpp
-public:
-bool Visible
-```
+
+
 
 
 #### Значение поля

@@ -10,16 +10,8 @@ public static implicit operator BooleanOperationOperandsArrayOperand (
 	Operation operation
 )
 ```
-```vb
-Public Shared Widening Operator CType ( 
-	operation As Operation
-) As BooleanOperationOperandsArrayOperand
-```
-```cpp
-static implicit operator BooleanOperationOperandsArrayOperand^ (
-	Operation^ operation
-)
-```
+
+
 
 
 #### Параметры

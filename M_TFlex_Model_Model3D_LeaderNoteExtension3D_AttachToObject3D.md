@@ -11,21 +11,8 @@ public static void AttachToObject3D(
 	Object3D obj3D
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Sub AttachToObject3D ( 
-	__unnamed000 As LeaderNote,
-	obj3D As Object3D
-)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static void AttachToObject3D(
-	LeaderNote^ __unnamed000, 
-	Object3D^ obj3D
-)
-```
+
+
 
 
 #### Параметры

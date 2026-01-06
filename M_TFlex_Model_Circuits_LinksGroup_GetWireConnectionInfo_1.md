@@ -11,19 +11,8 @@ public override WireConnectionInfo GetWireConnectionInfo(
 	bool edit
 )
 ```
-```vb
-Public Overrides Function GetWireConnectionInfo ( 
-	wire As Element,
-	edit As Boolean
-) As WireConnectionInfo
-```
-```cpp
-public:
-virtual WireConnectionInfo^ GetWireConnectionInfo(
-	Element^ wire, 
-	bool edit
-) override
-```
+
+
 
 
 #### Параметры

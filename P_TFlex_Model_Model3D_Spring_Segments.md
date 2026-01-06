@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Segments { get; set; }
 ```
-```vb
-Public Property Segments As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Segments {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

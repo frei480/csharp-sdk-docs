@@ -11,18 +11,8 @@
 ```csharp
 public bool RemoveTopologyFlag { get; set; }
 ```
-```vb
-Public Property RemoveTopologyFlag As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool RemoveTopologyFlag {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

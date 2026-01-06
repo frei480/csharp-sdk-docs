@@ -13,17 +13,8 @@ protected virtual void PlaneCreateEventHandler(
 	PlaneCreateEventArgs args
 )
 ```
-```vb
-Protected Overridable Sub PlaneCreateEventHandler ( 
-	args As PlaneCreateEventArgs
-)
-```
-```cpp
-protected:
-virtual void PlaneCreateEventHandler(
-	PlaneCreateEventArgs^ args
-)
-```
+
+
 
 
 #### Параметры

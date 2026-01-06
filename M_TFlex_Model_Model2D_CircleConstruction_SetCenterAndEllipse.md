@@ -14,19 +14,8 @@ public void SetCenterAndEllipse(
 	Construction srcEllipse
 )
 ```
-```vb
-Public Sub SetCenterAndEllipse ( 
-	centerNode As Node,
-	srcEllipse As Construction
-)
-```
-```cpp
-public:
-void SetCenterAndEllipse(
-	Node^ centerNode, 
-	Construction^ srcEllipse
-)
-```
+
+
 
 
 #### Параметры

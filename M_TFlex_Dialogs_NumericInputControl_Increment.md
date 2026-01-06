@@ -11,13 +11,8 @@
 ```csharp
 public void Increment()
 ```
-```vb
-Public Sub Increment
-```
-```cpp
-public:
-void Increment()
-```
+
+
 
 
 #### Ссылки

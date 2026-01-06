@@ -11,13 +11,8 @@
 ```csharp
 public class CustomBrowsableTreeAttribute : Attribute
 ```
-```vb
-Public Class CustomBrowsableTreeAttribute
-	Inherits Attribute
-```
-```cpp
-public ref class CustomBrowsableTreeAttribute : public Attribute
-```
+
+
 
 
 Тип CustomBrowsableTreeAttribute предоставляет следующие члены.

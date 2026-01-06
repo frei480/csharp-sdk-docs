@@ -8,16 +8,8 @@
 ```csharp
 public SketcherOptions SketcherOptions { get; }
 ```
-```vb
-Public ReadOnly Property SketcherOptions As SketcherOptions
-	Get
-```
-```cpp
-public:
-property SketcherOptions^ SketcherOptions {
-	SketcherOptions^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

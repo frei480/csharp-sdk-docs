@@ -11,16 +11,8 @@
 ```csharp
 public virtual BaseCurve Curve { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Curve As BaseCurve
-	Get
-```
-```cpp
-public:
-virtual property BaseCurve^ Curve {
-	BaseCurve^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

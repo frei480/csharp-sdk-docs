@@ -11,18 +11,8 @@
 ```csharp
 public ModelContour PlanarContour { get; set; }
 ```
-```vb
-Public Property PlanarContour As ModelContour
-	Get
-	Set
-```
-```cpp
-public:
-property ModelContour^ PlanarContour {
-	ModelContour^ get ();
-	void set (ModelContour^ value);
-}
-```
+
+
 
 
 #### Значение свойства

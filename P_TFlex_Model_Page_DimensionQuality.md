@@ -11,18 +11,8 @@
 ```csharp
 public Parameter DimensionQuality { get; set; }
 ```
-```vb
-Public Property DimensionQuality As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ DimensionQuality {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

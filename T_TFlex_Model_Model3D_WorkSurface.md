@@ -13,13 +13,8 @@
 ```csharp
 public abstract class WorkSurface : Construction3D
 ```
-```vb
-Public MustInherit Class WorkSurface
-	Inherits Construction3D
-```
-```cpp
-public ref class WorkSurface abstract : public Construction3D
-```
+
+
 
 
 Тип WorkSurface предоставляет следующие члены.

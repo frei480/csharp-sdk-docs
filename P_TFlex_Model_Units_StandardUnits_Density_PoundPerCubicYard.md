@@ -13,16 +13,8 @@
 ```csharp
 public static Unit PoundPerCubicYard { get; }
 ```
-```vb
-Public Shared ReadOnly Property PoundPerCubicYard As Unit
-	Get
-```
-```cpp
-public:
-static property Unit^ PoundPerCubicYard {
-	Unit^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

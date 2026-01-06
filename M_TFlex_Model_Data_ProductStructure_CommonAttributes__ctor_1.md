@@ -13,17 +13,8 @@ public CommonAttributes(
 	IEnumerable<CommonAttribute> attrs
 )
 ```
-```vb
-Public Sub New ( 
-	attrs As IEnumerable(Of CommonAttribute)
-)
-```
-```cpp
-public:
-CommonAttributes(
-	IEnumerable<CommonAttribute^>^ attrs
-)
-```
+
+
 
 
 #### Параметры

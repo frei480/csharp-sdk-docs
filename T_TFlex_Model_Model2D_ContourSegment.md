@@ -13,12 +13,8 @@
 ```csharp
 public class ContourSegment
 ```
-```vb
-Public Class ContourSegment
-```
-```cpp
-public ref class ContourSegment
-```
+
+
 
 
 Тип ContourSegment предоставляет следующие члены.

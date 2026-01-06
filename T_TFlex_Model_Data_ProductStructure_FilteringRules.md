@@ -11,13 +11,8 @@
 ```csharp
 public class FilteringRules : ICloneable
 ```
-```vb
-Public Class FilteringRules
-	Implements ICloneable
-```
-```cpp
-public ref class FilteringRules : ICloneable
-```
+
+
 
 
 Тип FilteringRules предоставляет следующие члены.

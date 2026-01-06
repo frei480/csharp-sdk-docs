@@ -11,18 +11,8 @@
 ```csharp
 public WorkSurface WorkSurface { get; set; }
 ```
-```vb
-Public Property WorkSurface As WorkSurface
-	Get
-	Set
-```
-```cpp
-public:
-property WorkSurface^ WorkSurface {
-	WorkSurface^ get ();
-	void set (WorkSurface^ value);
-}
-```
+
+
 
 
 #### Значение свойства

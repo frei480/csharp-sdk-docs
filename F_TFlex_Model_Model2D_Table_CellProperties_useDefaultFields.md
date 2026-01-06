@@ -11,13 +11,8 @@
 ```csharp
 public bool useDefaultFields
 ```
-```vb
-Public useDefaultFields As Boolean
-```
-```cpp
-public:
-bool useDefaultFields
-```
+
+
 
 
 #### Значение поля

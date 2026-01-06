@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Density
 ```
-```vb
-Public NotInheritable Class Density
-```
-```cpp
-public ref class Density sealed
-```
+
+
 
 
 Тип StandardUnitsDensity предоставляет следующие члены.

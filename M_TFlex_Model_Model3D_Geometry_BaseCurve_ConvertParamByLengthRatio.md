@@ -13,17 +13,8 @@ public double ConvertParamByLengthRatio(
 	double paramByLengthRatio
 )
 ```
-```vb
-Public Function ConvertParamByLengthRatio ( 
-	paramByLengthRatio As Double
-) As Double
-```
-```cpp
-public:
-double ConvertParamByLengthRatio(
-	double paramByLengthRatio
-)
-```
+
+
 
 
 #### Параметры

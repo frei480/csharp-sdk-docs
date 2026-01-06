@@ -11,19 +11,8 @@ public static bool operator ==(
 	ModelTopol topol2
 )
 ```
-```vb
-Public Shared Operator = ( 
-	topol1 As ModelTopol,
-	topol2 As ModelTopol
-) As Boolean
-```
-```cpp
-public:
-static bool operator ==(
-	ModelTopol^ topol1, 
-	ModelTopol^ topol2
-)
-```
+
+
 
 
 #### Параметры

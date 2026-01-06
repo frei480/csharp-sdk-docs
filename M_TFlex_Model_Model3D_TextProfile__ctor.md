@@ -13,17 +13,8 @@ public TextProfile(
 	Document Doc
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-public:
-TextProfile(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

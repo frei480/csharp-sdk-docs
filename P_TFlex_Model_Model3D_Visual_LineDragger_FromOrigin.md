@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool FromOrigin { get; set; }
 ```
-```vb
-Public Overridable Property FromOrigin As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool FromOrigin {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

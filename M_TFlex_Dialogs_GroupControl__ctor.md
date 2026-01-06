@@ -11,13 +11,8 @@
 ```csharp
 public GroupControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-GroupControl()
-```
+
+
 
 
 #### Ссылки

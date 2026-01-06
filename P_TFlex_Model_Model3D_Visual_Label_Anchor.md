@@ -8,18 +8,8 @@
 ```csharp
 public virtual BasePoint3D Anchor { get; set; }
 ```
-```vb
-Public Overridable Property Anchor As BasePoint3D
-	Get
-	Set
-```
-```cpp
-public:
-virtual property BasePoint3D^ Anchor {
-	BasePoint3D^ get ();
-	void set (BasePoint3D^ value);
-}
-```
+
+
 
 
 #### Значение свойства

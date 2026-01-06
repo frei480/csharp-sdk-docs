@@ -13,17 +13,8 @@ public bool RemoveCuttingItem(
 	int index
 )
 ```
-```vb
-Public Function RemoveCuttingItem ( 
-	index As Integer
-) As Boolean
-```
-```cpp
-public:
-bool RemoveCuttingItem(
-	int index
-)
-```
+
+
 
 
 #### Параметры

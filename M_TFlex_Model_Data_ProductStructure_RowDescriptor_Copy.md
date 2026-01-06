@@ -8,13 +8,8 @@
 ```csharp
 public RowDescriptor Copy()
 ```
-```vb
-Public Function Copy As RowDescriptor
-```
-```cpp
-public:
-RowDescriptor^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

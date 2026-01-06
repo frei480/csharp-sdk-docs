@@ -8,18 +8,8 @@
 ```csharp
 public bool IsUseForVersionGrouping { get; set; }
 ```
-```vb
-Public Property IsUseForVersionGrouping As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool IsUseForVersionGrouping {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

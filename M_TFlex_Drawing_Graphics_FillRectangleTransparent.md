@@ -12,21 +12,8 @@ public void FillRectangleTransparent(
 	double opacity
 )
 ```
-```vb
-Public Sub FillRectangleTransparent ( 
-	rect As Rectangle,
-	color As Integer,
-	opacity As Double
-)
-```
-```cpp
-public:
-void FillRectangleTransparent(
-	Rectangle rect, 
-	int color, 
-	double opacity
-)
-```
+
+
 
 
 #### Параметры

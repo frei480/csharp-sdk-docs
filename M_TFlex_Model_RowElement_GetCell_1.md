@@ -13,17 +13,8 @@ public RowElementCell GetCell(
 	ParameterDescriptor parameter
 )
 ```
-```vb
-Public Function GetCell ( 
-	parameter As ParameterDescriptor
-) As RowElementCell
-```
-```cpp
-public:
-RowElementCell^ GetCell(
-	ParameterDescriptor^ parameter
-)
-```
+
+
 
 
 #### Параметры

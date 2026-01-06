@@ -13,17 +13,8 @@ public EdgeBlendingAttribute GetAttrib(
 	int topolIndex
 )
 ```
-```vb
-Public Function GetAttrib ( 
-	topolIndex As Integer
-) As EdgeBlendingAttribute
-```
-```cpp
-public:
-EdgeBlendingAttribute^ GetAttrib(
-	int topolIndex
-)
-```
+
+
 
 
 #### Параметры

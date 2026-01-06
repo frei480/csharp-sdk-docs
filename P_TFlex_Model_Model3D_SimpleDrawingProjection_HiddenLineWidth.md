@@ -11,18 +11,8 @@
 ```csharp
 public Parameter HiddenLineWidth { get; set; }
 ```
-```vb
-Public Property HiddenLineWidth As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ HiddenLineWidth {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

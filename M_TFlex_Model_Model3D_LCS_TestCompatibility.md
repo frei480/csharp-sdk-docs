@@ -14,19 +14,8 @@ public static bool TestCompatibility(
 	LCS objectB
 )
 ```
-```vb
-Public Shared Function TestCompatibility ( 
-	objectA As LCS,
-	objectB As LCS
-) As Boolean
-```
-```cpp
-public:
-static bool TestCompatibility(
-	LCS^ objectA, 
-	LCS^ objectB
-)
-```
+
+
 
 
 #### Параметры

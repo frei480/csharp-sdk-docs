@@ -11,16 +11,8 @@
 ```csharp
 public DrawingViewFixingMode ViewFixingMode { get; }
 ```
-```vb
-Public ReadOnly Property ViewFixingMode As DrawingViewFixingMode
-	Get
-```
-```cpp
-public:
-property DrawingViewFixingMode ViewFixingMode {
-	DrawingViewFixingMode get ();
-}
-```
+
+
 
 
 #### Значение свойства

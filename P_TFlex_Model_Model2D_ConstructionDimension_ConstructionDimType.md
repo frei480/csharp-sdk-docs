@@ -11,16 +11,8 @@
 ```csharp
 public ConstructionDimensionType ConstructionDimType { get; }
 ```
-```vb
-Public ReadOnly Property ConstructionDimType As ConstructionDimensionType
-	Get
-```
-```cpp
-public:
-property ConstructionDimensionType ConstructionDimType {
-	ConstructionDimensionType get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -14,14 +14,8 @@
 public class ProjectionAreaArray : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class ProjectionAreaArray
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class ProjectionAreaArray : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип ProjectionAreaArray предоставляет следующие члены.

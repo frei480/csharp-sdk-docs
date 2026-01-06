@@ -10,17 +10,8 @@ public IEnumerable<LinkedObjectInfo> FindLinkedObjects(
 	ModelObject obj
 )
 ```
-```vb
-Public Function FindLinkedObjects ( 
-	obj As ModelObject
-) As IEnumerable(Of LinkedObjectInfo)
-```
-```cpp
-public:
-IEnumerable<LinkedObjectInfo^>^ FindLinkedObjects(
-	ModelObject^ obj
-)
-```
+
+
 
 
 #### Параметры

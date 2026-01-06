@@ -11,18 +11,8 @@
 ```csharp
 public Construction Path { get; set; }
 ```
-```vb
-Public Property Path As Construction
-	Get
-	Set
-```
-```cpp
-public:
-property Construction^ Path {
-	Construction^ get ();
-	void set (Construction^ value);
-}
-```
+
+
 
 
 #### Значение свойства

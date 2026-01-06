@@ -8,12 +8,8 @@
 ```csharp
 public enum VariableEditorType
 ```
-```vb
-Public Enumeration VariableEditorType
-```
-```cpp
-public enum class VariableEditorType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

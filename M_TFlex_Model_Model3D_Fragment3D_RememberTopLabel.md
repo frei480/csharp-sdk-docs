@@ -13,17 +13,8 @@ public void RememberTopLabel(
 	Fragment3DLabelType type
 )
 ```
-```vb
-Public Sub RememberTopLabel ( 
-	type As Fragment3DLabelType
-)
-```
-```cpp
-public:
-void RememberTopLabel(
-	Fragment3DLabelType type
-)
-```
+
+
 
 
 #### Параметры

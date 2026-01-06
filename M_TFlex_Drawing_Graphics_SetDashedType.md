@@ -13,17 +13,8 @@ public bool SetDashedType(
 	bool dashed
 )
 ```
-```vb
-Public Function SetDashedType ( 
-	dashed As Boolean
-) As Boolean
-```
-```cpp
-public:
-bool SetDashedType(
-	bool dashed
-)
-```
+
+
 
 
 #### Параметры

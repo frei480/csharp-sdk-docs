@@ -13,13 +13,8 @@
 ```csharp
 public class ThreeFaceBlending : Operation
 ```
-```vb
-Public Class ThreeFaceBlending
-	Inherits Operation
-```
-```cpp
-public ref class ThreeFaceBlending : public Operation
-```
+
+
 
 
 Тип ThreeFaceBlending предоставляет следующие члены.

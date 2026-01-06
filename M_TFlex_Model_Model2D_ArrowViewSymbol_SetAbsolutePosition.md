@@ -15,21 +15,8 @@ public void SetAbsolutePosition(
 	Parameter angle
 )
 ```
-```vb
-Public Sub SetAbsolutePosition ( 
-	x As Parameter,
-	y As Parameter,
-	angle As Parameter
-)
-```
-```cpp
-public:
-void SetAbsolutePosition(
-	Parameter^ x, 
-	Parameter^ y, 
-	Parameter^ angle
-)
-```
+
+
 
 
 #### Параметры

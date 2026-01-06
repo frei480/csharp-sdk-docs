@@ -8,18 +8,8 @@
 ```csharp
 public Parameter RoundingPrecision { get; set; }
 ```
-```vb
-Public Property RoundingPrecision As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ RoundingPrecision {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

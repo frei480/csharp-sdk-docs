@@ -11,13 +11,8 @@
 ```csharp
 public string Minimum
 ```
-```vb
-Public Minimum As String
-```
-```cpp
-public:
-String^ Minimum
-```
+
+
 
 
 #### Значение поля

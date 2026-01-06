@@ -14,20 +14,8 @@
 [ObsoleteAttribute("This property is deprecated and has been superseded by ExtendedFaceType")]
 public bool ExtendedFace { get; set; }
 ```
-```vb
-<ObsoleteAttribute("This property is deprecated and has been superseded by ExtendedFaceType")>
-Public Property ExtendedFace As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is deprecated and has been superseded by ExtendedFaceType")]
-property bool ExtendedFace {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

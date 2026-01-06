@@ -13,17 +13,8 @@ public MeshPoint FindFar(
 	Axis axis
 )
 ```
-```vb
-Public Function FindFar ( 
-	axis As Axis
-) As MeshPoint
-```
-```cpp
-public:
-MeshPoint^ FindFar(
-	Axis^ axis
-)
-```
+
+
 
 
 #### Параметры

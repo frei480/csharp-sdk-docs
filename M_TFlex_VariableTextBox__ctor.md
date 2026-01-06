@@ -11,13 +11,8 @@
 ```csharp
 public VariableTextBox()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-VariableTextBox()
-```
+
+
 
 
 #### Ссылки

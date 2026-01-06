@@ -11,16 +11,8 @@
 ```csharp
 public Picture3DFixingType Fixing { get; }
 ```
-```vb
-Public ReadOnly Property Fixing As Picture3DFixingType
-	Get
-```
-```cpp
-public:
-property Picture3DFixingType Fixing {
-	Picture3DFixingType get ();
-}
-```
+
+
 
 
 #### Значение свойства

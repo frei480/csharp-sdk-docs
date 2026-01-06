@@ -14,19 +14,8 @@ public void DrawMarker(
 	Point point
 )
 ```
-```vb
-Public Sub DrawMarker ( 
-	type As MarkerType,
-	point As Point
-)
-```
-```cpp
-public:
-void DrawMarker(
-	MarkerType type, 
-	Point point
-)
-```
+
+
 
 
 #### Параметры

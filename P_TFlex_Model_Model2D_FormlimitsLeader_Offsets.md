@@ -11,18 +11,8 @@
 ```csharp
 public double[] Offsets { get; set; }
 ```
-```vb
-Public Property Offsets As Double()
-	Get
-	Set
-```
-```cpp
-public:
-property array<double>^ Offsets {
-	array<double>^ get ();
-	void set (array<double>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

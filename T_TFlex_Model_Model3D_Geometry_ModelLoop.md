@@ -14,15 +14,8 @@
 public sealed class ModelLoop : ModelTopol, 
 	BaseLoop
 ```
-```vb
-Public NotInheritable Class ModelLoop
-	Inherits ModelTopol
-	Implements BaseLoop
-```
-```cpp
-public ref class ModelLoop sealed : public ModelTopol, 
-	BaseLoop
-```
+
+
 
 
 Тип ModelLoop предоставляет следующие члены.

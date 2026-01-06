@@ -14,19 +14,8 @@ public FileLink(
 	IntPtr internalID
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	internalID As IntPtr
-)
-```
-```cpp
-public:
-FileLink(
-	Document^ document, 
-	IntPtr internalID
-)
-```
+
+
 
 
 #### Параметры

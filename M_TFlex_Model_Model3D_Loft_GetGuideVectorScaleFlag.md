@@ -13,17 +13,8 @@ public bool GetGuideVectorScaleFlag(
 	int guideIndex
 )
 ```
-```vb
-Public Function GetGuideVectorScaleFlag ( 
-	guideIndex As Integer
-) As Boolean
-```
-```cpp
-public:
-bool GetGuideVectorScaleFlag(
-	int guideIndex
-)
-```
+
+
 
 
 #### Параметры

@@ -11,19 +11,8 @@ public void SetColumnGroup(
 	bool isGroup
 )
 ```
-```vb
-Public Sub SetColumnGroup ( 
-	column As Integer,
-	isGroup As Boolean
-)
-```
-```cpp
-public:
-void SetColumnGroup(
-	int column, 
-	bool isGroup
-)
-```
+
+
 
 
 #### Параметры

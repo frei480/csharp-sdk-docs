@@ -11,18 +11,8 @@
 ```csharp
 public bool Archive { get; set; }
 ```
-```vb
-Public Property Archive As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Archive {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

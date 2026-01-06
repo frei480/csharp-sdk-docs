@@ -11,13 +11,8 @@
 ```csharp
 public Node3D Create()
 ```
-```vb
-Public Function Create As Node3D
-```
-```cpp
-public:
-Node3D^ Create()
-```
+
+
 
 
 #### Возвращаемое значение

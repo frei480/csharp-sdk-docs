@@ -8,13 +8,8 @@
 ```csharp
 public MaterialOperation AddMaterialOperation()
 ```
-```vb
-Public Function AddMaterialOperation As MaterialOperation
-```
-```cpp
-public:
-MaterialOperation^ AddMaterialOperation()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,17 +13,8 @@ public bool ProcessCommand(
 	int command
 )
 ```
-```vb
-Public Function ProcessCommand ( 
-	command As Integer
-) As Boolean
-```
-```cpp
-public:
-bool ProcessCommand(
-	int command
-)
-```
+
+
 
 
 #### Параметры

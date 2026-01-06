@@ -11,13 +11,8 @@
 ```csharp
 public int precision
 ```
-```vb
-Public precision As Integer
-```
-```cpp
-public:
-int precision
-```
+
+
 
 
 #### Значение поля

@@ -8,16 +8,8 @@
 ```csharp
 public bool IsCommandRunning { get; }
 ```
-```vb
-Public ReadOnly Property IsCommandRunning As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsCommandRunning {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

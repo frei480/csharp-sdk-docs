@@ -13,17 +13,8 @@ public void AddSecondElement(
 	Object3D obj
 )
 ```
-```vb
-Public Sub AddSecondElement ( 
-	obj As Object3D
-)
-```
-```cpp
-public:
-void AddSecondElement(
-	Object3D^ obj
-)
-```
+
+
 
 
 #### Параметры

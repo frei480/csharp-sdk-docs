@@ -13,13 +13,8 @@
 ```csharp
 public class DeletingObjectParentsEventArgs : ObjectEventArgs
 ```
-```vb
-Public Class DeletingObjectParentsEventArgs
-	Inherits ObjectEventArgs
-```
-```cpp
-public ref class DeletingObjectParentsEventArgs : public ObjectEventArgs
-```
+
+
 
 
 Тип DeletingObjectParentsEventArgs предоставляет следующие члены.

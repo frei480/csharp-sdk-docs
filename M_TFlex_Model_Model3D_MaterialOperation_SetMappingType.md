@@ -14,19 +14,8 @@ public void SetMappingType(
 	MaterialOperationMappingType value
 )
 ```
-```vb
-Public Sub SetMappingType ( 
-	Group As Integer,
-	value As MaterialOperationMappingType
-)
-```
-```cpp
-public:
-void SetMappingType(
-	int Group, 
-	MaterialOperationMappingType value
-)
-```
+
+
 
 
 #### Параметры

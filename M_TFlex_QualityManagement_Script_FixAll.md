@@ -14,19 +14,8 @@ public FixScriptResult FixAll(
 	RunScriptResult runResult
 )
 ```
-```vb
-Public Function FixAll ( 
-	document As Document,
-	runResult As RunScriptResult
-) As FixScriptResult
-```
-```cpp
-public:
-FixScriptResult^ FixAll(
-	Document^ document, 
-	RunScriptResult^ runResult
-)
-```
+
+
 
 
 #### Параметры

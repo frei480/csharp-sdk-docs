@@ -8,18 +8,8 @@
 ```csharp
 public bool VisibleLength { get; set; }
 ```
-```vb
-Public Property VisibleLength As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool VisibleLength {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

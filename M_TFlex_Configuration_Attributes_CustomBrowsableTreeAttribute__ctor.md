@@ -13,17 +13,8 @@ public CustomBrowsableTreeAttribute(
 	bool browsable
 )
 ```
-```vb
-Public Sub New ( 
-	browsable As Boolean
-)
-```
-```cpp
-public:
-CustomBrowsableTreeAttribute(
-	bool browsable
-)
-```
+
+
 
 
 #### Параметры

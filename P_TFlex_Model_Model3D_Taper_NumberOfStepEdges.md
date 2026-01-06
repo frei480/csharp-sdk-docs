@@ -11,16 +11,8 @@
 ```csharp
 public int NumberOfStepEdges { get; }
 ```
-```vb
-Public ReadOnly Property NumberOfStepEdges As Integer
-	Get
-```
-```cpp
-public:
-property int NumberOfStepEdges {
-	int get ();
-}
-```
+
+
 
 
 #### Возвращаемое значение

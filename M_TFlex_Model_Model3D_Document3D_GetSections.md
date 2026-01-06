@@ -13,19 +13,8 @@ public static ICollection<Section3D> GetSections(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetSections ( 
-	document As Document
-) As ICollection(Of Section3D)
-```
-```cpp
-public:
-[ExtensionAttribute]
-static ICollection<Section3D^>^ GetSections(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

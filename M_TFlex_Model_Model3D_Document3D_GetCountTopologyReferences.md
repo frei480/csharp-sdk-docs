@@ -16,21 +16,8 @@ public static ulong GetCountTopologyReferences(
 	this Document document
 )
 ```
-```vb
-<ExtensionAttribute>
-<ObsoleteAttribute("This property is obsolete. Please use 'GetTopologyReferenceCount' method.")>
-Public Shared Function GetCountTopologyReferences ( 
-	document As Document
-) As ULong
-```
-```cpp
-public:
-[ExtensionAttribute]
-[ObsoleteAttribute(L"This property is obsolete. Please use 'GetTopologyReferenceCount' method.")]
-static unsigned long long GetCountTopologyReferences(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

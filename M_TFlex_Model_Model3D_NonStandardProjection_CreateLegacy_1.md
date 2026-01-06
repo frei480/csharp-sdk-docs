@@ -11,19 +11,8 @@ public static NonStandardProjection CreateLegacy(
 	Page page
 )
 ```
-```vb
-Public Shared Function CreateLegacy ( 
-	document As Document,
-	page As Page
-) As NonStandardProjection
-```
-```cpp
-public:
-static NonStandardProjection^ CreateLegacy(
-	Document^ document, 
-	Page^ page
-)
-```
+
+
 
 
 #### Параметры

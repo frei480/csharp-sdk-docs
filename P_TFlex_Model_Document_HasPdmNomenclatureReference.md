@@ -11,16 +11,8 @@
 ```csharp
 public bool HasPdmNomenclatureReference { get; }
 ```
-```vb
-Public ReadOnly Property HasPdmNomenclatureReference As Boolean
-	Get
-```
-```cpp
-public:
-property bool HasPdmNomenclatureReference {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

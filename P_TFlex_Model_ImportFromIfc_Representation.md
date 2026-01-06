@@ -11,18 +11,8 @@
 ```csharp
 public ImportIfcRepresentation Representation { get; set; }
 ```
-```vb
-Public Property Representation As ImportIfcRepresentation
-	Get
-	Set
-```
-```cpp
-public:
-property ImportIfcRepresentation Representation {
-	ImportIfcRepresentation get ();
-	void set (ImportIfcRepresentation value);
-}
-```
+
+
 
 
 #### Значение свойства

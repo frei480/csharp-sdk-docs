@@ -11,16 +11,8 @@
 ```csharp
 public string FriendlyName { get; }
 ```
-```vb
-Public ReadOnly Property FriendlyName As String
-	Get
-```
-```cpp
-public:
-property String^ FriendlyName {
-	String^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

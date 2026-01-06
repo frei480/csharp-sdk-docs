@@ -8,18 +8,8 @@
 ```csharp
 public bool OverlayAnnotation3D { get; set; }
 ```
-```vb
-Public Property OverlayAnnotation3D As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool OverlayAnnotation3D {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

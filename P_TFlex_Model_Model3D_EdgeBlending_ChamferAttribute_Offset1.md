@@ -11,16 +11,8 @@
 ```csharp
 public Parameter Offset1 { get; }
 ```
-```vb
-Public ReadOnly Property Offset1 As Parameter
-	Get
-```
-```cpp
-public:
-property Parameter^ Offset1 {
-	Parameter^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

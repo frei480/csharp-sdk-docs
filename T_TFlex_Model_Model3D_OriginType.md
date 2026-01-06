@@ -11,12 +11,8 @@
 ```csharp
 public enum OriginType
 ```
-```vb
-Public Enumeration OriginType
-```
-```cpp
-public enum class OriginType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

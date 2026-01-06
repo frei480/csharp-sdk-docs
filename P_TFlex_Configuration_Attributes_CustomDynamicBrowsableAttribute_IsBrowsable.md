@@ -8,18 +8,8 @@
 ```csharp
 public Func<Object, bool> IsBrowsable { get; set; }
 ```
-```vb
-Public Property IsBrowsable As Func(Of Object, Boolean)
-	Get
-	Set
-```
-```cpp
-public:
-property Func<Object^, bool>^ IsBrowsable {
-	Func<Object^, bool>^ get ();
-	void set (Func<Object^, bool>^ value);
-}
-```
+
+
 
 
 #### Значение свойства

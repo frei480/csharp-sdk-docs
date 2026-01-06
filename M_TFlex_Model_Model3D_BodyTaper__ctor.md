@@ -13,17 +13,8 @@ public BodyTaper(
 	Document doc
 )
 ```
-```vb
-Public Sub New ( 
-	doc As Document
-)
-```
-```cpp
-public:
-BodyTaper(
-	Document^ doc
-)
-```
+
+
 
 
 #### Параметры

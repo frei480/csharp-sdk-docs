@@ -19,29 +19,8 @@ public IntersectCurveData IntersectCurve(
 	BaseSurface surface
 )
 ```
-```vb
-Public Function IntersectCurve ( 
-	owninterval As BaseInterval,
-	curve As BaseCurve,
-	interval As BaseInterval,
-	havebox As Boolean,
-	box As BaseBox,
-	havesurface As Boolean,
-	surface As BaseSurface
-) As IntersectCurveData
-```
-```cpp
-public:
-IntersectCurveData^ IntersectCurve(
-	BaseInterval^ owninterval, 
-	BaseCurve^ curve, 
-	BaseInterval^ interval, 
-	bool havebox, 
-	BaseBox^ box, 
-	bool havesurface, 
-	BaseSurface^ surface
-)
-```
+
+
 
 
 #### Параметры

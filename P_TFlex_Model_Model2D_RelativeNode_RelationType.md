@@ -11,16 +11,8 @@
 ```csharp
 public RelativeType RelationType { get; }
 ```
-```vb
-Public ReadOnly Property RelationType As RelativeType
-	Get
-```
-```cpp
-public:
-property RelativeType RelationType {
-	RelativeType get ();
-}
-```
+
+
 
 
 #### Значение свойства

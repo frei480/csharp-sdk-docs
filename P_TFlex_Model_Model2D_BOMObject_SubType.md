@@ -11,16 +11,8 @@
 ```csharp
 public override TextType SubType { get; }
 ```
-```vb
-Public Overrides ReadOnly Property SubType As TextType
-	Get
-```
-```cpp
-public:
-virtual property TextType SubType {
-	TextType get () override;
-}
-```
+
+
 
 
 #### Значение свойства

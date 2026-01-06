@@ -11,13 +11,8 @@
 ```csharp
 public static void HideEmbeddedHelp()
 ```
-```vb
-Public Shared Sub HideEmbeddedHelp
-```
-```cpp
-public:
-static void HideEmbeddedHelp()
-```
+
+
 
 
 #### Ссылки

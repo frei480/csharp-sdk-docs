@@ -11,13 +11,8 @@
 ```csharp
 public GetActionInfoContext()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-GetActionInfoContext()
-```
+
+
 
 
 #### Ссылки

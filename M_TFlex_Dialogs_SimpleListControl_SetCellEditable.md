@@ -12,21 +12,8 @@ public void SetCellEditable(
 	bool? editable
 )
 ```
-```vb
-Public Sub SetCellEditable ( 
-	row As Integer,
-	column As Integer,
-	editable As Boolean?
-)
-```
-```cpp
-public:
-void SetCellEditable(
-	int row, 
-	int column, 
-	Nullable<bool> editable
-)
-```
+
+
 
 
 #### Параметры

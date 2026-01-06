@@ -11,13 +11,8 @@
 ```csharp
 public double GetPendingLinearSize()
 ```
-```vb
-Public Function GetPendingLinearSize As Double
-```
-```cpp
-public:
-double GetPendingLinearSize()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -13,13 +13,8 @@
 ```csharp
 public class LineText : Text
 ```
-```vb
-Public Class LineText
-	Inherits Text
-```
-```cpp
-public ref class LineText : public Text
-```
+
+
 
 
 Тип LineText предоставляет следующие члены.

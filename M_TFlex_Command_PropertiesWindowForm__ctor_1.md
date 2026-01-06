@@ -13,17 +13,8 @@ public PropertiesWindowForm(
 	Control control
 )
 ```
-```vb
-Public Sub New ( 
-	control As Control
-)
-```
-```cpp
-public:
-PropertiesWindowForm(
-	Control^ control
-)
-```
+
+
 
 
 #### Параметры

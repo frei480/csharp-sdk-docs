@@ -11,18 +11,8 @@
 ```csharp
 public bool Fixed { get; set; }
 ```
-```vb
-Public Property Fixed As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool Fixed {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

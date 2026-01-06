@@ -11,18 +11,8 @@
 ```csharp
 public SweepThickness ThicknessType { get; set; }
 ```
-```vb
-Public Property ThicknessType As SweepThickness
-	Get
-	Set
-```
-```cpp
-public:
-property SweepThickness ThicknessType {
-	SweepThickness get ();
-	void set (SweepThickness value);
-}
-```
+
+
 
 
 #### Значение свойства

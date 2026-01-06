@@ -11,18 +11,8 @@
 ```csharp
 public virtual double MajorRadius { get; set; }
 ```
-```vb
-Public Overridable Property MajorRadius As Double
-	Get
-	Set
-```
-```cpp
-public:
-virtual property double MajorRadius {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

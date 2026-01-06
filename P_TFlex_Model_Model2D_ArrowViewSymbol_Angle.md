@@ -11,16 +11,8 @@
 ```csharp
 public double Angle { get; }
 ```
-```vb
-Public ReadOnly Property Angle As Double
-	Get
-```
-```cpp
-public:
-property double Angle {
-	double get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public LinearSizeManipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-LinearSizeManipulator()
-```
+
+
 
 
 #### Ссылки

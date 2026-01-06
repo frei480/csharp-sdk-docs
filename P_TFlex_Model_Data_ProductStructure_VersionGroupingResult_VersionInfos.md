@@ -8,16 +8,8 @@
 ```csharp
 public ReadOnlyCollection<VersionSummaryInfo> VersionInfos { get; }
 ```
-```vb
-Public ReadOnly Property VersionInfos As ReadOnlyCollection(Of VersionSummaryInfo)
-	Get
-```
-```cpp
-public:
-property ReadOnlyCollection<VersionSummaryInfo^>^ VersionInfos {
-	ReadOnlyCollection<VersionSummaryInfo^>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

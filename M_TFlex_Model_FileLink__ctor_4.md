@@ -15,21 +15,8 @@ public FileLink(
 	bool embedded
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document,
-	filePath As String,
-	embedded As Boolean
-)
-```
-```cpp
-public:
-FileLink(
-	Document^ document, 
-	String^ filePath, 
-	bool embedded
-)
-```
+
+
 
 
 #### Параметры

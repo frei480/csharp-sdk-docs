@@ -16,14 +16,8 @@
 [ObsoleteAttribute("This class is obsolete, use ImportFrom3DCommon.")]
 public class ImportFromSTEP
 ```
-```vb
-<ObsoleteAttribute("This class is obsolete, use ImportFrom3DCommon.")>
-Public Class ImportFromSTEP
-```
-```cpp
-[ObsoleteAttribute(L"This class is obsolete, use ImportFrom3DCommon.")]
-public ref class ImportFromSTEP
-```
+
+
 
 
 Тип ImportFromSTEP предоставляет следующие члены.

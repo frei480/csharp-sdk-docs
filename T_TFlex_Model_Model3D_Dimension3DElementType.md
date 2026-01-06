@@ -11,12 +11,8 @@
 ```csharp
 public enum Dimension3DElementType
 ```
-```vb
-Public Enumeration Dimension3DElementType
-```
-```cpp
-public enum class Dimension3DElementType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

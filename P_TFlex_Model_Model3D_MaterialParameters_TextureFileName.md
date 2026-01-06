@@ -11,18 +11,8 @@
 ```csharp
 public string TextureFileName { get; set; }
 ```
-```vb
-Public Property TextureFileName As String
-	Get
-	Set
-```
-```cpp
-public:
-property String^ TextureFileName {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -8,13 +8,8 @@
 ```csharp
 public Filter Copy()
 ```
-```vb
-Public Function Copy As Filter
-```
-```cpp
-public:
-Filter^ Copy()
-```
+
+
 
 
 #### Возвращаемое значение

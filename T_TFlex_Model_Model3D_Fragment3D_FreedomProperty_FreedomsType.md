@@ -12,14 +12,8 @@
 [FlagsAttribute]
 public enum FreedomsType
 ```
-```vb
-<FlagsAttribute>
-Public Enumeration FreedomsType
-```
-```cpp
-[FlagsAttribute]
-public enum class FreedomsType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

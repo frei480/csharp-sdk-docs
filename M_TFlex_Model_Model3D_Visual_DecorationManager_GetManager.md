@@ -13,17 +13,8 @@ public static DecorationManager GetManager(
 	Document owner
 )
 ```
-```vb
-Public Shared Function GetManager ( 
-	owner As Document
-) As DecorationManager
-```
-```cpp
-public:
-static DecorationManager^ GetManager(
-	Document^ owner
-)
-```
+
+
 
 
 #### Параметры

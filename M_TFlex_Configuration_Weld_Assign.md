@@ -10,17 +10,8 @@ public void Assign(
 	Weld source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As Weld
-)
-```
-```cpp
-public:
-void Assign(
-	Weld^ source
-)
-```
+
+
 
 
 #### Параметры

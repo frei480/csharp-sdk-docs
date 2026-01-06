@@ -8,18 +8,8 @@
 ```csharp
 public bool CreateAdaptiveGeometricReferences { get; set; }
 ```
-```vb
-Public Property CreateAdaptiveGeometricReferences As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool CreateAdaptiveGeometricReferences {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

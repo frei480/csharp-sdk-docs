@@ -14,19 +14,8 @@ public virtual void SetReference(
 	ModelObjectReference reference
 )
 ```
-```vb
-Public Overridable Sub SetReference ( 
-	id As Integer,
-	reference As ModelObjectReference
-)
-```
-```cpp
-public:
-virtual void SetReference(
-	int id, 
-	ModelObjectReference^ reference
-)
-```
+
+
 
 
 #### Параметры

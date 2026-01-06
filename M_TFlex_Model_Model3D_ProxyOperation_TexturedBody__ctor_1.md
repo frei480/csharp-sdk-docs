@@ -16,23 +16,8 @@ public TexturedBody(
 	double complexity
 )
 ```
-```vb
-Public Sub New ( 
-	solid As BaseBody,
-	material As Material,
-	color As Integer,
-	complexity As Double
-)
-```
-```cpp
-public:
-TexturedBody(
-	BaseBody^ solid, 
-	Material^ material, 
-	int color, 
-	double complexity
-)
-```
+
+
 
 
 #### Параметры

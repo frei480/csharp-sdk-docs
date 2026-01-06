@@ -11,18 +11,8 @@
 ```csharp
 public Parameter Ratio { get; set; }
 ```
-```vb
-Public Property Ratio As Parameter
-	Get
-	Set
-```
-```cpp
-public:
-property Parameter^ Ratio {
-	Parameter^ get ();
-	void set (Parameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

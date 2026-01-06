@@ -13,17 +13,8 @@ protected CircularDimensionBase(
 	Document Doc
 )
 ```
-```vb
-Protected Sub New ( 
-	Doc As Document
-)
-```
-```cpp
-protected:
-CircularDimensionBase(
-	Document^ Doc
-)
-```
+
+
 
 
 #### Параметры

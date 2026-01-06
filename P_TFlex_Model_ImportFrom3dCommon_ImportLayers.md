@@ -11,18 +11,8 @@
 ```csharp
 public bool ImportLayers { get; set; }
 ```
-```vb
-Public Property ImportLayers As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ImportLayers {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

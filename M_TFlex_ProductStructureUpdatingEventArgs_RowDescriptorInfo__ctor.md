@@ -11,13 +11,8 @@
 ```csharp
 public RowDescriptorInfo()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-RowDescriptorInfo()
-```
+
+
 
 
 #### Ссылки

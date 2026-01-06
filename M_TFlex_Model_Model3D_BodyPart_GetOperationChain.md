@@ -13,17 +13,8 @@ public Operation GetOperationChain(
 	uint index
 )
 ```
-```vb
-Public Function GetOperationChain ( 
-	index As UInteger
-) As Operation
-```
-```cpp
-public:
-Operation^ GetOperationChain(
-	unsigned int index
-)
-```
+
+
 
 
 #### Параметры

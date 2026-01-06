@@ -11,16 +11,8 @@
 ```csharp
 public virtual BaseLoops Loops { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Loops As BaseLoops
-	Get
-```
-```cpp
-public:
-virtual property BaseLoops^ Loops {
-	BaseLoops^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

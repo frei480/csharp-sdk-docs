@@ -10,17 +10,8 @@ public bool CanLoadFromFragment(
 	Fragment fragment
 )
 ```
-```vb
-Public Function CanLoadFromFragment ( 
-	fragment As Fragment
-) As Boolean
-```
-```cpp
-public:
-bool CanLoadFromFragment(
-	Fragment^ fragment
-)
-```
+
+
 
 
 #### Параметры

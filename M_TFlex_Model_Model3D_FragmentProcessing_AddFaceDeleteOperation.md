@@ -8,13 +8,8 @@
 ```csharp
 public FaceDelete AddFaceDeleteOperation()
 ```
-```vb
-Public Function AddFaceDeleteOperation As FaceDelete
-```
-```cpp
-public:
-FaceDelete^ AddFaceDeleteOperation()
-```
+
+
 
 
 #### Возвращаемое значение

@@ -8,16 +8,8 @@
 ```csharp
 public ProxyObject2D ConstObject { get; }
 ```
-```vb
-Public ReadOnly Property ConstObject As ProxyObject2D
-	Get
-```
-```cpp
-public:
-property ProxyObject2D^ ConstObject {
-	ProxyObject2D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

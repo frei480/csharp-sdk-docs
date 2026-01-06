@@ -11,13 +11,8 @@
 ```csharp
 public class CommandState : FilterOwner
 ```
-```vb
-Public Class CommandState
-	Inherits FilterOwner
-```
-```cpp
-public ref class CommandState : public FilterOwner
-```
+
+
 
 
 Тип CommandState предоставляет следующие члены.

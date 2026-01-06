@@ -13,13 +13,8 @@
 ```csharp
 public class NodePoint : LoftPointOnContour
 ```
-```vb
-Public Class NodePoint
-	Inherits LoftPointOnContour
-```
-```cpp
-public ref class NodePoint : public LoftPointOnContour
-```
+
+
 
 
 Тип LoftNodePoint предоставляет следующие члены.

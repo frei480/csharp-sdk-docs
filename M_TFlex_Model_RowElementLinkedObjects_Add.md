@@ -10,17 +10,8 @@ public void Add(
 	ModelObject modelObject
 )
 ```
-```vb
-Public Sub Add ( 
-	modelObject As ModelObject
-)
-```
-```cpp
-public:
-void Add(
-	ModelObject^ modelObject
-)
-```
+
+
 
 
 #### Параметры

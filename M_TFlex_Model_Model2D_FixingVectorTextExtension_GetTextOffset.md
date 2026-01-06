@@ -11,21 +11,8 @@ public static Point GetTextOffset(
 	int iText
 )
 ```
-```vb
-<ExtensionAttribute>
-Public Shared Function GetTextOffset ( 
-	__unnamed000 As FixingVector,
-	iText As Integer
-) As Point
-```
-```cpp
-public:
-[ExtensionAttribute]
-static Point GetTextOffset(
-	FixingVector^ __unnamed000, 
-	int iText
-)
-```
+
+
 
 
 #### Параметры

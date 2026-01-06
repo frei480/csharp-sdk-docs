@@ -13,13 +13,8 @@
 ```csharp
 public class GeometrySelectionFilter : CustomFilter
 ```
-```vb
-Public Class GeometrySelectionFilter
-	Inherits CustomFilter
-```
-```cpp
-public ref class GeometrySelectionFilter : public CustomFilter
-```
+
+
 
 
 Тип GeometrySelectionFilter предоставляет следующие члены.

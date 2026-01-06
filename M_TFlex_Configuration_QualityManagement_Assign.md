@@ -10,17 +10,8 @@ public void Assign(
 	QualityManagement source
 )
 ```
-```vb
-Public Sub Assign ( 
-	source As QualityManagement
-)
-```
-```cpp
-public:
-void Assign(
-	QualityManagement^ source
-)
-```
+
+
 
 
 #### Параметры

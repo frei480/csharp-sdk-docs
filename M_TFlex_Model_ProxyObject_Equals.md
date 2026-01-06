@@ -13,17 +13,8 @@ protected virtual bool Equals(
 	ProxyObject object
 )
 ```
-```vb
-Protected Overridable Function Equals ( 
-	object As ProxyObject
-) As Boolean
-```
-```cpp
-protected:
-virtual bool Equals(
-	ProxyObject^ object
-)
-```
+
+
 
 
 #### Параметры

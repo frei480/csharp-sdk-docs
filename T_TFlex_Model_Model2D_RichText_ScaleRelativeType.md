@@ -11,12 +11,8 @@
 ```csharp
 public enum ScaleRelativeType
 ```
-```vb
-Public Enumeration ScaleRelativeType
-```
-```cpp
-public enum class ScaleRelativeType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

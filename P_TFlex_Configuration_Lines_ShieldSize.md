@@ -8,18 +8,8 @@
 ```csharp
 public DoubleParameter ShieldSize { get; set; }
 ```
-```vb
-Public Property ShieldSize As DoubleParameter
-	Get
-	Set
-```
-```cpp
-public:
-property DoubleParameter^ ShieldSize {
-	DoubleParameter^ get ();
-	void set (DoubleParameter^ value);
-}
-```
+
+
 
 
 #### Значение свойства

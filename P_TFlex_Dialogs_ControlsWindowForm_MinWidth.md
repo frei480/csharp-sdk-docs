@@ -11,18 +11,8 @@
 ```csharp
 public double MinWidth { get; set; }
 ```
-```vb
-Public Property MinWidth As Double
-	Get
-	Set
-```
-```cpp
-public:
-property double MinWidth {
-	double get ();
-	void set (double value);
-}
-```
+
+
 
 
 #### Значение свойства

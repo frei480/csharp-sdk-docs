@@ -13,17 +13,8 @@ public ProxyOperation(
 	IntPtr OwnerHandle
 )
 ```
-```vb
-Public Sub New ( 
-	OwnerHandle As IntPtr
-)
-```
-```cpp
-public:
-ProxyOperation(
-	IntPtr OwnerHandle
-)
-```
+
+
 
 
 #### Параметры

@@ -11,19 +11,8 @@ public static double FindPositionOnPath(
 	ModelWire wire
 )
 ```
-```vb
-Public Shared Function FindPositionOnPath ( 
-	rayStart As FloatVector,
-	wire As ModelWire
-) As Double
-```
-```cpp
-public:
-static double FindPositionOnPath(
-	FloatVector rayStart, 
-	ModelWire^ wire
-)
-```
+
+
 
 
 #### Параметры

@@ -8,12 +8,8 @@
 ```csharp
 public interface IFilterOwner
 ```
-```vb
-Public Interface IFilterOwner
-```
-```cpp
-public interface class IFilterOwner
-```
+
+
 
 
 #### Ссылки

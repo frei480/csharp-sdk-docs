@@ -11,16 +11,8 @@
 ```csharp
 public virtual BaseFaces Faces { get; }
 ```
-```vb
-Public Overridable ReadOnly Property Faces As BaseFaces
-	Get
-```
-```cpp
-public:
-virtual property BaseFaces^ Faces {
-	BaseFaces^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

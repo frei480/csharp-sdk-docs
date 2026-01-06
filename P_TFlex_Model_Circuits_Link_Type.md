@@ -11,18 +11,8 @@
 ```csharp
 public virtual string Type { get; set; }
 ```
-```vb
-Public Overridable Property Type As String
-	Get
-	Set
-```
-```cpp
-public:
-virtual property String^ Type {
-	String^ get ();
-	void set (String^ value);
-}
-```
+
+
 
 
 #### Значение свойства

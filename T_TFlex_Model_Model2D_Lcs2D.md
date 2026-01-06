@@ -13,13 +13,8 @@
 ```csharp
 public class Lcs2D : FixingVector
 ```
-```vb
-Public Class Lcs2D
-	Inherits FixingVector
-```
-```cpp
-public ref class Lcs2D : public FixingVector
-```
+
+
 
 
 Тип Lcs2D предоставляет следующие члены.

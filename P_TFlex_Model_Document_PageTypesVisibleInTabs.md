@@ -11,16 +11,8 @@
 ```csharp
 public ICollection<PageType> PageTypesVisibleInTabs { get; }
 ```
-```vb
-Public ReadOnly Property PageTypesVisibleInTabs As ICollection(Of PageType)
-	Get
-```
-```cpp
-public:
-property ICollection<PageType>^ PageTypesVisibleInTabs {
-	ICollection<PageType>^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

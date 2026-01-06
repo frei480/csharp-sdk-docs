@@ -11,13 +11,8 @@
 ```csharp
 public void ShowLastErrorDialog()
 ```
-```vb
-Public Sub ShowLastErrorDialog
-```
-```cpp
-public:
-void ShowLastErrorDialog()
-```
+
+
 
 
 #### Ссылки

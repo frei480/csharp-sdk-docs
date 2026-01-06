@@ -13,17 +13,8 @@ public void Add(
 	ModelFace item
 )
 ```
-```vb
-Public Sub Add ( 
-	item As ModelFace
-)
-```
-```cpp
-public:
-void Add(
-	ModelFace^ item
-)
-```
+
+
 
 
 #### Параметры

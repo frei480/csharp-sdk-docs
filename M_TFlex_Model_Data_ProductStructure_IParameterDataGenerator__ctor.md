@@ -11,13 +11,8 @@
 ```csharp
 public IParameterDataGenerator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-IParameterDataGenerator()
-```
+
+
 
 
 #### Ссылки

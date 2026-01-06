@@ -14,19 +14,8 @@ public Interval(
 	double end
 )
 ```
-```vb
-Public Sub New ( 
-	start As Double,
-	end As Double
-)
-```
-```cpp
-public:
-Interval(
-	double start, 
-	double end
-)
-```
+
+
 
 
 #### Параметры

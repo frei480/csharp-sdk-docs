@@ -11,18 +11,8 @@
 ```csharp
 public bool StringsAlignment { get; set; }
 ```
-```vb
-Public Property StringsAlignment As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool StringsAlignment {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public void SetSourceOper(
 	Operation oper
 )
 ```
-```vb
-Public Sub SetSourceOper ( 
-	oper As Operation
-)
-```
-```cpp
-public:
-void SetSourceOper(
-	Operation^ oper
-)
-```
+
+
 
 
 #### Параметры

@@ -13,17 +13,8 @@ public bool Explode(
 	FragmentExplodeOptions explodeOptions
 )
 ```
-```vb
-Public Function Explode ( 
-	explodeOptions As FragmentExplodeOptions
-) As Boolean
-```
-```cpp
-public:
-bool Explode(
-	FragmentExplodeOptions^ explodeOptions
-)
-```
+
+
 
 
 #### Параметры

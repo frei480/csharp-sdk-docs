@@ -13,12 +13,8 @@
 ```csharp
 public sealed class Frequency
 ```
-```vb
-Public NotInheritable Class Frequency
-```
-```cpp
-public ref class Frequency sealed
-```
+
+
 
 
 Тип StandardUnitsFrequency предоставляет следующие члены.

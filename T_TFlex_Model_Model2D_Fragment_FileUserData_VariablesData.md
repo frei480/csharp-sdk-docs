@@ -13,12 +13,8 @@
 ```csharp
 public class VariablesData
 ```
-```vb
-Public Class VariablesData
-```
-```cpp
-public ref class VariablesData
-```
+
+
 
 
 Тип FragmentFileUserDataVariablesData предоставляет следующие члены.

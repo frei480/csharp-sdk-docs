@@ -14,19 +14,8 @@ public void SetPosition(
 	Parameter pParam
 )
 ```
-```vb
-Public Sub SetPosition ( 
-	indCoord As Coordinate,
-	pParam As Parameter
-)
-```
-```cpp
-public:
-void SetPosition(
-	Coordinate indCoord, 
-	Parameter^ pParam
-)
-```
+
+
 
 
 #### Параметры

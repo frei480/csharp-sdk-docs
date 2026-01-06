@@ -13,13 +13,8 @@
 ```csharp
 public class SewGenerator : BodyGenerator
 ```
-```vb
-Public Class SewGenerator
-	Inherits BodyGenerator
-```
-```cpp
-public ref class SewGenerator : public BodyGenerator
-```
+
+
 
 
 Тип SewGenerator предоставляет следующие члены.

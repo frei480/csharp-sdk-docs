@@ -12,18 +12,8 @@
 [ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetPipes' extension method. Defined in 'Document3D' class.")]
 public ObjectContainer Pipes { get; }
 ```
-```vb
-<ObsoleteAttribute("This property is obsolete and will be removed. Please use 'GetPipes' extension method. Defined in 'Document3D' class.")>
-Public ReadOnly Property Pipes As ObjectContainer
-	Get
-```
-```cpp
-public:
-[ObsoleteAttribute(L"This property is obsolete and will be removed. Please use 'GetPipes' extension method. Defined in 'Document3D' class.")]
-property ObjectContainer^ Pipes {
-	ObjectContainer^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

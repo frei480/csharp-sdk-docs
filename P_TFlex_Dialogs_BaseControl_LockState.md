@@ -11,18 +11,8 @@
 ```csharp
 public CheckState LockState { get; set; }
 ```
-```vb
-Public Property LockState As CheckState
-	Get
-	Set
-```
-```cpp
-public:
-property CheckState LockState {
-	CheckState get ();
-	void set (CheckState value);
-}
-```
+
+
 
 
 #### Значение свойства

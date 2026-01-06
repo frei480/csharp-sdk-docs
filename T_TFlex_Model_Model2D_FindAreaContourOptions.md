@@ -13,12 +13,8 @@
 ```csharp
 public class FindAreaContourOptions
 ```
-```vb
-Public Class FindAreaContourOptions
-```
-```cpp
-public ref class FindAreaContourOptions
-```
+
+
 
 
 Тип FindAreaContourOptions предоставляет следующие члены.

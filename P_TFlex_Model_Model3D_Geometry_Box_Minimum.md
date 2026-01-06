@@ -11,18 +11,8 @@
 ```csharp
 public override BasePoint3D Minimum { get; set; }
 ```
-```vb
-Public Overrides Property Minimum As BasePoint3D
-	Get
-	Set
-```
-```cpp
-public:
-virtual property BasePoint3D^ Minimum {
-	BasePoint3D^ get () override;
-	void set (BasePoint3D^ value) override;
-}
-```
+
+
 
 
 #### Значение свойства

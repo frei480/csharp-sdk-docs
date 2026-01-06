@@ -11,16 +11,8 @@
 ```csharp
 public Rectangle DrawingLimits { get; }
 ```
-```vb
-Public ReadOnly Property DrawingLimits As Rectangle
-	Get
-```
-```cpp
-public:
-property Rectangle DrawingLimits {
-	Rectangle get ();
-}
-```
+
+
 
 
 #### Значение свойства

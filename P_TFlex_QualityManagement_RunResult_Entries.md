@@ -11,16 +11,8 @@
 ```csharp
 public RunResultEntriesCollection Entries { get; }
 ```
-```vb
-Public ReadOnly Property Entries As RunResultEntriesCollection
-	Get
-```
-```cpp
-public:
-property RunResultEntriesCollection^ Entries {
-	RunResultEntriesCollection^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

@@ -11,13 +11,8 @@
 ```csharp
 public PositionTablePosition Table
 ```
-```vb
-Public Table As PositionTablePosition
-```
-```cpp
-public:
-PositionTablePosition Table
-```
+
+
 
 
 #### Значение поля

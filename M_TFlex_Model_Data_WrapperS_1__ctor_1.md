@@ -13,17 +13,8 @@ public WrapperS(
 	WrapperS<TObj> wrap
 )
 ```
-```vb
-Public Sub New ( 
-	wrap As WrapperS(Of TObj)
-)
-```
-```cpp
-public:
-WrapperS(
-	WrapperS<TObj>^ wrap
-)
-```
+
+
 
 
 #### Параметры

@@ -11,13 +11,8 @@
 ```csharp
 protected Contour m_Contour
 ```
-```vb
-Protected m_Contour As Contour
-```
-```cpp
-protected:
-Contour^ m_Contour
-```
+
+
 
 
 #### Значение поля

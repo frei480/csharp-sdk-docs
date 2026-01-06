@@ -10,18 +10,8 @@ public ScenarioAction this[
 	uint index
 ] { get; }
 ```
-```vb
-Public ReadOnly Default Property Item ( 
-	index As UInteger
-) As ScenarioAction
-	Get
-```
-```cpp
-public:
-property ScenarioAction^ default[unsigned int index] {
-	ScenarioAction^ get (unsigned int index);
-}
-```
+
+
 
 
 #### Параметры

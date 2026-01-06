@@ -14,25 +14,8 @@ public static Data CreateCircle(
 	double radius
 )
 ```
-```vb
-Public Shared Function CreateCircle ( 
-	id As ULong,
-	name As String,
-	page As Page,
-	origin As Point,
-	radius As Double
-) As Data
-```
-```cpp
-public:
-static Data^ CreateCircle(
-	unsigned long long id, 
-	String^ name, 
-	Page^ page, 
-	Point origin, 
-	double radius
-)
-```
+
+
 
 
 #### Параметры

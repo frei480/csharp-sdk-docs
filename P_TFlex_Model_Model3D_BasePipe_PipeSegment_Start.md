@@ -11,16 +11,8 @@
 ```csharp
 public BasePoint3D Start { get; }
 ```
-```vb
-Public ReadOnly Property Start As BasePoint3D
-	Get
-```
-```cpp
-public:
-property BasePoint3D^ Start {
-	BasePoint3D^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

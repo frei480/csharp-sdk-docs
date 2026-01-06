@@ -13,13 +13,8 @@
 ```csharp
 public class ReferenceDatabase : Database
 ```
-```vb
-Public Class ReferenceDatabase
-	Inherits Database
-```
-```cpp
-public ref class ReferenceDatabase : public Database
-```
+
+
 
 
 Тип ReferenceDatabase предоставляет следующие члены.

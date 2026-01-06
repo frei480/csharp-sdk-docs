@@ -11,13 +11,8 @@
 ```csharp
 public ToggleControl()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-ToggleControl()
-```
+
+
 
 
 #### Ссылки

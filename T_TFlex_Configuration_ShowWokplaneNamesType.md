@@ -8,12 +8,8 @@
 ```csharp
 public enum ShowWokplaneNamesType
 ```
-```vb
-Public Enumeration ShowWokplaneNamesType
-```
-```cpp
-public enum class ShowWokplaneNamesType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

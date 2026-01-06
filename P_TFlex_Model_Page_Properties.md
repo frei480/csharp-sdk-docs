@@ -8,16 +8,8 @@
 ```csharp
 public PageProperties Properties { get; }
 ```
-```vb
-Public ReadOnly Property Properties As PageProperties
-	Get
-```
-```cpp
-public:
-property PageProperties^ Properties {
-	PageProperties^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

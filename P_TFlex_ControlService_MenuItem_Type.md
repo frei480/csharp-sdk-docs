@@ -8,18 +8,8 @@
 ```csharp
 public MenuItemMenuType Type { get; set; }
 ```
-```vb
-Public Property Type As MenuItemMenuType
-	Get
-	Set
-```
-```cpp
-public:
-property MenuItemMenuType Type {
-	MenuItemMenuType get ();
-	void set (MenuItemMenuType value);
-}
-```
+
+
 
 
 #### Значение свойства

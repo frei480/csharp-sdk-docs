@@ -11,18 +11,8 @@
 ```csharp
 public bool ImportHideBodies { get; set; }
 ```
-```vb
-Public Property ImportHideBodies As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-property bool ImportHideBodies {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

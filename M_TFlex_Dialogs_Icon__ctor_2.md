@@ -13,17 +13,8 @@ public Icon(
 	string id
 )
 ```
-```vb
-Public Sub New ( 
-	id As String
-)
-```
-```cpp
-public:
-Icon(
-	String^ id
-)
-```
+
+
 
 
 #### Параметры

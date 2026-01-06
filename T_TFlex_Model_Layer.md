@@ -13,13 +13,8 @@
 ```csharp
 public class Layer : ModelObject
 ```
-```vb
-Public Class Layer
-	Inherits ModelObject
-```
-```cpp
-public ref class Layer : public ModelObject
-```
+
+
 
 
 Тип Layer предоставляет следующие члены.

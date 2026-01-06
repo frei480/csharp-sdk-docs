@@ -13,17 +13,8 @@ public FunctionConstruction(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-FunctionConstruction(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

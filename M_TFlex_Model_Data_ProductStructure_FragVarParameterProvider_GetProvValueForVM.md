@@ -8,13 +8,8 @@
 ```csharp
 public override string GetProvValueForVM()
 ```
-```vb
-Public Overrides Function GetProvValueForVM As String
-```
-```cpp
-public:
-virtual String^ GetProvValueForVM() override
-```
+
+
 
 
 #### Возвращаемое значение

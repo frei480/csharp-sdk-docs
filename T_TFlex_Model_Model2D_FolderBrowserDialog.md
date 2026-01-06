@@ -13,12 +13,8 @@
 ```csharp
 public class FolderBrowserDialog
 ```
-```vb
-Public Class FolderBrowserDialog
-```
-```cpp
-public ref class FolderBrowserDialog
-```
+
+
 
 
 Тип FolderBrowserDialog предоставляет следующие члены.

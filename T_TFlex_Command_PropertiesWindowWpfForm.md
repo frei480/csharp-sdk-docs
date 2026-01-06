@@ -14,15 +14,8 @@
 public class PropertiesWindowWpfForm : PropertiesWindowFormBase, 
 	IDisposable
 ```
-```vb
-Public Class PropertiesWindowWpfForm
-	Inherits PropertiesWindowFormBase
-	Implements IDisposable
-```
-```cpp
-public ref class PropertiesWindowWpfForm : public PropertiesWindowFormBase, 
-	IDisposable
-```
+
+
 
 
 Тип PropertiesWindowWpfForm предоставляет следующие члены.

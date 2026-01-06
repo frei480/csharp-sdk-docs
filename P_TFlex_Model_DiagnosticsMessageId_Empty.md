@@ -8,16 +8,8 @@
 ```csharp
 public static DiagnosticsMessageId Empty { get; }
 ```
-```vb
-Public Shared ReadOnly Property Empty As DiagnosticsMessageId
-	Get
-```
-```cpp
-public:
-static property DiagnosticsMessageId^ Empty {
-	DiagnosticsMessageId^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

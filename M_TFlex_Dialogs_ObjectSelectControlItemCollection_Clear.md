@@ -13,17 +13,8 @@ public void Clear(
 	bool keepDotsObject
 )
 ```
-```vb
-Public Sub Clear ( 
-	keepDotsObject As Boolean
-)
-```
-```cpp
-public:
-void Clear(
-	bool keepDotsObject
-)
-```
+
+
 
 
 #### Параметры

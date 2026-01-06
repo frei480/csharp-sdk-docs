@@ -8,13 +8,8 @@
 ```csharp
 public List<int> NormalIndices
 ```
-```vb
-Public NormalIndices As List(Of Integer)
-```
-```cpp
-public:
-List<int>^ NormalIndices
-```
+
+
 
 
 #### Значение поля

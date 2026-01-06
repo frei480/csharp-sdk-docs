@@ -11,16 +11,8 @@
 ```csharp
 public ExportToSTL ExportToSTL { get; }
 ```
-```vb
-Public ReadOnly Property ExportToSTL As ExportToSTL
-	Get
-```
-```cpp
-public:
-property ExportToSTL^ ExportToSTL {
-	ExportToSTL^ get ();
-}
-```
+
+
 
 
 #### Значение свойства

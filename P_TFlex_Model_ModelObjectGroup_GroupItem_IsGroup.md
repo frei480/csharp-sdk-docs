@@ -11,16 +11,8 @@
 ```csharp
 public bool IsGroup { get; }
 ```
-```vb
-Public ReadOnly Property IsGroup As Boolean
-	Get
-```
-```cpp
-public:
-property bool IsGroup {
-	bool get ();
-}
-```
+
+
 
 
 #### Значение свойства

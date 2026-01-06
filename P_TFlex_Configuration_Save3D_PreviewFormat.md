@@ -8,18 +8,8 @@
 ```csharp
 public PrevieFormatType PreviewFormat { get; set; }
 ```
-```vb
-Public Property PreviewFormat As PrevieFormatType
-	Get
-	Set
-```
-```cpp
-public:
-property PrevieFormatType PreviewFormat {
-	PrevieFormatType get ();
-	void set (PrevieFormatType value);
-}
-```
+
+
 
 
 #### Значение свойства

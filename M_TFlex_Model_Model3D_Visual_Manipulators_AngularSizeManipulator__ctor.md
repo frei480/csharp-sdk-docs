@@ -11,13 +11,8 @@
 ```csharp
 public AngularSizeManipulator()
 ```
-```vb
-Public Sub New
-```
-```cpp
-public:
-AngularSizeManipulator()
-```
+
+
 
 
 #### Ссылки

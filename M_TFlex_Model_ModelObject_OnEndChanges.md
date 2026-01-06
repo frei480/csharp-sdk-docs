@@ -8,13 +8,8 @@
 ```csharp
 protected virtual void OnEndChanges()
 ```
-```vb
-Protected Overridable Sub OnEndChanges
-```
-```cpp
-protected:
-virtual void OnEndChanges()
-```
+
+
 
 
 #### Ссылки

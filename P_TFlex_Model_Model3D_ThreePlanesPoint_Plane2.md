@@ -11,18 +11,8 @@
 ```csharp
 public virtual ModelPlane Plane2 { get; set; }
 ```
-```vb
-Public Overridable Property Plane2 As ModelPlane
-	Get
-	Set
-```
-```cpp
-public:
-virtual property ModelPlane^ Plane2 {
-	ModelPlane^ get ();
-	void set (ModelPlane^ value);
-}
-```
+
+
 
 
 #### Значение свойства

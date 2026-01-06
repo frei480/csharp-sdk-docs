@@ -10,17 +10,8 @@ public void RemovePin(
 	int index
 )
 ```
-```vb
-Public Sub RemovePin ( 
-	index As Integer
-)
-```
-```cpp
-public:
-void RemovePin(
-	int index
-)
-```
+
+
 
 
 #### Параметры

@@ -11,12 +11,8 @@
 ```csharp
 public enum DatabaseType
 ```
-```vb
-Public Enumeration DatabaseType
-```
-```cpp
-public enum class DatabaseType
-```
+
+
 
 
 | Имя члена | Значение | Описание |

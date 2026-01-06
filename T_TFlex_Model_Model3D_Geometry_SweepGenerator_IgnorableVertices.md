@@ -14,14 +14,8 @@
 public class IgnorableVertices : IEnumerator, 
 	IEnumerable
 ```
-```vb
-Public Class IgnorableVertices
-	Implements IEnumerator, IEnumerable
-```
-```cpp
-public ref class IgnorableVertices : IEnumerator, 
-	IEnumerable
-```
+
+
 
 
 Тип SweepGeneratorIgnorableVertices предоставляет следующие члены.

@@ -13,12 +13,8 @@
 ```csharp
 public sealed class ModelConfigurations
 ```
-```vb
-Public NotInheritable Class ModelConfigurations
-```
-```cpp
-public ref class ModelConfigurations sealed
-```
+
+
 
 
 Тип ModelConfigurations предоставляет следующие члены.

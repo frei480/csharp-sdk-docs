@@ -12,21 +12,8 @@ public override void AddDesignation(
 	DesignationType type
 )
 ```
-```vb
-Public Overrides Sub AddDesignation ( 
-	expression As String,
-	delimiter As String,
-	type As DesignationType
-)
-```
-```cpp
-public:
-virtual void AddDesignation(
-	String^ expression, 
-	String^ delimiter, 
-	DesignationType type
-) override
-```
+
+
 
 
 #### Параметры

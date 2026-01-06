@@ -14,19 +14,8 @@ public static void WaitForSystemCommandFinished(
 	SystemCommandFinishedCallback commandFinishedCallback
 )
 ```
-```vb
-Public Shared Sub WaitForSystemCommandFinished ( 
-	commandName As String,
-	commandFinishedCallback As SystemCommandFinishedCallback
-)
-```
-```cpp
-public:
-static void WaitForSystemCommandFinished(
-	String^ commandName, 
-	SystemCommandFinishedCallback^ commandFinishedCallback
-)
-```
+
+
 
 
 #### Параметры

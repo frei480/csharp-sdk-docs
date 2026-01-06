@@ -14,19 +14,8 @@ public Picture(
 	string filePath
 )
 ```
-```vb
-Public Sub New ( 
-	Doc As Document,
-	filePath As String
-)
-```
-```cpp
-public:
-Picture(
-	Document^ Doc, 
-	String^ filePath
-)
-```
+
+
 
 
 #### Параметры

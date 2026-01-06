@@ -14,14 +14,8 @@
 public sealed class LibraryConfiguration : IEnumerable<Library>, 
 	IDisposable
 ```
-```vb
-Public NotInheritable Class LibraryConfiguration
-	Implements IEnumerable(Of Library), IDisposable
-```
-```cpp
-public ref class LibraryConfiguration sealed : IEnumerable<Library^>, 
-	IDisposable
-```
+
+
 
 
 Тип LibraryConfiguration предоставляет следующие члены.

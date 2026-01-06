@@ -11,18 +11,8 @@
 ```csharp
 public DatabaseUpdateMode UpdateMode { get; set; }
 ```
-```vb
-Public Property UpdateMode As DatabaseUpdateMode
-	Get
-	Set
-```
-```cpp
-public:
-property DatabaseUpdateMode UpdateMode {
-	DatabaseUpdateMode get ();
-	void set (DatabaseUpdateMode value);
-}
-```
+
+
 
 
 #### Значение свойства

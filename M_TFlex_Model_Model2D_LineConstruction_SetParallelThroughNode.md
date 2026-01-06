@@ -14,19 +14,8 @@ public void SetParallelThroughNode(
 	Node srcNode
 )
 ```
-```vb
-Public Sub SetParallelThroughNode ( 
-	srcLine As Construction,
-	srcNode As Node
-)
-```
-```cpp
-public:
-void SetParallelThroughNode(
-	Construction^ srcLine, 
-	Node^ srcNode
-)
-```
+
+
 
 
 #### Параметры

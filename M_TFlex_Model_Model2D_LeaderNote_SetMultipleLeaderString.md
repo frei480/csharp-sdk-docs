@@ -14,19 +14,8 @@ public void SetMultipleLeaderString(
 	string text
 )
 ```
-```vb
-Public Sub SetMultipleLeaderString ( 
-	index As Integer,
-	text As String
-)
-```
-```cpp
-public:
-void SetMultipleLeaderString(
-	int index, 
-	String^ text
-)
-```
+
+
 
 
 #### Параметры

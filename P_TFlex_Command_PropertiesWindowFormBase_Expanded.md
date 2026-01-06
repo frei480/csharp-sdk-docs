@@ -11,18 +11,8 @@
 ```csharp
 public virtual bool Expanded { get; set; }
 ```
-```vb
-Public Overridable Property Expanded As Boolean
-	Get
-	Set
-```
-```cpp
-public:
-virtual property bool Expanded {
-	bool get ();
-	void set (bool value);
-}
-```
+
+
 
 
 #### Значение свойства

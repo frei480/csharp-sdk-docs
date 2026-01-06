@@ -8,18 +8,8 @@
 ```csharp
 public float z { get; set; }
 ```
-```vb
-Public Property z As Single
-	Get
-	Set
-```
-```cpp
-public:
-property float z {
-	float get ();
-	void set (float value);
-}
-```
+
+
 
 
 #### Значение свойства

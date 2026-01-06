@@ -11,18 +11,8 @@
 ```csharp
 public ParametricPathParametricType ParamType { get; set; }
 ```
-```vb
-Public Property ParamType As ParametricPathParametricType
-	Get
-	Set
-```
-```cpp
-public:
-property ParametricPathParametricType ParamType {
-	ParametricPathParametricType get ();
-	void set (ParametricPathParametricType value);
-}
-```
+
+
 
 
 #### Значение свойства

@@ -13,17 +13,8 @@ public PointsLCS(
 	Document document
 )
 ```
-```vb
-Public Sub New ( 
-	document As Document
-)
-```
-```cpp
-public:
-PointsLCS(
-	Document^ document
-)
-```
+
+
 
 
 #### Параметры

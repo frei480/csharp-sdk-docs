@@ -13,17 +13,8 @@ protected void AddSolid(
 	ProxyOperationTexturedBody solid
 )
 ```
-```vb
-Protected Sub AddSolid ( 
-	solid As ProxyOperationTexturedBody
-)
-```
-```cpp
-protected:
-void AddSolid(
-	ProxyOperationTexturedBody^ solid
-)
-```
+
+
 
 
 #### Параметры

@@ -11,19 +11,8 @@ public void CopyValuesFrom(
 	CopyValuesMode mode
 )
 ```
-```vb
-Public Sub CopyValuesFrom ( 
-	sourceElement As Element,
-	mode As CopyValuesMode
-)
-```
-```cpp
-public:
-void CopyValuesFrom(
-	Element^ sourceElement, 
-	CopyValuesMode mode
-)
-```
+
+
 
 
 #### Параметры

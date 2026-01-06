@@ -10,17 +10,8 @@ public void ClearFlag(
 	ParameterDescriptorParamDescFlags flag
 )
 ```
-```vb
-Public Sub ClearFlag ( 
-	flag As ParameterDescriptorParamDescFlags
-)
-```
-```cpp
-public:
-void ClearFlag(
-	ParameterDescriptorParamDescFlags flag
-)
-```
+
+
 
 
 #### Параметры
