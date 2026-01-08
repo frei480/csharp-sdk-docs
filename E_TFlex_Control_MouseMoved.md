@@ -1,4 +1,4 @@
-﻿
+
 
 Руководство по T-FLEX CAD Open API
 
@@ -11,8 +11,16 @@
 ```csharp
 public event ControlMouseMoved MouseMoved
 ```
-
-
+```vb
+Public Event MouseMoved As ControlMouseMoved
+```
+```cpp
+public:
+ event ControlMouseMoved^ MouseMoved {
+	void add (ControlMouseMoved^ value);
+	void remove (ControlMouseMoved^ value);
+}
+```
 
 
 #### Значение
